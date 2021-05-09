@@ -8,9 +8,11 @@ sources:
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
   # podcasts
-  - href: https://feed.syntax.fm/rss
-  - href: https://feeds.megaphone.fm/darknetdiaries
-  - href: https://feeds.simplecast.com/rtP3BduI
-  - href: https://www.codingblocks.net/podcast-feed.xml
+  # handling failed enrich items results in JavaScript heap out of memory
+  # see: https://github.com/jyclam/github-pages-rss-feed/runs/2538246388?check_suite_focus=true
+  # - href: https://feed.syntax.fm/rss
+  # - href: https://feeds.megaphone.fm/darknetdiaries
+  # - href: https://feeds.simplecast.com/rtP3BduI
+  # - href: https://www.codingblocks.net/podcast-feed.xml
 
 
