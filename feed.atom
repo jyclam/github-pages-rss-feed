@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-09T08:27:52.354Z</id>
+    <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T08:27:52.354Z</updated>
+    <updated>2021-05-09T09:36:38.018Z</updated>
     <generator>osmosfeed 1.5.0</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
+    <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[There’s no such thing as a tree (phylogenetically)]]></title>
+        <id>https://news.ycombinator.com/item?id=27094382</id>
+        <link href="https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/"/>
+        <updated>2021-05-09T08:54:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/
+Comments URL: https://news.ycombinator.com/item?id=27094382
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How gravity is a double copy of other forces]]></title>
+        <id>https://news.ycombinator.com/item?id=27094179</id>
+        <link href="https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/"/>
+        <updated>2021-05-09T08:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/
+Comments URL: https://news.ycombinator.com/item?id=27094179
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>cjg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When people ate people, a strange disease emerged (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27094176</id>
+        <link href="https://www.npr.org/sections/thesalt/2016/09/06/482952588/when-people-ate-people-a-strange-disease-emerged"/>
+        <updated>2021-05-09T08:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/thesalt/2016/09/06/482952588/when-people-ate-people-a-strange-disease-emerged
+Comments URL: https://news.ycombinator.com/item?id=27094176
+Points: 22
+# Comments: 9]]></summary>
+        <author>
+            <name>ekianjo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No, pi is wrong: The Tau Manifesto]]></title>
         <id>https://news.ycombinator.com/item?id=27093866</id>
@@ -12,8 +52,8 @@
         <updated>2021-05-09T07:02:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tauday.com/tau-manifesto
 Comments URL: https://news.ycombinator.com/item?id=27093866
-Points: 9
-# Comments: 1]]></summary>
+Points: 35
+# Comments: 11]]></summary>
         <author>
             <name>adunk</name>
         </author>
@@ -25,8 +65,8 @@ Points: 9
         <updated>2021-05-09T06:43:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hackaday.com/2021/01/17/leds-from-dubai-the-royal-lights-you-cant-buy/
 Comments URL: https://news.ycombinator.com/item?id=27093793
-Points: 35
-# Comments: 8]]></summary>
+Points: 60
+# Comments: 13]]></summary>
         <author>
             <name>emptybits</name>
         </author>
@@ -42,27 +82,14 @@ Points: 35
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Happens to Stocks and Cryptocurrencies When the Fed Stops Raining Money?]]></title>
-        <id>https://news.ycombinator.com/item?id=27093509</id>
-        <link href="https://www.wsj.com/articles/what-happens-to-stocks-and-cryptocurrencies-when-the-fed-stops-raining-money-11620446420"/>
-        <updated>2021-05-09T05:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/what-happens-to-stocks-and-cryptocurrencies-when-the-fed-stops-raining-money-11620446420
-Comments URL: https://news.ycombinator.com/item?id=27093509
-Points: 108
-# Comments: 133]]></summary>
-        <author>
-            <name>fortran77</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Founding vs. Inheriting]]></title>
         <id>https://news.ycombinator.com/item?id=27093278</id>
         <link href="https://1729.com/founding-vs-inheriting/"/>
         <updated>2021-05-09T04:38:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://1729.com/founding-vs-inheriting/
 Comments URL: https://news.ycombinator.com/item?id=27093278
-Points: 16
-# Comments: 6]]></summary>
+Points: 22
+# Comments: 14]]></summary>
         <author>
             <name>bdr</name>
         </author>
@@ -74,8 +101,8 @@ Points: 16
         <updated>2021-05-09T04:12:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://backreaction.blogspot.com/2021/05/what-did-einstein-mean-by-spooky-action.html
 Comments URL: https://news.ycombinator.com/item?id=27093168
-Points: 45
-# Comments: 9]]></summary>
+Points: 73
+# Comments: 24]]></summary>
         <author>
             <name>nsoonhui</name>
         </author>
@@ -87,8 +114,8 @@ Points: 45
         <updated>2021-05-09T02:51:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://upvotetracker.com/
 Comments URL: https://news.ycombinator.com/item?id=27092770
-Points: 66
-# Comments: 11]]></summary>
+Points: 76
+# Comments: 14]]></summary>
         <author>
             <name>janmo</name>
         </author>
@@ -100,8 +127,8 @@ Points: 66
         <updated>2021-05-09T01:55:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/pa7jxb/archivists-are-trying-to-make-sure-a-pirate-bay-of-science-never-goes-down
 Comments URL: https://news.ycombinator.com/item?id=27092466
-Points: 153
-# Comments: 32]]></summary>
+Points: 171
+# Comments: 35]]></summary>
         <author>
             <name>andyxor</name>
         </author>
@@ -113,8 +140,8 @@ Points: 153
         <updated>2021-05-09T01:21:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lethain.com/durably-excellent-teams/
 Comments URL: https://news.ycombinator.com/item?id=27092326
-Points: 14
-# Comments: 0]]></summary>
+Points: 24
+# Comments: 5]]></summary>
         <author>
             <name>bsilvereagle</name>
         </author>
@@ -126,8 +153,8 @@ Points: 14
         <updated>2021-05-08T22:43:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://crawl.develz.org/
 Comments URL: https://news.ycombinator.com/item?id=27091464
-Points: 169
-# Comments: 60]]></summary>
+Points: 178
+# Comments: 65]]></summary>
         <author>
             <name>1_player</name>
         </author>
@@ -139,8 +166,8 @@ Points: 169
         <updated>2021-05-08T22:02:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/joouha/euporie
 Comments URL: https://news.ycombinator.com/item?id=27091167
-Points: 108
-# Comments: 19]]></summary>
+Points: 114
+# Comments: 21]]></summary>
         <author>
             <name>joouha</name>
         </author>
@@ -152,8 +179,8 @@ Points: 108
         <updated>2021-05-08T21:19:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html
 Comments URL: https://news.ycombinator.com/item?id=27090795
-Points: 103
-# Comments: 15]]></summary>
+Points: 110
+# Comments: 22]]></summary>
         <author>
             <name>belzebalex</name>
         </author>
@@ -178,8 +205,8 @@ Points: 1
         <updated>2021-05-08T20:43:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:113/
 Comments URL: https://news.ycombinator.com/item?id=27090509
-Points: 67
-# Comments: 21]]></summary>
+Points: 71
+# Comments: 27]]></summary>
         <author>
             <name>ArkanExplorer</name>
         </author>
@@ -191,8 +218,8 @@ Points: 67
         <updated>2021-05-08T18:55:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sciencedaily.com/releases/2021/04/210421200133.htm
 Comments URL: https://news.ycombinator.com/item?id=27089770
-Points: 160
-# Comments: 62]]></summary>
+Points: 170
+# Comments: 72]]></summary>
         <author>
             <name>prostoalex</name>
         </author>
@@ -204,8 +231,8 @@ Points: 160
         <updated>2021-05-08T18:28:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/
 Comments URL: https://news.ycombinator.com/item?id=27089576
-Points: 81
-# Comments: 34]]></summary>
+Points: 82
+# Comments: 36]]></summary>
         <author>
             <name>yogthos</name>
         </author>
@@ -217,49 +244,23 @@ Points: 81
         <updated>2021-05-08T17:38:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/lucidrains/x-transformers
 Comments URL: https://news.ycombinator.com/item?id=27089208
-Points: 84
+Points: 87
 # Comments: 25]]></summary>
         <author>
             <name>blackcat201</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ABI Mistakes]]></title>
-        <id>https://news.ycombinator.com/item?id=27089184</id>
-        <link href="https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html"/>
-        <updated>2021-05-08T17:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html
-Comments URL: https://news.ycombinator.com/item?id=27089184
-Points: 157
-# Comments: 122]]></summary>
+        <title type="html"><![CDATA[No evidence for widespread island extinctions after Pleistocene hominin arrival]]></title>
+        <id>https://news.ycombinator.com/item?id=27087745</id>
+        <link href="https://www.pnas.org/content/118/20/e2023005118"/>
+        <updated>2021-05-08T15:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pnas.org/content/118/20/e2023005118
+Comments URL: https://news.ycombinator.com/item?id=27087745
+Points: 4
+# Comments: 0]]></summary>
         <author>
-            <name>yagizdegirmenci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If I fits I sits: illusory contour susceptibility in domestic cats]]></title>
-        <id>https://news.ycombinator.com/item?id=27087469</id>
-        <link href="https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258"/>
-        <updated>2021-05-08T14:35:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258
-Comments URL: https://news.ycombinator.com/item?id=27087469
-Points: 288
-# Comments: 77]]></summary>
-        <author>
-            <name>Hooke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome extension recommends local businesses while shopping on Amazon or eBay]]></title>
-        <id>https://news.ycombinator.com/item?id=27086582</id>
-        <link href="https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj"/>
-        <updated>2021-05-08T12:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj
-Comments URL: https://news.ycombinator.com/item?id=27086582
-Points: 494
-# Comments: 258]]></summary>
-        <author>
-            <name>thunderbong</name>
+            <name>Vigier</name>
         </author>
     </entry>
     <entry>
