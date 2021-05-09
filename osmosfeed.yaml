@@ -1,4 +1,4 @@
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://jyclam.github.io/jyclam/cache.json
 sources:
   - href: https://hnrss.org/frontpage
   - href: https://hacks.mozilla.org/feed/
@@ -7,3 +7,10 @@ sources:
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
+  # podcasts
+  - href: https://feed.syntax.fm/rss
+  - href: https://feeds.megaphone.fm/darknetdiaries
+  - href: https://feeds.simplecast.com/rtP3BduI
+  - href: https://www.codingblocks.net/podcast-feed.xml
+
+
