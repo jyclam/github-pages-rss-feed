@@ -6,6 +6,15 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27111253",
+          "author": "azalemeth",
+          "description": "Article URL: https://www.redhat.com/sysadmin/5-useless-linux-commands\nComments URL: https://news.ycombinator.com/item?id=27111253\nPoints: 9\n# Comments: 17",
+          "link": "https://www.redhat.com/sysadmin/5-useless-linux-commands",
+          "publishedOn": "2021-05-10T21:45:27.000Z",
+          "wordCount": 1922,
+          "title": "(Red Hat's) 5 useless Linux commands"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27110829",
           "author": "jstreebin",
           "description": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=27110829\nPoints: 1\n# Comments: 0",
@@ -17,43 +26,61 @@
         {
           "id": "https://news.ycombinator.com/item?id=27110713",
           "author": "rokkk",
-          "description": "Article URL: https://www.globalbankingandfinance.com/the-real-impact-of-psd2/\nComments URL: https://news.ycombinator.com/item?id=27110713\nPoints: 23\n# Comments: 8",
+          "description": "Article URL: https://www.globalbankingandfinance.com/the-real-impact-of-psd2/\nComments URL: https://news.ycombinator.com/item?id=27110713\nPoints: 74\n# Comments: 76",
           "link": "https://www.globalbankingandfinance.com/the-real-impact-of-psd2/",
           "publishedOn": "2021-05-10T20:45:30.000Z",
           "wordCount": 2261,
-          "title": "Payments down 20% in my SaaS after EU introduced PSD2 this year"
+          "title": "Payments down 20% in my SaaS after EU introduced PSD2"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27110669",
           "author": "bzbarsky",
-          "description": "Article URL: https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/\nComments URL: https://news.ycombinator.com/item?id=27110669\nPoints: 4\n# Comments: 0",
+          "description": "Article URL: https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/\nComments URL: https://news.ycombinator.com/item?id=27110669\nPoints: 36\n# Comments: 7",
           "link": "https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/",
           "publishedOn": "2021-05-10T20:42:39.000Z",
           "wordCount": 1743,
           "title": "Beware of Applications Misusing Root Stores"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27110493",
+          "author": "cbg0",
+          "description": "Article URL: https://www.kedglobal.com/newsView/ked202105090002\nComments URL: https://news.ycombinator.com/item?id=27110493\nPoints: 69\n# Comments: 42",
+          "link": "https://www.kedglobal.com/newsView/ked202105090002",
+          "publishedOn": "2021-05-10T20:26:13.000Z",
+          "wordCount": 1131,
+          "title": "Samsung to jump into laptop processor market with Exynos chip in H2"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27110263",
+          "author": "tobr",
+          "description": "Article URL: https://www.nightnight.xn--q9jyb4c/details\nComments URL: https://news.ycombinator.com/item?id=27110263\nPoints: 23\n# Comments: 12",
+          "link": "https://www.nightnight.xn--q9jyb4c/details",
+          "publishedOn": "2021-05-10T20:04:43.000Z",
+          "wordCount": 773,
+          "title": "Why should I put my website to sleep?"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27109960",
           "author": "cedricd",
-          "description": "Article URL: https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/\nComments URL: https://news.ycombinator.com/item?id=27109960\nPoints: 48\n# Comments: 20",
+          "description": "Article URL: https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/\nComments URL: https://news.ycombinator.com/item?id=27109960\nPoints: 106\n# Comments: 37",
           "link": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
           "publishedOn": "2021-05-10T19:39:15.000Z",
-          "wordCount": 2172,
+          "wordCount": 2227,
           "title": "Using PostgreSQL as a Data Warehouse"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27109571",
-          "author": "theafh",
-          "description": "Article URL: https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html\nComments URL: https://news.ycombinator.com/item?id=27109571\nPoints: 13\n# Comments: 10",
-          "link": "https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html",
-          "publishedOn": "2021-05-10T19:05:51.000Z",
-          "wordCount": 2261,
-          "title": "Accelerating Eye Movement Research for Wellness and Accessibility"
+          "id": "https://news.ycombinator.com/item?id=27109142",
+          "author": "elsewhen",
+          "description": "Article URL: https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html\nComments URL: https://news.ycombinator.com/item?id=27109142\nPoints: 200\n# Comments: 237",
+          "link": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
+          "publishedOn": "2021-05-10T18:22:45.000Z",
+          "wordCount": 1280,
+          "title": "Game developers sharing their salaries on Twitter"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27109082",
           "author": "0xmarcin",
-          "description": "Article URL: https://github.com/marcin-chwedczuk/shellcode-tshirt\nComments URL: https://news.ycombinator.com/item?id=27109082\nPoints: 39\n# Comments: 5",
+          "description": "Article URL: https://github.com/marcin-chwedczuk/shellcode-tshirt\nComments URL: https://news.ycombinator.com/item?id=27109082\nPoints: 52\n# Comments: 8",
           "link": "https://github.com/marcin-chwedczuk/shellcode-tshirt",
           "publishedOn": "2021-05-10T18:17:54.000Z",
           "wordCount": 1791,
@@ -62,16 +89,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27108593",
           "author": "praseodym",
-          "description": "Article URL: https://github.com/microsoft/ebpf-for-windows\nComments URL: https://news.ycombinator.com/item?id=27108593\nPoints: 127\n# Comments: 72",
+          "description": "Article URL: https://github.com/microsoft/ebpf-for-windows\nComments URL: https://news.ycombinator.com/item?id=27108593\nPoints: 144\n# Comments: 88",
           "link": "https://github.com/microsoft/ebpf-for-windows",
           "publishedOn": "2021-05-10T17:35:15.000Z",
-          "wordCount": 1339,
+          "wordCount": 1333,
           "title": "eBPF on Windows"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27108348",
           "author": "vermaden",
-          "description": "Article URL: https://www.dragonflybsd.org/release60/\nComments URL: https://news.ycombinator.com/item?id=27108348\nPoints: 139\n# Comments: 43",
+          "description": "Article URL: https://www.dragonflybsd.org/release60/\nComments URL: https://news.ycombinator.com/item?id=27108348\nPoints: 152\n# Comments: 49",
           "link": "https://www.dragonflybsd.org/release60/",
           "publishedOn": "2021-05-10T17:15:13.000Z",
           "wordCount": 1736,
@@ -80,25 +107,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27108109",
           "author": "hacka22",
-          "description": "Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df\nComments URL: https://news.ycombinator.com/item?id=27108109\nPoints: 157\n# Comments: 81",
+          "description": "Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df\nComments URL: https://news.ycombinator.com/item?id=27108109\nPoints: 173\n# Comments: 92",
           "link": "https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df",
           "publishedOn": "2021-05-10T16:55:24.000Z",
           "wordCount": 5211,
           "title": "Tracking One Year of Malicious Tor Exit Relay Activities (Part II)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27107984",
-          "author": "mlke",
-          "description": "Article URL: https://www.zdnet.com/article/servicenow-acquires-lightstep-aims-to-leverage-observability-across-enterprises/\nComments URL: https://news.ycombinator.com/item?id=27107984\nPoints: 61\n# Comments: 62",
-          "link": "https://www.zdnet.com/article/servicenow-acquires-lightstep-aims-to-leverage-observability-across-enterprises/",
-          "publishedOn": "2021-05-10T16:45:03.000Z",
-          "wordCount": 1504,
-          "title": "ServiceNow acquires Lightstep"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27107820",
           "author": "dehrmann",
-          "description": "Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech\nComments URL: https://news.ycombinator.com/item?id=27107820\nPoints: 88\n# Comments: 60",
+          "description": "Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech\nComments URL: https://news.ycombinator.com/item?id=27107820\nPoints: 106\n# Comments: 85",
           "link": "https://www.wired.co.uk/article/corporate-memphis-design-tech",
           "publishedOn": "2021-05-10T16:29:09.000Z",
           "wordCount": 1596,
@@ -107,34 +125,34 @@
         {
           "id": "https://news.ycombinator.com/item?id=27107647",
           "author": "tosh",
-          "description": "Article URL: https://pyre-check.org\nComments URL: https://news.ycombinator.com/item?id=27107647\nPoints: 86\n# Comments: 48",
+          "description": "Article URL: https://pyre-check.org\nComments URL: https://news.ycombinator.com/item?id=27107647\nPoints: 94\n# Comments: 61",
           "link": "https://pyre-check.org",
           "publishedOn": "2021-05-10T16:14:44.000Z",
           "wordCount": 139,
           "title": "Pyre: A performant type-checker for Python 3"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27107522",
-          "author": "graderjs",
-          "description": "Article URL: https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf\nComments URL: https://news.ycombinator.com/item?id=27107522\nPoints: 213\n# Comments: 116",
-          "link": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf",
-          "publishedOn": "2021-05-10T16:02:34.000Z",
-          "wordCount": 430427,
-          "title": "Advanced Situational Awareness [pdf]"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27107428",
           "author": "simonw",
-          "description": "Article URL: https://django-sql-dashboard.datasette.io/en/latest/\nComments URL: https://news.ycombinator.com/item?id=27107428\nPoints: 124\n# Comments: 18",
+          "description": "Article URL: https://django-sql-dashboard.datasette.io/en/latest/\nComments URL: https://news.ycombinator.com/item?id=27107428\nPoints: 139\n# Comments: 20",
           "link": "https://django-sql-dashboard.datasette.io/en/latest/",
           "publishedOn": "2021-05-10T15:53:54.000Z",
           "wordCount": 385,
           "title": "Show HN: Django SQL Dashboard"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27107175",
+          "author": "ingve",
+          "description": "Article URL: https://dl.acm.org/doi/10.1145/3411764.3445642\nComments URL: https://news.ycombinator.com/item?id=27107175\nPoints: 45\n# Comments: 55",
+          "link": "https://dl.acm.org/doi/10.1145/3411764.3445642",
+          "publishedOn": "2021-05-10T15:34:29.000Z",
+          "wordCount": 148,
+          "title": "Perverse Downstream Consequences of Debunking"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27106489",
           "author": "schultetwin",
-          "description": "Article URL: https://epirhandbook.com/\nComments URL: https://news.ycombinator.com/item?id=27106489\nPoints: 122\n# Comments: 4",
+          "description": "Article URL: https://epirhandbook.com/\nComments URL: https://news.ycombinator.com/item?id=27106489\nPoints: 127\n# Comments: 4",
           "link": "https://epirhandbook.com/",
           "publishedOn": "2021-05-10T14:43:34.000Z",
           "wordCount": 896,
@@ -143,25 +161,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27106448",
           "author": "Reventlov",
-          "description": "Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/\nComments URL: https://news.ycombinator.com/item?id=27106448\nPoints: 279\n# Comments: 123",
+          "description": "Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/\nComments URL: https://news.ycombinator.com/item?id=27106448\nPoints: 308\n# Comments: 143",
           "link": "https://berthub.eu/articles/posts/dont-ruin-the-root/",
           "publishedOn": "2021-05-10T14:39:37.000Z",
           "wordCount": 2342,
           "title": "Dear EU: Please Don't Ruin the Root"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27106335",
-          "author": "lettergram",
-          "description": "Article URL: https://github.com/capitalone/DataProfiler\nComments URL: https://news.ycombinator.com/item?id=27106335\nPoints: 61\n# Comments: 9",
-          "link": "https://github.com/capitalone/DataProfiler",
-          "publishedOn": "2021-05-10T14:30:21.000Z",
-          "wordCount": 1655,
-          "title": "Show HN: DataProfiler – What's in your data? Extract schema, stats and entities"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27106250",
           "author": "Anon84",
-          "description": "Article URL: https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html\nComments URL: https://news.ycombinator.com/item?id=27106250\nPoints: 119\n# Comments: 54",
+          "description": "Article URL: https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html\nComments URL: https://news.ycombinator.com/item?id=27106250\nPoints: 130\n# Comments: 64",
           "link": "https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html",
           "publishedOn": "2021-05-10T14:22:55.000Z",
           "wordCount": 742,
@@ -170,20 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27106055",
           "author": "ellegriffin",
-          "description": "Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors\nComments URL: https://news.ycombinator.com/item?id=27106055\nPoints: 310\n# Comments: 399",
+          "description": "Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors\nComments URL: https://news.ycombinator.com/item?id=27106055\nPoints: 367\n# Comments: 436",
           "link": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
           "publishedOn": "2021-05-10T14:01:27.000Z",
-          "wordCount": 3173,
+          "wordCount": 3292,
           "title": "Writing books is not really a good idea"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27106021",
-          "author": "daniellenewnham",
-          "description": "Article URL: https://www.youtube.com/watch?v=suHOLFhbwsM\nComments URL: https://news.ycombinator.com/item?id=27106021\nPoints: 111\n# Comments: 101",
-          "link": "https://www.youtube.com/watch?v=suHOLFhbwsM",
-          "publishedOn": "2021-05-10T13:57:09.000Z",
-          "wordCount": 18,
-          "title": "Royal Marines Testing Out Jet Suits [video]"
         }
       ]
     },
@@ -330,6 +330,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340020",
+          "author": "Chris Coyier",
+          "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you \n&#8230;\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/topframe/",
+          "publishedOn": "2021-05-10T21:14:15.000Z",
+          "wordCount": 552,
+          "title": "Topframe"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340208",
+          "author": "Chris Coyier",
+          "description": "I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
+          "publishedOn": "2021-05-10T21:13:23.000Z",
+          "wordCount": 2951,
+          "title": "Migrating from Parcel to Snowpack"
+        },
+        {
           "id": "https://css-tricks.com/?p=339203",
           "author": "Ana Tudor",
           "description": "I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;\nThe post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -371,7 +389,7 @@
           "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
           "publishedOn": "2021-05-06T20:03:26.000Z",
-          "wordCount": 1542,
+          "wordCount": 1523,
           "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
         },
         {
@@ -445,24 +463,6 @@
           "publishedOn": "2021-05-04T14:19:55.000Z",
           "wordCount": 970,
           "title": "Let’s use (X, X, X, X) for talking about specificity"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339742",
-          "author": "Chris Coyier",
-          "description": "A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;\nThe post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
-          "publishedOn": "2021-05-04T14:19:48.000Z",
-          "wordCount": 1276,
-          "title": "Creating Colorful, Smart Shadows"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339419",
-          "author": "Jay Hoffmann",
-          "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/chapter-8-css/",
-          "publishedOn": "2021-05-03T21:52:08.000Z",
-          "wordCount": 6672,
-          "title": "Chapter 8: CSS"
         }
       ]
     },

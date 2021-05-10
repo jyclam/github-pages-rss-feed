@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T21:11:31.159Z</updated>
+    <updated>2021-05-10T22:15:09.797Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(Red Hat's) 5 useless Linux commands]]></title>
+        <id>https://news.ycombinator.com/item?id=27111253</id>
+        <link href="https://www.redhat.com/sysadmin/5-useless-linux-commands"/>
+        <updated>2021-05-10T21:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.redhat.com/sysadmin/5-useless-linux-commands
+Comments URL: https://news.ycombinator.com/item?id=27111253
+Points: 9
+# Comments: 17]]></summary>
+        <author>
+            <name>azalemeth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topframe]]></title>
+        <id>https://css-tricks.com/?p=340020</id>
+        <link href="https://css-tricks.com/topframe/"/>
+        <updated>2021-05-10T21:14:15.000Z</updated>
+        <summary type="html"><![CDATA[This is extremely fun. Jeff Lindsay has created Topframe, and writes:
+Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you 
+&#8230;
+The post Topframe appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating from Parcel to Snowpack]]></title>
+        <id>https://css-tricks.com/?p=340208</id>
+        <link href="https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/"/>
+        <updated>2021-05-10T21:13:23.000Z</updated>
+        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;
+The post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EasyPost (YC S13) Is Hiring Remote]]></title>
         <id>https://news.ycombinator.com/item?id=27110829</id>
@@ -20,14 +59,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Payments down 20% in my SaaS after EU introduced PSD2 this year]]></title>
+        <title type="html"><![CDATA[Payments down 20% in my SaaS after EU introduced PSD2]]></title>
         <id>https://news.ycombinator.com/item?id=27110713</id>
         <link href="https://www.globalbankingandfinance.com/the-real-impact-of-psd2/"/>
         <updated>2021-05-10T20:45:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.globalbankingandfinance.com/the-real-impact-of-psd2/
 Comments URL: https://news.ycombinator.com/item?id=27110713
-Points: 23
-# Comments: 8]]></summary>
+Points: 74
+# Comments: 76]]></summary>
         <author>
             <name>rokkk</name>
         </author>
@@ -39,10 +78,36 @@ Points: 23
         <updated>2021-05-10T20:42:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/
 Comments URL: https://news.ycombinator.com/item?id=27110669
-Points: 4
-# Comments: 0]]></summary>
+Points: 36
+# Comments: 7]]></summary>
         <author>
             <name>bzbarsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung to jump into laptop processor market with Exynos chip in H2]]></title>
+        <id>https://news.ycombinator.com/item?id=27110493</id>
+        <link href="https://www.kedglobal.com/newsView/ked202105090002"/>
+        <updated>2021-05-10T20:26:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.kedglobal.com/newsView/ked202105090002
+Comments URL: https://news.ycombinator.com/item?id=27110493
+Points: 69
+# Comments: 42]]></summary>
+        <author>
+            <name>cbg0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why should I put my website to sleep?]]></title>
+        <id>https://news.ycombinator.com/item?id=27110263</id>
+        <link href="https://www.nightnight.xn--q9jyb4c/details"/>
+        <updated>2021-05-10T20:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nightnight.xn--q9jyb4c/details
+Comments URL: https://news.ycombinator.com/item?id=27110263
+Points: 23
+# Comments: 12]]></summary>
+        <author>
+            <name>tobr</name>
         </author>
     </entry>
     <entry>
@@ -52,23 +117,23 @@ Points: 4
         <updated>2021-05-10T19:39:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/
 Comments URL: https://news.ycombinator.com/item?id=27109960
-Points: 48
-# Comments: 20]]></summary>
+Points: 106
+# Comments: 37]]></summary>
         <author>
             <name>cedricd</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Accelerating Eye Movement Research for Wellness and Accessibility]]></title>
-        <id>https://news.ycombinator.com/item?id=27109571</id>
-        <link href="https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html"/>
-        <updated>2021-05-10T19:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html
-Comments URL: https://news.ycombinator.com/item?id=27109571
-Points: 13
-# Comments: 10]]></summary>
+        <title type="html"><![CDATA[Game developers sharing their salaries on Twitter]]></title>
+        <id>https://news.ycombinator.com/item?id=27109142</id>
+        <link href="https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html"/>
+        <updated>2021-05-10T18:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html
+Comments URL: https://news.ycombinator.com/item?id=27109142
+Points: 200
+# Comments: 237]]></summary>
         <author>
-            <name>theafh</name>
+            <name>elsewhen</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +143,8 @@ Points: 13
         <updated>2021-05-10T18:17:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/marcin-chwedczuk/shellcode-tshirt
 Comments URL: https://news.ycombinator.com/item?id=27109082
-Points: 39
-# Comments: 5]]></summary>
+Points: 52
+# Comments: 8]]></summary>
         <author>
             <name>0xmarcin</name>
         </author>
@@ -91,8 +156,8 @@ Points: 39
         <updated>2021-05-10T17:35:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/microsoft/ebpf-for-windows
 Comments URL: https://news.ycombinator.com/item?id=27108593
-Points: 127
-# Comments: 72]]></summary>
+Points: 144
+# Comments: 88]]></summary>
         <author>
             <name>praseodym</name>
         </author>
@@ -104,8 +169,8 @@ Points: 127
         <updated>2021-05-10T17:15:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dragonflybsd.org/release60/
 Comments URL: https://news.ycombinator.com/item?id=27108348
-Points: 139
-# Comments: 43]]></summary>
+Points: 152
+# Comments: 49]]></summary>
         <author>
             <name>vermaden</name>
         </author>
@@ -127,23 +192,10 @@ Points: 139
         <updated>2021-05-10T16:55:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df
 Comments URL: https://news.ycombinator.com/item?id=27108109
-Points: 157
-# Comments: 81]]></summary>
+Points: 173
+# Comments: 92]]></summary>
         <author>
             <name>hacka22</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ServiceNow acquires Lightstep]]></title>
-        <id>https://news.ycombinator.com/item?id=27107984</id>
-        <link href="https://www.zdnet.com/article/servicenow-acquires-lightstep-aims-to-leverage-observability-across-enterprises/"/>
-        <updated>2021-05-10T16:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/servicenow-acquires-lightstep-aims-to-leverage-observability-across-enterprises/
-Comments URL: https://news.ycombinator.com/item?id=27107984
-Points: 61
-# Comments: 62]]></summary>
-        <author>
-            <name>mlke</name>
         </author>
     </entry>
     <entry>
@@ -153,8 +205,8 @@ Points: 61
         <updated>2021-05-10T16:29:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech
 Comments URL: https://news.ycombinator.com/item?id=27107820
-Points: 88
-# Comments: 60]]></summary>
+Points: 106
+# Comments: 85]]></summary>
         <author>
             <name>dehrmann</name>
         </author>
@@ -166,23 +218,10 @@ Points: 88
         <updated>2021-05-10T16:14:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pyre-check.org
 Comments URL: https://news.ycombinator.com/item?id=27107647
-Points: 86
-# Comments: 48]]></summary>
+Points: 94
+# Comments: 61]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Situational Awareness [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27107522</id>
-        <link href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf"/>
-        <updated>2021-05-10T16:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf
-Comments URL: https://news.ycombinator.com/item?id=27107522
-Points: 213
-# Comments: 116]]></summary>
-        <author>
-            <name>graderjs</name>
         </author>
     </entry>
     <entry>
@@ -192,10 +231,23 @@ Points: 213
         <updated>2021-05-10T15:53:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://django-sql-dashboard.datasette.io/en/latest/
 Comments URL: https://news.ycombinator.com/item?id=27107428
-Points: 124
-# Comments: 18]]></summary>
+Points: 139
+# Comments: 20]]></summary>
         <author>
             <name>simonw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perverse Downstream Consequences of Debunking]]></title>
+        <id>https://news.ycombinator.com/item?id=27107175</id>
+        <link href="https://dl.acm.org/doi/10.1145/3411764.3445642"/>
+        <updated>2021-05-10T15:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/3411764.3445642
+Comments URL: https://news.ycombinator.com/item?id=27107175
+Points: 45
+# Comments: 55]]></summary>
+        <author>
+            <name>ingve</name>
         </author>
     </entry>
     <entry>
@@ -205,7 +257,7 @@ Points: 124
         <updated>2021-05-10T14:43:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://epirhandbook.com/
 Comments URL: https://news.ycombinator.com/item?id=27106489
-Points: 122
+Points: 127
 # Comments: 4]]></summary>
         <author>
             <name>schultetwin</name>
@@ -218,23 +270,10 @@ Points: 122
         <updated>2021-05-10T14:39:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/
 Comments URL: https://news.ycombinator.com/item?id=27106448
-Points: 279
-# Comments: 123]]></summary>
+Points: 308
+# Comments: 143]]></summary>
         <author>
             <name>Reventlov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: DataProfiler – What's in your data? Extract schema, stats and entities]]></title>
-        <id>https://news.ycombinator.com/item?id=27106335</id>
-        <link href="https://github.com/capitalone/DataProfiler"/>
-        <updated>2021-05-10T14:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/capitalone/DataProfiler
-Comments URL: https://news.ycombinator.com/item?id=27106335
-Points: 61
-# Comments: 9]]></summary>
-        <author>
-            <name>lettergram</name>
         </author>
     </entry>
     <entry>
@@ -244,8 +283,8 @@ Points: 61
         <updated>2021-05-10T14:22:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html
 Comments URL: https://news.ycombinator.com/item?id=27106250
-Points: 119
-# Comments: 54]]></summary>
+Points: 130
+# Comments: 64]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -269,23 +308,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-10T14:01:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors
 Comments URL: https://news.ycombinator.com/item?id=27106055
-Points: 310
-# Comments: 399]]></summary>
+Points: 367
+# Comments: 436]]></summary>
         <author>
             <name>ellegriffin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Royal Marines Testing Out Jet Suits [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27106021</id>
-        <link href="https://www.youtube.com/watch?v=suHOLFhbwsM"/>
-        <updated>2021-05-10T13:57:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=suHOLFhbwsM
-Comments URL: https://news.ycombinator.com/item?id=27106021
-Points: 111
-# Comments: 101]]></summary>
-        <author>
-            <name>daniellenewnham</name>
         </author>
     </entry>
     <entry>
@@ -690,18 +716,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Colorful, Smart Shadows]]></title>
-        <id>https://css-tricks.com/?p=339742</id>
-        <link href="https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm"/>
-        <updated>2021-05-04T14:19:48.000Z</updated>
-        <summary type="html"><![CDATA[A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;
-The post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
         <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
         <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
@@ -709,18 +723,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chapter 8: CSS]]></title>
-        <id>https://css-tricks.com/?p=339419</id>
-        <link href="https://css-tricks.com/chapter-8-css/"/>
-        <updated>2021-05-03T21:52:08.000Z</updated>
-        <summary type="html"><![CDATA[In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;
-The post Chapter 8: CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jay Hoffmann</name>
         </author>
     </entry>
     <entry>
