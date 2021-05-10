@@ -4,31 +4,108 @@
       "href": "https://hnrss.org/frontpage",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27101092",
-          "author": "selfsimilar",
-          "description": "Article URL: https://www.bbc.com/news/business-57050690\nComments URL: https://news.ycombinator.com/item?id=27101092\nPoints: 20\n# Comments: 6",
-          "link": "https://www.bbc.com/news/business-57050690",
-          "publishedOn": "2021-05-10T00:00:56.000Z",
-          "wordCount": 1627,
+          "id": "https://news.ycombinator.com/item?id=27103230",
+          "author": "bribri",
+          "description": "Article URL: https://www.etymologynerd.com/blog/choices\nComments URL: https://news.ycombinator.com/item?id=27103230\nPoints: 10\n# Comments: 2",
+          "link": "https://www.etymologynerd.com/blog/choices",
+          "publishedOn": "2021-05-10T06:16:31.000Z",
+          "wordCount": 459,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "US declares state of emergency in infrastructure cyberattack"
+          "title": "The origin of the word “decide” comes from the Latin word “decidere”, to cut off"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27100742",
-          "author": "pseudolus",
-          "description": "Article URL: https://www.nytimes.com/2021/05/09/health/psychedelics-mdma-psilocybin-molly-mental-health.html\nComments URL: https://news.ycombinator.com/item?id=27100742\nPoints: 11\n# Comments: 2",
-          "link": "https://www.nytimes.com/2021/05/09/health/psychedelics-mdma-psilocybin-molly-mental-health.html",
-          "publishedOn": "2021-05-09T23:11:19.000Z",
-          "wordCount": 2739,
+          "id": "https://news.ycombinator.com/item?id=27103122",
+          "author": "metahost",
+          "description": "Article URL: https://twitter.com/pm/status/1391462220861566977\nComments URL: https://news.ycombinator.com/item?id=27103122\nPoints: 16\n# Comments: 1",
+          "link": "https://twitter.com/pm/status/1391462220861566977",
+          "publishedOn": "2021-05-10T05:55:15.000Z",
+          "wordCount": 196,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "How MDMA and Psilocybin Became Hot Investments"
+          "title": "Larry Page asking how to change User Agent in Java"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27103049",
+          "author": "asiftr",
+          "description": "Article URL: https://pypi.org/project/windyquery/\nComments URL: https://news.ycombinator.com/item?id=27103049\nPoints: 11\n# Comments: 0",
+          "link": "https://pypi.org/project/windyquery/",
+          "publishedOn": "2021-05-10T05:36:51.000Z",
+          "wordCount": 2947,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Windyquery: A non-blocking Python PostgreSQL query builder"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27103033",
+          "author": "sidcool",
+          "description": "Article URL: https://blog.frankel.ch/teeing-java-api/\nComments URL: https://news.ycombinator.com/item?id=27103033\nPoints: 52\n# Comments: 6",
+          "link": "https://blog.frankel.ch/teeing-java-api/",
+          "publishedOn": "2021-05-10T05:30:28.000Z",
+          "wordCount": 642,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Teeing, a hidden gem in the Java API"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27102584",
+          "author": "ingve",
+          "description": "Article URL: https://github.com/dlang/dmd/pull/12507\nComments URL: https://news.ycombinator.com/item?id=27102584\nPoints: 24\n# Comments: 5",
+          "link": "https://github.com/dlang/dmd/pull/12507",
+          "publishedOn": "2021-05-10T04:06:57.000Z",
+          "wordCount": 1512,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Adding ANSI C11 C compiler to D so it can import and compile C files directly"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27102020",
+          "author": "IgorPartola",
+          "description": "If your status page returns a 502 at the same time that your app returns a 502, you might be in trouble. https://status.discord.com/ really should be on a different domain. Of course the naked 502 from CloudFlare is enough to tell me that there is an outage, but overall this is probably not the ideal way of doing things. Domains are cheap. Get a status page with a different one (or a hosted service).\nComments URL: https://news.ycombinator.com/item?id=27102020\nPoints: 58\n# Comments: 39",
+          "link": "https://news.ycombinator.com/item?id=27102020",
+          "publishedOn": "2021-05-10T02:18:54.000Z",
+          "wordCount": 2300,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Tell HN: Don't put your status page on the same domain as your app"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27101808",
+          "author": "tomcam",
+          "description": "Article URL: https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/\nComments URL: https://news.ycombinator.com/item?id=27101808\nPoints: 45\n# Comments: 11",
+          "link": "https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/",
+          "publishedOn": "2021-05-10T01:44:15.000Z",
+          "wordCount": 1474,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "The Mortifying Ordeal of Pairing All Day"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27101805",
+          "author": "spideymans",
+          "description": "Article URL: https://henrikwarne.com/2012/06/02/why-i-love-coding/\nComments URL: https://news.ycombinator.com/item?id=27101805\nPoints: 99\n# Comments: 26",
+          "link": "https://henrikwarne.com/2012/06/02/why-i-love-coding/",
+          "publishedOn": "2021-05-10T01:43:42.000Z",
+          "wordCount": 1890,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Why I Love Coding (2012)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27101092",
+          "author": "selfsimilar",
+          "description": "Article URL: https://www.bbc.com/news/business-57050690\nComments URL: https://news.ycombinator.com/item?id=27101092\nPoints: 507\n# Comments: 310",
+          "link": "https://www.bbc.com/news/business-57050690",
+          "publishedOn": "2021-05-10T00:00:56.000Z",
+          "wordCount": 1658,
+          "sourceHref": "https://hnrss.org/frontpage",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "US passes emergency waiver over fuel pipeline cyber-attack"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27100611",
           "author": "Kye",
-          "description": "Article URL: https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown\nComments URL: https://news.ycombinator.com/item?id=27100611\nPoints: 21\n# Comments: 3",
+          "description": "Article URL: https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown\nComments URL: https://news.ycombinator.com/item?id=27100611\nPoints: 148\n# Comments: 114",
           "link": "https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown",
           "publishedOn": "2021-05-09T22:53:45.000Z",
           "wordCount": 823,
@@ -39,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27100299",
           "author": "montenegrohugo",
-          "description": "Article URL: http://www.robinhobb.com/blog/posts/38429\nComments URL: https://news.ycombinator.com/item?id=27100299\nPoints: 239\n# Comments: 83",
+          "description": "Article URL: http://www.robinhobb.com/blog/posts/38429\nComments URL: https://news.ycombinator.com/item?id=27100299\nPoints: 626\n# Comments: 171",
           "link": "http://www.robinhobb.com/blog/posts/38429",
           "publishedOn": "2021-05-09T22:11:18.000Z",
           "wordCount": 735,
@@ -50,7 +127,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27100272",
           "author": "ingve",
-          "description": "Article URL: http://objective.st/\nComments URL: https://news.ycombinator.com/item?id=27100272\nPoints: 31\n# Comments: 10",
+          "description": "Article URL: http://objective.st/\nComments URL: https://news.ycombinator.com/item?id=27100272\nPoints: 75\n# Comments: 18",
           "link": "http://objective.st/",
           "publishedOn": "2021-05-09T22:05:53.000Z",
           "wordCount": 368,
@@ -59,20 +136,9 @@
           "title": "Objective-S: architecture-oriented language based on Smalltalk and Objective-C"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27099995",
-          "author": "themdpreneur",
-          "description": "Article URL: https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/\nComments URL: https://news.ycombinator.com/item?id=27099995\nPoints: 117\n# Comments: 81",
-          "link": "https://themdpreneur.com/purchase-future-cash-stop-buying-more-stuff/",
-          "publishedOn": "2021-05-09T21:31:24.000Z",
-          "wordCount": 1626,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Wealthy use debt to buy future cash flow everyone else uses debt to buy stuff"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27099969",
           "author": "pseudolus",
-          "description": "Article URL: https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork\nComments URL: https://news.ycombinator.com/item?id=27099969\nPoints: 98\n# Comments: 89",
+          "description": "Article URL: https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork\nComments URL: https://news.ycombinator.com/item?id=27099969\nPoints: 234\n# Comments: 226",
           "link": "https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork",
           "publishedOn": "2021-05-09T21:28:03.000Z",
           "wordCount": 2151,
@@ -89,15 +155,15 @@
           "wordCount": 109,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
-          "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer"
+          "title": "BuildZoom (better way to build custom homes) is hiring a Principal Engineer"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27099536",
           "author": "jger15",
-          "description": "Article URL: https://www.lynalden.com/inflation/\nComments URL: https://news.ycombinator.com/item?id=27099536\nPoints: 256\n# Comments: 131",
+          "description": "Article URL: https://www.lynalden.com/inflation/\nComments URL: https://news.ycombinator.com/item?id=27099536\nPoints: 447\n# Comments: 212",
           "link": "https://www.lynalden.com/inflation/",
           "publishedOn": "2021-05-09T20:42:17.000Z",
-          "wordCount": 10160,
+          "wordCount": 10177,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
           "title": "The Ultimate Guide to Inflation"
@@ -105,7 +171,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27099025",
           "author": "zdw",
-          "description": "Article URL: https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html\nComments URL: https://news.ycombinator.com/item?id=27099025\nPoints: 25\n# Comments: 9",
+          "description": "Article URL: https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html\nComments URL: https://news.ycombinator.com/item?id=27099025\nPoints: 60\n# Comments: 13",
           "link": "https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html",
           "publishedOn": "2021-05-09T19:39:41.000Z",
           "wordCount": 1042,
@@ -116,7 +182,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27098999",
           "author": "_Microft",
-          "description": "Article URL: https://gaudi.ch/PocketPCR/\nComments URL: https://news.ycombinator.com/item?id=27098999\nPoints: 31\n# Comments: 3",
+          "description": "Article URL: https://gaudi.ch/PocketPCR/\nComments URL: https://news.ycombinator.com/item?id=27098999\nPoints: 73\n# Comments: 13",
           "link": "https://gaudi.ch/PocketPCR/",
           "publishedOn": "2021-05-09T19:36:33.000Z",
           "wordCount": 454,
@@ -127,7 +193,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27098978",
           "author": "royalroad",
-          "description": "Article URL: https://emergencemagazine.org/essay/eleven-ways/\nComments URL: https://news.ycombinator.com/item?id=27098978\nPoints: 4\n# Comments: 0",
+          "description": "Article URL: https://emergencemagazine.org/essay/eleven-ways/\nComments URL: https://news.ycombinator.com/item?id=27098978\nPoints: 34\n# Comments: 5",
           "link": "https://emergencemagazine.org/essay/eleven-ways/",
           "publishedOn": "2021-05-09T19:33:27.000Z",
           "wordCount": 6759,
@@ -136,23 +202,12 @@
           "title": "Eleven Ways of Smelling a Tree (2020)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27098157",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://www.stevenrbaker.com/tech/history-of-rspec.html\nComments URL: https://news.ycombinator.com/item?id=27098157\nPoints: 76\n# Comments: 23",
-          "link": "https://www.stevenrbaker.com/tech/history-of-rspec.html",
-          "publishedOn": "2021-05-09T18:05:00.000Z",
-          "wordCount": 2581,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "History of RSpec"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27097748",
           "author": "bcaa7f3a8bbc",
-          "description": "Article URL: https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/\nComments URL: https://news.ycombinator.com/item?id=27097748\nPoints: 19\n# Comments: 3",
+          "description": "Article URL: https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/\nComments URL: https://news.ycombinator.com/item?id=27097748\nPoints: 55\n# Comments: 20",
           "link": "https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/",
           "publishedOn": "2021-05-09T17:19:10.000Z",
-          "wordCount": 2608,
+          "wordCount": 2624,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
           "title": "Why is it a bad idea to filter by zeroing out FFT bins? (2020)"
@@ -160,68 +215,13 @@
         {
           "id": "https://news.ycombinator.com/item?id=27097719",
           "author": "thetrustworthy",
-          "description": "Article URL: https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/\nComments URL: https://news.ycombinator.com/item?id=27097719\nPoints: 5\n# Comments: 0",
+          "description": "Article URL: https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/\nComments URL: https://news.ycombinator.com/item?id=27097719\nPoints: 107\n# Comments: 13",
           "link": "https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/",
           "publishedOn": "2021-05-09T17:16:14.000Z",
           "wordCount": 1208,
           "sourceHref": "https://hnrss.org/frontpage",
           "sourceTitle": "Hacker News: Front Page",
           "title": "The Hypnotic World of Degenerate Spirals"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27097680",
-          "author": "giuliomagnifico",
-          "description": "Article URL: https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years\nComments URL: https://news.ycombinator.com/item?id=27097680\nPoints: 244\n# Comments: 77",
-          "link": "https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years",
-          "publishedOn": "2021-05-09T17:10:52.000Z",
-          "wordCount": 1886,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "AMD server CPUs capture highest market share gains from Intel in 15 years"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27097590",
-          "author": "dynm",
-          "description": "Article URL: https://dynomight.net/better-personalities/\nComments URL: https://news.ycombinator.com/item?id=27097590\nPoints: 236\n# Comments: 177",
-          "link": "https://dynomight.net/better-personalities/",
-          "publishedOn": "2021-05-09T17:00:32.000Z",
-          "wordCount": 1746,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "A review of correlations between big five personality types and life outcomes"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27096799",
-          "author": "altilunium",
-          "description": "Article URL: https://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html\nComments URL: https://news.ycombinator.com/item?id=27096799\nPoints: 268\n# Comments: 163",
-          "link": "https://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html",
-          "publishedOn": "2021-05-09T15:32:49.000Z",
-          "wordCount": 99,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Wikipedia is up (2001)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27096498",
-          "author": "nradov",
-          "description": "Article URL: https://peterattiamd.com/does-nmn-improve-metabolic-health-in-humans/\nComments URL: https://news.ycombinator.com/item?id=27096498\nPoints: 83\n# Comments: 44",
-          "link": "https://peterattiamd.com/does-nmn-improve-metabolic-health-in-humans/",
-          "publishedOn": "2021-05-09T15:03:17.000Z",
-          "wordCount": 2169,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Does NMN improve metabolic health in humans?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27096181",
-          "author": "prostoalex",
-          "description": "Article URL: https://fs.blog/2015/08/how-to-think/\nComments URL: https://news.ycombinator.com/item?id=27096181\nPoints: 151\n# Comments: 34",
-          "link": "https://fs.blog/2015/08/how-to-think/",
-          "publishedOn": "2021-05-09T14:30:50.000Z",
-          "wordCount": 1329,
-          "sourceHref": "https://hnrss.org/frontpage",
-          "sourceTitle": "Hacker News: Front Page",
-          "title": "Learning how to think (2015)"
         }
       ]
     },
@@ -391,7 +391,7 @@
           "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-css-a-programming-language/",
           "publishedOn": "2021-05-07T13:56:17.000Z",
-          "wordCount": 1976,
+          "wordCount": 3079,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Is CSS a Programming Language?"
