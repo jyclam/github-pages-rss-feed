@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T22:15:09.797Z</updated>
+    <updated>2021-05-10T23:12:06.070Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[(Red Hat's) 5 useless Linux commands]]></title>
-        <id>https://news.ycombinator.com/item?id=27111253</id>
-        <link href="https://www.redhat.com/sysadmin/5-useless-linux-commands"/>
-        <updated>2021-05-10T21:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.redhat.com/sysadmin/5-useless-linux-commands
-Comments URL: https://news.ycombinator.com/item?id=27111253
-Points: 9
-# Comments: 17]]></summary>
+        <title type="html"><![CDATA[A “Perfect Coronal Mass Ejection” Could Be a Nightmare]]></title>
+        <id>https://news.ycombinator.com/item?id=27111512</id>
+        <link href="http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare"/>
+        <updated>2021-05-10T22:11:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare
+Comments URL: https://news.ycombinator.com/item?id=27111512
+Points: 6
+# Comments: 0]]></summary>
         <author>
-            <name>azalemeth</name>
+            <name>johntfella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One million people saw my dumbest tweet]]></title>
+        <id>https://news.ycombinator.com/item?id=27111466</id>
+        <link href="https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet"/>
+        <updated>2021-05-10T22:07:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet
+Comments URL: https://news.ycombinator.com/item?id=27111466
+Points: 43
+# Comments: 13]]></summary>
+        <author>
+            <name>chr15m</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA authorizes Pfizer vaccine for kids age 12 to 15]]></title>
+        <id>https://news.ycombinator.com/item?id=27111071</id>
+        <link href="https://www.nytimes.com/2021/05/10/health/pfizer-covid-vaccine-teens.html"/>
+        <updated>2021-05-10T21:27:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/10/health/pfizer-covid-vaccine-teens.html
+Comments URL: https://news.ycombinator.com/item?id=27111071
+Points: 77
+# Comments: 20]]></summary>
+        <author>
+            <name>jbredeche</name>
         </author>
     </entry>
     <entry>
@@ -59,27 +85,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Payments down 20% in my SaaS after EU introduced PSD2]]></title>
-        <id>https://news.ycombinator.com/item?id=27110713</id>
-        <link href="https://www.globalbankingandfinance.com/the-real-impact-of-psd2/"/>
-        <updated>2021-05-10T20:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.globalbankingandfinance.com/the-real-impact-of-psd2/
-Comments URL: https://news.ycombinator.com/item?id=27110713
-Points: 74
-# Comments: 76]]></summary>
-        <author>
-            <name>rokkk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beware of Applications Misusing Root Stores]]></title>
         <id>https://news.ycombinator.com/item?id=27110669</id>
         <link href="https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/"/>
         <updated>2021-05-10T20:42:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/
 Comments URL: https://news.ycombinator.com/item?id=27110669
-Points: 36
-# Comments: 7]]></summary>
+Points: 60
+# Comments: 16]]></summary>
         <author>
             <name>bzbarsky</name>
         </author>
@@ -91,8 +104,8 @@ Points: 36
         <updated>2021-05-10T20:26:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.kedglobal.com/newsView/ked202105090002
 Comments URL: https://news.ycombinator.com/item?id=27110493
-Points: 69
-# Comments: 42]]></summary>
+Points: 116
+# Comments: 73]]></summary>
         <author>
             <name>cbg0</name>
         </author>
@@ -104,8 +117,8 @@ Points: 69
         <updated>2021-05-10T20:04:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nightnight.xn--q9jyb4c/details
 Comments URL: https://news.ycombinator.com/item?id=27110263
-Points: 23
-# Comments: 12]]></summary>
+Points: 54
+# Comments: 45]]></summary>
         <author>
             <name>tobr</name>
         </author>
@@ -117,8 +130,8 @@ Points: 23
         <updated>2021-05-10T19:39:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/
 Comments URL: https://news.ycombinator.com/item?id=27109960
-Points: 106
-# Comments: 37]]></summary>
+Points: 155
+# Comments: 61]]></summary>
         <author>
             <name>cedricd</name>
         </author>
@@ -130,8 +143,8 @@ Points: 106
         <updated>2021-05-10T18:22:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html
 Comments URL: https://news.ycombinator.com/item?id=27109142
-Points: 200
-# Comments: 237]]></summary>
+Points: 225
+# Comments: 266]]></summary>
         <author>
             <name>elsewhen</name>
         </author>
@@ -143,8 +156,8 @@ Points: 200
         <updated>2021-05-10T18:17:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/marcin-chwedczuk/shellcode-tshirt
 Comments URL: https://news.ycombinator.com/item?id=27109082
-Points: 52
-# Comments: 8]]></summary>
+Points: 57
+# Comments: 10]]></summary>
         <author>
             <name>0xmarcin</name>
         </author>
@@ -156,8 +169,8 @@ Points: 52
         <updated>2021-05-10T17:35:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/microsoft/ebpf-for-windows
 Comments URL: https://news.ycombinator.com/item?id=27108593
-Points: 144
-# Comments: 88]]></summary>
+Points: 158
+# Comments: 102]]></summary>
         <author>
             <name>praseodym</name>
         </author>
@@ -169,8 +182,8 @@ Points: 144
         <updated>2021-05-10T17:15:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dragonflybsd.org/release60/
 Comments URL: https://news.ycombinator.com/item?id=27108348
-Points: 152
-# Comments: 49]]></summary>
+Points: 157
+# Comments: 52]]></summary>
         <author>
             <name>vermaden</name>
         </author>
@@ -192,8 +205,8 @@ Points: 152
         <updated>2021-05-10T16:55:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df
 Comments URL: https://news.ycombinator.com/item?id=27108109
-Points: 173
-# Comments: 92]]></summary>
+Points: 185
+# Comments: 95]]></summary>
         <author>
             <name>hacka22</name>
         </author>
@@ -205,23 +218,10 @@ Points: 173
         <updated>2021-05-10T16:29:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech
 Comments URL: https://news.ycombinator.com/item?id=27107820
-Points: 106
-# Comments: 85]]></summary>
+Points: 118
+# Comments: 102]]></summary>
         <author>
             <name>dehrmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pyre: A performant type-checker for Python 3]]></title>
-        <id>https://news.ycombinator.com/item?id=27107647</id>
-        <link href="https://pyre-check.org"/>
-        <updated>2021-05-10T16:14:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pyre-check.org
-Comments URL: https://news.ycombinator.com/item?id=27107647
-Points: 94
-# Comments: 61]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -231,8 +231,8 @@ Points: 94
         <updated>2021-05-10T15:53:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://django-sql-dashboard.datasette.io/en/latest/
 Comments URL: https://news.ycombinator.com/item?id=27107428
-Points: 139
-# Comments: 20]]></summary>
+Points: 149
+# Comments: 21]]></summary>
         <author>
             <name>simonw</name>
         </author>
@@ -244,8 +244,8 @@ Points: 139
         <updated>2021-05-10T15:34:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/3411764.3445642
 Comments URL: https://news.ycombinator.com/item?id=27107175
-Points: 45
-# Comments: 55]]></summary>
+Points: 55
+# Comments: 69]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -257,7 +257,7 @@ Points: 45
         <updated>2021-05-10T14:43:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://epirhandbook.com/
 Comments URL: https://news.ycombinator.com/item?id=27106489
-Points: 127
+Points: 138
 # Comments: 4]]></summary>
         <author>
             <name>schultetwin</name>
@@ -270,8 +270,8 @@ Points: 127
         <updated>2021-05-10T14:39:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/
 Comments URL: https://news.ycombinator.com/item?id=27106448
-Points: 308
-# Comments: 143]]></summary>
+Points: 324
+# Comments: 147]]></summary>
         <author>
             <name>Reventlov</name>
         </author>
@@ -283,8 +283,8 @@ Points: 308
         <updated>2021-05-10T14:22:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html
 Comments URL: https://news.ycombinator.com/item?id=27106250
-Points: 130
-# Comments: 64]]></summary>
+Points: 140
+# Comments: 68]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -308,8 +308,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-10T14:01:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors
 Comments URL: https://news.ycombinator.com/item?id=27106055
-Points: 367
-# Comments: 436]]></summary>
+Points: 387
+# Comments: 458]]></summary>
         <author>
             <name>ellegriffin</name>
         </author>
