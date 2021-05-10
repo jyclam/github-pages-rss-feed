@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T06:45:13.283Z</updated>
-    <generator>osmosfeed 1.5.0</generator>
+    <updated>2021-05-10T07:15:28.926Z</updated>
+    <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.6.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
+        <updated>2021-05-10T07:12:17.000Z</updated>
+        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
+Added: Store feedUrl and siteUrl for each source in cache.
+Added: Semantic element (&lt;time&gt;) for timestamp on the UI.
+Added: Semantic API for theming the default template.
+Changed: Moved feed metadata from article level to feed level in cache.
+Fixed: Any html-like text was stripped from title. Fixed with encoded text.
+Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The origin of the word “decide” comes from the Latin word “decidere”, to cut off]]></title>
         <id>https://news.ycombinator.com/item?id=27103230</id>
@@ -13,8 +29,8 @@
         <updated>2021-05-10T06:16:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.etymologynerd.com/blog/choices
 Comments URL: https://news.ycombinator.com/item?id=27103230
-Points: 10
-# Comments: 2]]></summary>
+Points: 25
+# Comments: 3]]></summary>
         <author>
             <name>bribri</name>
         </author>
@@ -26,8 +42,8 @@ Points: 10
         <updated>2021-05-10T05:55:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/pm/status/1391462220861566977
 Comments URL: https://news.ycombinator.com/item?id=27103122
-Points: 16
-# Comments: 1]]></summary>
+Points: 47
+# Comments: 3]]></summary>
         <author>
             <name>metahost</name>
         </author>
@@ -39,8 +55,8 @@ Points: 16
         <updated>2021-05-10T05:36:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pypi.org/project/windyquery/
 Comments URL: https://news.ycombinator.com/item?id=27103049
-Points: 11
-# Comments: 0]]></summary>
+Points: 16
+# Comments: 3]]></summary>
         <author>
             <name>asiftr</name>
         </author>
@@ -52,8 +68,8 @@ Points: 11
         <updated>2021-05-10T05:30:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.frankel.ch/teeing-java-api/
 Comments URL: https://news.ycombinator.com/item?id=27103033
-Points: 52
-# Comments: 6]]></summary>
+Points: 72
+# Comments: 9]]></summary>
         <author>
             <name>sidcool</name>
         </author>
@@ -65,8 +81,8 @@ Points: 52
         <updated>2021-05-10T04:06:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/dlang/dmd/pull/12507
 Comments URL: https://news.ycombinator.com/item?id=27102584
-Points: 24
-# Comments: 5]]></summary>
+Points: 28
+# Comments: 7]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -78,8 +94,8 @@ Points: 24
         <updated>2021-05-10T02:18:54.000Z</updated>
         <summary type="html"><![CDATA[If your status page returns a 502 at the same time that your app returns a 502, you might be in trouble. https://status.discord.com/ really should be on a different domain. Of course the naked 502 from CloudFlare is enough to tell me that there is an outage, but overall this is probably not the ideal way of doing things. Domains are cheap. Get a status page with a different one (or a hosted service).
 Comments URL: https://news.ycombinator.com/item?id=27102020
-Points: 58
-# Comments: 39]]></summary>
+Points: 65
+# Comments: 40]]></summary>
         <author>
             <name>IgorPartola</name>
         </author>
@@ -91,8 +107,8 @@ Points: 58
         <updated>2021-05-10T01:44:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/
 Comments URL: https://news.ycombinator.com/item?id=27101808
-Points: 45
-# Comments: 11]]></summary>
+Points: 57
+# Comments: 14]]></summary>
         <author>
             <name>tomcam</name>
         </author>
@@ -104,8 +120,8 @@ Points: 45
         <updated>2021-05-10T01:43:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://henrikwarne.com/2012/06/02/why-i-love-coding/
 Comments URL: https://news.ycombinator.com/item?id=27101805
-Points: 99
-# Comments: 26]]></summary>
+Points: 111
+# Comments: 30]]></summary>
         <author>
             <name>spideymans</name>
         </author>
@@ -117,8 +133,8 @@ Points: 99
         <updated>2021-05-10T00:00:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57050690
 Comments URL: https://news.ycombinator.com/item?id=27101092
-Points: 507
-# Comments: 310]]></summary>
+Points: 514
+# Comments: 321]]></summary>
         <author>
             <name>selfsimilar</name>
         </author>
@@ -130,8 +146,8 @@ Points: 507
         <updated>2021-05-09T22:53:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown
 Comments URL: https://news.ycombinator.com/item?id=27100611
-Points: 148
-# Comments: 114]]></summary>
+Points: 153
+# Comments: 116]]></summary>
         <author>
             <name>Kye</name>
         </author>
@@ -143,8 +159,8 @@ Points: 148
         <updated>2021-05-09T22:11:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.robinhobb.com/blog/posts/38429
 Comments URL: https://news.ycombinator.com/item?id=27100299
-Points: 626
-# Comments: 171]]></summary>
+Points: 655
+# Comments: 178]]></summary>
         <author>
             <name>montenegrohugo</name>
         </author>
@@ -156,8 +172,8 @@ Points: 626
         <updated>2021-05-09T22:05:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://objective.st/
 Comments URL: https://news.ycombinator.com/item?id=27100272
-Points: 75
-# Comments: 18]]></summary>
+Points: 79
+# Comments: 20]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -169,8 +185,8 @@ Points: 75
         <updated>2021-05-09T21:28:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork
 Comments URL: https://news.ycombinator.com/item?id=27099969
-Points: 234
-# Comments: 226]]></summary>
+Points: 242
+# Comments: 239]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -195,8 +211,8 @@ Points: 1
         <updated>2021-05-09T20:42:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.lynalden.com/inflation/
 Comments URL: https://news.ycombinator.com/item?id=27099536
-Points: 447
-# Comments: 212]]></summary>
+Points: 464
+# Comments: 216]]></summary>
         <author>
             <name>jger15</name>
         </author>
@@ -208,8 +224,8 @@ Points: 447
         <updated>2021-05-09T19:39:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html
 Comments URL: https://news.ycombinator.com/item?id=27099025
-Points: 60
-# Comments: 13]]></summary>
+Points: 62
+# Comments: 15]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -221,8 +237,8 @@ Points: 60
         <updated>2021-05-09T19:36:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gaudi.ch/PocketPCR/
 Comments URL: https://news.ycombinator.com/item?id=27098999
-Points: 73
-# Comments: 13]]></summary>
+Points: 75
+# Comments: 14]]></summary>
         <author>
             <name>_Microft</name>
         </author>
@@ -234,7 +250,7 @@ Points: 73
         <updated>2021-05-09T19:33:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://emergencemagazine.org/essay/eleven-ways/
 Comments URL: https://news.ycombinator.com/item?id=27098978
-Points: 34
+Points: 35
 # Comments: 5]]></summary>
         <author>
             <name>royalroad</name>
@@ -247,8 +263,8 @@ Points: 34
         <updated>2021-05-09T17:19:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/
 Comments URL: https://news.ycombinator.com/item?id=27097748
-Points: 55
-# Comments: 20]]></summary>
+Points: 56
+# Comments: 24]]></summary>
         <author>
             <name>bcaa7f3a8bbc</name>
         </author>
@@ -260,7 +276,7 @@ Points: 55
         <updated>2021-05-09T17:16:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/
 Comments URL: https://news.ycombinator.com/item?id=27097719
-Points: 107
+Points: 117
 # Comments: 13]]></summary>
         <author>
             <name>thetrustworthy</name>
@@ -571,20 +587,6 @@ Added: Console log for cache restore and update behavior.
 Added: npx command: npx osmosfeed
 Changed: Improved console log that breaks down rendered item count into "new" and "cached".
 Fixed: Item…]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.0.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1"/>
-        <updated>2021-05-05T05:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Changed: Runtime dependencies are moved out of devDependencies. This is not a breaking change, but to receive performance benefit, you need to make sure @osmoscraft/osmosfeed is listed as dependencies instead of devDependencies in the package.json of your rss reader site.
-Changed: Build target from node12 to node14.
-Changed: Switched to a more robust rss parser: rss-parser
-Fixed: RSS 1.0 feed &lt;dc:date&gt; was not parsed as publish date.
-Chore: npm dependencies version updates.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
