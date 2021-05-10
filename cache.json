@@ -6,27 +6,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27110829",
+          "author": "jstreebin",
+          "description": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=27110829\nPoints: 1\n# Comments: 0",
+          "link": "https://www.easypost.com/careers",
+          "publishedOn": "2021-05-10T21:00:11.000Z",
+          "wordCount": 378,
+          "title": "EasyPost (YC S13) Is Hiring Remote"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27110713",
+          "author": "rokkk",
+          "description": "Article URL: https://www.globalbankingandfinance.com/the-real-impact-of-psd2/\nComments URL: https://news.ycombinator.com/item?id=27110713\nPoints: 23\n# Comments: 8",
+          "link": "https://www.globalbankingandfinance.com/the-real-impact-of-psd2/",
+          "publishedOn": "2021-05-10T20:45:30.000Z",
+          "wordCount": 2261,
+          "title": "Payments down 20% in my SaaS after EU introduced PSD2 this year"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27110669",
+          "author": "bzbarsky",
+          "description": "Article URL: https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/\nComments URL: https://news.ycombinator.com/item?id=27110669\nPoints: 4\n# Comments: 0",
+          "link": "https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/",
+          "publishedOn": "2021-05-10T20:42:39.000Z",
+          "wordCount": 1743,
+          "title": "Beware of Applications Misusing Root Stores"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27109960",
+          "author": "cedricd",
+          "description": "Article URL: https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/\nComments URL: https://news.ycombinator.com/item?id=27109960\nPoints: 48\n# Comments: 20",
+          "link": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
+          "publishedOn": "2021-05-10T19:39:15.000Z",
+          "wordCount": 2172,
+          "title": "Using PostgreSQL as a Data Warehouse"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27109571",
           "author": "theafh",
-          "description": "Article URL: https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html\nComments URL: https://news.ycombinator.com/item?id=27109571\nPoints: 8\n# Comments: 3",
+          "description": "Article URL: https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html\nComments URL: https://news.ycombinator.com/item?id=27109571\nPoints: 13\n# Comments: 10",
           "link": "https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html",
           "publishedOn": "2021-05-10T19:05:51.000Z",
           "wordCount": 2261,
           "title": "Accelerating Eye Movement Research for Wellness and Accessibility"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27109142",
-          "author": "elsewhen",
-          "description": "Article URL: https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html\nComments URL: https://news.ycombinator.com/item?id=27109142\nPoints: 140\n# Comments: 142",
-          "link": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
-          "publishedOn": "2021-05-10T18:22:45.000Z",
-          "wordCount": 1370,
-          "title": "Game developers sharing their salaries on Twitter"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27109082",
           "author": "0xmarcin",
-          "description": "Article URL: https://github.com/marcin-chwedczuk/shellcode-tshirt\nComments URL: https://news.ycombinator.com/item?id=27109082\nPoints: 23\n# Comments: 1",
+          "description": "Article URL: https://github.com/marcin-chwedczuk/shellcode-tshirt\nComments URL: https://news.ycombinator.com/item?id=27109082\nPoints: 39\n# Comments: 5",
           "link": "https://github.com/marcin-chwedczuk/shellcode-tshirt",
           "publishedOn": "2021-05-10T18:17:54.000Z",
           "wordCount": 1791,
@@ -35,7 +62,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27108593",
           "author": "praseodym",
-          "description": "Article URL: https://github.com/microsoft/ebpf-for-windows\nComments URL: https://news.ycombinator.com/item?id=27108593\nPoints: 88\n# Comments: 35",
+          "description": "Article URL: https://github.com/microsoft/ebpf-for-windows\nComments URL: https://news.ycombinator.com/item?id=27108593\nPoints: 127\n# Comments: 72",
           "link": "https://github.com/microsoft/ebpf-for-windows",
           "publishedOn": "2021-05-10T17:35:15.000Z",
           "wordCount": 1339,
@@ -44,25 +71,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27108348",
           "author": "vermaden",
-          "description": "Article URL: https://www.dragonflybsd.org/release60/\nComments URL: https://news.ycombinator.com/item?id=27108348\nPoints: 124\n# Comments: 37",
+          "description": "Article URL: https://www.dragonflybsd.org/release60/\nComments URL: https://news.ycombinator.com/item?id=27108348\nPoints: 139\n# Comments: 43",
           "link": "https://www.dragonflybsd.org/release60/",
           "publishedOn": "2021-05-10T17:15:13.000Z",
           "wordCount": 1736,
           "title": "DragonflyBSD 6.0"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27108182",
-          "author": "mkong1",
-          "description": "Article URL: https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915\nComments URL: https://news.ycombinator.com/item?id=27108182\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915",
-          "publishedOn": "2021-05-10T17:01:16.000Z",
-          "wordCount": 386,
-          "title": "GiveCampus (YC S15) Hiring remote (US) Sr engineers passionate about education"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27108109",
           "author": "hacka22",
-          "description": "Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df\nComments URL: https://news.ycombinator.com/item?id=27108109\nPoints: 123\n# Comments: 56",
+          "description": "Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df\nComments URL: https://news.ycombinator.com/item?id=27108109\nPoints: 157\n# Comments: 81",
           "link": "https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df",
           "publishedOn": "2021-05-10T16:55:24.000Z",
           "wordCount": 5211,
@@ -71,16 +89,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27107984",
           "author": "mlke",
-          "description": "Article URL: https://www.zdnet.com/article/servicenow-acquires-lightstep-aims-to-leverage-observability-across-enterprises/\nComments URL: https://news.ycombinator.com/item?id=27107984\nPoints: 55\n# Comments: 54",
+          "description": "Article URL: https://www.zdnet.com/article/servicenow-acquires-lightstep-aims-to-leverage-observability-across-enterprises/\nComments URL: https://news.ycombinator.com/item?id=27107984\nPoints: 61\n# Comments: 62",
           "link": "https://www.zdnet.com/article/servicenow-acquires-lightstep-aims-to-leverage-observability-across-enterprises/",
           "publishedOn": "2021-05-10T16:45:03.000Z",
-          "wordCount": 1530,
+          "wordCount": 1504,
           "title": "ServiceNow acquires Lightstep"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27107820",
           "author": "dehrmann",
-          "description": "Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech\nComments URL: https://news.ycombinator.com/item?id=27107820\nPoints: 64\n# Comments: 44",
+          "description": "Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech\nComments URL: https://news.ycombinator.com/item?id=27107820\nPoints: 88\n# Comments: 60",
           "link": "https://www.wired.co.uk/article/corporate-memphis-design-tech",
           "publishedOn": "2021-05-10T16:29:09.000Z",
           "wordCount": 1596,
@@ -89,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27107647",
           "author": "tosh",
-          "description": "Article URL: https://pyre-check.org\nComments URL: https://news.ycombinator.com/item?id=27107647\nPoints: 77\n# Comments: 32",
+          "description": "Article URL: https://pyre-check.org\nComments URL: https://news.ycombinator.com/item?id=27107647\nPoints: 86\n# Comments: 48",
           "link": "https://pyre-check.org",
           "publishedOn": "2021-05-10T16:14:44.000Z",
           "wordCount": 139,
@@ -98,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27107522",
           "author": "graderjs",
-          "description": "Article URL: https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf\nComments URL: https://news.ycombinator.com/item?id=27107522\nPoints: 204\n# Comments: 113",
+          "description": "Article URL: https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf\nComments URL: https://news.ycombinator.com/item?id=27107522\nPoints: 213\n# Comments: 116",
           "link": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf",
           "publishedOn": "2021-05-10T16:02:34.000Z",
           "wordCount": 430427,
@@ -107,34 +125,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27107428",
           "author": "simonw",
-          "description": "Article URL: https://django-sql-dashboard.datasette.io/en/latest/\nComments URL: https://news.ycombinator.com/item?id=27107428\nPoints: 115\n# Comments: 17",
+          "description": "Article URL: https://django-sql-dashboard.datasette.io/en/latest/\nComments URL: https://news.ycombinator.com/item?id=27107428\nPoints: 124\n# Comments: 18",
           "link": "https://django-sql-dashboard.datasette.io/en/latest/",
           "publishedOn": "2021-05-10T15:53:54.000Z",
           "wordCount": 385,
           "title": "Show HN: Django SQL Dashboard"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27107175",
-          "author": "ingve",
-          "description": "Article URL: https://dl.acm.org/doi/10.1145/3411764.3445642\nComments URL: https://news.ycombinator.com/item?id=27107175\nPoints: 32\n# Comments: 28",
-          "link": "https://dl.acm.org/doi/10.1145/3411764.3445642",
-          "publishedOn": "2021-05-10T15:34:29.000Z",
-          "wordCount": 148,
-          "title": "Perverse Downstream Consequences of Debunking"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27106570",
-          "author": "jmsflknr",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-05-10/facebook-should-halt-instagram-kids-plan-attorneys-general-say\nComments URL: https://news.ycombinator.com/item?id=27106570\nPoints: 195\n# Comments: 145",
-          "link": "https://www.bloomberg.com/news/articles/2021-05-10/facebook-should-halt-instagram-kids-plan-attorneys-general-say",
-          "publishedOn": "2021-05-10T14:51:24.000Z",
-          "wordCount": 93,
-          "title": "Facebook Should Halt Instagram Kids Plan, Attorneys General Say"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27106489",
           "author": "schultetwin",
-          "description": "Article URL: https://epirhandbook.com/\nComments URL: https://news.ycombinator.com/item?id=27106489\nPoints: 112\n# Comments: 3",
+          "description": "Article URL: https://epirhandbook.com/\nComments URL: https://news.ycombinator.com/item?id=27106489\nPoints: 122\n# Comments: 4",
           "link": "https://epirhandbook.com/",
           "publishedOn": "2021-05-10T14:43:34.000Z",
           "wordCount": 896,
@@ -143,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27106448",
           "author": "Reventlov",
-          "description": "Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/\nComments URL: https://news.ycombinator.com/item?id=27106448\nPoints: 233\n# Comments: 107",
+          "description": "Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/\nComments URL: https://news.ycombinator.com/item?id=27106448\nPoints: 279\n# Comments: 123",
           "link": "https://berthub.eu/articles/posts/dont-ruin-the-root/",
           "publishedOn": "2021-05-10T14:39:37.000Z",
           "wordCount": 2342,
@@ -152,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27106335",
           "author": "lettergram",
-          "description": "Article URL: https://github.com/capitalone/DataProfiler\nComments URL: https://news.ycombinator.com/item?id=27106335\nPoints: 56\n# Comments: 9",
+          "description": "Article URL: https://github.com/capitalone/DataProfiler\nComments URL: https://news.ycombinator.com/item?id=27106335\nPoints: 61\n# Comments: 9",
           "link": "https://github.com/capitalone/DataProfiler",
           "publishedOn": "2021-05-10T14:30:21.000Z",
           "wordCount": 1655,
@@ -161,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27106250",
           "author": "Anon84",
-          "description": "Article URL: https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html\nComments URL: https://news.ycombinator.com/item?id=27106250\nPoints: 112\n# Comments: 52",
+          "description": "Article URL: https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html\nComments URL: https://news.ycombinator.com/item?id=27106250\nPoints: 119\n# Comments: 54",
           "link": "https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html",
           "publishedOn": "2021-05-10T14:22:55.000Z",
           "wordCount": 742,
@@ -170,16 +170,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27106055",
           "author": "ellegriffin",
-          "description": "Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors\nComments URL: https://news.ycombinator.com/item?id=27106055\nPoints: 272\n# Comments: 356",
+          "description": "Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors\nComments URL: https://news.ycombinator.com/item?id=27106055\nPoints: 310\n# Comments: 399",
           "link": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
           "publishedOn": "2021-05-10T14:01:27.000Z",
-          "wordCount": 3138,
+          "wordCount": 3173,
           "title": "Writing books is not really a good idea"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27106021",
           "author": "daniellenewnham",
-          "description": "Article URL: https://www.youtube.com/watch?v=suHOLFhbwsM\nComments URL: https://news.ycombinator.com/item?id=27106021\nPoints: 87\n# Comments: 67",
+          "description": "Article URL: https://www.youtube.com/watch?v=suHOLFhbwsM\nComments URL: https://news.ycombinator.com/item?id=27106021\nPoints: 111\n# Comments: 101",
           "link": "https://www.youtube.com/watch?v=suHOLFhbwsM",
           "publishedOn": "2021-05-10T13:57:09.000Z",
           "wordCount": 18,
@@ -425,7 +425,7 @@
           "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
           "publishedOn": "2021-05-04T21:16:04.000Z",
-          "wordCount": 758,
+          "wordCount": 743,
           "title": "16px or Larger Text Prevents iOS Form Zoom"
         },
         {

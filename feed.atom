@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T20:13:27.558Z</updated>
+    <updated>2021-05-10T21:11:31.159Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EasyPost (YC S13) Is Hiring Remote]]></title>
+        <id>https://news.ycombinator.com/item?id=27110829</id>
+        <link href="https://www.easypost.com/careers"/>
+        <updated>2021-05-10T21:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.easypost.com/careers
+Comments URL: https://news.ycombinator.com/item?id=27110829
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>jstreebin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payments down 20% in my SaaS after EU introduced PSD2 this year]]></title>
+        <id>https://news.ycombinator.com/item?id=27110713</id>
+        <link href="https://www.globalbankingandfinance.com/the-real-impact-of-psd2/"/>
+        <updated>2021-05-10T20:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.globalbankingandfinance.com/the-real-impact-of-psd2/
+Comments URL: https://news.ycombinator.com/item?id=27110713
+Points: 23
+# Comments: 8]]></summary>
+        <author>
+            <name>rokkk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware of Applications Misusing Root Stores]]></title>
+        <id>https://news.ycombinator.com/item?id=27110669</id>
+        <link href="https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/"/>
+        <updated>2021-05-10T20:42:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/
+Comments URL: https://news.ycombinator.com/item?id=27110669
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>bzbarsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using PostgreSQL as a Data Warehouse]]></title>
+        <id>https://news.ycombinator.com/item?id=27109960</id>
+        <link href="https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/"/>
+        <updated>2021-05-10T19:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/
+Comments URL: https://news.ycombinator.com/item?id=27109960
+Points: 48
+# Comments: 20]]></summary>
+        <author>
+            <name>cedricd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accelerating Eye Movement Research for Wellness and Accessibility]]></title>
         <id>https://news.ycombinator.com/item?id=27109571</id>
@@ -13,23 +65,10 @@
         <updated>2021-05-10T19:05:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html
 Comments URL: https://news.ycombinator.com/item?id=27109571
-Points: 8
-# Comments: 3]]></summary>
+Points: 13
+# Comments: 10]]></summary>
         <author>
             <name>theafh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game developers sharing their salaries on Twitter]]></title>
-        <id>https://news.ycombinator.com/item?id=27109142</id>
-        <link href="https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html"/>
-        <updated>2021-05-10T18:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html
-Comments URL: https://news.ycombinator.com/item?id=27109142
-Points: 140
-# Comments: 142]]></summary>
-        <author>
-            <name>elsewhen</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +78,8 @@ Points: 140
         <updated>2021-05-10T18:17:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/marcin-chwedczuk/shellcode-tshirt
 Comments URL: https://news.ycombinator.com/item?id=27109082
-Points: 23
-# Comments: 1]]></summary>
+Points: 39
+# Comments: 5]]></summary>
         <author>
             <name>0xmarcin</name>
         </author>
@@ -52,8 +91,8 @@ Points: 23
         <updated>2021-05-10T17:35:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/microsoft/ebpf-for-windows
 Comments URL: https://news.ycombinator.com/item?id=27108593
-Points: 88
-# Comments: 35]]></summary>
+Points: 127
+# Comments: 72]]></summary>
         <author>
             <name>praseodym</name>
         </author>
@@ -65,8 +104,8 @@ Points: 88
         <updated>2021-05-10T17:15:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dragonflybsd.org/release60/
 Comments URL: https://news.ycombinator.com/item?id=27108348
-Points: 124
-# Comments: 37]]></summary>
+Points: 139
+# Comments: 43]]></summary>
         <author>
             <name>vermaden</name>
         </author>
@@ -82,27 +121,14 @@ Points: 124
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GiveCampus (YC S15) Hiring remote (US) Sr engineers passionate about education]]></title>
-        <id>https://news.ycombinator.com/item?id=27108182</id>
-        <link href="https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"/>
-        <updated>2021-05-10T17:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915
-Comments URL: https://news.ycombinator.com/item?id=27108182
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>mkong1</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tracking One Year of Malicious Tor Exit Relay Activities (Part II)]]></title>
         <id>https://news.ycombinator.com/item?id=27108109</id>
         <link href="https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df"/>
         <updated>2021-05-10T16:55:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df
 Comments URL: https://news.ycombinator.com/item?id=27108109
-Points: 123
-# Comments: 56]]></summary>
+Points: 157
+# Comments: 81]]></summary>
         <author>
             <name>hacka22</name>
         </author>
@@ -114,8 +140,8 @@ Points: 123
         <updated>2021-05-10T16:45:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/servicenow-acquires-lightstep-aims-to-leverage-observability-across-enterprises/
 Comments URL: https://news.ycombinator.com/item?id=27107984
-Points: 55
-# Comments: 54]]></summary>
+Points: 61
+# Comments: 62]]></summary>
         <author>
             <name>mlke</name>
         </author>
@@ -127,8 +153,8 @@ Points: 55
         <updated>2021-05-10T16:29:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech
 Comments URL: https://news.ycombinator.com/item?id=27107820
-Points: 64
-# Comments: 44]]></summary>
+Points: 88
+# Comments: 60]]></summary>
         <author>
             <name>dehrmann</name>
         </author>
@@ -140,8 +166,8 @@ Points: 64
         <updated>2021-05-10T16:14:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pyre-check.org
 Comments URL: https://news.ycombinator.com/item?id=27107647
-Points: 77
-# Comments: 32]]></summary>
+Points: 86
+# Comments: 48]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -153,8 +179,8 @@ Points: 77
         <updated>2021-05-10T16:02:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf
 Comments URL: https://news.ycombinator.com/item?id=27107522
-Points: 204
-# Comments: 113]]></summary>
+Points: 213
+# Comments: 116]]></summary>
         <author>
             <name>graderjs</name>
         </author>
@@ -166,36 +192,10 @@ Points: 204
         <updated>2021-05-10T15:53:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://django-sql-dashboard.datasette.io/en/latest/
 Comments URL: https://news.ycombinator.com/item?id=27107428
-Points: 115
-# Comments: 17]]></summary>
+Points: 124
+# Comments: 18]]></summary>
         <author>
             <name>simonw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perverse Downstream Consequences of Debunking]]></title>
-        <id>https://news.ycombinator.com/item?id=27107175</id>
-        <link href="https://dl.acm.org/doi/10.1145/3411764.3445642"/>
-        <updated>2021-05-10T15:34:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/3411764.3445642
-Comments URL: https://news.ycombinator.com/item?id=27107175
-Points: 32
-# Comments: 28]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Should Halt Instagram Kids Plan, Attorneys General Say]]></title>
-        <id>https://news.ycombinator.com/item?id=27106570</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-05-10/facebook-should-halt-instagram-kids-plan-attorneys-general-say"/>
-        <updated>2021-05-10T14:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-10/facebook-should-halt-instagram-kids-plan-attorneys-general-say
-Comments URL: https://news.ycombinator.com/item?id=27106570
-Points: 195
-# Comments: 145]]></summary>
-        <author>
-            <name>jmsflknr</name>
         </author>
     </entry>
     <entry>
@@ -205,8 +205,8 @@ Points: 195
         <updated>2021-05-10T14:43:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://epirhandbook.com/
 Comments URL: https://news.ycombinator.com/item?id=27106489
-Points: 112
-# Comments: 3]]></summary>
+Points: 122
+# Comments: 4]]></summary>
         <author>
             <name>schultetwin</name>
         </author>
@@ -218,8 +218,8 @@ Points: 112
         <updated>2021-05-10T14:39:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/
 Comments URL: https://news.ycombinator.com/item?id=27106448
-Points: 233
-# Comments: 107]]></summary>
+Points: 279
+# Comments: 123]]></summary>
         <author>
             <name>Reventlov</name>
         </author>
@@ -231,7 +231,7 @@ Points: 233
         <updated>2021-05-10T14:30:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/capitalone/DataProfiler
 Comments URL: https://news.ycombinator.com/item?id=27106335
-Points: 56
+Points: 61
 # Comments: 9]]></summary>
         <author>
             <name>lettergram</name>
@@ -244,8 +244,8 @@ Points: 56
         <updated>2021-05-10T14:22:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html
 Comments URL: https://news.ycombinator.com/item?id=27106250
-Points: 112
-# Comments: 52]]></summary>
+Points: 119
+# Comments: 54]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -269,8 +269,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-10T14:01:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors
 Comments URL: https://news.ycombinator.com/item?id=27106055
-Points: 272
-# Comments: 356]]></summary>
+Points: 310
+# Comments: 399]]></summary>
         <author>
             <name>ellegriffin</name>
         </author>
@@ -282,8 +282,8 @@ Points: 272
         <updated>2021-05-10T13:57:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=suHOLFhbwsM
 Comments URL: https://news.ycombinator.com/item?id=27106021
-Points: 87
-# Comments: 67]]></summary>
+Points: 111
+# Comments: 101]]></summary>
         <author>
             <name>daniellenewnham</name>
         </author>
