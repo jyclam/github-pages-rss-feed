@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T15:13:23.154Z</updated>
+    <updated>2021-05-11T16:24:14.021Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CircleCI Acquires Vamp]]></title>
+        <id>https://news.ycombinator.com/item?id=27119221</id>
+        <link href="https://blog.vamp.io/vamp-is-joining-circleci/"/>
+        <updated>2021-05-11T15:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.vamp.io/vamp-is-joining-circleci/
+Comments URL: https://news.ycombinator.com/item?id=27119221
+Points: 13
+# Comments: 1]]></summary>
+        <author>
+            <name>muramira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Hash Table – Associative Array Hashing in JS]]></title>
+        <id>60856789dd38b9088c2bf4ff</id>
+        <link href="https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/"/>
+        <updated>2021-05-11T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Start Using Chakra UI]]></title>
+        <id>60977de12cd0545b5e944661</id>
+        <link href="https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/"/>
+        <updated>2021-05-11T15:22:27.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll talk about what ChakraUI is and why you should use it.  Chakra UI is a component-based library. It's made up of basic building blocks that can help you build the front-end of your web application.  It is customizable and reusable, and most importantly it supports ReactJs,]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why “Idea” People Are Risky and What to Do About It]]></title>
+        <id>https://news.ycombinator.com/item?id=27119107</id>
+        <link href="https://www.betteroutcomes.xyz/how-to-know-if-that-idea-person-will-succeed-in-your-small-business/"/>
+        <updated>2021-05-11T15:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.betteroutcomes.xyz/how-to-know-if-that-idea-person-will-succeed-in-your-small-business/
+Comments URL: https://news.ycombinator.com/item?id=27119107
+Points: 48
+# Comments: 28]]></summary>
+        <author>
+            <name>cjwinans79</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Plan for the Rust 2021 Edition]]></title>
+        <id>https://news.ycombinator.com/item?id=27118997</id>
+        <link href="https://blog.rust-lang.org/2021/05/11/edition-2021.html"/>
+        <updated>2021-05-11T15:09:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.rust-lang.org/2021/05/11/edition-2021.html
+Comments URL: https://news.ycombinator.com/item?id=27118997
+Points: 54
+# Comments: 2]]></summary>
+        <author>
+            <name>caution</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students]]></title>
+        <id>https://news.ycombinator.com/item?id=27118794</id>
+        <link href="https://news.ycombinator.com/item?id=27118794"/>
+        <updated>2021-05-11T14:53:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! My name’s Aly, and I’m the founder of UPchieve (https://upchieve.org). I’m here with UPchieve’s CTO, Dave (thedevelopnik). We’re an edtech nonprofit that provides free, 24/7 online tutoring to low-income high school students.
+The idea for UPchieve was based on my own personal experience as a low-income student. I was raised by a single mom who was an immigrant to the US and often couldn’t help me with schoolwork and applying to college. So I went to a community college, and from there it took m…]]></summary>
+        <author>
+            <name>alymurray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new book, Amazon Unbound, reveals Jeff Bezos’ envy of SpaceX]]></title>
+        <id>https://news.ycombinator.com/item?id=27118782</id>
+        <link href="https://arstechnica.com/science/2021/05/a-new-book-amazon-unbound-reveals-jeff-bezos-envy-of-spacex/"/>
+        <updated>2021-05-11T14:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/a-new-book-amazon-unbound-reveals-jeff-bezos-envy-of-spacex/
+Comments URL: https://news.ycombinator.com/item?id=27118782
+Points: 46
+# Comments: 16]]></summary>
+        <author>
+            <name>TangerineDream</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
         <id>https://css-tricks.com/?p=339138</id>
@@ -38,8 +121,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-11T14:32:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eng.uber.com/pprof-go-profiler/
 Comments URL: https://news.ycombinator.com/item?id=27118541
-Points: 6
-# Comments: 0]]></summary>
+Points: 72
+# Comments: 5]]></summary>
         <author>
             <name>vquemener</name>
         </author>
@@ -51,23 +134,10 @@ Points: 6
         <updated>2021-05-11T14:18:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/11/briefing/outdoor-covid-transmission-cdc-number.html
 Comments URL: https://news.ycombinator.com/item?id=27118384
-Points: 14
-# Comments: 2]]></summary>
+Points: 41
+# Comments: 35]]></summary>
         <author>
             <name>heshiebee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starting the World's First V8 Powered Tesla [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27118364</id>
-        <link href="https://www.youtube.com/watch?v=4MOs4W-WYlM"/>
-        <updated>2021-05-11T14:16:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=4MOs4W-WYlM
-Comments URL: https://news.ycombinator.com/item?id=27118364
-Points: 13
-# Comments: 4]]></summary>
-        <author>
-            <name>fortran77</name>
         </author>
     </entry>
     <entry>
@@ -77,8 +147,8 @@ Points: 13
         <updated>2021-05-11T14:16:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.axios.com/tiktok-job-hiring-tiktok-576f3b99-602c-46ac-afed-218ddf61a9ba.html
 Comments URL: https://news.ycombinator.com/item?id=27118362
-Points: 27
-# Comments: 9]]></summary>
+Points: 97
+# Comments: 75]]></summary>
         <author>
             <name>elsewhen</name>
         </author>
@@ -100,8 +170,8 @@ Points: 27
         <updated>2021-05-11T13:07:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/spacex-hits-major-reuse-milestone-with-rockets-10th-flight/
 Comments URL: https://news.ycombinator.com/item?id=27117586
-Points: 68
-# Comments: 39]]></summary>
+Points: 107
+# Comments: 57]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -117,29 +187,16 @@ Points: 68
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amygdala hijack]]></title>
-        <id>https://news.ycombinator.com/item?id=27117464</id>
-        <link href="https://en.wikipedia.org/wiki/Amygdala_hijack"/>
-        <updated>2021-05-11T12:52:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Amygdala_hijack
-Comments URL: https://news.ycombinator.com/item?id=27117464
-Points: 24
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[The Meaning of Open (2009)]]></title>
+        <id>https://news.ycombinator.com/item?id=27117147</id>
+        <link href="https://publicpolicy.googleblog.com/2009/12/meaning-of-open.html"/>
+        <updated>2021-05-11T12:16:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://publicpolicy.googleblog.com/2009/12/meaning-of-open.html
+Comments URL: https://news.ycombinator.com/item?id=27117147
+Points: 10
+# Comments: 1]]></summary>
         <author>
-            <name>clockworksoul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boeing 787s must be turned off and on every 51 days (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27117320</id>
-        <link href="https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data"/>
-        <updated>2021-05-11T12:37:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data
-Comments URL: https://news.ycombinator.com/item?id=27117320
-Points: 31
-# Comments: 17]]></summary>
-        <author>
-            <name>ChicagoBoy11</name>
+            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -149,8 +206,8 @@ Points: 31
         <updated>2021-05-11T12:12:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html
 Comments URL: https://news.ycombinator.com/item?id=27117121
-Points: 15
-# Comments: 3]]></summary>
+Points: 26
+# Comments: 8]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -169,27 +226,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord's new UX design is harmful to the visually impaired and colorblind]]></title>
-        <id>https://news.ycombinator.com/item?id=27116918</id>
-        <link href="https://support.discord.com/hc/en-us/community/posts/1500001018522-The-New-UX-Design-is-Harmful-to-the-Visually-Impaired-and-Colorblind"/>
-        <updated>2021-05-11T11:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://support.discord.com/hc/en-us/community/posts/1500001018522-The-New-UX-Design-is-Harmful-to-the-Visually-Impaired-and-Colorblind
-Comments URL: https://news.ycombinator.com/item?id=27116918
-Points: 40
-# Comments: 57]]></summary>
-        <author>
-            <name>Fabricio20</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We’ll stop selling our Code Editor app for iOS soon]]></title>
         <id>https://news.ycombinator.com/item?id=27116203</id>
         <link href="https://panic.com/blog/the-future-of-code-editor/"/>
         <updated>2021-05-11T10:02:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://panic.com/blog/the-future-of-code-editor/
 Comments URL: https://news.ycombinator.com/item?id=27116203
-Points: 60
-# Comments: 68]]></summary>
+Points: 121
+# Comments: 125]]></summary>
         <author>
             <name>krzyzanowskim</name>
         </author>
@@ -211,23 +255,10 @@ Points: 60
         <updated>2021-05-11T09:47:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.codewell.cc/?ref=hn
 Comments URL: https://news.ycombinator.com/item?id=27116106
-Points: 33
-# Comments: 4]]></summary>
+Points: 62
+# Comments: 9]]></summary>
         <author>
             <name>moemin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workplace Wellbeing Is a Scam?]]></title>
-        <id>https://news.ycombinator.com/item?id=27116024</id>
-        <link href="https://tribunemag.co.uk/2021/05/workplace-wellbeing-is-a-scam"/>
-        <updated>2021-05-11T09:34:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tribunemag.co.uk/2021/05/workplace-wellbeing-is-a-scam
-Comments URL: https://news.ycombinator.com/item?id=27116024
-Points: 144
-# Comments: 160]]></summary>
-        <author>
-            <name>powderpig</name>
         </author>
     </entry>
     <entry>
@@ -237,8 +268,8 @@ Points: 144
         <updated>2021-05-11T08:54:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011
 Comments URL: https://news.ycombinator.com/item?id=27115809
-Points: 382
-# Comments: 389]]></summary>
+Points: 429
+# Comments: 450]]></summary>
         <author>
             <name>encryptluks2</name>
         </author>
@@ -250,8 +281,8 @@ Points: 382
         <updated>2021-05-11T08:17:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers
 Comments URL: https://news.ycombinator.com/item?id=27115551
-Points: 62
-# Comments: 41]]></summary>
+Points: 77
+# Comments: 64]]></summary>
         <author>
             <name>jorangreef</name>
         </author>
@@ -263,8 +294,8 @@ Points: 62
         <updated>2021-05-11T07:47:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/
 Comments URL: https://news.ycombinator.com/item?id=27115372
-Points: 173
-# Comments: 81]]></summary>
+Points: 188
+# Comments: 95]]></summary>
         <author>
             <name>dinosaurs</name>
         </author>
@@ -276,8 +307,8 @@ Points: 173
         <updated>2021-05-11T07:44:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling
 Comments URL: https://news.ycombinator.com/item?id=27115356
-Points: 82
-# Comments: 36]]></summary>
+Points: 96
+# Comments: 45]]></summary>
         <author>
             <name>AndrewDucker</name>
         </author>
@@ -289,36 +320,23 @@ Points: 82
         <updated>2021-05-11T06:00:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://babeljs.io/blog/2021/05/10/funding-update.html
 Comments URL: https://news.ycombinator.com/item?id=27114718
-Points: 476
-# Comments: 461]]></summary>
+Points: 519
+# Comments: 513]]></summary>
         <author>
             <name>Ashoka_rkt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I’m trying to understand hedonic adjustments]]></title>
-        <id>https://news.ycombinator.com/item?id=27114135</id>
-        <link href="https://www.epsilontheory.com/im-trying-to-understand-hedonic-adjustments/"/>
-        <updated>2021-05-11T04:12:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.epsilontheory.com/im-trying-to-understand-hedonic-adjustments/
-Comments URL: https://news.ycombinator.com/item?id=27114135
-Points: 59
-# Comments: 50]]></summary>
+        <title type="html"><![CDATA[Old Disease Names Frequently Found on Death Certificates]]></title>
+        <id>https://news.ycombinator.com/item?id=27114310</id>
+        <link href="http://www.usgennet.org/usa/ar/county/greene/olddiseases1.htm"/>
+        <updated>2021-05-11T04:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.usgennet.org/usa/ar/county/greene/olddiseases1.htm
+Comments URL: https://news.ycombinator.com/item?id=27114310
+Points: 29
+# Comments: 22]]></summary>
         <author>
-            <name>erentz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voyager 1 hears the hush of interstellar plasma]]></title>
-        <id>https://news.ycombinator.com/item?id=27113667</id>
-        <link href="https://astronomycommunity.nature.com/posts/voyager-1-hears-the-hush-of-interstellar-plasma"/>
-        <updated>2021-05-11T02:46:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://astronomycommunity.nature.com/posts/voyager-1-hears-the-hush-of-interstellar-plasma
-Comments URL: https://news.ycombinator.com/item?id=27113667
-Points: 203
-# Comments: 75]]></summary>
-        <author>
-            <name>sohkamyung</name>
+            <name>js2</name>
         </author>
     </entry>
     <entry>
@@ -587,16 +605,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python and OpenCV Course –Create Computer Vision Apps in the Cloud]]></title>
-        <id>609307e801fc34080ef8191e</id>
-        <link href="https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/"/>
-        <updated>2021-05-05T21:11:40.000Z</updated>
-        <summary type="html"><![CDATA[OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Progress Delayed Is Progress Denied]]></title>
         <id>https://css-tricks.com/?p=339954</id>
         <link href="https://infrequently.org/2021/04/progress-delayed/"/>
@@ -724,16 +732,6 @@ The post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Async Await Tutorial – With Asynchronous JavaScript Examples]]></title>
-        <id>609011fd8eb3fb07cf09a034</id>
-        <link href="https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/"/>
-        <updated>2021-05-04T16:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A complete guide to Node.js async await]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>

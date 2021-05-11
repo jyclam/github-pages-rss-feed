@@ -6,9 +6,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27119221",
+          "author": "muramira",
+          "description": "Article URL: https://blog.vamp.io/vamp-is-joining-circleci/\nComments URL: https://news.ycombinator.com/item?id=27119221\nPoints: 13\n# Comments: 1",
+          "link": "https://blog.vamp.io/vamp-is-joining-circleci/",
+          "publishedOn": "2021-05-11T15:24:59.000Z",
+          "wordCount": 1038,
+          "title": "CircleCI Acquires Vamp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27119107",
+          "author": "cjwinans79",
+          "description": "Article URL: https://www.betteroutcomes.xyz/how-to-know-if-that-idea-person-will-succeed-in-your-small-business/\nComments URL: https://news.ycombinator.com/item?id=27119107\nPoints: 48\n# Comments: 28",
+          "link": "https://www.betteroutcomes.xyz/how-to-know-if-that-idea-person-will-succeed-in-your-small-business/",
+          "publishedOn": "2021-05-11T15:17:07.000Z",
+          "wordCount": 828,
+          "title": "Why “Idea” People Are Risky and What to Do About It"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27118997",
+          "author": "caution",
+          "description": "Article URL: https://blog.rust-lang.org/2021/05/11/edition-2021.html\nComments URL: https://news.ycombinator.com/item?id=27118997\nPoints: 54\n# Comments: 2",
+          "link": "https://blog.rust-lang.org/2021/05/11/edition-2021.html",
+          "publishedOn": "2021-05-11T15:09:31.000Z",
+          "wordCount": 2414,
+          "title": "The Plan for the Rust 2021 Edition"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27118794",
+          "author": "alymurray",
+          "description": "Hi everyone! My name’s Aly, and I’m the founder of UPchieve (https://upchieve.org). I’m here with UPchieve’s CTO, Dave (thedevelopnik). We’re an edtech nonprofit that provides free, 24/7 online tutoring to low-income high school students.\nThe idea for UPchieve was based on my own personal experience as a low-income student. I was raised by a single mom who was an immigrant to the US and often couldn’t help me with schoolwork and applying to college. So I went to a community college, and from there it took m…",
+          "link": "https://news.ycombinator.com/item?id=27118794",
+          "publishedOn": "2021-05-11T14:53:40.000Z",
+          "wordCount": 2114,
+          "title": "Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27118782",
+          "author": "TangerineDream",
+          "description": "Article URL: https://arstechnica.com/science/2021/05/a-new-book-amazon-unbound-reveals-jeff-bezos-envy-of-spacex/\nComments URL: https://news.ycombinator.com/item?id=27118782\nPoints: 46\n# Comments: 16",
+          "link": "https://arstechnica.com/science/2021/05/a-new-book-amazon-unbound-reveals-jeff-bezos-envy-of-spacex/",
+          "publishedOn": "2021-05-11T14:52:49.000Z",
+          "wordCount": 1439,
+          "title": "A new book, Amazon Unbound, reveals Jeff Bezos’ envy of SpaceX"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27118541",
           "author": "vquemener",
-          "description": "Article URL: https://eng.uber.com/pprof-go-profiler/\nComments URL: https://news.ycombinator.com/item?id=27118541\nPoints: 6\n# Comments: 0",
+          "description": "Article URL: https://eng.uber.com/pprof-go-profiler/\nComments URL: https://news.ycombinator.com/item?id=27118541\nPoints: 72\n# Comments: 5",
           "link": "https://eng.uber.com/pprof-go-profiler/",
           "publishedOn": "2021-05-11T14:32:06.000Z",
           "wordCount": 3594,
@@ -17,64 +62,46 @@
         {
           "id": "https://news.ycombinator.com/item?id=27118384",
           "author": "heshiebee",
-          "description": "Article URL: https://www.nytimes.com/2021/05/11/briefing/outdoor-covid-transmission-cdc-number.html\nComments URL: https://news.ycombinator.com/item?id=27118384\nPoints: 14\n# Comments: 2",
+          "description": "Article URL: https://www.nytimes.com/2021/05/11/briefing/outdoor-covid-transmission-cdc-number.html\nComments URL: https://news.ycombinator.com/item?id=27118384\nPoints: 41\n# Comments: 35",
           "link": "https://www.nytimes.com/2021/05/11/briefing/outdoor-covid-transmission-cdc-number.html",
           "publishedOn": "2021-05-11T14:18:38.000Z",
-          "wordCount": 1975,
+          "wordCount": 1918,
           "title": "A Misleading CDC Number"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27118364",
-          "author": "fortran77",
-          "description": "Article URL: https://www.youtube.com/watch?v=4MOs4W-WYlM\nComments URL: https://news.ycombinator.com/item?id=27118364\nPoints: 13\n# Comments: 4",
-          "link": "https://www.youtube.com/watch?v=4MOs4W-WYlM",
-          "publishedOn": "2021-05-11T14:16:30.000Z",
-          "wordCount": 19,
-          "title": "Starting the World's First V8 Powered Tesla [video]"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27118362",
           "author": "elsewhen",
-          "description": "Article URL: https://www.axios.com/tiktok-job-hiring-tiktok-576f3b99-602c-46ac-afed-218ddf61a9ba.html\nComments URL: https://news.ycombinator.com/item?id=27118362\nPoints: 27\n# Comments: 9",
+          "description": "Article URL: https://www.axios.com/tiktok-job-hiring-tiktok-576f3b99-602c-46ac-afed-218ddf61a9ba.html\nComments URL: https://news.ycombinator.com/item?id=27118362\nPoints: 97\n# Comments: 75",
           "link": "https://www.axios.com/tiktok-job-hiring-tiktok-576f3b99-602c-46ac-afed-218ddf61a9ba.html",
           "publishedOn": "2021-05-11T14:16:07.000Z",
-          "wordCount": 1164,
+          "wordCount": 1185,
           "title": "TikTok launching jobs service for Gen Z"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27117586",
           "author": "rbanffy",
-          "description": "Article URL: https://arstechnica.com/science/2021/05/spacex-hits-major-reuse-milestone-with-rockets-10th-flight/\nComments URL: https://news.ycombinator.com/item?id=27117586\nPoints: 68\n# Comments: 39",
+          "description": "Article URL: https://arstechnica.com/science/2021/05/spacex-hits-major-reuse-milestone-with-rockets-10th-flight/\nComments URL: https://news.ycombinator.com/item?id=27117586\nPoints: 107\n# Comments: 57",
           "link": "https://arstechnica.com/science/2021/05/spacex-hits-major-reuse-milestone-with-rockets-10th-flight/",
           "publishedOn": "2021-05-11T13:07:43.000Z",
           "wordCount": 896,
           "title": "A SpaceX booster now trails only 4 space shuttles in flight experience"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27117464",
-          "author": "clockworksoul",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Amygdala_hijack\nComments URL: https://news.ycombinator.com/item?id=27117464\nPoints: 24\n# Comments: 6",
-          "link": "https://en.wikipedia.org/wiki/Amygdala_hijack",
-          "publishedOn": "2021-05-11T12:52:46.000Z",
-          "wordCount": 912,
-          "title": "Amygdala hijack"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27117320",
-          "author": "ChicagoBoy11",
-          "description": "Article URL: https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data\nComments URL: https://news.ycombinator.com/item?id=27117320\nPoints: 31\n# Comments: 17",
-          "link": "https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data",
-          "publishedOn": "2021-05-11T12:37:24.000Z",
-          "wordCount": 2857,
-          "title": "Boeing 787s must be turned off and on every 51 days (2020)"
+          "id": "https://news.ycombinator.com/item?id=27117147",
+          "author": "tosh",
+          "description": "Article URL: https://publicpolicy.googleblog.com/2009/12/meaning-of-open.html\nComments URL: https://news.ycombinator.com/item?id=27117147\nPoints: 10\n# Comments: 1",
+          "link": "https://publicpolicy.googleblog.com/2009/12/meaning-of-open.html",
+          "publishedOn": "2021-05-11T12:16:23.000Z",
+          "wordCount": 6733,
+          "title": "The Meaning of Open (2009)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27117121",
           "author": "pseudolus",
-          "description": "Article URL: https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html\nComments URL: https://news.ycombinator.com/item?id=27117121\nPoints: 15\n# Comments: 3",
+          "description": "Article URL: https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html\nComments URL: https://news.ycombinator.com/item?id=27117121\nPoints: 26\n# Comments: 8",
           "link": "https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html",
           "publishedOn": "2021-05-11T12:12:27.000Z",
-          "wordCount": 1774,
+          "wordCount": 1778,
           "title": "Aqueduct of Constantinople: Managing longest water channel of the ancient world"
         },
         {
@@ -87,54 +114,36 @@
           "title": "The Muse (YC W12) Is Hiring a Senior Data Engineer"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27116918",
-          "author": "Fabricio20",
-          "description": "Article URL: https://support.discord.com/hc/en-us/community/posts/1500001018522-The-New-UX-Design-is-Harmful-to-the-Visually-Impaired-and-Colorblind\nComments URL: https://news.ycombinator.com/item?id=27116918\nPoints: 40\n# Comments: 57",
-          "link": "https://support.discord.com/hc/en-us/community/posts/1500001018522-The-New-UX-Design-is-Harmful-to-the-Visually-Impaired-and-Colorblind",
-          "publishedOn": "2021-05-11T11:50:16.000Z",
-          "wordCount": null,
-          "title": "Discord's new UX design is harmful to the visually impaired and colorblind"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27116203",
           "author": "krzyzanowskim",
-          "description": "Article URL: https://panic.com/blog/the-future-of-code-editor/\nComments URL: https://news.ycombinator.com/item?id=27116203\nPoints: 60\n# Comments: 68",
+          "description": "Article URL: https://panic.com/blog/the-future-of-code-editor/\nComments URL: https://news.ycombinator.com/item?id=27116203\nPoints: 121\n# Comments: 125",
           "link": "https://panic.com/blog/the-future-of-code-editor/",
           "publishedOn": "2021-05-11T10:02:06.000Z",
-          "wordCount": 1842,
+          "wordCount": 1977,
           "title": "We’ll stop selling our Code Editor app for iOS soon"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27116106",
           "author": "moemin",
-          "description": "Article URL: https://www.codewell.cc/?ref=hn\nComments URL: https://news.ycombinator.com/item?id=27116106\nPoints: 33\n# Comments: 4",
+          "description": "Article URL: https://www.codewell.cc/?ref=hn\nComments URL: https://news.ycombinator.com/item?id=27116106\nPoints: 62\n# Comments: 9",
           "link": "https://www.codewell.cc/?ref=hn",
           "publishedOn": "2021-05-11T09:47:20.000Z",
           "wordCount": 9,
           "title": "Show HN: Improve your front end skills by practicing on real design templates"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27116024",
-          "author": "powderpig",
-          "description": "Article URL: https://tribunemag.co.uk/2021/05/workplace-wellbeing-is-a-scam\nComments URL: https://news.ycombinator.com/item?id=27116024\nPoints: 144\n# Comments: 160",
-          "link": "https://tribunemag.co.uk/2021/05/workplace-wellbeing-is-a-scam",
-          "publishedOn": "2021-05-11T09:34:25.000Z",
-          "wordCount": 1331,
-          "title": "Workplace Wellbeing Is a Scam?"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27115809",
           "author": "encryptluks2",
-          "description": "Article URL: https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011\nComments URL: https://news.ycombinator.com/item?id=27115809\nPoints: 382\n# Comments: 389",
+          "description": "Article URL: https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011\nComments URL: https://news.ycombinator.com/item?id=27115809\nPoints: 429\n# Comments: 450",
           "link": "https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011",
           "publishedOn": "2021-05-11T08:54:10.000Z",
-          "wordCount": 2382,
+          "wordCount": 2385,
           "title": "Amazon Sidewalk"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27115551",
           "author": "jorangreef",
-          "description": "Article URL: https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers\nComments URL: https://news.ycombinator.com/item?id=27115551\nPoints: 62\n# Comments: 41",
+          "description": "Article URL: https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers\nComments URL: https://news.ycombinator.com/item?id=27115551\nPoints: 77\n# Comments: 64",
           "link": "https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers",
           "publishedOn": "2021-05-11T08:17:20.000Z",
           "wordCount": 1182,
@@ -143,16 +152,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27115372",
           "author": "dinosaurs",
-          "description": "Article URL: https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/\nComments URL: https://news.ycombinator.com/item?id=27115372\nPoints: 173\n# Comments: 81",
+          "description": "Article URL: https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/\nComments URL: https://news.ycombinator.com/item?id=27115372\nPoints: 188\n# Comments: 95",
           "link": "https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/",
           "publishedOn": "2021-05-11T07:47:25.000Z",
-          "wordCount": 2104,
+          "wordCount": 2226,
           "title": "Exploring the software that flies SpaceX rockets and starships"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27115356",
           "author": "AndrewDucker",
-          "description": "Article URL: https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling\nComments URL: https://news.ycombinator.com/item?id=27115356\nPoints: 82\n# Comments: 36",
+          "description": "Article URL: https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling\nComments URL: https://news.ycombinator.com/item?id=27115356\nPoints: 96\n# Comments: 45",
           "link": "https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling",
           "publishedOn": "2021-05-11T07:44:56.000Z",
           "wordCount": 1672,
@@ -161,29 +170,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27114718",
           "author": "Ashoka_rkt",
-          "description": "Article URL: https://babeljs.io/blog/2021/05/10/funding-update.html\nComments URL: https://news.ycombinator.com/item?id=27114718\nPoints: 476\n# Comments: 461",
+          "description": "Article URL: https://babeljs.io/blog/2021/05/10/funding-update.html\nComments URL: https://news.ycombinator.com/item?id=27114718\nPoints: 519\n# Comments: 513",
           "link": "https://babeljs.io/blog/2021/05/10/funding-update.html",
           "publishedOn": "2021-05-11T06:00:32.000Z",
           "wordCount": 1727,
           "title": "Babel is used by millions, so why are we running out of money?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27114135",
-          "author": "erentz",
-          "description": "Article URL: https://www.epsilontheory.com/im-trying-to-understand-hedonic-adjustments/\nComments URL: https://news.ycombinator.com/item?id=27114135\nPoints: 59\n# Comments: 50",
-          "link": "https://www.epsilontheory.com/im-trying-to-understand-hedonic-adjustments/",
-          "publishedOn": "2021-05-11T04:12:12.000Z",
-          "wordCount": 3437,
-          "title": "I’m trying to understand hedonic adjustments"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27113667",
-          "author": "sohkamyung",
-          "description": "Article URL: https://astronomycommunity.nature.com/posts/voyager-1-hears-the-hush-of-interstellar-plasma\nComments URL: https://news.ycombinator.com/item?id=27113667\nPoints: 203\n# Comments: 75",
-          "link": "https://astronomycommunity.nature.com/posts/voyager-1-hears-the-hush-of-interstellar-plasma",
-          "publishedOn": "2021-05-11T02:46:23.000Z",
-          "wordCount": 1216,
-          "title": "Voyager 1 hears the hush of interstellar plasma"
+          "id": "https://news.ycombinator.com/item?id=27114310",
+          "author": "js2",
+          "description": "Article URL: http://www.usgennet.org/usa/ar/county/greene/olddiseases1.htm\nComments URL: https://news.ycombinator.com/item?id=27114310\nPoints: 29\n# Comments: 22",
+          "link": "http://www.usgennet.org/usa/ar/county/greene/olddiseases1.htm",
+          "publishedOn": "2021-05-11T04:46:30.000Z",
+          "wordCount": 1712,
+          "title": "Old Disease Names Frequently Found on Death Certificates"
         }
       ]
     },
@@ -335,7 +335,7 @@
           "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1226,
+          "wordCount": 1223,
           "title": "Next Gen CSS: @container"
         },
         {
@@ -434,7 +434,7 @@
           "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/astro/",
           "publishedOn": "2021-05-05T21:49:23.000Z",
-          "wordCount": 920,
+          "wordCount": 935,
           "title": "Astro"
         },
         {
@@ -713,6 +713,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60856789dd38b9088c2bf4ff",
+          "author": "",
+          "description": "Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash",
+          "link": "https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/",
+          "publishedOn": "2021-05-11T15:24:00.000Z",
+          "wordCount": 2519,
+          "title": "JavaScript Hash Table – Associative Array Hashing in JS"
+        },
+        {
+          "id": "60977de12cd0545b5e944661",
+          "author": "",
+          "description": "In this article, I'll talk about what ChakraUI is and why you should use it.  Chakra UI is a component-based library. It's made up of basic building blocks that can help you build the front-end of your web application.  It is customizable and reusable, and most importantly it supports ReactJs,",
+          "link": "https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/",
+          "publishedOn": "2021-05-11T15:22:27.000Z",
+          "wordCount": 1680,
+          "title": "Why You Should Start Using Chakra UI"
+        },
+        {
           "id": "60998ee76008950828b3ed10",
           "author": "",
           "description": "Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this",
@@ -783,24 +801,6 @@
           "publishedOn": "2021-05-06T16:06:35.000Z",
           "wordCount": 1775,
           "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
-        },
-        {
-          "id": "609307e801fc34080ef8191e",
-          "author": "",
-          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
-          "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
-          "publishedOn": "2021-05-05T21:11:40.000Z",
-          "wordCount": 352,
-          "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
-        },
-        {
-          "id": "609011fd8eb3fb07cf09a034",
-          "author": "",
-          "description": "A complete guide to Node.js async await",
-          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
-          "publishedOn": "2021-05-04T16:07:17.000Z",
-          "wordCount": 2241,
-          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
         }
       ]
     }
