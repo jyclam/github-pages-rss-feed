@@ -2,21 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T18:23:49.576Z</updated>
+    <updated>2021-05-11T19:16:29.994Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[VW Will Sell You Self-Driving for $8.50/Hour Someday. Too High or Too Low?]]></title>
-        <id>https://news.ycombinator.com/item?id=27121442</id>
-        <link href="https://www.forbes.com/sites/bradtempleton/2021/05/11/vw-will-sell-you-self-driving-for-850hour-someday--too-high-or-too-low/"/>
-        <updated>2021-05-11T18:11:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/bradtempleton/2021/05/11/vw-will-sell-you-self-driving-for-850hour-someday--too-high-or-too-low/
-Comments URL: https://news.ycombinator.com/item?id=27121442
-Points: 12
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[Newly discovered implementation flaws in Wi-Fi, all Wi-Fi devices are affected]]></title>
+        <id>https://news.ycombinator.com/item?id=27121918</id>
+        <link href="https://www.fragattacks.com/"/>
+        <updated>2021-05-11T18:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fragattacks.com/
+Comments URL: https://news.ycombinator.com/item?id=27121918
+Points: 11
+# Comments: 1]]></summary>
         <author>
-            <name>mhb</name>
+            <name>sylvainkalache</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Billionaires Don't Pay Property Taxes in New York]]></title>
+        <id>https://news.ycombinator.com/item?id=27121662</id>
+        <link href="https://www.bloomberg.com/news/articles/2015-05-11/why-billionaires-don-t-pay-property-taxes-in-new-york"/>
+        <updated>2021-05-11T18:28:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2015-05-11/why-billionaires-don-t-pay-property-taxes-in-new-york
+Comments URL: https://news.ycombinator.com/item?id=27121662
+Points: 22
+# Comments: 2]]></summary>
+        <author>
+            <name>fh973</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech giants join call for funding U.S. chip production]]></title>
+        <id>https://news.ycombinator.com/item?id=27121586</id>
+        <link href="https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK"/>
+        <updated>2021-05-11T18:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK
+Comments URL: https://news.ycombinator.com/item?id=27121586
+Points: 108
+# Comments: 74]]></summary>
+        <author>
+            <name>tareqak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Oncoming Ransomware Storm]]></title>
+        <id>https://news.ycombinator.com/item?id=27121532</id>
+        <link href="https://www.stephendiehl.com/blog/ransomware.html"/>
+        <updated>2021-05-11T18:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.stephendiehl.com/blog/ransomware.html
+Comments URL: https://news.ycombinator.com/item?id=27121532
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>tenslisi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Mailed an AirTag and Tracked Its Progress; Here’s What Happened]]></title>
+        <id>https://news.ycombinator.com/item?id=27121461</id>
+        <link href="https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/"/>
+        <updated>2021-05-11T18:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/
+Comments URL: https://news.ycombinator.com/item?id=27121461
+Points: 76
+# Comments: 57]]></summary>
+        <author>
+            <name>miles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany bans Facebook from handling WhatsApp data over privacy concerns]]></title>
+        <id>https://news.ycombinator.com/item?id=27121332</id>
+        <link href="https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns"/>
+        <updated>2021-05-11T18:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns
+Comments URL: https://news.ycombinator.com/item?id=27121332
+Points: 18
+# Comments: 0]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
@@ -27,6 +92,19 @@ Points: 12
         <summary type="html"><![CDATA[In today’s world, just having a website is not enough. The website needs to have a clean UI and it needs to be intuitive. And most importantly, it needs to have some sort of interactive element. Interactivity keeps users glued to your site for longer periods of time. As]]></summary>
         <author>
             <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Rust into the Android Open Source Project]]></title>
+        <id>https://news.ycombinator.com/item?id=27121011</id>
+        <link href="https://security.googleblog.com/2021/05/integrating-rust-into-android-open.html"/>
+        <updated>2021-05-11T17:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://security.googleblog.com/2021/05/integrating-rust-into-android-open.html
+Comments URL: https://news.ycombinator.com/item?id=27121011
+Points: 41
+# Comments: 7]]></summary>
+        <author>
+            <name>theafh</name>
         </author>
     </entry>
     <entry>
@@ -46,8 +124,8 @@ Points: 12
         <updated>2021-05-11T17:25:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://decrypt.co/70420/man-used-coinbase-hitman-bitcoin-fbi
 Comments URL: https://news.ycombinator.com/item?id=27120821
-Points: 11
-# Comments: 3]]></summary>
+Points: 39
+# Comments: 26]]></summary>
         <author>
             <name>optimalsolver</name>
         </author>
@@ -59,8 +137,8 @@ Points: 11
         <updated>2021-05-11T17:14:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stratechery.com/2021/cloudflare-on-the-edge/
 Comments URL: https://news.ycombinator.com/item?id=27120677
-Points: 16
-# Comments: 5]]></summary>
+Points: 47
+# Comments: 22]]></summary>
         <author>
             <name>kaboro</name>
         </author>
@@ -85,8 +163,8 @@ Points: 1
         <updated>2021-05-11T16:57:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://scp-wiki.wikidot.com/scp-2521
 Comments URL: https://news.ycombinator.com/item?id=27120460
-Points: 113
-# Comments: 52]]></summary>
+Points: 159
+# Comments: 81]]></summary>
         <author>
             <name>crazypython</name>
         </author>
@@ -98,8 +176,8 @@ Points: 113
         <updated>2021-05-11T16:47:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/
 Comments URL: https://news.ycombinator.com/item?id=27120354
-Points: 29
-# Comments: 12]]></summary>
+Points: 43
+# Comments: 23]]></summary>
         <author>
             <name>airstrike</name>
         </author>
@@ -111,8 +189,8 @@ Points: 29
         <updated>2021-05-11T16:36:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ianwhitestone.work/good-ds-bad-ds/
 Comments URL: https://news.ycombinator.com/item?id=27120231
-Points: 25
-# Comments: 10]]></summary>
+Points: 45
+# Comments: 26]]></summary>
         <author>
             <name>ian-whitestone</name>
         </author>
@@ -124,8 +202,8 @@ Points: 25
         <updated>2021-05-11T16:33:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://plaid.com/blog/a-new-architecture-for-plaid-link-server-driven-ui-with-directed-graphs
 Comments URL: https://news.ycombinator.com/item?id=27120204
-Points: 18
-# Comments: 3]]></summary>
+Points: 27
+# Comments: 7]]></summary>
         <author>
             <name>bjacokes</name>
         </author>
@@ -137,7 +215,7 @@ Points: 18
         <updated>2021-05-11T15:24:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.vamp.io/vamp-is-joining-circleci/
 Comments URL: https://news.ycombinator.com/item?id=27119221
-Points: 42
+Points: 48
 # Comments: 4]]></summary>
         <author>
             <name>muramira</name>
@@ -170,8 +248,8 @@ Points: 42
         <updated>2021-05-11T15:09:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.rust-lang.org/2021/05/11/edition-2021.html
 Comments URL: https://news.ycombinator.com/item?id=27118997
-Points: 155
-# Comments: 49]]></summary>
+Points: 174
+# Comments: 54]]></summary>
         <author>
             <name>caution</name>
         </author>
@@ -219,8 +297,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-11T14:32:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eng.uber.com/pprof-go-profiler/
 Comments URL: https://news.ycombinator.com/item?id=27118541
-Points: 145
-# Comments: 22]]></summary>
+Points: 160
+# Comments: 28]]></summary>
         <author>
             <name>vquemener</name>
         </author>
@@ -232,8 +310,8 @@ Points: 145
         <updated>2021-05-11T14:16:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.axios.com/tiktok-job-hiring-tiktok-576f3b99-602c-46ac-afed-218ddf61a9ba.html
 Comments URL: https://news.ycombinator.com/item?id=27118362
-Points: 165
-# Comments: 188]]></summary>
+Points: 186
+# Comments: 209]]></summary>
         <author>
             <name>elsewhen</name>
         </author>
@@ -255,8 +333,8 @@ Points: 165
         <updated>2021-05-11T13:07:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/spacex-hits-major-reuse-milestone-with-rockets-10th-flight/
 Comments URL: https://news.ycombinator.com/item?id=27117586
-Points: 157
-# Comments: 95]]></summary>
+Points: 172
+# Comments: 109]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -272,45 +350,6 @@ Points: 157
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Meaning of Open (2009)]]></title>
-        <id>https://news.ycombinator.com/item?id=27117147</id>
-        <link href="https://publicpolicy.googleblog.com/2009/12/meaning-of-open.html"/>
-        <updated>2021-05-11T12:16:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://publicpolicy.googleblog.com/2009/12/meaning-of-open.html
-Comments URL: https://news.ycombinator.com/item?id=27117147
-Points: 18
-# Comments: 3]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aqueduct of Constantinople: Managing longest water channel of the ancient world]]></title>
-        <id>https://news.ycombinator.com/item?id=27117121</id>
-        <link href="https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html"/>
-        <updated>2021-05-11T12:12:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html
-Comments URL: https://news.ycombinator.com/item?id=27117121
-Points: 44
-# Comments: 16]]></summary>
-        <author>
-            <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We’ll stop selling our Code Editor app for iOS soon]]></title>
-        <id>https://news.ycombinator.com/item?id=27116203</id>
-        <link href="https://panic.com/blog/the-future-of-code-editor/"/>
-        <updated>2021-05-11T10:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://panic.com/blog/the-future-of-code-editor/
-Comments URL: https://news.ycombinator.com/item?id=27116203
-Points: 195
-# Comments: 247]]></summary>
-        <author>
-            <name>krzyzanowskim</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
         <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
         <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
@@ -318,45 +357,6 @@ Points: 195
         <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Improve your front end skills by practicing on real design templates]]></title>
-        <id>https://news.ycombinator.com/item?id=27116106</id>
-        <link href="https://www.codewell.cc/?ref=hn"/>
-        <updated>2021-05-11T09:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.codewell.cc/?ref=hn
-Comments URL: https://news.ycombinator.com/item?id=27116106
-Points: 110
-# Comments: 12]]></summary>
-        <author>
-            <name>moemin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Sidewalk]]></title>
-        <id>https://news.ycombinator.com/item?id=27115809</id>
-        <link href="https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011"/>
-        <updated>2021-05-11T08:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011
-Comments URL: https://news.ycombinator.com/item?id=27115809
-Points: 518
-# Comments: 566]]></summary>
-        <author>
-            <name>encryptluks2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An intro to Zig's integer casting for C programmers]]></title>
-        <id>https://news.ycombinator.com/item?id=27115551</id>
-        <link href="https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers"/>
-        <updated>2021-05-11T08:17:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers
-Comments URL: https://news.ycombinator.com/item?id=27115551
-Points: 99
-# Comments: 79]]></summary>
-        <author>
-            <name>jorangreef</name>
         </author>
     </entry>
     <entry>
