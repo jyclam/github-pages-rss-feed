@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T13:23:00.431Z</updated>
+    <updated>2021-05-11T14:12:00.014Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
+        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
+        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
+        <updated>2021-05-11T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A SpaceX booster now trails only 4 space shuttles in flight experience]]></title>
+        <id>https://news.ycombinator.com/item?id=27117586</id>
+        <link href="https://arstechnica.com/science/2021/05/spacex-hits-major-reuse-milestone-with-rockets-10th-flight/"/>
+        <updated>2021-05-11T13:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/spacex-hits-major-reuse-milestone-with-rockets-10th-flight/
+Comments URL: https://news.ycombinator.com/item?id=27117586
+Points: 25
+# Comments: 7]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Design Good Typography - Free Treehouse Course]]></title>
         <id>60998ee76008950828b3ed10</id>
@@ -14,6 +37,45 @@
         <summary type="html"><![CDATA[Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this]]></summary>
         <author>
             <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amygdala hijack]]></title>
+        <id>https://news.ycombinator.com/item?id=27117464</id>
+        <link href="https://en.wikipedia.org/wiki/Amygdala_hijack"/>
+        <updated>2021-05-11T12:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Amygdala_hijack
+Comments URL: https://news.ycombinator.com/item?id=27117464
+Points: 9
+# Comments: 1]]></summary>
+        <author>
+            <name>clockworksoul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boeing 787s must be turned off and on every 51 days (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27117320</id>
+        <link href="https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data"/>
+        <updated>2021-05-11T12:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data
+Comments URL: https://news.ycombinator.com/item?id=27117320
+Points: 12
+# Comments: 3]]></summary>
+        <author>
+            <name>ChicagoBoy11</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aqueduct of Constantinople: Managing longest water channel of the ancient world]]></title>
+        <id>https://news.ycombinator.com/item?id=27117121</id>
+        <link href="https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html"/>
+        <updated>2021-05-11T12:12:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html
+Comments URL: https://news.ycombinator.com/item?id=27117121
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
@@ -30,19 +92,6 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord's new UX design is harmful to the visually impaired and colorblind]]></title>
-        <id>https://news.ycombinator.com/item?id=27116918</id>
-        <link href="https://support.discord.com/hc/en-us/community/posts/1500001018522-The-New-UX-Design-is-Harmful-to-the-Visually-Impaired-and-Colorblind"/>
-        <updated>2021-05-11T11:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://support.discord.com/hc/en-us/community/posts/1500001018522-The-New-UX-Design-is-Harmful-to-the-Visually-Impaired-and-Colorblind
-Comments URL: https://news.ycombinator.com/item?id=27116918
-Points: 23
-# Comments: 3]]></summary>
-        <author>
-            <name>Fabricio20</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
         <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
         <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
@@ -53,27 +102,27 @@ Points: 23
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Workplace Wellbeing Is a Scam]]></title>
-        <id>https://news.ycombinator.com/item?id=27116024</id>
-        <link href="https://tribunemag.co.uk/2021/05/workplace-wellbeing-is-a-scam"/>
-        <updated>2021-05-11T09:34:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tribunemag.co.uk/2021/05/workplace-wellbeing-is-a-scam
-Comments URL: https://news.ycombinator.com/item?id=27116024
-Points: 120
-# Comments: 113]]></summary>
+        <title type="html"><![CDATA[Show HN: Improve your front end skills by practicing on real design templates]]></title>
+        <id>https://news.ycombinator.com/item?id=27116106</id>
+        <link href="https://www.codewell.cc/?ref=hn"/>
+        <updated>2021-05-11T09:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.codewell.cc/?ref=hn
+Comments URL: https://news.ycombinator.com/item?id=27116106
+Points: 13
+# Comments: 2]]></summary>
         <author>
-            <name>powderpig</name>
+            <name>moemin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Echo will start sharing your Internet with neighbors in June]]></title>
+        <title type="html"><![CDATA[Amazon Sidewalk]]></title>
         <id>https://news.ycombinator.com/item?id=27115809</id>
         <link href="https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011"/>
         <updated>2021-05-11T08:54:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011
 Comments URL: https://news.ycombinator.com/item?id=27115809
-Points: 316
-# Comments: 288]]></summary>
+Points: 350
+# Comments: 336]]></summary>
         <author>
             <name>encryptluks2</name>
         </author>
@@ -85,8 +134,8 @@ Points: 316
         <updated>2021-05-11T08:17:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers
 Comments URL: https://news.ycombinator.com/item?id=27115551
-Points: 22
-# Comments: 5]]></summary>
+Points: 37
+# Comments: 15]]></summary>
         <author>
             <name>jorangreef</name>
         </author>
@@ -98,8 +147,8 @@ Points: 22
         <updated>2021-05-11T07:47:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/
 Comments URL: https://news.ycombinator.com/item?id=27115372
-Points: 132
-# Comments: 61]]></summary>
+Points: 161
+# Comments: 73]]></summary>
         <author>
             <name>dinosaurs</name>
         </author>
@@ -111,8 +160,8 @@ Points: 132
         <updated>2021-05-11T07:44:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling
 Comments URL: https://news.ycombinator.com/item?id=27115356
-Points: 75
-# Comments: 24]]></summary>
+Points: 78
+# Comments: 29]]></summary>
         <author>
             <name>AndrewDucker</name>
         </author>
@@ -124,8 +173,8 @@ Points: 75
         <updated>2021-05-11T06:00:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://babeljs.io/blog/2021/05/10/funding-update.html
 Comments URL: https://news.ycombinator.com/item?id=27114718
-Points: 311
-# Comments: 331]]></summary>
+Points: 342
+# Comments: 371]]></summary>
         <author>
             <name>Ashoka_rkt</name>
         </author>
@@ -137,8 +186,8 @@ Points: 311
         <updated>2021-05-11T02:46:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://astronomycommunity.nature.com/posts/voyager-1-hears-the-hush-of-interstellar-plasma
 Comments URL: https://news.ycombinator.com/item?id=27113667
-Points: 173
-# Comments: 60]]></summary>
+Points: 190
+# Comments: 71]]></summary>
         <author>
             <name>sohkamyung</name>
         </author>
@@ -150,8 +199,8 @@ Points: 173
         <updated>2021-05-11T02:31:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01248-9
 Comments URL: https://news.ycombinator.com/item?id=27113558
-Points: 88
-# Comments: 54]]></summary>
+Points: 90
+# Comments: 61]]></summary>
         <author>
             <name>sohkamyung</name>
         </author>
@@ -163,8 +212,8 @@ Points: 88
         <updated>2021-05-11T01:48:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/
 Comments URL: https://news.ycombinator.com/item?id=27113222
-Points: 315
-# Comments: 201]]></summary>
+Points: 329
+# Comments: 214]]></summary>
         <author>
             <name>carabiner</name>
         </author>
@@ -186,8 +235,8 @@ Points: 315
         <updated>2021-05-11T01:08:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.caniemail.com/
 Comments URL: https://news.ycombinator.com/item?id=27112960
-Points: 474
-# Comments: 199]]></summary>
+Points: 507
+# Comments: 210]]></summary>
         <author>
             <name>ggregoire</name>
         </author>
@@ -199,8 +248,8 @@ Points: 474
         <updated>2021-05-11T00:25:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01222-5
 Comments URL: https://news.ycombinator.com/item?id=27112699
-Points: 250
-# Comments: 222]]></summary>
+Points: 262
+# Comments: 233]]></summary>
         <author>
             <name>gmays</name>
         </author>
@@ -212,8 +261,8 @@ Points: 250
         <updated>2021-05-11T00:03:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://atlasengineering.io
 Comments URL: https://news.ycombinator.com/item?id=27112529
-Points: 290
-# Comments: 112]]></summary>
+Points: 304
+# Comments: 113]]></summary>
         <author>
             <name>gamabunta</name>
         </author>
@@ -225,8 +274,8 @@ Points: 290
         <updated>2021-05-10T22:11:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.arrl.org/news/a-perfect-coronal-mass-ejection-could-be-a-nightmare
 Comments URL: https://news.ycombinator.com/item?id=27111512
-Points: 82
-# Comments: 77]]></summary>
+Points: 91
+# Comments: 92]]></summary>
         <author>
             <name>johntfella</name>
         </author>
@@ -238,23 +287,10 @@ Points: 82
         <updated>2021-05-10T22:07:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet
 Comments URL: https://news.ycombinator.com/item?id=27111466
-Points: 237
-# Comments: 105]]></summary>
+Points: 246
+# Comments: 110]]></summary>
         <author>
             <name>chr15m</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Atari 2600 Game Pitfall Builds Its World]]></title>
-        <id>https://news.ycombinator.com/item?id=27111377</id>
-        <link href="https://evoniuk.github.io/posts/pitfall.html"/>
-        <updated>2021-05-10T21:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://evoniuk.github.io/posts/pitfall.html
-Comments URL: https://news.ycombinator.com/item?id=27111377
-Points: 139
-# Comments: 21]]></summary>
-        <author>
-            <name>weare138</name>
         </author>
     </entry>
     <entry>
@@ -290,36 +326,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-10T20:26:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.codeproject.com/Articles/5279276/The-Surgical-Team-in-XXI-Century
 Comments URL: https://news.ycombinator.com/item?id=27110494
-Points: 13
-# Comments: 12]]></summary>
+Points: 14
+# Comments: 15]]></summary>
         <author>
             <name>ptr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung to jump into laptop processor market with Exynos chip in H2]]></title>
-        <id>https://news.ycombinator.com/item?id=27110493</id>
-        <link href="https://www.kedglobal.com/newsView/ked202105090002"/>
-        <updated>2021-05-10T20:26:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kedglobal.com/newsView/ked202105090002
-Comments URL: https://news.ycombinator.com/item?id=27110493
-Points: 287
-# Comments: 258]]></summary>
-        <author>
-            <name>cbg0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using PostgreSQL as a Data Warehouse]]></title>
-        <id>https://news.ycombinator.com/item?id=27109960</id>
-        <link href="https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/"/>
-        <updated>2021-05-10T19:39:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/
-Comments URL: https://news.ycombinator.com/item?id=27109960
-Points: 361
-# Comments: 134]]></summary>
-        <author>
-            <name>cedricd</name>
         </author>
     </entry>
     <entry>
