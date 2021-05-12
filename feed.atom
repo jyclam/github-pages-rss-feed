@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T14:14:14.160Z</updated>
+    <updated>2021-05-12T15:15:16.194Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Facebook moderator: ‘Every day was a nightmare’]]></title>
+        <id>https://news.ycombinator.com/item?id=27130845</id>
+        <link href="https://www.bbc.co.uk/news/technology-57088382"/>
+        <updated>2021-05-12T14:39:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57088382
+Comments URL: https://news.ycombinator.com/item?id=27130845
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>alexrustic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
+        <id>https://css-tricks.com/?p=339960</id>
+        <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
+        <updated>2021-05-12T14:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.
+There are lots of &#8230;
+The post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sandrina Pereira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emulating AirTags to upload arbitrary data via Apple's FindMy network]]></title>
+        <id>https://news.ycombinator.com/item?id=27130355</id>
+        <link href="https://positive.security/blog/send-my"/>
+        <updated>2021-05-12T13:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://positive.security/blog/send-my
+Comments URL: https://news.ycombinator.com/item?id=27130355
+Points: 168
+# Comments: 28]]></summary>
+        <author>
+            <name>kerm1t</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Robbed the Mob’s Bank]]></title>
         <id>https://news.ycombinator.com/item?id=27130281</id>
@@ -13,8 +52,8 @@
         <updated>2021-05-12T13:49:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mobiledevmemo.com/apple-robbed-the-mobs-bank/
 Comments URL: https://news.ycombinator.com/item?id=27130281
-Points: 7
-# Comments: 1]]></summary>
+Points: 39
+# Comments: 33]]></summary>
         <author>
             <name>ch_sm</name>
         </author>
@@ -26,21 +65,21 @@ Points: 7
         <updated>2021-05-12T13:48:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://simpleflying.com/australia-supersonic-flight/
 Comments URL: https://news.ycombinator.com/item?id=27130275
-Points: 4
+Points: 19
 # Comments: 0]]></summary>
         <author>
             <name>prostoalex</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Docs will move to canvas based rendering instead of DOM]]></title>
+        <title type="html"><![CDATA[Google Docs will now use canvas based rendering]]></title>
         <id>https://news.ycombinator.com/item?id=27129858</id>
         <link href="https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html"/>
         <updated>2021-05-12T13:05:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
 Comments URL: https://news.ycombinator.com/item?id=27129858
-Points: 43
-# Comments: 46]]></summary>
+Points: 160
+# Comments: 207]]></summary>
         <author>
             <name>lewisjoe</name>
         </author>
@@ -62,23 +101,10 @@ Points: 43
         <updated>2021-05-12T12:34:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/
 Comments URL: https://news.ycombinator.com/item?id=27129518
-Points: 33
-# Comments: 5]]></summary>
+Points: 61
+# Comments: 22]]></summary>
         <author>
             <name>wilsonfiifi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make a document look like it was written by a Cthulhu-worshipping madman? (2011)]]></title>
-        <id>https://news.ycombinator.com/item?id=27129451</id>
-        <link href="https://tex.stackexchange.com/questions/29402/how-do-i-make-my-document-look-like-it-was-written-by-a-cthulhu-worshipping-madm"/>
-        <updated>2021-05-12T12:25:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tex.stackexchange.com/questions/29402/how-do-i-make-my-document-look-like-it-was-written-by-a-cthulhu-worshipping-madm
-Comments URL: https://news.ycombinator.com/item?id=27129451
-Points: 23
-# Comments: 0]]></summary>
-        <author>
-            <name>segfaultbuserr</name>
         </author>
     </entry>
     <entry>
@@ -88,8 +114,8 @@ Points: 23
         <updated>2021-05-12T12:04:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e
 Comments URL: https://news.ycombinator.com/item?id=27129305
-Points: 91
-# Comments: 24]]></summary>
+Points: 124
+# Comments: 32]]></summary>
         <author>
             <name>highspeedmobile</name>
         </author>
@@ -114,8 +140,8 @@ Points: 1
         <updated>2021-05-12T11:18:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.erlang.org/My-OTP-24-Highlights/
 Comments URL: https://news.ycombinator.com/item?id=27128994
-Points: 195
-# Comments: 17]]></summary>
+Points: 246
+# Comments: 35]]></summary>
         <author>
             <name>nifoc</name>
         </author>
@@ -127,10 +153,23 @@ Points: 195
         <updated>2021-05-12T11:01:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/thin-pipe-part-i
 Comments URL: https://news.ycombinator.com/item?id=27128869
-Points: 73
-# Comments: 31]]></summary>
+Points: 100
+# Comments: 49]]></summary>
         <author>
             <name>mad_ned</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volvo and Daimler bet on hydrogen truck boom this decade]]></title>
+        <id>https://news.ycombinator.com/item?id=27128831</id>
+        <link href="https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/"/>
+        <updated>2021-05-12T10:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/
+Comments URL: https://news.ycombinator.com/item?id=27128831
+Points: 43
+# Comments: 108]]></summary>
+        <author>
+            <name>samizdis</name>
         </author>
     </entry>
     <entry>
@@ -140,8 +179,8 @@ Points: 73
         <updated>2021-05-12T10:51:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.checkmyworking.com/cm-web-fonts/
 Comments URL: https://news.ycombinator.com/item?id=27128803
-Points: 37
-# Comments: 30]]></summary>
+Points: 44
+# Comments: 41]]></summary>
         <author>
             <name>phab</name>
         </author>
@@ -153,8 +192,8 @@ Points: 37
         <updated>2021-05-12T10:46:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ban.ai/multics/
 Comments URL: https://news.ycombinator.com/item?id=27128765
-Points: 45
-# Comments: 12]]></summary>
+Points: 55
+# Comments: 15]]></summary>
         <author>
             <name>nix23</name>
         </author>
@@ -166,8 +205,8 @@ Points: 45
         <updated>2021-05-12T10:10:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://csvbox.io
 Comments URL: https://news.ycombinator.com/item?id=27128603
-Points: 54
-# Comments: 25]]></summary>
+Points: 69
+# Comments: 47]]></summary>
         <author>
             <name>spreadr</name>
         </author>
@@ -179,8 +218,8 @@ Points: 54
         <updated>2021-05-12T09:56:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller
 Comments URL: https://news.ycombinator.com/item?id=27128531
-Points: 128
-# Comments: 21]]></summary>
+Points: 162
+# Comments: 22]]></summary>
         <author>
             <name>dmitrygr</name>
         </author>
@@ -192,7 +231,7 @@ Points: 128
         <updated>2021-05-12T09:37:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dspace.mit.edu/handle/1721.1/109000
 Comments URL: https://news.ycombinator.com/item?id=27128425
-Points: 21
+Points: 27
 # Comments: 1]]></summary>
         <author>
             <name>eternalban</name>
@@ -205,23 +244,10 @@ Points: 21
         <updated>2021-05-12T09:37:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://build.mmm.page
 Comments URL: https://news.ycombinator.com/item?id=27128424
-Points: 262
-# Comments: 70]]></summary>
+Points: 301
+# Comments: 85]]></summary>
         <author>
             <name>xhfloz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guix 1.3]]></title>
-        <id>https://news.ycombinator.com/item?id=27128164</id>
-        <link href="https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/"/>
-        <updated>2021-05-12T08:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/
-Comments URL: https://news.ycombinator.com/item?id=27128164
-Points: 111
-# Comments: 52]]></summary>
-        <author>
-            <name>rekado</name>
         </author>
     </entry>
     <entry>
@@ -241,23 +267,23 @@ Points: 111
         <updated>2021-05-12T07:35:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9
 Comments URL: https://news.ycombinator.com/item?id=27127703
-Points: 87
-# Comments: 29]]></summary>
+Points: 100
+# Comments: 31]]></summary>
         <author>
             <name>winchester6788</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open source computer vision API]]></title>
-        <id>https://news.ycombinator.com/item?id=27127694</id>
-        <link href="https://openvisionapi.com"/>
-        <updated>2021-05-12T07:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openvisionapi.com
-Comments URL: https://news.ycombinator.com/item?id=27127694
-Points: 44
-# Comments: 7]]></summary>
+        <title type="html"><![CDATA[Show HN: Mobile App Automizer]]></title>
+        <id>https://news.ycombinator.com/item?id=27127578</id>
+        <link href="https://github.com/Trendyol/mobile-app-automizer"/>
+        <updated>2021-05-12T07:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/Trendyol/mobile-app-automizer
+Comments URL: https://news.ycombinator.com/item?id=27127578
+Points: 5
+# Comments: 2]]></summary>
         <author>
-            <name>pythops</name>
+            <name>sercaneraslan</name>
         </author>
     </entry>
     <entry>
@@ -267,23 +293,10 @@ Points: 44
         <updated>2021-05-12T06:41:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox
 Comments URL: https://news.ycombinator.com/item?id=27127403
-Points: 116
-# Comments: 55]]></summary>
+Points: 124
+# Comments: 59]]></summary>
         <author>
             <name>hyzyla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deno 1.1]]></title>
-        <id>https://news.ycombinator.com/item?id=27127316</id>
-        <link href="https://deno.com/blog/v1.10"/>
-        <updated>2021-05-12T06:28:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deno.com/blog/v1.10
-Comments URL: https://news.ycombinator.com/item?id=27127316
-Points: 220
-# Comments: 97]]></summary>
-        <author>
-            <name>caspervonb</name>
         </author>
     </entry>
     <entry>
@@ -645,18 +658,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. 
 I gotta admit: it looks awesome. I&#8217;m bullish &#8230;
 The post Astro appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progress Delayed Is Progress Denied]]></title>
-        <id>https://css-tricks.com/?p=339954</id>
-        <link href="https://infrequently.org/2021/04/progress-delayed/"/>
-        <updated>2021-05-05T16:51:23.000Z</updated>
-        <summary type="html"><![CDATA[The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;
-The post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>

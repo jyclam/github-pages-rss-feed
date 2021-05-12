@@ -6,9 +6,27 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27130845",
+          "author": "alexrustic",
+          "description": "Article URL: https://www.bbc.co.uk/news/technology-57088382\nComments URL: https://news.ycombinator.com/item?id=27130845\nPoints: 6\n# Comments: 0",
+          "link": "https://www.bbc.co.uk/news/technology-57088382",
+          "publishedOn": "2021-05-12T14:39:23.000Z",
+          "wordCount": 1573,
+          "title": "Facebook moderator: ‘Every day was a nightmare’"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27130355",
+          "author": "kerm1t",
+          "description": "Article URL: https://positive.security/blog/send-my\nComments URL: https://news.ycombinator.com/item?id=27130355\nPoints: 168\n# Comments: 28",
+          "link": "https://positive.security/blog/send-my",
+          "publishedOn": "2021-05-12T13:57:04.000Z",
+          "wordCount": 2795,
+          "title": "Emulating AirTags to upload arbitrary data via Apple's FindMy network"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27130281",
           "author": "ch_sm",
-          "description": "Article URL: https://mobiledevmemo.com/apple-robbed-the-mobs-bank/\nComments URL: https://news.ycombinator.com/item?id=27130281\nPoints: 7\n# Comments: 1",
+          "description": "Article URL: https://mobiledevmemo.com/apple-robbed-the-mobs-bank/\nComments URL: https://news.ycombinator.com/item?id=27130281\nPoints: 39\n# Comments: 33",
           "link": "https://mobiledevmemo.com/apple-robbed-the-mobs-bank/",
           "publishedOn": "2021-05-12T13:49:36.000Z",
           "wordCount": 1306,
@@ -17,43 +35,34 @@
         {
           "id": "https://news.ycombinator.com/item?id=27130275",
           "author": "prostoalex",
-          "description": "Article URL: https://simpleflying.com/australia-supersonic-flight/\nComments URL: https://news.ycombinator.com/item?id=27130275\nPoints: 4\n# Comments: 0",
+          "description": "Article URL: https://simpleflying.com/australia-supersonic-flight/\nComments URL: https://news.ycombinator.com/item?id=27130275\nPoints: 19\n# Comments: 0",
           "link": "https://simpleflying.com/australia-supersonic-flight/",
           "publishedOn": "2021-05-12T13:48:50.000Z",
-          "wordCount": 1405,
+          "wordCount": 1410,
           "title": "Australia Joins the Race for Supersonic Flight"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27129858",
           "author": "lewisjoe",
-          "description": "Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html\nComments URL: https://news.ycombinator.com/item?id=27129858\nPoints: 43\n# Comments: 46",
+          "description": "Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html\nComments URL: https://news.ycombinator.com/item?id=27129858\nPoints: 160\n# Comments: 207",
           "link": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
           "publishedOn": "2021-05-12T13:05:16.000Z",
           "wordCount": 1009,
-          "title": "Google Docs will move to canvas based rendering instead of DOM"
+          "title": "Google Docs will now use canvas based rendering"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27129518",
           "author": "wilsonfiifi",
-          "description": "Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/\nComments URL: https://news.ycombinator.com/item?id=27129518\nPoints: 33\n# Comments: 5",
+          "description": "Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/\nComments URL: https://news.ycombinator.com/item?id=27129518\nPoints: 61\n# Comments: 22",
           "link": "https://jmtirado.net/writing-a-programming-book-in-2021/",
           "publishedOn": "2021-05-12T12:34:28.000Z",
           "wordCount": 1791,
           "title": "Writing a Programming Book in 2021"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27129451",
-          "author": "segfaultbuserr",
-          "description": "Article URL: https://tex.stackexchange.com/questions/29402/how-do-i-make-my-document-look-like-it-was-written-by-a-cthulhu-worshipping-madm\nComments URL: https://news.ycombinator.com/item?id=27129451\nPoints: 23\n# Comments: 0",
-          "link": "https://tex.stackexchange.com/questions/29402/how-do-i-make-my-document-look-like-it-was-written-by-a-cthulhu-worshipping-madm",
-          "publishedOn": "2021-05-12T12:25:02.000Z",
-          "wordCount": 3762,
-          "title": "Make a document look like it was written by a Cthulhu-worshipping madman? (2011)"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27129305",
           "author": "highspeedmobile",
-          "description": "Article URL: https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e\nComments URL: https://news.ycombinator.com/item?id=27129305\nPoints: 91\n# Comments: 24",
+          "description": "Article URL: https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e\nComments URL: https://news.ycombinator.com/item?id=27129305\nPoints: 124\n# Comments: 32",
           "link": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e",
           "publishedOn": "2021-05-12T12:04:37.000Z",
           "wordCount": 469,
@@ -71,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128994",
           "author": "nifoc",
-          "description": "Article URL: http://blog.erlang.org/My-OTP-24-Highlights/\nComments URL: https://news.ycombinator.com/item?id=27128994\nPoints: 195\n# Comments: 17",
+          "description": "Article URL: http://blog.erlang.org/My-OTP-24-Highlights/\nComments URL: https://news.ycombinator.com/item?id=27128994\nPoints: 246\n# Comments: 35",
           "link": "http://blog.erlang.org/My-OTP-24-Highlights/",
           "publishedOn": "2021-05-12T11:18:17.000Z",
           "wordCount": 2869,
@@ -80,16 +89,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128869",
           "author": "mad_ned",
-          "description": "Article URL: https://madned.substack.com/p/thin-pipe-part-i\nComments URL: https://news.ycombinator.com/item?id=27128869\nPoints: 73\n# Comments: 31",
+          "description": "Article URL: https://madned.substack.com/p/thin-pipe-part-i\nComments URL: https://news.ycombinator.com/item?id=27128869\nPoints: 100\n# Comments: 49",
           "link": "https://madned.substack.com/p/thin-pipe-part-i",
           "publishedOn": "2021-05-12T11:01:50.000Z",
-          "wordCount": 3003,
+          "wordCount": 2998,
           "title": "My multi-decade quest for rural broadband"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27128831",
+          "author": "samizdis",
+          "description": "Article URL: https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/\nComments URL: https://news.ycombinator.com/item?id=27128831\nPoints: 43\n# Comments: 108",
+          "link": "https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/",
+          "publishedOn": "2021-05-12T10:55:42.000Z",
+          "wordCount": 902,
+          "title": "Volvo and Daimler bet on hydrogen truck boom this decade"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27128803",
           "author": "phab",
-          "description": "Article URL: https://www.checkmyworking.com/cm-web-fonts/\nComments URL: https://news.ycombinator.com/item?id=27128803\nPoints: 37\n# Comments: 30",
+          "description": "Article URL: https://www.checkmyworking.com/cm-web-fonts/\nComments URL: https://news.ycombinator.com/item?id=27128803\nPoints: 44\n# Comments: 41",
           "link": "https://www.checkmyworking.com/cm-web-fonts/",
           "publishedOn": "2021-05-12T10:51:26.000Z",
           "wordCount": 7585,
@@ -98,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128765",
           "author": "nix23",
-          "description": "Article URL: https://ban.ai/multics/\nComments URL: https://news.ycombinator.com/item?id=27128765\nPoints: 45\n# Comments: 12",
+          "description": "Article URL: https://ban.ai/multics/\nComments URL: https://news.ycombinator.com/item?id=27128765\nPoints: 55\n# Comments: 15",
           "link": "https://ban.ai/multics/",
           "publishedOn": "2021-05-12T10:46:06.000Z",
           "wordCount": 553,
@@ -107,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128603",
           "author": "spreadr",
-          "description": "Article URL: https://csvbox.io\nComments URL: https://news.ycombinator.com/item?id=27128603\nPoints: 54\n# Comments: 25",
+          "description": "Article URL: https://csvbox.io\nComments URL: https://news.ycombinator.com/item?id=27128603\nPoints: 69\n# Comments: 47",
           "link": "https://csvbox.io",
           "publishedOn": "2021-05-12T10:10:12.000Z",
           "wordCount": 609,
@@ -116,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128531",
           "author": "dmitrygr",
-          "description": "Article URL: https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller\nComments URL: https://news.ycombinator.com/item?id=27128531\nPoints: 128\n# Comments: 21",
+          "description": "Article URL: https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller\nComments URL: https://news.ycombinator.com/item?id=27128531\nPoints: 162\n# Comments: 22",
           "link": "https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
           "publishedOn": "2021-05-12T09:56:06.000Z",
           "wordCount": 12277,
@@ -125,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128425",
           "author": "eternalban",
-          "description": "Article URL: https://dspace.mit.edu/handle/1721.1/109000\nComments URL: https://news.ycombinator.com/item?id=27128425\nPoints: 21\n# Comments: 1",
+          "description": "Article URL: https://dspace.mit.edu/handle/1721.1/109000\nComments URL: https://news.ycombinator.com/item?id=27128425\nPoints: 27\n# Comments: 1",
           "link": "https://dspace.mit.edu/handle/1721.1/109000",
           "publishedOn": "2021-05-12T09:37:49.000Z",
           "wordCount": 437,
@@ -134,56 +152,38 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128424",
           "author": "xhfloz",
-          "description": "Article URL: https://build.mmm.page\nComments URL: https://news.ycombinator.com/item?id=27128424\nPoints: 262\n# Comments: 70",
+          "description": "Article URL: https://build.mmm.page\nComments URL: https://news.ycombinator.com/item?id=27128424\nPoints: 301\n# Comments: 85",
           "link": "https://build.mmm.page",
           "publishedOn": "2021-05-12T09:37:28.000Z",
           "wordCount": 1,
           "title": "Show HN: Mmm.page – Drag and drop personal website creator"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27128164",
-          "author": "rekado",
-          "description": "Article URL: https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/\nComments URL: https://news.ycombinator.com/item?id=27128164\nPoints: 111\n# Comments: 52",
-          "link": "https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/",
-          "publishedOn": "2021-05-12T08:48:11.000Z",
-          "wordCount": 1574,
-          "title": "Guix 1.3"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27127703",
           "author": "winchester6788",
-          "description": "Article URL: https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9\nComments URL: https://news.ycombinator.com/item?id=27127703\nPoints: 87\n# Comments: 29",
+          "description": "Article URL: https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9\nComments URL: https://news.ycombinator.com/item?id=27127703\nPoints: 100\n# Comments: 31",
           "link": "https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9",
           "publishedOn": "2021-05-12T07:35:12.000Z",
           "wordCount": 2104,
           "title": "I could send any text message from Indian government IDs"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27127694",
-          "author": "pythops",
-          "description": "Article URL: https://openvisionapi.com\nComments URL: https://news.ycombinator.com/item?id=27127694\nPoints: 44\n# Comments: 7",
-          "link": "https://openvisionapi.com",
-          "publishedOn": "2021-05-12T07:33:02.000Z",
-          "wordCount": 66,
-          "title": "Open source computer vision API"
+          "id": "https://news.ycombinator.com/item?id=27127578",
+          "author": "sercaneraslan",
+          "description": "Article URL: https://github.com/Trendyol/mobile-app-automizer\nComments URL: https://news.ycombinator.com/item?id=27127578\nPoints: 5\n# Comments: 2",
+          "link": "https://github.com/Trendyol/mobile-app-automizer",
+          "publishedOn": "2021-05-12T07:09:42.000Z",
+          "wordCount": 1046,
+          "title": "Show HN: Mobile App Automizer"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27127403",
           "author": "hyzyla",
-          "description": "Article URL: https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox\nComments URL: https://news.ycombinator.com/item?id=27127403\nPoints: 116\n# Comments: 55",
+          "description": "Article URL: https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox\nComments URL: https://news.ycombinator.com/item?id=27127403\nPoints: 124\n# Comments: 59",
           "link": "https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox",
           "publishedOn": "2021-05-12T06:41:35.000Z",
           "wordCount": 2462,
           "title": "How image search works at Dropbox"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27127316",
-          "author": "caspervonb",
-          "description": "Article URL: https://deno.com/blog/v1.10\nComments URL: https://news.ycombinator.com/item?id=27127316\nPoints: 220\n# Comments: 97",
-          "link": "https://deno.com/blog/v1.10",
-          "publishedOn": "2021-05-12T06:28:14.000Z",
-          "wordCount": 1582,
-          "title": "Deno 1.1"
         }
       ]
     },
@@ -330,6 +330,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=339960",
+          "author": "Sandrina Pereira",
+          "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
+          "publishedOn": "2021-05-12T14:31:07.000Z",
+          "wordCount": 2524,
+          "title": "Making Disabled Buttons More Inclusive"
+        },
+        {
           "id": "https://css-tricks.com/?p=340359",
           "author": "Chris Coyier",
           "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -353,7 +362,7 @@
           "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1314,
+          "wordCount": 1384,
           "title": "Next Gen CSS: @container"
         },
         {
@@ -362,7 +371,7 @@
           "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
           "publishedOn": "2021-05-11T14:33:10.000Z",
-          "wordCount": 844,
+          "wordCount": 1183,
           "title": "Distributed Persistent Rendering (DPR)"
         },
         {
@@ -371,7 +380,7 @@
           "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you \n&#8230;\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/topframe/",
           "publishedOn": "2021-05-10T21:14:15.000Z",
-          "wordCount": 674,
+          "wordCount": 727,
           "title": "Topframe"
         },
         {
@@ -454,15 +463,6 @@
           "publishedOn": "2021-05-05T21:49:23.000Z",
           "wordCount": 1029,
           "title": "Astro"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339954",
-          "author": "Chris Coyier",
-          "description": "The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;\nThe post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://infrequently.org/2021/04/progress-delayed/",
-          "publishedOn": "2021-05-05T16:51:23.000Z",
-          "wordCount": 6686,
-          "title": "Progress Delayed Is Progress Denied"
         }
       ]
     },
