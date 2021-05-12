@@ -6,27 +6,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27129864",
-          "author": "nyerp",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Kimarite\nComments URL: https://news.ycombinator.com/item?id=27129864\nPoints: 6\n# Comments: 0",
-          "link": "https://en.wikipedia.org/wiki/Kimarite",
-          "publishedOn": "2021-05-12T13:05:36.000Z",
-          "wordCount": 3561,
-          "title": "TIL there are 82 named techniques (“kimarite”) for winning a sumo match"
+          "id": "https://news.ycombinator.com/item?id=27130281",
+          "author": "ch_sm",
+          "description": "Article URL: https://mobiledevmemo.com/apple-robbed-the-mobs-bank/\nComments URL: https://news.ycombinator.com/item?id=27130281\nPoints: 7\n# Comments: 1",
+          "link": "https://mobiledevmemo.com/apple-robbed-the-mobs-bank/",
+          "publishedOn": "2021-05-12T13:49:36.000Z",
+          "wordCount": 1306,
+          "title": "Apple Robbed the Mob’s Bank"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27130275",
+          "author": "prostoalex",
+          "description": "Article URL: https://simpleflying.com/australia-supersonic-flight/\nComments URL: https://news.ycombinator.com/item?id=27130275\nPoints: 4\n# Comments: 0",
+          "link": "https://simpleflying.com/australia-supersonic-flight/",
+          "publishedOn": "2021-05-12T13:48:50.000Z",
+          "wordCount": 1405,
+          "title": "Australia Joins the Race for Supersonic Flight"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27129858",
+          "author": "lewisjoe",
+          "description": "Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html\nComments URL: https://news.ycombinator.com/item?id=27129858\nPoints: 43\n# Comments: 46",
+          "link": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
+          "publishedOn": "2021-05-12T13:05:16.000Z",
+          "wordCount": 1009,
+          "title": "Google Docs will move to canvas based rendering instead of DOM"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27129518",
           "author": "wilsonfiifi",
-          "description": "Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/\nComments URL: https://news.ycombinator.com/item?id=27129518\nPoints: 8\n# Comments: 0",
+          "description": "Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/\nComments URL: https://news.ycombinator.com/item?id=27129518\nPoints: 33\n# Comments: 5",
           "link": "https://jmtirado.net/writing-a-programming-book-in-2021/",
           "publishedOn": "2021-05-12T12:34:28.000Z",
-          "wordCount": 1787,
+          "wordCount": 1791,
           "title": "Writing a Programming Book in 2021"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27129451",
+          "author": "segfaultbuserr",
+          "description": "Article URL: https://tex.stackexchange.com/questions/29402/how-do-i-make-my-document-look-like-it-was-written-by-a-cthulhu-worshipping-madm\nComments URL: https://news.ycombinator.com/item?id=27129451\nPoints: 23\n# Comments: 0",
+          "link": "https://tex.stackexchange.com/questions/29402/how-do-i-make-my-document-look-like-it-was-written-by-a-cthulhu-worshipping-madm",
+          "publishedOn": "2021-05-12T12:25:02.000Z",
+          "wordCount": 3762,
+          "title": "Make a document look like it was written by a Cthulhu-worshipping madman? (2011)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27129305",
           "author": "highspeedmobile",
-          "description": "Article URL: https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e\nComments URL: https://news.ycombinator.com/item?id=27129305\nPoints: 44\n# Comments: 7",
+          "description": "Article URL: https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e\nComments URL: https://news.ycombinator.com/item?id=27129305\nPoints: 91\n# Comments: 24",
           "link": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e",
           "publishedOn": "2021-05-12T12:04:37.000Z",
           "wordCount": 469,
@@ -44,7 +71,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128994",
           "author": "nifoc",
-          "description": "Article URL: http://blog.erlang.org/My-OTP-24-Highlights/\nComments URL: https://news.ycombinator.com/item?id=27128994\nPoints: 144\n# Comments: 14",
+          "description": "Article URL: http://blog.erlang.org/My-OTP-24-Highlights/\nComments URL: https://news.ycombinator.com/item?id=27128994\nPoints: 195\n# Comments: 17",
           "link": "http://blog.erlang.org/My-OTP-24-Highlights/",
           "publishedOn": "2021-05-12T11:18:17.000Z",
           "wordCount": 2869,
@@ -53,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128869",
           "author": "mad_ned",
-          "description": "Article URL: https://madned.substack.com/p/thin-pipe-part-i\nComments URL: https://news.ycombinator.com/item?id=27128869\nPoints: 44\n# Comments: 15",
+          "description": "Article URL: https://madned.substack.com/p/thin-pipe-part-i\nComments URL: https://news.ycombinator.com/item?id=27128869\nPoints: 73\n# Comments: 31",
           "link": "https://madned.substack.com/p/thin-pipe-part-i",
           "publishedOn": "2021-05-12T11:01:50.000Z",
           "wordCount": 3003,
@@ -62,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128803",
           "author": "phab",
-          "description": "Article URL: https://www.checkmyworking.com/cm-web-fonts/\nComments URL: https://news.ycombinator.com/item?id=27128803\nPoints: 30\n# Comments: 19",
+          "description": "Article URL: https://www.checkmyworking.com/cm-web-fonts/\nComments URL: https://news.ycombinator.com/item?id=27128803\nPoints: 37\n# Comments: 30",
           "link": "https://www.checkmyworking.com/cm-web-fonts/",
           "publishedOn": "2021-05-12T10:51:26.000Z",
           "wordCount": 7585,
@@ -71,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128765",
           "author": "nix23",
-          "description": "Article URL: https://ban.ai/multics/\nComments URL: https://news.ycombinator.com/item?id=27128765\nPoints: 33\n# Comments: 10",
+          "description": "Article URL: https://ban.ai/multics/\nComments URL: https://news.ycombinator.com/item?id=27128765\nPoints: 45\n# Comments: 12",
           "link": "https://ban.ai/multics/",
           "publishedOn": "2021-05-12T10:46:06.000Z",
           "wordCount": 553,
@@ -80,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128603",
           "author": "spreadr",
-          "description": "Article URL: https://csvbox.io\nComments URL: https://news.ycombinator.com/item?id=27128603\nPoints: 17\n# Comments: 15",
+          "description": "Article URL: https://csvbox.io\nComments URL: https://news.ycombinator.com/item?id=27128603\nPoints: 54\n# Comments: 25",
           "link": "https://csvbox.io",
           "publishedOn": "2021-05-12T10:10:12.000Z",
           "wordCount": 609,
@@ -89,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128531",
           "author": "dmitrygr",
-          "description": "Article URL: https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller\nComments URL: https://news.ycombinator.com/item?id=27128531\nPoints: 108\n# Comments: 19",
+          "description": "Article URL: https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller\nComments URL: https://news.ycombinator.com/item?id=27128531\nPoints: 128\n# Comments: 21",
           "link": "https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
           "publishedOn": "2021-05-12T09:56:06.000Z",
           "wordCount": 12277,
@@ -98,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128425",
           "author": "eternalban",
-          "description": "Article URL: https://dspace.mit.edu/handle/1721.1/109000\nComments URL: https://news.ycombinator.com/item?id=27128425\nPoints: 15\n# Comments: 1",
+          "description": "Article URL: https://dspace.mit.edu/handle/1721.1/109000\nComments URL: https://news.ycombinator.com/item?id=27128425\nPoints: 21\n# Comments: 1",
           "link": "https://dspace.mit.edu/handle/1721.1/109000",
           "publishedOn": "2021-05-12T09:37:49.000Z",
           "wordCount": 437,
@@ -107,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128424",
           "author": "xhfloz",
-          "description": "Article URL: https://build.mmm.page\nComments URL: https://news.ycombinator.com/item?id=27128424\nPoints: 197\n# Comments: 56",
+          "description": "Article URL: https://build.mmm.page\nComments URL: https://news.ycombinator.com/item?id=27128424\nPoints: 262\n# Comments: 70",
           "link": "https://build.mmm.page",
           "publishedOn": "2021-05-12T09:37:28.000Z",
           "wordCount": 1,
@@ -116,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128164",
           "author": "rekado",
-          "description": "Article URL: https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/\nComments URL: https://news.ycombinator.com/item?id=27128164\nPoints: 99\n# Comments: 39",
+          "description": "Article URL: https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/\nComments URL: https://news.ycombinator.com/item?id=27128164\nPoints: 111\n# Comments: 52",
           "link": "https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/",
           "publishedOn": "2021-05-12T08:48:11.000Z",
           "wordCount": 1574,
@@ -125,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27127703",
           "author": "winchester6788",
-          "description": "Article URL: https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9\nComments URL: https://news.ycombinator.com/item?id=27127703\nPoints: 76\n# Comments: 26",
+          "description": "Article URL: https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9\nComments URL: https://news.ycombinator.com/item?id=27127703\nPoints: 87\n# Comments: 29",
           "link": "https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9",
           "publishedOn": "2021-05-12T07:35:12.000Z",
           "wordCount": 2104,
@@ -134,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27127694",
           "author": "pythops",
-          "description": "Article URL: https://openvisionapi.com\nComments URL: https://news.ycombinator.com/item?id=27127694\nPoints: 38\n# Comments: 6",
+          "description": "Article URL: https://openvisionapi.com\nComments URL: https://news.ycombinator.com/item?id=27127694\nPoints: 44\n# Comments: 7",
           "link": "https://openvisionapi.com",
           "publishedOn": "2021-05-12T07:33:02.000Z",
           "wordCount": 66,
@@ -143,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27127403",
           "author": "hyzyla",
-          "description": "Article URL: https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox\nComments URL: https://news.ycombinator.com/item?id=27127403\nPoints: 103\n# Comments: 46",
+          "description": "Article URL: https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox\nComments URL: https://news.ycombinator.com/item?id=27127403\nPoints: 116\n# Comments: 55",
           "link": "https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox",
           "publishedOn": "2021-05-12T06:41:35.000Z",
           "wordCount": 2462,
@@ -152,38 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27127316",
           "author": "caspervonb",
-          "description": "Article URL: https://deno.com/blog/v1.10\nComments URL: https://news.ycombinator.com/item?id=27127316\nPoints: 193\n# Comments: 84",
+          "description": "Article URL: https://deno.com/blog/v1.10\nComments URL: https://news.ycombinator.com/item?id=27127316\nPoints: 220\n# Comments: 97",
           "link": "https://deno.com/blog/v1.10",
           "publishedOn": "2021-05-12T06:28:14.000Z",
           "wordCount": 1582,
           "title": "Deno 1.1"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27126939",
-          "author": "raptorraver",
-          "description": "Article URL: http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/\nComments URL: https://news.ycombinator.com/item?id=27126939\nPoints: 198\n# Comments: 149",
-          "link": "http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/",
-          "publishedOn": "2021-05-12T05:29:37.000Z",
-          "wordCount": 1056,
-          "title": "The Importance of Humility in Software Development (2020)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27126092",
-          "author": "lnyan",
-          "description": "Article URL: https://intel-isl.github.io/PhotorealismEnhancement/\nComments URL: https://news.ycombinator.com/item?id=27126092\nPoints: 354\n# Comments: 97",
-          "link": "https://intel-isl.github.io/PhotorealismEnhancement/",
-          "publishedOn": "2021-05-12T02:56:28.000Z",
-          "wordCount": 333,
-          "title": "Enhancing Photorealism Enhancement"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27125916",
-          "author": "danso",
-          "description": "Article URL: https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b\nComments URL: https://news.ycombinator.com/item?id=27125916\nPoints: 106\n# Comments: 97",
-          "link": "https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b",
-          "publishedOn": "2021-05-12T02:15:52.000Z",
-          "wordCount": 734,
-          "title": "Ransomware gang threatens release of Washington D.C. police records"
         }
       ]
     },
@@ -474,10 +474,10 @@
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. [Subscribe to the newsletter](http://smashingmagazine.com/the-smashing-newsletter/) so you don’t miss the next one.",
+          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3419,
+          "wordCount": 3443,
           "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
         },
         {
