@@ -6,13 +6,67 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27133804",
+          "author": "ridiculous_fish",
+          "description": "Article URL: https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html\nComments URL: https://news.ycombinator.com/item?id=27133804\nPoints: 15\n# Comments: 0",
+          "link": "https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html",
+          "publishedOn": "2021-05-12T18:52:32.000Z",
+          "wordCount": 802,
+          "title": "Benchmarking division and libdivide on Apple M1 and Intel AVX512"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27133530",
+          "author": "adolph",
+          "description": "Article URL: https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think\nComments URL: https://news.ycombinator.com/item?id=27133530\nPoints: 14\n# Comments: 3",
+          "link": "https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think",
+          "publishedOn": "2021-05-12T18:27:54.000Z",
+          "wordCount": 2458,
+          "title": "The Macaroni in ‘Yankee Doodle’ Is Not What You Think"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27133376",
+          "author": "misterremote",
+          "description": "Article URL: https://remotehunt.com/blog/developer-salary\nComments URL: https://news.ycombinator.com/item?id=27133376\nPoints: 30\n# Comments: 36",
+          "link": "https://remotehunt.com/blog/developer-salary",
+          "publishedOn": "2021-05-12T18:12:24.000Z",
+          "wordCount": 556,
+          "title": "My salary as a full-stack developer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27133320",
+          "author": "codecalec",
+          "description": "Article URL: https://github.com/education/GitHubGraduation-2021\nComments URL: https://news.ycombinator.com/item?id=27133320\nPoints: 15\n# Comments: 2",
+          "link": "https://github.com/education/GitHubGraduation-2021",
+          "publishedOn": "2021-05-12T18:06:17.000Z",
+          "wordCount": 1281,
+          "title": "GitHub Graduation 2021"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27133196",
           "author": "rbanffy",
-          "description": "Article URL: https://www.energy.gov/ne/articles/what-nuclear-microreactor\nComments URL: https://news.ycombinator.com/item?id=27133196\nPoints: 11\n# Comments: 2",
+          "description": "Article URL: https://www.energy.gov/ne/articles/what-nuclear-microreactor\nComments URL: https://news.ycombinator.com/item?id=27133196\nPoints: 44\n# Comments: 39",
           "link": "https://www.energy.gov/ne/articles/what-nuclear-microreactor",
           "publishedOn": "2021-05-12T17:54:30.000Z",
           "wordCount": 634,
           "title": "What Is a Nuclear Microreactor?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27132999",
+          "author": "avyfain",
+          "description": "Article URL: https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0\nComments URL: https://news.ycombinator.com/item?id=27132999\nPoints: 52\n# Comments: 13",
+          "link": "https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0",
+          "publishedOn": "2021-05-12T17:38:47.000Z",
+          "wordCount": 6508,
+          "title": "Flask 2.0.0 has been released"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27132979",
+          "author": "razin",
+          "description": "Article URL: https://blog.replit.com/apps\nComments URL: https://news.ycombinator.com/item?id=27132979\nPoints: 32\n# Comments: 6",
+          "link": "https://blog.replit.com/apps",
+          "publishedOn": "2021-05-12T17:37:01.000Z",
+          "wordCount": 519,
+          "title": "Replit Apps"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27132511",
@@ -20,13 +74,13 @@
           "description": "Article URL: https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-fullstack-engineer\nComments URL: https://news.ycombinator.com/item?id=27132511\nPoints: 1\n# Comments: 0",
           "link": "https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-fullstack-engineer",
           "publishedOn": "2021-05-12T17:00:01.000Z",
-          "wordCount": 590,
+          "wordCount": 592,
           "title": "Community Phone Company (YC W19) Is Hiring"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27132485",
           "author": "marche101",
-          "description": "Article URL: https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta\nComments URL: https://news.ycombinator.com/item?id=27132485\nPoints: 46\n# Comments: 9",
+          "description": "Article URL: https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta\nComments URL: https://news.ycombinator.com/item?id=27132485\nPoints: 61\n# Comments: 26",
           "link": "https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta",
           "publishedOn": "2021-05-12T16:58:32.000Z",
           "wordCount": 675,
@@ -35,16 +89,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27132334",
           "author": "epermyakov",
-          "description": "Article URL: https://github.com/eduard-permyakov/permafrost-engine\nComments URL: https://news.ycombinator.com/item?id=27132334\nPoints: 130\n# Comments: 18",
+          "description": "Article URL: https://github.com/eduard-permyakov/permafrost-engine\nComments URL: https://news.ycombinator.com/item?id=27132334\nPoints: 322\n# Comments: 46",
           "link": "https://github.com/eduard-permyakov/permafrost-engine",
           "publishedOn": "2021-05-12T16:44:44.000Z",
-          "wordCount": 1303,
+          "wordCount": 1311,
           "title": "Show HN: I wrote my own RTS game engine in 70k SLOC of C"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27132088",
           "author": "haltingproblem",
-          "description": "Article URL: https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-archegos-capital-lost-20-billion-in-two-days\nComments URL: https://news.ycombinator.com/item?id=27132088\nPoints: 167\n# Comments: 117",
+          "description": "Article URL: https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-archegos-capital-lost-20-billion-in-two-days\nComments URL: https://news.ycombinator.com/item?id=27132088\nPoints: 189\n# Comments: 153",
           "link": "https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-archegos-capital-lost-20-billion-in-two-days",
           "publishedOn": "2021-05-12T16:24:02.000Z",
           "wordCount": 93,
@@ -53,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27131897",
           "author": "mvolfik",
-          "description": "Article URL: https://developer.mozilla.org/en-US/docs/Web/Houdini\nComments URL: https://news.ycombinator.com/item?id=27131897\nPoints: 102\n# Comments: 55",
+          "description": "Article URL: https://developer.mozilla.org/en-US/docs/Web/Houdini\nComments URL: https://news.ycombinator.com/item?id=27131897\nPoints: 131\n# Comments: 77",
           "link": "https://developer.mozilla.org/en-US/docs/Web/Houdini",
           "publishedOn": "2021-05-12T16:06:23.000Z",
           "wordCount": 781,
@@ -62,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27131744",
           "author": "harscoat",
-          "description": "Article URL: https://www.bbc.com/news/world-europe-57055163\nComments URL: https://news.ycombinator.com/item?id=27131744\nPoints: 33\n# Comments: 9",
+          "description": "Article URL: https://www.bbc.com/news/world-europe-57055163\nComments URL: https://news.ycombinator.com/item?id=27131744\nPoints: 40\n# Comments: 16",
           "link": "https://www.bbc.com/news/world-europe-57055163",
           "publishedOn": "2021-05-12T15:53:03.000Z",
           "wordCount": 1119,
@@ -71,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27130355",
           "author": "kerm1t",
-          "description": "Article URL: https://positive.security/blog/send-my\nComments URL: https://news.ycombinator.com/item?id=27130355\nPoints: 323\n# Comments: 68",
+          "description": "Article URL: https://positive.security/blog/send-my\nComments URL: https://news.ycombinator.com/item?id=27130355\nPoints: 337\n# Comments: 72",
           "link": "https://positive.security/blog/send-my",
           "publishedOn": "2021-05-12T13:57:04.000Z",
           "wordCount": 2795,
@@ -80,34 +134,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27130297",
           "author": "polm23",
-          "description": "Article URL: https://www.semanticscholar.org/product/semantic-reader\nComments URL: https://news.ycombinator.com/item?id=27130297\nPoints: 7\n# Comments: 0",
+          "description": "Article URL: https://www.semanticscholar.org/product/semantic-reader\nComments URL: https://news.ycombinator.com/item?id=27130297\nPoints: 13\n# Comments: 0",
           "link": "https://www.semanticscholar.org/product/semantic-reader",
           "publishedOn": "2021-05-12T13:51:16.000Z",
           "wordCount": 674,
           "title": "Semantic Reader: Show Reference Abstracts in Context, and More"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27130275",
-          "author": "prostoalex",
-          "description": "Article URL: https://simpleflying.com/australia-supersonic-flight/\nComments URL: https://news.ycombinator.com/item?id=27130275\nPoints: 42\n# Comments: 39",
-          "link": "https://simpleflying.com/australia-supersonic-flight/",
-          "publishedOn": "2021-05-12T13:48:50.000Z",
-          "wordCount": 1400,
-          "title": "Australia Joins the Race for Supersonic Flight"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27129927",
-          "author": "simonpure",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-05-12/consumer-prices-in-u-s-increase-by-most-since-2009\nComments URL: https://news.ycombinator.com/item?id=27129927\nPoints: 134\n# Comments: 156",
-          "link": "https://www.bloomberg.com/news/articles/2021-05-12/consumer-prices-in-u-s-increase-by-most-since-2009",
-          "publishedOn": "2021-05-12T13:11:23.000Z",
-          "wordCount": 93,
-          "title": "Consumer Prices in U.S. Increase by Most Since 2009"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27129858",
           "author": "lewisjoe",
-          "description": "Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html\nComments URL: https://news.ycombinator.com/item?id=27129858\nPoints: 582\n# Comments: 614",
+          "description": "Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html\nComments URL: https://news.ycombinator.com/item?id=27129858\nPoints: 646\n# Comments: 669",
           "link": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
           "publishedOn": "2021-05-12T13:05:16.000Z",
           "wordCount": 1009,
@@ -116,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27129518",
           "author": "wilsonfiifi",
-          "description": "Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/\nComments URL: https://news.ycombinator.com/item?id=27129518\nPoints: 113\n# Comments: 41",
+          "description": "Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/\nComments URL: https://news.ycombinator.com/item?id=27129518\nPoints: 120\n# Comments: 42",
           "link": "https://jmtirado.net/writing-a-programming-book-in-2021/",
           "publishedOn": "2021-05-12T12:34:28.000Z",
           "wordCount": 1791,
@@ -125,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27129305",
           "author": "highspeedmobile",
-          "description": "Article URL: https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e\nComments URL: https://news.ycombinator.com/item?id=27129305\nPoints: 203\n# Comments: 51",
+          "description": "Article URL: https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e\nComments URL: https://news.ycombinator.com/item?id=27129305\nPoints: 220\n# Comments: 54",
           "link": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e",
           "publishedOn": "2021-05-12T12:04:37.000Z",
           "wordCount": 469,
@@ -134,56 +170,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27128994",
           "author": "nifoc",
-          "description": "Article URL: http://blog.erlang.org/My-OTP-24-Highlights/\nComments URL: https://news.ycombinator.com/item?id=27128994\nPoints: 334\n# Comments: 64",
+          "description": "Article URL: http://blog.erlang.org/My-OTP-24-Highlights/\nComments URL: https://news.ycombinator.com/item?id=27128994\nPoints: 353\n# Comments: 69",
           "link": "http://blog.erlang.org/My-OTP-24-Highlights/",
           "publishedOn": "2021-05-12T11:18:17.000Z",
           "wordCount": 2869,
           "title": "Erlang/OTP 24 Highlights"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27128869",
-          "author": "mad_ned",
-          "description": "Article URL: https://madned.substack.com/p/thin-pipe-part-i\nComments URL: https://news.ycombinator.com/item?id=27128869\nPoints: 162\n# Comments: 104",
-          "link": "https://madned.substack.com/p/thin-pipe-part-i",
-          "publishedOn": "2021-05-12T11:01:50.000Z",
-          "wordCount": 3003,
-          "title": "My multi-decade quest for rural broadband"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27128831",
           "author": "samizdis",
-          "description": "Article URL: https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/\nComments URL: https://news.ycombinator.com/item?id=27128831\nPoints: 89\n# Comments: 223",
+          "description": "Article URL: https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/\nComments URL: https://news.ycombinator.com/item?id=27128831\nPoints: 93\n# Comments: 245",
           "link": "https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/",
           "publishedOn": "2021-05-12T10:55:42.000Z",
           "wordCount": 902,
           "title": "Volvo and Daimler bet on hydrogen truck boom this decade"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27128803",
-          "author": "phab",
-          "description": "Article URL: https://www.checkmyworking.com/cm-web-fonts/\nComments URL: https://news.ycombinator.com/item?id=27128803\nPoints: 69\n# Comments: 64",
-          "link": "https://www.checkmyworking.com/cm-web-fonts/",
-          "publishedOn": "2021-05-12T10:51:26.000Z",
-          "wordCount": 7585,
-          "title": "Using Computer Modern on the web (2013)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27128765",
-          "author": "nix23",
-          "description": "Article URL: https://ban.ai/multics/\nComments URL: https://news.ycombinator.com/item?id=27128765\nPoints: 74\n# Comments: 22",
-          "link": "https://ban.ai/multics/",
-          "publishedOn": "2021-05-12T10:46:06.000Z",
-          "wordCount": 553,
-          "title": "Multics Public Access"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27128603",
-          "author": "spreadr",
-          "description": "Article URL: https://csvbox.io\nComments URL: https://news.ycombinator.com/item?id=27128603\nPoints: 112\n# Comments: 66",
-          "link": "https://csvbox.io",
-          "publishedOn": "2021-05-12T10:10:12.000Z",
-          "wordCount": 609,
-          "title": "Show HN: Csvbox.io – CSV import button for a web app, SaaS or API"
         }
       ]
     },
@@ -344,7 +344,7 @@
           "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
           "publishedOn": "2021-05-11T22:00:29.000Z",
-          "wordCount": 441,
+          "wordCount": 498,
           "title": "CSS Pie Timer Re-Revisited"
         },
         {
@@ -722,6 +722,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "609c215862ab9107fe5a9fa9",
+          "author": "",
+          "description": "Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform",
+          "link": "https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/",
+          "publishedOn": "2021-05-12T18:49:36.000Z",
+          "wordCount": 571,
+          "title": "Use the Kivy Python Library to Create Games and Mobile Apps"
+        },
+        {
           "id": "6096aafe2cd0545b5e944430",
           "author": "",
           "description": "When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting",
@@ -801,15 +810,6 @@
           "publishedOn": "2021-05-10T17:04:31.000Z",
           "wordCount": 1253,
           "title": "How to Ace Your Coding Interview – Advice from a Senior Software Engineer"
-        },
-        {
-          "id": "609558382cd0545b5e943c6f",
-          "author": "",
-          "description": "“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses",
-          "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
-          "publishedOn": "2021-05-07T21:07:57.000Z",
-          "wordCount": 1065,
-          "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
         }
       ]
     }

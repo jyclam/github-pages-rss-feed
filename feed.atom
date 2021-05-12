@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T18:27:58.183Z</updated>
+    <updated>2021-05-12T19:20:07.136Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Benchmarking division and libdivide on Apple M1 and Intel AVX512]]></title>
+        <id>https://news.ycombinator.com/item?id=27133804</id>
+        <link href="https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html"/>
+        <updated>2021-05-12T18:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
+Comments URL: https://news.ycombinator.com/item?id=27133804
+Points: 15
+# Comments: 0]]></summary>
+        <author>
+            <name>ridiculous_fish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the Kivy Python Library to Create Games and Mobile Apps]]></title>
+        <id>609c215862ab9107fe5a9fa9</id>
+        <link href="https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/"/>
+        <updated>2021-05-12T18:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Macaroni in ‘Yankee Doodle’ Is Not What You Think]]></title>
+        <id>https://news.ycombinator.com/item?id=27133530</id>
+        <link href="https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think"/>
+        <updated>2021-05-12T18:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think
+Comments URL: https://news.ycombinator.com/item?id=27133530
+Points: 14
+# Comments: 3]]></summary>
+        <author>
+            <name>adolph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My salary as a full-stack developer]]></title>
+        <id>https://news.ycombinator.com/item?id=27133376</id>
+        <link href="https://remotehunt.com/blog/developer-salary"/>
+        <updated>2021-05-12T18:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://remotehunt.com/blog/developer-salary
+Comments URL: https://news.ycombinator.com/item?id=27133376
+Points: 30
+# Comments: 36]]></summary>
+        <author>
+            <name>misterremote</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Graduation 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27133320</id>
+        <link href="https://github.com/education/GitHubGraduation-2021"/>
+        <updated>2021-05-12T18:06:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/education/GitHubGraduation-2021
+Comments URL: https://news.ycombinator.com/item?id=27133320
+Points: 15
+# Comments: 2]]></summary>
+        <author>
+            <name>codecalec</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is a Nuclear Microreactor?]]></title>
         <id>https://news.ycombinator.com/item?id=27133196</id>
@@ -13,10 +75,36 @@
         <updated>2021-05-12T17:54:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.energy.gov/ne/articles/what-nuclear-microreactor
 Comments URL: https://news.ycombinator.com/item?id=27133196
-Points: 11
-# Comments: 2]]></summary>
+Points: 44
+# Comments: 39]]></summary>
         <author>
             <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flask 2.0.0 has been released]]></title>
+        <id>https://news.ycombinator.com/item?id=27132999</id>
+        <link href="https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0"/>
+        <updated>2021-05-12T17:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0
+Comments URL: https://news.ycombinator.com/item?id=27132999
+Points: 52
+# Comments: 13]]></summary>
+        <author>
+            <name>avyfain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit Apps]]></title>
+        <id>https://news.ycombinator.com/item?id=27132979</id>
+        <link href="https://blog.replit.com/apps"/>
+        <updated>2021-05-12T17:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.replit.com/apps
+Comments URL: https://news.ycombinator.com/item?id=27132979
+Points: 32
+# Comments: 6]]></summary>
+        <author>
+            <name>razin</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +127,8 @@ Points: 1
         <updated>2021-05-12T16:58:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta
 Comments URL: https://news.ycombinator.com/item?id=27132485
-Points: 46
-# Comments: 9]]></summary>
+Points: 61
+# Comments: 26]]></summary>
         <author>
             <name>marche101</name>
         </author>
@@ -52,8 +140,8 @@ Points: 46
         <updated>2021-05-12T16:44:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/eduard-permyakov/permafrost-engine
 Comments URL: https://news.ycombinator.com/item?id=27132334
-Points: 130
-# Comments: 18]]></summary>
+Points: 322
+# Comments: 46]]></summary>
         <author>
             <name>epermyakov</name>
         </author>
@@ -65,8 +153,8 @@ Points: 130
         <updated>2021-05-12T16:24:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-archegos-capital-lost-20-billion-in-two-days
 Comments URL: https://news.ycombinator.com/item?id=27132088
-Points: 167
-# Comments: 117]]></summary>
+Points: 189
+# Comments: 153]]></summary>
         <author>
             <name>haltingproblem</name>
         </author>
@@ -78,8 +166,8 @@ Points: 167
         <updated>2021-05-12T16:06:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/Houdini
 Comments URL: https://news.ycombinator.com/item?id=27131897
-Points: 102
-# Comments: 55]]></summary>
+Points: 131
+# Comments: 77]]></summary>
         <author>
             <name>mvolfik</name>
         </author>
@@ -91,8 +179,8 @@ Points: 102
         <updated>2021-05-12T15:53:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57055163
 Comments URL: https://news.ycombinator.com/item?id=27131744
-Points: 33
-# Comments: 9]]></summary>
+Points: 40
+# Comments: 16]]></summary>
         <author>
             <name>harscoat</name>
         </author>
@@ -117,8 +205,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-12T13:57:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://positive.security/blog/send-my
 Comments URL: https://news.ycombinator.com/item?id=27130355
-Points: 323
-# Comments: 68]]></summary>
+Points: 337
+# Comments: 72]]></summary>
         <author>
             <name>kerm1t</name>
         </author>
@@ -130,36 +218,10 @@ Points: 323
         <updated>2021-05-12T13:51:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.semanticscholar.org/product/semantic-reader
 Comments URL: https://news.ycombinator.com/item?id=27130297
-Points: 7
+Points: 13
 # Comments: 0]]></summary>
         <author>
             <name>polm23</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia Joins the Race for Supersonic Flight]]></title>
-        <id>https://news.ycombinator.com/item?id=27130275</id>
-        <link href="https://simpleflying.com/australia-supersonic-flight/"/>
-        <updated>2021-05-12T13:48:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simpleflying.com/australia-supersonic-flight/
-Comments URL: https://news.ycombinator.com/item?id=27130275
-Points: 42
-# Comments: 39]]></summary>
-        <author>
-            <name>prostoalex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consumer Prices in U.S. Increase by Most Since 2009]]></title>
-        <id>https://news.ycombinator.com/item?id=27129927</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-05-12/consumer-prices-in-u-s-increase-by-most-since-2009"/>
-        <updated>2021-05-12T13:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-12/consumer-prices-in-u-s-increase-by-most-since-2009
-Comments URL: https://news.ycombinator.com/item?id=27129927
-Points: 134
-# Comments: 156]]></summary>
-        <author>
-            <name>simonpure</name>
         </author>
     </entry>
     <entry>
@@ -169,8 +231,8 @@ Points: 134
         <updated>2021-05-12T13:05:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
 Comments URL: https://news.ycombinator.com/item?id=27129858
-Points: 582
-# Comments: 614]]></summary>
+Points: 646
+# Comments: 669]]></summary>
         <author>
             <name>lewisjoe</name>
         </author>
@@ -192,8 +254,8 @@ Points: 582
         <updated>2021-05-12T12:34:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/
 Comments URL: https://news.ycombinator.com/item?id=27129518
-Points: 113
-# Comments: 41]]></summary>
+Points: 120
+# Comments: 42]]></summary>
         <author>
             <name>wilsonfiifi</name>
         </author>
@@ -205,8 +267,8 @@ Points: 113
         <updated>2021-05-12T12:04:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e
 Comments URL: https://news.ycombinator.com/item?id=27129305
-Points: 203
-# Comments: 51]]></summary>
+Points: 220
+# Comments: 54]]></summary>
         <author>
             <name>highspeedmobile</name>
         </author>
@@ -218,23 +280,10 @@ Points: 203
         <updated>2021-05-12T11:18:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.erlang.org/My-OTP-24-Highlights/
 Comments URL: https://news.ycombinator.com/item?id=27128994
-Points: 334
-# Comments: 64]]></summary>
+Points: 353
+# Comments: 69]]></summary>
         <author>
             <name>nifoc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My multi-decade quest for rural broadband]]></title>
-        <id>https://news.ycombinator.com/item?id=27128869</id>
-        <link href="https://madned.substack.com/p/thin-pipe-part-i"/>
-        <updated>2021-05-12T11:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/thin-pipe-part-i
-Comments URL: https://news.ycombinator.com/item?id=27128869
-Points: 162
-# Comments: 104]]></summary>
-        <author>
-            <name>mad_ned</name>
         </author>
     </entry>
     <entry>
@@ -244,49 +293,10 @@ Points: 162
         <updated>2021-05-12T10:55:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/
 Comments URL: https://news.ycombinator.com/item?id=27128831
-Points: 89
-# Comments: 223]]></summary>
+Points: 93
+# Comments: 245]]></summary>
         <author>
             <name>samizdis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Computer Modern on the web (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=27128803</id>
-        <link href="https://www.checkmyworking.com/cm-web-fonts/"/>
-        <updated>2021-05-12T10:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.checkmyworking.com/cm-web-fonts/
-Comments URL: https://news.ycombinator.com/item?id=27128803
-Points: 69
-# Comments: 64]]></summary>
-        <author>
-            <name>phab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multics Public Access]]></title>
-        <id>https://news.ycombinator.com/item?id=27128765</id>
-        <link href="https://ban.ai/multics/"/>
-        <updated>2021-05-12T10:46:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ban.ai/multics/
-Comments URL: https://news.ycombinator.com/item?id=27128765
-Points: 74
-# Comments: 22]]></summary>
-        <author>
-            <name>nix23</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Csvbox.io – CSV import button for a web app, SaaS or API]]></title>
-        <id>https://news.ycombinator.com/item?id=27128603</id>
-        <link href="https://csvbox.io"/>
-        <updated>2021-05-12T10:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://csvbox.io
-Comments URL: https://news.ycombinator.com/item?id=27128603
-Points: 112
-# Comments: 66]]></summary>
-        <author>
-            <name>spreadr</name>
         </author>
     </entry>
     <entry>
@@ -544,16 +554,6 @@ Changed: Favicon, css, and js assets now existing at site root level.
 Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems]]></title>
-        <id>609558382cd0545b5e943c6f</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/"/>
-        <updated>2021-05-07T21:07:57.000Z</updated>
-        <summary type="html"><![CDATA[“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
