@@ -6,27 +6,72 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27129275",
+          "author": "ksar",
+          "description": "Article URL: https://jobs.lever.co/cover-2/efb72344-405e-40db-8abf-e2a758b2e7c7\nComments URL: https://news.ycombinator.com/item?id=27129275\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/cover-2/efb72344-405e-40db-8abf-e2a758b2e7c7",
+          "publishedOn": "2021-05-12T12:00:46.000Z",
+          "wordCount": 923,
+          "title": "Cover (YC W16) Is Hiring"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27128994",
+          "author": "nifoc",
+          "description": "Article URL: http://blog.erlang.org/My-OTP-24-Highlights/\nComments URL: https://news.ycombinator.com/item?id=27128994\nPoints: 65\n# Comments: 4",
+          "link": "http://blog.erlang.org/My-OTP-24-Highlights/",
+          "publishedOn": "2021-05-12T11:18:17.000Z",
+          "wordCount": 2869,
+          "title": "Erlang/OTP 24 Highlights"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27128869",
+          "author": "mad_ned",
+          "description": "Article URL: https://madned.substack.com/p/thin-pipe-part-ii\nComments URL: https://news.ycombinator.com/item?id=27128869\nPoints: 6\n# Comments: 1",
+          "link": "https://madned.substack.com/p/thin-pipe-part-ii",
+          "publishedOn": "2021-05-12T11:01:50.000Z",
+          "wordCount": 3509,
+          "title": "My perilous foray into small-town politics in search of Municipal Broadband"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27128765",
+          "author": "nix23",
+          "description": "Article URL: https://ban.ai/multics/\nComments URL: https://news.ycombinator.com/item?id=27128765\nPoints: 16\n# Comments: 2",
+          "link": "https://ban.ai/multics/",
+          "publishedOn": "2021-05-12T10:46:06.000Z",
+          "wordCount": 553,
+          "title": "Multics Public Access"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27128531",
           "author": "dmitrygr",
-          "description": "Article URL: http://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller\nComments URL: https://news.ycombinator.com/item?id=27128531\nPoints: 28\n# Comments: 2",
-          "link": "http://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
+          "description": "Article URL: https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller\nComments URL: https://news.ycombinator.com/item?id=27128531\nPoints: 79\n# Comments: 11",
+          "link": "https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
           "publishedOn": "2021-05-12T09:56:06.000Z",
           "wordCount": 12277,
           "title": "Reverse Engineering an Unknown Microcontroller"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27128425",
+          "author": "eternalban",
+          "description": "Article URL: https://dspace.mit.edu/handle/1721.1/109000\nComments URL: https://news.ycombinator.com/item?id=27128425\nPoints: 6\n# Comments: 0",
+          "link": "https://dspace.mit.edu/handle/1721.1/109000",
+          "publishedOn": "2021-05-12T09:37:49.000Z",
+          "wordCount": 437,
+          "title": "Improved distributed algorithms for fundamental graph problems (2017)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27128424",
           "author": "xhfloz",
-          "description": "Article URL: https://build.mmm.page\nComments URL: https://news.ycombinator.com/item?id=27128424\nPoints: 33\n# Comments: 9",
+          "description": "Article URL: https://build.mmm.page\nComments URL: https://news.ycombinator.com/item?id=27128424\nPoints: 134\n# Comments: 47",
           "link": "https://build.mmm.page",
           "publishedOn": "2021-05-12T09:37:28.000Z",
           "wordCount": 1,
-          "title": "Show HN: I built mmm.page → dead simple, drag and drop personal website creator"
+          "title": "Show HN: Mmm.page – Drag and drop personal website creator"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27128164",
           "author": "rekado",
-          "description": "Article URL: https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/\nComments URL: https://news.ycombinator.com/item?id=27128164\nPoints: 55\n# Comments: 9",
+          "description": "Article URL: https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/\nComments URL: https://news.ycombinator.com/item?id=27128164\nPoints: 80\n# Comments: 24",
           "link": "https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/",
           "publishedOn": "2021-05-12T08:48:11.000Z",
           "wordCount": 1574,
@@ -35,16 +80,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27127887",
           "author": "DyslexicAtheist",
-          "description": "Article URL: https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html\nComments URL: https://news.ycombinator.com/item?id=27127887\nPoints: 37\n# Comments: 3",
+          "description": "Article URL: https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html\nComments URL: https://news.ycombinator.com/item?id=27127887\nPoints: 44\n# Comments: 4",
           "link": "https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html",
           "publishedOn": "2021-05-12T08:01:52.000Z",
-          "wordCount": 2893,
+          "wordCount": 2882,
           "title": "Newly Declassified NSA Document on Cryptography in the 1970s"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27127703",
           "author": "winchester6788",
-          "description": "Article URL: https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9\nComments URL: https://news.ycombinator.com/item?id=27127703\nPoints: 29\n# Comments: 6",
+          "description": "Article URL: https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9\nComments URL: https://news.ycombinator.com/item?id=27127703\nPoints: 57\n# Comments: 14",
           "link": "https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9",
           "publishedOn": "2021-05-12T07:35:12.000Z",
           "wordCount": 2124,
@@ -53,25 +98,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27127694",
           "author": "pythops",
-          "description": "Article URL: https://openvisionapi.com\nComments URL: https://news.ycombinator.com/item?id=27127694\nPoints: 16\n# Comments: 5",
+          "description": "Article URL: https://openvisionapi.com\nComments URL: https://news.ycombinator.com/item?id=27127694\nPoints: 31\n# Comments: 5",
           "link": "https://openvisionapi.com",
           "publishedOn": "2021-05-12T07:33:02.000Z",
           "wordCount": 66,
           "title": "Open source computer vision API"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27127527",
-          "author": "casey",
-          "description": "Article URL: https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer-y-combinator\nComments URL: https://news.ycombinator.com/item?id=27127527\nPoints: 1\n# Comments: 0",
-          "link": "https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer-y-combinator",
-          "publishedOn": "2021-05-12T07:01:04.000Z",
-          "wordCount": 540,
-          "title": "Join YC's software team and help build the OS that runs YC itself"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27127403",
           "author": "hyzyla",
-          "description": "Article URL: https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox\nComments URL: https://news.ycombinator.com/item?id=27127403\nPoints: 63\n# Comments: 20",
+          "description": "Article URL: https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox\nComments URL: https://news.ycombinator.com/item?id=27127403\nPoints: 81\n# Comments: 35",
           "link": "https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox",
           "publishedOn": "2021-05-12T06:41:35.000Z",
           "wordCount": 2462,
@@ -80,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27127316",
           "author": "caspervonb",
-          "description": "Article URL: https://deno.com/blog/v1.10\nComments URL: https://news.ycombinator.com/item?id=27127316\nPoints: 145\n# Comments: 47",
+          "description": "Article URL: https://deno.com/blog/v1.10\nComments URL: https://news.ycombinator.com/item?id=27127316\nPoints: 172\n# Comments: 69",
           "link": "https://deno.com/blog/v1.10",
           "publishedOn": "2021-05-12T06:28:14.000Z",
           "wordCount": 1582,
@@ -89,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27126939",
           "author": "raptorraver",
-          "description": "Article URL: http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/\nComments URL: https://news.ycombinator.com/item?id=27126939\nPoints: 169\n# Comments: 128",
+          "description": "Article URL: http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/\nComments URL: https://news.ycombinator.com/item?id=27126939\nPoints: 184\n# Comments: 135",
           "link": "http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/",
           "publishedOn": "2021-05-12T05:29:37.000Z",
           "wordCount": 1056,
@@ -98,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27126092",
           "author": "lnyan",
-          "description": "Article URL: https://intel-isl.github.io/PhotorealismEnhancement/\nComments URL: https://news.ycombinator.com/item?id=27126092\nPoints: 260\n# Comments: 67",
+          "description": "Article URL: https://intel-isl.github.io/PhotorealismEnhancement/\nComments URL: https://news.ycombinator.com/item?id=27126092\nPoints: 313\n# Comments: 80",
           "link": "https://intel-isl.github.io/PhotorealismEnhancement/",
           "publishedOn": "2021-05-12T02:56:28.000Z",
           "wordCount": 333,
@@ -107,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27125916",
           "author": "danso",
-          "description": "Article URL: https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b\nComments URL: https://news.ycombinator.com/item?id=27125916\nPoints: 72\n# Comments: 58",
+          "description": "Article URL: https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b\nComments URL: https://news.ycombinator.com/item?id=27125916\nPoints: 90\n# Comments: 70",
           "link": "https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b",
           "publishedOn": "2021-05-12T02:15:52.000Z",
           "wordCount": 734,
@@ -116,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27125847",
           "author": "elijahparker",
-          "description": "Article URL: https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html\nComments URL: https://news.ycombinator.com/item?id=27125847\nPoints: 77\n# Comments: 39",
+          "description": "Article URL: https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html\nComments URL: https://news.ycombinator.com/item?id=27125847\nPoints: 85\n# Comments: 42",
           "link": "https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html",
           "publishedOn": "2021-05-12T02:03:39.000Z",
           "wordCount": 1132,
@@ -125,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27125742",
           "author": "lnyan",
-          "description": "Article URL: https://arxiv.org/abs/2105.05233\nComments URL: https://news.ycombinator.com/item?id=27125742\nPoints: 157\n# Comments: 35",
+          "description": "Article URL: https://arxiv.org/abs/2105.05233\nComments URL: https://news.ycombinator.com/item?id=27125742\nPoints: 168\n# Comments: 36",
           "link": "https://arxiv.org/abs/2105.05233",
           "publishedOn": "2021-05-12T01:43:18.000Z",
           "wordCount": 564,
@@ -134,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27124852",
           "author": "drdee",
-          "description": "Article URL: https://lithub.com/the-obsessive-scholar-who-rescued-icelands-ancient-literary-legacy/\nComments URL: https://news.ycombinator.com/item?id=27124852\nPoints: 60\n# Comments: 5",
+          "description": "Article URL: https://lithub.com/the-obsessive-scholar-who-rescued-icelands-ancient-literary-legacy/\nComments URL: https://news.ycombinator.com/item?id=27124852\nPoints: 70\n# Comments: 6",
           "link": "https://lithub.com/the-obsessive-scholar-who-rescued-icelands-ancient-literary-legacy/",
           "publishedOn": "2021-05-11T23:20:35.000Z",
           "wordCount": 9008,
@@ -143,47 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27124671",
           "author": "walterbell",
-          "description": "Article URL: https://www.airgradient.com/diy/\nComments URL: https://news.ycombinator.com/item?id=27124671\nPoints: 237\n# Comments: 58",
+          "description": "Article URL: https://www.airgradient.com/diy/\nComments URL: https://news.ycombinator.com/item?id=27124671\nPoints: 258\n# Comments: 62",
           "link": "https://www.airgradient.com/diy/",
           "publishedOn": "2021-05-11T22:57:02.000Z",
           "wordCount": 1489,
           "title": "AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27123410",
-          "author": "dgellow",
-          "description": "Article URL: https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/\nComments URL: https://news.ycombinator.com/item?id=27123410\nPoints: 267\n# Comments: 91",
-          "link": "https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/",
-          "publishedOn": "2021-05-11T20:56:08.000Z",
-          "wordCount": 2147,
-          "title": "The Arduino IDE 2.0 beta"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27121918",
-          "author": "sylvainkalache",
-          "description": "Article URL: https://www.fragattacks.com/\nComments URL: https://news.ycombinator.com/item?id=27121918\nPoints: 531\n# Comments: 201",
-          "link": "https://www.fragattacks.com/",
-          "publishedOn": "2021-05-11T18:46:24.000Z",
-          "wordCount": 6549,
-          "title": "FragAttacks: new security vulnerabilities that affect wi-fi devices"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27121332",
-          "author": "giuliomagnifico",
-          "description": "Article URL: https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns\nComments URL: https://news.ycombinator.com/item?id=27121332\nPoints: 558\n# Comments: 113",
-          "link": "https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns",
-          "publishedOn": "2021-05-11T18:00:59.000Z",
-          "wordCount": 784,
-          "title": "Germany bans Facebook from handling WhatsApp data over privacy concerns"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27119351",
-          "author": "pantalaimon",
-          "description": "Article URL: https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=d1c18230c5\nComments URL: https://news.ycombinator.com/item?id=27119351\nPoints: 32\n# Comments: 29",
-          "link": "https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=d1c18230c5",
-          "publishedOn": "2021-05-11T15:34:11.000Z",
-          "wordCount": 1991,
-          "title": "The Promise and Perils of Insect Farming"
         }
       ]
     },

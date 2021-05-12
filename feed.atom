@@ -2,32 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T11:11:51.924Z</updated>
+    <updated>2021-05-12T12:20:30.893Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
+        <title type="html"><![CDATA[Cover (YC W16) Is Hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=27129275</id>
+        <link href="https://jobs.lever.co/cover-2/efb72344-405e-40db-8abf-e2a758b2e7c7"/>
+        <updated>2021-05-12T12:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/cover-2/efb72344-405e-40db-8abf-e2a758b2e7c7
+Comments URL: https://news.ycombinator.com/item?id=27129275
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>ksar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Erlang/OTP 24 Highlights]]></title>
+        <id>https://news.ycombinator.com/item?id=27128994</id>
+        <link href="http://blog.erlang.org/My-OTP-24-Highlights/"/>
+        <updated>2021-05-12T11:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://blog.erlang.org/My-OTP-24-Highlights/
+Comments URL: https://news.ycombinator.com/item?id=27128994
+Points: 65
+# Comments: 4]]></summary>
+        <author>
+            <name>nifoc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My perilous foray into small-town politics in search of Municipal Broadband]]></title>
+        <id>https://news.ycombinator.com/item?id=27128869</id>
+        <link href="https://madned.substack.com/p/thin-pipe-part-ii"/>
+        <updated>2021-05-12T11:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/thin-pipe-part-ii
+Comments URL: https://news.ycombinator.com/item?id=27128869
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>mad_ned</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multics Public Access]]></title>
+        <id>https://news.ycombinator.com/item?id=27128765</id>
+        <link href="https://ban.ai/multics/"/>
+        <updated>2021-05-12T10:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ban.ai/multics/
+Comments URL: https://news.ycombinator.com/item?id=27128765
+Points: 16
+# Comments: 2]]></summary>
+        <author>
+            <name>nix23</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Reverse Engineering an Unknown Microcontroller]]></title>
         <id>https://news.ycombinator.com/item?id=27128531</id>
-        <link href="http://dmitry.gr/?r=05.Projects&amp;proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller"/>
+        <link href="https://dmitry.gr/?r=05.Projects&amp;proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller"/>
         <updated>2021-05-12T09:56:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller
+        <summary type="html"><![CDATA[Article URL: https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller
 Comments URL: https://news.ycombinator.com/item?id=27128531
-Points: 28
-# Comments: 2]]></summary>
+Points: 79
+# Comments: 11]]></summary>
         <author>
             <name>dmitrygr</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I built mmm.page → dead simple, drag and drop personal website creator]]></title>
+        <title type="html"><![CDATA[Improved distributed algorithms for fundamental graph problems (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27128425</id>
+        <link href="https://dspace.mit.edu/handle/1721.1/109000"/>
+        <updated>2021-05-12T09:37:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dspace.mit.edu/handle/1721.1/109000
+Comments URL: https://news.ycombinator.com/item?id=27128425
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>eternalban</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Mmm.page – Drag and drop personal website creator]]></title>
         <id>https://news.ycombinator.com/item?id=27128424</id>
         <link href="https://build.mmm.page"/>
         <updated>2021-05-12T09:37:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://build.mmm.page
 Comments URL: https://news.ycombinator.com/item?id=27128424
-Points: 33
-# Comments: 9]]></summary>
+Points: 134
+# Comments: 47]]></summary>
         <author>
             <name>xhfloz</name>
         </author>
@@ -39,8 +104,8 @@ Points: 33
         <updated>2021-05-12T08:48:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/
 Comments URL: https://news.ycombinator.com/item?id=27128164
-Points: 55
-# Comments: 9]]></summary>
+Points: 80
+# Comments: 24]]></summary>
         <author>
             <name>rekado</name>
         </author>
@@ -52,8 +117,8 @@ Points: 55
         <updated>2021-05-12T08:01:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html
 Comments URL: https://news.ycombinator.com/item?id=27127887
-Points: 37
-# Comments: 3]]></summary>
+Points: 44
+# Comments: 4]]></summary>
         <author>
             <name>DyslexicAtheist</name>
         </author>
@@ -75,8 +140,8 @@ Points: 37
         <updated>2021-05-12T07:35:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9
 Comments URL: https://news.ycombinator.com/item?id=27127703
-Points: 29
-# Comments: 6]]></summary>
+Points: 57
+# Comments: 14]]></summary>
         <author>
             <name>winchester6788</name>
         </author>
@@ -88,23 +153,10 @@ Points: 29
         <updated>2021-05-12T07:33:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openvisionapi.com
 Comments URL: https://news.ycombinator.com/item?id=27127694
-Points: 16
+Points: 31
 # Comments: 5]]></summary>
         <author>
             <name>pythops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join YC's software team and help build the OS that runs YC itself]]></title>
-        <id>https://news.ycombinator.com/item?id=27127527</id>
-        <link href="https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer-y-combinator"/>
-        <updated>2021-05-12T07:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer-y-combinator
-Comments URL: https://news.ycombinator.com/item?id=27127527
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>casey</name>
         </author>
     </entry>
     <entry>
@@ -114,8 +166,8 @@ Points: 1
         <updated>2021-05-12T06:41:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox
 Comments URL: https://news.ycombinator.com/item?id=27127403
-Points: 63
-# Comments: 20]]></summary>
+Points: 81
+# Comments: 35]]></summary>
         <author>
             <name>hyzyla</name>
         </author>
@@ -127,8 +179,8 @@ Points: 63
         <updated>2021-05-12T06:28:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://deno.com/blog/v1.10
 Comments URL: https://news.ycombinator.com/item?id=27127316
-Points: 145
-# Comments: 47]]></summary>
+Points: 172
+# Comments: 69]]></summary>
         <author>
             <name>caspervonb</name>
         </author>
@@ -140,8 +192,8 @@ Points: 145
         <updated>2021-05-12T05:29:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/
 Comments URL: https://news.ycombinator.com/item?id=27126939
-Points: 169
-# Comments: 128]]></summary>
+Points: 184
+# Comments: 135]]></summary>
         <author>
             <name>raptorraver</name>
         </author>
@@ -153,8 +205,8 @@ Points: 169
         <updated>2021-05-12T02:56:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://intel-isl.github.io/PhotorealismEnhancement/
 Comments URL: https://news.ycombinator.com/item?id=27126092
-Points: 260
-# Comments: 67]]></summary>
+Points: 313
+# Comments: 80]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -166,8 +218,8 @@ Points: 260
         <updated>2021-05-12T02:15:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b
 Comments URL: https://news.ycombinator.com/item?id=27125916
-Points: 72
-# Comments: 58]]></summary>
+Points: 90
+# Comments: 70]]></summary>
         <author>
             <name>danso</name>
         </author>
@@ -179,8 +231,8 @@ Points: 72
         <updated>2021-05-12T02:03:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html
 Comments URL: https://news.ycombinator.com/item?id=27125847
-Points: 77
-# Comments: 39]]></summary>
+Points: 85
+# Comments: 42]]></summary>
         <author>
             <name>elijahparker</name>
         </author>
@@ -192,8 +244,8 @@ Points: 77
         <updated>2021-05-12T01:43:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.05233
 Comments URL: https://news.ycombinator.com/item?id=27125742
-Points: 157
-# Comments: 35]]></summary>
+Points: 168
+# Comments: 36]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -205,8 +257,8 @@ Points: 157
         <updated>2021-05-11T23:20:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lithub.com/the-obsessive-scholar-who-rescued-icelands-ancient-literary-legacy/
 Comments URL: https://news.ycombinator.com/item?id=27124852
-Points: 60
-# Comments: 5]]></summary>
+Points: 70
+# Comments: 6]]></summary>
         <author>
             <name>drdee</name>
         </author>
@@ -218,8 +270,8 @@ Points: 60
         <updated>2021-05-11T22:57:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.airgradient.com/diy/
 Comments URL: https://news.ycombinator.com/item?id=27124671
-Points: 237
-# Comments: 58]]></summary>
+Points: 258
+# Comments: 62]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -259,19 +311,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Arduino IDE 2.0 beta]]></title>
-        <id>https://news.ycombinator.com/item?id=27123410</id>
-        <link href="https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/"/>
-        <updated>2021-05-11T20:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/
-Comments URL: https://news.ycombinator.com/item?id=27123410
-Points: 267
-# Comments: 91]]></summary>
-        <author>
-            <name>dgellow</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Write a Résumé – Practical Guide with Example Résumé]]></title>
         <id>6093929601fc34080ef81a0f</id>
         <link href="https://www.freecodecamp.org/news/how-to-write-a-resume-with-example/"/>
@@ -279,32 +318,6 @@ Points: 267
         <summary type="html"><![CDATA[Writing a résumé can be a little intimidating. And the pressure to make it really good and fill in each detail can be tiresome and scary. This is especially true if you're doing it for the first time, because you might not know what to add in or what to]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FragAttacks: new security vulnerabilities that affect wi-fi devices]]></title>
-        <id>https://news.ycombinator.com/item?id=27121918</id>
-        <link href="https://www.fragattacks.com/"/>
-        <updated>2021-05-11T18:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fragattacks.com/
-Comments URL: https://news.ycombinator.com/item?id=27121918
-Points: 531
-# Comments: 201]]></summary>
-        <author>
-            <name>sylvainkalache</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Germany bans Facebook from handling WhatsApp data over privacy concerns]]></title>
-        <id>https://news.ycombinator.com/item?id=27121332</id>
-        <link href="https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns"/>
-        <updated>2021-05-11T18:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns
-Comments URL: https://news.ycombinator.com/item?id=27121332
-Points: 558
-# Comments: 113]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
@@ -325,19 +338,6 @@ Points: 558
         <summary type="html"><![CDATA[The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Promise and Perils of Insect Farming]]></title>
-        <id>https://news.ycombinator.com/item?id=27119351</id>
-        <link href="https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&amp;id=d1c18230c5"/>
-        <updated>2021-05-11T15:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=d1c18230c5
-Comments URL: https://news.ycombinator.com/item?id=27119351
-Points: 32
-# Comments: 29]]></summary>
-        <author>
-            <name>pantalaimon</name>
         </author>
     </entry>
     <entry>
