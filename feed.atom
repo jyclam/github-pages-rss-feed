@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T23:12:27.220Z</updated>
+    <updated>2021-05-12T00:37:02.656Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flask 2.0.0 has been merged into master]]></title>
+        <id>https://news.ycombinator.com/item?id=27125200</id>
+        <link href="https://github.com/pallets/flask/pull/4007"/>
+        <updated>2021-05-12T00:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/pallets/flask/pull/4007
+Comments URL: https://news.ycombinator.com/item?id=27125200
+Points: 4
+# Comments: 1]]></summary>
+        <author>
+            <name>tpfour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware]]></title>
+        <id>https://news.ycombinator.com/item?id=27124671</id>
+        <link href="https://www.airgradient.com/diy/"/>
+        <updated>2021-05-11T22:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.airgradient.com/diy/
+Comments URL: https://news.ycombinator.com/item?id=27124671
+Points: 49
+# Comments: 7]]></summary>
+        <author>
+            <name>walterbell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Selenium and Python to Scrape Websites More Effectively]]></title>
         <id>6096aafe2cd0545b5e944430</id>
@@ -26,6 +52,22 @@ The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How to negotiate continuing to work remotely?]]></title>
+        <id>https://news.ycombinator.com/item?id=27123553</id>
+        <link href="https://news.ycombinator.com/item?id=27123553"/>
+        <updated>2021-05-11T21:09:06.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN. Like many of you I am working remotely due to COVID.
+I want to continue working remotely, but my job wants me in the office next month.
+How would you negotiate this with your employer?
+Have any of you already had this conversation? How did it go?
+Comments URL: https://news.ycombinator.com/item?id=27123553
+Points: 95
+# Comments: 80]]></summary>
+        <author>
+            <name>megasquid</name>
         </author>
     </entry>
     <entry>
@@ -60,8 +102,8 @@ Points: 1
         <updated>2021-05-11T20:56:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/
 Comments URL: https://news.ycombinator.com/item?id=27123410
-Points: 84
-# Comments: 28]]></summary>
+Points: 121
+# Comments: 37]]></summary>
         <author>
             <name>dgellow</name>
         </author>
@@ -73,8 +115,8 @@ Points: 84
         <updated>2021-05-11T20:54:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.justuseemail.com/
 Comments URL: https://news.ycombinator.com/item?id=27123389
-Points: 90
-# Comments: 58]]></summary>
+Points: 136
+# Comments: 95]]></summary>
         <author>
             <name>srpeck</name>
         </author>
@@ -86,8 +128,8 @@ Points: 90
         <updated>2021-05-11T20:27:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html
 Comments URL: https://news.ycombinator.com/item?id=27123077
-Points: 74
-# Comments: 15]]></summary>
+Points: 109
+# Comments: 27]]></summary>
         <author>
             <name>thg</name>
         </author>
@@ -109,8 +151,8 @@ Points: 74
         <updated>2021-05-11T18:46:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fragattacks.com/
 Comments URL: https://news.ycombinator.com/item?id=27121918
-Points: 321
-# Comments: 82]]></summary>
+Points: 367
+# Comments: 114]]></summary>
         <author>
             <name>sylvainkalache</name>
         </author>
@@ -122,8 +164,8 @@ Points: 321
         <updated>2021-05-11T18:23:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK
 Comments URL: https://news.ycombinator.com/item?id=27121586
-Points: 309
-# Comments: 226]]></summary>
+Points: 331
+# Comments: 242]]></summary>
         <author>
             <name>tareqak</name>
         </author>
@@ -135,8 +177,8 @@ Points: 309
         <updated>2021-05-11T18:12:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/
 Comments URL: https://news.ycombinator.com/item?id=27121461
-Points: 347
-# Comments: 244]]></summary>
+Points: 389
+# Comments: 270]]></summary>
         <author>
             <name>miles</name>
         </author>
@@ -148,8 +190,8 @@ Points: 347
         <updated>2021-05-11T18:00:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns
 Comments URL: https://news.ycombinator.com/item?id=27121332
-Points: 247
-# Comments: 26]]></summary>
+Points: 288
+# Comments: 29]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -181,8 +223,8 @@ Points: 247
         <updated>2021-05-11T17:14:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stratechery.com/2021/cloudflare-on-the-edge/
 Comments URL: https://news.ycombinator.com/item?id=27120677
-Points: 170
-# Comments: 69]]></summary>
+Points: 194
+# Comments: 74]]></summary>
         <author>
             <name>kaboro</name>
         </author>
@@ -194,8 +236,8 @@ Points: 170
         <updated>2021-05-11T17:05:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html
 Comments URL: https://news.ycombinator.com/item?id=27120557
-Points: 37
-# Comments: 16]]></summary>
+Points: 88
+# Comments: 55]]></summary>
         <author>
             <name>fortran77</name>
         </author>
@@ -207,8 +249,8 @@ Points: 37
         <updated>2021-05-11T16:57:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://scp-wiki.wikidot.com/scp-2521
 Comments URL: https://news.ycombinator.com/item?id=27120460
-Points: 330
-# Comments: 128]]></summary>
+Points: 363
+# Comments: 149]]></summary>
         <author>
             <name>crazypython</name>
         </author>
@@ -220,8 +262,8 @@ Points: 330
         <updated>2021-05-11T16:47:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/
 Comments URL: https://news.ycombinator.com/item?id=27120354
-Points: 74
-# Comments: 64]]></summary>
+Points: 81
+# Comments: 70]]></summary>
         <author>
             <name>airstrike</name>
         </author>
@@ -233,36 +275,10 @@ Points: 74
         <updated>2021-05-11T16:36:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ianwhitestone.work/good-ds-bad-ds/
 Comments URL: https://news.ycombinator.com/item?id=27120231
-Points: 111
-# Comments: 67]]></summary>
+Points: 120
+# Comments: 76]]></summary>
         <author>
             <name>ian-whitestone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Architecture for Plaid Link: Server-Driven UI with Directed Graphs]]></title>
-        <id>https://news.ycombinator.com/item?id=27120204</id>
-        <link href="https://plaid.com/blog/a-new-architecture-for-plaid-link-server-driven-ui-with-directed-graphs"/>
-        <updated>2021-05-11T16:33:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://plaid.com/blog/a-new-architecture-for-plaid-link-server-driven-ui-with-directed-graphs
-Comments URL: https://news.ycombinator.com/item?id=27120204
-Points: 42
-# Comments: 18]]></summary>
-        <author>
-            <name>bjacokes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vamp is joining CircleCI]]></title>
-        <id>https://news.ycombinator.com/item?id=27119221</id>
-        <link href="https://blog.vamp.io/vamp-is-joining-circleci/"/>
-        <updated>2021-05-11T15:24:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.vamp.io/vamp-is-joining-circleci/
-Comments URL: https://news.ycombinator.com/item?id=27119221
-Points: 63
-# Comments: 5]]></summary>
-        <author>
-            <name>muramira</name>
         </author>
     </entry>
     <entry>
@@ -328,7 +344,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-11T14:32:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eng.uber.com/pprof-go-profiler/
 Comments URL: https://news.ycombinator.com/item?id=27118541
-Points: 199
+Points: 205
 # Comments: 33]]></summary>
         <author>
             <name>vquemener</name>
@@ -341,7 +357,7 @@ Points: 199
         <updated>2021-05-11T13:51:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://questdb.slab.com/public/posts/p4aktor4
 Comments URL: https://news.ycombinator.com/item?id=27118117
-Points: 52
+Points: 62
 # Comments: 7]]></summary>
         <author>
             <name>bluestreak</name>
@@ -374,23 +390,10 @@ Points: 52
         <updated>2021-05-11T12:12:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html
 Comments URL: https://news.ycombinator.com/item?id=27117121
-Points: 67
-# Comments: 16]]></summary>
+Points: 71
+# Comments: 17]]></summary>
         <author>
             <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We’ll stop selling our Code Editor app for iOS soon]]></title>
-        <id>https://news.ycombinator.com/item?id=27116203</id>
-        <link href="https://panic.com/blog/the-future-of-code-editor/"/>
-        <updated>2021-05-11T10:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://panic.com/blog/the-future-of-code-editor/
-Comments URL: https://news.ycombinator.com/item?id=27116203
-Points: 294
-# Comments: 374]]></summary>
-        <author>
-            <name>krzyzanowskim</name>
         </author>
     </entry>
     <entry>
@@ -954,16 +957,6 @@ The post QUIC and HTTP/3 Support now in Firefox Nightly and Beta appeared first 
         <summary type="html"><![CDATA[In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Deven Rathore)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To HTML Email]]></title>
-        <id>https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/</id>
-        <link href="https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/"/>
-        <updated>2021-04-12T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
