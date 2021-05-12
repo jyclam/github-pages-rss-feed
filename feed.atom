@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T21:12:25.724Z</updated>
+    <updated>2021-05-12T22:17:21.416Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kobra – visual programming language for machine learning]]></title>
+        <id>https://news.ycombinator.com/item?id=27135573</id>
+        <link href="https://kobra.dev/"/>
+        <updated>2021-05-12T21:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kobra.dev/
+Comments URL: https://news.ycombinator.com/item?id=27135573
+Points: 16
+# Comments: 1]]></summary>
+        <author>
+            <name>amrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CP/M for OS X]]></title>
+        <id>https://news.ycombinator.com/item?id=27135421</id>
+        <link href="https://github.com/TomHarte/CP-M-for-OS-X"/>
+        <updated>2021-05-12T21:34:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/TomHarte/CP-M-for-OS-X
+Comments URL: https://news.ycombinator.com/item?id=27135421
+Points: 21
+# Comments: 2]]></summary>
+        <author>
+            <name>bilegeek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Relationship Hero is hiring coaches – Full Time Remote]]></title>
         <id>https://news.ycombinator.com/item?id=27135089</id>
@@ -20,19 +46,6 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The digital natives are not who you think it is]]></title>
-        <id>https://news.ycombinator.com/item?id=27135060</id>
-        <link href="https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/"/>
-        <updated>2021-05-12T20:57:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/
-Comments URL: https://news.ycombinator.com/item?id=27135060
-Points: 14
-# Comments: 3]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.JS, Axios, the GitHub REST API, and Netlify]]></title>
         <id>5fde208ae6787e09839407c3</id>
         <link href="https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/"/>
@@ -43,16 +56,42 @@ Points: 14
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the Futility of Contact Tracing]]></title>
-        <id>https://news.ycombinator.com/item?id=27134252</id>
-        <link href="https://inference-review.com/article/on-the-futility-of-contact-tracing"/>
-        <updated>2021-05-12T19:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://inference-review.com/article/on-the-futility-of-contact-tracing
-Comments URL: https://news.ycombinator.com/item?id=27134252
-Points: 5
+        <title type="html"><![CDATA[Instagram, Twitter blame glitches for deleting Palestinian posts]]></title>
+        <id>https://news.ycombinator.com/item?id=27134995</id>
+        <link href="https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624"/>
+        <updated>2021-05-12T20:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624
+Comments URL: https://news.ycombinator.com/item?id=27134995
+Points: 145
+# Comments: 42]]></summary>
+        <author>
+            <name>tareqak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoid Git LFS if possible]]></title>
+        <id>https://news.ycombinator.com/item?id=27134972</id>
+        <link href="https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/"/>
+        <updated>2021-05-12T20:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/
+Comments URL: https://news.ycombinator.com/item?id=27134972
+Points: 26
+# Comments: 19]]></summary>
+        <author>
+            <name>reimbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One person's war on junk mail]]></title>
+        <id>https://news.ycombinator.com/item?id=27134969</id>
+        <link href="http://www.langston.com/Fun_People/1996/1996AEK.html"/>
+        <updated>2021-05-12T20:46:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.langston.com/Fun_People/1996/1996AEK.html
+Comments URL: https://news.ycombinator.com/item?id=27134969
+Points: 15
 # Comments: 2]]></summary>
         <author>
-            <name>ismiseted</name>
+            <name>_wldu</name>
         </author>
     </entry>
     <entry>
@@ -62,21 +101,21 @@ Points: 5
         <updated>2021-05-12T19:31:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/kalkayan/dotfiles
 Comments URL: https://news.ycombinator.com/item?id=27134249
-Points: 12
-# Comments: 4]]></summary>
+Points: 22
+# Comments: 17]]></summary>
         <author>
             <name>bminusl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neural implant lets paralyzed person type by imagining writing [90wpm]]]></title>
+        <title type="html"><![CDATA[Neural implant lets paralyzed person type by imagining writing]]></title>
         <id>https://news.ycombinator.com/item?id=27134049</id>
-        <link href="https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/?comments=1"/>
+        <link href="https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/"/>
         <updated>2021-05-12T19:14:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/?comments=1
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/
 Comments URL: https://news.ycombinator.com/item?id=27134049
-Points: 79
-# Comments: 37]]></summary>
+Points: 146
+# Comments: 63]]></summary>
         <author>
             <name>Engineering-MD</name>
         </author>
@@ -88,8 +127,8 @@ Points: 79
         <updated>2021-05-12T18:52:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
 Comments URL: https://news.ycombinator.com/item?id=27133804
-Points: 109
-# Comments: 24]]></summary>
+Points: 131
+# Comments: 37]]></summary>
         <author>
             <name>ridiculous_fish</name>
         </author>
@@ -111,8 +150,8 @@ Points: 109
         <updated>2021-05-12T18:27:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think
 Comments URL: https://news.ycombinator.com/item?id=27133530
-Points: 45
-# Comments: 26]]></summary>
+Points: 55
+# Comments: 32]]></summary>
         <author>
             <name>adolph</name>
         </author>
@@ -124,23 +163,10 @@ Points: 45
         <updated>2021-05-12T17:54:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.energy.gov/ne/articles/what-nuclear-microreactor
 Comments URL: https://news.ycombinator.com/item?id=27133196
-Points: 99
-# Comments: 84]]></summary>
+Points: 115
+# Comments: 104]]></summary>
         <author>
             <name>rbanffy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flask 2.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27132999</id>
-        <link href="https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0"/>
-        <updated>2021-05-12T17:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0
-Comments URL: https://news.ycombinator.com/item?id=27132999
-Points: 136
-# Comments: 43]]></summary>
-        <author>
-            <name>avyfain</name>
         </author>
     </entry>
     <entry>
@@ -150,8 +176,8 @@ Points: 136
         <updated>2021-05-12T17:37:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.replit.com/apps
 Comments URL: https://news.ycombinator.com/item?id=27132979
-Points: 61
-# Comments: 29]]></summary>
+Points: 73
+# Comments: 32]]></summary>
         <author>
             <name>razin</name>
         </author>
@@ -163,23 +189,10 @@ Points: 61
         <updated>2021-05-12T16:44:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/eduard-permyakov/permafrost-engine
 Comments URL: https://news.ycombinator.com/item?id=27132334
-Points: 578
-# Comments: 92]]></summary>
+Points: 652
+# Comments: 111]]></summary>
         <author>
             <name>epermyakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bill Hwang of Archegos Capital lost $20B in two days]]></title>
-        <id>https://news.ycombinator.com/item?id=27132088</id>
-        <link href="https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-archegos-capital-lost-20-billion-in-two-days"/>
-        <updated>2021-05-12T16:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-archegos-capital-lost-20-billion-in-two-days
-Comments URL: https://news.ycombinator.com/item?id=27132088
-Points: 208
-# Comments: 174]]></summary>
-        <author>
-            <name>haltingproblem</name>
         </author>
     </entry>
     <entry>
@@ -189,8 +202,8 @@ Points: 208
         <updated>2021-05-12T16:06:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/Houdini
 Comments URL: https://news.ycombinator.com/item?id=27131897
-Points: 164
-# Comments: 96]]></summary>
+Points: 189
+# Comments: 103]]></summary>
         <author>
             <name>mvolfik</name>
         </author>
@@ -202,8 +215,8 @@ Points: 164
         <updated>2021-05-12T15:53:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57055163
 Comments URL: https://news.ycombinator.com/item?id=27131744
-Points: 58
-# Comments: 20]]></summary>
+Points: 67
+# Comments: 22]]></summary>
         <author>
             <name>harscoat</name>
         </author>
@@ -228,8 +241,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-12T13:57:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://positive.security/blog/send-my
 Comments URL: https://news.ycombinator.com/item?id=27130355
-Points: 377
-# Comments: 81]]></summary>
+Points: 398
+# Comments: 93]]></summary>
         <author>
             <name>kerm1t</name>
         </author>
@@ -241,8 +254,8 @@ Points: 377
         <updated>2021-05-12T13:05:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
 Comments URL: https://news.ycombinator.com/item?id=27129858
-Points: 756
-# Comments: 744]]></summary>
+Points: 797
+# Comments: 770]]></summary>
         <author>
             <name>lewisjoe</name>
         </author>
@@ -264,10 +277,23 @@ Points: 756
         <updated>2021-05-12T12:34:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/
 Comments URL: https://news.ycombinator.com/item?id=27129518
-Points: 132
-# Comments: 48]]></summary>
+Points: 138
+# Comments: 52]]></summary>
         <author>
             <name>wilsonfiifi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Type-guided development and garden paths]]></title>
+        <id>https://news.ycombinator.com/item?id=27129478</id>
+        <link href="https://frasertweedale.github.io/blog-fp/posts/2021-05-12-types-garden-path.html"/>
+        <updated>2021-05-12T12:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://frasertweedale.github.io/blog-fp/posts/2021-05-12-types-garden-path.html
+Comments URL: https://news.ycombinator.com/item?id=27129478
+Points: 8
+# Comments: 2]]></summary>
+        <author>
+            <name>gbrown_</name>
         </author>
     </entry>
     <entry>
@@ -277,36 +303,10 @@ Points: 132
         <updated>2021-05-12T12:04:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86
 Comments URL: https://news.ycombinator.com/item?id=27129305
-Points: 241
-# Comments: 63]]></summary>
+Points: 254
+# Comments: 68]]></summary>
         <author>
             <name>highspeedmobile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Erlang/OTP 24 highlights]]></title>
-        <id>https://news.ycombinator.com/item?id=27128994</id>
-        <link href="http://blog.erlang.org/My-OTP-24-Highlights/"/>
-        <updated>2021-05-12T11:18:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://blog.erlang.org/My-OTP-24-Highlights/
-Comments URL: https://news.ycombinator.com/item?id=27128994
-Points: 384
-# Comments: 76]]></summary>
-        <author>
-            <name>nifoc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My multi-decade quest for rural broadband]]></title>
-        <id>https://news.ycombinator.com/item?id=27128869</id>
-        <link href="https://madned.substack.com/p/thin-pipe-part-i"/>
-        <updated>2021-05-12T11:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/thin-pipe-part-i
-Comments URL: https://news.ycombinator.com/item?id=27128869
-Points: 186
-# Comments: 137]]></summary>
-        <author>
-            <name>mad_ned</name>
         </author>
     </entry>
     <entry>
