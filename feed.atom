@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T02:06:54.447Z</updated>
+    <updated>2021-05-12T03:24:35.851Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One of the World’s Longest-Running Experiments Sends Up Sprouts]]></title>
+        <id>https://news.ycombinator.com/item?id=27125847</id>
+        <link href="https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html"/>
+        <updated>2021-05-12T02:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html
+Comments URL: https://news.ycombinator.com/item?id=27125847
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>elijahparker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diffusion Models Beat GANs on Image Synthesis]]></title>
+        <id>https://news.ycombinator.com/item?id=27125742</id>
+        <link href="https://arxiv.org/abs/2105.05233"/>
+        <updated>2021-05-12T01:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.05233
+Comments URL: https://news.ycombinator.com/item?id=27125742
+Points: 38
+# Comments: 2]]></summary>
+        <author>
+            <name>lnyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lasting immunity found after recovery from Covid-19]]></title>
         <id>https://news.ycombinator.com/item?id=27125728</id>
@@ -13,23 +39,23 @@
         <updated>2021-05-12T01:41:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nih.gov/news-events/nih-research-matters/lasting-immunity-found-after-recovery-covid-19
 Comments URL: https://news.ycombinator.com/item?id=27125728
-Points: 3
-# Comments: 0]]></summary>
+Points: 89
+# Comments: 53]]></summary>
         <author>
             <name>jacquesm</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flask 2.0.0 has been merged into master]]></title>
-        <id>https://news.ycombinator.com/item?id=27125200</id>
-        <link href="https://github.com/pallets/flask/pull/4007"/>
-        <updated>2021-05-12T00:13:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/pallets/flask/pull/4007
-Comments URL: https://news.ycombinator.com/item?id=27125200
-Points: 81
-# Comments: 31]]></summary>
+        <title type="html"><![CDATA[The Obsessive Scholar Who Rescued Iceland’s Ancient Literary Legacy]]></title>
+        <id>https://news.ycombinator.com/item?id=27124852</id>
+        <link href="https://lithub.com/the-obsessive-scholar-who-rescued-icelands-ancient-literary-legacy/"/>
+        <updated>2021-05-11T23:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lithub.com/the-obsessive-scholar-who-rescued-icelands-ancient-literary-legacy/
+Comments URL: https://news.ycombinator.com/item?id=27124852
+Points: 5
+# Comments: 0]]></summary>
         <author>
-            <name>tpfour</name>
+            <name>drdee</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +65,8 @@ Points: 81
         <updated>2021-05-11T22:57:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.airgradient.com/diy/
 Comments URL: https://news.ycombinator.com/item?id=27124671
-Points: 80
-# Comments: 16]]></summary>
+Points: 115
+# Comments: 32]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -53,6 +79,32 @@ Points: 80
         <summary type="html"><![CDATA[When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting]]></summary>
         <author>
             <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Tasks with FastAPI and Celery]]></title>
+        <id>https://news.ycombinator.com/item?id=27124584</id>
+        <link href="https://testdriven.io/blog/fastapi-and-celery/"/>
+        <updated>2021-05-11T22:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://testdriven.io/blog/fastapi-and-celery/
+Comments URL: https://news.ycombinator.com/item?id=27124584
+Points: 17
+# Comments: 1]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is Jerusalem blurry on Google Maps? (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27124376</id>
+        <link href="https://joshdance.medium.com/why-is-jerusalem-blurry-on-google-maps-db6e0aec5d64"/>
+        <updated>2021-05-11T22:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://joshdance.medium.com/why-is-jerusalem-blurry-on-google-maps-db6e0aec5d64
+Comments URL: https://news.ycombinator.com/item?id=27124376
+Points: 18
+# Comments: 9]]></summary>
+        <author>
+            <name>paganel</name>
         </author>
     </entry>
     <entry>
@@ -77,8 +129,8 @@ I want to continue working remotely, but my job wants me in the office next mont
 How would you negotiate this with your employer?
 Have any of you already had this conversation? How did it go?
 Comments URL: https://news.ycombinator.com/item?id=27123553
-Points: 131
-# Comments: 103]]></summary>
+Points: 162
+# Comments: 120]]></summary>
         <author>
             <name>megasquid</name>
         </author>
@@ -115,8 +167,8 @@ Points: 1
         <updated>2021-05-11T20:56:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/
 Comments URL: https://news.ycombinator.com/item?id=27123410
-Points: 147
-# Comments: 47]]></summary>
+Points: 164
+# Comments: 55]]></summary>
         <author>
             <name>dgellow</name>
         </author>
@@ -128,8 +180,8 @@ Points: 147
         <updated>2021-05-11T20:54:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.justuseemail.com/
 Comments URL: https://news.ycombinator.com/item?id=27123389
-Points: 167
-# Comments: 129]]></summary>
+Points: 191
+# Comments: 147]]></summary>
         <author>
             <name>srpeck</name>
         </author>
@@ -141,8 +193,8 @@ Points: 167
         <updated>2021-05-11T20:27:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html
 Comments URL: https://news.ycombinator.com/item?id=27123077
-Points: 138
-# Comments: 48]]></summary>
+Points: 161
+# Comments: 56]]></summary>
         <author>
             <name>thg</name>
         </author>
@@ -164,23 +216,10 @@ Points: 138
         <updated>2021-05-11T18:46:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fragattacks.com/
 Comments URL: https://news.ycombinator.com/item?id=27121918
-Points: 392
-# Comments: 132]]></summary>
+Points: 428
+# Comments: 145]]></summary>
         <author>
             <name>sylvainkalache</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech giants join call for funding U.S. chip production]]></title>
-        <id>https://news.ycombinator.com/item?id=27121586</id>
-        <link href="https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK"/>
-        <updated>2021-05-11T18:23:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK
-Comments URL: https://news.ycombinator.com/item?id=27121586
-Points: 350
-# Comments: 247]]></summary>
-        <author>
-            <name>tareqak</name>
         </author>
     </entry>
     <entry>
@@ -190,8 +229,8 @@ Points: 350
         <updated>2021-05-11T18:12:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/
 Comments URL: https://news.ycombinator.com/item?id=27121461
-Points: 421
-# Comments: 302]]></summary>
+Points: 442
+# Comments: 322]]></summary>
         <author>
             <name>miles</name>
         </author>
@@ -203,8 +242,8 @@ Points: 421
         <updated>2021-05-11T18:00:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns
 Comments URL: https://news.ycombinator.com/item?id=27121332
-Points: 311
-# Comments: 38]]></summary>
+Points: 332
+# Comments: 43]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -236,8 +275,8 @@ Points: 311
         <updated>2021-05-11T17:14:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stratechery.com/2021/cloudflare-on-the-edge/
 Comments URL: https://news.ycombinator.com/item?id=27120677
-Points: 217
-# Comments: 79]]></summary>
+Points: 237
+# Comments: 83]]></summary>
         <author>
             <name>kaboro</name>
         </author>
@@ -249,8 +288,8 @@ Points: 217
         <updated>2021-05-11T17:05:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html
 Comments URL: https://news.ycombinator.com/item?id=27120557
-Points: 139
-# Comments: 100]]></summary>
+Points: 172
+# Comments: 132]]></summary>
         <author>
             <name>fortran77</name>
         </author>
@@ -262,23 +301,10 @@ Points: 139
         <updated>2021-05-11T16:57:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://scp-wiki.wikidot.com/scp-2521
 Comments URL: https://news.ycombinator.com/item?id=27120460
-Points: 381
-# Comments: 156]]></summary>
+Points: 400
+# Comments: 161]]></summary>
         <author>
             <name>crazypython</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An experiment caught a quantum system in the middle of a jump (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27120354</id>
-        <link href="https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/"/>
-        <updated>2021-05-11T16:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/
-Comments URL: https://news.ycombinator.com/item?id=27120354
-Points: 85
-# Comments: 74]]></summary>
-        <author>
-            <name>airstrike</name>
         </author>
     </entry>
     <entry>
@@ -288,23 +314,10 @@ Points: 85
         <updated>2021-05-11T16:36:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ianwhitestone.work/good-ds-bad-ds/
 Comments URL: https://news.ycombinator.com/item?id=27120231
-Points: 128
-# Comments: 79]]></summary>
+Points: 139
+# Comments: 81]]></summary>
         <author>
             <name>ian-whitestone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vamp is joining CircleCI]]></title>
-        <id>https://news.ycombinator.com/item?id=27119221</id>
-        <link href="https://blog.vamp.io/vamp-is-joining-circleci/"/>
-        <updated>2021-05-11T15:24:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.vamp.io/vamp-is-joining-circleci/
-Comments URL: https://news.ycombinator.com/item?id=27119221
-Points: 66
-# Comments: 7]]></summary>
-        <author>
-            <name>muramira</name>
         </author>
     </entry>
     <entry>
@@ -361,19 +374,6 @@ The post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pprof++: A Go Profiler with Hardware Performance Monitoring]]></title>
-        <id>https://news.ycombinator.com/item?id=27118541</id>
-        <link href="https://eng.uber.com/pprof-go-profiler/"/>
-        <updated>2021-05-11T14:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://eng.uber.com/pprof-go-profiler/
-Comments URL: https://news.ycombinator.com/item?id=27118541
-Points: 213
-# Comments: 34]]></summary>
-        <author>
-            <name>vquemener</name>
         </author>
     </entry>
     <entry>
