@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T09:13:58.794Z</updated>
+    <updated>2021-05-12T10:14:10.320Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GNU Guix 1.3.0 Released]]></title>
+        <id>https://news.ycombinator.com/item?id=27128164</id>
+        <link href="https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/"/>
+        <updated>2021-05-12T08:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://guix.gnu.org/en/blog/2021/gnu-guix-1.3.0-released/
+Comments URL: https://news.ycombinator.com/item?id=27128164
+Points: 33
+# Comments: 4]]></summary>
+        <author>
+            <name>rekado</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newly Declassified NSA Document on Cryptography in the 1970s]]></title>
         <id>https://news.ycombinator.com/item?id=27127887</id>
@@ -13,8 +26,8 @@
         <updated>2021-05-12T08:01:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html
 Comments URL: https://news.ycombinator.com/item?id=27127887
-Points: 15
-# Comments: 1]]></summary>
+Points: 26
+# Comments: 2]]></summary>
         <author>
             <name>DyslexicAtheist</name>
         </author>
@@ -23,10 +36,36 @@ Points: 15
         <title type="html"><![CDATA[Little Smashing Stories]]></title>
         <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
         <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T07:57:00.000Z</updated>
+        <updated>2021-05-12T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I could send any text message from Indian government IDs]]></title>
+        <id>https://news.ycombinator.com/item?id=27127703</id>
+        <link href="https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9"/>
+        <updated>2021-05-12T07:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9
+Comments URL: https://news.ycombinator.com/item?id=27127703
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>winchester6788</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open source computer vision API]]></title>
+        <id>https://news.ycombinator.com/item?id=27127694</id>
+        <link href="https://openvisionapi.com"/>
+        <updated>2021-05-12T07:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openvisionapi.com
+Comments URL: https://news.ycombinator.com/item?id=27127694
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>pythops</name>
         </author>
     </entry>
     <entry>
@@ -49,8 +88,8 @@ Points: 1
         <updated>2021-05-12T06:41:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox
 Comments URL: https://news.ycombinator.com/item?id=27127403
-Points: 24
-# Comments: 5]]></summary>
+Points: 43
+# Comments: 13]]></summary>
         <author>
             <name>hyzyla</name>
         </author>
@@ -62,8 +101,8 @@ Points: 24
         <updated>2021-05-12T06:28:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://deno.com/blog/v1.10
 Comments URL: https://news.ycombinator.com/item?id=27127316
-Points: 69
-# Comments: 20]]></summary>
+Points: 102
+# Comments: 33]]></summary>
         <author>
             <name>caspervonb</name>
         </author>
@@ -75,23 +114,10 @@ Points: 69
         <updated>2021-05-12T05:29:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/
 Comments URL: https://news.ycombinator.com/item?id=27126939
-Points: 147
-# Comments: 103]]></summary>
+Points: 159
+# Comments: 118]]></summary>
         <author>
             <name>raptorraver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Fake Money Saved Brazil (2010)]]></title>
-        <id>https://news.ycombinator.com/item?id=27126258</id>
-        <link href="https://www.npr.org/sections/money/2010/10/04/130329523/how-fake-money-saved-brazil"/>
-        <updated>2021-05-12T03:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2010/10/04/130329523/how-fake-money-saved-brazil
-Comments URL: https://news.ycombinator.com/item?id=27126258
-Points: 89
-# Comments: 52]]></summary>
-        <author>
-            <name>fossuser</name>
         </author>
     </entry>
     <entry>
@@ -101,8 +127,8 @@ Points: 89
         <updated>2021-05-12T02:56:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://intel-isl.github.io/PhotorealismEnhancement/
 Comments URL: https://news.ycombinator.com/item?id=27126092
-Points: 155
-# Comments: 41]]></summary>
+Points: 205
+# Comments: 57]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -114,8 +140,8 @@ Points: 155
         <updated>2021-05-12T02:15:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b
 Comments URL: https://news.ycombinator.com/item?id=27125916
-Points: 53
-# Comments: 34]]></summary>
+Points: 62
+# Comments: 45]]></summary>
         <author>
             <name>danso</name>
         </author>
@@ -127,8 +153,8 @@ Points: 53
         <updated>2021-05-12T02:03:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html
 Comments URL: https://news.ycombinator.com/item?id=27125847
-Points: 61
-# Comments: 30]]></summary>
+Points: 69
+# Comments: 33]]></summary>
         <author>
             <name>elijahparker</name>
         </author>
@@ -140,8 +166,8 @@ Points: 61
         <updated>2021-05-12T01:43:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.05233
 Comments URL: https://news.ycombinator.com/item?id=27125742
-Points: 137
-# Comments: 31]]></summary>
+Points: 148
+# Comments: 32]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -153,8 +179,8 @@ Points: 137
         <updated>2021-05-11T23:20:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lithub.com/the-obsessive-scholar-who-rescued-icelands-ancient-literary-legacy/
 Comments URL: https://news.ycombinator.com/item?id=27124852
-Points: 47
-# Comments: 2]]></summary>
+Points: 53
+# Comments: 4]]></summary>
         <author>
             <name>drdee</name>
         </author>
@@ -166,8 +192,8 @@ Points: 47
         <updated>2021-05-11T22:57:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.airgradient.com/diy/
 Comments URL: https://news.ycombinator.com/item?id=27124671
-Points: 206
-# Comments: 53]]></summary>
+Points: 222
+# Comments: 55]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -204,8 +230,8 @@ I want to continue working remotely, but my job wants me in the office next mont
 How would you negotiate this with your employer?
 Have any of you already had this conversation? How did it go?
 Comments URL: https://news.ycombinator.com/item?id=27123553
-Points: 273
-# Comments: 195]]></summary>
+Points: 290
+# Comments: 213]]></summary>
         <author>
             <name>megasquid</name>
         </author>
@@ -229,23 +255,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-11T20:56:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/
 Comments URL: https://news.ycombinator.com/item?id=27123410
-Points: 250
-# Comments: 79]]></summary>
+Points: 262
+# Comments: 86]]></summary>
         <author>
             <name>dgellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just Use Email – How to Use Email for Everything]]></title>
-        <id>https://news.ycombinator.com/item?id=27123389</id>
-        <link href="https://www.justuseemail.com/"/>
-        <updated>2021-05-11T20:54:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.justuseemail.com/
-Comments URL: https://news.ycombinator.com/item?id=27123389
-Points: 258
-# Comments: 222]]></summary>
-        <author>
-            <name>srpeck</name>
         </author>
     </entry>
     <entry>
@@ -265,23 +278,10 @@ Points: 258
         <updated>2021-05-11T18:46:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fragattacks.com/
 Comments URL: https://news.ycombinator.com/item?id=27121918
-Points: 516
-# Comments: 192]]></summary>
+Points: 523
+# Comments: 195]]></summary>
         <author>
             <name>sylvainkalache</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I mailed an AirTag and tracked its progress]]></title>
-        <id>https://news.ycombinator.com/item?id=27121461</id>
-        <link href="https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/"/>
-        <updated>2021-05-11T18:12:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/
-Comments URL: https://news.ycombinator.com/item?id=27121461
-Points: 505
-# Comments: 380]]></summary>
-        <author>
-            <name>miles</name>
         </author>
     </entry>
     <entry>
@@ -291,8 +291,8 @@ Points: 505
         <updated>2021-05-11T18:00:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns
 Comments URL: https://news.ycombinator.com/item?id=27121332
-Points: 515
-# Comments: 92]]></summary>
+Points: 533
+# Comments: 101]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -324,8 +324,8 @@ Points: 515
         <updated>2021-05-11T15:34:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=d1c18230c5
 Comments URL: https://news.ycombinator.com/item?id=27119351
-Points: 16
-# Comments: 10]]></summary>
+Points: 26
+# Comments: 20]]></summary>
         <author>
             <name>pantalaimon</name>
         </author>
