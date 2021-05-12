@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T19:20:07.136Z</updated>
+    <updated>2021-05-12T20:14:49.770Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neural implant lets paralyzed person type by imagining writing [90wpm]]]></title>
+        <id>https://news.ycombinator.com/item?id=27134049</id>
+        <link href="https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/?comments=1"/>
+        <updated>2021-05-12T19:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/?comments=1
+Comments URL: https://news.ycombinator.com/item?id=27134049
+Points: 26
+# Comments: 8]]></summary>
+        <author>
+            <name>Engineering-MD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Buterin's $1B crypto donation to India Covid Relief fund]]></title>
+        <id>https://news.ycombinator.com/item?id=27133937</id>
+        <link href="https://etherscan.io/tx/0xb65bcbb85c1633b0ab4e4886c3cd8eeaeb63edbb39cacdb9223fdcf4454fd2c7"/>
+        <updated>2021-05-12T19:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://etherscan.io/tx/0xb65bcbb85c1633b0ab4e4886c3cd8eeaeb63edbb39cacdb9223fdcf4454fd2c7
+Comments URL: https://news.ycombinator.com/item?id=27133937
+Points: 15
+# Comments: 3]]></summary>
+        <author>
+            <name>throwkeep</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Benchmarking division and libdivide on Apple M1 and Intel AVX512]]></title>
         <id>https://news.ycombinator.com/item?id=27133804</id>
@@ -13,8 +39,8 @@
         <updated>2021-05-12T18:52:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
 Comments URL: https://news.ycombinator.com/item?id=27133804
-Points: 15
-# Comments: 0]]></summary>
+Points: 71
+# Comments: 11]]></summary>
         <author>
             <name>ridiculous_fish</name>
         </author>
@@ -30,42 +56,16 @@ Points: 15
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Macaroni in ‘Yankee Doodle’ Is Not What You Think]]></title>
+        <title type="html"><![CDATA[The Macaroni in ‘Yankee Doodle’]]></title>
         <id>https://news.ycombinator.com/item?id=27133530</id>
         <link href="https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think"/>
         <updated>2021-05-12T18:27:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think
 Comments URL: https://news.ycombinator.com/item?id=27133530
-Points: 14
-# Comments: 3]]></summary>
+Points: 32
+# Comments: 12]]></summary>
         <author>
             <name>adolph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My salary as a full-stack developer]]></title>
-        <id>https://news.ycombinator.com/item?id=27133376</id>
-        <link href="https://remotehunt.com/blog/developer-salary"/>
-        <updated>2021-05-12T18:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://remotehunt.com/blog/developer-salary
-Comments URL: https://news.ycombinator.com/item?id=27133376
-Points: 30
-# Comments: 36]]></summary>
-        <author>
-            <name>misterremote</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Graduation 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27133320</id>
-        <link href="https://github.com/education/GitHubGraduation-2021"/>
-        <updated>2021-05-12T18:06:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/education/GitHubGraduation-2021
-Comments URL: https://news.ycombinator.com/item?id=27133320
-Points: 15
-# Comments: 2]]></summary>
-        <author>
-            <name>codecalec</name>
         </author>
     </entry>
     <entry>
@@ -75,21 +75,21 @@ Points: 15
         <updated>2021-05-12T17:54:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.energy.gov/ne/articles/what-nuclear-microreactor
 Comments URL: https://news.ycombinator.com/item?id=27133196
-Points: 44
-# Comments: 39]]></summary>
+Points: 75
+# Comments: 69]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flask 2.0.0 has been released]]></title>
+        <title type="html"><![CDATA[Flask 2.0]]></title>
         <id>https://news.ycombinator.com/item?id=27132999</id>
         <link href="https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0"/>
         <updated>2021-05-12T17:38:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0
 Comments URL: https://news.ycombinator.com/item?id=27132999
-Points: 52
-# Comments: 13]]></summary>
+Points: 113
+# Comments: 34]]></summary>
         <author>
             <name>avyfain</name>
         </author>
@@ -101,8 +101,8 @@ Points: 52
         <updated>2021-05-12T17:37:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.replit.com/apps
 Comments URL: https://news.ycombinator.com/item?id=27132979
-Points: 32
-# Comments: 6]]></summary>
+Points: 48
+# Comments: 13]]></summary>
         <author>
             <name>razin</name>
         </author>
@@ -127,47 +127,34 @@ Points: 1
         <updated>2021-05-12T16:58:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta
 Comments URL: https://news.ycombinator.com/item?id=27132485
-Points: 61
-# Comments: 26]]></summary>
+Points: 76
+# Comments: 31]]></summary>
         <author>
             <name>marche101</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I wrote my own RTS game engine in 70k SLOC of C]]></title>
+        <title type="html"><![CDATA[Show HN: I wrote my own RTS game engine in C]]></title>
         <id>https://news.ycombinator.com/item?id=27132334</id>
         <link href="https://github.com/eduard-permyakov/permafrost-engine"/>
         <updated>2021-05-12T16:44:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/eduard-permyakov/permafrost-engine
 Comments URL: https://news.ycombinator.com/item?id=27132334
-Points: 322
-# Comments: 46]]></summary>
+Points: 470
+# Comments: 71]]></summary>
         <author>
             <name>epermyakov</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bill Hwang of Archegos Capital lost $20B in two days]]></title>
-        <id>https://news.ycombinator.com/item?id=27132088</id>
-        <link href="https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-archegos-capital-lost-20-billion-in-two-days"/>
-        <updated>2021-05-12T16:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/features/2021-04-08/how-bill-hwang-of-archegos-capital-lost-20-billion-in-two-days
-Comments URL: https://news.ycombinator.com/item?id=27132088
-Points: 189
-# Comments: 153]]></summary>
-        <author>
-            <name>haltingproblem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini – CSS is now extendable with JavaScript]]></title>
+        <title type="html"><![CDATA[CSS Houdini]]></title>
         <id>https://news.ycombinator.com/item?id=27131897</id>
         <link href="https://developer.mozilla.org/en-US/docs/Web/Houdini"/>
         <updated>2021-05-12T16:06:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/Houdini
 Comments URL: https://news.ycombinator.com/item?id=27131897
-Points: 131
-# Comments: 77]]></summary>
+Points: 151
+# Comments: 89]]></summary>
         <author>
             <name>mvolfik</name>
         </author>
@@ -179,8 +166,8 @@ Points: 131
         <updated>2021-05-12T15:53:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57055163
 Comments URL: https://news.ycombinator.com/item?id=27131744
-Points: 40
-# Comments: 16]]></summary>
+Points: 51
+# Comments: 17]]></summary>
         <author>
             <name>harscoat</name>
         </author>
@@ -205,8 +192,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-12T13:57:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://positive.security/blog/send-my
 Comments URL: https://news.ycombinator.com/item?id=27130355
-Points: 337
-# Comments: 72]]></summary>
+Points: 359
+# Comments: 79]]></summary>
         <author>
             <name>kerm1t</name>
         </author>
@@ -218,8 +205,8 @@ Points: 337
         <updated>2021-05-12T13:51:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.semanticscholar.org/product/semantic-reader
 Comments URL: https://news.ycombinator.com/item?id=27130297
-Points: 13
-# Comments: 0]]></summary>
+Points: 17
+# Comments: 1]]></summary>
         <author>
             <name>polm23</name>
         </author>
@@ -231,8 +218,8 @@ Points: 13
         <updated>2021-05-12T13:05:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
 Comments URL: https://news.ycombinator.com/item?id=27129858
-Points: 646
-# Comments: 669]]></summary>
+Points: 696
+# Comments: 696]]></summary>
         <author>
             <name>lewisjoe</name>
         </author>
@@ -254,8 +241,8 @@ Points: 646
         <updated>2021-05-12T12:34:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/
 Comments URL: https://news.ycombinator.com/item?id=27129518
-Points: 120
-# Comments: 42]]></summary>
+Points: 127
+# Comments: 44]]></summary>
         <author>
             <name>wilsonfiifi</name>
         </author>
@@ -263,25 +250,25 @@ Points: 120
     <entry>
         <title type="html"><![CDATA[Haiku OS ported and running on RISC-V]]></title>
         <id>https://news.ycombinator.com/item?id=27129305</id>
-        <link href="https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e"/>
+        <link href="https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86"/>
         <updated>2021-05-12T12:04:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e
+        <summary type="html"><![CDATA[Article URL: https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86
 Comments URL: https://news.ycombinator.com/item?id=27129305
-Points: 220
-# Comments: 54]]></summary>
+Points: 233
+# Comments: 55]]></summary>
         <author>
             <name>highspeedmobile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Erlang/OTP 24 Highlights]]></title>
+        <title type="html"><![CDATA[Erlang/OTP 24 highlights]]></title>
         <id>https://news.ycombinator.com/item?id=27128994</id>
         <link href="http://blog.erlang.org/My-OTP-24-Highlights/"/>
         <updated>2021-05-12T11:18:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.erlang.org/My-OTP-24-Highlights/
 Comments URL: https://news.ycombinator.com/item?id=27128994
-Points: 353
-# Comments: 69]]></summary>
+Points: 372
+# Comments: 73]]></summary>
         <author>
             <name>nifoc</name>
         </author>
@@ -293,10 +280,23 @@ Points: 353
         <updated>2021-05-12T10:55:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/
 Comments URL: https://news.ycombinator.com/item?id=27128831
-Points: 93
-# Comments: 245]]></summary>
+Points: 102
+# Comments: 261]]></summary>
         <author>
             <name>samizdis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Computer Modern on the web (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=27128803</id>
+        <link href="https://www.checkmyworking.com/cm-web-fonts/"/>
+        <updated>2021-05-12T10:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.checkmyworking.com/cm-web-fonts/
+Comments URL: https://news.ycombinator.com/item?id=27128803
+Points: 79
+# Comments: 77]]></summary>
+        <author>
+            <name>phab</name>
         </author>
     </entry>
     <entry>
