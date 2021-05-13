@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T23:14:14.973Z</updated>
+    <updated>2021-05-13T00:44:39.887Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Tesla suspends Bitcoin car sales over environmental impact]]></title>
-        <id>https://news.ycombinator.com/item?id=27136017</id>
-        <link href="https://www.theverge.com/2021/5/12/22433153/tesla-suspend-bitcoin-vehicle-purchase-cryptocurrency-elon-musk"/>
-        <updated>2021-05-12T22:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/12/22433153/tesla-suspend-bitcoin-vehicle-purchase-cryptocurrency-elon-musk
-Comments URL: https://news.ycombinator.com/item?id=27136017
-Points: 28
-# Comments: 8]]></summary>
+        <title type="html"><![CDATA[JWT should not be your default for sessions]]></title>
+        <id>https://news.ycombinator.com/item?id=27136539</id>
+        <link href="https://evertpot.com/jwt-is-a-bad-default/"/>
+        <updated>2021-05-12T23:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://evertpot.com/jwt-is-a-bad-default/
+Comments URL: https://news.ycombinator.com/item?id=27136539
+Points: 19
+# Comments: 3]]></summary>
         <author>
-            <name>wr1472</name>
+            <name>mfbx9da4</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +26,8 @@ Points: 28
         <updated>2021-05-12T22:35:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5
 Comments URL: https://news.ycombinator.com/item?id=27136002
-Points: 13
-# Comments: 3]]></summary>
+Points: 83
+# Comments: 34]]></summary>
         <author>
             <name>kareemm</name>
         </author>
@@ -39,23 +39,10 @@ Points: 13
         <updated>2021-05-12T22:13:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/elonmusk/status/1392602041025843203
 Comments URL: https://news.ycombinator.com/item?id=27135776
-Points: 113
-# Comments: 60]]></summary>
+Points: 242
+# Comments: 217]]></summary>
         <author>
             <name>seigando</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[55,000 lines of Rust code later: A debugger is born]]></title>
-        <id>https://news.ycombinator.com/item?id=27135591</id>
-        <link href="https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md"/>
-        <updated>2021-05-12T21:52:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
-Comments URL: https://news.ycombinator.com/item?id=27135591
-Points: 26
-# Comments: 13]]></summary>
-        <author>
-            <name>ibraheemdev</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +52,8 @@ Points: 26
         <updated>2021-05-12T21:50:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kobra.dev/
 Comments URL: https://news.ycombinator.com/item?id=27135573
-Points: 50
-# Comments: 5]]></summary>
+Points: 85
+# Comments: 10]]></summary>
         <author>
             <name>amrrs</name>
         </author>
@@ -78,8 +65,8 @@ Points: 50
         <updated>2021-05-12T21:34:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/TomHarte/CP-M-for-OS-X
 Comments URL: https://news.ycombinator.com/item?id=27135421
-Points: 41
-# Comments: 11]]></summary>
+Points: 68
+# Comments: 20]]></summary>
         <author>
             <name>bilegeek</name>
         </author>
@@ -104,8 +91,8 @@ Points: 1
         <updated>2021-05-12T20:57:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/
 Comments URL: https://news.ycombinator.com/item?id=27135060
-Points: 56
-# Comments: 89]]></summary>
+Points: 77
+# Comments: 106]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -127,8 +114,8 @@ Points: 56
         <updated>2021-05-12T20:48:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624
 Comments URL: https://news.ycombinator.com/item?id=27134995
-Points: 194
-# Comments: 74]]></summary>
+Points: 231
+# Comments: 102]]></summary>
         <author>
             <name>tareqak</name>
         </author>
@@ -140,23 +127,10 @@ Points: 194
         <updated>2021-05-12T20:46:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/
 Comments URL: https://news.ycombinator.com/item?id=27134972
-Points: 56
-# Comments: 40]]></summary>
+Points: 75
+# Comments: 53]]></summary>
         <author>
             <name>reimbar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One person's war on junk mail]]></title>
-        <id>https://news.ycombinator.com/item?id=27134969</id>
-        <link href="http://www.langston.com/Fun_People/1996/1996AEK.html"/>
-        <updated>2021-05-12T20:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.langston.com/Fun_People/1996/1996AEK.html
-Comments URL: https://news.ycombinator.com/item?id=27134969
-Points: 32
-# Comments: 21]]></summary>
-        <author>
-            <name>_wldu</name>
         </author>
     </entry>
     <entry>
@@ -166,8 +140,8 @@ Points: 32
         <updated>2021-05-12T19:56:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/
 Comments URL: https://news.ycombinator.com/item?id=27134429
-Points: 14
-# Comments: 0]]></summary>
+Points: 32
+# Comments: 3]]></summary>
         <author>
             <name>hamilyon2</name>
         </author>
@@ -179,8 +153,8 @@ Points: 14
         <updated>2021-05-12T19:31:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/kalkayan/dotfiles
 Comments URL: https://news.ycombinator.com/item?id=27134249
-Points: 29
-# Comments: 20]]></summary>
+Points: 43
+# Comments: 27]]></summary>
         <author>
             <name>bminusl</name>
         </author>
@@ -192,8 +166,8 @@ Points: 29
         <updated>2021-05-12T19:14:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/
 Comments URL: https://news.ycombinator.com/item?id=27134049
-Points: 207
-# Comments: 88]]></summary>
+Points: 255
+# Comments: 109]]></summary>
         <author>
             <name>Engineering-MD</name>
         </author>
@@ -205,8 +179,8 @@ Points: 207
         <updated>2021-05-12T18:52:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
 Comments URL: https://news.ycombinator.com/item?id=27133804
-Points: 151
-# Comments: 50]]></summary>
+Points: 173
+# Comments: 65]]></summary>
         <author>
             <name>ridiculous_fish</name>
         </author>
@@ -222,27 +196,14 @@ Points: 151
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Macaroni in ‘Yankee Doodle’]]></title>
-        <id>https://news.ycombinator.com/item?id=27133530</id>
-        <link href="https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think"/>
-        <updated>2021-05-12T18:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think
-Comments URL: https://news.ycombinator.com/item?id=27133530
-Points: 65
-# Comments: 37]]></summary>
-        <author>
-            <name>adolph</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Replit Apps]]></title>
         <id>https://news.ycombinator.com/item?id=27132979</id>
         <link href="https://blog.replit.com/apps"/>
         <updated>2021-05-12T17:37:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.replit.com/apps
 Comments URL: https://news.ycombinator.com/item?id=27132979
-Points: 84
-# Comments: 35]]></summary>
+Points: 92
+# Comments: 36]]></summary>
         <author>
             <name>razin</name>
         </author>
@@ -254,8 +215,8 @@ Points: 84
         <updated>2021-05-12T16:44:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/eduard-permyakov/permafrost-engine
 Comments URL: https://news.ycombinator.com/item?id=27132334
-Points: 691
-# Comments: 122]]></summary>
+Points: 744
+# Comments: 135]]></summary>
         <author>
             <name>epermyakov</name>
         </author>
@@ -267,8 +228,8 @@ Points: 691
         <updated>2021-05-12T16:06:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/Houdini
 Comments URL: https://news.ycombinator.com/item?id=27131897
-Points: 204
-# Comments: 106]]></summary>
+Points: 220
+# Comments: 109]]></summary>
         <author>
             <name>mvolfik</name>
         </author>
@@ -280,8 +241,8 @@ Points: 204
         <updated>2021-05-12T15:53:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57055163
 Comments URL: https://news.ycombinator.com/item?id=27131744
-Points: 67
-# Comments: 24]]></summary>
+Points: 70
+# Comments: 26]]></summary>
         <author>
             <name>harscoat</name>
         </author>
@@ -300,6 +261,32 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Emulating AirTags to upload arbitrary data via Apple's FindMy network]]></title>
+        <id>https://news.ycombinator.com/item?id=27130355</id>
+        <link href="https://positive.security/blog/send-my"/>
+        <updated>2021-05-12T13:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://positive.security/blog/send-my
+Comments URL: https://news.ycombinator.com/item?id=27130355
+Points: 429
+# Comments: 104]]></summary>
+        <author>
+            <name>kerm1t</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Docs will now use canvas based rendering]]></title>
+        <id>https://news.ycombinator.com/item?id=27129858</id>
+        <link href="https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html"/>
+        <updated>2021-05-12T13:05:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
+Comments URL: https://news.ycombinator.com/item?id=27129858
+Points: 891
+# Comments: 817]]></summary>
+        <author>
+            <name>lewisjoe</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
         <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
@@ -307,6 +294,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing a Programming Book in 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27129518</id>
+        <link href="https://jmtirado.net/writing-a-programming-book-in-2021/"/>
+        <updated>2021-05-12T12:34:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/
+Comments URL: https://news.ycombinator.com/item?id=27129518
+Points: 150
+# Comments: 56]]></summary>
+        <author>
+            <name>wilsonfiifi</name>
         </author>
     </entry>
     <entry>
