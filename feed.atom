@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T18:27:54.225Z</updated>
+    <updated>2021-05-13T19:20:47.577Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pentagon Inches Toward Letting AI Control Weapons]]></title>
+        <id>https://news.ycombinator.com/item?id=27145559</id>
+        <link href="https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/"/>
+        <updated>2021-05-13T18:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/pentagon-inches-toward-letting-ai-control-weapons/
+Comments URL: https://news.ycombinator.com/item?id=27145559
+Points: 10
+# Comments: 2]]></summary>
+        <author>
+            <name>jonbaer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataflow, a self-hosted Observable Notebook Editor]]></title>
+        <id>https://news.ycombinator.com/item?id=27145515</id>
+        <link href="https://observablehq.com/@asg017/introducing-dataflow"/>
+        <updated>2021-05-13T18:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://observablehq.com/@asg017/introducing-dataflow
+Comments URL: https://news.ycombinator.com/item?id=27145515
+Points: 27
+# Comments: 13]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Recap of the Mars Terraforming Debate]]></title>
+        <id>https://news.ycombinator.com/item?id=27145504</id>
+        <link href="https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap"/>
+        <updated>2021-05-13T18:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap
+Comments URL: https://news.ycombinator.com/item?id=27145504
+Points: 13
+# Comments: 5]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Tutorial – How to Work with Multiple Checkboxes]]></title>
         <id>609bcc6a62ab9107fe5a9f08</id>
@@ -17,29 +56,42 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bezos Calculator]]></title>
-        <id>https://news.ycombinator.com/item?id=27145356</id>
-        <link href="https://bezoscalculator.com/"/>
-        <updated>2021-05-13T18:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bezoscalculator.com/
-Comments URL: https://news.ycombinator.com/item?id=27145356
-Points: 14
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[Pentagon Surveilling Americans Without a Warrant, Senator Reveals]]></title>
+        <id>https://news.ycombinator.com/item?id=27145263</id>
+        <link href="https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing"/>
+        <updated>2021-05-13T18:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing
+Comments URL: https://news.ycombinator.com/item?id=27145263
+Points: 99
+# Comments: 21]]></summary>
         <author>
-            <name>ImpressiveWebs</name>
+            <name>jbegley</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin]]></title>
-        <id>https://news.ycombinator.com/item?id=27145230</id>
-        <link href="https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html"/>
-        <updated>2021-05-13T18:04:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html
-Comments URL: https://news.ycombinator.com/item?id=27145230
-Points: 31
-# Comments: 19]]></summary>
+        <title type="html"><![CDATA[Ohio Lottery to Give 5 People $1M Each to Encourage Vaccination]]></title>
+        <id>https://news.ycombinator.com/item?id=27145171</id>
+        <link href="https://www.nytimes.com/2021/05/12/us/ohio-lottery-coronavirus-vaccine.html"/>
+        <updated>2021-05-13T18:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/12/us/ohio-lottery-coronavirus-vaccine.html
+Comments URL: https://news.ycombinator.com/item?id=27145171
+Points: 12
+# Comments: 2]]></summary>
         <author>
-            <name>awb</name>
+            <name>laurex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Things to Never Build Yourself: Auth, Notifications, & Payments]]></title>
+        <id>https://news.ycombinator.com/item?id=27144930</id>
+        <link href="https://www.courier.com/blog/the-three-things-to-never-build-in-your-app"/>
+        <updated>2021-05-13T17:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.courier.com/blog/the-three-things-to-never-build-in-your-app
+Comments URL: https://news.ycombinator.com/item?id=27144930
+Points: 55
+# Comments: 66]]></summary>
+        <author>
+            <name>troygoode</name>
         </author>
     </entry>
     <entry>
@@ -49,21 +101,21 @@ Points: 31
         <updated>2021-05-13T17:26:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stefanzukin.com/enigma/
 Comments URL: https://news.ycombinator.com/item?id=27144764
-Points: 41
-# Comments: 18]]></summary>
+Points: 63
+# Comments: 36]]></summary>
         <author>
             <name>MrUssek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notion launches its API in public beta]]></title>
+        <title type="html"><![CDATA[Notion API – public beta]]></title>
         <id>https://news.ycombinator.com/item?id=27144566</id>
         <link href="https://developers.notion.so"/>
         <updated>2021-05-13T17:08:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developers.notion.so
 Comments URL: https://news.ycombinator.com/item?id=27144566
-Points: 97
-# Comments: 38]]></summary>
+Points: 168
+# Comments: 81]]></summary>
         <author>
             <name>cristinacordova</name>
         </author>
@@ -96,8 +148,8 @@ Points: 1
         <id>https://news.ycombinator.com/item?id=27142930</id>
         <link href="https://news.ycombinator.com/item?id=27142930"/>
         <updated>2021-05-13T15:07:30.000Z</updated>
-        <summary type="html"><![CDATA[Jess and Jo here, and we're excited to share Ditto with you all (https://dittowords.com). Ditto is a way to manage product copy—or the text found on user interfaces—all the way from design to development. Think of a headless CMS but with the text from your design files.
-We think product copy is one of the highest ROI aspects of product development today, but also one of the most overlooked. Even more so than the visuals, the text users read is critical to shaping their understanding of how things work. Copy…]]></summary>
+        <summary type="html"><![CDATA[Jess and Jo here, and we're excited to share Ditto with you all (https://dittowords.com). Ditto is a way to manage product copy—the text found on user interfaces—all the way from design to development. Think of a headless CMS but with the text from your design files.
+We think product copy is one of the highest ROI aspects of product development today, but also one of the most overlooked. Even more so than the visuals, the text users read is critical to shaping their understanding of how things work. Copy of…]]></summary>
         <author>
             <name>jessouyang</name>
         </author>
@@ -109,8 +161,8 @@ We think product copy is one of the highest ROI aspects of product development t
         <updated>2021-05-13T15:06:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/05/13/frameworks-repairable-laptop-is-up-for-pre-order-starting-at-999/
 Comments URL: https://news.ycombinator.com/item?id=27142913
-Points: 129
-# Comments: 84]]></summary>
+Points: 153
+# Comments: 94]]></summary>
         <author>
             <name>testfoobar</name>
         </author>
@@ -151,27 +203,14 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Target stops selling Pokémon cards in store, citing safety concerns]]></title>
-        <id>https://news.ycombinator.com/item?id=27142164</id>
-        <link href="https://www.polygon.com/22433872/pokemon-cards-target-restock-shining-fates-in-store-availability"/>
-        <updated>2021-05-13T13:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.polygon.com/22433872/pokemon-cards-target-restock-shining-fates-in-store-availability
-Comments URL: https://news.ycombinator.com/item?id=27142164
-Points: 74
-# Comments: 83]]></summary>
-        <author>
-            <name>adrian_mrd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show HN: I made a platform to publish my Google Docs files as blogs]]></title>
         <id>https://news.ycombinator.com/item?id=27142146</id>
         <link href="https://hexo.press"/>
         <updated>2021-05-13T13:58:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hexo.press
 Comments URL: https://news.ycombinator.com/item?id=27142146
-Points: 81
-# Comments: 34]]></summary>
+Points: 94
+# Comments: 36]]></summary>
         <author>
             <name>lewisjoe</name>
         </author>
@@ -183,23 +222,23 @@ Points: 81
         <updated>2021-05-13T13:08:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://learnpythontherightway.com
 Comments URL: https://news.ycombinator.com/item?id=27141644
-Points: 103
+Points: 121
 # Comments: 32]]></summary>
         <author>
             <name>sixhobbits</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spearmint – JavaScript Test-Code Generator – New In-App Testing]]></title>
-        <id>https://news.ycombinator.com/item?id=27141624</id>
-        <link href="https://www.spearmintjs.com/"/>
-        <updated>2021-05-13T13:06:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.spearmintjs.com/
-Comments URL: https://news.ycombinator.com/item?id=27141624
-Points: 31
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[Lets Lisp like it's 1959 (2019) [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=27141524</id>
+        <link href="https://www.youtube.com/watch?v=hGY3uBHVVr4"/>
+        <updated>2021-05-13T12:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=hGY3uBHVVr4
+Comments URL: https://news.ycombinator.com/item?id=27141524
+Points: 13
+# Comments: 0]]></summary>
         <author>
-            <name>maxweisen</name>
+            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -209,8 +248,8 @@ Points: 31
         <updated>2021-05-13T12:40:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nikonrumors.com/2021/05/12/nikon-is-slowly-discontinuing-more-nikkor-f-mount-lenses.aspx/
 Comments URL: https://news.ycombinator.com/item?id=27141415
-Points: 69
-# Comments: 43]]></summary>
+Points: 73
+# Comments: 49]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -222,8 +261,8 @@ Points: 69
         <updated>2021-05-13T11:42:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig
 Comments URL: https://news.ycombinator.com/item?id=27140986
-Points: 101
-# Comments: 57]]></summary>
+Points: 111
+# Comments: 72]]></summary>
         <author>
             <name>DyslexicAtheist</name>
         </author>
@@ -235,23 +274,10 @@ Points: 101
         <updated>2021-05-13T11:18:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md
 Comments URL: https://news.ycombinator.com/item?id=27140836
-Points: 243
-# Comments: 193]]></summary>
+Points: 274
+# Comments: 214]]></summary>
         <author>
             <name>simon04</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We wrote a book about building business applications in Go]]></title>
-        <id>https://news.ycombinator.com/item?id=27140724</id>
-        <link href="https://threedots.tech/go-with-the-domain/"/>
-        <updated>2021-05-13T10:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://threedots.tech/go-with-the-domain/
-Comments URL: https://news.ycombinator.com/item?id=27140724
-Points: 242
-# Comments: 113]]></summary>
-        <author>
-            <name>roblaszczak</name>
         </author>
     </entry>
     <entry>
@@ -261,8 +287,8 @@ Points: 242
         <updated>2021-05-13T10:43:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wondersofphysics.com/2020/04/best-physics-movies.html
 Comments URL: https://news.ycombinator.com/item?id=27140647
-Points: 208
-# Comments: 224]]></summary>
+Points: 224
+# Comments: 246]]></summary>
         <author>
             <name>vedangsati</name>
         </author>
@@ -274,36 +300,10 @@ Points: 208
         <updated>2021-05-13T10:23:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849
 Comments URL: https://news.ycombinator.com/item?id=27140522
-Points: 118
-# Comments: 64]]></summary>
+Points: 122
+# Comments: 69]]></summary>
         <author>
             <name>sadiq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural Rendering: How Low Can You Go in Terms of Input?]]></title>
-        <id>https://news.ycombinator.com/item?id=27140515</id>
-        <link href="https://www.unite.ai/neural-rendering-low-resolution-input-intel/"/>
-        <updated>2021-05-13T10:21:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.unite.ai/neural-rendering-low-resolution-input-intel/
-Comments URL: https://news.ycombinator.com/item?id=27140515
-Points: 19
-# Comments: 0]]></summary>
-        <author>
-            <name>Hard_Space</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Catch Jumping Genes Rewiring Genomes]]></title>
-        <id>https://news.ycombinator.com/item?id=27140443</id>
-        <link href="https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/"/>
-        <updated>2021-05-13T10:07:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/
-Comments URL: https://news.ycombinator.com/item?id=27140443
-Points: 67
-# Comments: 6]]></summary>
-        <author>
-            <name>nsoonhui</name>
         </author>
     </entry>
     <entry>
