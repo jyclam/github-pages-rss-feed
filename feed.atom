@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T21:13:02.293Z</updated>
+    <updated>2021-05-13T22:16:42.160Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send]]></title>
+        <id>609414f32cd0545b5e943526</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/"/>
+        <updated>2021-05-13T21:19:40.000Z</updated>
+        <summary type="html"><![CDATA[If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fly’s Prometheus Metrics]]></title>
+        <id>https://news.ycombinator.com/item?id=27147482</id>
+        <link href="https://fly.io/blog/measuring-fly/"/>
+        <updated>2021-05-13T21:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/measuring-fly/
+Comments URL: https://news.ycombinator.com/item?id=27147482
+Points: 42
+# Comments: 6]]></summary>
+        <author>
+            <name>elithrar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substack is hiring engineers to build a better business model for writing]]></title>
         <id>https://news.ycombinator.com/item?id=27147408</id>
@@ -17,6 +40,19 @@ Points: 1
 # Comments: 0]]></summary>
         <author>
             <name>jairajs89</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new era of personalised medicine: or how I got myself sequenced for free]]></title>
+        <id>https://news.ycombinator.com/item?id=27146975</id>
+        <link href="https://souradip.mookerj.ee/blog/free-sequencing"/>
+        <updated>2021-05-13T20:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://souradip.mookerj.ee/blog/free-sequencing
+Comments URL: https://news.ycombinator.com/item?id=27146975
+Points: 34
+# Comments: 1]]></summary>
+        <author>
+            <name>souradip</name>
         </author>
     </entry>
     <entry>
@@ -36,8 +72,8 @@ Points: 1
         <updated>2021-05-13T18:59:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fingerprintjs.com/blog/external-protocol-flooding/
 Comments URL: https://news.ycombinator.com/item?id=27145911
-Points: 66
-# Comments: 35]]></summary>
+Points: 135
+# Comments: 74]]></summary>
         <author>
             <name>danpinto</name>
         </author>
@@ -49,8 +85,8 @@ Points: 66
         <updated>2021-05-13T18:28:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://observablehq.com/@asg017/introducing-dataflow
 Comments URL: https://news.ycombinator.com/item?id=27145515
-Points: 89
-# Comments: 26]]></summary>
+Points: 108
+# Comments: 33]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -62,8 +98,8 @@ Points: 89
         <updated>2021-05-13T18:27:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap
 Comments URL: https://news.ycombinator.com/item?id=27145504
-Points: 34
-# Comments: 106]]></summary>
+Points: 44
+# Comments: 153]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -79,27 +115,14 @@ Points: 34
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Superdeterminism could reconcile quantum and relativity]]></title>
-        <id>https://news.ycombinator.com/item?id=27145384</id>
-        <link href="https://www.frontiersin.org/articles/10.3389/fphy.2020.00139/full"/>
-        <updated>2021-05-13T18:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.frontiersin.org/articles/10.3389/fphy.2020.00139/full
-Comments URL: https://news.ycombinator.com/item?id=27145384
-Points: 5
-# Comments: 1]]></summary>
-        <author>
-            <name>billytetrud</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pentagon surveilling Americans without a warrant, Senator Wyden reveals]]></title>
         <id>https://news.ycombinator.com/item?id=27145263</id>
         <link href="https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing"/>
         <updated>2021-05-13T18:06:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing
 Comments URL: https://news.ycombinator.com/item?id=27145263
-Points: 286
-# Comments: 93]]></summary>
+Points: 353
+# Comments: 127]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -111,8 +134,8 @@ Points: 286
         <updated>2021-05-13T18:04:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html
 Comments URL: https://news.ycombinator.com/item?id=27145230
-Points: 152
-# Comments: 193]]></summary>
+Points: 209
+# Comments: 261]]></summary>
         <author>
             <name>awb</name>
         </author>
@@ -124,8 +147,8 @@ Points: 152
         <updated>2021-05-13T17:39:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.courier.com/blog/the-three-things-to-never-build-in-your-app
 Comments URL: https://news.ycombinator.com/item?id=27144930
-Points: 90
-# Comments: 108]]></summary>
+Points: 113
+# Comments: 119]]></summary>
         <author>
             <name>troygoode</name>
         </author>
@@ -137,8 +160,8 @@ Points: 90
         <updated>2021-05-13T17:26:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stefanzukin.com/enigma/
 Comments URL: https://news.ycombinator.com/item?id=27144764
-Points: 94
-# Comments: 55]]></summary>
+Points: 108
+# Comments: 61]]></summary>
         <author>
             <name>MrUssek</name>
         </author>
@@ -150,8 +173,8 @@ Points: 94
         <updated>2021-05-13T17:08:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developers.notion.so
 Comments URL: https://news.ycombinator.com/item?id=27144566
-Points: 288
-# Comments: 132]]></summary>
+Points: 333
+# Comments: 149]]></summary>
         <author>
             <name>cristinacordova</name>
         </author>
@@ -173,8 +196,8 @@ Points: 288
         <updated>2021-05-13T16:17:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://avc.com/2021/05/golden-handcuffs-2/
 Comments URL: https://news.ycombinator.com/item?id=27143898
-Points: 46
-# Comments: 81]]></summary>
+Points: 62
+# Comments: 112]]></summary>
         <author>
             <name>bitsweet</name>
         </author>
@@ -191,25 +214,14 @@ We think product copy is one of the highest ROI aspects of product development t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Hupreter – Create apps by describing them in English]]></title>
-        <id>https://news.ycombinator.com/item?id=27142897</id>
-        <link href="https://news.ycombinator.com/item?id=27142897"/>
-        <updated>2021-05-13T15:05:04.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN! Fernando here. A few months ago [1], I shared Hupreter (https://hupreter.com) with you all and now I am finally opening it up so that everyone can try it for free. The goal is to let users create apps and process data effortlessly, by just describing what the computer should do, in spoken English. We have made a lot of progress since the first post, and even though it is far from perfect, I really want to see how people use it and get feedback.
-In terms of creating apps, it supports persisting data (…]]></summary>
-        <author>
-            <name>fersarr</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["Memory athletes" and the techniques they use [audio]]]></title>
         <id>https://news.ycombinator.com/item?id=27142663</id>
         <link href="https://www.bbc.co.uk/programmes/m000tmm1"/>
         <updated>2021-05-13T14:47:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/programmes/m000tmm1
 Comments URL: https://news.ycombinator.com/item?id=27142663
-Points: 30
-# Comments: 10]]></summary>
+Points: 39
+# Comments: 16]]></summary>
         <author>
             <name>open-source-ux</name>
         </author>
@@ -221,8 +233,8 @@ Points: 30
         <updated>2021-05-13T14:26:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom
 Comments URL: https://news.ycombinator.com/item?id=27142407
-Points: 161
-# Comments: 148]]></summary>
+Points: 205
+# Comments: 195]]></summary>
         <author>
             <name>longdefeat</name>
         </author>
@@ -258,8 +270,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-13T13:58:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hexo.press
 Comments URL: https://news.ycombinator.com/item?id=27142146
-Points: 113
-# Comments: 40]]></summary>
+Points: 118
+# Comments: 41]]></summary>
         <author>
             <name>lewisjoe</name>
         </author>
@@ -271,10 +283,23 @@ Points: 113
         <updated>2021-05-13T13:08:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://learnpythontherightway.com
 Comments URL: https://news.ycombinator.com/item?id=27141644
-Points: 140
-# Comments: 41]]></summary>
+Points: 156
+# Comments: 44]]></summary>
         <author>
             <name>sixhobbits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[By eating them, hyenas gathered 9 Neanderthal skeletons in one cave]]></title>
+        <id>https://news.ycombinator.com/item?id=27141556</id>
+        <link href="https://arstechnica.com/science/2021/05/archaeologists-found-9-neanderthal-skeletons-in-an-italian-cave/"/>
+        <updated>2021-05-13T12:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/archaeologists-found-9-neanderthal-skeletons-in-an-italian-cave/
+Comments URL: https://news.ycombinator.com/item?id=27141556
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>gmays</name>
         </author>
     </entry>
     <entry>
@@ -284,7 +309,7 @@ Points: 140
         <updated>2021-05-13T12:53:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=hGY3uBHVVr4
 Comments URL: https://news.ycombinator.com/item?id=27141524
-Points: 29
+Points: 40
 # Comments: 1]]></summary>
         <author>
             <name>tosh</name>
@@ -297,31 +322,18 @@ Points: 29
         <updated>2021-05-13T11:18:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md
 Comments URL: https://news.ycombinator.com/item?id=27140836
-Points: 306
-# Comments: 237]]></summary>
+Points: 325
+# Comments: 247]]></summary>
         <author>
             <name>simon04</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Movies every physics lover should watch]]></title>
-        <id>https://news.ycombinator.com/item?id=27140647</id>
-        <link href="https://www.wondersofphysics.com/2020/04/best-physics-movies.html"/>
-        <updated>2021-05-13T10:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wondersofphysics.com/2020/04/best-physics-movies.html
-Comments URL: https://news.ycombinator.com/item?id=27140647
-Points: 268
-# Comments: 289]]></summary>
-        <author>
-            <name>vedangsati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.JS, Axios, the GitHub REST API, and Netlify]]></title>
+        <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify]]></title>
         <id>5fde208ae6787e09839407c3</id>
         <link href="https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/"/>
         <updated>2021-05-12T20:53:20.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a single]]></summary>
+        <summary type="html"><![CDATA[In this free book, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a]]></summary>
         <author>
             <name/>
         </author>
@@ -429,16 +441,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/"/>
         <updated>2021-05-11T17:29:13.000Z</updated>
         <summary type="html"><![CDATA[The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Hash Table – Associative Array Hashing in JS]]></title>
-        <id>60856789dd38b9088c2bf4ff</id>
-        <link href="https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/"/>
-        <updated>2021-05-11T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash]]></summary>
         <author>
             <name/>
         </author>
