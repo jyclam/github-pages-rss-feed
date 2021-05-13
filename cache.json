@@ -6,18 +6,27 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27141568",
-          "author": "makerofspoons",
-          "description": "Article URL: https://www.washingtonpost.com/climate-environment/2021/05/12/us-has-entered-unprecedented-climate-territory-epa-warns/\nComments URL: https://news.ycombinator.com/item?id=27141568\nPoints: 22\n# Comments: 2",
-          "link": "https://www.washingtonpost.com/climate-environment/2021/05/12/us-has-entered-unprecedented-climate-territory-epa-warns/",
-          "publishedOn": "2021-05-13T13:00:17.000Z",
-          "wordCount": 1374,
-          "title": "U.S. has entered unprecedented climate territory"
+          "id": "https://news.ycombinator.com/item?id=27141644",
+          "author": "sixhobbits",
+          "description": "Article URL: https://learnpythontherightway.com\nComments URL: https://news.ycombinator.com/item?id=27141644\nPoints: 3\n# Comments: 1",
+          "link": "https://learnpythontherightway.com",
+          "publishedOn": "2021-05-13T13:08:50.000Z",
+          "wordCount": 399,
+          "title": "Show HN: Learn Python the Right Way – Free Introduction to Python Book"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27141624",
+          "author": "maxweisen",
+          "description": "Article URL: https://www.spearmintjs.com/\nComments URL: https://news.ycombinator.com/item?id=27141624\nPoints: 4\n# Comments: 1",
+          "link": "https://www.spearmintjs.com/",
+          "publishedOn": "2021-05-13T13:06:37.000Z",
+          "wordCount": 347,
+          "title": "Spearmint – JavaScript Test-Code Generator – New In-App Testing"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27141415",
           "author": "giuliomagnifico",
-          "description": "Article URL: https://nikonrumors.com/2021/05/12/nikon-is-slowly-discontinuing-more-nikkor-f-mount-lenses.aspx/\nComments URL: https://news.ycombinator.com/item?id=27141415\nPoints: 13\n# Comments: 3",
+          "description": "Article URL: https://nikonrumors.com/2021/05/12/nikon-is-slowly-discontinuing-more-nikkor-f-mount-lenses.aspx/\nComments URL: https://news.ycombinator.com/item?id=27141415\nPoints: 23\n# Comments: 8",
           "link": "https://nikonrumors.com/2021/05/12/nikon-is-slowly-discontinuing-more-nikkor-f-mount-lenses.aspx/",
           "publishedOn": "2021-05-13T12:40:28.000Z",
           "wordCount": 1490,
@@ -33,9 +42,18 @@
           "title": "New Story (YC S15) Is Hiring Head of People and Culture"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27140986",
+          "author": "DyslexicAtheist",
+          "description": "Article URL: https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig\nComments URL: https://news.ycombinator.com/item?id=27140986\nPoints: 21\n# Comments: 2",
+          "link": "https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig",
+          "publishedOn": "2021-05-13T11:42:07.000Z",
+          "wordCount": 1798,
+          "title": "Building an efficient and portable programming language with Zig"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27140836",
           "author": "simon04",
-          "description": "Article URL: https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md\nComments URL: https://news.ycombinator.com/item?id=27140836\nPoints: 3\n# Comments: 0",
+          "description": "Article URL: https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md\nComments URL: https://news.ycombinator.com/item?id=27140836\nPoints: 65\n# Comments: 28",
           "link": "https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md",
           "publishedOn": "2021-05-13T11:18:42.000Z",
           "wordCount": 1216,
@@ -44,7 +62,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140724",
           "author": "roblaszczak",
-          "description": "Article URL: https://threedots.tech/go-with-the-domain/\nComments URL: https://news.ycombinator.com/item?id=27140724\nPoints: 76\n# Comments: 21",
+          "description": "Article URL: https://threedots.tech/go-with-the-domain/\nComments URL: https://news.ycombinator.com/item?id=27140724\nPoints: 119\n# Comments: 48",
           "link": "https://threedots.tech/go-with-the-domain/",
           "publishedOn": "2021-05-13T10:58:58.000Z",
           "wordCount": 655,
@@ -53,7 +71,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140647",
           "author": "vedangsati",
-          "description": "Article URL: https://www.wondersofphysics.com/2020/04/best-physics-movies.html\nComments URL: https://news.ycombinator.com/item?id=27140647\nPoints: 68\n# Comments: 52",
+          "description": "Article URL: https://www.wondersofphysics.com/2020/04/best-physics-movies.html\nComments URL: https://news.ycombinator.com/item?id=27140647\nPoints: 102\n# Comments: 98",
           "link": "https://www.wondersofphysics.com/2020/04/best-physics-movies.html",
           "publishedOn": "2021-05-13T10:43:11.000Z",
           "wordCount": 2322,
@@ -62,16 +80,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140522",
           "author": "sadiq",
-          "description": "Article URL: https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849\nComments URL: https://news.ycombinator.com/item?id=27140522\nPoints: 56\n# Comments: 15",
+          "description": "Article URL: https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849\nComments URL: https://news.ycombinator.com/item?id=27140522\nPoints: 66\n# Comments: 25",
           "link": "https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849",
           "publishedOn": "2021-05-13T10:23:15.000Z",
           "wordCount": 2157,
           "title": "Multicore OCaml: April 2021"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27140505",
+          "author": "_ttg",
+          "description": "Article URL: https://radhika.dev/mid/\nComments URL: https://news.ycombinator.com/item?id=27140505\nPoints: 45\n# Comments: 30",
+          "link": "https://radhika.dev/mid/",
+          "publishedOn": "2021-05-13T10:19:13.000Z",
+          "wordCount": 1942,
+          "title": "Six Things I Wish Someone Told Me About Getting a Promotion"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27140443",
           "author": "nsoonhui",
-          "description": "Article URL: https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/\nComments URL: https://news.ycombinator.com/item?id=27140443\nPoints: 36\n# Comments: 1",
+          "description": "Article URL: https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/\nComments URL: https://news.ycombinator.com/item?id=27140443\nPoints: 44\n# Comments: 2",
           "link": "https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/",
           "publishedOn": "2021-05-13T10:07:20.000Z",
           "wordCount": 1508,
@@ -80,25 +107,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140440",
           "author": "deadcoder0904",
-          "description": "Article URL: https://blog.roastmylandingpage.com/landing-page-roasts/\nComments URL: https://news.ycombinator.com/item?id=27140440\nPoints: 104\n# Comments: 52",
+          "description": "Article URL: https://blog.roastmylandingpage.com/landing-page-roasts/\nComments URL: https://news.ycombinator.com/item?id=27140440\nPoints: 151\n# Comments: 78",
           "link": "https://blog.roastmylandingpage.com/landing-page-roasts/",
           "publishedOn": "2021-05-13T10:07:07.000Z",
           "wordCount": 2723,
-          "title": "What I learnt roasting 200 landing pages in 12 months"
+          "title": "What I learnt roasting 200 landing pages"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27140431",
           "author": "patrick91",
-          "description": "Article URL: https://github.com/faster-cpython/ideas\nComments URL: https://news.ycombinator.com/item?id=27140431\nPoints: 92\n# Comments: 19",
+          "description": "Article URL: https://github.com/faster-cpython/ideas\nComments URL: https://news.ycombinator.com/item?id=27140431\nPoints: 110\n# Comments: 29",
           "link": "https://github.com/faster-cpython/ideas",
           "publishedOn": "2021-05-13T10:05:48.000Z",
-          "wordCount": 445,
+          "wordCount": 452,
           "title": "Faster CPython Ideas – Issue Tracker for Faster CPython Project"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27140292",
           "author": "Clewza313",
-          "description": "Article URL: https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/\nComments URL: https://news.ycombinator.com/item?id=27140292\nPoints: 104\n# Comments: 82",
+          "description": "Article URL: https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/\nComments URL: https://news.ycombinator.com/item?id=27140292\nPoints: 132\n# Comments: 109",
           "link": "https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/",
           "publishedOn": "2021-05-13T09:39:21.000Z",
           "wordCount": 1213,
@@ -107,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140251",
           "author": "teleforce",
-          "description": "Article URL: https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security\nComments URL: https://news.ycombinator.com/item?id=27140251\nPoints: 52\n# Comments: 9",
+          "description": "Article URL: https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security\nComments URL: https://news.ycombinator.com/item?id=27140251\nPoints: 71\n# Comments: 13",
           "link": "https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security",
           "publishedOn": "2021-05-13T09:33:51.000Z",
           "wordCount": 838,
@@ -116,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140114",
           "author": "samizdis",
-          "description": "Article URL: https://phys.org/news/2021-05-previously-unknown-letter-reveals-einstein.html\nComments URL: https://news.ycombinator.com/item?id=27140114\nPoints: 19\n# Comments: 2",
+          "description": "Article URL: https://phys.org/news/2021-05-previously-unknown-letter-reveals-einstein.html\nComments URL: https://news.ycombinator.com/item?id=27140114\nPoints: 26\n# Comments: 2",
           "link": "https://phys.org/news/2021-05-previously-unknown-letter-reveals-einstein.html",
           "publishedOn": "2021-05-13T09:12:39.000Z",
           "wordCount": 1447,
@@ -125,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27139382",
           "author": "Lammy",
-          "description": "Article URL: https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/\nComments URL: https://news.ycombinator.com/item?id=27139382\nPoints: 86\n# Comments: 17",
+          "description": "Article URL: https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/\nComments URL: https://news.ycombinator.com/item?id=27139382\nPoints: 99\n# Comments: 20",
           "link": "https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/",
           "publishedOn": "2021-05-13T07:30:46.000Z",
           "wordCount": 559,
@@ -134,56 +161,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27139371",
           "author": "asymmetric",
-          "description": "Article URL: https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study\nComments URL: https://news.ycombinator.com/item?id=27139371\nPoints: 140\n# Comments: 44",
+          "description": "Article URL: https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study\nComments URL: https://news.ycombinator.com/item?id=27139371\nPoints: 157\n# Comments: 55",
           "link": "https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study",
           "publishedOn": "2021-05-13T07:28:34.000Z",
           "wordCount": 849,
           "title": "Study finds alarming levels of ‘forever chemicals’ in US mothers’ breast milk"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27139363",
+          "author": "luke14free",
+          "description": "Article URL: https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107\nComments URL: https://news.ycombinator.com/item?id=27139363\nPoints: 300\n# Comments: 113",
+          "link": "https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107",
+          "publishedOn": "2021-05-13T07:27:24.000Z",
+          "wordCount": 1338,
+          "title": "Google fined €100M by Italian antitrust over Google Play abuse of dominance"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27139356",
           "author": "benwen",
-          "description": "Article URL: https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff\nComments URL: https://news.ycombinator.com/item?id=27139356\nPoints: 54\n# Comments: 30",
+          "description": "Article URL: https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff\nComments URL: https://news.ycombinator.com/item?id=27139356\nPoints: 66\n# Comments: 36",
           "link": "https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff",
           "publishedOn": "2021-05-13T07:25:48.000Z",
           "wordCount": 534,
           "title": "The Lisperati1000 Is a Cyberdeck Terminal Dedicated to Lisp Programming"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27139170",
-          "author": "jlturner",
-          "description": "Article URL: https://developer.apple.com/design/resources/\nComments URL: https://news.ycombinator.com/item?id=27139170\nPoints: 148\n# Comments: 19",
-          "link": "https://developer.apple.com/design/resources/",
-          "publishedOn": "2021-05-13T06:47:50.000Z",
-          "wordCount": 1195,
-          "title": "Apple Design Resources"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27138978",
-          "author": "raytracer",
-          "description": "Article URL: https://gist.github.com/willurd/5720255\nComments URL: https://news.ycombinator.com/item?id=27138978\nPoints: 155\n# Comments: 59",
-          "link": "https://gist.github.com/willurd/5720255",
-          "publishedOn": "2021-05-13T06:11:03.000Z",
-          "wordCount": 9769,
-          "title": "Big list of HTTP static server one-liners"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27138643",
-          "author": "lunchbreak",
-          "description": "Article URL: https://avherald.com/h?article=4e74b6e5\nComments URL: https://news.ycombinator.com/item?id=27138643\nPoints: 201\n# Comments: 93",
-          "link": "https://avherald.com/h?article=4e74b6e5",
-          "publishedOn": "2021-05-13T05:10:49.000Z",
-          "wordCount": 2764,
-          "title": "Midair Collision over Denver"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27138481",
-          "author": "hhs",
-          "description": "Article URL: https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/\nComments URL: https://news.ycombinator.com/item?id=27138481\nPoints: 39\n# Comments: 3",
-          "link": "https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/",
-          "publishedOn": "2021-05-13T04:40:11.000Z",
-          "wordCount": 904,
-          "title": "Giant sea lizard fossil shows diversity of life before asteroid hit"
         }
       ]
     },
@@ -335,7 +335,7 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2583,
+          "wordCount": 2700,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
@@ -344,7 +344,7 @@
           "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
           "publishedOn": "2021-05-11T22:00:29.000Z",
-          "wordCount": 441,
+          "wordCount": 498,
           "title": "CSS Pie Timer Re-Revisited"
         },
         {
@@ -362,7 +362,7 @@
           "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1419,
+          "wordCount": 1441,
           "title": "Next Gen CSS: @container"
         },
         {

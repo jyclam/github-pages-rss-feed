@@ -2,21 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T13:25:38.599Z</updated>
+    <updated>2021-05-13T14:13:45.990Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[U.S. has entered unprecedented climate territory]]></title>
-        <id>https://news.ycombinator.com/item?id=27141568</id>
-        <link href="https://www.washingtonpost.com/climate-environment/2021/05/12/us-has-entered-unprecedented-climate-territory-epa-warns/"/>
-        <updated>2021-05-13T13:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/climate-environment/2021/05/12/us-has-entered-unprecedented-climate-territory-epa-warns/
-Comments URL: https://news.ycombinator.com/item?id=27141568
-Points: 22
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Show HN: Learn Python the Right Way – Free Introduction to Python Book]]></title>
+        <id>https://news.ycombinator.com/item?id=27141644</id>
+        <link href="https://learnpythontherightway.com"/>
+        <updated>2021-05-13T13:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://learnpythontherightway.com
+Comments URL: https://news.ycombinator.com/item?id=27141644
+Points: 3
+# Comments: 1]]></summary>
         <author>
-            <name>makerofspoons</name>
+            <name>sixhobbits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spearmint – JavaScript Test-Code Generator – New In-App Testing]]></title>
+        <id>https://news.ycombinator.com/item?id=27141624</id>
+        <link href="https://www.spearmintjs.com/"/>
+        <updated>2021-05-13T13:06:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.spearmintjs.com/
+Comments URL: https://news.ycombinator.com/item?id=27141624
+Points: 4
+# Comments: 1]]></summary>
+        <author>
+            <name>maxweisen</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +39,8 @@ Points: 22
         <updated>2021-05-13T12:40:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nikonrumors.com/2021/05/12/nikon-is-slowly-discontinuing-more-nikkor-f-mount-lenses.aspx/
 Comments URL: https://news.ycombinator.com/item?id=27141415
-Points: 13
-# Comments: 3]]></summary>
+Points: 23
+# Comments: 8]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -46,14 +59,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building an efficient and portable programming language with Zig]]></title>
+        <id>https://news.ycombinator.com/item?id=27140986</id>
+        <link href="https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig"/>
+        <updated>2021-05-13T11:42:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig
+Comments URL: https://news.ycombinator.com/item?id=27140986
+Points: 21
+# Comments: 2]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vue 3 drops IE11 support plan]]></title>
         <id>https://news.ycombinator.com/item?id=27140836</id>
         <link href="https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md"/>
         <updated>2021-05-13T11:18:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md
 Comments URL: https://news.ycombinator.com/item?id=27140836
-Points: 3
-# Comments: 0]]></summary>
+Points: 65
+# Comments: 28]]></summary>
         <author>
             <name>simon04</name>
         </author>
@@ -65,8 +91,8 @@ Points: 3
         <updated>2021-05-13T10:58:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://threedots.tech/go-with-the-domain/
 Comments URL: https://news.ycombinator.com/item?id=27140724
-Points: 76
-# Comments: 21]]></summary>
+Points: 119
+# Comments: 48]]></summary>
         <author>
             <name>roblaszczak</name>
         </author>
@@ -78,8 +104,8 @@ Points: 76
         <updated>2021-05-13T10:43:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wondersofphysics.com/2020/04/best-physics-movies.html
 Comments URL: https://news.ycombinator.com/item?id=27140647
-Points: 68
-# Comments: 52]]></summary>
+Points: 102
+# Comments: 98]]></summary>
         <author>
             <name>vedangsati</name>
         </author>
@@ -91,10 +117,23 @@ Points: 68
         <updated>2021-05-13T10:23:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849
 Comments URL: https://news.ycombinator.com/item?id=27140522
-Points: 56
-# Comments: 15]]></summary>
+Points: 66
+# Comments: 25]]></summary>
         <author>
             <name>sadiq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Things I Wish Someone Told Me About Getting a Promotion]]></title>
+        <id>https://news.ycombinator.com/item?id=27140505</id>
+        <link href="https://radhika.dev/mid/"/>
+        <updated>2021-05-13T10:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://radhika.dev/mid/
+Comments URL: https://news.ycombinator.com/item?id=27140505
+Points: 45
+# Comments: 30]]></summary>
+        <author>
+            <name>_ttg</name>
         </author>
     </entry>
     <entry>
@@ -104,21 +143,21 @@ Points: 56
         <updated>2021-05-13T10:07:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/
 Comments URL: https://news.ycombinator.com/item?id=27140443
-Points: 36
-# Comments: 1]]></summary>
+Points: 44
+# Comments: 2]]></summary>
         <author>
             <name>nsoonhui</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What I learnt roasting 200 landing pages in 12 months]]></title>
+        <title type="html"><![CDATA[What I learnt roasting 200 landing pages]]></title>
         <id>https://news.ycombinator.com/item?id=27140440</id>
         <link href="https://blog.roastmylandingpage.com/landing-page-roasts/"/>
         <updated>2021-05-13T10:07:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.roastmylandingpage.com/landing-page-roasts/
 Comments URL: https://news.ycombinator.com/item?id=27140440
-Points: 104
-# Comments: 52]]></summary>
+Points: 151
+# Comments: 78]]></summary>
         <author>
             <name>deadcoder0904</name>
         </author>
@@ -130,8 +169,8 @@ Points: 104
         <updated>2021-05-13T10:05:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/faster-cpython/ideas
 Comments URL: https://news.ycombinator.com/item?id=27140431
-Points: 92
-# Comments: 19]]></summary>
+Points: 110
+# Comments: 29]]></summary>
         <author>
             <name>patrick91</name>
         </author>
@@ -143,8 +182,8 @@ Points: 92
         <updated>2021-05-13T09:39:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/
 Comments URL: https://news.ycombinator.com/item?id=27140292
-Points: 104
-# Comments: 82]]></summary>
+Points: 132
+# Comments: 109]]></summary>
         <author>
             <name>Clewza313</name>
         </author>
@@ -156,8 +195,8 @@ Points: 104
         <updated>2021-05-13T09:33:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security
 Comments URL: https://news.ycombinator.com/item?id=27140251
-Points: 52
-# Comments: 9]]></summary>
+Points: 71
+# Comments: 13]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -169,7 +208,7 @@ Points: 52
         <updated>2021-05-13T09:12:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-previously-unknown-letter-reveals-einstein.html
 Comments URL: https://news.ycombinator.com/item?id=27140114
-Points: 19
+Points: 26
 # Comments: 2]]></summary>
         <author>
             <name>samizdis</name>
@@ -182,8 +221,8 @@ Points: 19
         <updated>2021-05-13T07:30:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/
 Comments URL: https://news.ycombinator.com/item?id=27139382
-Points: 86
-# Comments: 17]]></summary>
+Points: 99
+# Comments: 20]]></summary>
         <author>
             <name>Lammy</name>
         </author>
@@ -195,10 +234,23 @@ Points: 86
         <updated>2021-05-13T07:28:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study
 Comments URL: https://news.ycombinator.com/item?id=27139371
-Points: 140
-# Comments: 44]]></summary>
+Points: 157
+# Comments: 55]]></summary>
         <author>
             <name>asymmetric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google fined €100M by Italian antitrust over Google Play abuse of dominance]]></title>
+        <id>https://news.ycombinator.com/item?id=27139363</id>
+        <link href="https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107"/>
+        <updated>2021-05-13T07:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107
+Comments URL: https://news.ycombinator.com/item?id=27139363
+Points: 300
+# Comments: 113]]></summary>
+        <author>
+            <name>luke14free</name>
         </author>
     </entry>
     <entry>
@@ -208,62 +260,10 @@ Points: 140
         <updated>2021-05-13T07:25:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff
 Comments URL: https://news.ycombinator.com/item?id=27139356
-Points: 54
-# Comments: 30]]></summary>
+Points: 66
+# Comments: 36]]></summary>
         <author>
             <name>benwen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Design Resources]]></title>
-        <id>https://news.ycombinator.com/item?id=27139170</id>
-        <link href="https://developer.apple.com/design/resources/"/>
-        <updated>2021-05-13T06:47:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/design/resources/
-Comments URL: https://news.ycombinator.com/item?id=27139170
-Points: 148
-# Comments: 19]]></summary>
-        <author>
-            <name>jlturner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big list of HTTP static server one-liners]]></title>
-        <id>https://news.ycombinator.com/item?id=27138978</id>
-        <link href="https://gist.github.com/willurd/5720255"/>
-        <updated>2021-05-13T06:11:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gist.github.com/willurd/5720255
-Comments URL: https://news.ycombinator.com/item?id=27138978
-Points: 155
-# Comments: 59]]></summary>
-        <author>
-            <name>raytracer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midair Collision over Denver]]></title>
-        <id>https://news.ycombinator.com/item?id=27138643</id>
-        <link href="https://avherald.com/h?article=4e74b6e5"/>
-        <updated>2021-05-13T05:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://avherald.com/h?article=4e74b6e5
-Comments URL: https://news.ycombinator.com/item?id=27138643
-Points: 201
-# Comments: 93]]></summary>
-        <author>
-            <name>lunchbreak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giant sea lizard fossil shows diversity of life before asteroid hit]]></title>
-        <id>https://news.ycombinator.com/item?id=27138481</id>
-        <link href="https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/"/>
-        <updated>2021-05-13T04:40:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/
-Comments URL: https://news.ycombinator.com/item?id=27138481
-Points: 39
-# Comments: 3]]></summary>
-        <author>
-            <name>hhs</name>
         </author>
     </entry>
     <entry>
