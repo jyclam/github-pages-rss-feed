@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T00:44:39.887Z</updated>
+    <updated>2021-05-13T02:15:21.190Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Managing Dotfiles with GNU Stow]]></title>
+        <id>https://news.ycombinator.com/item?id=27137172</id>
+        <link href="https://alexpearce.me/2016/02/managing-dotfiles-with-stow/"/>
+        <updated>2021-05-13T00:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alexpearce.me/2016/02/managing-dotfiles-with-stow/
+Comments URL: https://news.ycombinator.com/item?id=27137172
+Points: 35
+# Comments: 7]]></summary>
+        <author>
+            <name>harporoeder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO List of Essential Medicines]]></title>
+        <id>https://news.ycombinator.com/item?id=27136775</id>
+        <link href="https://list.essentialmeds.org/"/>
+        <updated>2021-05-13T00:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://list.essentialmeds.org/
+Comments URL: https://news.ycombinator.com/item?id=27136775
+Points: 8
+# Comments: 3]]></summary>
+        <author>
+            <name>breck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Executive Order on Improving the Nation’s Cybersecurity]]></title>
+        <id>https://news.ycombinator.com/item?id=27136746</id>
+        <link href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/"/>
+        <updated>2021-05-13T00:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+Comments URL: https://news.ycombinator.com/item?id=27136746
+Points: 34
+# Comments: 7]]></summary>
+        <author>
+            <name>encryptluks2</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWT should not be your default for sessions]]></title>
         <id>https://news.ycombinator.com/item?id=27136539</id>
@@ -13,8 +52,8 @@
         <updated>2021-05-12T23:35:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://evertpot.com/jwt-is-a-bad-default/
 Comments URL: https://news.ycombinator.com/item?id=27136539
-Points: 19
-# Comments: 3]]></summary>
+Points: 120
+# Comments: 74]]></summary>
         <author>
             <name>mfbx9da4</name>
         </author>
@@ -26,23 +65,10 @@ Points: 19
         <updated>2021-05-12T22:35:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5
 Comments URL: https://news.ycombinator.com/item?id=27136002
-Points: 83
-# Comments: 34]]></summary>
+Points: 163
+# Comments: 94]]></summary>
         <author>
             <name>kareemm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla has suspended vehicle purchases using Bitcoin]]></title>
-        <id>https://news.ycombinator.com/item?id=27135776</id>
-        <link href="https://twitter.com/elonmusk/status/1392602041025843203"/>
-        <updated>2021-05-12T22:13:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/elonmusk/status/1392602041025843203
-Comments URL: https://news.ycombinator.com/item?id=27135776
-Points: 242
-# Comments: 217]]></summary>
-        <author>
-            <name>seigando</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +78,8 @@ Points: 242
         <updated>2021-05-12T21:50:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kobra.dev/
 Comments URL: https://news.ycombinator.com/item?id=27135573
-Points: 85
-# Comments: 10]]></summary>
+Points: 105
+# Comments: 11]]></summary>
         <author>
             <name>amrrs</name>
         </author>
@@ -65,8 +91,8 @@ Points: 85
         <updated>2021-05-12T21:34:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/TomHarte/CP-M-for-OS-X
 Comments URL: https://news.ycombinator.com/item?id=27135421
-Points: 68
-# Comments: 20]]></summary>
+Points: 82
+# Comments: 27]]></summary>
         <author>
             <name>bilegeek</name>
         </author>
@@ -82,19 +108,6 @@ Points: 1
 # Comments: 0]]></summary>
         <author>
             <name>Liron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The digital natives are not who you think they are]]></title>
-        <id>https://news.ycombinator.com/item?id=27135060</id>
-        <link href="https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/"/>
-        <updated>2021-05-12T20:57:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/
-Comments URL: https://news.ycombinator.com/item?id=27135060
-Points: 77
-# Comments: 106]]></summary>
-        <author>
-            <name>ingve</name>
         </author>
     </entry>
     <entry>
@@ -114,8 +127,8 @@ Points: 77
         <updated>2021-05-12T20:48:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624
 Comments URL: https://news.ycombinator.com/item?id=27134995
-Points: 231
-# Comments: 102]]></summary>
+Points: 275
+# Comments: 124]]></summary>
         <author>
             <name>tareqak</name>
         </author>
@@ -127,10 +140,23 @@ Points: 231
         <updated>2021-05-12T20:46:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/
 Comments URL: https://news.ycombinator.com/item?id=27134972
-Points: 75
-# Comments: 53]]></summary>
+Points: 95
+# Comments: 64]]></summary>
         <author>
             <name>reimbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One person's war on junk mail (1996)]]></title>
+        <id>https://news.ycombinator.com/item?id=27134969</id>
+        <link href="http://www.langston.com/Fun_People/1996/1996AEK.html"/>
+        <updated>2021-05-12T20:46:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.langston.com/Fun_People/1996/1996AEK.html
+Comments URL: https://news.ycombinator.com/item?id=27134969
+Points: 47
+# Comments: 48]]></summary>
+        <author>
+            <name>_wldu</name>
         </author>
     </entry>
     <entry>
@@ -140,8 +166,8 @@ Points: 75
         <updated>2021-05-12T19:56:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/
 Comments URL: https://news.ycombinator.com/item?id=27134429
-Points: 32
-# Comments: 3]]></summary>
+Points: 47
+# Comments: 4]]></summary>
         <author>
             <name>hamilyon2</name>
         </author>
@@ -153,8 +179,8 @@ Points: 32
         <updated>2021-05-12T19:31:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/kalkayan/dotfiles
 Comments URL: https://news.ycombinator.com/item?id=27134249
-Points: 43
-# Comments: 27]]></summary>
+Points: 51
+# Comments: 29]]></summary>
         <author>
             <name>bminusl</name>
         </author>
@@ -166,8 +192,8 @@ Points: 43
         <updated>2021-05-12T19:14:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/
 Comments URL: https://news.ycombinator.com/item?id=27134049
-Points: 255
-# Comments: 109]]></summary>
+Points: 291
+# Comments: 120]]></summary>
         <author>
             <name>Engineering-MD</name>
         </author>
@@ -179,8 +205,8 @@ Points: 255
         <updated>2021-05-12T18:52:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
 Comments URL: https://news.ycombinator.com/item?id=27133804
-Points: 173
-# Comments: 65]]></summary>
+Points: 190
+# Comments: 82]]></summary>
         <author>
             <name>ridiculous_fish</name>
         </author>
@@ -196,27 +222,14 @@ Points: 173
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Replit Apps]]></title>
-        <id>https://news.ycombinator.com/item?id=27132979</id>
-        <link href="https://blog.replit.com/apps"/>
-        <updated>2021-05-12T17:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.replit.com/apps
-Comments URL: https://news.ycombinator.com/item?id=27132979
-Points: 92
-# Comments: 36]]></summary>
-        <author>
-            <name>razin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show HN: I wrote my own RTS game engine in C]]></title>
         <id>https://news.ycombinator.com/item?id=27132334</id>
         <link href="https://github.com/eduard-permyakov/permafrost-engine"/>
         <updated>2021-05-12T16:44:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/eduard-permyakov/permafrost-engine
 Comments URL: https://news.ycombinator.com/item?id=27132334
-Points: 744
-# Comments: 135]]></summary>
+Points: 780
+# Comments: 142]]></summary>
         <author>
             <name>epermyakov</name>
         </author>
@@ -228,8 +241,8 @@ Points: 744
         <updated>2021-05-12T16:06:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/Houdini
 Comments URL: https://news.ycombinator.com/item?id=27131897
-Points: 220
-# Comments: 109]]></summary>
+Points: 237
+# Comments: 110]]></summary>
         <author>
             <name>mvolfik</name>
         </author>
@@ -241,8 +254,8 @@ Points: 220
         <updated>2021-05-12T15:53:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57055163
 Comments URL: https://news.ycombinator.com/item?id=27131744
-Points: 70
-# Comments: 26]]></summary>
+Points: 73
+# Comments: 27]]></summary>
         <author>
             <name>harscoat</name>
         </author>
@@ -267,8 +280,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-12T13:57:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://positive.security/blog/send-my
 Comments URL: https://news.ycombinator.com/item?id=27130355
-Points: 429
-# Comments: 104]]></summary>
+Points: 439
+# Comments: 106]]></summary>
         <author>
             <name>kerm1t</name>
         </author>
@@ -280,8 +293,8 @@ Points: 429
         <updated>2021-05-12T13:05:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
 Comments URL: https://news.ycombinator.com/item?id=27129858
-Points: 891
-# Comments: 817]]></summary>
+Points: 925
+# Comments: 828]]></summary>
         <author>
             <name>lewisjoe</name>
         </author>
@@ -294,19 +307,6 @@ Points: 891
         <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing a Programming Book in 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27129518</id>
-        <link href="https://jmtirado.net/writing-a-programming-book-in-2021/"/>
-        <updated>2021-05-12T12:34:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jmtirado.net/writing-a-programming-book-in-2021/
-Comments URL: https://news.ycombinator.com/item?id=27129518
-Points: 150
-# Comments: 56]]></summary>
-        <author>
-            <name>wilsonfiifi</name>
         </author>
     </entry>
     <entry>
@@ -967,16 +967,6 @@ The post QUIC and HTTP/3 Support now in Firefox Nightly and Beta appeared first 
         <summary type="html"><![CDATA[In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Video Streaming App With Nuxt.js, Node And Express]]></title>
-        <id>https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</id>
-        <link href="https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/"/>
-        <updated>2021-04-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Deven Rathore)</name>
         </author>
     </entry>
 </feed>
