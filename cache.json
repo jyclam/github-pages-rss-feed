@@ -6,36 +6,90 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27141120",
+          "author": "Matth3wMarshall",
+          "description": "Article URL: https://newstorycharity.org/careers/head-of-people-and-culture\nComments URL: https://news.ycombinator.com/item?id=27141120\nPoints: 1\n# Comments: 0",
+          "link": "https://newstorycharity.org/careers/head-of-people-and-culture",
+          "publishedOn": "2021-05-13T12:00:47.000Z",
+          "wordCount": 1423,
+          "title": "New Story (YC S15) Is Hiring Head of People and Culture"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27140724",
+          "author": "roblaszczak",
+          "description": "Article URL: https://threedots.tech/go-with-the-domain/\nComments URL: https://news.ycombinator.com/item?id=27140724\nPoints: 17\n# Comments: 1",
+          "link": "https://threedots.tech/go-with-the-domain/",
+          "publishedOn": "2021-05-13T10:58:58.000Z",
+          "wordCount": 655,
+          "title": "Show HN: We wrote a book about building business applications in Go"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27140647",
+          "author": "vedangsati",
+          "description": "Article URL: https://www.wondersofphysics.com/2020/04/best-physics-movies.html\nComments URL: https://news.ycombinator.com/item?id=27140647\nPoints: 20\n# Comments: 4",
+          "link": "https://www.wondersofphysics.com/2020/04/best-physics-movies.html",
+          "publishedOn": "2021-05-13T10:43:11.000Z",
+          "wordCount": 2322,
+          "title": "20 movies every physics lover should watch in their lifetime"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27140522",
           "author": "sadiq",
-          "description": "Article URL: https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849\nComments URL: https://news.ycombinator.com/item?id=27140522\nPoints: 4\n# Comments: 1",
+          "description": "Article URL: https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849\nComments URL: https://news.ycombinator.com/item?id=27140522\nPoints: 29\n# Comments: 7",
           "link": "https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849",
           "publishedOn": "2021-05-13T10:23:15.000Z",
           "wordCount": 2157,
           "title": "Multicore OCaml: April 2021"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27140505",
+          "author": "_ttg",
+          "description": "Article URL: https://radhika.dev/mid/\nComments URL: https://news.ycombinator.com/item?id=27140505\nPoints: 19\n# Comments: 10",
+          "link": "https://radhika.dev/mid/",
+          "publishedOn": "2021-05-13T10:19:13.000Z",
+          "wordCount": 1942,
+          "title": "Six Things I Wish Someone Told Me About Getting a Promotion"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27140443",
           "author": "nsoonhui",
-          "description": "Article URL: https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/\nComments URL: https://news.ycombinator.com/item?id=27140443\nPoints: 13\n# Comments: 1",
+          "description": "Article URL: https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/\nComments URL: https://news.ycombinator.com/item?id=27140443\nPoints: 26\n# Comments: 1",
           "link": "https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/",
           "publishedOn": "2021-05-13T10:07:20.000Z",
           "wordCount": 1508,
           "title": "Scientists Catch Jumping Genes Rewiring Genomes"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27140440",
+          "author": "deadcoder0904",
+          "description": "Article URL: https://blog.roastmylandingpage.com/landing-page-roasts/\nComments URL: https://news.ycombinator.com/item?id=27140440\nPoints: 51\n# Comments: 17",
+          "link": "https://blog.roastmylandingpage.com/landing-page-roasts/",
+          "publishedOn": "2021-05-13T10:07:07.000Z",
+          "wordCount": 2740,
+          "title": "What I learnt roasting 200 landing pages in 12 months"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27140431",
           "author": "patrick91",
-          "description": "Article URL: https://github.com/faster-cpython/ideas\nComments URL: https://news.ycombinator.com/item?id=27140431\nPoints: 27\n# Comments: 5",
+          "description": "Article URL: https://github.com/faster-cpython/ideas\nComments URL: https://news.ycombinator.com/item?id=27140431\nPoints: 65\n# Comments: 13",
           "link": "https://github.com/faster-cpython/ideas",
           "publishedOn": "2021-05-13T10:05:48.000Z",
           "wordCount": 452,
           "title": "Faster CPython Ideas – Issue Tracker for Faster CPython Project"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27140404",
+          "author": "ingve",
+          "description": "Article URL: https://nibblestew.blogspot.com/2021/05/c-as-file-extension-for-c-is-not.html\nComments URL: https://news.ycombinator.com/item?id=27140404\nPoints: 12\n# Comments: 26",
+          "link": "https://nibblestew.blogspot.com/2021/05/c-as-file-extension-for-c-is-not.html",
+          "publishedOn": "2021-05-13T10:01:08.000Z",
+          "wordCount": 580,
+          "title": ".C as a file extension for C++ is not portable"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27140292",
           "author": "Clewza313",
-          "description": "Article URL: https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/\nComments URL: https://news.ycombinator.com/item?id=27140292\nPoints: 37\n# Comments: 14",
+          "description": "Article URL: https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/\nComments URL: https://news.ycombinator.com/item?id=27140292\nPoints: 69\n# Comments: 45",
           "link": "https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/",
           "publishedOn": "2021-05-13T09:39:21.000Z",
           "wordCount": 1213,
@@ -44,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140251",
           "author": "teleforce",
-          "description": "Article URL: https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security\nComments URL: https://news.ycombinator.com/item?id=27140251\nPoints: 11\n# Comments: 0",
+          "description": "Article URL: https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security\nComments URL: https://news.ycombinator.com/item?id=27140251\nPoints: 32\n# Comments: 2",
           "link": "https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security",
           "publishedOn": "2021-05-13T09:33:51.000Z",
           "wordCount": 838,
@@ -53,25 +107,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140114",
           "author": "samizdis",
-          "description": "Article URL: https://phys.org/news/2021-05-previously-unknown-letter-reveals-einstein.html\nComments URL: https://news.ycombinator.com/item?id=27140114\nPoints: 8\n# Comments: 1",
+          "description": "Article URL: https://phys.org/news/2021-05-previously-unknown-letter-reveals-einstein.html\nComments URL: https://news.ycombinator.com/item?id=27140114\nPoints: 11\n# Comments: 2",
           "link": "https://phys.org/news/2021-05-previously-unknown-letter-reveals-einstein.html",
           "publishedOn": "2021-05-13T09:12:39.000Z",
-          "wordCount": 1405,
+          "wordCount": 1447,
           "title": "Letter reveals Einstein's thinking on bees, birds and physics"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27139382",
           "author": "Lammy",
-          "description": "Article URL: https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/\nComments URL: https://news.ycombinator.com/item?id=27139382\nPoints: 66\n# Comments: 5",
+          "description": "Article URL: https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/\nComments URL: https://news.ycombinator.com/item?id=27139382\nPoints: 73\n# Comments: 11",
           "link": "https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/",
           "publishedOn": "2021-05-13T07:30:46.000Z",
-          "wordCount": 556,
+          "wordCount": 558,
           "title": "Swiss spy chief exits after reports of row over CIA-linked firm"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27139371",
           "author": "asymmetric",
-          "description": "Article URL: https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study\nComments URL: https://news.ycombinator.com/item?id=27139371\nPoints: 83\n# Comments: 21",
+          "description": "Article URL: https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study\nComments URL: https://news.ycombinator.com/item?id=27139371\nPoints: 118\n# Comments: 34",
           "link": "https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study",
           "publishedOn": "2021-05-13T07:28:34.000Z",
           "wordCount": 849,
@@ -80,34 +134,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27139363",
           "author": "luke14free",
-          "description": "Article URL: https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107\nComments URL: https://news.ycombinator.com/item?id=27139363\nPoints: 187\n# Comments: 68",
+          "description": "Article URL: https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107\nComments URL: https://news.ycombinator.com/item?id=27139363\nPoints: 237\n# Comments: 82",
           "link": "https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107",
           "publishedOn": "2021-05-13T07:27:24.000Z",
-          "wordCount": 1321,
+          "wordCount": 1324,
           "title": "Google fined 100M by Italian antitrust over Google Play abuse of dominance"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27139356",
           "author": "benwen",
-          "description": "Article URL: https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff\nComments URL: https://news.ycombinator.com/item?id=27139356\nPoints: 24\n# Comments: 6",
+          "description": "Article URL: https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff\nComments URL: https://news.ycombinator.com/item?id=27139356\nPoints: 38\n# Comments: 16",
           "link": "https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff",
           "publishedOn": "2021-05-13T07:25:48.000Z",
           "wordCount": 534,
           "title": "The Lisperati1000 Is a Cyberdeck Terminal Dedicated to Lisp Programming"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27139226",
-          "author": "ukd1",
-          "description": "Article URL: https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN\nComments URL: https://news.ycombinator.com/item?id=27139226\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
-          "publishedOn": "2021-05-13T07:00:26.000Z",
-          "wordCount": 55,
-          "title": "Rainforest (YC S12) Is Hiring for React and Ruby Engineers"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27139170",
           "author": "jlturner",
-          "description": "Article URL: https://developer.apple.com/design/resources/\nComments URL: https://news.ycombinator.com/item?id=27139170\nPoints: 100\n# Comments: 15",
+          "description": "Article URL: https://developer.apple.com/design/resources/\nComments URL: https://news.ycombinator.com/item?id=27139170\nPoints: 118\n# Comments: 18",
           "link": "https://developer.apple.com/design/resources/",
           "publishedOn": "2021-05-13T06:47:50.000Z",
           "wordCount": 1195,
@@ -116,74 +161,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27138978",
           "author": "raytracer",
-          "description": "Article URL: https://gist.github.com/willurd/5720255\nComments URL: https://news.ycombinator.com/item?id=27138978\nPoints: 112\n# Comments: 42",
+          "description": "Article URL: https://gist.github.com/willurd/5720255\nComments URL: https://news.ycombinator.com/item?id=27138978\nPoints: 125\n# Comments: 51",
           "link": "https://gist.github.com/willurd/5720255",
           "publishedOn": "2021-05-13T06:11:03.000Z",
-          "wordCount": 9683,
+          "wordCount": 9720,
           "title": "Big list of HTTP static server one-liners"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27138643",
           "author": "lunchbreak",
-          "description": "Article URL: https://avherald.com/h?article=4e74b6e5\nComments URL: https://news.ycombinator.com/item?id=27138643\nPoints: 140\n# Comments: 58",
+          "description": "Article URL: https://avherald.com/h?article=4e74b6e5\nComments URL: https://news.ycombinator.com/item?id=27138643\nPoints: 163\n# Comments: 78",
           "link": "https://avherald.com/h?article=4e74b6e5",
           "publishedOn": "2021-05-13T05:10:49.000Z",
-          "wordCount": 2577,
+          "wordCount": 2570,
           "title": "Midair Collision over Denver"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27138481",
           "author": "hhs",
-          "description": "Article URL: https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/\nComments URL: https://news.ycombinator.com/item?id=27138481\nPoints: 31\n# Comments: 2",
+          "description": "Article URL: https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/\nComments URL: https://news.ycombinator.com/item?id=27138481\nPoints: 32\n# Comments: 3",
           "link": "https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/",
           "publishedOn": "2021-05-13T04:40:11.000Z",
-          "wordCount": null,
+          "wordCount": 904,
           "title": "Giant sea lizard fossil shows diversity of life before asteroid hit"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27137674",
-          "author": "chmaynard",
-          "description": "Article URL: https://lwn.net/SubscriberLink/855226/72737207b5650d33/\nComments URL: https://news.ycombinator.com/item?id=27137674\nPoints: 91\n# Comments: 5",
-          "link": "https://lwn.net/SubscriberLink/855226/72737207b5650d33/",
-          "publishedOn": "2021-05-13T02:13:13.000Z",
-          "wordCount": 2566,
-          "title": "A pair of memory-allocation improvements in Linux 5.13"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27137172",
-          "author": "harporoeder",
-          "description": "Article URL: https://alexpearce.me/2016/02/managing-dotfiles-with-stow/\nComments URL: https://news.ycombinator.com/item?id=27137172\nPoints: 130\n# Comments: 57",
-          "link": "https://alexpearce.me/2016/02/managing-dotfiles-with-stow/",
-          "publishedOn": "2021-05-13T00:54:00.000Z",
-          "wordCount": 1086,
-          "title": "Managing Dotfiles with GNU Stow (2016)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27136775",
-          "author": "breck",
-          "description": "Article URL: https://list.essentialmeds.org/\nComments URL: https://news.ycombinator.com/item?id=27136775\nPoints: 78\n# Comments: 37",
-          "link": "https://list.essentialmeds.org/",
-          "publishedOn": "2021-05-13T00:08:54.000Z",
-          "wordCount": 20991,
-          "title": "WHO List of Essential Medicines"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27136002",
-          "author": "kareemm",
-          "description": "Article URL: https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5\nComments URL: https://news.ycombinator.com/item?id=27136002\nPoints: 464\n# Comments: 280",
-          "link": "https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5",
-          "publishedOn": "2021-05-12T22:35:52.000Z",
-          "wordCount": 956,
-          "title": "Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27135573",
-          "author": "amrrs",
-          "description": "Article URL: https://kobra.dev/\nComments URL: https://news.ycombinator.com/item?id=27135573\nPoints: 203\n# Comments: 26",
-          "link": "https://kobra.dev/",
-          "publishedOn": "2021-05-12T21:50:35.000Z",
-          "wordCount": 130,
-          "title": "Kobra – visual programming language for machine learning"
         }
       ]
     },
@@ -335,7 +335,7 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2583,
+          "wordCount": 2554,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
