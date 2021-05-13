@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T17:42:23.002Z</updated>
+    <updated>2021-05-13T18:27:54.225Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[React Tutorial – How to Work with Multiple Checkboxes]]></title>
+        <id>609bcc6a62ab9107fe5a9f08</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/"/>
+        <updated>2021-05-13T18:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bezos Calculator]]></title>
+        <id>https://news.ycombinator.com/item?id=27145356</id>
+        <link href="https://bezoscalculator.com/"/>
+        <updated>2021-05-13T18:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bezoscalculator.com/
+Comments URL: https://news.ycombinator.com/item?id=27145356
+Points: 14
+# Comments: 4]]></summary>
+        <author>
+            <name>ImpressiveWebs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin]]></title>
+        <id>https://news.ycombinator.com/item?id=27145230</id>
+        <link href="https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html"/>
+        <updated>2021-05-13T18:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html
+Comments URL: https://news.ycombinator.com/item?id=27145230
+Points: 31
+# Comments: 19]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?]]></title>
+        <id>https://news.ycombinator.com/item?id=27144764</id>
+        <link href="https://stefanzukin.com/enigma/"/>
+        <updated>2021-05-13T17:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stefanzukin.com/enigma/
+Comments URL: https://news.ycombinator.com/item?id=27144764
+Points: 41
+# Comments: 18]]></summary>
+        <author>
+            <name>MrUssek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notion launches its API in public beta]]></title>
         <id>https://news.ycombinator.com/item?id=27144566</id>
@@ -13,8 +62,8 @@
         <updated>2021-05-13T17:08:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developers.notion.so
 Comments URL: https://news.ycombinator.com/item?id=27144566
-Points: 21
-# Comments: 1]]></summary>
+Points: 97
+# Comments: 38]]></summary>
         <author>
             <name>cristinacordova</name>
         </author>
@@ -43,32 +92,6 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Golden Handcuffs]]></title>
-        <id>https://news.ycombinator.com/item?id=27143898</id>
-        <link href="https://avc.com/2021/05/golden-handcuffs-2/"/>
-        <updated>2021-05-13T16:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://avc.com/2021/05/golden-handcuffs-2/
-Comments URL: https://news.ycombinator.com/item?id=27143898
-Points: 18
-# Comments: 30]]></summary>
-        <author>
-            <name>bitsweet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framework Laptop pre-orders are open, starting at $999]]></title>
-        <id>https://news.ycombinator.com/item?id=27143076</id>
-        <link href="https://frame.work/blog/framework-laptop-starting-at-999-pre-orders-are"/>
-        <updated>2021-05-13T15:18:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://frame.work/blog/framework-laptop-starting-at-999-pre-orders-are
-Comments URL: https://news.ycombinator.com/item?id=27143076
-Points: 18
-# Comments: 15]]></summary>
-        <author>
-            <name>sacred-rat</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Launch HN: Ditto (YC W20) – Keep product text in sync from design to production]]></title>
         <id>https://news.ycombinator.com/item?id=27142930</id>
         <link href="https://news.ycombinator.com/item?id=27142930"/>
@@ -86,10 +109,21 @@ We think product copy is one of the highest ROI aspects of product development t
         <updated>2021-05-13T15:06:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/05/13/frameworks-repairable-laptop-is-up-for-pre-order-starting-at-999/
 Comments URL: https://news.ycombinator.com/item?id=27142913
-Points: 97
-# Comments: 69]]></summary>
+Points: 129
+# Comments: 84]]></summary>
         <author>
             <name>testfoobar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Hupreter – Create apps by describing them in English]]></title>
+        <id>https://news.ycombinator.com/item?id=27142897</id>
+        <link href="https://news.ycombinator.com/item?id=27142897"/>
+        <updated>2021-05-13T15:05:04.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN! Fernando here. A few months ago [1], I shared Hupreter (https://hupreter.com) with you all and now I am finally opening it up so that everyone can try it for free. The goal is to let users create apps and process data effortlessly, by just describing what the computer should do, in spoken English. We have made a lot of progress since the first post, and even though it is far from perfect, I really want to see how people use it and get feedback.
+In terms of creating apps, it supports persisting data (…]]></summary>
+        <author>
+            <name>fersarr</name>
         </author>
     </entry>
     <entry>
@@ -123,8 +157,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-13T13:59:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.polygon.com/22433872/pokemon-cards-target-restock-shining-fates-in-store-availability
 Comments URL: https://news.ycombinator.com/item?id=27142164
-Points: 59
-# Comments: 71]]></summary>
+Points: 74
+# Comments: 83]]></summary>
         <author>
             <name>adrian_mrd</name>
         </author>
@@ -136,21 +170,21 @@ Points: 59
         <updated>2021-05-13T13:58:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hexo.press
 Comments URL: https://news.ycombinator.com/item?id=27142146
-Points: 63
-# Comments: 28]]></summary>
+Points: 81
+# Comments: 34]]></summary>
         <author>
             <name>lewisjoe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Learn Python the Right Way – Free Introduction to Python Book]]></title>
+        <title type="html"><![CDATA[Show HN: Learn Python the Right Way – free introduction to Python book]]></title>
         <id>https://news.ycombinator.com/item?id=27141644</id>
         <link href="https://learnpythontherightway.com"/>
         <updated>2021-05-13T13:08:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://learnpythontherightway.com
 Comments URL: https://news.ycombinator.com/item?id=27141644
-Points: 87
-# Comments: 24]]></summary>
+Points: 103
+# Comments: 32]]></summary>
         <author>
             <name>sixhobbits</name>
         </author>
@@ -162,7 +196,7 @@ Points: 87
         <updated>2021-05-13T13:06:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.spearmintjs.com/
 Comments URL: https://news.ycombinator.com/item?id=27141624
-Points: 29
+Points: 31
 # Comments: 4]]></summary>
         <author>
             <name>maxweisen</name>
@@ -175,8 +209,8 @@ Points: 29
         <updated>2021-05-13T12:40:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nikonrumors.com/2021/05/12/nikon-is-slowly-discontinuing-more-nikkor-f-mount-lenses.aspx/
 Comments URL: https://news.ycombinator.com/item?id=27141415
-Points: 63
-# Comments: 39]]></summary>
+Points: 69
+# Comments: 43]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -188,8 +222,8 @@ Points: 63
         <updated>2021-05-13T11:42:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig
 Comments URL: https://news.ycombinator.com/item?id=27140986
-Points: 95
-# Comments: 43]]></summary>
+Points: 101
+# Comments: 57]]></summary>
         <author>
             <name>DyslexicAtheist</name>
         </author>
@@ -201,8 +235,8 @@ Points: 95
         <updated>2021-05-13T11:18:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md
 Comments URL: https://news.ycombinator.com/item?id=27140836
-Points: 219
-# Comments: 178]]></summary>
+Points: 243
+# Comments: 193]]></summary>
         <author>
             <name>simon04</name>
         </author>
@@ -214,8 +248,8 @@ Points: 219
         <updated>2021-05-13T10:58:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://threedots.tech/go-with-the-domain/
 Comments URL: https://news.ycombinator.com/item?id=27140724
-Points: 231
-# Comments: 111]]></summary>
+Points: 242
+# Comments: 113]]></summary>
         <author>
             <name>roblaszczak</name>
         </author>
@@ -227,8 +261,8 @@ Points: 231
         <updated>2021-05-13T10:43:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wondersofphysics.com/2020/04/best-physics-movies.html
 Comments URL: https://news.ycombinator.com/item?id=27140647
-Points: 179
-# Comments: 183]]></summary>
+Points: 208
+# Comments: 224]]></summary>
         <author>
             <name>vedangsati</name>
         </author>
@@ -240,10 +274,23 @@ Points: 179
         <updated>2021-05-13T10:23:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849
 Comments URL: https://news.ycombinator.com/item?id=27140522
-Points: 115
-# Comments: 56]]></summary>
+Points: 118
+# Comments: 64]]></summary>
         <author>
             <name>sadiq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Rendering: How Low Can You Go in Terms of Input?]]></title>
+        <id>https://news.ycombinator.com/item?id=27140515</id>
+        <link href="https://www.unite.ai/neural-rendering-low-resolution-input-intel/"/>
+        <updated>2021-05-13T10:21:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.unite.ai/neural-rendering-low-resolution-input-intel/
+Comments URL: https://news.ycombinator.com/item?id=27140515
+Points: 19
+# Comments: 0]]></summary>
+        <author>
+            <name>Hard_Space</name>
         </author>
     </entry>
     <entry>
@@ -253,49 +300,10 @@ Points: 115
         <updated>2021-05-13T10:07:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/
 Comments URL: https://news.ycombinator.com/item?id=27140443
-Points: 63
-# Comments: 5]]></summary>
+Points: 67
+# Comments: 6]]></summary>
         <author>
             <name>nsoonhui</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I learnt roasting 200 landing pages]]></title>
-        <id>https://news.ycombinator.com/item?id=27140440</id>
-        <link href="https://blog.roastmylandingpage.com/landing-page-roasts/"/>
-        <updated>2021-05-13T10:07:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.roastmylandingpage.com/landing-page-roasts/
-Comments URL: https://news.ycombinator.com/item?id=27140440
-Points: 390
-# Comments: 156]]></summary>
-        <author>
-            <name>deadcoder0904</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faster CPython Ideas – Issue Tracker for Faster CPython Project]]></title>
-        <id>https://news.ycombinator.com/item?id=27140431</id>
-        <link href="https://github.com/faster-cpython/ideas"/>
-        <updated>2021-05-13T10:05:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/faster-cpython/ideas
-Comments URL: https://news.ycombinator.com/item?id=27140431
-Points: 168
-# Comments: 51]]></summary>
-        <author>
-            <name>patrick91</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security researcher found Wi-Fi vulnerabilities that existed since the beginning]]></title>
-        <id>https://news.ycombinator.com/item?id=27140251</id>
-        <link href="https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security"/>
-        <updated>2021-05-13T09:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security
-Comments URL: https://news.ycombinator.com/item?id=27140251
-Points: 134
-# Comments: 25]]></summary>
-        <author>
-            <name>teleforce</name>
         </author>
     </entry>
     <entry>
@@ -468,16 +476,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design Good Typography - Free Treehouse Course]]></title>
-        <id>60998ee76008950828b3ed10</id>
-        <link href="https://www.freecodecamp.org/news/how-to-design-good-typography/"/>
-        <updated>2021-05-11T12:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>

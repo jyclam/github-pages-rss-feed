@@ -6,9 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27145356",
+          "author": "ImpressiveWebs",
+          "description": "Article URL: https://bezoscalculator.com/\nComments URL: https://news.ycombinator.com/item?id=27145356\nPoints: 14\n# Comments: 4",
+          "link": "https://bezoscalculator.com/",
+          "publishedOn": "2021-05-13T18:14:52.000Z",
+          "wordCount": 34,
+          "title": "Bezos Calculator"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27145230",
+          "author": "awb",
+          "description": "Article URL: https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html\nComments URL: https://news.ycombinator.com/item?id=27145230\nPoints: 31\n# Comments: 19",
+          "link": "https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html",
+          "publishedOn": "2021-05-13T18:04:35.000Z",
+          "wordCount": 697,
+          "title": "$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27144764",
+          "author": "MrUssek",
+          "description": "Article URL: https://stefanzukin.com/enigma/\nComments URL: https://news.ycombinator.com/item?id=27144764\nPoints: 41\n# Comments: 18",
+          "link": "https://stefanzukin.com/enigma/",
+          "publishedOn": "2021-05-13T17:26:27.000Z",
+          "wordCount": 27,
+          "title": "Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27144566",
           "author": "cristinacordova",
-          "description": "Article URL: https://developers.notion.so\nComments URL: https://news.ycombinator.com/item?id=27144566\nPoints: 21\n# Comments: 1",
+          "description": "Article URL: https://developers.notion.so\nComments URL: https://news.ycombinator.com/item?id=27144566\nPoints: 97\n# Comments: 38",
           "link": "https://developers.notion.so",
           "publishedOn": "2021-05-13T17:08:21.000Z",
           "wordCount": 363,
@@ -24,54 +51,45 @@
           "title": "QuestDB Is Hiring a Developer Relations Engineer"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27143898",
-          "author": "bitsweet",
-          "description": "Article URL: https://avc.com/2021/05/golden-handcuffs-2/\nComments URL: https://news.ycombinator.com/item?id=27143898\nPoints: 18\n# Comments: 30",
-          "link": "https://avc.com/2021/05/golden-handcuffs-2/",
-          "publishedOn": "2021-05-13T16:17:31.000Z",
-          "wordCount": 223,
-          "title": "Golden Handcuffs"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27143076",
-          "author": "sacred-rat",
-          "description": "Article URL: https://frame.work/blog/framework-laptop-starting-at-999-pre-orders-are\nComments URL: https://news.ycombinator.com/item?id=27143076\nPoints: 18\n# Comments: 15",
-          "link": "https://frame.work/blog/framework-laptop-starting-at-999-pre-orders-are",
-          "publishedOn": "2021-05-13T15:18:48.000Z",
-          "wordCount": 783,
-          "title": "Framework Laptop pre-orders are open, starting at $999"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27142930",
           "author": "jessouyang",
           "description": "Jess and Jo here, and we're excited to share Ditto with you all (https://dittowords.com). Ditto is a way to manage product copy—or the text found on user interfaces—all the way from design to development. Think of a headless CMS but with the text from your design files.\nWe think product copy is one of the highest ROI aspects of product development today, but also one of the most overlooked. Even more so than the visuals, the text users read is critical to shaping their understanding of how things work. Copy…",
           "link": "https://news.ycombinator.com/item?id=27142930",
           "publishedOn": "2021-05-13T15:07:30.000Z",
-          "wordCount": 3430,
+          "wordCount": 4425,
           "title": "Launch HN: Ditto (YC W20) – Keep product text in sync from design to production"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27142913",
           "author": "testfoobar",
-          "description": "Article URL: https://techcrunch.com/2021/05/13/frameworks-repairable-laptop-is-up-for-pre-order-starting-at-999/\nComments URL: https://news.ycombinator.com/item?id=27142913\nPoints: 97\n# Comments: 69",
+          "description": "Article URL: https://techcrunch.com/2021/05/13/frameworks-repairable-laptop-is-up-for-pre-order-starting-at-999/\nComments URL: https://news.ycombinator.com/item?id=27142913\nPoints: 129\n# Comments: 84",
           "link": "https://techcrunch.com/2021/05/13/frameworks-repairable-laptop-is-up-for-pre-order-starting-at-999/",
           "publishedOn": "2021-05-13T15:06:09.000Z",
           "wordCount": 377,
           "title": "Framework’s repairable laptop is up for preorder, starting at $999"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27142897",
+          "author": "fersarr",
+          "description": "Hi HN! Fernando here. A few months ago [1], I shared Hupreter (https://hupreter.com) with you all and now I am finally opening it up so that everyone can try it for free. The goal is to let users create apps and process data effortlessly, by just describing what the computer should do, in spoken English. We have made a lot of progress since the first post, and even though it is far from perfect, I really want to see how people use it and get feedback.\nIn terms of creating apps, it supports persisting data (…",
+          "link": "https://news.ycombinator.com/item?id=27142897",
+          "publishedOn": "2021-05-13T15:05:04.000Z",
+          "wordCount": 574,
+          "title": "Show HN: Hupreter – Create apps by describing them in English"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27142164",
           "author": "adrian_mrd",
-          "description": "Article URL: https://www.polygon.com/22433872/pokemon-cards-target-restock-shining-fates-in-store-availability\nComments URL: https://news.ycombinator.com/item?id=27142164\nPoints: 59\n# Comments: 71",
+          "description": "Article URL: https://www.polygon.com/22433872/pokemon-cards-target-restock-shining-fates-in-store-availability\nComments URL: https://news.ycombinator.com/item?id=27142164\nPoints: 74\n# Comments: 83",
           "link": "https://www.polygon.com/22433872/pokemon-cards-target-restock-shining-fates-in-store-availability",
           "publishedOn": "2021-05-13T13:59:52.000Z",
-          "wordCount": 1005,
+          "wordCount": 1008,
           "title": "Target stops selling Pokémon cards in store, citing safety concerns"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27142146",
           "author": "lewisjoe",
-          "description": "Article URL: https://hexo.press\nComments URL: https://news.ycombinator.com/item?id=27142146\nPoints: 63\n# Comments: 28",
+          "description": "Article URL: https://hexo.press\nComments URL: https://news.ycombinator.com/item?id=27142146\nPoints: 81\n# Comments: 34",
           "link": "https://hexo.press",
           "publishedOn": "2021-05-13T13:58:17.000Z",
           "wordCount": 197,
@@ -80,16 +98,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27141644",
           "author": "sixhobbits",
-          "description": "Article URL: https://learnpythontherightway.com\nComments URL: https://news.ycombinator.com/item?id=27141644\nPoints: 87\n# Comments: 24",
+          "description": "Article URL: https://learnpythontherightway.com\nComments URL: https://news.ycombinator.com/item?id=27141644\nPoints: 103\n# Comments: 32",
           "link": "https://learnpythontherightway.com",
           "publishedOn": "2021-05-13T13:08:50.000Z",
           "wordCount": 399,
-          "title": "Show HN: Learn Python the Right Way – Free Introduction to Python Book"
+          "title": "Show HN: Learn Python the Right Way – free introduction to Python book"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27141624",
           "author": "maxweisen",
-          "description": "Article URL: https://www.spearmintjs.com/\nComments URL: https://news.ycombinator.com/item?id=27141624\nPoints: 29\n# Comments: 4",
+          "description": "Article URL: https://www.spearmintjs.com/\nComments URL: https://news.ycombinator.com/item?id=27141624\nPoints: 31\n# Comments: 4",
           "link": "https://www.spearmintjs.com/",
           "publishedOn": "2021-05-13T13:06:37.000Z",
           "wordCount": 347,
@@ -98,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27141415",
           "author": "giuliomagnifico",
-          "description": "Article URL: https://nikonrumors.com/2021/05/12/nikon-is-slowly-discontinuing-more-nikkor-f-mount-lenses.aspx/\nComments URL: https://news.ycombinator.com/item?id=27141415\nPoints: 63\n# Comments: 39",
+          "description": "Article URL: https://nikonrumors.com/2021/05/12/nikon-is-slowly-discontinuing-more-nikkor-f-mount-lenses.aspx/\nComments URL: https://news.ycombinator.com/item?id=27141415\nPoints: 69\n# Comments: 43",
           "link": "https://nikonrumors.com/2021/05/12/nikon-is-slowly-discontinuing-more-nikkor-f-mount-lenses.aspx/",
           "publishedOn": "2021-05-13T12:40:28.000Z",
           "wordCount": 1512,
@@ -107,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140986",
           "author": "DyslexicAtheist",
-          "description": "Article URL: https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig\nComments URL: https://news.ycombinator.com/item?id=27140986\nPoints: 95\n# Comments: 43",
+          "description": "Article URL: https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig\nComments URL: https://news.ycombinator.com/item?id=27140986\nPoints: 101\n# Comments: 57",
           "link": "https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig",
           "publishedOn": "2021-05-13T11:42:07.000Z",
           "wordCount": 1798,
@@ -116,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140836",
           "author": "simon04",
-          "description": "Article URL: https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md\nComments URL: https://news.ycombinator.com/item?id=27140836\nPoints: 219\n# Comments: 178",
+          "description": "Article URL: https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md\nComments URL: https://news.ycombinator.com/item?id=27140836\nPoints: 243\n# Comments: 193",
           "link": "https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md",
           "publishedOn": "2021-05-13T11:18:42.000Z",
           "wordCount": 1216,
@@ -125,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140724",
           "author": "roblaszczak",
-          "description": "Article URL: https://threedots.tech/go-with-the-domain/\nComments URL: https://news.ycombinator.com/item?id=27140724\nPoints: 231\n# Comments: 111",
+          "description": "Article URL: https://threedots.tech/go-with-the-domain/\nComments URL: https://news.ycombinator.com/item?id=27140724\nPoints: 242\n# Comments: 113",
           "link": "https://threedots.tech/go-with-the-domain/",
           "publishedOn": "2021-05-13T10:58:58.000Z",
           "wordCount": 655,
@@ -134,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140647",
           "author": "vedangsati",
-          "description": "Article URL: https://www.wondersofphysics.com/2020/04/best-physics-movies.html\nComments URL: https://news.ycombinator.com/item?id=27140647\nPoints: 179\n# Comments: 183",
+          "description": "Article URL: https://www.wondersofphysics.com/2020/04/best-physics-movies.html\nComments URL: https://news.ycombinator.com/item?id=27140647\nPoints: 208\n# Comments: 224",
           "link": "https://www.wondersofphysics.com/2020/04/best-physics-movies.html",
           "publishedOn": "2021-05-13T10:43:11.000Z",
           "wordCount": 2334,
@@ -143,47 +161,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27140522",
           "author": "sadiq",
-          "description": "Article URL: https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849\nComments URL: https://news.ycombinator.com/item?id=27140522\nPoints: 115\n# Comments: 56",
+          "description": "Article URL: https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849\nComments URL: https://news.ycombinator.com/item?id=27140522\nPoints: 118\n# Comments: 64",
           "link": "https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849",
           "publishedOn": "2021-05-13T10:23:15.000Z",
           "wordCount": 2157,
           "title": "Multicore OCaml: April 2021"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27140515",
+          "author": "Hard_Space",
+          "description": "Article URL: https://www.unite.ai/neural-rendering-low-resolution-input-intel/\nComments URL: https://news.ycombinator.com/item?id=27140515\nPoints: 19\n# Comments: 0",
+          "link": "https://www.unite.ai/neural-rendering-low-resolution-input-intel/",
+          "publishedOn": "2021-05-13T10:21:06.000Z",
+          "wordCount": 2103,
+          "title": "Neural Rendering: How Low Can You Go in Terms of Input?"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27140443",
           "author": "nsoonhui",
-          "description": "Article URL: https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/\nComments URL: https://news.ycombinator.com/item?id=27140443\nPoints: 63\n# Comments: 5",
+          "description": "Article URL: https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/\nComments URL: https://news.ycombinator.com/item?id=27140443\nPoints: 67\n# Comments: 6",
           "link": "https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/",
           "publishedOn": "2021-05-13T10:07:20.000Z",
           "wordCount": 1531,
           "title": "Scientists Catch Jumping Genes Rewiring Genomes"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27140440",
-          "author": "deadcoder0904",
-          "description": "Article URL: https://blog.roastmylandingpage.com/landing-page-roasts/\nComments URL: https://news.ycombinator.com/item?id=27140440\nPoints: 390\n# Comments: 156",
-          "link": "https://blog.roastmylandingpage.com/landing-page-roasts/",
-          "publishedOn": "2021-05-13T10:07:07.000Z",
-          "wordCount": 2723,
-          "title": "What I learnt roasting 200 landing pages"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27140431",
-          "author": "patrick91",
-          "description": "Article URL: https://github.com/faster-cpython/ideas\nComments URL: https://news.ycombinator.com/item?id=27140431\nPoints: 168\n# Comments: 51",
-          "link": "https://github.com/faster-cpython/ideas",
-          "publishedOn": "2021-05-13T10:05:48.000Z",
-          "wordCount": 452,
-          "title": "Faster CPython Ideas – Issue Tracker for Faster CPython Project"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27140251",
-          "author": "teleforce",
-          "description": "Article URL: https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security\nComments URL: https://news.ycombinator.com/item?id=27140251\nPoints: 134\n# Comments: 25",
-          "link": "https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security",
-          "publishedOn": "2021-05-13T09:33:51.000Z",
-          "wordCount": 838,
-          "title": "Security researcher found Wi-Fi vulnerabilities that existed since the beginning"
         }
       ]
     },
@@ -362,7 +362,7 @@
           "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
           "publishedOn": "2021-05-11T22:00:29.000Z",
-          "wordCount": 441,
+          "wordCount": 498,
           "title": "CSS Pie Timer Re-Revisited"
         },
         {
@@ -380,7 +380,7 @@
           "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1419,
+          "wordCount": 1441,
           "title": "Next Gen CSS: @container"
         },
         {
@@ -389,7 +389,7 @@
           "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
           "publishedOn": "2021-05-11T14:33:10.000Z",
-          "wordCount": 1415,
+          "wordCount": 1441,
           "title": "Distributed Persistent Rendering (DPR)"
         },
         {
@@ -713,6 +713,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "609bcc6a62ab9107fe5a9f08",
+          "author": "",
+          "description": "Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/",
+          "publishedOn": "2021-05-13T18:17:49.000Z",
+          "wordCount": 1775,
+          "title": "React Tutorial – How to Work with Multiple Checkboxes"
+        },
+        {
           "id": "609ccb0d62ab9107fe5aa0ce",
           "author": "",
           "description": "I was a corporate lawyer for 12 years. I finished law school in Bangalore, India, a year before Google listed on the Nasdaq. That was a long time ago. The world was very different. I think facebook was still “thefacebook”.  I started my career as a litigator in the courts",
@@ -792,15 +801,6 @@
           "publishedOn": "2021-05-11T15:22:27.000Z",
           "wordCount": 1680,
           "title": "Why You Should Start Using Chakra UI"
-        },
-        {
-          "id": "60998ee76008950828b3ed10",
-          "author": "",
-          "description": "Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this",
-          "link": "https://www.freecodecamp.org/news/how-to-design-good-typography/",
-          "publishedOn": "2021-05-11T12:56:14.000Z",
-          "wordCount": 413,
-          "title": "How to Design Good Typography - Free Treehouse Course"
         }
       ]
     }
