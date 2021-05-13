@@ -2,21 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T10:14:50.248Z</updated>
+    <updated>2021-05-13T11:13:38.573Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Facebook moderator: ‘Every day was a nightmare’]]></title>
-        <id>https://news.ycombinator.com/item?id=27139391</id>
-        <link href="https://www.bbc.com/news/technology-57088382"/>
-        <updated>2021-05-13T07:32:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57088382
-Comments URL: https://news.ycombinator.com/item?id=27139391
-Points: 71
-# Comments: 48]]></summary>
+        <title type="html"><![CDATA[Multicore OCaml: April 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27140522</id>
+        <link href="https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849"/>
+        <updated>2021-05-13T10:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://discuss.ocaml.org/t/multicore-ocaml-april-2021/7849
+Comments URL: https://news.ycombinator.com/item?id=27140522
+Points: 4
+# Comments: 1]]></summary>
         <author>
-            <name>punnerud</name>
+            <name>sadiq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Catch Jumping Genes Rewiring Genomes]]></title>
+        <id>https://news.ycombinator.com/item?id=27140443</id>
+        <link href="https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/"/>
+        <updated>2021-05-13T10:07:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/
+Comments URL: https://news.ycombinator.com/item?id=27140443
+Points: 13
+# Comments: 1]]></summary>
+        <author>
+            <name>nsoonhui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faster CPython Ideas – Issue Tracker for Faster CPython Project]]></title>
+        <id>https://news.ycombinator.com/item?id=27140431</id>
+        <link href="https://github.com/faster-cpython/ideas"/>
+        <updated>2021-05-13T10:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/faster-cpython/ideas
+Comments URL: https://news.ycombinator.com/item?id=27140431
+Points: 27
+# Comments: 5]]></summary>
+        <author>
+            <name>patrick91</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is shutting down its Azure Blockchain Service]]></title>
+        <id>https://news.ycombinator.com/item?id=27140292</id>
+        <link href="https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/"/>
+        <updated>2021-05-13T09:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/
+Comments URL: https://news.ycombinator.com/item?id=27140292
+Points: 37
+# Comments: 14]]></summary>
+        <author>
+            <name>Clewza313</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security researcher found Wi-Fi vulnerabilities that existed since the beginning]]></title>
+        <id>https://news.ycombinator.com/item?id=27140251</id>
+        <link href="https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security"/>
+        <updated>2021-05-13T09:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security
+Comments URL: https://news.ycombinator.com/item?id=27140251
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>teleforce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Letter reveals Einstein's thinking on bees, birds and physics]]></title>
+        <id>https://news.ycombinator.com/item?id=27140114</id>
+        <link href="https://phys.org/news/2021-05-previously-unknown-letter-reveals-einstein.html"/>
+        <updated>2021-05-13T09:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-previously-unknown-letter-reveals-einstein.html
+Comments URL: https://news.ycombinator.com/item?id=27140114
+Points: 8
+# Comments: 1]]></summary>
+        <author>
+            <name>samizdis</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +91,8 @@ Points: 71
         <updated>2021-05-13T07:30:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/
 Comments URL: https://news.ycombinator.com/item?id=27139382
-Points: 52
-# Comments: 2]]></summary>
+Points: 66
+# Comments: 5]]></summary>
         <author>
             <name>Lammy</name>
         </author>
@@ -39,8 +104,8 @@ Points: 52
         <updated>2021-05-13T07:28:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study
 Comments URL: https://news.ycombinator.com/item?id=27139371
-Points: 59
-# Comments: 13]]></summary>
+Points: 83
+# Comments: 21]]></summary>
         <author>
             <name>asymmetric</name>
         </author>
@@ -52,10 +117,23 @@ Points: 59
         <updated>2021-05-13T07:27:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107
 Comments URL: https://news.ycombinator.com/item?id=27139363
-Points: 131
-# Comments: 44]]></summary>
+Points: 187
+# Comments: 68]]></summary>
         <author>
             <name>luke14free</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lisperati1000 Is a Cyberdeck Terminal Dedicated to Lisp Programming]]></title>
+        <id>https://news.ycombinator.com/item?id=27139356</id>
+        <link href="https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff"/>
+        <updated>2021-05-13T07:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff
+Comments URL: https://news.ycombinator.com/item?id=27139356
+Points: 24
+# Comments: 6]]></summary>
+        <author>
+            <name>benwen</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +156,8 @@ Points: 1
         <updated>2021-05-13T06:47:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.apple.com/design/resources/
 Comments URL: https://news.ycombinator.com/item?id=27139170
-Points: 81
-# Comments: 12]]></summary>
+Points: 100
+# Comments: 15]]></summary>
         <author>
             <name>jlturner</name>
         </author>
@@ -91,8 +169,8 @@ Points: 81
         <updated>2021-05-13T06:11:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gist.github.com/willurd/5720255
 Comments URL: https://news.ycombinator.com/item?id=27138978
-Points: 97
-# Comments: 28]]></summary>
+Points: 112
+# Comments: 42]]></summary>
         <author>
             <name>raytracer</name>
         </author>
@@ -104,8 +182,8 @@ Points: 97
         <updated>2021-05-13T05:10:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://avherald.com/h?article=4e74b6e5
 Comments URL: https://news.ycombinator.com/item?id=27138643
-Points: 119
-# Comments: 50]]></summary>
+Points: 140
+# Comments: 58]]></summary>
         <author>
             <name>lunchbreak</name>
         </author>
@@ -117,8 +195,8 @@ Points: 119
         <updated>2021-05-13T04:40:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/
 Comments URL: https://news.ycombinator.com/item?id=27138481
-Points: 24
-# Comments: 1]]></summary>
+Points: 31
+# Comments: 2]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -130,7 +208,7 @@ Points: 24
         <updated>2021-05-13T02:13:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/855226/72737207b5650d33/
 Comments URL: https://news.ycombinator.com/item?id=27137674
-Points: 83
+Points: 91
 # Comments: 5]]></summary>
         <author>
             <name>chmaynard</name>
@@ -143,8 +221,8 @@ Points: 83
         <updated>2021-05-13T00:54:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alexpearce.me/2016/02/managing-dotfiles-with-stow/
 Comments URL: https://news.ycombinator.com/item?id=27137172
-Points: 122
-# Comments: 56]]></summary>
+Points: 130
+# Comments: 57]]></summary>
         <author>
             <name>harporoeder</name>
         </author>
@@ -156,8 +234,8 @@ Points: 122
         <updated>2021-05-13T00:08:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://list.essentialmeds.org/
 Comments URL: https://news.ycombinator.com/item?id=27136775
-Points: 71
-# Comments: 34]]></summary>
+Points: 78
+# Comments: 37]]></summary>
         <author>
             <name>breck</name>
         </author>
@@ -169,8 +247,8 @@ Points: 71
         <updated>2021-05-12T22:35:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5
 Comments URL: https://news.ycombinator.com/item?id=27136002
-Points: 436
-# Comments: 256]]></summary>
+Points: 464
+# Comments: 280]]></summary>
         <author>
             <name>kareemm</name>
         </author>
@@ -182,23 +260,10 @@ Points: 436
         <updated>2021-05-12T21:50:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kobra.dev/
 Comments URL: https://news.ycombinator.com/item?id=27135573
-Points: 198
+Points: 203
 # Comments: 26]]></summary>
         <author>
             <name>amrrs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CP/M for OS X]]></title>
-        <id>https://news.ycombinator.com/item?id=27135421</id>
-        <link href="https://github.com/TomHarte/CP-M-for-OS-X"/>
-        <updated>2021-05-12T21:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/TomHarte/CP-M-for-OS-X
-Comments URL: https://news.ycombinator.com/item?id=27135421
-Points: 118
-# Comments: 41]]></summary>
-        <author>
-            <name>bilegeek</name>
         </author>
     </entry>
     <entry>
@@ -212,58 +277,6 @@ Points: 118
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instagram, Twitter blame glitches for deleting Palestinian posts]]></title>
-        <id>https://news.ycombinator.com/item?id=27134995</id>
-        <link href="https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624"/>
-        <updated>2021-05-12T20:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624
-Comments URL: https://news.ycombinator.com/item?id=27134995
-Points: 390
-# Comments: 174]]></summary>
-        <author>
-            <name>tareqak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Air Pollution Linked to Increased Mental Health Outpatient Visits]]></title>
-        <id>https://news.ycombinator.com/item?id=27134429</id>
-        <link href="https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/"/>
-        <updated>2021-05-12T19:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/
-Comments URL: https://news.ycombinator.com/item?id=27134429
-Points: 113
-# Comments: 19]]></summary>
-        <author>
-            <name>hamilyon2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural implant lets paralyzed person type by imagining writing]]></title>
-        <id>https://news.ycombinator.com/item?id=27134049</id>
-        <link href="https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/"/>
-        <updated>2021-05-12T19:14:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/
-Comments URL: https://news.ycombinator.com/item?id=27134049
-Points: 460
-# Comments: 154]]></summary>
-        <author>
-            <name>Engineering-MD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking division and libdivide on Apple M1 and Intel AVX512]]></title>
-        <id>https://news.ycombinator.com/item?id=27133804</id>
-        <link href="https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html"/>
-        <updated>2021-05-12T18:52:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
-Comments URL: https://news.ycombinator.com/item?id=27133804
-Points: 252
-# Comments: 136]]></summary>
-        <author>
-            <name>ridiculous_fish</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Use the Kivy Python Library to Create Games and Mobile Apps]]></title>
         <id>609c215862ab9107fe5a9fa9</id>
         <link href="https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/"/>
@@ -271,19 +284,6 @@ Points: 252
         <summary type="html"><![CDATA[Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I wrote my own RTS game engine in C]]></title>
-        <id>https://news.ycombinator.com/item?id=27132334</id>
-        <link href="https://github.com/eduard-permyakov/permafrost-engine"/>
-        <updated>2021-05-12T16:44:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/eduard-permyakov/permafrost-engine
-Comments URL: https://news.ycombinator.com/item?id=27132334
-Points: 956
-# Comments: 203]]></summary>
-        <author>
-            <name>epermyakov</name>
         </author>
     </entry>
     <entry>
