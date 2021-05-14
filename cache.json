@@ -6,45 +6,81 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27156859",
+          "author": "throwkeep",
+          "description": "Article URL: https://www.nature.com/articles/d41586-021-01299-y\nComments URL: https://news.ycombinator.com/item?id=27156859\nPoints: 21\n# Comments: 0",
+          "link": "https://www.nature.com/articles/d41586-021-01299-y",
+          "publishedOn": "2021-05-14T17:17:27.000Z",
+          "wordCount": 1376,
+          "title": "Delaying a Covid vaccine’s second dose boosts immune response"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27156770",
+          "author": "mike-cardwell",
+          "description": "Article URL: https://www.grepular.com/Sandbox_Rust_Development_with_Rust_Analyzer\nComments URL: https://news.ycombinator.com/item?id=27156770\nPoints: 5\n# Comments: 0",
+          "link": "https://www.grepular.com/Sandbox_Rust_Development_with_Rust_Analyzer",
+          "publishedOn": "2021-05-14T17:12:41.000Z",
+          "wordCount": 531,
+          "title": "Sandbox Rust Development with Rust Analyzer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27156581",
+          "author": "kolchinski",
+          "description": "Article URL: https://www.ycombinator.com/companies/mezli/jobs/oEsK9BM-business-operations\nComments URL: https://news.ycombinator.com/item?id=27156581\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/mezli/jobs/oEsK9BM-business-operations",
+          "publishedOn": "2021-05-14T17:00:27.000Z",
+          "wordCount": 435,
+          "title": "Mezli (YC W21) – Hiring a BizOps role to help us build autonomous restaurants"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27156334",
+          "author": "infodocket",
+          "description": "Article URL: https://www.sciencemag.org/news/2021/05/mammals-can-breathe-through-their-intestines\nComments URL: https://news.ycombinator.com/item?id=27156334\nPoints: 32\n# Comments: 7",
+          "link": "https://www.sciencemag.org/news/2021/05/mammals-can-breathe-through-their-intestines",
+          "publishedOn": "2021-05-14T16:43:12.000Z",
+          "wordCount": 1068,
+          "title": "Mammals Can Breathe Through Their Intestines"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27155831",
+          "author": "adamnemecek",
+          "description": "Article URL: https://tauri.studio/?hn\nComments URL: https://news.ycombinator.com/item?id=27155831\nPoints: 144\n# Comments: 74",
+          "link": "https://tauri.studio/?hn",
+          "publishedOn": "2021-05-14T16:10:18.000Z",
+          "wordCount": 453,
+          "title": "Tauri: Rust-based Electron alternative releases beta"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27155639",
           "author": "lukastyrychtr",
-          "description": "Article URL: https://blog.abor.dev/p/moonzoon\nComments URL: https://news.ycombinator.com/item?id=27155639\nPoints: 11\n# Comments: 0",
+          "description": "Article URL: https://blog.abor.dev/p/moonzoon\nComments URL: https://news.ycombinator.com/item?id=27155639\nPoints: 54\n# Comments: 33",
           "link": "https://blog.abor.dev/p/moonzoon",
           "publishedOn": "2021-05-14T15:57:15.000Z",
-          "wordCount": 2574,
+          "wordCount": 2601,
           "title": "Rust on the Frontend and Backend"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27155526",
           "author": "spIrr",
-          "description": "I mean, Kubernetes became a thing after Docker became a thing before(and so on, all the way down to VMs), so it's reasonable to assume that something new will eventually emerge and become the industry-standard.\nComments URL: https://news.ycombinator.com/item?id=27155526\nPoints: 38\n# Comments: 10",
+          "description": "I mean, Kubernetes became a thing after Docker became a thing before(and so on, all the way down to VMs), so it's reasonable to assume that something new will eventually emerge and become the industry-standard.\nComments URL: https://news.ycombinator.com/item?id=27155526\nPoints: 66\n# Comments: 80",
           "link": "https://news.ycombinator.com/item?id=27155526",
           "publishedOn": "2021-05-14T15:49:06.000Z",
-          "wordCount": 2587,
+          "wordCount": 6118,
           "title": "Ask HN: What do you think will come after Kubernetes?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27155497",
           "author": "feross",
-          "description": "Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/\nComments URL: https://news.ycombinator.com/item?id=27155497\nPoints: 73\n# Comments: 0",
+          "description": "Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/\nComments URL: https://news.ycombinator.com/item?id=27155497\nPoints: 247\n# Comments: 220",
           "link": "https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/",
           "publishedOn": "2021-05-14T15:47:30.000Z",
-          "wordCount": 1043,
-          "title": "DarkSide Ransomware Gang Quits After Servers, Bitcoin Stash Seized"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27154769",
-          "author": "andrewstetsenko",
-          "description": "Article URL: https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/\nComments URL: https://news.ycombinator.com/item?id=27154769\nPoints: 67\n# Comments: 68",
-          "link": "https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/",
-          "publishedOn": "2021-05-14T14:35:58.000Z",
-          "wordCount": 3723,
-          "title": "Moving to London for a Tech Job"
+          "wordCount": 2032,
+          "title": "DarkSide ransomware gang quits after servers, Bitcoin stash seized"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27154577",
           "author": "EndXA",
-          "description": "Article URL: https://missing.csail.mit.edu/\nComments URL: https://news.ycombinator.com/item?id=27154577\nPoints: 82\n# Comments: 15",
+          "description": "Article URL: https://missing.csail.mit.edu/\nComments URL: https://news.ycombinator.com/item?id=27154577\nPoints: 128\n# Comments: 92",
           "link": "https://missing.csail.mit.edu/",
           "publishedOn": "2021-05-14T14:16:34.000Z",
           "wordCount": 365,
@@ -53,79 +89,52 @@
         {
           "id": "https://news.ycombinator.com/item?id=27154534",
           "author": "superjared",
-          "description": "Article URL: https://github.com/lucky/bad_actor_poc\nComments URL: https://news.ycombinator.com/item?id=27154534\nPoints: 32\n# Comments: 7",
+          "description": "Article URL: https://github.com/lucky/bad_actor_poc\nComments URL: https://news.ycombinator.com/item?id=27154534\nPoints: 74\n# Comments: 40",
           "link": "https://github.com/lucky/bad_actor_poc",
           "publishedOn": "2021-05-14T14:12:34.000Z",
           "wordCount": 705,
           "title": "Using Rust Macros to exfiltrate secrets"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27154469",
-          "author": "doener",
-          "description": "Article URL: https://typesense.org/\nComments URL: https://news.ycombinator.com/item?id=27154469\nPoints: 56\n# Comments: 14",
-          "link": "https://typesense.org/",
-          "publishedOn": "2021-05-14T14:06:16.000Z",
-          "wordCount": 546,
-          "title": "Fast, Open Source Search"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27154412",
-          "author": "farleykr",
-          "description": "Hi all, I'm looking for some good talks on typography.  What do you think are the most helpful talks on typography?  Or which did you learn the most from?\nComments URL: https://news.ycombinator.com/item?id=27154412\nPoints: 28\n# Comments: 11",
-          "link": "https://news.ycombinator.com/item?id=27154412",
-          "publishedOn": "2021-05-14T14:01:58.000Z",
-          "wordCount": 702,
-          "title": "Ask HN: What are the best typography talks?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27154320",
-          "author": "turtlegrids",
-          "description": "Article URL: https://www.washingtonpost.com/local/obituaries/spencer-silver-dead/2021/05/13/5ad35534-b406-11eb-ab43-bebddc5a0f65_story.html\nComments URL: https://news.ycombinator.com/item?id=27154320\nPoints: 39\n# Comments: 4",
-          "link": "https://www.washingtonpost.com/local/obituaries/spencer-silver-dead/2021/05/13/5ad35534-b406-11eb-ab43-bebddc5a0f65_story.html",
-          "publishedOn": "2021-05-14T13:53:37.000Z",
-          "wordCount": 1159,
-          "title": "Spencer Silver, inventor behind the Post-it Note, has died"
+          "id": "https://news.ycombinator.com/item?id=27154368",
+          "author": "Dowwie",
+          "description": "Article URL: https://bfi.uchicago.edu/working-paper/2021-56/\nComments URL: https://news.ycombinator.com/item?id=27154368\nPoints: 16\n# Comments: 14",
+          "link": "https://bfi.uchicago.edu/working-paper/2021-56/",
+          "publishedOn": "2021-05-14T13:58:39.000Z",
+          "wordCount": 362,
+          "title": "Work from Home and Productivity"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27154309",
-          "author": "growflow",
+          "author": "AllanFischMB",
           "description": "We are Allan, CJ and Jesus, co-founders of Moonshot Brands (https://www.moonshotbrands.com/). We offer e-commerce founders a simple way to sell their companies, which we then grow.\nThe story behind this began several years ago when CJ and I were trying to sell our e-commerce companies. The process was the most stressful experience of our lives. Drawn-out negotiations. Terrible payment terms. The buyers wanted us gone. We lived with a fear that the businesses we worked so hard to build would be sucked dry an…",
           "link": "https://news.ycombinator.com/item?id=27154309",
           "publishedOn": "2021-05-14T13:52:58.000Z",
-          "wordCount": 2907,
+          "wordCount": 3601,
           "title": "Launch HN: Moonshot Brands (YC W21) – We buy and grow e-commerce companies"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27154266",
           "author": "diplodocusaur",
-          "description": "Article URL: https://www.reddit.com/r/scihub/comments/awlc4s/full_archive/\nComments URL: https://news.ycombinator.com/item?id=27154266\nPoints: 99\n# Comments: 6",
-          "link": "https://www.reddit.com/r/scihub/comments/awlc4s/full_archive/",
+          "description": "Article URL: https://old.reddit.com/r/DataHoarder/comments/nc27fv/rescue_mission_for_scihub_and_open_science_we_are/\nComments URL: https://news.ycombinator.com/item?id=27154266\nPoints: 150\n# Comments: 13",
+          "link": "https://old.reddit.com/r/DataHoarder/comments/nc27fv/rescue_mission_for_scihub_and_open_science_we_are/",
           "publishedOn": "2021-05-14T13:48:45.000Z",
-          "wordCount": 250,
-          "title": "Sci-Hub Archive (2019)"
+          "wordCount": 6359,
+          "title": "Rescue Mission for Sci-Hub and Open Science: We are the library"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27153279",
-          "author": "mardiyah",
-          "description": "Article URL: https://www.forbes.com/sites/michaeltaylor/2021/05/13/ev-range-breakthrough-as-new-aluminum-ion-battery-charges-60-times-faster-than-lithium-ion/\nComments URL: https://news.ycombinator.com/item?id=27153279\nPoints: 84\n# Comments: 58",
-          "link": "https://www.forbes.com/sites/michaeltaylor/2021/05/13/ev-range-breakthrough-as-new-aluminum-ion-battery-charges-60-times-faster-than-lithium-ion/",
-          "publishedOn": "2021-05-14T12:00:59.000Z",
-          "wordCount": 2250,
-          "title": "EV Range Breakthrough as New Aluminum-Ion Battery Charges 60 Times Faster to Lit"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27153274",
-          "author": "zachwdc",
-          "description": "Article URL: https://www.centaurlabs.com/careers/postdoctoral-machine-learning-engineer\nComments URL: https://news.ycombinator.com/item?id=27153274\nPoints: 1\n# Comments: 0",
-          "link": "https://www.centaurlabs.com/careers/postdoctoral-machine-learning-engineer",
-          "publishedOn": "2021-05-14T12:00:12.000Z",
-          "wordCount": 375,
-          "title": "Centaur Labs (YC W19) is hiring an ML engineer who will also be Brigham postdoc"
+          "id": "https://news.ycombinator.com/item?id=27153254",
+          "author": "herrjemand",
+          "description": "Article URL: https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566\nComments URL: https://news.ycombinator.com/item?id=27153254\nPoints: 127\n# Comments: 152",
+          "link": "https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566",
+          "publishedOn": "2021-05-14T11:57:05.000Z",
+          "wordCount": 1575,
+          "title": "Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27152968",
           "author": "mrzool",
-          "description": "Article URL: https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/\nComments URL: https://news.ycombinator.com/item?id=27152968\nPoints: 299\n# Comments: 122",
+          "description": "Article URL: https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/\nComments URL: https://news.ycombinator.com/item?id=27152968\nPoints: 352\n# Comments: 164",
           "link": "https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/",
           "publishedOn": "2021-05-14T11:09:30.000Z",
           "wordCount": 1170,
@@ -134,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27152920",
           "author": "linkdd",
-          "description": "Article URL: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs\nComments URL: https://news.ycombinator.com/item?id=27152920\nPoints: 134\n# Comments: 51",
+          "description": "Article URL: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs\nComments URL: https://news.ycombinator.com/item?id=27152920\nPoints: 157\n# Comments: 90",
           "link": "https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs",
           "publishedOn": "2021-05-14T11:01:06.000Z",
           "wordCount": 886,
@@ -143,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27152785",
           "author": "ramshorst",
-          "description": "Article URL: https://elderguide.com/tech/elderjs/\nComments URL: https://news.ycombinator.com/item?id=27152785\nPoints: 105\n# Comments: 43",
+          "description": "Article URL: https://elderguide.com/tech/elderjs/\nComments URL: https://news.ycombinator.com/item?id=27152785\nPoints: 122\n# Comments: 46",
           "link": "https://elderguide.com/tech/elderjs/",
           "publishedOn": "2021-05-14T10:38:29.000Z",
           "wordCount": 12546,
@@ -152,16 +161,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27152783",
           "author": "de_keyboard",
-          "description": "Article URL: https://www.andy-kirkpatrick.com/articles/view/sleep_tight\nComments URL: https://news.ycombinator.com/item?id=27152783\nPoints: 1\n# Comments: 0",
+          "description": "Article URL: https://www.andy-kirkpatrick.com/articles/view/sleep_tight\nComments URL: https://news.ycombinator.com/item?id=27152783\nPoints: 9\n# Comments: 4",
           "link": "https://www.andy-kirkpatrick.com/articles/view/sleep_tight",
           "publishedOn": "2021-05-14T10:38:24.000Z",
           "wordCount": 3172,
-          "title": "Sleep Tight – Choosing an outdoor sleep system"
+          "title": "Sleep Tight (2008)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27152571",
           "author": "blopeur",
-          "description": "Article URL: http://antirez.com/news/135\nComments URL: https://news.ycombinator.com/item?id=27152571\nPoints: 114\n# Comments: 42",
+          "description": "Article URL: http://antirez.com/news/135\nComments URL: https://news.ycombinator.com/item?id=27152571\nPoints: 128\n# Comments: 48",
           "link": "http://antirez.com/news/135",
           "publishedOn": "2021-05-14T09:56:38.000Z",
           "wordCount": 795,
@@ -170,20 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27152445",
           "author": "imartin2k",
-          "description": "Article URL: https://restofworld.org/2021/azar-match-dating-apps/\nComments URL: https://news.ycombinator.com/item?id=27152445\nPoints: 89\n# Comments: 63",
+          "description": "Article URL: https://restofworld.org/2021/azar-match-dating-apps/\nComments URL: https://news.ycombinator.com/item?id=27152445\nPoints: 100\n# Comments: 73",
           "link": "https://restofworld.org/2021/azar-match-dating-apps/",
           "publishedOn": "2021-05-14T09:33:55.000Z",
-          "wordCount": 1673,
-          "title": "Azar, the Korean Chatroulette-style dating app quietly taking over the world"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27151732",
-          "author": "jupblb",
-          "description": "Article URL: https://github.com/lampepfl/dotty/releases/tag/3.0.0\nComments URL: https://news.ycombinator.com/item?id=27151732\nPoints: 519\n# Comments: 160",
-          "link": "https://github.com/lampepfl/dotty/releases/tag/3.0.0",
-          "publishedOn": "2021-05-14T07:31:33.000Z",
-          "wordCount": 1345,
-          "title": "Scala 3.0"
+          "wordCount": 1652,
+          "title": "Azar, a Korean Chatroulette-style dating app quietly taking over the world"
         }
       ]
     },
@@ -713,6 +713,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "609e8c2162ab9107fe5aa77d",
+          "author": "",
+          "description": "Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if",
+          "link": "https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/",
+          "publishedOn": "2021-05-14T17:13:14.000Z",
+          "wordCount": 1598,
+          "title": "Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page"
+        },
+        {
           "id": "609414f32cd0545b5e943526",
           "author": "",
           "description": "If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and",
@@ -792,15 +801,6 @@
           "publishedOn": "2021-05-11T17:50:09.000Z",
           "wordCount": 1096,
           "title": "How to Build Beautiful Page Transitions in Angular"
-        },
-        {
-          "id": "609552842cd0545b5e943bcd",
-          "author": "",
-          "description": "The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is",
-          "link": "https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/",
-          "publishedOn": "2021-05-11T17:29:13.000Z",
-          "wordCount": 1373,
-          "title": "How to Get a Job by Building Relationships – Advice from a Senior Software Engineer"
         }
       ]
     }
