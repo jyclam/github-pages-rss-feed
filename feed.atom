@@ -2,21 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T15:14:56.178Z</updated>
+    <updated>2021-05-14T16:28:26.790Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Moving to London as a Software Engineer]]></title>
+        <title type="html"><![CDATA[Rust on the Frontend and Backend]]></title>
+        <id>https://news.ycombinator.com/item?id=27155639</id>
+        <link href="https://blog.abor.dev/p/moonzoon"/>
+        <updated>2021-05-14T15:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.abor.dev/p/moonzoon
+Comments URL: https://news.ycombinator.com/item?id=27155639
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What do you think will come after Kubernetes?]]></title>
+        <id>https://news.ycombinator.com/item?id=27155526</id>
+        <link href="https://news.ycombinator.com/item?id=27155526"/>
+        <updated>2021-05-14T15:49:06.000Z</updated>
+        <summary type="html"><![CDATA[I mean, Kubernetes became a thing after Docker became a thing before(and so on, all the way down to VMs), so it's reasonable to assume that something new will eventually emerge and become the industry-standard.
+Comments URL: https://news.ycombinator.com/item?id=27155526
+Points: 38
+# Comments: 10]]></summary>
+        <author>
+            <name>spIrr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DarkSide Ransomware Gang Quits After Servers, Bitcoin Stash Seized]]></title>
+        <id>https://news.ycombinator.com/item?id=27155497</id>
+        <link href="https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/"/>
+        <updated>2021-05-14T15:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/
+Comments URL: https://news.ycombinator.com/item?id=27155497
+Points: 73
+# Comments: 0]]></summary>
+        <author>
+            <name>feross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving to London for a Tech Job]]></title>
         <id>https://news.ycombinator.com/item?id=27154769</id>
         <link href="https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/"/>
         <updated>2021-05-14T14:35:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/
 Comments URL: https://news.ycombinator.com/item?id=27154769
-Points: 3
-# Comments: 0]]></summary>
+Points: 67
+# Comments: 68]]></summary>
         <author>
             <name>andrewstetsenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Missing Semester of CS Education]]></title>
+        <id>https://news.ycombinator.com/item?id=27154577</id>
+        <link href="https://missing.csail.mit.edu/"/>
+        <updated>2021-05-14T14:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://missing.csail.mit.edu/
+Comments URL: https://news.ycombinator.com/item?id=27154577
+Points: 82
+# Comments: 15]]></summary>
+        <author>
+            <name>EndXA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
+        <id>https://css-tricks.com/?p=340343</id>
+        <link href="https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/"/>
+        <updated>2021-05-14T14:14:34.000Z</updated>
+        <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
+$variable: 'test' !default;
+To the Sass compiler, this line &#8230;
+The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Nathan Babcock</name>
         </author>
     </entry>
     <entry>
@@ -32,14 +98,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lightning-Fast, Open Source Search]]></title>
+        <title type="html"><![CDATA[Using Rust Macros to exfiltrate secrets]]></title>
+        <id>https://news.ycombinator.com/item?id=27154534</id>
+        <link href="https://github.com/lucky/bad_actor_poc"/>
+        <updated>2021-05-14T14:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/lucky/bad_actor_poc
+Comments URL: https://news.ycombinator.com/item?id=27154534
+Points: 32
+# Comments: 7]]></summary>
+        <author>
+            <name>superjared</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast, Open Source Search]]></title>
         <id>https://news.ycombinator.com/item?id=27154469</id>
         <link href="https://typesense.org/"/>
         <updated>2021-05-14T14:06:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://typesense.org/
 Comments URL: https://news.ycombinator.com/item?id=27154469
-Points: 26
-# Comments: 4]]></summary>
+Points: 56
+# Comments: 14]]></summary>
         <author>
             <name>doener</name>
         </author>
@@ -51,8 +130,8 @@ Points: 26
         <updated>2021-05-14T14:01:58.000Z</updated>
         <summary type="html"><![CDATA[Hi all, I'm looking for some good talks on typography.  What do you think are the most helpful talks on typography?  Or which did you learn the most from?
 Comments URL: https://news.ycombinator.com/item?id=27154412
-Points: 13
-# Comments: 0]]></summary>
+Points: 28
+# Comments: 11]]></summary>
         <author>
             <name>farleykr</name>
         </author>
@@ -64,8 +143,8 @@ Points: 13
         <updated>2021-05-14T13:53:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/local/obituaries/spencer-silver-dead/2021/05/13/5ad35534-b406-11eb-ab43-bebddc5a0f65_story.html
 Comments URL: https://news.ycombinator.com/item?id=27154320
-Points: 22
-# Comments: 2]]></summary>
+Points: 39
+# Comments: 4]]></summary>
         <author>
             <name>turtlegrids</name>
         </author>
@@ -76,35 +155,22 @@ Points: 22
         <link href="https://news.ycombinator.com/item?id=27154309"/>
         <updated>2021-05-14T13:52:58.000Z</updated>
         <summary type="html"><![CDATA[We are Allan, CJ and Jesus, co-founders of Moonshot Brands (https://www.moonshotbrands.com/). We offer e-commerce founders a simple way to sell their companies, which we then grow.
-The story behind this began several years ago when CJ and I were trying to sell our e-commerce companies. The process was the most stressful experience of our lives! Drawn-out negotiations. Terrible payment terms. The buyers wanted us gone. We lived with a fear that the businesses we worked so hard to build would be sucked dry an…]]></summary>
+The story behind this began several years ago when CJ and I were trying to sell our e-commerce companies. The process was the most stressful experience of our lives. Drawn-out negotiations. Terrible payment terms. The buyers wanted us gone. We lived with a fear that the businesses we worked so hard to build would be sucked dry an…]]></summary>
         <author>
             <name>growflow</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sci-Hub Archive]]></title>
+        <title type="html"><![CDATA[Sci-Hub Archive (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=27154266</id>
         <link href="https://www.reddit.com/r/scihub/comments/awlc4s/full_archive/"/>
         <updated>2021-05-14T13:48:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/scihub/comments/awlc4s/full_archive/
 Comments URL: https://news.ycombinator.com/item?id=27154266
-Points: 59
-# Comments: 4]]></summary>
+Points: 99
+# Comments: 6]]></summary>
         <author>
             <name>diplodocusaur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The IRS Is Coming for Crypto Investors Who Haven’t Paid Their Taxes]]></title>
-        <id>https://news.ycombinator.com/item?id=27153692</id>
-        <link href="https://www.wsj.com/articles/bitcoin-irs-comes-for-crypto-investors-who-havent-paid-their-taxes-11620937095"/>
-        <updated>2021-05-14T12:52:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/bitcoin-irs-comes-for-crypto-investors-who-havent-paid-their-taxes-11620937095
-Comments URL: https://news.ycombinator.com/item?id=27153692
-Points: 79
-# Comments: 85]]></summary>
-        <author>
-            <name>chollida1</name>
         </author>
     </entry>
     <entry>
@@ -114,8 +180,8 @@ Points: 79
         <updated>2021-05-14T12:00:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/michaeltaylor/2021/05/13/ev-range-breakthrough-as-new-aluminum-ion-battery-charges-60-times-faster-than-lithium-ion/
 Comments URL: https://news.ycombinator.com/item?id=27153279
-Points: 70
-# Comments: 31]]></summary>
+Points: 84
+# Comments: 58]]></summary>
         <author>
             <name>mardiyah</name>
         </author>
@@ -134,27 +200,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea]]></title>
-        <id>https://news.ycombinator.com/item?id=27153254</id>
-        <link href="https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566"/>
-        <updated>2021-05-14T11:57:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566
-Comments URL: https://news.ycombinator.com/item?id=27153254
-Points: 106
-# Comments: 108]]></summary>
-        <author>
-            <name>herrjemand</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FBI Has Gained Access to Sci-Hub Founder's Apple Account, Email Claims]]></title>
         <id>https://news.ycombinator.com/item?id=27152968</id>
         <link href="https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/"/>
         <updated>2021-05-14T11:09:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/
 Comments URL: https://news.ycombinator.com/item?id=27152968
-Points: 224
-# Comments: 81]]></summary>
+Points: 299
+# Comments: 122]]></summary>
         <author>
             <name>mrzool</name>
         </author>
@@ -166,8 +219,8 @@ Points: 224
         <updated>2021-05-14T11:01:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs
 Comments URL: https://news.ycombinator.com/item?id=27152920
-Points: 104
-# Comments: 28]]></summary>
+Points: 134
+# Comments: 51]]></summary>
         <author>
             <name>linkdd</name>
         </author>
@@ -179,10 +232,23 @@ Points: 104
         <updated>2021-05-14T10:38:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://elderguide.com/tech/elderjs/
 Comments URL: https://news.ycombinator.com/item?id=27152785
-Points: 91
-# Comments: 38]]></summary>
+Points: 105
+# Comments: 43]]></summary>
         <author>
             <name>ramshorst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sleep Tight – Choosing an outdoor sleep system]]></title>
+        <id>https://news.ycombinator.com/item?id=27152783</id>
+        <link href="https://www.andy-kirkpatrick.com/articles/view/sleep_tight"/>
+        <updated>2021-05-14T10:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.andy-kirkpatrick.com/articles/view/sleep_tight
+Comments URL: https://news.ycombinator.com/item?id=27152783
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>de_keyboard</name>
         </author>
     </entry>
     <entry>
@@ -202,8 +268,8 @@ Points: 91
         <updated>2021-05-14T09:56:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://antirez.com/news/135
 Comments URL: https://news.ycombinator.com/item?id=27152571
-Points: 94
-# Comments: 29]]></summary>
+Points: 114
+# Comments: 42]]></summary>
         <author>
             <name>blopeur</name>
         </author>
@@ -215,23 +281,10 @@ Points: 94
         <updated>2021-05-14T09:33:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://restofworld.org/2021/azar-match-dating-apps/
 Comments URL: https://news.ycombinator.com/item?id=27152445
-Points: 68
-# Comments: 45]]></summary>
+Points: 89
+# Comments: 63]]></summary>
         <author>
             <name>imartin2k</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irish health service hit by cyber attack]]></title>
-        <id>https://news.ycombinator.com/item?id=27152402</id>
-        <link href="https://www.bbc.co.uk/news/world-europe-57111615"/>
-        <updated>2021-05-14T09:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-europe-57111615
-Comments URL: https://news.ycombinator.com/item?id=27152402
-Points: 134
-# Comments: 111]]></summary>
-        <author>
-            <name>kjakm</name>
         </author>
     </entry>
     <entry>
@@ -241,49 +294,10 @@ Points: 134
         <updated>2021-05-14T07:31:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/lampepfl/dotty/releases/tag/3.0.0
 Comments URL: https://news.ycombinator.com/item?id=27151732
-Points: 449
-# Comments: 142]]></summary>
+Points: 519
+# Comments: 160]]></summary>
         <author>
             <name>jupblb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A paradigm shift to combat indoor respiratory infection]]></title>
-        <id>https://news.ycombinator.com/item?id=27151407</id>
-        <link href="https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view"/>
-        <updated>2021-05-14T06:36:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view
-Comments URL: https://news.ycombinator.com/item?id=27151407
-Points: 103
-# Comments: 78]]></summary>
-        <author>
-            <name>edward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ads Are Impersonating Government Websites in Google Results, Despite Ban]]></title>
-        <id>https://news.ycombinator.com/item?id=27150407</id>
-        <link href="https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban"/>
-        <updated>2021-05-14T03:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban
-Comments URL: https://news.ycombinator.com/item?id=27150407
-Points: 370
-# Comments: 169]]></summary>
-        <author>
-            <name>atg_abhishek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tried Nvidia’s GTX 1080 – still no external GPU on a Pi]]></title>
-        <id>https://news.ycombinator.com/item?id=27149635</id>
-        <link href="https://www.jeffgeerling.com/blog/2021/tried-nvidias-gtx-1080-still-no-external-gpu-on-pi"/>
-        <updated>2021-05-14T01:33:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/tried-nvidias-gtx-1080-still-no-external-gpu-on-pi
-Comments URL: https://news.ycombinator.com/item?id=27149635
-Points: 104
-# Comments: 38]]></summary>
-        <author>
-            <name>geerlingguy</name>
         </author>
     </entry>
     <entry>
@@ -633,18 +647,6 @@ Chore: Excluded testing files from repo.]]></summary>
         <updated>2021-05-07T13:56:17.000Z</updated>
         <summary type="html"><![CDATA[I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;
 The post Is CSS a Programming Language? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Typography]]></title>
-        <id>https://css-tricks.com/?p=339574</id>
-        <link href="https://css-tricks.com/links-on-typography/"/>
-        <updated>2021-05-07T13:54:01.000Z</updated>
-        <summary type="html"><![CDATA[These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.
-The post Links on Typography appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>

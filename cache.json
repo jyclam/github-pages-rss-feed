@@ -6,36 +6,81 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27155639",
+          "author": "lukastyrychtr",
+          "description": "Article URL: https://blog.abor.dev/p/moonzoon\nComments URL: https://news.ycombinator.com/item?id=27155639\nPoints: 11\n# Comments: 0",
+          "link": "https://blog.abor.dev/p/moonzoon",
+          "publishedOn": "2021-05-14T15:57:15.000Z",
+          "wordCount": 2574,
+          "title": "Rust on the Frontend and Backend"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27155526",
+          "author": "spIrr",
+          "description": "I mean, Kubernetes became a thing after Docker became a thing before(and so on, all the way down to VMs), so it's reasonable to assume that something new will eventually emerge and become the industry-standard.\nComments URL: https://news.ycombinator.com/item?id=27155526\nPoints: 38\n# Comments: 10",
+          "link": "https://news.ycombinator.com/item?id=27155526",
+          "publishedOn": "2021-05-14T15:49:06.000Z",
+          "wordCount": 2587,
+          "title": "Ask HN: What do you think will come after Kubernetes?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27155497",
+          "author": "feross",
+          "description": "Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/\nComments URL: https://news.ycombinator.com/item?id=27155497\nPoints: 73\n# Comments: 0",
+          "link": "https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/",
+          "publishedOn": "2021-05-14T15:47:30.000Z",
+          "wordCount": 1043,
+          "title": "DarkSide Ransomware Gang Quits After Servers, Bitcoin Stash Seized"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27154769",
           "author": "andrewstetsenko",
-          "description": "Article URL: https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/\nComments URL: https://news.ycombinator.com/item?id=27154769\nPoints: 3\n# Comments: 0",
+          "description": "Article URL: https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/\nComments URL: https://news.ycombinator.com/item?id=27154769\nPoints: 67\n# Comments: 68",
           "link": "https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/",
           "publishedOn": "2021-05-14T14:35:58.000Z",
-          "wordCount": 3726,
-          "title": "Moving to London as a Software Engineer"
+          "wordCount": 3723,
+          "title": "Moving to London for a Tech Job"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27154577",
+          "author": "EndXA",
+          "description": "Article URL: https://missing.csail.mit.edu/\nComments URL: https://news.ycombinator.com/item?id=27154577\nPoints: 82\n# Comments: 15",
+          "link": "https://missing.csail.mit.edu/",
+          "publishedOn": "2021-05-14T14:16:34.000Z",
+          "wordCount": 365,
+          "title": "The Missing Semester of CS Education"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27154534",
+          "author": "superjared",
+          "description": "Article URL: https://github.com/lucky/bad_actor_poc\nComments URL: https://news.ycombinator.com/item?id=27154534\nPoints: 32\n# Comments: 7",
+          "link": "https://github.com/lucky/bad_actor_poc",
+          "publishedOn": "2021-05-14T14:12:34.000Z",
+          "wordCount": 705,
+          "title": "Using Rust Macros to exfiltrate secrets"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27154469",
           "author": "doener",
-          "description": "Article URL: https://typesense.org/\nComments URL: https://news.ycombinator.com/item?id=27154469\nPoints: 26\n# Comments: 4",
+          "description": "Article URL: https://typesense.org/\nComments URL: https://news.ycombinator.com/item?id=27154469\nPoints: 56\n# Comments: 14",
           "link": "https://typesense.org/",
           "publishedOn": "2021-05-14T14:06:16.000Z",
           "wordCount": 546,
-          "title": "Lightning-Fast, Open Source Search"
+          "title": "Fast, Open Source Search"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27154412",
           "author": "farleykr",
-          "description": "Hi all, I'm looking for some good talks on typography.  What do you think are the most helpful talks on typography?  Or which did you learn the most from?\nComments URL: https://news.ycombinator.com/item?id=27154412\nPoints: 13\n# Comments: 0",
+          "description": "Hi all, I'm looking for some good talks on typography.  What do you think are the most helpful talks on typography?  Or which did you learn the most from?\nComments URL: https://news.ycombinator.com/item?id=27154412\nPoints: 28\n# Comments: 11",
           "link": "https://news.ycombinator.com/item?id=27154412",
           "publishedOn": "2021-05-14T14:01:58.000Z",
-          "wordCount": 376,
+          "wordCount": 702,
           "title": "Ask HN: What are the best typography talks?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27154320",
           "author": "turtlegrids",
-          "description": "Article URL: https://www.washingtonpost.com/local/obituaries/spencer-silver-dead/2021/05/13/5ad35534-b406-11eb-ab43-bebddc5a0f65_story.html\nComments URL: https://news.ycombinator.com/item?id=27154320\nPoints: 22\n# Comments: 2",
+          "description": "Article URL: https://www.washingtonpost.com/local/obituaries/spencer-silver-dead/2021/05/13/5ad35534-b406-11eb-ab43-bebddc5a0f65_story.html\nComments URL: https://news.ycombinator.com/item?id=27154320\nPoints: 39\n# Comments: 4",
           "link": "https://www.washingtonpost.com/local/obituaries/spencer-silver-dead/2021/05/13/5ad35534-b406-11eb-ab43-bebddc5a0f65_story.html",
           "publishedOn": "2021-05-14T13:53:37.000Z",
           "wordCount": 1159,
@@ -44,37 +89,28 @@
         {
           "id": "https://news.ycombinator.com/item?id=27154309",
           "author": "growflow",
-          "description": "We are Allan, CJ and Jesus, co-founders of Moonshot Brands (https://www.moonshotbrands.com/). We offer e-commerce founders a simple way to sell their companies, which we then grow.\nThe story behind this began several years ago when CJ and I were trying to sell our e-commerce companies. The process was the most stressful experience of our lives! Drawn-out negotiations. Terrible payment terms. The buyers wanted us gone. We lived with a fear that the businesses we worked so hard to build would be sucked dry an…",
+          "description": "We are Allan, CJ and Jesus, co-founders of Moonshot Brands (https://www.moonshotbrands.com/). We offer e-commerce founders a simple way to sell their companies, which we then grow.\nThe story behind this began several years ago when CJ and I were trying to sell our e-commerce companies. The process was the most stressful experience of our lives. Drawn-out negotiations. Terrible payment terms. The buyers wanted us gone. We lived with a fear that the businesses we worked so hard to build would be sucked dry an…",
           "link": "https://news.ycombinator.com/item?id=27154309",
           "publishedOn": "2021-05-14T13:52:58.000Z",
-          "wordCount": 1186,
+          "wordCount": 2907,
           "title": "Launch HN: Moonshot Brands (YC W21) – We buy and grow e-commerce companies"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27154266",
           "author": "diplodocusaur",
-          "description": "Article URL: https://www.reddit.com/r/scihub/comments/awlc4s/full_archive/\nComments URL: https://news.ycombinator.com/item?id=27154266\nPoints: 59\n# Comments: 4",
+          "description": "Article URL: https://www.reddit.com/r/scihub/comments/awlc4s/full_archive/\nComments URL: https://news.ycombinator.com/item?id=27154266\nPoints: 99\n# Comments: 6",
           "link": "https://www.reddit.com/r/scihub/comments/awlc4s/full_archive/",
           "publishedOn": "2021-05-14T13:48:45.000Z",
           "wordCount": 250,
-          "title": "Sci-Hub Archive"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27153692",
-          "author": "chollida1",
-          "description": "Article URL: https://www.wsj.com/articles/bitcoin-irs-comes-for-crypto-investors-who-havent-paid-their-taxes-11620937095\nComments URL: https://news.ycombinator.com/item?id=27153692\nPoints: 79\n# Comments: 85",
-          "link": "https://www.wsj.com/articles/bitcoin-irs-comes-for-crypto-investors-who-havent-paid-their-taxes-11620937095",
-          "publishedOn": "2021-05-14T12:52:44.000Z",
-          "wordCount": 1306,
-          "title": "The IRS Is Coming for Crypto Investors Who Haven’t Paid Their Taxes"
+          "title": "Sci-Hub Archive (2019)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27153279",
           "author": "mardiyah",
-          "description": "Article URL: https://www.forbes.com/sites/michaeltaylor/2021/05/13/ev-range-breakthrough-as-new-aluminum-ion-battery-charges-60-times-faster-than-lithium-ion/\nComments URL: https://news.ycombinator.com/item?id=27153279\nPoints: 70\n# Comments: 31",
+          "description": "Article URL: https://www.forbes.com/sites/michaeltaylor/2021/05/13/ev-range-breakthrough-as-new-aluminum-ion-battery-charges-60-times-faster-than-lithium-ion/\nComments URL: https://news.ycombinator.com/item?id=27153279\nPoints: 84\n# Comments: 58",
           "link": "https://www.forbes.com/sites/michaeltaylor/2021/05/13/ev-range-breakthrough-as-new-aluminum-ion-battery-charges-60-times-faster-than-lithium-ion/",
           "publishedOn": "2021-05-14T12:00:59.000Z",
-          "wordCount": 2251,
+          "wordCount": 2250,
           "title": "EV Range Breakthrough as New Aluminum-Ion Battery Charges 60 Times Faster to Lit"
         },
         {
@@ -87,18 +123,9 @@
           "title": "Centaur Labs (YC W19) is hiring an ML engineer who will also be Brigham postdoc"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27153254",
-          "author": "herrjemand",
-          "description": "Article URL: https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566\nComments URL: https://news.ycombinator.com/item?id=27153254\nPoints: 106\n# Comments: 108",
-          "link": "https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566",
-          "publishedOn": "2021-05-14T11:57:05.000Z",
-          "wordCount": 1575,
-          "title": "Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27152968",
           "author": "mrzool",
-          "description": "Article URL: https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/\nComments URL: https://news.ycombinator.com/item?id=27152968\nPoints: 224\n# Comments: 81",
+          "description": "Article URL: https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/\nComments URL: https://news.ycombinator.com/item?id=27152968\nPoints: 299\n# Comments: 122",
           "link": "https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/",
           "publishedOn": "2021-05-14T11:09:30.000Z",
           "wordCount": 1170,
@@ -107,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27152920",
           "author": "linkdd",
-          "description": "Article URL: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs\nComments URL: https://news.ycombinator.com/item?id=27152920\nPoints: 104\n# Comments: 28",
+          "description": "Article URL: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs\nComments URL: https://news.ycombinator.com/item?id=27152920\nPoints: 134\n# Comments: 51",
           "link": "https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs",
           "publishedOn": "2021-05-14T11:01:06.000Z",
           "wordCount": 886,
@@ -116,16 +143,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27152785",
           "author": "ramshorst",
-          "description": "Article URL: https://elderguide.com/tech/elderjs/\nComments URL: https://news.ycombinator.com/item?id=27152785\nPoints: 91\n# Comments: 38",
+          "description": "Article URL: https://elderguide.com/tech/elderjs/\nComments URL: https://news.ycombinator.com/item?id=27152785\nPoints: 105\n# Comments: 43",
           "link": "https://elderguide.com/tech/elderjs/",
           "publishedOn": "2021-05-14T10:38:29.000Z",
           "wordCount": 12546,
           "title": "Elder.js – An Opinionated, SEO Focused, Svelte Framework"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27152783",
+          "author": "de_keyboard",
+          "description": "Article URL: https://www.andy-kirkpatrick.com/articles/view/sleep_tight\nComments URL: https://news.ycombinator.com/item?id=27152783\nPoints: 1\n# Comments: 0",
+          "link": "https://www.andy-kirkpatrick.com/articles/view/sleep_tight",
+          "publishedOn": "2021-05-14T10:38:24.000Z",
+          "wordCount": 3172,
+          "title": "Sleep Tight – Choosing an outdoor sleep system"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27152571",
           "author": "blopeur",
-          "description": "Article URL: http://antirez.com/news/135\nComments URL: https://news.ycombinator.com/item?id=27152571\nPoints: 94\n# Comments: 29",
+          "description": "Article URL: http://antirez.com/news/135\nComments URL: https://news.ycombinator.com/item?id=27152571\nPoints: 114\n# Comments: 42",
           "link": "http://antirez.com/news/135",
           "publishedOn": "2021-05-14T09:56:38.000Z",
           "wordCount": 795,
@@ -134,56 +170,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27152445",
           "author": "imartin2k",
-          "description": "Article URL: https://restofworld.org/2021/azar-match-dating-apps/\nComments URL: https://news.ycombinator.com/item?id=27152445\nPoints: 68\n# Comments: 45",
+          "description": "Article URL: https://restofworld.org/2021/azar-match-dating-apps/\nComments URL: https://news.ycombinator.com/item?id=27152445\nPoints: 89\n# Comments: 63",
           "link": "https://restofworld.org/2021/azar-match-dating-apps/",
           "publishedOn": "2021-05-14T09:33:55.000Z",
-          "wordCount": 1672,
+          "wordCount": 1673,
           "title": "Azar, the Korean Chatroulette-style dating app quietly taking over the world"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27152402",
-          "author": "kjakm",
-          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-57111615\nComments URL: https://news.ycombinator.com/item?id=27152402\nPoints: 134\n# Comments: 111",
-          "link": "https://www.bbc.co.uk/news/world-europe-57111615",
-          "publishedOn": "2021-05-14T09:26:30.000Z",
-          "wordCount": 1655,
-          "title": "Irish health service hit by cyber attack"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27151732",
           "author": "jupblb",
-          "description": "Article URL: https://github.com/lampepfl/dotty/releases/tag/3.0.0\nComments URL: https://news.ycombinator.com/item?id=27151732\nPoints: 449\n# Comments: 142",
+          "description": "Article URL: https://github.com/lampepfl/dotty/releases/tag/3.0.0\nComments URL: https://news.ycombinator.com/item?id=27151732\nPoints: 519\n# Comments: 160",
           "link": "https://github.com/lampepfl/dotty/releases/tag/3.0.0",
           "publishedOn": "2021-05-14T07:31:33.000Z",
           "wordCount": 1345,
           "title": "Scala 3.0"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27151407",
-          "author": "edward",
-          "description": "Article URL: https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view\nComments URL: https://news.ycombinator.com/item?id=27151407\nPoints: 103\n# Comments: 78",
-          "link": "https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view",
-          "publishedOn": "2021-05-14T06:36:19.000Z",
-          "wordCount": 5,
-          "title": "A paradigm shift to combat indoor respiratory infection"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27150407",
-          "author": "atg_abhishek",
-          "description": "Article URL: https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban\nComments URL: https://news.ycombinator.com/item?id=27150407\nPoints: 370\n# Comments: 169",
-          "link": "https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban",
-          "publishedOn": "2021-05-14T03:33:38.000Z",
-          "wordCount": 2736,
-          "title": "Ads Are Impersonating Government Websites in Google Results, Despite Ban"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27149635",
-          "author": "geerlingguy",
-          "description": "Article URL: https://www.jeffgeerling.com/blog/2021/tried-nvidias-gtx-1080-still-no-external-gpu-on-pi\nComments URL: https://news.ycombinator.com/item?id=27149635\nPoints: 104\n# Comments: 38",
-          "link": "https://www.jeffgeerling.com/blog/2021/tried-nvidias-gtx-1080-still-no-external-gpu-on-pi",
-          "publishedOn": "2021-05-14T01:33:43.000Z",
-          "wordCount": 474,
-          "title": "Tried Nvidia’s GTX 1080 – still no external GPU on a Pi"
         }
       ]
     },
@@ -330,6 +330,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340343",
+          "author": "Nathan Babcock",
+          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line &#8230;\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
+          "publishedOn": "2021-05-14T14:14:34.000Z",
+          "wordCount": 1344,
+          "title": "Creating Stylesheet Feature Flags With Sass !default"
+        },
+        {
           "id": "https://css-tricks.com/?p=340403",
           "author": "Chris Coyier",
           "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -454,15 +463,6 @@
           "publishedOn": "2021-05-07T13:56:17.000Z",
           "wordCount": 3774,
           "title": "Is CSS a Programming Language?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339574",
-          "author": "Chris Coyier",
-          "description": "These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.\nThe post Links on Typography appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-typography/",
-          "publishedOn": "2021-05-07T13:54:01.000Z",
-          "wordCount": 952,
-          "title": "Links on Typography"
         }
       ]
     },
