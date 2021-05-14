@@ -2,21 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T23:17:15.229Z</updated>
+    <updated>2021-05-14T00:46:37.226Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Bill C-10 would require YouTube, other platforms to recommend Canadian content]]></title>
-        <id>https://news.ycombinator.com/item?id=27147963</id>
-        <link href="https://www.theglobeandmail.com/politics/article-amendments-to-bill-c-10-would-require-youtube-other-platforms-to/"/>
-        <updated>2021-05-13T21:52:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theglobeandmail.com/politics/article-amendments-to-bill-c-10-would-require-youtube-other-platforms-to/
-Comments URL: https://news.ycombinator.com/item?id=27147963
-Points: 7
-# Comments: 8]]></summary>
+        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
+        <id>https://css-tricks.com/?p=340490</id>
+        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
+        <updated>2021-05-13T23:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
+Firefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector 
+&#8230;
+The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>throwawaysea</name>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BackBlaze: Privacy Update: Third-Party Tracking]]></title>
+        <id>https://news.ycombinator.com/item?id=27148593</id>
+        <link href="https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13"/>
+        <updated>2021-05-13T23:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13
+Comments URL: https://news.ycombinator.com/item?id=27148593
+Points: 84
+# Comments: 9]]></summary>
+        <author>
+            <name>busymom0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Brain Maps Out Ideas and Memories Like Spaces]]></title>
+        <id>https://news.ycombinator.com/item?id=27148529</id>
+        <link href="https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/"/>
+        <updated>2021-05-13T22:56:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/
+Comments URL: https://news.ycombinator.com/item?id=27148529
+Points: 21
+# Comments: 0]]></summary>
+        <author>
+            <name>andyxor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Design Systems (Survey/Courses)]]></title>
+        <id>https://css-tricks.com/?p=340573</id>
+        <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
+        <updated>2021-05-13T22:55:35.000Z</updated>
+        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;
+The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microfarms come to South L.A. frontyards, bringing fresh produce to food deserts]]></title>
+        <id>https://news.ycombinator.com/item?id=27148435</id>
+        <link href="https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce"/>
+        <updated>2021-05-13T22:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce
+Comments URL: https://news.ycombinator.com/item?id=27148435
+Points: 8
+# Comments: 3]]></summary>
+        <author>
+            <name>clairity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How SpaceX lands Starship (sort of)]]></title>
+        <id>https://news.ycombinator.com/item?id=27148296</id>
+        <link href="https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b"/>
+        <updated>2021-05-13T22:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b
+Comments URL: https://news.ycombinator.com/item?id=27148296
+Points: 53
+# Comments: 3]]></summary>
+        <author>
+            <name>zeristor</name>
         </author>
     </entry>
     <entry>
@@ -36,8 +101,8 @@ Points: 7
         <updated>2021-05-13T21:07:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fly.io/blog/measuring-fly/
 Comments URL: https://news.ycombinator.com/item?id=27147482
-Points: 62
-# Comments: 20]]></summary>
+Points: 88
+# Comments: 34]]></summary>
         <author>
             <name>elithrar</name>
         </author>
@@ -62,8 +127,8 @@ Points: 1
         <updated>2021-05-13T20:26:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://souradip.mookerj.ee/blog/free-sequencing
 Comments URL: https://news.ycombinator.com/item?id=27146975
-Points: 54
-# Comments: 33]]></summary>
+Points: 68
+# Comments: 48]]></summary>
         <author>
             <name>souradip</name>
         </author>
@@ -85,8 +150,8 @@ Points: 54
         <updated>2021-05-13T18:59:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fingerprintjs.com/blog/external-protocol-flooding/
 Comments URL: https://news.ycombinator.com/item?id=27145911
-Points: 199
-# Comments: 104]]></summary>
+Points: 252
+# Comments: 130]]></summary>
         <author>
             <name>danpinto</name>
         </author>
@@ -98,8 +163,8 @@ Points: 199
         <updated>2021-05-13T18:28:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://observablehq.com/@asg017/introducing-dataflow
 Comments URL: https://news.ycombinator.com/item?id=27145515
-Points: 126
-# Comments: 37]]></summary>
+Points: 140
+# Comments: 42]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -111,8 +176,8 @@ Points: 126
         <updated>2021-05-13T18:27:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap
 Comments URL: https://news.ycombinator.com/item?id=27145504
-Points: 55
-# Comments: 191]]></summary>
+Points: 68
+# Comments: 212]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -134,8 +199,8 @@ Points: 55
         <updated>2021-05-13T18:06:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing
 Comments URL: https://news.ycombinator.com/item?id=27145263
-Points: 406
-# Comments: 153]]></summary>
+Points: 455
+# Comments: 174]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -147,8 +212,8 @@ Points: 406
         <updated>2021-05-13T18:04:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html
 Comments URL: https://news.ycombinator.com/item?id=27145230
-Points: 251
-# Comments: 352]]></summary>
+Points: 296
+# Comments: 414]]></summary>
         <author>
             <name>awb</name>
         </author>
@@ -160,8 +225,8 @@ Points: 251
         <updated>2021-05-13T17:39:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.courier.com/blog/the-three-things-to-never-build-in-your-app
 Comments URL: https://news.ycombinator.com/item?id=27144930
-Points: 133
-# Comments: 138]]></summary>
+Points: 153
+# Comments: 155]]></summary>
         <author>
             <name>troygoode</name>
         </author>
@@ -173,8 +238,8 @@ Points: 133
         <updated>2021-05-13T17:26:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stefanzukin.com/enigma/
 Comments URL: https://news.ycombinator.com/item?id=27144764
-Points: 123
-# Comments: 73]]></summary>
+Points: 135
+# Comments: 82]]></summary>
         <author>
             <name>MrUssek</name>
         </author>
@@ -186,8 +251,8 @@ Points: 123
         <updated>2021-05-13T17:08:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developers.notion.so
 Comments URL: https://news.ycombinator.com/item?id=27144566
-Points: 356
-# Comments: 173]]></summary>
+Points: 382
+# Comments: 185]]></summary>
         <author>
             <name>cristinacordova</name>
         </author>
@@ -209,8 +274,8 @@ Points: 356
         <updated>2021-05-13T16:17:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://avc.com/2021/05/golden-handcuffs-2/
 Comments URL: https://news.ycombinator.com/item?id=27143898
-Points: 74
-# Comments: 130]]></summary>
+Points: 92
+# Comments: 140]]></summary>
         <author>
             <name>bitsweet</name>
         </author>
@@ -233,8 +298,8 @@ We think product copy is one of the highest ROI aspects of product development t
         <updated>2021-05-13T14:47:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/programmes/m000tmm1
 Comments URL: https://news.ycombinator.com/item?id=27142663
-Points: 48
-# Comments: 24]]></summary>
+Points: 59
+# Comments: 26]]></summary>
         <author>
             <name>open-source-ux</name>
         </author>
@@ -246,8 +311,8 @@ Points: 48
         <updated>2021-05-13T14:26:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom
 Comments URL: https://news.ycombinator.com/item?id=27142407
-Points: 240
-# Comments: 261]]></summary>
+Points: 282
+# Comments: 310]]></summary>
         <author>
             <name>longdefeat</name>
         </author>
@@ -283,49 +348,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-13T13:58:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hexo.press
 Comments URL: https://news.ycombinator.com/item?id=27142146
-Points: 123
-# Comments: 41]]></summary>
+Points: 132
+# Comments: 43]]></summary>
         <author>
             <name>lewisjoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Learn Python the Right Way – free introduction to Python book]]></title>
-        <id>https://news.ycombinator.com/item?id=27141644</id>
-        <link href="https://learnpythontherightway.com"/>
-        <updated>2021-05-13T13:08:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://learnpythontherightway.com
-Comments URL: https://news.ycombinator.com/item?id=27141644
-Points: 171
-# Comments: 52]]></summary>
-        <author>
-            <name>sixhobbits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[By eating them, hyenas gathered 9 Neanderthal skeletons in one cave]]></title>
-        <id>https://news.ycombinator.com/item?id=27141556</id>
-        <link href="https://arstechnica.com/science/2021/05/archaeologists-found-9-neanderthal-skeletons-in-an-italian-cave/"/>
-        <updated>2021-05-13T12:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/archaeologists-found-9-neanderthal-skeletons-in-an-italian-cave/
-Comments URL: https://news.ycombinator.com/item?id=27141556
-Points: 21
-# Comments: 15]]></summary>
-        <author>
-            <name>gmays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lets Lisp like it's 1959 (2019) [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27141524</id>
-        <link href="https://www.youtube.com/watch?v=hGY3uBHVVr4"/>
-        <updated>2021-05-13T12:53:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=hGY3uBHVVr4
-Comments URL: https://news.ycombinator.com/item?id=27141524
-Points: 44
-# Comments: 1]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -622,32 +648,6 @@ The post Can I Email&#8230; appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apparently, You Can Use Route53 as a Blazingly Fast Database]]></title>
-        <id>https://css-tricks.com/?p=340015</id>
-        <link href="https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005"/>
-        <updated>2021-05-06T20:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:
-When you think about it, DNS configuration is actually a 
-&#8230;
-The post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Google’s New Page Experience Update Means for Images on Your Website]]></title>
-        <id>https://css-tricks.com/?p=339936</id>
-        <link href="https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/"/>
-        <updated>2021-05-06T19:57:40.000Z</updated>
-        <summary type="html"><![CDATA[It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;
-The post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
