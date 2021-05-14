@@ -6,63 +6,90 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27153274",
+          "author": "zachwdc",
+          "description": "Article URL: https://www.centaurlabs.com/careers/postdoctoral-machine-learning-engineer\nComments URL: https://news.ycombinator.com/item?id=27153274\nPoints: 1\n# Comments: 0",
+          "link": "https://www.centaurlabs.com/careers/postdoctoral-machine-learning-engineer",
+          "publishedOn": "2021-05-14T12:00:12.000Z",
+          "wordCount": 375,
+          "title": "Centaur Labs (YC W19) is hiring an ML engineer who will also be Brigham postdoc"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27152968",
+          "author": "mrzool",
+          "description": "Article URL: https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/\nComments URL: https://news.ycombinator.com/item?id=27152968\nPoints: 42\n# Comments: 6",
+          "link": "https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/",
+          "publishedOn": "2021-05-14T11:09:30.000Z",
+          "wordCount": 1170,
+          "title": "FBI Has Gained Access to Sci-Hub Founder's Apple Account, Email Claims"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27152920",
+          "author": "linkdd",
+          "description": "Article URL: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs\nComments URL: https://news.ycombinator.com/item?id=27152920\nPoints: 26\n# Comments: 11",
+          "link": "https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs",
+          "publishedOn": "2021-05-14T11:01:06.000Z",
+          "wordCount": 886,
+          "title": "Rust Weird Expressions"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27152785",
+          "author": "ramshorst",
+          "description": "Article URL: https://elderguide.com/tech/elderjs/\nComments URL: https://news.ycombinator.com/item?id=27152785\nPoints: 33\n# Comments: 17",
+          "link": "https://elderguide.com/tech/elderjs/",
+          "publishedOn": "2021-05-14T10:38:29.000Z",
+          "wordCount": 12546,
+          "title": "Elder.js – An Opinionated, SEO Focused, Svelte Framework"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27152571",
+          "author": "blopeur",
+          "description": "Article URL: http://antirez.com/news/135\nComments URL: https://news.ycombinator.com/item?id=27152571\nPoints: 31\n# Comments: 6",
+          "link": "http://antirez.com/news/135",
+          "publishedOn": "2021-05-14T09:56:38.000Z",
+          "wordCount": 795,
+          "title": "Programming and Writing"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27152445",
           "author": "imartin2k",
-          "description": "Article URL: https://restofworld.org/2021/azar-match-dating-apps/\nComments URL: https://news.ycombinator.com/item?id=27152445\nPoints: 3\n# Comments: 1",
+          "description": "Article URL: https://restofworld.org/2021/azar-match-dating-apps/\nComments URL: https://news.ycombinator.com/item?id=27152445\nPoints: 20\n# Comments: 10",
           "link": "https://restofworld.org/2021/azar-match-dating-apps/",
           "publishedOn": "2021-05-14T09:33:55.000Z",
-          "wordCount": 1668,
+          "wordCount": 1673,
           "title": "Azar, the Korean Chatroulette-style dating app quietly taking over the world"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27152402",
           "author": "kjakm",
-          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-57111615\nComments URL: https://news.ycombinator.com/item?id=27152402\nPoints: 35\n# Comments: 21",
+          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-57111615\nComments URL: https://news.ycombinator.com/item?id=27152402\nPoints: 93\n# Comments: 65",
           "link": "https://www.bbc.co.uk/news/world-europe-57111615",
           "publishedOn": "2021-05-14T09:26:30.000Z",
-          "wordCount": 1552,
+          "wordCount": 1620,
           "title": "Irish health service hit by cyber attack"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27151732",
           "author": "jupblb",
-          "description": "Article URL: https://github.com/lampepfl/dotty/releases/tag/3.0.0\nComments URL: https://news.ycombinator.com/item?id=27151732\nPoints: 222\n# Comments: 69",
+          "description": "Article URL: https://github.com/lampepfl/dotty/releases/tag/3.0.0\nComments URL: https://news.ycombinator.com/item?id=27151732\nPoints: 283\n# Comments: 90",
           "link": "https://github.com/lampepfl/dotty/releases/tag/3.0.0",
           "publishedOn": "2021-05-14T07:31:33.000Z",
           "wordCount": 1345,
           "title": "Scala 3.0"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27151558",
-          "author": "tezclarke",
-          "description": "Article URL: https://www.ycombinator.com/companies/buildstream/jobs/QV84ghp-full-stack-engineer-laravel-bootstrap-js-remote-ok\nComments URL: https://news.ycombinator.com/item?id=27151558\nPoints: 1\n# Comments: 0",
-          "link": "https://www.ycombinator.com/companies/buildstream/jobs/QV84ghp-full-stack-engineer-laravel-bootstrap-js-remote-ok",
-          "publishedOn": "2021-05-14T07:01:00.000Z",
-          "wordCount": 592,
-          "title": "BuildStream (YC S19) Is Hiring"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27151407",
           "author": "edward",
-          "description": "Article URL: https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view\nComments URL: https://news.ycombinator.com/item?id=27151407\nPoints: 65\n# Comments: 44",
+          "description": "Article URL: https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view\nComments URL: https://news.ycombinator.com/item?id=27151407\nPoints: 78\n# Comments: 60",
           "link": "https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view",
           "publishedOn": "2021-05-14T06:36:19.000Z",
           "wordCount": 5,
           "title": "A paradigm shift to combat indoor respiratory infection"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27151370",
-          "author": "rwosync",
-          "description": "Article URL: https://www.ft.com/content/529eb4e6-796a-4e81-8064-5967bbe3b4d9\nComments URL: https://news.ycombinator.com/item?id=27151370\nPoints: 142\n# Comments: 91",
-          "link": "https://www.ft.com/content/529eb4e6-796a-4e81-8064-5967bbe3b4d9",
-          "publishedOn": "2021-05-14T06:30:56.000Z",
-          "wordCount": 967,
-          "title": "Tether reserves backed by 2.9% cash"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27150407",
           "author": "atg_abhishek",
-          "description": "Article URL: https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban\nComments URL: https://news.ycombinator.com/item?id=27150407\nPoints: 233\n# Comments: 119",
+          "description": "Article URL: https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban\nComments URL: https://news.ycombinator.com/item?id=27150407\nPoints: 272\n# Comments: 132",
           "link": "https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban",
           "publishedOn": "2021-05-14T03:33:38.000Z",
           "wordCount": 2736,
@@ -71,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27149635",
           "author": "geerlingguy",
-          "description": "Article URL: https://www.jeffgeerling.com/blog/2021/tried-nvidias-gtx-1080-still-no-external-gpu-on-pi\nComments URL: https://news.ycombinator.com/item?id=27149635\nPoints: 64\n# Comments: 23",
+          "description": "Article URL: https://www.jeffgeerling.com/blog/2021/tried-nvidias-gtx-1080-still-no-external-gpu-on-pi\nComments URL: https://news.ycombinator.com/item?id=27149635\nPoints: 82\n# Comments: 28",
           "link": "https://www.jeffgeerling.com/blog/2021/tried-nvidias-gtx-1080-still-no-external-gpu-on-pi",
           "publishedOn": "2021-05-14T01:33:43.000Z",
           "wordCount": 474,
@@ -80,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27149578",
           "author": "aerophilic",
-          "description": "Article URL: https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor\nComments URL: https://news.ycombinator.com/item?id=27149578\nPoints: 148\n# Comments: 47",
+          "description": "Article URL: https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor\nComments URL: https://news.ycombinator.com/item?id=27149578\nPoints: 162\n# Comments: 48",
           "link": "https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor",
           "publishedOn": "2021-05-14T01:24:57.000Z",
           "wordCount": 1328,
@@ -89,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27149123",
           "author": "karlicoss",
-          "description": "Article URL: https://blog.zulip.com/2021/05/13/zulip-4-0-released/\nComments URL: https://news.ycombinator.com/item?id=27149123\nPoints: 460\n# Comments: 97",
+          "description": "Article URL: https://blog.zulip.com/2021/05/13/zulip-4-0-released/\nComments URL: https://news.ycombinator.com/item?id=27149123\nPoints: 488\n# Comments: 115",
           "link": "https://blog.zulip.com/2021/05/13/zulip-4-0-released/",
           "publishedOn": "2021-05-14T00:11:50.000Z",
           "wordCount": 2541,
@@ -98,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27149002",
           "author": "quyleanh",
-          "description": "Article URL: https://github.com/syncthing/syncthing\nComments URL: https://news.ycombinator.com/item?id=27149002\nPoints: 296\n# Comments: 84",
+          "description": "Article URL: https://github.com/syncthing/syncthing\nComments URL: https://news.ycombinator.com/item?id=27149002\nPoints: 324\n# Comments: 98",
           "link": "https://github.com/syncthing/syncthing",
           "publishedOn": "2021-05-13T23:55:57.000Z",
           "wordCount": 1279,
@@ -107,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27148529",
           "author": "andyxor",
-          "description": "Article URL: https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/\nComments URL: https://news.ycombinator.com/item?id=27148529\nPoints: 173\n# Comments: 55",
+          "description": "Article URL: https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/\nComments URL: https://news.ycombinator.com/item?id=27148529\nPoints: 187\n# Comments: 58",
           "link": "https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/",
           "publishedOn": "2021-05-13T22:56:54.000Z",
           "wordCount": 3239,
@@ -116,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27148296",
           "author": "zeristor",
-          "description": "Article URL: https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b\nComments URL: https://news.ycombinator.com/item?id=27148296\nPoints: 237\n# Comments: 83",
+          "description": "Article URL: https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b\nComments URL: https://news.ycombinator.com/item?id=27148296\nPoints: 248\n# Comments: 89",
           "link": "https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b",
           "publishedOn": "2021-05-13T22:28:10.000Z",
           "wordCount": 2246,
@@ -125,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27147482",
           "author": "elithrar",
-          "description": "Article URL: https://fly.io/blog/measuring-fly/\nComments URL: https://news.ycombinator.com/item?id=27147482\nPoints: 147\n# Comments: 64",
+          "description": "Article URL: https://fly.io/blog/measuring-fly/\nComments URL: https://news.ycombinator.com/item?id=27147482\nPoints: 150\n# Comments: 65",
           "link": "https://fly.io/blog/measuring-fly/",
           "publishedOn": "2021-05-13T21:07:23.000Z",
           "wordCount": 2215,
@@ -134,56 +161,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27145911",
           "author": "danpinto",
-          "description": "Article URL: https://fingerprintjs.com/blog/external-protocol-flooding/\nComments URL: https://news.ycombinator.com/item?id=27145911\nPoints: 415\n# Comments: 185",
+          "description": "Article URL: https://fingerprintjs.com/blog/external-protocol-flooding/\nComments URL: https://news.ycombinator.com/item?id=27145911\nPoints: 425\n# Comments: 190",
           "link": "https://fingerprintjs.com/blog/external-protocol-flooding/",
           "publishedOn": "2021-05-13T18:59:10.000Z",
           "wordCount": 2069,
           "title": "Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27145515",
-          "author": "tosh",
-          "description": "Article URL: https://observablehq.com/@asg017/introducing-dataflow\nComments URL: https://news.ycombinator.com/item?id=27145515\nPoints: 186\n# Comments: 54",
-          "link": "https://observablehq.com/@asg017/introducing-dataflow",
-          "publishedOn": "2021-05-13T18:28:06.000Z",
-          "wordCount": 14,
-          "title": "Dataflow, a self-hosted Observable notebook editor"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27145275",
-          "author": "dsr12",
-          "description": "Article URL: https://www.nytimes.com/2021/05/13/health/cdc-masks-guidance.html\nComments URL: https://news.ycombinator.com/item?id=27145275\nPoints: 251\n# Comments: 581",
-          "link": "https://www.nytimes.com/2021/05/13/health/cdc-masks-guidance.html",
-          "publishedOn": "2021-05-13T18:07:23.000Z",
-          "wordCount": 10198,
-          "title": "Vaccinated Americans now may go without masks in most places, the CDC said"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27145263",
-          "author": "jbegley",
-          "description": "Article URL: https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing\nComments URL: https://news.ycombinator.com/item?id=27145263\nPoints: 639\n# Comments: 217",
-          "link": "https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing",
-          "publishedOn": "2021-05-13T18:06:34.000Z",
-          "wordCount": 1064,
-          "title": "Pentagon surveilling Americans without a warrant, Senator Wyden reveals"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27144764",
-          "author": "MrUssek",
-          "description": "Article URL: https://stefanzukin.com/enigma/\nComments URL: https://news.ycombinator.com/item?id=27144764\nPoints: 177\n# Comments: 99",
-          "link": "https://stefanzukin.com/enigma/",
-          "publishedOn": "2021-05-13T17:26:27.000Z",
-          "wordCount": 27,
-          "title": "Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27144566",
           "author": "cristinacordova",
-          "description": "Article URL: https://developers.notion.so\nComments URL: https://news.ycombinator.com/item?id=27144566\nPoints: 508\n# Comments: 219",
+          "description": "Article URL: https://developers.notion.so\nComments URL: https://news.ycombinator.com/item?id=27144566\nPoints: 515\n# Comments: 222",
           "link": "https://developers.notion.so",
           "publishedOn": "2021-05-13T17:08:21.000Z",
           "wordCount": 363,
           "title": "Notion API – public beta"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27144167",
+          "author": "ilamont",
+          "description": "Article URL: https://www.vice.com/en/article/dyvgaq/bot-gibberish-audio-books-scam\nComments URL: https://news.ycombinator.com/item?id=27144167\nPoints: 77\n# Comments: 3",
+          "link": "https://www.vice.com/en/article/dyvgaq/bot-gibberish-audio-books-scam",
+          "publishedOn": "2021-05-13T16:33:47.000Z",
+          "wordCount": 1753,
+          "title": "The Bizarre World of Scam Audiobooks"
         }
       ]
     },
