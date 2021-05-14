@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T04:23:24.687Z</updated>
+    <updated>2021-05-14T05:21:42.171Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Where is a nice place to host which is not AWS / GCP types]]></title>
+        <id>https://news.ycombinator.com/item?id=27150689</id>
+        <link href="https://news.ycombinator.com/item?id=27150689"/>
+        <updated>2021-05-14T04:28:10.000Z</updated>
+        <summary type="html"><![CDATA[I have a small idea that I am hacking on and was wondering what would be the current recommendation if I don't want to use one of those large cloud providers.
+I have no JavaScript, only HTML and CSS files and a few Clojure files which run the API.
+Comments URL: https://news.ycombinator.com/item?id=27150689
+Points: 4
+# Comments: 1]]></summary>
+        <author>
+            <name>ilrwbwrkhv</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ads Are Impersonating Government Websites in Google Results, Despite Ban]]></title>
         <id>https://news.ycombinator.com/item?id=27150407</id>
@@ -13,8 +27,8 @@
         <updated>2021-05-14T03:33:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban
 Comments URL: https://news.ycombinator.com/item?id=27150407
-Points: 13
-# Comments: 1]]></summary>
+Points: 64
+# Comments: 29]]></summary>
         <author>
             <name>atg_abhishek</name>
         </author>
@@ -26,8 +40,8 @@ Points: 13
         <updated>2021-05-14T01:33:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/tried-nvidias-gtx-1080-still-no-external-gpu-on-pi
 Comments URL: https://news.ycombinator.com/item?id=27149635
-Points: 9
-# Comments: 0]]></summary>
+Points: 25
+# Comments: 9]]></summary>
         <author>
             <name>geerlingguy</name>
         </author>
@@ -39,8 +53,8 @@ Points: 9
         <updated>2021-05-14T01:24:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor
 Comments URL: https://news.ycombinator.com/item?id=27149578
-Points: 65
-# Comments: 16]]></summary>
+Points: 85
+# Comments: 22]]></summary>
         <author>
             <name>aerophilic</name>
         </author>
@@ -52,8 +66,8 @@ Points: 65
         <updated>2021-05-14T00:11:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.zulip.com/2021/05/13/zulip-4-0-released/
 Comments URL: https://news.ycombinator.com/item?id=27149123
-Points: 238
-# Comments: 53]]></summary>
+Points: 276
+# Comments: 54]]></summary>
         <author>
             <name>karlicoss</name>
         </author>
@@ -65,8 +79,8 @@ Points: 238
         <updated>2021-05-13T23:55:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/syncthing/syncthing
 Comments URL: https://news.ycombinator.com/item?id=27149002
-Points: 94
-# Comments: 31]]></summary>
+Points: 132
+# Comments: 41]]></summary>
         <author>
             <name>quyleanh</name>
         </author>
@@ -92,8 +106,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-13T23:04:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13
 Comments URL: https://news.ycombinator.com/item?id=27148593
-Points: 146
-# Comments: 21]]></summary>
+Points: 153
+# Comments: 22]]></summary>
         <author>
             <name>busymom0</name>
         </author>
@@ -105,8 +119,8 @@ Points: 146
         <updated>2021-05-13T22:56:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/
 Comments URL: https://news.ycombinator.com/item?id=27148529
-Points: 88
-# Comments: 25]]></summary>
+Points: 110
+# Comments: 29]]></summary>
         <author>
             <name>andyxor</name>
         </author>
@@ -130,8 +144,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-13T22:45:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce
 Comments URL: https://news.ycombinator.com/item?id=27148435
-Points: 37
-# Comments: 43]]></summary>
+Points: 43
+# Comments: 47]]></summary>
         <author>
             <name>clairity</name>
         </author>
@@ -143,8 +157,8 @@ Points: 37
         <updated>2021-05-13T22:28:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b
 Comments URL: https://news.ycombinator.com/item?id=27148296
-Points: 134
-# Comments: 44]]></summary>
+Points: 155
+# Comments: 46]]></summary>
         <author>
             <name>zeristor</name>
         </author>
@@ -166,8 +180,8 @@ Points: 134
         <updated>2021-05-13T21:07:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fly.io/blog/measuring-fly/
 Comments URL: https://news.ycombinator.com/item?id=27147482
-Points: 123
-# Comments: 52]]></summary>
+Points: 124
+# Comments: 55]]></summary>
         <author>
             <name>elithrar</name>
         </author>
@@ -192,8 +206,8 @@ Points: 1
         <updated>2021-05-13T20:26:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://souradip.mookerj.ee/blog/free-sequencing
 Comments URL: https://news.ycombinator.com/item?id=27146975
-Points: 81
-# Comments: 60]]></summary>
+Points: 83
+# Comments: 62]]></summary>
         <author>
             <name>souradip</name>
         </author>
@@ -215,7 +229,7 @@ Points: 81
         <updated>2021-05-13T18:59:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fingerprintjs.com/blog/external-protocol-flooding/
 Comments URL: https://news.ycombinator.com/item?id=27145911
-Points: 320
+Points: 333
 # Comments: 157]]></summary>
         <author>
             <name>danpinto</name>
@@ -228,7 +242,7 @@ Points: 320
         <updated>2021-05-13T18:28:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://observablehq.com/@asg017/introducing-dataflow
 Comments URL: https://news.ycombinator.com/item?id=27145515
-Points: 163
+Points: 172
 # Comments: 53]]></summary>
         <author>
             <name>tosh</name>
@@ -241,8 +255,8 @@ Points: 163
         <updated>2021-05-13T18:27:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap
 Comments URL: https://news.ycombinator.com/item?id=27145504
-Points: 83
-# Comments: 239]]></summary>
+Points: 86
+# Comments: 247]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -264,8 +278,8 @@ Points: 83
         <updated>2021-05-13T18:07:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/13/health/cdc-masks-guidance.html
 Comments URL: https://news.ycombinator.com/item?id=27145275
-Points: 132
-# Comments: 190]]></summary>
+Points: 165
+# Comments: 277]]></summary>
         <author>
             <name>dsr12</name>
         </author>
@@ -277,8 +291,8 @@ Points: 132
         <updated>2021-05-13T18:06:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing
 Comments URL: https://news.ycombinator.com/item?id=27145263
-Points: 544
-# Comments: 199]]></summary>
+Points: 569
+# Comments: 202]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -290,8 +304,8 @@ Points: 544
         <updated>2021-05-13T18:04:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html
 Comments URL: https://news.ycombinator.com/item?id=27145230
-Points: 361
-# Comments: 555]]></summary>
+Points: 385
+# Comments: 577]]></summary>
         <author>
             <name>awb</name>
         </author>
@@ -303,23 +317,10 @@ Points: 361
         <updated>2021-05-13T17:26:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stefanzukin.com/enigma/
 Comments URL: https://news.ycombinator.com/item?id=27144764
-Points: 156
-# Comments: 91]]></summary>
+Points: 159
+# Comments: 92]]></summary>
         <author>
             <name>MrUssek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notion API – public beta]]></title>
-        <id>https://news.ycombinator.com/item?id=27144566</id>
-        <link href="https://developers.notion.so"/>
-        <updated>2021-05-13T17:08:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developers.notion.so
-Comments URL: https://news.ycombinator.com/item?id=27144566
-Points: 427
-# Comments: 201]]></summary>
-        <author>
-            <name>cristinacordova</name>
         </author>
     </entry>
     <entry>
