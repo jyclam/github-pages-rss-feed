@@ -2,23 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T10:15:26.240Z</updated>
+    <updated>2021-05-14T11:11:34.407Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Ask HN: What happened to the guy whose boss was ignoring him?]]></title>
-        <id>https://news.ycombinator.com/item?id=27152140</id>
-        <link href="https://news.ycombinator.com/item?id=27152140"/>
-        <updated>2021-05-14T08:41:27.000Z</updated>
-        <summary type="html"><![CDATA[It's been 3 months.
-Don't want to list the username, even tho it looks like a throwaway -- it wasn't listed explicitly as such.
-Also, I would like to be able to close the feedback loop on all these Ask HN threads -- to see if who is giving good advice, what that advice is, etc.
-Comments URL: https://news.ycombinator.com/item?id=27152140
-Points: 53
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
+        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
+        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
+        <updated>2021-05-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
         <author>
-            <name>readonthegoapp</name>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azar, the Korean Chatroulette-style dating app quietly taking over the world]]></title>
+        <id>https://news.ycombinator.com/item?id=27152445</id>
+        <link href="https://restofworld.org/2021/azar-match-dating-apps/"/>
+        <updated>2021-05-14T09:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://restofworld.org/2021/azar-match-dating-apps/
+Comments URL: https://news.ycombinator.com/item?id=27152445
+Points: 3
+# Comments: 1]]></summary>
+        <author>
+            <name>imartin2k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irish health service hit by cyber attack]]></title>
+        <id>https://news.ycombinator.com/item?id=27152402</id>
+        <link href="https://www.bbc.co.uk/news/world-europe-57111615"/>
+        <updated>2021-05-14T09:26:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-europe-57111615
+Comments URL: https://news.ycombinator.com/item?id=27152402
+Points: 35
+# Comments: 21]]></summary>
+        <author>
+            <name>kjakm</name>
         </author>
     </entry>
     <entry>
@@ -28,8 +49,8 @@ Points: 53
         <updated>2021-05-14T07:31:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/lampepfl/dotty/releases/tag/3.0.0
 Comments URL: https://news.ycombinator.com/item?id=27151732
-Points: 169
-# Comments: 46]]></summary>
+Points: 222
+# Comments: 69]]></summary>
         <author>
             <name>jupblb</name>
         </author>
@@ -54,8 +75,8 @@ Points: 1
         <updated>2021-05-14T06:36:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view
 Comments URL: https://news.ycombinator.com/item?id=27151407
-Points: 53
-# Comments: 33]]></summary>
+Points: 65
+# Comments: 44]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -67,8 +88,8 @@ Points: 53
         <updated>2021-05-14T06:30:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ft.com/content/529eb4e6-796a-4e81-8064-5967bbe3b4d9
 Comments URL: https://news.ycombinator.com/item?id=27151370
-Points: 122
-# Comments: 76]]></summary>
+Points: 142
+# Comments: 91]]></summary>
         <author>
             <name>rwosync</name>
         </author>
@@ -80,8 +101,8 @@ Points: 122
         <updated>2021-05-14T03:33:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban
 Comments URL: https://news.ycombinator.com/item?id=27150407
-Points: 209
-# Comments: 101]]></summary>
+Points: 233
+# Comments: 119]]></summary>
         <author>
             <name>atg_abhishek</name>
         </author>
@@ -93,8 +114,8 @@ Points: 209
         <updated>2021-05-14T01:33:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/tried-nvidias-gtx-1080-still-no-external-gpu-on-pi
 Comments URL: https://news.ycombinator.com/item?id=27149635
-Points: 58
-# Comments: 19]]></summary>
+Points: 64
+# Comments: 23]]></summary>
         <author>
             <name>geerlingguy</name>
         </author>
@@ -106,8 +127,8 @@ Points: 58
         <updated>2021-05-14T01:24:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor
 Comments URL: https://news.ycombinator.com/item?id=27149578
-Points: 133
-# Comments: 44]]></summary>
+Points: 148
+# Comments: 47]]></summary>
         <author>
             <name>aerophilic</name>
         </author>
@@ -119,8 +140,8 @@ Points: 133
         <updated>2021-05-14T00:11:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.zulip.com/2021/05/13/zulip-4-0-released/
 Comments URL: https://news.ycombinator.com/item?id=27149123
-Points: 440
-# Comments: 88]]></summary>
+Points: 460
+# Comments: 97]]></summary>
         <author>
             <name>karlicoss</name>
         </author>
@@ -132,8 +153,8 @@ Points: 440
         <updated>2021-05-13T23:55:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/syncthing/syncthing
 Comments URL: https://news.ycombinator.com/item?id=27149002
-Points: 275
-# Comments: 77]]></summary>
+Points: 296
+# Comments: 84]]></summary>
         <author>
             <name>quyleanh</name>
         </author>
@@ -159,8 +180,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-13T22:56:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/
 Comments URL: https://news.ycombinator.com/item?id=27148529
-Points: 162
-# Comments: 51]]></summary>
+Points: 173
+# Comments: 55]]></summary>
         <author>
             <name>andyxor</name>
         </author>
@@ -184,8 +205,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-13T22:28:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b
 Comments URL: https://news.ycombinator.com/item?id=27148296
-Points: 226
-# Comments: 78]]></summary>
+Points: 237
+# Comments: 83]]></summary>
         <author>
             <name>zeristor</name>
         </author>
@@ -230,7 +251,7 @@ Points: 147
         <updated>2021-05-13T18:59:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fingerprintjs.com/blog/external-protocol-flooding/
 Comments URL: https://news.ycombinator.com/item?id=27145911
-Points: 402
+Points: 415
 # Comments: 185]]></summary>
         <author>
             <name>danpinto</name>
@@ -243,7 +264,7 @@ Points: 402
         <updated>2021-05-13T18:28:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://observablehq.com/@asg017/introducing-dataflow
 Comments URL: https://news.ycombinator.com/item?id=27145515
-Points: 185
+Points: 186
 # Comments: 54]]></summary>
         <author>
             <name>tosh</name>
@@ -266,8 +287,8 @@ Points: 185
         <updated>2021-05-13T18:07:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/13/health/cdc-masks-guidance.html
 Comments URL: https://news.ycombinator.com/item?id=27145275
-Points: 230
-# Comments: 544]]></summary>
+Points: 251
+# Comments: 581]]></summary>
         <author>
             <name>dsr12</name>
         </author>
@@ -279,8 +300,8 @@ Points: 230
         <updated>2021-05-13T18:06:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing
 Comments URL: https://news.ycombinator.com/item?id=27145263
-Points: 625
-# Comments: 212]]></summary>
+Points: 639
+# Comments: 217]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -292,8 +313,8 @@ Points: 625
         <updated>2021-05-13T17:26:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stefanzukin.com/enigma/
 Comments URL: https://news.ycombinator.com/item?id=27144764
-Points: 176
-# Comments: 98]]></summary>
+Points: 177
+# Comments: 99]]></summary>
         <author>
             <name>MrUssek</name>
         </author>
@@ -305,23 +326,10 @@ Points: 176
         <updated>2021-05-13T17:08:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developers.notion.so
 Comments URL: https://news.ycombinator.com/item?id=27144566
-Points: 501
-# Comments: 218]]></summary>
+Points: 508
+# Comments: 219]]></summary>
         <author>
             <name>cristinacordova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bizarre World of Scam Audiobooks]]></title>
-        <id>https://news.ycombinator.com/item?id=27144167</id>
-        <link href="https://www.vice.com/en/article/dyvgaq/bot-gibberish-audio-books-scam"/>
-        <updated>2021-05-13T16:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/dyvgaq/bot-gibberish-audio-books-scam
-Comments URL: https://news.ycombinator.com/item?id=27144167
-Points: 36
-# Comments: 0]]></summary>
-        <author>
-            <name>ilamont</name>
         </author>
     </entry>
     <entry>
