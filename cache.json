@@ -6,9 +6,27 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27158088",
+          "author": "tracyhenry",
+          "description": "Article URL: http://www.paulgraham.com/corpdev.html\nComments URL: https://news.ycombinator.com/item?id=27158088\nPoints: 26\n# Comments: 6",
+          "link": "http://www.paulgraham.com/corpdev.html",
+          "publishedOn": "2021-05-14T18:38:50.000Z",
+          "wordCount": 1275,
+          "title": "Don't Talk to Corp Dev (2015)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27157869",
+          "author": "dcminter",
+          "description": "Article URL: https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html\nComments URL: https://news.ycombinator.com/item?id=27157869\nPoints: 10\n# Comments: 3",
+          "link": "https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html",
+          "publishedOn": "2021-05-14T18:23:42.000Z",
+          "wordCount": 1057,
+          "title": "An Elegant Sufficiency, or the Curious Case of a Victorian Meme (2018)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27157369",
           "author": "pessimizer",
-          "description": "Article URL: https://www.the-scientist.com/news-opinion/brain-computer-interface-user-types-90-characters-per-minute-with-mind-68762\nComments URL: https://news.ycombinator.com/item?id=27157369\nPoints: 7\n# Comments: 0",
+          "description": "Article URL: https://www.the-scientist.com/news-opinion/brain-computer-interface-user-types-90-characters-per-minute-with-mind-68762\nComments URL: https://news.ycombinator.com/item?id=27157369\nPoints: 39\n# Comments: 7",
           "link": "https://www.the-scientist.com/news-opinion/brain-computer-interface-user-types-90-characters-per-minute-with-mind-68762",
           "publishedOn": "2021-05-14T17:49:40.000Z",
           "wordCount": 1227,
@@ -17,7 +35,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27157225",
           "author": "tmfi",
-          "description": "Article URL: https://www.scs.cmu.edu/news/overcoming-tab-overload\nComments URL: https://news.ycombinator.com/item?id=27157225\nPoints: 19\n# Comments: 20",
+          "description": "Article URL: https://www.scs.cmu.edu/news/overcoming-tab-overload\nComments URL: https://news.ycombinator.com/item?id=27157225\nPoints: 35\n# Comments: 52",
           "link": "https://www.scs.cmu.edu/news/overcoming-tab-overload",
           "publishedOn": "2021-05-14T17:39:15.000Z",
           "wordCount": null,
@@ -26,7 +44,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27157203",
           "author": "optimalsolver",
-          "description": "Article URL: https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/\nComments URL: https://news.ycombinator.com/item?id=27157203\nPoints: 20\n# Comments: 2",
+          "description": "Article URL: https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/\nComments URL: https://news.ycombinator.com/item?id=27157203\nPoints: 32\n# Comments: 8",
           "link": "https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/",
           "publishedOn": "2021-05-14T17:37:27.000Z",
           "wordCount": 3629,
@@ -35,20 +53,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27156859",
           "author": "throwkeep",
-          "description": "Article URL: https://www.nature.com/articles/d41586-021-01299-y\nComments URL: https://news.ycombinator.com/item?id=27156859\nPoints: 42\n# Comments: 29",
+          "description": "Article URL: https://www.nature.com/articles/d41586-021-01299-y\nComments URL: https://news.ycombinator.com/item?id=27156859\nPoints: 70\n# Comments: 68",
           "link": "https://www.nature.com/articles/d41586-021-01299-y",
           "publishedOn": "2021-05-14T17:17:27.000Z",
           "wordCount": 1378,
           "title": "Delaying a Covid vaccine’s second dose boosts immune response"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27156770",
-          "author": "mike-cardwell",
-          "description": "Article URL: https://www.grepular.com/Sandbox_Rust_Development_with_Rust_Analyzer\nComments URL: https://news.ycombinator.com/item?id=27156770\nPoints: 24\n# Comments: 2",
-          "link": "https://www.grepular.com/Sandbox_Rust_Development_with_Rust_Analyzer",
-          "publishedOn": "2021-05-14T17:12:41.000Z",
-          "wordCount": 531,
-          "title": "Sandbox Rust Development with Rust Analyzer"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27156581",
@@ -56,58 +65,31 @@
           "description": "Article URL: https://www.ycombinator.com/companies/mezli/jobs/oEsK9BM-business-operations\nComments URL: https://news.ycombinator.com/item?id=27156581\nPoints: 1\n# Comments: 0",
           "link": "https://www.ycombinator.com/companies/mezli/jobs/oEsK9BM-business-operations",
           "publishedOn": "2021-05-14T17:00:27.000Z",
-          "wordCount": 431,
+          "wordCount": 436,
           "title": "Mezli (YC W21) – Hiring a BizOps role to help us build autonomous restaurants"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27156334",
-          "author": "infodocket",
-          "description": "Article URL: https://www.sciencemag.org/news/2021/05/mammals-can-breathe-through-their-intestines\nComments URL: https://news.ycombinator.com/item?id=27156334\nPoints: 75\n# Comments: 72",
-          "link": "https://www.sciencemag.org/news/2021/05/mammals-can-breathe-through-their-intestines",
-          "publishedOn": "2021-05-14T16:43:12.000Z",
-          "wordCount": 1068,
-          "title": "Mammals Can Breathe Through Their Intestines"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27156106",
           "author": "ykdojo",
-          "description": "Article URL: https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/\nComments URL: https://news.ycombinator.com/item?id=27156106\nPoints: 96\n# Comments: 23",
+          "description": "Article URL: https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/\nComments URL: https://news.ycombinator.com/item?id=27156106\nPoints: 261\n# Comments: 77",
           "link": "https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/",
           "publishedOn": "2021-05-14T16:28:21.000Z",
-          "wordCount": 226,
+          "wordCount": 225,
           "title": "Show HN: A URL Lengthener"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27155831",
-          "author": "adamnemecek",
-          "description": "Article URL: https://tauri.studio/?hn\nComments URL: https://news.ycombinator.com/item?id=27155831\nPoints: 216\n# Comments: 129",
-          "link": "https://tauri.studio/?hn",
-          "publishedOn": "2021-05-14T16:10:18.000Z",
-          "wordCount": 453,
-          "title": "Tauri: Rust-based Electron alternative releases beta"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27155639",
-          "author": "lukastyrychtr",
-          "description": "Article URL: https://blog.abor.dev/p/moonzoon\nComments URL: https://news.ycombinator.com/item?id=27155639\nPoints: 72\n# Comments: 59",
-          "link": "https://blog.abor.dev/p/moonzoon",
-          "publishedOn": "2021-05-14T15:57:15.000Z",
-          "wordCount": 2607,
-          "title": "Rust on the Frontend and Backend"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27155497",
           "author": "feross",
-          "description": "Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/\nComments URL: https://news.ycombinator.com/item?id=27155497\nPoints: 316\n# Comments: 274",
+          "description": "Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/\nComments URL: https://news.ycombinator.com/item?id=27155497\nPoints: 394\n# Comments: 337",
           "link": "https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/",
           "publishedOn": "2021-05-14T15:47:30.000Z",
-          "wordCount": 2614,
+          "wordCount": 2957,
           "title": "DarkSide ransomware gang quits after servers, Bitcoin stash seized"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27154534",
           "author": "superjared",
-          "description": "Article URL: https://github.com/lucky/bad_actor_poc\nComments URL: https://news.ycombinator.com/item?id=27154534\nPoints: 86\n# Comments: 49",
+          "description": "Article URL: https://github.com/lucky/bad_actor_poc\nComments URL: https://news.ycombinator.com/item?id=27154534\nPoints: 98\n# Comments: 53",
           "link": "https://github.com/lucky/bad_actor_poc",
           "publishedOn": "2021-05-14T14:12:34.000Z",
           "wordCount": 705,
@@ -116,11 +98,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27154368",
           "author": "Dowwie",
-          "description": "Article URL: https://bfi.uchicago.edu/working-paper/2021-56/\nComments URL: https://news.ycombinator.com/item?id=27154368\nPoints: 37\n# Comments: 21",
+          "description": "Article URL: https://bfi.uchicago.edu/working-paper/2021-56/\nComments URL: https://news.ycombinator.com/item?id=27154368\nPoints: 55\n# Comments: 42",
           "link": "https://bfi.uchicago.edu/working-paper/2021-56/",
           "publishedOn": "2021-05-14T13:58:39.000Z",
           "wordCount": 362,
           "title": "Work from Home and Productivity"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27154365",
+          "author": "lycopodiopsida",
+          "description": "Article URL: https://system76.com/accessories/launch\nComments URL: https://news.ycombinator.com/item?id=27154365\nPoints: 40\n# Comments: 33",
+          "link": "https://system76.com/accessories/launch",
+          "publishedOn": "2021-05-14T13:58:06.000Z",
+          "wordCount": 944,
+          "title": "System76 Launch Keyboard"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27154309",
@@ -128,31 +119,49 @@
           "description": "We are Allan, CJ and Jesus, co-founders of Moonshot Brands (https://www.moonshotbrands.com/). We offer e-commerce founders a simple way to sell their companies, which we then grow.\nThe story behind this began several years ago when CJ and I were trying to sell our e-commerce companies. The process was the most stressful experience of our lives. Drawn-out negotiations. Terrible payment terms. The buyers wanted us gone. We lived with a fear that the businesses we worked so hard to build would be sucked dry an…",
           "link": "https://news.ycombinator.com/item?id=27154309",
           "publishedOn": "2021-05-14T13:52:58.000Z",
-          "wordCount": 3979,
+          "wordCount": 4039,
           "title": "Launch HN: Moonshot Brands (YC W21) – We buy and grow e-commerce companies"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27154266",
           "author": "diplodocusaur",
-          "description": "Article URL: https://old.reddit.com/r/DataHoarder/comments/nc27fv/rescue_mission_for_scihub_and_open_science_we_are/\nComments URL: https://news.ycombinator.com/item?id=27154266\nPoints: 176\n# Comments: 18",
+          "description": "Article URL: https://old.reddit.com/r/DataHoarder/comments/nc27fv/rescue_mission_for_scihub_and_open_science_we_are/\nComments URL: https://news.ycombinator.com/item?id=27154266\nPoints: 216\n# Comments: 25",
           "link": "https://old.reddit.com/r/DataHoarder/comments/nc27fv/rescue_mission_for_scihub_and_open_science_we_are/",
           "publishedOn": "2021-05-14T13:48:45.000Z",
-          "wordCount": 6759,
+          "wordCount": 7031,
           "title": "Rescue Mission for Sci-Hub and Open Science: We are the library"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27153800",
+          "author": "danso",
+          "description": "Article URL: https://news.yahoo.com/online-mug-shots-forever-states-181700675.html\nComments URL: https://news.ycombinator.com/item?id=27153800\nPoints: 24\n# Comments: 4",
+          "link": "https://news.yahoo.com/online-mug-shots-forever-states-181700675.html",
+          "publishedOn": "2021-05-14T13:04:57.000Z",
+          "wordCount": 3182,
+          "title": "Online, Mug Shots Are Forever. Some States Want to Change That"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27153254",
           "author": "herrjemand",
-          "description": "Article URL: https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566\nComments URL: https://news.ycombinator.com/item?id=27153254\nPoints: 135\n# Comments: 162",
+          "description": "Article URL: https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566\nComments URL: https://news.ycombinator.com/item?id=27153254\nPoints: 157\n# Comments: 176",
           "link": "https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566",
           "publishedOn": "2021-05-14T11:57:05.000Z",
           "wordCount": 1575,
           "title": "Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27153253",
+          "author": "gk1",
+          "description": "Article URL: https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c\nComments URL: https://news.ycombinator.com/item?id=27153253\nPoints: 7\n# Comments: 1",
+          "link": "https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c",
+          "publishedOn": "2021-05-14T11:57:02.000Z",
+          "wordCount": 6393,
+          "title": "Semantic search with embeddings: index anything"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27152968",
           "author": "mrzool",
-          "description": "Article URL: https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/\nComments URL: https://news.ycombinator.com/item?id=27152968\nPoints: 377\n# Comments: 181",
+          "description": "Article URL: https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/\nComments URL: https://news.ycombinator.com/item?id=27152968\nPoints: 413\n# Comments: 202",
           "link": "https://torrentfreak.com/fbi-has-gained-access-to-sci-hub-founders-apple-account-email-claims-210513/",
           "publishedOn": "2021-05-14T11:09:30.000Z",
           "wordCount": 1170,
@@ -161,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27152920",
           "author": "linkdd",
-          "description": "Article URL: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs\nComments URL: https://news.ycombinator.com/item?id=27152920\nPoints: 167\n# Comments: 97",
+          "description": "Article URL: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs\nComments URL: https://news.ycombinator.com/item?id=27152920\nPoints: 181\n# Comments: 103",
           "link": "https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs",
           "publishedOn": "2021-05-14T11:01:06.000Z",
           "wordCount": 886,
@@ -170,20 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27152785",
           "author": "ramshorst",
-          "description": "Article URL: https://elderguide.com/tech/elderjs/\nComments URL: https://news.ycombinator.com/item?id=27152785\nPoints: 130\n# Comments: 50",
+          "description": "Article URL: https://elderguide.com/tech/elderjs/\nComments URL: https://news.ycombinator.com/item?id=27152785\nPoints: 138\n# Comments: 51",
           "link": "https://elderguide.com/tech/elderjs/",
           "publishedOn": "2021-05-14T10:38:29.000Z",
           "wordCount": 12715,
           "title": "Elder.js – An Opinionated, SEO Focused, Svelte Framework"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27152571",
-          "author": "blopeur",
-          "description": "Article URL: http://antirez.com/news/135\nComments URL: https://news.ycombinator.com/item?id=27152571\nPoints: 139\n# Comments: 51",
-          "link": "http://antirez.com/news/135",
-          "publishedOn": "2021-05-14T09:56:38.000Z",
-          "wordCount": 795,
-          "title": "Programming and Writing"
         }
       ]
     },
