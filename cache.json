@@ -6,18 +6,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27166191",
+          "author": "GolDDranks",
+          "description": "Article URL: https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html\nComments URL: https://news.ycombinator.com/item?id=27166191\nPoints: 37\n# Comments: 4",
+          "link": "https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html",
+          "publishedOn": "2021-05-15T15:40:54.000Z",
+          "wordCount": 1093,
+          "title": "Six Years of Rust"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27166162",
+          "author": "Iazel",
+          "description": "Article URL: https://github.com/parsix/parsix\nComments URL: https://news.ycombinator.com/item?id=27166162\nPoints: 16\n# Comments: 0",
+          "link": "https://github.com/parsix/parsix",
+          "publishedOn": "2021-05-15T15:38:43.000Z",
+          "wordCount": 3025,
+          "title": "Parsix: Parse Don't Validate"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27166043",
+          "author": "foobarbecue",
+          "description": "Article URL: https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html\nComments URL: https://news.ycombinator.com/item?id=27166043\nPoints: 23\n# Comments: 16",
+          "link": "https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html",
+          "publishedOn": "2021-05-15T15:27:44.000Z",
+          "wordCount": 1459,
+          "title": "Cox Hotspots with Panoramic Wifi"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27165954",
+          "author": "EntICOnc",
+          "description": "Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years\nComments URL: https://news.ycombinator.com/item?id=27165954\nPoints: 62\n# Comments: 13",
+          "link": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
+          "publishedOn": "2021-05-15T15:15:57.000Z",
+          "wordCount": null,
+          "title": "Modern Javascript: Everything you missed over the last 10 years (2020)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27165366",
           "author": "michaelsbradley",
-          "description": "Article URL: https://forum.nim-lang.org/t/7983\nComments URL: https://news.ycombinator.com/item?id=27165366\nPoints: 51\n# Comments: 6",
+          "description": "Article URL: https://forum.nim-lang.org/t/7983\nComments URL: https://news.ycombinator.com/item?id=27165366\nPoints: 102\n# Comments: 36",
           "link": "https://forum.nim-lang.org/t/7983",
           "publishedOn": "2021-05-15T14:08:12.000Z",
           "wordCount": 4,
-          "title": "Nim 2.0"
+          "title": "Nim 2.0 thoughts"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27165352",
           "author": "fheld",
-          "description": "Article URL: https://www.pine64.org/2021/05/15/may-update-connection-established/\nComments URL: https://news.ycombinator.com/item?id=27165352\nPoints: 5\n# Comments: 1",
+          "description": "Article URL: https://www.pine64.org/2021/05/15/may-update-connection-established/\nComments URL: https://news.ycombinator.com/item?id=27165352\nPoints: 22\n# Comments: 4",
           "link": "https://www.pine64.org/2021/05/15/may-update-connection-established/",
           "publishedOn": "2021-05-15T14:05:19.000Z",
           "wordCount": 4943,
@@ -26,16 +62,34 @@
         {
           "id": "https://news.ycombinator.com/item?id=27165192",
           "author": "lana-k",
-          "description": "Article URL: https://github.com/lana-k/sqliteviz\nComments URL: https://news.ycombinator.com/item?id=27165192\nPoints: 30\n# Comments: 1",
+          "description": "Article URL: https://github.com/lana-k/sqliteviz\nComments URL: https://news.ycombinator.com/item?id=27165192\nPoints: 59\n# Comments: 6",
           "link": "https://github.com/lana-k/sqliteviz",
           "publishedOn": "2021-05-15T13:48:01.000Z",
           "wordCount": 691,
           "title": "Offline-First PWA for Plotly Visualization of CSV via SQLite"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27165133",
+          "author": "nceqs3",
+          "description": "Article URL: http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=27165133\nPoints: 12\n# Comments: 1",
+          "link": "http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf",
+          "publishedOn": "2021-05-15T13:41:47.000Z",
+          "wordCount": 14573,
+          "title": "Multiplying Integers Using Fourier Transforms [pdf]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27165078",
+          "author": "gmays",
+          "description": "Article URL: https://www.bbc.com/news/world-us-canada-57022924\nComments URL: https://news.ycombinator.com/item?id=27165078\nPoints: 37\n# Comments: 16",
+          "link": "https://www.bbc.com/news/world-us-canada-57022924",
+          "publishedOn": "2021-05-15T13:35:33.000Z",
+          "wordCount": 2442,
+          "title": "Joe Ligon: America's 'longest juvenile lifer' on 68 years in prison"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27164769",
           "author": "JacobDesigns",
-          "description": "Article URL: https://icepanel.io/\nComments URL: https://news.ycombinator.com/item?id=27164769\nPoints: 74\n# Comments: 24",
+          "description": "Article URL: https://icepanel.io/\nComments URL: https://news.ycombinator.com/item?id=27164769\nPoints: 105\n# Comments: 33",
           "link": "https://icepanel.io/",
           "publishedOn": "2021-05-15T12:55:52.000Z",
           "wordCount": 19,
@@ -44,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27164476",
           "author": "jtdev",
-          "description": "Article URL: https://apnews.com/article/va-state-wire-technology-business-1f06c091c492c1630471d29a9cf6529d\nComments URL: https://news.ycombinator.com/item?id=27164476\nPoints: 31\n# Comments: 11",
+          "description": "Article URL: https://apnews.com/article/va-state-wire-technology-business-1f06c091c492c1630471d29a9cf6529d\nComments URL: https://news.ycombinator.com/item?id=27164476\nPoints: 43\n# Comments: 17",
           "link": "https://apnews.com/article/va-state-wire-technology-business-1f06c091c492c1630471d29a9cf6529d",
           "publishedOn": "2021-05-15T12:06:16.000Z",
           "wordCount": 1327,
@@ -62,25 +116,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27164417",
           "author": "gscott",
-          "description": "Article URL: https://www.rbth.com/longreads/soviet-watches/\nComments URL: https://news.ycombinator.com/item?id=27164417\nPoints: 6\n# Comments: 0",
+          "description": "Article URL: https://www.rbth.com/longreads/soviet-watches/\nComments URL: https://news.ycombinator.com/item?id=27164417\nPoints: 25\n# Comments: 3",
           "link": "https://www.rbth.com/longreads/soviet-watches/",
           "publishedOn": "2021-05-15T11:55:52.000Z",
           "wordCount": 1916,
           "title": "Watches from the Soviet Union"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27164253",
+          "id": "https://news.ycombinator.com/item?id=27164171",
           "author": "pseudolus",
-          "description": "Article URL: https://phys.org/news/2021-05-realistic-scenarios-left-limit-global.html\nComments URL: https://news.ycombinator.com/item?id=27164253\nPoints: 50\n# Comments: 34",
-          "link": "https://phys.org/news/2021-05-realistic-scenarios-left-limit-global.html",
-          "publishedOn": "2021-05-15T11:20:33.000Z",
-          "wordCount": 1936,
-          "title": "Few realistic scenarios left to limit global warming to 1.5°C"
+          "description": "Article URL: https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world\nComments URL: https://news.ycombinator.com/item?id=27164171\nPoints: 35\n# Comments: 56",
+          "link": "https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world",
+          "publishedOn": "2021-05-15T11:04:34.000Z",
+          "wordCount": 2194,
+          "title": "Was cancer less likely in a pre-industrial world?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27164131",
           "author": "VitalyAnkh",
-          "description": "Article URL: https://arxiv.org/abs/1903.00982\nComments URL: https://news.ycombinator.com/item?id=27164131\nPoints: 43\n# Comments: 10",
+          "description": "Article URL: https://arxiv.org/abs/1903.00982\nComments URL: https://news.ycombinator.com/item?id=27164131\nPoints: 49\n# Comments: 13",
           "link": "https://arxiv.org/abs/1903.00982",
           "publishedOn": "2021-05-15T10:56:30.000Z",
           "wordCount": 678,
@@ -89,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27164000",
           "author": "weinzierl",
-          "description": "Article URL: https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/\nComments URL: https://news.ycombinator.com/item?id=27164000\nPoints: 138\n# Comments: 114",
+          "description": "Article URL: https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/\nComments URL: https://news.ycombinator.com/item?id=27164000\nPoints: 172\n# Comments: 147",
           "link": "https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/",
           "publishedOn": "2021-05-15T10:27:44.000Z",
           "wordCount": 1871,
@@ -98,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27163964",
           "author": "gzer0",
-          "description": "Article URL: https://github.com/ufuu/JDK10\nComments URL: https://news.ycombinator.com/item?id=27163964\nPoints: 99\n# Comments: 30",
+          "description": "Article URL: https://github.com/ufuu/JDK10\nComments URL: https://news.ycombinator.com/item?id=27163964\nPoints: 118\n# Comments: 32",
           "link": "https://github.com/ufuu/JDK10",
           "publishedOn": "2021-05-15T10:21:30.000Z",
           "wordCount": 1670,
@@ -107,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27163866",
           "author": "ms123",
-          "description": "Article URL: https://midnight.pub/\nComments URL: https://news.ycombinator.com/item?id=27163866\nPoints: 9\n# Comments: 0",
+          "description": "Article URL: https://midnight.pub/\nComments URL: https://news.ycombinator.com/item?id=27163866\nPoints: 32\n# Comments: 3",
           "link": "https://midnight.pub/",
           "publishedOn": "2021-05-15T09:59:06.000Z",
           "wordCount": 561,
@@ -116,74 +170,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27163570",
           "author": "helsinkiandrew",
-          "description": "Article URL: https://www.economist.com/science-and-technology/2021/05/14/anal-oxygen-administration-may-save-lives\nComments URL: https://news.ycombinator.com/item?id=27163570\nPoints: 103\n# Comments: 85",
+          "description": "Article URL: https://www.economist.com/science-and-technology/2021/05/14/anal-oxygen-administration-may-save-lives\nComments URL: https://news.ycombinator.com/item?id=27163570\nPoints: 124\n# Comments: 100",
           "link": "https://www.economist.com/science-and-technology/2021/05/14/anal-oxygen-administration-may-save-lives",
           "publishedOn": "2021-05-15T08:56:15.000Z",
-          "wordCount": 775,
+          "wordCount": 770,
           "title": "Anal oxygen administration may save lives"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27163494",
           "author": "justaj",
-          "description": "Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars\nComments URL: https://news.ycombinator.com/item?id=27163494\nPoints: 32\n# Comments: 12",
+          "description": "Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars\nComments URL: https://news.ycombinator.com/item?id=27163494\nPoints: 41\n# Comments: 17",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars",
           "publishedOn": "2021-05-15T08:37:28.000Z",
           "wordCount": 609,
           "title": "The Bourne shell lets you set variables in if expressions"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27163160",
-          "author": "edward",
-          "description": "Article URL: https://www.economist.com/science-and-technology/2021/05/13/old-electric-cars-are-a-raw-material-of-the-future\nComments URL: https://news.ycombinator.com/item?id=27163160\nPoints: 55\n# Comments: 43",
-          "link": "https://www.economist.com/science-and-technology/2021/05/13/old-electric-cars-are-a-raw-material-of-the-future",
-          "publishedOn": "2021-05-15T07:19:25.000Z",
-          "wordCount": 1894,
-          "title": "Old electric cars are a raw material of the future"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27162342",
-          "author": "pizza",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Bush_hid_the_facts\nComments URL: https://news.ycombinator.com/item?id=27162342\nPoints: 180\n# Comments: 23",
-          "link": "https://en.wikipedia.org/wiki/Bush_hid_the_facts",
-          "publishedOn": "2021-05-15T04:22:03.000Z",
-          "wordCount": 730,
-          "title": "“Bush Hid the Facts”"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27161783",
-          "author": "underseacables",
-          "description": "Article URL: https://aje.io/fftg5\nComments URL: https://news.ycombinator.com/item?id=27161783\nPoints: 97\n# Comments: 47",
-          "link": "https://aje.io/fftg5",
-          "publishedOn": "2021-05-15T02:33:44.000Z",
-          "wordCount": 846,
-          "title": "Facebook faces ‘devastating’ EU-to-US data transfer ban"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27161524",
-          "author": "rococode",
-          "description": "Article URL: https://www.bbc.com/news/science-environment-57122914\nComments URL: https://news.ycombinator.com/item?id=27161524\nPoints: 473\n# Comments: 245",
-          "link": "https://www.bbc.com/news/science-environment-57122914",
-          "publishedOn": "2021-05-15T01:41:42.000Z",
-          "wordCount": 1400,
-          "title": "China lands rover on Mars"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27161217",
-          "author": "adventured",
-          "description": "Article URL: https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/\nComments URL: https://news.ycombinator.com/item?id=27161217\nPoints: 395\n# Comments: 410",
-          "link": "https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/",
-          "publishedOn": "2021-05-15T00:49:09.000Z",
-          "wordCount": 1324,
-          "title": "TSMC looks to double down on U.S. chip factories as talks in Europe falter"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27161011",
-          "author": "demail",
-          "description": "Article URL: https://twitter.com/Iameaschris/status/1391207396979007488\nComments URL: https://news.ycombinator.com/item?id=27161011\nPoints: 281\n# Comments: 186",
-          "link": "https://twitter.com/Iameaschris/status/1391207396979007488",
-          "publishedOn": "2021-05-15T00:06:30.000Z",
-          "wordCount": 196,
-          "title": "TikTok Remix Culture"
         }
       ]
     },
@@ -751,10 +751,10 @@
         {
           "id": "609ccb0d62ab9107fe5aa0ce",
           "author": "",
-          "description": "I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before",
+          "description": "I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but that's what I have been doing for the past year. I'm working remotely until COVID subsides and we can move to San Francisco.  In this article I'm going to",
           "link": "https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/",
           "publishedOn": "2021-05-13T16:25:03.000Z",
-          "wordCount": 4002,
+          "wordCount": 4024,
           "title": "From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills"
         },
         {
@@ -763,7 +763,7 @@
           "description": "In this free book, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a",
           "link": "https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/",
           "publishedOn": "2021-05-12T20:53:20.000Z",
-          "wordCount": 25080,
+          "wordCount": 24536,
           "title": "How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify"
         },
         {

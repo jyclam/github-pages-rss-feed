@@ -2,19 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T15:14:20.120Z</updated>
+    <updated>2021-05-15T16:27:28.695Z</updated>
     <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Nim 2.0]]></title>
+        <title type="html"><![CDATA[Six Years of Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27166191</id>
+        <link href="https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html"/>
+        <updated>2021-05-15T15:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.rust-lang.org/2021/05/15/six-years-of-rust.html
+Comments URL: https://news.ycombinator.com/item?id=27166191
+Points: 37
+# Comments: 4]]></summary>
+        <author>
+            <name>GolDDranks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsix: Parse Don't Validate]]></title>
+        <id>https://news.ycombinator.com/item?id=27166162</id>
+        <link href="https://github.com/parsix/parsix"/>
+        <updated>2021-05-15T15:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/parsix/parsix
+Comments URL: https://news.ycombinator.com/item?id=27166162
+Points: 16
+# Comments: 0]]></summary>
+        <author>
+            <name>Iazel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cox Hotspots with Panoramic Wifi]]></title>
+        <id>https://news.ycombinator.com/item?id=27166043</id>
+        <link href="https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html"/>
+        <updated>2021-05-15T15:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html
+Comments URL: https://news.ycombinator.com/item?id=27166043
+Points: 23
+# Comments: 16]]></summary>
+        <author>
+            <name>foobarbecue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Javascript: Everything you missed over the last 10 years (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27165954</id>
+        <link href="https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years"/>
+        <updated>2021-05-15T15:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
+Comments URL: https://news.ycombinator.com/item?id=27165954
+Points: 62
+# Comments: 13]]></summary>
+        <author>
+            <name>EntICOnc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nim 2.0 thoughts]]></title>
         <id>https://news.ycombinator.com/item?id=27165366</id>
         <link href="https://forum.nim-lang.org/t/7983"/>
         <updated>2021-05-15T14:08:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://forum.nim-lang.org/t/7983
 Comments URL: https://news.ycombinator.com/item?id=27165366
-Points: 51
-# Comments: 6]]></summary>
+Points: 102
+# Comments: 36]]></summary>
         <author>
             <name>michaelsbradley</name>
         </author>
@@ -26,8 +78,8 @@ Points: 51
         <updated>2021-05-15T14:05:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pine64.org/2021/05/15/may-update-connection-established/
 Comments URL: https://news.ycombinator.com/item?id=27165352
-Points: 5
-# Comments: 1]]></summary>
+Points: 22
+# Comments: 4]]></summary>
         <author>
             <name>fheld</name>
         </author>
@@ -39,10 +91,36 @@ Points: 5
         <updated>2021-05-15T13:48:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/lana-k/sqliteviz
 Comments URL: https://news.ycombinator.com/item?id=27165192
-Points: 30
-# Comments: 1]]></summary>
+Points: 59
+# Comments: 6]]></summary>
         <author>
             <name>lana-k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiplying Integers Using Fourier Transforms [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27165133</id>
+        <link href="http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf"/>
+        <updated>2021-05-15T13:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf
+Comments URL: https://news.ycombinator.com/item?id=27165133
+Points: 12
+# Comments: 1]]></summary>
+        <author>
+            <name>nceqs3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Ligon: America's 'longest juvenile lifer' on 68 years in prison]]></title>
+        <id>https://news.ycombinator.com/item?id=27165078</id>
+        <link href="https://www.bbc.com/news/world-us-canada-57022924"/>
+        <updated>2021-05-15T13:35:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-us-canada-57022924
+Comments URL: https://news.ycombinator.com/item?id=27165078
+Points: 37
+# Comments: 16]]></summary>
+        <author>
+            <name>gmays</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +130,8 @@ Points: 30
         <updated>2021-05-15T12:55:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://icepanel.io/
 Comments URL: https://news.ycombinator.com/item?id=27164769
-Points: 74
-# Comments: 24]]></summary>
+Points: 105
+# Comments: 33]]></summary>
         <author>
             <name>JacobDesigns</name>
         </author>
@@ -65,8 +143,8 @@ Points: 74
         <updated>2021-05-15T12:06:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/va-state-wire-technology-business-1f06c091c492c1630471d29a9cf6529d
 Comments URL: https://news.ycombinator.com/item?id=27164476
-Points: 31
-# Comments: 11]]></summary>
+Points: 43
+# Comments: 17]]></summary>
         <author>
             <name>jtdev</name>
         </author>
@@ -91,21 +169,21 @@ Points: 1
         <updated>2021-05-15T11:55:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.rbth.com/longreads/soviet-watches/
 Comments URL: https://news.ycombinator.com/item?id=27164417
-Points: 6
-# Comments: 0]]></summary>
+Points: 25
+# Comments: 3]]></summary>
         <author>
             <name>gscott</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Few realistic scenarios left to limit global warming to 1.5°C]]></title>
-        <id>https://news.ycombinator.com/item?id=27164253</id>
-        <link href="https://phys.org/news/2021-05-realistic-scenarios-left-limit-global.html"/>
-        <updated>2021-05-15T11:20:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-realistic-scenarios-left-limit-global.html
-Comments URL: https://news.ycombinator.com/item?id=27164253
-Points: 50
-# Comments: 34]]></summary>
+        <title type="html"><![CDATA[Was cancer less likely in a pre-industrial world?]]></title>
+        <id>https://news.ycombinator.com/item?id=27164171</id>
+        <link href="https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world"/>
+        <updated>2021-05-15T11:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world
+Comments URL: https://news.ycombinator.com/item?id=27164171
+Points: 35
+# Comments: 56]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -117,8 +195,8 @@ Points: 50
         <updated>2021-05-15T10:56:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/1903.00982
 Comments URL: https://news.ycombinator.com/item?id=27164131
-Points: 43
-# Comments: 10]]></summary>
+Points: 49
+# Comments: 13]]></summary>
         <author>
             <name>VitalyAnkh</name>
         </author>
@@ -130,8 +208,8 @@ Points: 43
         <updated>2021-05-15T10:27:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/
 Comments URL: https://news.ycombinator.com/item?id=27164000
-Points: 138
-# Comments: 114]]></summary>
+Points: 172
+# Comments: 147]]></summary>
         <author>
             <name>weinzierl</name>
         </author>
@@ -143,8 +221,8 @@ Points: 138
         <updated>2021-05-15T10:21:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ufuu/JDK10
 Comments URL: https://news.ycombinator.com/item?id=27163964
-Points: 99
-# Comments: 30]]></summary>
+Points: 118
+# Comments: 32]]></summary>
         <author>
             <name>gzer0</name>
         </author>
@@ -156,8 +234,8 @@ Points: 99
         <updated>2021-05-15T09:59:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://midnight.pub/
 Comments URL: https://news.ycombinator.com/item?id=27163866
-Points: 9
-# Comments: 0]]></summary>
+Points: 32
+# Comments: 3]]></summary>
         <author>
             <name>ms123</name>
         </author>
@@ -180,8 +258,8 @@ Chore: rendering logic refactoring. Adopting functional paradigm.]]></summary>
         <updated>2021-05-15T08:56:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/05/14/anal-oxygen-administration-may-save-lives
 Comments URL: https://news.ycombinator.com/item?id=27163570
-Points: 103
-# Comments: 85]]></summary>
+Points: 124
+# Comments: 100]]></summary>
         <author>
             <name>helsinkiandrew</name>
         </author>
@@ -193,88 +271,10 @@ Points: 103
         <updated>2021-05-15T08:37:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars
 Comments URL: https://news.ycombinator.com/item?id=27163494
-Points: 32
-# Comments: 12]]></summary>
+Points: 41
+# Comments: 17]]></summary>
         <author>
             <name>justaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old electric cars are a raw material of the future]]></title>
-        <id>https://news.ycombinator.com/item?id=27163160</id>
-        <link href="https://www.economist.com/science-and-technology/2021/05/13/old-electric-cars-are-a-raw-material-of-the-future"/>
-        <updated>2021-05-15T07:19:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/05/13/old-electric-cars-are-a-raw-material-of-the-future
-Comments URL: https://news.ycombinator.com/item?id=27163160
-Points: 55
-# Comments: 43]]></summary>
-        <author>
-            <name>edward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Bush Hid the Facts”]]></title>
-        <id>https://news.ycombinator.com/item?id=27162342</id>
-        <link href="https://en.wikipedia.org/wiki/Bush_hid_the_facts"/>
-        <updated>2021-05-15T04:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Bush_hid_the_facts
-Comments URL: https://news.ycombinator.com/item?id=27162342
-Points: 180
-# Comments: 23]]></summary>
-        <author>
-            <name>pizza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook faces ‘devastating’ EU-to-US data transfer ban]]></title>
-        <id>https://news.ycombinator.com/item?id=27161783</id>
-        <link href="https://aje.io/fftg5"/>
-        <updated>2021-05-15T02:33:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aje.io/fftg5
-Comments URL: https://news.ycombinator.com/item?id=27161783
-Points: 97
-# Comments: 47]]></summary>
-        <author>
-            <name>underseacables</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China lands rover on Mars]]></title>
-        <id>https://news.ycombinator.com/item?id=27161524</id>
-        <link href="https://www.bbc.com/news/science-environment-57122914"/>
-        <updated>2021-05-15T01:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57122914
-Comments URL: https://news.ycombinator.com/item?id=27161524
-Points: 473
-# Comments: 245]]></summary>
-        <author>
-            <name>rococode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TSMC looks to double down on U.S. chip factories as talks in Europe falter]]></title>
-        <id>https://news.ycombinator.com/item?id=27161217</id>
-        <link href="https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/"/>
-        <updated>2021-05-15T00:49:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/
-Comments URL: https://news.ycombinator.com/item?id=27161217
-Points: 395
-# Comments: 410]]></summary>
-        <author>
-            <name>adventured</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok Remix Culture]]></title>
-        <id>https://news.ycombinator.com/item?id=27161011</id>
-        <link href="https://twitter.com/Iameaschris/status/1391207396979007488"/>
-        <updated>2021-05-15T00:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/Iameaschris/status/1391207396979007488
-Comments URL: https://news.ycombinator.com/item?id=27161011
-Points: 281
-# Comments: 186]]></summary>
-        <author>
-            <name>demail</name>
         </author>
     </entry>
     <entry>
@@ -416,7 +416,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>609ccb0d62ab9107fe5aa0ce</id>
         <link href="https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/"/>
         <updated>2021-05-13T16:25:03.000Z</updated>
-        <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before]]></summary>
+        <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but that's what I have been doing for the past year. I'm working remotely until COVID subsides and we can move to San Francisco.  In this article I'm going to]]></summary>
         <author>
             <name/>
         </author>
