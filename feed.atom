@@ -2,32 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T14:13:19.256Z</updated>
+    <updated>2021-05-15T15:14:20.120Z</updated>
     <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Chiropractors are bullshit]]></title>
-        <id>https://news.ycombinator.com/item?id=27164956</id>
-        <link href="https://theoutline.com/post/1617/chiropractors-are-bullshit"/>
-        <updated>2021-05-15T13:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://theoutline.com/post/1617/chiropractors-are-bullshit
-Comments URL: https://news.ycombinator.com/item?id=27164956
-Points: 80
-# Comments: 55]]></summary>
+        <title type="html"><![CDATA[Nim 2.0]]></title>
+        <id>https://news.ycombinator.com/item?id=27165366</id>
+        <link href="https://forum.nim-lang.org/t/7983"/>
+        <updated>2021-05-15T14:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://forum.nim-lang.org/t/7983
+Comments URL: https://news.ycombinator.com/item?id=27165366
+Points: 51
+# Comments: 6]]></summary>
         <author>
-            <name>michaelmachine</name>
+            <name>michaelsbradley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May Update: Connection Established]]></title>
+        <id>https://news.ycombinator.com/item?id=27165352</id>
+        <link href="https://www.pine64.org/2021/05/15/may-update-connection-established/"/>
+        <updated>2021-05-15T14:05:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pine64.org/2021/05/15/may-update-connection-established/
+Comments URL: https://news.ycombinator.com/item?id=27165352
+Points: 5
+# Comments: 1]]></summary>
+        <author>
+            <name>fheld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offline-First PWA for Plotly Visualization of CSV via SQLite]]></title>
+        <id>https://news.ycombinator.com/item?id=27165192</id>
+        <link href="https://github.com/lana-k/sqliteviz"/>
+        <updated>2021-05-15T13:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/lana-k/sqliteviz
+Comments URL: https://news.ycombinator.com/item?id=27165192
+Points: 30
+# Comments: 1]]></summary>
+        <author>
+            <name>lana-k</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Design structured diagrams, built to increase your team's trust in your docs]]></title>
         <id>https://news.ycombinator.com/item?id=27164769</id>
-        <link href="http://u.icepanel.io/74a256c8"/>
+        <link href="https://icepanel.io/"/>
         <updated>2021-05-15T12:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://u.icepanel.io/74a256c8
+        <summary type="html"><![CDATA[Article URL: https://icepanel.io/
 Comments URL: https://news.ycombinator.com/item?id=27164769
-Points: 29
-# Comments: 7]]></summary>
+Points: 74
+# Comments: 24]]></summary>
         <author>
             <name>JacobDesigns</name>
         </author>
@@ -39,8 +65,8 @@ Points: 29
         <updated>2021-05-15T12:06:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/va-state-wire-technology-business-1f06c091c492c1630471d29a9cf6529d
 Comments URL: https://news.ycombinator.com/item?id=27164476
-Points: 16
-# Comments: 0]]></summary>
+Points: 31
+# Comments: 11]]></summary>
         <author>
             <name>jtdev</name>
         </author>
@@ -59,16 +85,16 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Universal basic income to be tested in Wales]]></title>
-        <id>https://news.ycombinator.com/item?id=27164365</id>
-        <link href="https://www.bbc.co.uk/news/uk-wales-politics-57120354"/>
-        <updated>2021-05-15T11:42:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/uk-wales-politics-57120354
-Comments URL: https://news.ycombinator.com/item?id=27164365
-Points: 153
-# Comments: 173]]></summary>
+        <title type="html"><![CDATA[Watches from the Soviet Union]]></title>
+        <id>https://news.ycombinator.com/item?id=27164417</id>
+        <link href="https://www.rbth.com/longreads/soviet-watches/"/>
+        <updated>2021-05-15T11:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.rbth.com/longreads/soviet-watches/
+Comments URL: https://news.ycombinator.com/item?id=27164417
+Points: 6
+# Comments: 0]]></summary>
         <author>
-            <name>tmfi</name>
+            <name>gscott</name>
         </author>
     </entry>
     <entry>
@@ -78,21 +104,8 @@ Points: 153
         <updated>2021-05-15T11:20:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-realistic-scenarios-left-limit-global.html
 Comments URL: https://news.ycombinator.com/item?id=27164253
-Points: 19
-# Comments: 5]]></summary>
-        <author>
-            <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Was cancer less likely in a pre-industrial world?]]></title>
-        <id>https://news.ycombinator.com/item?id=27164171</id>
-        <link href="https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world"/>
-        <updated>2021-05-15T11:04:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world
-Comments URL: https://news.ycombinator.com/item?id=27164171
-Points: 23
-# Comments: 38]]></summary>
+Points: 50
+# Comments: 34]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -104,8 +117,8 @@ Points: 23
         <updated>2021-05-15T10:56:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/1903.00982
 Comments URL: https://news.ycombinator.com/item?id=27164131
-Points: 36
-# Comments: 9]]></summary>
+Points: 43
+# Comments: 10]]></summary>
         <author>
             <name>VitalyAnkh</name>
         </author>
@@ -117,23 +130,36 @@ Points: 36
         <updated>2021-05-15T10:27:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/
 Comments URL: https://news.ycombinator.com/item?id=27164000
-Points: 108
-# Comments: 74]]></summary>
+Points: 138
+# Comments: 114]]></summary>
         <author>
             <name>weinzierl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java JDK 1.0]]></title>
+        <title type="html"><![CDATA[Java JDK 1.0 (1996)]]></title>
         <id>https://news.ycombinator.com/item?id=27163964</id>
         <link href="https://github.com/ufuu/JDK10"/>
         <updated>2021-05-15T10:21:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ufuu/JDK10
 Comments URL: https://news.ycombinator.com/item?id=27163964
-Points: 89
-# Comments: 26]]></summary>
+Points: 99
+# Comments: 30]]></summary>
         <author>
             <name>gzer0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Midnight Pub]]></title>
+        <id>https://news.ycombinator.com/item?id=27163866</id>
+        <link href="https://midnight.pub/"/>
+        <updated>2021-05-15T09:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://midnight.pub/
+Comments URL: https://news.ycombinator.com/item?id=27163866
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>ms123</name>
         </author>
     </entry>
     <entry>
@@ -154,8 +180,8 @@ Chore: rendering logic refactoring. Adopting functional paradigm.]]></summary>
         <updated>2021-05-15T08:56:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/05/14/anal-oxygen-administration-may-save-lives
 Comments URL: https://news.ycombinator.com/item?id=27163570
-Points: 85
-# Comments: 72]]></summary>
+Points: 103
+# Comments: 85]]></summary>
         <author>
             <name>helsinkiandrew</name>
         </author>
@@ -167,8 +193,8 @@ Points: 85
         <updated>2021-05-15T08:37:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars
 Comments URL: https://news.ycombinator.com/item?id=27163494
-Points: 23
-# Comments: 11]]></summary>
+Points: 32
+# Comments: 12]]></summary>
         <author>
             <name>justaj</name>
         </author>
@@ -180,8 +206,8 @@ Points: 23
         <updated>2021-05-15T07:19:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/05/13/old-electric-cars-are-a-raw-material-of-the-future
 Comments URL: https://news.ycombinator.com/item?id=27163160
-Points: 45
-# Comments: 26]]></summary>
+Points: 55
+# Comments: 43]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -193,8 +219,8 @@ Points: 45
         <updated>2021-05-15T04:22:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Bush_hid_the_facts
 Comments URL: https://news.ycombinator.com/item?id=27162342
-Points: 167
-# Comments: 20]]></summary>
+Points: 180
+# Comments: 23]]></summary>
         <author>
             <name>pizza</name>
         </author>
@@ -206,8 +232,8 @@ Points: 167
         <updated>2021-05-15T02:33:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aje.io/fftg5
 Comments URL: https://news.ycombinator.com/item?id=27161783
-Points: 57
-# Comments: 18]]></summary>
+Points: 97
+# Comments: 47]]></summary>
         <author>
             <name>underseacables</name>
         </author>
@@ -219,8 +245,8 @@ Points: 57
         <updated>2021-05-15T01:41:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57122914
 Comments URL: https://news.ycombinator.com/item?id=27161524
-Points: 444
-# Comments: 231]]></summary>
+Points: 473
+# Comments: 245]]></summary>
         <author>
             <name>rococode</name>
         </author>
@@ -232,8 +258,8 @@ Points: 444
         <updated>2021-05-15T00:49:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/
 Comments URL: https://news.ycombinator.com/item?id=27161217
-Points: 380
-# Comments: 403]]></summary>
+Points: 395
+# Comments: 410]]></summary>
         <author>
             <name>adventured</name>
         </author>
@@ -245,36 +271,10 @@ Points: 380
         <updated>2021-05-15T00:06:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Iameaschris/status/1391207396979007488
 Comments URL: https://news.ycombinator.com/item?id=27161011
-Points: 265
-# Comments: 171]]></summary>
+Points: 281
+# Comments: 186]]></summary>
         <author>
             <name>demail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Return of Fancy Tools]]></title>
-        <id>https://news.ycombinator.com/item?id=27160983</id>
-        <link href="https://macwright.com/2021/03/16/return-of-fancy-tools.html"/>
-        <updated>2021-05-15T00:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://macwright.com/2021/03/16/return-of-fancy-tools.html
-Comments URL: https://news.ycombinator.com/item?id=27160983
-Points: 362
-# Comments: 170]]></summary>
-        <author>
-            <name>typeofnandev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten Rules for Negotiating a Job Offer]]></title>
-        <id>https://news.ycombinator.com/item?id=27160934</id>
-        <link href="https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/"/>
-        <updated>2021-05-14T23:56:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
-Comments URL: https://news.ycombinator.com/item?id=27160934
-Points: 91
-# Comments: 30]]></summary>
-        <author>
-            <name>andyxor</name>
         </author>
     </entry>
     <entry>
