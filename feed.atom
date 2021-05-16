@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T14:29:20.111Z</updated>
+    <updated>2021-05-16T15:20:40.468Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,10 +13,23 @@
         <updated>2021-05-16T14:09:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Braess%27s_paradox
 Comments URL: https://news.ycombinator.com/item?id=27173829
-Points: 3
-# Comments: 0]]></summary>
+Points: 18
+# Comments: 9]]></summary>
         <author>
             <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Personal Website in 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27173728</id>
+        <link href="https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021"/>
+        <updated>2021-05-16T13:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021
+Comments URL: https://news.ycombinator.com/item?id=27173728
+Points: 31
+# Comments: 1]]></summary>
+        <author>
+            <name>mkosmul</name>
         </author>
     </entry>
     <entry>
@@ -26,10 +39,23 @@ Points: 3
         <updated>2021-05-16T13:53:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://seaglass.cs.washington.edu/
 Comments URL: https://news.ycombinator.com/item?id=27173717
-Points: 9
-# Comments: 0]]></summary>
+Points: 65
+# Comments: 9]]></summary>
         <author>
             <name>kogir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ward: Modern Test Framework for Python]]></title>
+        <id>https://news.ycombinator.com/item?id=27173566</id>
+        <link href="https://github.com/darrenburns/ward"/>
+        <updated>2021-05-16T13:28:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/darrenburns/ward
+Comments URL: https://news.ycombinator.com/item?id=27173566
+Points: 17
+# Comments: 8]]></summary>
+        <author>
+            <name>yagizdegirmenci</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +65,8 @@ Points: 9
         <updated>2021-05-16T13:16:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/afternoons-are-the-new-rush-hour-in-the-suburbs-11621157403
 Comments URL: https://news.ycombinator.com/item?id=27173508
-Points: 10
-# Comments: 2]]></summary>
+Points: 20
+# Comments: 7]]></summary>
         <author>
             <name>burlesona</name>
         </author>
@@ -65,8 +91,8 @@ Points: 1
         <updated>2021-05-16T11:47:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mxb.dev/blog/container-queries-web-components/
 Comments URL: https://news.ycombinator.com/item?id=27173010
-Points: 24
-# Comments: 8]]></summary>
+Points: 33
+# Comments: 18]]></summary>
         <author>
             <name>mxbck</name>
         </author>
@@ -78,8 +104,8 @@ Points: 24
         <updated>2021-05-16T11:42:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/suez-canal-will-be-widened-avoid-repeat-ever-given-blockage-2021-5
 Comments URL: https://news.ycombinator.com/item?id=27172983
-Points: 84
-# Comments: 108]]></summary>
+Points: 101
+# Comments: 136]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -91,8 +117,8 @@ Points: 84
         <updated>2021-05-16T11:22:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thehustle.co/why-introverts-make-great-leaders/
 Comments URL: https://news.ycombinator.com/item?id=27172893
-Points: 69
-# Comments: 45]]></summary>
+Points: 82
+# Comments: 51]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -104,23 +130,10 @@ Points: 69
         <updated>2021-05-16T09:57:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/audacity/audacity/discussions/889
 Comments URL: https://news.ycombinator.com/item?id=27172539
-Points: 130
-# Comments: 119]]></summary>
+Points: 137
+# Comments: 128]]></summary>
         <author>
             <name>jraph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Actions Down]]></title>
-        <id>https://news.ycombinator.com/item?id=27172240</id>
-        <link href="https://news.ycombinator.com/item?id=27172240"/>
-        <updated>2021-05-16T08:47:56.000Z</updated>
-        <summary type="html"><![CDATA[And I'm here waiting for my scheduled build to start...
-Comments URL: https://news.ycombinator.com/item?id=27172240
-Points: 71
-# Comments: 33]]></summary>
-        <author>
-            <name>kakamiokatsu</name>
         </author>
     </entry>
     <entry>
@@ -130,8 +143,8 @@ Points: 71
         <updated>2021-05-16T08:37:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/uk-england-cumbria-57015478
 Comments URL: https://news.ycombinator.com/item?id=27172193
-Points: 25
-# Comments: 11]]></summary>
+Points: 28
+# Comments: 12]]></summary>
         <author>
             <name>bananapear</name>
         </author>
@@ -143,8 +156,8 @@ Points: 25
         <updated>2021-05-16T08:00:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-pep-654.html
 Comments URL: https://news.ycombinator.com/item?id=27172017
-Points: 50
-# Comments: 6]]></summary>
+Points: 58
+# Comments: 10]]></summary>
         <author>
             <name>BerislavLopac</name>
         </author>
@@ -156,8 +169,8 @@ Points: 50
         <updated>2021-05-16T07:51:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html
 Comments URL: https://news.ycombinator.com/item?id=27171978
-Points: 44
-# Comments: 4]]></summary>
+Points: 56
+# Comments: 6]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -169,8 +182,8 @@ Points: 44
         <updated>2021-05-16T07:16:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fabiensanglard.net/lte/index.html
 Comments URL: https://news.ycombinator.com/item?id=27171860
-Points: 377
-# Comments: 64]]></summary>
+Points: 422
+# Comments: 76]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -182,8 +195,8 @@ Points: 377
         <updated>2021-05-16T06:51:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/samsung-raises-non-memory-chip-investment-target-skorea-announces-bigger-tax-2021-05-13/
 Comments URL: https://news.ycombinator.com/item?id=27171750
-Points: 127
-# Comments: 69]]></summary>
+Points: 138
+# Comments: 83]]></summary>
         <author>
             <name>minwuekim</name>
         </author>
@@ -195,8 +208,8 @@ Points: 127
         <updated>2021-05-16T06:36:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s42003-021-02019-y
 Comments URL: https://news.ycombinator.com/item?id=27171684
-Points: 82
-# Comments: 33]]></summary>
+Points: 86
+# Comments: 38]]></summary>
         <author>
             <name>vnglst</name>
         </author>
@@ -208,23 +221,10 @@ Points: 82
         <updated>2021-05-16T06:24:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/dezman/beatoftheday
 Comments URL: https://news.ycombinator.com/item?id=27171641
-Points: 24
+Points: 25
 # Comments: 5]]></summary>
         <author>
             <name>broooder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disguised “AMD PCI Driver” enables executable-specific hacks]]></title>
-        <id>https://news.ycombinator.com/item?id=27171520</id>
-        <link href="https://twitter.com/aionescu/status/1393728057005920263"/>
-        <updated>2021-05-16T05:57:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/aionescu/status/1393728057005920263
-Comments URL: https://news.ycombinator.com/item?id=27171520
-Points: 118
-# Comments: 25]]></summary>
-        <author>
-            <name>aunali1</name>
         </author>
     </entry>
     <entry>
@@ -234,8 +234,8 @@ Points: 118
         <updated>2021-05-16T04:23:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://staceyoniot.com/the-chip-shortage-could-lead-to-an-era-of-hardware-innovation/
 Comments URL: https://news.ycombinator.com/item?id=27171214
-Points: 153
-# Comments: 99]]></summary>
+Points: 161
+# Comments: 110]]></summary>
         <author>
             <name>cofree</name>
         </author>
@@ -247,7 +247,7 @@ Points: 153
         <updated>2021-05-16T03:36:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jeffhuang.com/extracting_data_from_tracking_devices/
 Comments URL: https://news.ycombinator.com/item?id=27170992
-Points: 45
+Points: 54
 # Comments: 1]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -260,8 +260,8 @@ Points: 45
         <updated>2021-05-16T03:32:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://thingstwin.com/
 Comments URL: https://news.ycombinator.com/item?id=27170975
-Points: 47
-# Comments: 11]]></summary>
+Points: 50
+# Comments: 14]]></summary>
         <author>
             <name>Can0nC</name>
         </author>
