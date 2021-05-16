@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T17:43:25.242Z</updated>
+    <updated>2021-05-16T18:28:01.212Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,8 +13,8 @@
         <updated>2021-05-16T17:03:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hyperscript.org
 Comments URL: https://news.ycombinator.com/item?id=27175091
-Points: 24
-# Comments: 7]]></summary>
+Points: 51
+# Comments: 15]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -39,10 +39,23 @@ Points: 1
         <updated>2021-05-16T16:32:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ilsr.org/washington-state-removes-all-barriers-to-municipal-broadband/
 Comments URL: https://news.ycombinator.com/item?id=27174802
-Points: 63
-# Comments: 6]]></summary>
+Points: 153
+# Comments: 26]]></summary>
         <author>
             <name>joeyespo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to setup a Handshake site with Caddy]]></title>
+        <id>https://news.ycombinator.com/item?id=27174348</id>
+        <link href="https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt"/>
+        <updated>2021-05-16T15:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt
+Comments URL: https://news.ycombinator.com/item?id=27174348
+Points: 11
+# Comments: 5]]></summary>
+        <author>
+            <name>NetOpWibby</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +65,8 @@ Points: 63
         <updated>2021-05-16T15:04:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://html-notepad.com/
 Comments URL: https://news.ycombinator.com/item?id=27174188
-Points: 53
-# Comments: 16]]></summary>
+Points: 73
+# Comments: 29]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -65,8 +78,8 @@ Points: 53
         <updated>2021-05-16T14:32:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/The_Awful_German_Language
 Comments URL: https://news.ycombinator.com/item?id=27173967
-Points: 29
-# Comments: 12]]></summary>
+Points: 42
+# Comments: 36]]></summary>
         <author>
             <name>1cvmask</name>
         </author>
@@ -78,8 +91,8 @@ Points: 29
         <updated>2021-05-16T14:15:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1
 Comments URL: https://news.ycombinator.com/item?id=27173859
-Points: 77
-# Comments: 30]]></summary>
+Points: 94
+# Comments: 37]]></summary>
         <author>
             <name>krustyburger</name>
         </author>
@@ -91,8 +104,8 @@ Points: 77
         <updated>2021-05-16T14:09:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Braess%27s_paradox
 Comments URL: https://news.ycombinator.com/item?id=27173829
-Points: 43
-# Comments: 17]]></summary>
+Points: 46
+# Comments: 23]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -104,8 +117,8 @@ Points: 43
         <updated>2021-05-16T14:04:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://secondavenuesagas.com/2013/04/16/an-observation-on-metrocards-after-a-1-fee/
 Comments URL: https://news.ycombinator.com/item?id=27173793
-Points: 17
-# Comments: 15]]></summary>
+Points: 26
+# Comments: 28]]></summary>
         <author>
             <name>nojito</name>
         </author>
@@ -117,8 +130,8 @@ Points: 17
         <updated>2021-05-16T13:54:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021
 Comments URL: https://news.ycombinator.com/item?id=27173728
-Points: 164
-# Comments: 69]]></summary>
+Points: 185
+# Comments: 86]]></summary>
         <author>
             <name>mkosmul</name>
         </author>
@@ -130,23 +143,10 @@ Points: 164
         <updated>2021-05-16T13:53:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://seaglass.cs.washington.edu/
 Comments URL: https://news.ycombinator.com/item?id=27173717
-Points: 199
-# Comments: 24]]></summary>
+Points: 216
+# Comments: 26]]></summary>
         <author>
             <name>kogir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Half a million lines of Go at The Khan Academy]]></title>
-        <id>https://news.ycombinator.com/item?id=27173665</id>
-        <link href="https://blog.khanacademy.org/half-a-million-lines-of-go/"/>
-        <updated>2021-05-16T13:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.khanacademy.org/half-a-million-lines-of-go/
-Comments URL: https://news.ycombinator.com/item?id=27173665
-Points: 61
-# Comments: 39]]></summary>
-        <author>
-            <name>nickcw</name>
         </author>
     </entry>
     <entry>
@@ -156,8 +156,8 @@ Points: 61
         <updated>2021-05-16T12:38:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nzeldes.com/HOC/Posographe.htm
 Comments URL: https://news.ycombinator.com/item?id=27173274
-Points: 12
-# Comments: 0]]></summary>
+Points: 15
+# Comments: 2]]></summary>
         <author>
             <name>polm23</name>
         </author>
@@ -169,8 +169,8 @@ Points: 12
         <updated>2021-05-16T12:22:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vegetableman.github.io/vandal/
 Comments URL: https://news.ycombinator.com/item?id=27173185
-Points: 37
-# Comments: 8]]></summary>
+Points: 42
+# Comments: 9]]></summary>
         <author>
             <name>vigneshanand</name>
         </author>
@@ -182,23 +182,10 @@ Points: 37
         <updated>2021-05-16T11:47:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mxb.dev/blog/container-queries-web-components/
 Comments URL: https://news.ycombinator.com/item?id=27173010
-Points: 59
-# Comments: 34]]></summary>
+Points: 64
+# Comments: 39]]></summary>
         <author>
             <name>mxbck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introverts can make great leaders (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=27172893</id>
-        <link href="https://thehustle.co/why-introverts-make-great-leaders/"/>
-        <updated>2021-05-16T11:22:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thehustle.co/why-introverts-make-great-leaders/
-Comments URL: https://news.ycombinator.com/item?id=27172893
-Points: 105
-# Comments: 82]]></summary>
-        <author>
-            <name>Anon84</name>
         </author>
     </entry>
     <entry>
@@ -208,8 +195,8 @@ Points: 105
         <updated>2021-05-16T08:00:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-pep-654.html
 Comments URL: https://news.ycombinator.com/item?id=27172017
-Points: 69
-# Comments: 15]]></summary>
+Points: 74
+# Comments: 17]]></summary>
         <author>
             <name>BerislavLopac</name>
         </author>
@@ -221,7 +208,7 @@ Points: 69
         <updated>2021-05-16T07:51:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html
 Comments URL: https://news.ycombinator.com/item?id=27171978
-Points: 65
+Points: 68
 # Comments: 6]]></summary>
         <author>
             <name>ingve</name>
@@ -235,8 +222,8 @@ Points: 65
         <summary type="html"><![CDATA[Many times you just want to plug something in. PostgreSQL, Node.JS Express, Java Spring, numpy, Three.js. There's many examples where the already existing solution fits well.
 Sometimes that's not good enough tho. What are some tools, libraries or services you built, are they open-source and why weren't you satisfied using what already existed?
 Comments URL: https://news.ycombinator.com/item?id=27171970
-Points: 108
-# Comments: 183]]></summary>
+Points: 136
+# Comments: 236]]></summary>
         <author>
             <name>graderjs</name>
         </author>
@@ -248,8 +235,8 @@ Points: 108
         <updated>2021-05-16T07:16:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fabiensanglard.net/lte/index.html
 Comments URL: https://news.ycombinator.com/item?id=27171860
-Points: 514
-# Comments: 89]]></summary>
+Points: 530
+# Comments: 96]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -261,10 +248,23 @@ Points: 514
         <updated>2021-05-16T06:51:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/samsung-raises-non-memory-chip-investment-target-skorea-announces-bigger-tax-2021-05-13/
 Comments URL: https://news.ycombinator.com/item?id=27171750
-Points: 164
-# Comments: 106]]></summary>
+Points: 173
+# Comments: 111]]></summary>
         <author>
             <name>minwuekim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brain size drives differences in yawn duration across mammals and birds]]></title>
+        <id>https://news.ycombinator.com/item?id=27171684</id>
+        <link href="https://www.nature.com/articles/s42003-021-02019-y"/>
+        <updated>2021-05-16T06:36:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s42003-021-02019-y
+Comments URL: https://news.ycombinator.com/item?id=27171684
+Points: 112
+# Comments: 50]]></summary>
+        <author>
+            <name>vnglst</name>
         </author>
     </entry>
     <entry>
