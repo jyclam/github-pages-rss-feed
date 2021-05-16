@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T08:17:31.752Z</updated>
+    <updated>2021-05-16T09:35:54.746Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions Down]]></title>
+        <id>https://news.ycombinator.com/item?id=27172240</id>
+        <link href="https://news.ycombinator.com/item?id=27172240"/>
+        <updated>2021-05-16T08:47:56.000Z</updated>
+        <summary type="html"><![CDATA[And I'm here waiting for my scheduled build to start...
+Comments URL: https://news.ycombinator.com/item?id=27172240
+Points: 8
+# Comments: 2]]></summary>
+        <author>
+            <name>kakamiokatsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Herdwicks: The sheep that shaped the Lake District]]></title>
+        <id>https://news.ycombinator.com/item?id=27172193</id>
+        <link href="https://www.bbc.co.uk/news/uk-england-cumbria-57015478"/>
+        <updated>2021-05-16T08:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/uk-england-cumbria-57015478
+Comments URL: https://news.ycombinator.com/item?id=27172193
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>bananapear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verifying Vectorized Rust Revisited]]></title>
+        <id>https://news.ycombinator.com/item?id=27171978</id>
+        <link href="https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html"/>
+        <updated>2021-05-16T07:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html
+Comments URL: https://news.ycombinator.com/item?id=27171978
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Observing my cellphone switch towers]]></title>
         <id>https://news.ycombinator.com/item?id=27171860</id>
@@ -13,8 +52,8 @@
         <updated>2021-05-16T07:16:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fabiensanglard.net/lte/index.html
 Comments URL: https://news.ycombinator.com/item?id=27171860
-Points: 48
-# Comments: 1]]></summary>
+Points: 146
+# Comments: 25]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -26,23 +65,10 @@ Points: 48
         <updated>2021-05-16T06:51:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/samsung-raises-non-memory-chip-investment-target-skorea-announces-bigger-tax-2021-05-13/
 Comments URL: https://news.ycombinator.com/item?id=27171750
-Points: 40
-# Comments: 3]]></summary>
+Points: 65
+# Comments: 18]]></summary>
         <author>
             <name>minwuekim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does the future hold for Windows if it isn't Windows 10x?]]></title>
-        <id>https://news.ycombinator.com/item?id=27171704</id>
-        <link href="https://www.windowscentral.com/whats-does-future-hold-windows-if-it-isnt-windows-10x"/>
-        <updated>2021-05-16T06:41:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.windowscentral.com/whats-does-future-hold-windows-if-it-isnt-windows-10x
-Comments URL: https://news.ycombinator.com/item?id=27171704
-Points: 26
-# Comments: 8]]></summary>
-        <author>
-            <name>zathan</name>
         </author>
     </entry>
     <entry>
@@ -52,10 +78,23 @@ Points: 26
         <updated>2021-05-16T06:36:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s42003-021-02019-y
 Comments URL: https://news.ycombinator.com/item?id=27171684
-Points: 16
-# Comments: 2]]></summary>
+Points: 37
+# Comments: 8]]></summary>
         <author>
             <name>vnglst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Railway Map (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=27171556</id>
+        <link href="http://cnrail.geogv.org/enus/"/>
+        <updated>2021-05-16T06:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://cnrail.geogv.org/enus/
+Comments URL: https://news.ycombinator.com/item?id=27171556
+Points: 14
+# Comments: 7]]></summary>
+        <author>
+            <name>luming</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +104,8 @@ Points: 16
         <updated>2021-05-16T05:57:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/aionescu/status/1393728057005920263
 Comments URL: https://news.ycombinator.com/item?id=27171520
-Points: 31
-# Comments: 0]]></summary>
+Points: 53
+# Comments: 12]]></summary>
         <author>
             <name>aunali1</name>
         </author>
@@ -78,23 +117,10 @@ Points: 31
         <updated>2021-05-16T04:23:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://staceyoniot.com/the-chip-shortage-could-lead-to-an-era-of-hardware-innovation/
 Comments URL: https://news.ycombinator.com/item?id=27171214
-Points: 86
-# Comments: 35]]></summary>
+Points: 100
+# Comments: 42]]></summary>
         <author>
             <name>cofree</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Absolute wealth, relative wealth, taxes, and staying rich]]></title>
-        <id>https://news.ycombinator.com/item?id=27171001</id>
-        <link href="https://summation.net/2021/05/07/absolute-wealth-relative-wealth-taxes-and-staying-rich/"/>
-        <updated>2021-05-16T03:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://summation.net/2021/05/07/absolute-wealth-relative-wealth-taxes-and-staying-rich/
-Comments URL: https://news.ycombinator.com/item?id=27171001
-Points: 79
-# Comments: 63]]></summary>
-        <author>
-            <name>colinprince</name>
         </author>
     </entry>
     <entry>
@@ -104,7 +130,7 @@ Points: 79
         <updated>2021-05-16T03:36:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jeffhuang.com/extracting_data_from_tracking_devices/
 Comments URL: https://news.ycombinator.com/item?id=27170992
-Points: 16
+Points: 22
 # Comments: 0]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -117,8 +143,8 @@ Points: 16
         <updated>2021-05-16T03:32:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://thingstwin.com/
 Comments URL: https://news.ycombinator.com/item?id=27170975
-Points: 30
-# Comments: 7]]></summary>
+Points: 34
+# Comments: 8]]></summary>
         <author>
             <name>Can0nC</name>
         </author>
@@ -130,8 +156,8 @@ Points: 30
         <updated>2021-05-16T02:43:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flowingdata.com/projects/2018/dating-pool/
 Comments URL: https://news.ycombinator.com/item?id=27170789
-Points: 101
-# Comments: 30]]></summary>
+Points: 113
+# Comments: 50]]></summary>
         <author>
             <name>bribri</name>
         </author>
@@ -153,8 +179,8 @@ Points: 101
         <updated>2021-05-16T02:16:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack
 Comments URL: https://news.ycombinator.com/item?id=27170658
-Points: 167
-# Comments: 140]]></summary>
+Points: 189
+# Comments: 157]]></summary>
         <author>
             <name>curmudgeon22</name>
         </author>
@@ -191,7 +217,7 @@ Points: 1
         <updated>2021-05-15T19:17:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pagetable.com/?p=1520
 Comments URL: https://news.ycombinator.com/item?id=27168035
-Points: 70
+Points: 72
 # Comments: 5]]></summary>
         <author>
             <name>matt_d</name>
@@ -204,7 +230,7 @@ Points: 70
         <updated>2021-05-15T18:40:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://til-lang.github.io/til/
 Comments URL: https://news.ycombinator.com/item?id=27167762
-Points: 87
+Points: 91
 # Comments: 19]]></summary>
         <author>
             <name>blacksqr</name>
@@ -217,8 +243,8 @@ Points: 87
         <updated>2021-05-15T18:37:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bibliogram.art
 Comments URL: https://news.ycombinator.com/item?id=27167729
-Points: 188
-# Comments: 48]]></summary>
+Points: 202
+# Comments: 49]]></summary>
         <author>
             <name>commoner</name>
         </author>
@@ -230,8 +256,8 @@ Points: 188
         <updated>2021-05-15T18:22:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://kai.sub.blue/en/africa.html
 Comments URL: https://news.ycombinator.com/item?id=27167604
-Points: 268
-# Comments: 170]]></summary>
+Points: 284
+# Comments: 176]]></summary>
         <author>
             <name>metahost</name>
         </author>
@@ -243,23 +269,10 @@ Points: 268
         <updated>2021-05-15T17:40:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://futureofcoding.org/episodes/044
 Comments URL: https://news.ycombinator.com/item?id=27167250
-Points: 96
-# Comments: 13]]></summary>
+Points: 107
+# Comments: 15]]></summary>
         <author>
             <name>axiomdata316</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parsix: Parse Don't Validate]]></title>
-        <id>https://news.ycombinator.com/item?id=27166162</id>
-        <link href="https://github.com/parsix/parsix"/>
-        <updated>2021-05-15T15:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/parsix/parsix
-Comments URL: https://news.ycombinator.com/item?id=27166162
-Points: 145
-# Comments: 79]]></summary>
-        <author>
-            <name>Iazel</name>
         </author>
     </entry>
     <entry>
@@ -269,23 +282,10 @@ Points: 145
         <updated>2021-05-15T15:15:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
 Comments URL: https://news.ycombinator.com/item?id=27165954
-Points: 930
-# Comments: 510]]></summary>
+Points: 956
+# Comments: 528]]></summary>
         <author>
             <name>EntICOnc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offline-First PWA for Plotly Visualization of CSV via SQLite]]></title>
-        <id>https://news.ycombinator.com/item?id=27165192</id>
-        <link href="https://github.com/lana-k/sqliteviz"/>
-        <updated>2021-05-15T13:48:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/lana-k/sqliteviz
-Comments URL: https://news.ycombinator.com/item?id=27165192
-Points: 220
-# Comments: 28]]></summary>
-        <author>
-            <name>lana-k</name>
         </author>
     </entry>
     <entry>
