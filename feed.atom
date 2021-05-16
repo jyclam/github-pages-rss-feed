@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T21:12:17.008Z</updated>
+    <updated>2021-05-16T22:16:27.521Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,10 +13,23 @@
         <updated>2021-05-16T20:20:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/dbrgn/status/1393331991957880838
 Comments URL: https://news.ycombinator.com/item?id=27176690
-Points: 47
-# Comments: 12]]></summary>
+Points: 114
+# Comments: 68]]></summary>
         <author>
             <name>mritzmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA on social engineering discord server takeover attacks]]></title>
+        <id>https://news.ycombinator.com/item?id=27176629</id>
+        <link href="https://gist.github.com/linuswillner/d3f3187a5b412ef3785b3a8c2d143f83"/>
+        <updated>2021-05-16T20:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gist.github.com/linuswillner/d3f3187a5b412ef3785b3a8c2d143f83
+Comments URL: https://news.ycombinator.com/item?id=27176629
+Points: 8
+# Comments: 3]]></summary>
+        <author>
+            <name>charlesmunger7</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +39,8 @@ Points: 47
         <updated>2021-05-16T18:42:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://christine.website/talks/systemd-the-good-parts-2021-05-16
 Comments URL: https://news.ycombinator.com/item?id=27175960
-Points: 169
-# Comments: 138]]></summary>
+Points: 218
+# Comments: 193]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -39,8 +52,8 @@ Points: 169
         <updated>2021-05-16T18:41:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/
 Comments URL: https://news.ycombinator.com/item?id=27175955
-Points: 52
-# Comments: 20]]></summary>
+Points: 83
+# Comments: 30]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -52,10 +65,23 @@ Points: 52
         <updated>2021-05-16T18:35:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://coincarboncap.com/
 Comments URL: https://news.ycombinator.com/item?id=27175913
-Points: 58
-# Comments: 48]]></summary>
+Points: 81
+# Comments: 60]]></summary>
         <author>
             <name>GBiT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orphan Utopia: John Ballou Newbrough’s desert colony (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27175739</id>
+        <link href="https://www.cabinetmagazine.org/issues/63/mcconnell.php"/>
+        <updated>2021-05-16T18:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cabinetmagazine.org/issues/63/mcconnell.php
+Comments URL: https://news.ycombinator.com/item?id=27175739
+Points: 3
+# Comments: 1]]></summary>
+        <author>
+            <name>not-now</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +91,8 @@ Points: 58
         <updated>2021-05-16T17:59:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.rekt.news/value-rekt2/
 Comments URL: https://news.ycombinator.com/item?id=27175622
-Points: 99
-# Comments: 75]]></summary>
+Points: 160
+# Comments: 153]]></summary>
         <author>
             <name>drdrey</name>
         </author>
@@ -78,7 +104,7 @@ Points: 99
         <updated>2021-05-16T17:26:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/
 Comments URL: https://news.ycombinator.com/item?id=27175299
-Points: 32
+Points: 40
 # Comments: 10]]></summary>
         <author>
             <name>paulpauper</name>
@@ -91,8 +117,8 @@ Points: 32
         <updated>2021-05-16T17:24:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite
 Comments URL: https://news.ycombinator.com/item?id=27175284
-Points: 41
-# Comments: 1]]></summary>
+Points: 66
+# Comments: 5]]></summary>
         <author>
             <name>nethunters</name>
         </author>
@@ -117,8 +143,8 @@ Points: 1
         <updated>2021-05-16T16:32:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ilsr.org/washington-state-removes-all-barriers-to-municipal-broadband/
 Comments URL: https://news.ycombinator.com/item?id=27174802
-Points: 245
-# Comments: 51]]></summary>
+Points: 262
+# Comments: 54]]></summary>
         <author>
             <name>joeyespo</name>
         </author>
@@ -130,23 +156,36 @@ Points: 245
         <updated>2021-05-16T15:36:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt
 Comments URL: https://news.ycombinator.com/item?id=27174348
-Points: 25
+Points: 28
 # Comments: 11]]></summary>
         <author>
             <name>NetOpWibby</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Notepad – HTML WYSIWYG editor for the rest of us]]></title>
+        <title type="html"><![CDATA[HTML Notepad – HTML WYSIWYG editor]]></title>
         <id>https://news.ycombinator.com/item?id=27174188</id>
         <link href="https://html-notepad.com/"/>
         <updated>2021-05-16T15:04:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://html-notepad.com/
 Comments URL: https://news.ycombinator.com/item?id=27174188
-Points: 133
-# Comments: 44]]></summary>
+Points: 151
+# Comments: 49]]></summary>
         <author>
             <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Awful German Language (1880)]]></title>
+        <id>https://news.ycombinator.com/item?id=27173967</id>
+        <link href="https://faculty.georgetown.edu/jod/texts/twain.german.html"/>
+        <updated>2021-05-16T14:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://faculty.georgetown.edu/jod/texts/twain.german.html
+Comments URL: https://news.ycombinator.com/item?id=27173967
+Points: 57
+# Comments: 70]]></summary>
+        <author>
+            <name>1cvmask</name>
         </author>
     </entry>
     <entry>
@@ -156,8 +195,8 @@ Points: 133
         <updated>2021-05-16T14:21:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.learndatalogtoday.org
 Comments URL: https://news.ycombinator.com/item?id=27173890
-Points: 36
-# Comments: 2]]></summary>
+Points: 44
+# Comments: 7]]></summary>
         <author>
             <name>cube2222</name>
         </author>
@@ -169,10 +208,23 @@ Points: 36
         <updated>2021-05-16T14:15:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1
 Comments URL: https://news.ycombinator.com/item?id=27173859
-Points: 171
-# Comments: 73]]></summary>
+Points: 192
+# Comments: 92]]></summary>
         <author>
             <name>krustyburger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An observation on MetroCards, after a $1 fee (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=27173793</id>
+        <link href="https://secondavenuesagas.com/2013/04/16/an-observation-on-metrocards-after-a-1-fee/"/>
+        <updated>2021-05-16T14:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://secondavenuesagas.com/2013/04/16/an-observation-on-metrocards-after-a-1-fee/
+Comments URL: https://news.ycombinator.com/item?id=27173793
+Points: 32
+# Comments: 62]]></summary>
+        <author>
+            <name>nojito</name>
         </author>
     </entry>
     <entry>
@@ -182,8 +234,8 @@ Points: 171
         <updated>2021-05-16T13:54:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021
 Comments URL: https://news.ycombinator.com/item?id=27173728
-Points: 270
-# Comments: 109]]></summary>
+Points: 298
+# Comments: 124]]></summary>
         <author>
             <name>mkosmul</name>
         </author>
@@ -195,76 +247,23 @@ Points: 270
         <updated>2021-05-16T13:53:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://seaglass.cs.washington.edu/
 Comments URL: https://news.ycombinator.com/item?id=27173717
-Points: 253
+Points: 269
 # Comments: 39]]></summary>
         <author>
             <name>kogir</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kaufmann's Posographe: a pocketable analog exposure calculator]]></title>
-        <id>https://news.ycombinator.com/item?id=27173274</id>
-        <link href="https://www.nzeldes.com/HOC/Posographe.htm"/>
-        <updated>2021-05-16T12:38:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nzeldes.com/HOC/Posographe.htm
-Comments URL: https://news.ycombinator.com/item?id=27173274
-Points: 34
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[Half a million lines of Go]]></title>
+        <id>https://news.ycombinator.com/item?id=27173665</id>
+        <link href="https://blog.khanacademy.org/half-a-million-lines-of-go/"/>
+        <updated>2021-05-16T13:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.khanacademy.org/half-a-million-lines-of-go/
+Comments URL: https://news.ycombinator.com/item?id=27173665
+Points: 101
+# Comments: 137]]></summary>
         <author>
-            <name>polm23</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Vandal – an alternate navigator to Wayback Machine]]></title>
-        <id>https://news.ycombinator.com/item?id=27173185</id>
-        <link href="https://vegetableman.github.io/vandal/"/>
-        <updated>2021-05-16T12:22:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vegetableman.github.io/vandal/
-Comments URL: https://news.ycombinator.com/item?id=27173185
-Points: 75
-# Comments: 15]]></summary>
-        <author>
-            <name>vigneshanand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Language Summit: PEP 654 – Exception Groups and Except]]></title>
-        <id>https://news.ycombinator.com/item?id=27172017</id>
-        <link href="https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-pep-654.html"/>
-        <updated>2021-05-16T08:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-pep-654.html
-Comments URL: https://news.ycombinator.com/item?id=27172017
-Points: 81
-# Comments: 25]]></summary>
-        <author>
-            <name>BerislavLopac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verifying Vectorized Rust Revisited]]></title>
-        <id>https://news.ycombinator.com/item?id=27171978</id>
-        <link href="https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html"/>
-        <updated>2021-05-16T07:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html
-Comments URL: https://news.ycombinator.com/item?id=27171978
-Points: 80
-# Comments: 8]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What are some tools / libraries you built yourself?]]></title>
-        <id>https://news.ycombinator.com/item?id=27171970</id>
-        <link href="https://news.ycombinator.com/item?id=27171970"/>
-        <updated>2021-05-16T07:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Many times you just want to plug something in. PostgreSQL, Node.JS Express, Java Spring, numpy, Three.js. There's many examples where the already existing solution fits well.
-Sometimes that's not good enough tho. What are some tools, libraries or services you built, are they open-source and why weren't you satisfied using what already existed?
-Comments URL: https://news.ycombinator.com/item?id=27171970
-Points: 216
-# Comments: 363]]></summary>
-        <author>
-            <name>graderjs</name>
+            <name>nickcw</name>
         </author>
     </entry>
     <entry>
