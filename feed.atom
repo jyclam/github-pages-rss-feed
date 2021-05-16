@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T13:37:27.705Z</updated>
+    <updated>2021-05-16T14:29:20.111Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Braess's Paradox]]></title>
+        <id>https://news.ycombinator.com/item?id=27173829</id>
+        <link href="https://en.wikipedia.org/wiki/Braess%27s_paradox"/>
+        <updated>2021-05-16T14:09:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Braess%27s_paradox
+Comments URL: https://news.ycombinator.com/item?id=27173829
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeaGlass: City-Wide IMSI-Catcher Detection]]></title>
+        <id>https://news.ycombinator.com/item?id=27173717</id>
+        <link href="https://seaglass.cs.washington.edu/"/>
+        <updated>2021-05-16T13:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://seaglass.cs.washington.edu/
+Comments URL: https://news.ycombinator.com/item?id=27173717
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>kogir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Afternoons are the new rush hour in the suburbs]]></title>
+        <id>https://news.ycombinator.com/item?id=27173508</id>
+        <link href="https://www.wsj.com/articles/afternoons-are-the-new-rush-hour-in-the-suburbs-11621157403"/>
+        <updated>2021-05-16T13:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/afternoons-are-the-new-rush-hour-in-the-suburbs-11621157403
+Comments URL: https://news.ycombinator.com/item?id=27173508
+Points: 10
+# Comments: 2]]></summary>
+        <author>
+            <name>burlesona</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Muse (YC W12) Is Hiring a Senior Data Engineer]]></title>
         <id>https://news.ycombinator.com/item?id=27173076</id>
@@ -26,34 +65,34 @@ Points: 1
         <updated>2021-05-16T11:47:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mxb.dev/blog/container-queries-web-components/
 Comments URL: https://news.ycombinator.com/item?id=27173010
-Points: 7
-# Comments: 0]]></summary>
+Points: 24
+# Comments: 8]]></summary>
         <author>
             <name>mxbck</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suez Canal will be widened by 131 feet to avoid a repeat of the Ever Given chaos]]></title>
+        <title type="html"><![CDATA[The Suez Canal will be widened]]></title>
         <id>https://news.ycombinator.com/item?id=27172983</id>
         <link href="https://www.businessinsider.com/suez-canal-will-be-widened-avoid-repeat-ever-given-blockage-2021-5"/>
         <updated>2021-05-16T11:42:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/suez-canal-will-be-widened-avoid-repeat-ever-given-blockage-2021-5
 Comments URL: https://news.ycombinator.com/item?id=27172983
-Points: 56
-# Comments: 62]]></summary>
+Points: 84
+# Comments: 108]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why introverts make great leaders (2018)]]></title>
+        <title type="html"><![CDATA[Introverts can make great leaders (2018)]]></title>
         <id>https://news.ycombinator.com/item?id=27172893</id>
         <link href="https://thehustle.co/why-introverts-make-great-leaders/"/>
         <updated>2021-05-16T11:22:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thehustle.co/why-introverts-make-great-leaders/
 Comments URL: https://news.ycombinator.com/item?id=27172893
-Points: 56
-# Comments: 38]]></summary>
+Points: 69
+# Comments: 45]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -65,8 +104,8 @@ Points: 56
         <updated>2021-05-16T09:57:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/audacity/audacity/discussions/889
 Comments URL: https://news.ycombinator.com/item?id=27172539
-Points: 117
-# Comments: 97]]></summary>
+Points: 130
+# Comments: 119]]></summary>
         <author>
             <name>jraph</name>
         </author>
@@ -78,21 +117,21 @@ Points: 117
         <updated>2021-05-16T08:47:56.000Z</updated>
         <summary type="html"><![CDATA[And I'm here waiting for my scheduled build to start...
 Comments URL: https://news.ycombinator.com/item?id=27172240
-Points: 59
-# Comments: 27]]></summary>
+Points: 71
+# Comments: 33]]></summary>
         <author>
             <name>kakamiokatsu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Herdwicks: The sheep that shaped the Lake District]]></title>
+        <title type="html"><![CDATA[Herdwicks: The 'smiley' sheep that shaped the Lake District]]></title>
         <id>https://news.ycombinator.com/item?id=27172193</id>
         <link href="https://www.bbc.co.uk/news/uk-england-cumbria-57015478"/>
         <updated>2021-05-16T08:37:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/uk-england-cumbria-57015478
 Comments URL: https://news.ycombinator.com/item?id=27172193
-Points: 24
-# Comments: 8]]></summary>
+Points: 25
+# Comments: 11]]></summary>
         <author>
             <name>bananapear</name>
         </author>
@@ -104,8 +143,8 @@ Points: 24
         <updated>2021-05-16T08:00:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-pep-654.html
 Comments URL: https://news.ycombinator.com/item?id=27172017
-Points: 42
-# Comments: 5]]></summary>
+Points: 50
+# Comments: 6]]></summary>
         <author>
             <name>BerislavLopac</name>
         </author>
@@ -117,7 +156,7 @@ Points: 42
         <updated>2021-05-16T07:51:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html
 Comments URL: https://news.ycombinator.com/item?id=27171978
-Points: 35
+Points: 44
 # Comments: 4]]></summary>
         <author>
             <name>ingve</name>
@@ -130,8 +169,8 @@ Points: 35
         <updated>2021-05-16T07:16:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fabiensanglard.net/lte/index.html
 Comments URL: https://news.ycombinator.com/item?id=27171860
-Points: 331
-# Comments: 49]]></summary>
+Points: 377
+# Comments: 64]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -143,8 +182,8 @@ Points: 331
         <updated>2021-05-16T06:51:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/samsung-raises-non-memory-chip-investment-target-skorea-announces-bigger-tax-2021-05-13/
 Comments URL: https://news.ycombinator.com/item?id=27171750
-Points: 114
-# Comments: 58]]></summary>
+Points: 127
+# Comments: 69]]></summary>
         <author>
             <name>minwuekim</name>
         </author>
@@ -156,8 +195,8 @@ Points: 114
         <updated>2021-05-16T06:36:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s42003-021-02019-y
 Comments URL: https://news.ycombinator.com/item?id=27171684
-Points: 73
-# Comments: 25]]></summary>
+Points: 82
+# Comments: 33]]></summary>
         <author>
             <name>vnglst</name>
         </author>
@@ -169,8 +208,8 @@ Points: 73
         <updated>2021-05-16T06:24:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/dezman/beatoftheday
 Comments URL: https://news.ycombinator.com/item?id=27171641
-Points: 17
-# Comments: 3]]></summary>
+Points: 24
+# Comments: 5]]></summary>
         <author>
             <name>broooder</name>
         </author>
@@ -182,8 +221,8 @@ Points: 17
         <updated>2021-05-16T05:57:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/aionescu/status/1393728057005920263
 Comments URL: https://news.ycombinator.com/item?id=27171520
-Points: 102
-# Comments: 20]]></summary>
+Points: 118
+# Comments: 25]]></summary>
         <author>
             <name>aunali1</name>
         </author>
@@ -195,8 +234,8 @@ Points: 102
         <updated>2021-05-16T04:23:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://staceyoniot.com/the-chip-shortage-could-lead-to-an-era-of-hardware-innovation/
 Comments URL: https://news.ycombinator.com/item?id=27171214
-Points: 142
-# Comments: 86]]></summary>
+Points: 153
+# Comments: 99]]></summary>
         <author>
             <name>cofree</name>
         </author>
@@ -208,7 +247,7 @@ Points: 142
         <updated>2021-05-16T03:36:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jeffhuang.com/extracting_data_from_tracking_devices/
 Comments URL: https://news.ycombinator.com/item?id=27170992
-Points: 41
+Points: 45
 # Comments: 1]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -221,8 +260,8 @@ Points: 41
         <updated>2021-05-16T03:32:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://thingstwin.com/
 Comments URL: https://news.ycombinator.com/item?id=27170975
-Points: 44
-# Comments: 10]]></summary>
+Points: 47
+# Comments: 11]]></summary>
         <author>
             <name>Can0nC</name>
         </author>
@@ -238,19 +277,6 @@ Points: 44
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I have a lot to say about Signal’s Cellebrite hack]]></title>
-        <id>https://news.ycombinator.com/item?id=27170658</id>
-        <link href="https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack"/>
-        <updated>2021-05-16T02:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack
-Comments URL: https://news.ycombinator.com/item?id=27170658
-Points: 236
-# Comments: 183]]></summary>
-        <author>
-            <name>curmudgeon22</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[v1.7.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
@@ -260,32 +286,6 @@ Chore: rendering logic refactoring. Adopting functional paradigm.
 Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Your Own Tools]]></title>
-        <id>https://news.ycombinator.com/item?id=27167250</id>
-        <link href="https://futureofcoding.org/episodes/044"/>
-        <updated>2021-05-15T17:40:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://futureofcoding.org/episodes/044
-Comments URL: https://news.ycombinator.com/item?id=27167250
-Points: 129
-# Comments: 21]]></summary>
-        <author>
-            <name>axiomdata316</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Javascript: Everything you missed over the last 10 years (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27165954</id>
-        <link href="https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years"/>
-        <updated>2021-05-15T15:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
-Comments URL: https://news.ycombinator.com/item?id=27165954
-Points: 1032
-# Comments: 578]]></summary>
-        <author>
-            <name>EntICOnc</name>
         </author>
     </entry>
     <entry>
