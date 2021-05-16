@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T00:48:02.112Z</updated>
+    <updated>2021-05-16T02:21:43.166Z</updated>
     <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.7.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
+        <updated>2021-05-16T01:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
+Chore: rendering logic refactoring. Adopting functional paradigm.
+Thank you @tianheg, @onnyyonn]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo AV Freaked Out by Traffic Cones, Blocks Traffic, Evades Support Vehicles]]></title>
+        <id>https://news.ycombinator.com/item?id=27170123</id>
+        <link href="https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182"/>
+        <updated>2021-05-16T00:16:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182
+Comments URL: https://news.ycombinator.com/item?id=27170123
+Points: 39
+# Comments: 11]]></summary>
+        <author>
+            <name>clouddrover</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ditching meat isn’t the answer for climate change. Better farming is]]></title>
         <id>https://news.ycombinator.com/item?id=27169858</id>
@@ -13,23 +38,10 @@
         <updated>2021-05-15T23:24:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/outlook/ditching-meat-isnt-the-answer-for-climate-change-better-farming-is/2021/05/14/86001c36-b426-11eb-ab43-bebddc5a0f65_story.html
 Comments URL: https://news.ycombinator.com/item?id=27169858
-Points: 8
-# Comments: 2]]></summary>
+Points: 47
+# Comments: 33]]></summary>
         <author>
             <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I Quit DIY]]></title>
-        <id>https://news.ycombinator.com/item?id=27169810</id>
-        <link href="https://schoolofdecorating.com/2014/06/why-i-quit-diy/"/>
-        <updated>2021-05-15T23:15:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://schoolofdecorating.com/2014/06/why-i-quit-diy/
-Comments URL: https://news.ycombinator.com/item?id=27169810
-Points: 15
-# Comments: 16]]></summary>
-        <author>
-            <name>jasonhansel</name>
         </author>
     </entry>
     <entry>
@@ -52,7 +64,7 @@ Points: 1
         <updated>2021-05-15T19:17:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pagetable.com/?p=1520
 Comments URL: https://news.ycombinator.com/item?id=27168035
-Points: 47
+Points: 52
 # Comments: 2]]></summary>
         <author>
             <name>matt_d</name>
@@ -65,8 +77,8 @@ Points: 47
         <updated>2021-05-15T18:40:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://til-lang.github.io/til/
 Comments URL: https://news.ycombinator.com/item?id=27167762
-Points: 71
-# Comments: 3]]></summary>
+Points: 76
+# Comments: 10]]></summary>
         <author>
             <name>blacksqr</name>
         </author>
@@ -78,8 +90,8 @@ Points: 71
         <updated>2021-05-15T18:37:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bibliogram.art
 Comments URL: https://news.ycombinator.com/item?id=27167729
-Points: 118
-# Comments: 30]]></summary>
+Points: 132
+# Comments: 37]]></summary>
         <author>
             <name>commoner</name>
         </author>
@@ -91,8 +103,8 @@ Points: 118
         <updated>2021-05-15T18:22:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://kai.sub.blue/en/africa.html
 Comments URL: https://news.ycombinator.com/item?id=27167604
-Points: 164
-# Comments: 104]]></summary>
+Points: 199
+# Comments: 121]]></summary>
         <author>
             <name>metahost</name>
         </author>
@@ -104,8 +116,8 @@ Points: 164
         <updated>2021-05-15T17:40:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://futureofcoding.org/episodes/044
 Comments URL: https://news.ycombinator.com/item?id=27167250
-Points: 31
-# Comments: 1]]></summary>
+Points: 46
+# Comments: 4]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -117,8 +129,8 @@ Points: 31
         <updated>2021-05-15T15:49:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/stories-50435014
 Comments URL: https://news.ycombinator.com/item?id=27166271
-Points: 209
-# Comments: 142]]></summary>
+Points: 225
+# Comments: 147]]></summary>
         <author>
             <name>mgh2</name>
         </author>
@@ -130,23 +142,10 @@ Points: 209
         <updated>2021-05-15T15:38:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/parsix/parsix
 Comments URL: https://news.ycombinator.com/item?id=27166162
-Points: 113
-# Comments: 60]]></summary>
+Points: 117
+# Comments: 62]]></summary>
         <author>
             <name>Iazel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cox Hotspots with Panoramic Wifi]]></title>
-        <id>https://news.ycombinator.com/item?id=27166043</id>
-        <link href="https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html"/>
-        <updated>2021-05-15T15:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html
-Comments URL: https://news.ycombinator.com/item?id=27166043
-Points: 50
-# Comments: 44]]></summary>
-        <author>
-            <name>foobarbecue</name>
         </author>
     </entry>
     <entry>
@@ -156,8 +155,8 @@ Points: 50
         <updated>2021-05-15T15:15:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
 Comments URL: https://news.ycombinator.com/item?id=27165954
-Points: 672
-# Comments: 382]]></summary>
+Points: 728
+# Comments: 412]]></summary>
         <author>
             <name>EntICOnc</name>
         </author>
@@ -169,8 +168,8 @@ Points: 672
         <updated>2021-05-15T14:08:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://forum.nim-lang.org/t/7983
 Comments URL: https://news.ycombinator.com/item?id=27165366
-Points: 204
-# Comments: 96]]></summary>
+Points: 214
+# Comments: 100]]></summary>
         <author>
             <name>michaelsbradley</name>
         </author>
@@ -182,8 +181,8 @@ Points: 204
         <updated>2021-05-15T13:59:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rdcu.be/ckFPK
 Comments URL: https://news.ycombinator.com/item?id=27165307
-Points: 139
-# Comments: 114]]></summary>
+Points: 158
+# Comments: 137]]></summary>
         <author>
             <name>jeffbee</name>
         </author>
@@ -195,8 +194,8 @@ Points: 139
         <updated>2021-05-15T13:48:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/lana-k/sqliteviz
 Comments URL: https://news.ycombinator.com/item?id=27165192
-Points: 179
-# Comments: 25]]></summary>
+Points: 189
+# Comments: 26]]></summary>
         <author>
             <name>lana-k</name>
         </author>
@@ -208,8 +207,8 @@ Points: 179
         <updated>2021-05-15T13:41:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf
 Comments URL: https://news.ycombinator.com/item?id=27165133
-Points: 54
-# Comments: 14]]></summary>
+Points: 62
+# Comments: 15]]></summary>
         <author>
             <name>nceqs3</name>
         </author>
@@ -221,8 +220,8 @@ Points: 54
         <updated>2021-05-15T12:55:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://icepanel.io/
 Comments URL: https://news.ycombinator.com/item?id=27164769
-Points: 208
-# Comments: 62]]></summary>
+Points: 215
+# Comments: 66]]></summary>
         <author>
             <name>JacobDesigns</name>
         </author>
@@ -234,8 +233,8 @@ Points: 208
         <updated>2021-05-15T11:55:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.rbth.com/longreads/soviet-watches/
 Comments URL: https://news.ycombinator.com/item?id=27164417
-Points: 104
-# Comments: 35]]></summary>
+Points: 114
+# Comments: 42]]></summary>
         <author>
             <name>gscott</name>
         </author>
@@ -247,8 +246,8 @@ Points: 104
         <updated>2021-05-15T11:04:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world
 Comments URL: https://news.ycombinator.com/item?id=27164171
-Points: 95
-# Comments: 126]]></summary>
+Points: 102
+# Comments: 129]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -260,21 +259,23 @@ Points: 95
         <updated>2021-05-15T10:57:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-england-london-56281464
 Comments URL: https://news.ycombinator.com/item?id=27164138
-Points: 10
-# Comments: 2]]></summary>
+Points: 14
+# Comments: 3]]></summary>
         <author>
             <name>tmfi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-15T09:35:54.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.]]></summary>
+        <title type="html"><![CDATA[All About Cockatoos (2002)]]></title>
+        <id>https://news.ycombinator.com/item?id=27164127</id>
+        <link href="http://www.mytoos.com/main.shtml"/>
+        <updated>2021-05-15T10:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.mytoos.com/main.shtml
+Comments URL: https://news.ycombinator.com/item?id=27164127
+Points: 12
+# Comments: 3]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>rex_lupi</name>
         </author>
     </entry>
     <entry>
