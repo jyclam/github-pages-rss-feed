@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T12:20:45.299Z</updated>
+    <updated>2021-05-17T13:27:45.936Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon's Sidewalk Network Is Turned on by Default. Here's How to Turn It Off]]></title>
+        <id>https://news.ycombinator.com/item?id=27182822</id>
+        <link href="https://www.inc.com/jason-aten/amazons-sidewalk-network-is-turned-on-by-default-heres-how-to-turn-it-off.html"/>
+        <updated>2021-05-17T12:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.inc.com/jason-aten/amazons-sidewalk-network-is-turned-on-by-default-heres-how-to-turn-it-off.html
+Comments URL: https://news.ycombinator.com/item?id=27182822
+Points: 9
+# Comments: 5]]></summary>
+        <author>
+            <name>Black101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Company Lets Celebrities Digitally Clone Their Voice So They Can Loan It Out]]></title>
+        <id>https://news.ycombinator.com/item?id=27182763</id>
+        <link href="https://www.pcmag.com/news/company-lets-celebrities-digitally-clone-their-voice-so-they-can-loan-it"/>
+        <updated>2021-05-17T12:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pcmag.com/news/company-lets-celebrities-digitally-clone-their-voice-so-they-can-loan-it
+Comments URL: https://news.ycombinator.com/item?id=27182763
+Points: 4
+# Comments: 1]]></summary>
+        <author>
+            <name>pulse7</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Mozart Data (YC S20) – One-stop shop for a modern data pipeline]]></title>
+        <id>https://news.ycombinator.com/item?id=27182720</id>
+        <link href="https://news.ycombinator.com/item?id=27182720"/>
+        <updated>2021-05-17T12:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN, we're Pete and Dan, and together with our team we’ve built Mozart Data (https://www.mozartdata.com/), a tool to get companies started on collecting and organizing data to help drive better decisions. Mozart is a “modern data stack” -- we set up and manage a (Snowflake) data warehouse, automate ETL pipelines, provide an interface to schedule and visualize data transformations, and connect whatever data-visualization tool you want to use. For most teams, in under an hour, you can be querying data from …]]></summary>
+        <author>
+            <name>pfduke02</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Algolia (YC W14) Is Hiring a Developer Relations Engineer]]></title>
         <id>https://news.ycombinator.com/item?id=27182487</id>
@@ -20,24 +56,37 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[An Erlangen Programme to Establish the Geometric Foundations of Deep Learning]]></title>
+        <id>https://news.ycombinator.com/item?id=27182384</id>
+        <link href="https://syncedreview.com/2021/05/05/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-12/"/>
+        <updated>2021-05-17T11:45:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://syncedreview.com/2021/05/05/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-12/
+Comments URL: https://news.ycombinator.com/item?id=27182384
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>ArtWomb</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
         <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
         <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will begin rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to our business, and this is the story of how we improved our Core Web Vitals scores. We built a tool along the way that we are releasing as open-source for anyone to use—and help us improve!]]></summary>
+        <summary type="html"><![CDATA[Google’s *Page Experience Update* will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to our business, and this is the story of how we improved our Core Web Vitals scores.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If M1 Macs feel faster than Intel it's due to optimization of the ARM CPU QoS]]></title>
+        <title type="html"><![CDATA[How M1 Macs feel faster than Intel models: it’s about QoS]]></title>
         <id>https://news.ycombinator.com/item?id=27182244</id>
         <link href="https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/"/>
         <updated>2021-05-17T11:23:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/
 Comments URL: https://news.ycombinator.com/item?id=27182244
-Points: 42
-# Comments: 15]]></summary>
+Points: 160
+# Comments: 96]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -49,7 +98,7 @@ Points: 42
         <updated>2021-05-17T11:00:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html
 Comments URL: https://news.ycombinator.com/item?id=27182112
-Points: 10
+Points: 20
 # Comments: 0]]></summary>
         <author>
             <name>ingve</name>
@@ -62,21 +111,21 @@ Points: 10
         <updated>2021-05-17T09:35:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://articles.59.ca/doku.php?id=pgpfan:tpp
 Comments URL: https://news.ycombinator.com/item?id=27181576
-Points: 35
-# Comments: 2]]></summary>
+Points: 47
+# Comments: 10]]></summary>
         <author>
             <name>JoachimS</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let's Encrypt – DST Root CA X3 Expiration (September 2021)]]></title>
+        <title type="html"><![CDATA[Let’s Encrypt DST Root CA X3 Expiration – September 2021]]></title>
         <id>https://news.ycombinator.com/item?id=27181374</id>
         <link href="https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/"/>
         <updated>2021-05-17T08:55:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/
 Comments URL: https://news.ycombinator.com/item?id=27181374
-Points: 17
-# Comments: 1]]></summary>
+Points: 30
+# Comments: 10]]></summary>
         <author>
             <name>jorislacance</name>
         </author>
@@ -88,21 +137,21 @@ Points: 17
         <updated>2021-05-17T08:45:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tinystore.app
 Comments URL: https://news.ycombinator.com/item?id=27181307
-Points: 61
-# Comments: 29]]></summary>
+Points: 72
+# Comments: 38]]></summary>
         <author>
             <name>hapiben</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feeling like a pariah (even when you’re not)]]></title>
+        <title type="html"><![CDATA[Feeling like a pariah, even when you’re not]]></title>
         <id>https://news.ycombinator.com/item?id=27181243</id>
         <link href="https://statmodeling.stat.columbia.edu/2021/05/16/feeling-like-a-pariah-even-when-youre-not/"/>
         <updated>2021-05-17T08:34:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://statmodeling.stat.columbia.edu/2021/05/16/feeling-like-a-pariah-even-when-youre-not/
 Comments URL: https://news.ycombinator.com/item?id=27181243
-Points: 26
-# Comments: 4]]></summary>
+Points: 40
+# Comments: 12]]></summary>
         <author>
             <name>luu</name>
         </author>
@@ -114,23 +163,10 @@ Points: 26
         <updated>2021-05-17T08:10:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.piekniewski.info/2021/05/12/ai-mid-2021/
 Comments URL: https://news.ycombinator.com/item?id=27181081
-Points: 32
-# Comments: 9]]></summary>
+Points: 46
+# Comments: 15]]></summary>
         <author>
             <name>tempodox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The app that lets you pay to control another person's life]]></title>
-        <id>https://news.ycombinator.com/item?id=27180993</id>
-        <link href="https://www.bbc.com/news/business-57085557"/>
-        <updated>2021-05-17T07:52:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57085557
-Comments URL: https://news.ycombinator.com/item?id=27180993
-Points: 37
-# Comments: 39]]></summary>
-        <author>
-            <name>akbarnama</name>
         </author>
     </entry>
     <entry>
@@ -140,8 +176,8 @@ Points: 37
         <updated>2021-05-17T07:03:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jolie-lang.org/
 Comments URL: https://news.ycombinator.com/item?id=27180750
-Points: 86
-# Comments: 26]]></summary>
+Points: 101
+# Comments: 34]]></summary>
         <author>
             <name>RcrdBrt</name>
         </author>
@@ -153,8 +189,8 @@ Points: 86
         <updated>2021-05-17T06:21:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/business-57139434
 Comments URL: https://news.ycombinator.com/item?id=27180545
-Points: 173
-# Comments: 79]]></summary>
+Points: 214
+# Comments: 94]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -166,8 +202,8 @@ Points: 173
         <updated>2021-05-17T05:57:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html
 Comments URL: https://news.ycombinator.com/item?id=27180453
-Points: 85
-# Comments: 9]]></summary>
+Points: 88
+# Comments: 11]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -179,8 +215,8 @@ Points: 85
         <updated>2021-05-17T05:57:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://clickhouse.tech/blog/en/2020/the-clickhouse-community/
 Comments URL: https://news.ycombinator.com/item?id=27180452
-Points: 89
-# Comments: 38]]></summary>
+Points: 96
+# Comments: 42]]></summary>
         <author>
             <name>Bimal_kumar</name>
         </author>
@@ -192,10 +228,23 @@ Points: 89
         <updated>2021-05-17T05:51:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://schleiss.io/plotting-source-code-todos-for-open-source-projects
 Comments URL: https://news.ycombinator.com/item?id=27180421
-Points: 103
-# Comments: 54]]></summary>
+Points: 120
+# Comments: 66]]></summary>
         <author>
             <name>nreece</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fish Shell]]></title>
+        <id>https://news.ycombinator.com/item?id=27180420</id>
+        <link href="http://fishshell.com/"/>
+        <updated>2021-05-17T05:51:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://fishshell.com/
+Comments URL: https://news.ycombinator.com/item?id=27180420
+Points: 25
+# Comments: 9]]></summary>
+        <author>
+            <name>gscott</name>
         </author>
     </entry>
     <entry>
@@ -216,8 +265,8 @@ Chore: Reorganize to monorepo with npm workspace.]]></summary>
         <updated>2021-05-17T05:13:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hackaday.com/2021/05/10/tetris-for-game-boy-gets-online-multiplayer/
 Comments URL: https://news.ycombinator.com/item?id=27180264
-Points: 72
-# Comments: 18]]></summary>
+Points: 79
+# Comments: 21]]></summary>
         <author>
             <name>ashitlerferad</name>
         </author>
@@ -229,62 +278,10 @@ Points: 72
         <updated>2021-05-17T04:57:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jart/cosmopolitan/releases/tag/1.0
 Comments URL: https://news.ycombinator.com/item?id=27180182
-Points: 335
-# Comments: 59]]></summary>
+Points: 360
+# Comments: 63]]></summary>
         <author>
             <name>Orochikaku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Journey to the Edge of Reason’ Review: Gödel’s Beautiful Mind]]></title>
-        <id>https://news.ycombinator.com/item?id=27180079</id>
-        <link href="https://www.wsj.com/articles/journey-to-the-edge-of-reason-review-godels-beautiful-mind-11621003883"/>
-        <updated>2021-05-17T04:35:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/journey-to-the-edge-of-reason-review-godels-beautiful-mind-11621003883
-Comments URL: https://news.ycombinator.com/item?id=27180079
-Points: 21
-# Comments: 0]]></summary>
-        <author>
-            <name>Vigier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geocode-sqlite: Geocode rows in an SQLite database table]]></title>
-        <id>https://news.ycombinator.com/item?id=27179909</id>
-        <link href="https://github.com/eyeseast/geocode-sqlite"/>
-        <updated>2021-05-17T03:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/eyeseast/geocode-sqlite
-Comments URL: https://news.ycombinator.com/item?id=27179909
-Points: 96
-# Comments: 9]]></summary>
-        <author>
-            <name>chmaynard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenMapChest is shutting down]]></title>
-        <id>https://news.ycombinator.com/item?id=27179696</id>
-        <link href="https://www.openmapchest.org/shutting-down/"/>
-        <updated>2021-05-17T03:06:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.openmapchest.org/shutting-down/
-Comments URL: https://news.ycombinator.com/item?id=27179696
-Points: 43
-# Comments: 14]]></summary>
-        <author>
-            <name>cf100clunk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Free open-source isolated browser for security]]></title>
-        <id>https://news.ycombinator.com/item?id=27179391</id>
-        <link href="https://github.com/i5ik/ViewFinderJS"/>
-        <updated>2021-05-17T02:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/i5ik/ViewFinderJS
-Comments URL: https://news.ycombinator.com/item?id=27179391
-Points: 48
-# Comments: 25]]></summary>
-        <author>
-            <name>graderjs</name>
         </author>
     </entry>
     <entry>
