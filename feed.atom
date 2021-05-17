@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T04:23:16.080Z</updated>
+    <updated>2021-05-17T05:21:46.016Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cosmopolitan Libc v1.0 Released]]></title>
+        <id>https://news.ycombinator.com/item?id=27180182</id>
+        <link href="https://github.com/jart/cosmopolitan/releases/tag/1.0"/>
+        <updated>2021-05-17T04:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/jart/cosmopolitan/releases/tag/1.0
+Comments URL: https://news.ycombinator.com/item?id=27180182
+Points: 11
+# Comments: 1]]></summary>
+        <author>
+            <name>Orochikaku</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geocode-sqlite: Geocode rows in an SQLite database table]]></title>
         <id>https://news.ycombinator.com/item?id=27179909</id>
@@ -13,49 +26,36 @@
         <updated>2021-05-17T03:54:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/eyeseast/geocode-sqlite
 Comments URL: https://news.ycombinator.com/item?id=27179909
-Points: 12
+Points: 33
 # Comments: 0]]></summary>
         <author>
             <name>chmaynard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum crypto billionaire Vitalik destroyed 40% SHIB coins worth $7B]]></title>
-        <id>https://news.ycombinator.com/item?id=27179901</id>
-        <link href="https://blockcrunch.co/2021/05/17/vitalik-burned-40-shiba-inu-shib-coins/"/>
-        <updated>2021-05-17T03:53:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blockcrunch.co/2021/05/17/vitalik-burned-40-shiba-inu-shib-coins/
-Comments URL: https://news.ycombinator.com/item?id=27179901
-Points: 25
-# Comments: 10]]></summary>
+        <title type="html"><![CDATA[Show HN: Free open-source isolated browser for security]]></title>
+        <id>https://news.ycombinator.com/item?id=27179391</id>
+        <link href="https://github.com/i5ik/ViewFinderJS"/>
+        <updated>2021-05-17T02:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/i5ik/ViewFinderJS
+Comments URL: https://news.ycombinator.com/item?id=27179391
+Points: 3
+# Comments: 0]]></summary>
         <author>
-            <name>anandaverma18</name>
+            <name>graderjs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon had keys to USPS mailbox used for union ballots]]></title>
-        <id>https://news.ycombinator.com/item?id=27178842</id>
-        <link href="https://www.aljazeera.com/economy/2021/5/14/amazon-had-keys-to-usps-mailbox-used-for-union-ballots-report"/>
-        <updated>2021-05-17T00:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.aljazeera.com/economy/2021/5/14/amazon-had-keys-to-usps-mailbox-used-for-union-ballots-report
-Comments URL: https://news.ycombinator.com/item?id=27178842
-Points: 31
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[Which hypercube unfoldings tile space?]]></title>
+        <id>https://news.ycombinator.com/item?id=27178891</id>
+        <link href="https://whuts.org/"/>
+        <updated>2021-05-17T00:58:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://whuts.org/
+Comments URL: https://news.ycombinator.com/item?id=27178891
+Points: 5
+# Comments: 0]]></summary>
         <author>
-            <name>batmaniam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UFOs regularly spotted in US airspace, report on the phenomena due next month]]></title>
-        <id>https://news.ycombinator.com/item?id=27178729</id>
-        <link href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"/>
-        <updated>2021-05-17T00:34:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/
-Comments URL: https://news.ycombinator.com/item?id=27178729
-Points: 29
-# Comments: 7]]></summary>
-        <author>
-            <name>spenvo</name>
+            <name>kvnhn</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +65,8 @@ Points: 29
         <updated>2021-05-17T00:15:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://codahale.com/you-cant-sacrifice-partition-tolerance/
 Comments URL: https://news.ycombinator.com/item?id=27178620
-Points: 32
-# Comments: 24]]></summary>
+Points: 45
+# Comments: 32]]></summary>
         <author>
             <name>xk3</name>
         </author>
@@ -78,8 +78,8 @@ Points: 32
         <updated>2021-05-16T23:58:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries
 Comments URL: https://news.ycombinator.com/item?id=27178486
-Points: 147
-# Comments: 68]]></summary>
+Points: 186
+# Comments: 87]]></summary>
         <author>
             <name>dgudkov</name>
         </author>
@@ -91,8 +91,8 @@ Points: 147
         <updated>2021-05-16T23:38:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.politico.com/news/2021/05/15/congress-colonial-pipeline-disclosure-488406
 Comments URL: https://news.ycombinator.com/item?id=27178330
-Points: 30
-# Comments: 16]]></summary>
+Points: 32
+# Comments: 17]]></summary>
         <author>
             <name>Black101</name>
         </author>
@@ -104,8 +104,8 @@ Points: 30
         <updated>2021-05-16T22:40:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html
 Comments URL: https://news.ycombinator.com/item?id=27177746
-Points: 65
-# Comments: 16]]></summary>
+Points: 75
+# Comments: 20]]></summary>
         <author>
             <name>oumua_don17</name>
         </author>
@@ -117,10 +117,21 @@ Points: 65
         <updated>2021-05-16T22:37:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt
 Comments URL: https://news.ycombinator.com/item?id=27177718
-Points: 84
-# Comments: 19]]></summary>
+Points: 88
+# Comments: 20]]></summary>
         <author>
             <name>fortran77</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: I think I hate the software development industry? Am I crazy?]]></title>
+        <id>https://news.ycombinator.com/item?id=27177574</id>
+        <link href="https://news.ycombinator.com/item?id=27177574"/>
+        <updated>2021-05-16T22:22:02.000Z</updated>
+        <summary type="html"><![CDATA[I can’t stand software development. I hate the work, hate the people, the culture, etc. The idea of continuing this until for many more decades is sickening. Additionally I’ve pigeonholed myself into an area of the industry that’s is particularly draining (though not for the reasons you may thing).
+Money is not a huge concern to me, but if I’m going to have to do something I hate 8+ hours a day, I would at least to prefer to be making enough money to distract me from it. I’m not anywhere near there at the m…]]></summary>
+        <author>
+            <name>goodbyeworld37</name>
         </author>
     </entry>
     <entry>
@@ -143,7 +154,7 @@ Points: 86
         <updated>2021-05-16T19:10:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://goteleport.com/blog/access-controls/
 Comments URL: https://news.ycombinator.com/item?id=27176145
-Points: 43
+Points: 50
 # Comments: 5]]></summary>
         <author>
             <name>aberoham</name>
@@ -156,8 +167,8 @@ Points: 43
         <updated>2021-05-16T18:42:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://christine.website/talks/systemd-the-good-parts-2021-05-16
 Comments URL: https://news.ycombinator.com/item?id=27175960
-Points: 296
-# Comments: 268]]></summary>
+Points: 302
+# Comments: 275]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -169,8 +180,8 @@ Points: 296
         <updated>2021-05-16T18:41:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/
 Comments URL: https://news.ycombinator.com/item?id=27175955
-Points: 176
-# Comments: 94]]></summary>
+Points: 191
+# Comments: 98]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -182,8 +193,8 @@ Points: 176
         <updated>2021-05-16T18:35:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://coincarboncap.com/
 Comments URL: https://news.ycombinator.com/item?id=27175913
-Points: 267
-# Comments: 219]]></summary>
+Points: 285
+# Comments: 234]]></summary>
         <author>
             <name>GBiT</name>
         </author>
@@ -195,7 +206,7 @@ Points: 267
         <updated>2021-05-16T18:11:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cabinetmagazine.org/issues/63/mcconnell.php
 Comments URL: https://news.ycombinator.com/item?id=27175739
-Points: 15
+Points: 17
 # Comments: 2]]></summary>
         <author>
             <name>not-now</name>
@@ -208,8 +219,8 @@ Points: 15
         <updated>2021-05-16T17:59:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.rekt.news/value-rekt2/
 Comments URL: https://news.ycombinator.com/item?id=27175622
-Points: 239
-# Comments: 249]]></summary>
+Points: 255
+# Comments: 255]]></summary>
         <author>
             <name>drdrey</name>
         </author>
@@ -221,8 +232,8 @@ Points: 239
         <updated>2021-05-16T17:26:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/
 Comments URL: https://news.ycombinator.com/item?id=27175299
-Points: 101
-# Comments: 39]]></summary>
+Points: 108
+# Comments: 40]]></summary>
         <author>
             <name>paulpauper</name>
         </author>
@@ -234,8 +245,8 @@ Points: 101
         <updated>2021-05-16T17:24:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite
 Comments URL: https://news.ycombinator.com/item?id=27175284
-Points: 153
-# Comments: 29]]></summary>
+Points: 162
+# Comments: 30]]></summary>
         <author>
             <name>nethunters</name>
         </author>
@@ -251,19 +262,6 @@ Points: 1
 # Comments: 0]]></summary>
         <author>
             <name>jonlerner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Notepad – HTML WYSIWYG editor]]></title>
-        <id>https://news.ycombinator.com/item?id=27174188</id>
-        <link href="https://html-notepad.com/"/>
-        <updated>2021-05-16T15:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://html-notepad.com/
-Comments URL: https://news.ycombinator.com/item?id=27174188
-Points: 227
-# Comments: 73]]></summary>
-        <author>
-            <name>Tomte</name>
         </author>
     </entry>
     <entry>
