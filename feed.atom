@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T22:16:40.267Z</updated>
+    <updated>2021-05-17T23:15:25.802Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
+        <id>https://css-tricks.com/?p=340716</id>
+        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
+        <updated>2021-05-17T22:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
+The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
+…
+The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Positions chess engines don't understand]]></title>
         <id>https://news.ycombinator.com/item?id=27188854</id>
@@ -13,8 +27,8 @@
         <updated>2021-05-17T21:48:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
 Comments URL: https://news.ycombinator.com/item?id=27188854
-Points: 3
-# Comments: 0]]></summary>
+Points: 58
+# Comments: 18]]></summary>
         <author>
             <name>diplodocusaur</name>
         </author>
@@ -26,8 +40,8 @@ Points: 3
         <updated>2021-05-17T21:36:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01332-0
 Comments URL: https://news.ycombinator.com/item?id=27188753
-Points: 2
-# Comments: 0]]></summary>
+Points: 15
+# Comments: 1]]></summary>
         <author>
             <name>sova</name>
         </author>
@@ -49,8 +63,8 @@ Points: 2
         <updated>2021-05-17T21:05:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jupyterlab/jupyterlab-latex
 Comments URL: https://news.ycombinator.com/item?id=27188443
-Points: 11
-# Comments: 0]]></summary>
+Points: 31
+# Comments: 3]]></summary>
         <author>
             <name>gjvc</name>
         </author>
@@ -69,14 +83,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Horseshoe crab blood: miracle vaccine ingredient that's saved millions of lives]]></title>
+        <id>https://news.ycombinator.com/item?id=27188394</id>
+        <link href="https://www.nhm.ac.uk/discover/horseshoe-crab-blood-miracle-vaccine-ingredient.html"/>
+        <updated>2021-05-17T21:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nhm.ac.uk/discover/horseshoe-crab-blood-miracle-vaccine-ingredient.html
+Comments URL: https://news.ycombinator.com/item?id=27188394
+Points: 22
+# Comments: 5]]></summary>
+        <author>
+            <name>dricornelius</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Legalese – Computational Law]]></title>
         <id>https://news.ycombinator.com/item?id=27188130</id>
         <link href="https://legalese.com/"/>
         <updated>2021-05-17T20:36:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://legalese.com/
 Comments URL: https://news.ycombinator.com/item?id=27188130
-Points: 38
-# Comments: 6]]></summary>
+Points: 62
+# Comments: 26]]></summary>
         <author>
             <name>sdeframond</name>
         </author>
@@ -88,21 +115,21 @@ Points: 38
         <updated>2021-05-17T20:14:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery
 Comments URL: https://news.ycombinator.com/item?id=27187896
-Points: 45
-# Comments: 6]]></summary>
+Points: 64
+# Comments: 19]]></summary>
         <author>
             <name>macinjosh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caltech Professor Helps Solve Hindenburg Disaster]]></title>
+        <title type="html"><![CDATA[Caltech professor helps solve Hindenburg disaster]]></title>
         <id>https://news.ycombinator.com/item?id=27187522</id>
         <link href="https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster"/>
         <updated>2021-05-17T19:44:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster
 Comments URL: https://news.ycombinator.com/item?id=27187522
-Points: 55
-# Comments: 25]]></summary>
+Points: 67
+# Comments: 35]]></summary>
         <author>
             <name>chmaynard</name>
         </author>
@@ -114,8 +141,8 @@ Points: 55
         <updated>2021-05-17T19:38:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html
 Comments URL: https://news.ycombinator.com/item?id=27187435
-Points: 113
-# Comments: 13]]></summary>
+Points: 128
+# Comments: 20]]></summary>
         <author>
             <name>scarybeast</name>
         </author>
@@ -127,8 +154,8 @@ Points: 113
         <updated>2021-05-17T19:12:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/RedditEng/comments/neknjg/evolving_beyond_100_billion_recommendations_a_day/
 Comments URL: https://news.ycombinator.com/item?id=27187100
-Points: 51
-# Comments: 50]]></summary>
+Points: 61
+# Comments: 64]]></summary>
         <author>
             <name>jovsa</name>
         </author>
@@ -140,8 +167,8 @@ Points: 51
         <updated>2021-05-17T19:01:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sec.gov/news/press-release/2021-84
 Comments URL: https://news.ycombinator.com/item?id=27186959
-Points: 99
-# Comments: 27]]></summary>
+Points: 122
+# Comments: 37]]></summary>
         <author>
             <name>epa</name>
         </author>
@@ -153,8 +180,8 @@ Points: 99
         <updated>2021-05-17T18:51:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/
 Comments URL: https://news.ycombinator.com/item?id=27186778
-Points: 75
-# Comments: 31]]></summary>
+Points: 89
+# Comments: 40]]></summary>
         <author>
             <name>IMAYousaf</name>
         </author>
@@ -166,10 +193,23 @@ Points: 75
         <updated>2021-05-17T18:42:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/57102499
 Comments URL: https://news.ycombinator.com/item?id=27186675
-Points: 485
-# Comments: 207]]></summary>
+Points: 550
+# Comments: 261]]></summary>
         <author>
             <name>vanusa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A police dog who cried drugs at every traffic stop]]></title>
+        <id>https://news.ycombinator.com/item?id=27186436</id>
+        <link href="https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/"/>
+        <updated>2021-05-17T18:23:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/
+Comments URL: https://news.ycombinator.com/item?id=27186436
+Points: 125
+# Comments: 92]]></summary>
+        <author>
+            <name>pessimizer</name>
         </author>
     </entry>
     <entry>
@@ -179,23 +219,10 @@ Points: 485
         <updated>2021-05-17T18:18:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.grouparoo.com/blog/varchar-191
 Comments URL: https://news.ycombinator.com/item?id=27186385
-Points: 77
-# Comments: 27]]></summary>
+Points: 84
+# Comments: 28]]></summary>
         <author>
             <name>andyjih_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neutron tomography of Van Leeuwenhoek’s microscopes]]></title>
-        <id>https://news.ycombinator.com/item?id=27186291</id>
-        <link href="https://advances.sciencemag.org/content/7/20/eabf2402"/>
-        <updated>2021-05-17T18:09:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://advances.sciencemag.org/content/7/20/eabf2402
-Comments URL: https://news.ycombinator.com/item?id=27186291
-Points: 19
-# Comments: 1]]></summary>
-        <author>
-            <name>benbreen</name>
         </author>
     </entry>
     <entry>
@@ -205,8 +232,8 @@ Points: 19
         <updated>2021-05-17T18:04:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://volument.com/blog/volument-launches
 Comments URL: https://news.ycombinator.com/item?id=27186249
-Points: 22
-# Comments: 5]]></summary>
+Points: 30
+# Comments: 14]]></summary>
         <author>
             <name>fuzzymind</name>
         </author>
@@ -228,8 +255,8 @@ Points: 22
         <updated>2021-05-17T17:39:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/how-brain-computer-interface-technology-is-different-from-mind-control-20210517/
 Comments URL: https://news.ycombinator.com/item?id=27185993
-Points: 31
-# Comments: 10]]></summary>
+Points: 36
+# Comments: 12]]></summary>
         <author>
             <name>theafh</name>
         </author>
@@ -241,8 +268,8 @@ Points: 31
         <updated>2021-05-17T17:35:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://100r.co/site/uxn.html
 Comments URL: https://news.ycombinator.com/item?id=27185950
-Points: 124
-# Comments: 24]]></summary>
+Points: 147
+# Comments: 27]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -298,8 +325,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-17T14:25:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/414618/
 Comments URL: https://news.ycombinator.com/item?id=27183784
-Points: 132
-# Comments: 57]]></summary>
+Points: 135
+# Comments: 59]]></summary>
         <author>
             <name>wmanley</name>
         </author>
@@ -311,23 +338,10 @@ Points: 132
         <updated>2021-05-17T14:22:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/
 Comments URL: https://news.ycombinator.com/item?id=27183734
-Points: 476
-# Comments: 220]]></summary>
+Points: 498
+# Comments: 235]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technocratic Plimsoll Line]]></title>
-        <id>https://news.ycombinator.com/item?id=27183622</id>
-        <link href="https://www.lesswrong.com/posts/AT47QboF7JeiMC25t/technocratic-plimsoll-line"/>
-        <updated>2021-05-17T14:12:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.lesswrong.com/posts/AT47QboF7JeiMC25t/technocratic-plimsoll-line
-Comments URL: https://news.ycombinator.com/item?id=27183622
-Points: 48
-# Comments: 15]]></summary>
-        <author>
-            <name>CapitalistCartr</name>
         </author>
     </entry>
     <entry>
@@ -631,20 +645,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topframe]]></title>
-        <id>https://css-tricks.com/?p=340020</id>
-        <link href="https://css-tricks.com/topframe/"/>
-        <updated>2021-05-10T21:14:15.000Z</updated>
-        <summary type="html"><![CDATA[This is extremely fun. Jeff Lindsay has created Topframe, and writes:
-Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience. Topframe is an open source tool that lets you 
-…
-The post Topframe appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
