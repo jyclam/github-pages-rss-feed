@@ -6,27 +6,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27182013",
-          "author": "adrian_mrd",
-          "description": "Article URL: https://www.hollywoodreporter.com/business/digital/bill-gates-affair-microsoft-nvestigation-1234954148/\nComments URL: https://news.ycombinator.com/item?id=27182013\nPoints: 7\n# Comments: 0",
-          "link": "https://www.hollywoodreporter.com/business/digital/bill-gates-affair-microsoft-nvestigation-1234954148/",
-          "publishedOn": "2021-05-17T10:39:51.000Z",
-          "wordCount": 1275,
-          "title": "Microsoft Investigated Bill Gates Before He Left the Board (Report)"
+          "id": "https://news.ycombinator.com/item?id=27182487",
+          "author": "jlemoine",
+          "description": "Article URL: https://www.algolia.com/careers/developer-relations-engineer-atlanta-new-york-san-francisco-remote\nComments URL: https://news.ycombinator.com/item?id=27182487\nPoints: 1\n# Comments: 0",
+          "link": "https://www.algolia.com/careers/developer-relations-engineer-atlanta-new-york-san-francisco-remote",
+          "publishedOn": "2021-05-17T12:01:02.000Z",
+          "wordCount": 874,
+          "title": "Algolia (YC W14) Is Hiring a Developer Relations Engineer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27182244",
+          "author": "giuliomagnifico",
+          "description": "Article URL: https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/\nComments URL: https://news.ycombinator.com/item?id=27182244\nPoints: 42\n# Comments: 15",
+          "link": "https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/",
+          "publishedOn": "2021-05-17T11:23:07.000Z",
+          "wordCount": 2011,
+          "title": "If M1 Macs feel faster than Intel it's due to optimization of the ARM CPU QoS"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27182112",
+          "author": "ingve",
+          "description": "Article URL: https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html\nComments URL: https://news.ycombinator.com/item?id=27182112\nPoints: 10\n# Comments: 0",
+          "link": "https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html",
+          "publishedOn": "2021-05-17T11:00:29.000Z",
+          "wordCount": 1613,
+          "title": "Dark Side of Posix APIs"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27181576",
           "author": "JoachimS",
-          "description": "Article URL: https://articles.59.ca/doku.php?id=pgpfan:tpp\nComments URL: https://news.ycombinator.com/item?id=27181576\nPoints: 10\n# Comments: 0",
+          "description": "Article URL: https://articles.59.ca/doku.php?id=pgpfan:tpp\nComments URL: https://news.ycombinator.com/item?id=27181576\nPoints: 35\n# Comments: 2",
           "link": "https://articles.59.ca/doku.php?id=pgpfan:tpp",
           "publishedOn": "2021-05-17T09:35:00.000Z",
           "wordCount": 1922,
           "title": "The PGP Problem: A Critique (2020)"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27181374",
+          "author": "jorislacance",
+          "description": "Article URL: https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/\nComments URL: https://news.ycombinator.com/item?id=27181374\nPoints: 17\n# Comments: 1",
+          "link": "https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/",
+          "publishedOn": "2021-05-17T08:55:16.000Z",
+          "wordCount": 586,
+          "title": "Let's Encrypt – DST Root CA X3 Expiration (September 2021)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27181307",
           "author": "hapiben",
-          "description": "Article URL: https://tinystore.app\nComments URL: https://news.ycombinator.com/item?id=27181307\nPoints: 37\n# Comments: 13",
+          "description": "Article URL: https://tinystore.app\nComments URL: https://news.ycombinator.com/item?id=27181307\nPoints: 61\n# Comments: 29",
           "link": "https://tinystore.app",
           "publishedOn": "2021-05-17T08:45:10.000Z",
           "wordCount": 44,
@@ -35,34 +62,34 @@
         {
           "id": "https://news.ycombinator.com/item?id=27181243",
           "author": "luu",
-          "description": "Article URL: https://statmodeling.stat.columbia.edu/2021/05/16/feeling-like-a-pariah-even-when-youre-not/\nComments URL: https://news.ycombinator.com/item?id=27181243\nPoints: 13\n# Comments: 2",
+          "description": "Article URL: https://statmodeling.stat.columbia.edu/2021/05/16/feeling-like-a-pariah-even-when-youre-not/\nComments URL: https://news.ycombinator.com/item?id=27181243\nPoints: 26\n# Comments: 4",
           "link": "https://statmodeling.stat.columbia.edu/2021/05/16/feeling-like-a-pariah-even-when-youre-not/",
           "publishedOn": "2021-05-17T08:34:56.000Z",
-          "wordCount": 4080,
+          "wordCount": 4229,
           "title": "Feeling like a pariah (even when you’re not)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27181081",
           "author": "tempodox",
-          "description": "Article URL: https://blog.piekniewski.info/2021/05/12/ai-mid-2021/\nComments URL: https://news.ycombinator.com/item?id=27181081\nPoints: 14\n# Comments: 1",
+          "description": "Article URL: https://blog.piekniewski.info/2021/05/12/ai-mid-2021/\nComments URL: https://news.ycombinator.com/item?id=27181081\nPoints: 32\n# Comments: 9",
           "link": "https://blog.piekniewski.info/2021/05/12/ai-mid-2021/",
           "publishedOn": "2021-05-17T08:10:33.000Z",
-          "wordCount": 2894,
+          "wordCount": 2925,
           "title": "AI Mid 2021: Self Driving Car Meets Reality"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27180993",
           "author": "akbarnama",
-          "description": "Article URL: https://www.bbc.com/news/business-57085557\nComments URL: https://news.ycombinator.com/item?id=27180993\nPoints: 15\n# Comments: 9",
+          "description": "Article URL: https://www.bbc.com/news/business-57085557\nComments URL: https://news.ycombinator.com/item?id=27180993\nPoints: 37\n# Comments: 39",
           "link": "https://www.bbc.com/news/business-57085557",
           "publishedOn": "2021-05-17T07:52:10.000Z",
-          "wordCount": 1867,
+          "wordCount": 1863,
           "title": "The app that lets you pay to control another person's life"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27180750",
           "author": "RcrdBrt",
-          "description": "Article URL: https://www.jolie-lang.org/\nComments URL: https://news.ycombinator.com/item?id=27180750\nPoints: 60\n# Comments: 15",
+          "description": "Article URL: https://www.jolie-lang.org/\nComments URL: https://news.ycombinator.com/item?id=27180750\nPoints: 86\n# Comments: 26",
           "link": "https://www.jolie-lang.org/",
           "publishedOn": "2021-05-17T07:03:57.000Z",
           "wordCount": 1035,
@@ -71,16 +98,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27180545",
           "author": "pmoriarty",
-          "description": "Article URL: https://www.bbc.co.uk/news/business-57139434\nComments URL: https://news.ycombinator.com/item?id=27180545\nPoints: 130\n# Comments: 52",
+          "description": "Article URL: https://www.bbc.co.uk/news/business-57139434\nComments URL: https://news.ycombinator.com/item?id=27180545\nPoints: 173\n# Comments: 79",
           "link": "https://www.bbc.co.uk/news/business-57139434",
           "publishedOn": "2021-05-17T06:21:32.000Z",
-          "wordCount": 1307,
+          "wordCount": 1376,
           "title": "Working over 55 hours a week associated with higher risk of stroke, heart attack"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27180453",
           "author": "parsecs",
-          "description": "Article URL: https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html\nComments URL: https://news.ycombinator.com/item?id=27180453\nPoints: 75\n# Comments: 7",
+          "description": "Article URL: https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html\nComments URL: https://news.ycombinator.com/item?id=27180453\nPoints: 85\n# Comments: 9",
           "link": "https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html",
           "publishedOn": "2021-05-17T05:57:22.000Z",
           "wordCount": 3783,
@@ -89,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27180452",
           "author": "Bimal_kumar",
-          "description": "Article URL: https://clickhouse.tech/blog/en/2020/the-clickhouse-community/\nComments URL: https://news.ycombinator.com/item?id=27180452\nPoints: 71\n# Comments: 34",
+          "description": "Article URL: https://clickhouse.tech/blog/en/2020/the-clickhouse-community/\nComments URL: https://news.ycombinator.com/item?id=27180452\nPoints: 89\n# Comments: 38",
           "link": "https://clickhouse.tech/blog/en/2020/the-clickhouse-community/",
           "publishedOn": "2021-05-17T05:57:09.000Z",
           "wordCount": 1850,
@@ -98,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27180421",
           "author": "nreece",
-          "description": "Article URL: https://schleiss.io/plotting-source-code-todos-for-open-source-projects\nComments URL: https://news.ycombinator.com/item?id=27180421\nPoints: 80\n# Comments: 37",
+          "description": "Article URL: https://schleiss.io/plotting-source-code-todos-for-open-source-projects\nComments URL: https://news.ycombinator.com/item?id=27180421\nPoints: 103\n# Comments: 54",
           "link": "https://schleiss.io/plotting-source-code-todos-for-open-source-projects",
           "publishedOn": "2021-05-17T05:51:50.000Z",
           "wordCount": 336,
@@ -107,16 +134,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27180264",
           "author": "ashitlerferad",
-          "description": "Article URL: https://hackaday.com/2021/05/10/tetris-for-game-boy-gets-online-multiplayer/\nComments URL: https://news.ycombinator.com/item?id=27180264\nPoints: 65\n# Comments: 15",
+          "description": "Article URL: https://hackaday.com/2021/05/10/tetris-for-game-boy-gets-online-multiplayer/\nComments URL: https://news.ycombinator.com/item?id=27180264\nPoints: 72\n# Comments: 18",
           "link": "https://hackaday.com/2021/05/10/tetris-for-game-boy-gets-online-multiplayer/",
           "publishedOn": "2021-05-17T05:13:43.000Z",
-          "wordCount": 1524,
+          "wordCount": 1531,
           "title": "Tetris for Game Boy Gets Online Multiplayer"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27180182",
           "author": "Orochikaku",
-          "description": "Article URL: https://github.com/jart/cosmopolitan/releases/tag/1.0\nComments URL: https://news.ycombinator.com/item?id=27180182\nPoints: 293\n# Comments: 56",
+          "description": "Article URL: https://github.com/jart/cosmopolitan/releases/tag/1.0\nComments URL: https://news.ycombinator.com/item?id=27180182\nPoints: 335\n# Comments: 59",
           "link": "https://github.com/jart/cosmopolitan/releases/tag/1.0",
           "publishedOn": "2021-05-17T04:57:49.000Z",
           "wordCount": 969,
@@ -125,16 +152,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27180079",
           "author": "Vigier",
-          "description": "Article URL: https://www.wsj.com/articles/journey-to-the-edge-of-reason-review-godels-beautiful-mind-11621003883\nComments URL: https://news.ycombinator.com/item?id=27180079\nPoints: 10\n# Comments: 0",
+          "description": "Article URL: https://www.wsj.com/articles/journey-to-the-edge-of-reason-review-godels-beautiful-mind-11621003883\nComments URL: https://news.ycombinator.com/item?id=27180079\nPoints: 21\n# Comments: 0",
           "link": "https://www.wsj.com/articles/journey-to-the-edge-of-reason-review-godels-beautiful-mind-11621003883",
           "publishedOn": "2021-05-17T04:35:26.000Z",
-          "wordCount": 1380,
+          "wordCount": 1356,
           "title": "‘Journey to the Edge of Reason’ Review: Gödel’s Beautiful Mind"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27179909",
           "author": "chmaynard",
-          "description": "Article URL: https://github.com/eyeseast/geocode-sqlite\nComments URL: https://news.ycombinator.com/item?id=27179909\nPoints: 85\n# Comments: 5",
+          "description": "Article URL: https://github.com/eyeseast/geocode-sqlite\nComments URL: https://news.ycombinator.com/item?id=27179909\nPoints: 96\n# Comments: 9",
           "link": "https://github.com/eyeseast/geocode-sqlite",
           "publishedOn": "2021-05-17T03:54:47.000Z",
           "wordCount": 1095,
@@ -143,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27179696",
           "author": "cf100clunk",
-          "description": "Article URL: https://www.openmapchest.org/shutting-down/\nComments URL: https://news.ycombinator.com/item?id=27179696\nPoints: 39\n# Comments: 14",
+          "description": "Article URL: https://www.openmapchest.org/shutting-down/\nComments URL: https://news.ycombinator.com/item?id=27179696\nPoints: 43\n# Comments: 14",
           "link": "https://www.openmapchest.org/shutting-down/",
           "publishedOn": "2021-05-17T03:06:49.000Z",
           "wordCount": 483,
@@ -152,38 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27179391",
           "author": "graderjs",
-          "description": "Article URL: https://github.com/i5ik/ViewFinderJS\nComments URL: https://news.ycombinator.com/item?id=27179391\nPoints: 41\n# Comments: 24",
+          "description": "Article URL: https://github.com/i5ik/ViewFinderJS\nComments URL: https://news.ycombinator.com/item?id=27179391\nPoints: 48\n# Comments: 25",
           "link": "https://github.com/i5ik/ViewFinderJS",
           "publishedOn": "2021-05-17T02:10:11.000Z",
           "wordCount": 3119,
           "title": "Show HN: Free open-source isolated browser for security"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27178891",
-          "author": "kvnhn",
-          "description": "Article URL: https://whuts.org/\nComments URL: https://news.ycombinator.com/item?id=27178891\nPoints: 58\n# Comments: 13",
-          "link": "https://whuts.org/",
-          "publishedOn": "2021-05-17T00:58:24.000Z",
-          "wordCount": 1,
-          "title": "Which hypercube unfoldings tile space?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27178486",
-          "author": "dgudkov",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries\nComments URL: https://news.ycombinator.com/item?id=27178486\nPoints: 386\n# Comments: 174",
-          "link": "https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries",
-          "publishedOn": "2021-05-16T23:58:50.000Z",
-          "wordCount": 93,
-          "title": "CEO behind Japan’s best-performing stock says his secret is raising salaries"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27177746",
-          "author": "oumua_don17",
-          "description": "Article URL: https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html\nComments URL: https://news.ycombinator.com/item?id=27177746\nPoints: 165\n# Comments: 53",
-          "link": "https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html",
-          "publishedOn": "2021-05-16T22:40:35.000Z",
-          "wordCount": 1346,
-          "title": "The Achilles Heel of the Coronavirus"
         }
       ]
     },
@@ -462,6 +462,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
+          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
+          "description": "Google’s “Page Experience Update” will begin rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to our business, and this is the story of how we improved our Core Web Vitals scores. We built a tool along the way that we are releasing as open-source for anyone to use—and help us improve!",
+          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
+          "publishedOn": "2021-05-17T11:30:00.000Z",
+          "wordCount": 2909,
+          "title": "How We Improved Our Core Web Vitals (Case Study)"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "author": "hello@smashingmagazine.com (Átila Fassina)",
