@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T05:21:46.016Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-17T06:17:05.210Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.7.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
+        <updated>2021-05-17T05:32:19.000Z</updated>
+        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
+Chore: Reorganize to monorepo with npm workspace.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tetris for Game Boy Gets Online Multiplayer]]></title>
+        <id>https://news.ycombinator.com/item?id=27180264</id>
+        <link href="https://hackaday.com/2021/05/10/tetris-for-game-boy-gets-online-multiplayer/"/>
+        <updated>2021-05-17T05:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hackaday.com/2021/05/10/tetris-for-game-boy-gets-online-multiplayer/
+Comments URL: https://news.ycombinator.com/item?id=27180264
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>ashitlerferad</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cosmopolitan Libc v1.0 Released]]></title>
         <id>https://news.ycombinator.com/item?id=27180182</id>
@@ -13,8 +37,8 @@
         <updated>2021-05-17T04:57:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jart/cosmopolitan/releases/tag/1.0
 Comments URL: https://news.ycombinator.com/item?id=27180182
-Points: 11
-# Comments: 1]]></summary>
+Points: 84
+# Comments: 6]]></summary>
         <author>
             <name>Orochikaku</name>
         </author>
@@ -26,10 +50,23 @@ Points: 11
         <updated>2021-05-17T03:54:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/eyeseast/geocode-sqlite
 Comments URL: https://news.ycombinator.com/item?id=27179909
-Points: 33
-# Comments: 0]]></summary>
+Points: 51
+# Comments: 3]]></summary>
         <author>
             <name>chmaynard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenMapChest (Garmin GPS alternative map provider) is shutting down]]></title>
+        <id>https://news.ycombinator.com/item?id=27179696</id>
+        <link href="https://www.openmapchest.org/shutting-down/"/>
+        <updated>2021-05-17T03:06:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.openmapchest.org/shutting-down/
+Comments URL: https://news.ycombinator.com/item?id=27179696
+Points: 15
+# Comments: 4]]></summary>
+        <author>
+            <name>cf100clunk</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +76,8 @@ Points: 33
         <updated>2021-05-17T02:10:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/i5ik/ViewFinderJS
 Comments URL: https://news.ycombinator.com/item?id=27179391
-Points: 3
-# Comments: 0]]></summary>
+Points: 12
+# Comments: 3]]></summary>
         <author>
             <name>graderjs</name>
         </author>
@@ -52,10 +89,23 @@ Points: 3
         <updated>2021-05-17T00:58:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://whuts.org/
 Comments URL: https://news.ycombinator.com/item?id=27178891
-Points: 5
-# Comments: 0]]></summary>
+Points: 15
+# Comments: 1]]></summary>
         <author>
             <name>kvnhn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UFOs regularly spotted in US airspace, report on the phenomena due next month]]></title>
+        <id>https://news.ycombinator.com/item?id=27178729</id>
+        <link href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"/>
+        <updated>2021-05-17T00:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/
+Comments URL: https://news.ycombinator.com/item?id=27178729
+Points: 55
+# Comments: 20]]></summary>
+        <author>
+            <name>spenvo</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +115,8 @@ Points: 5
         <updated>2021-05-17T00:15:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://codahale.com/you-cant-sacrifice-partition-tolerance/
 Comments URL: https://news.ycombinator.com/item?id=27178620
-Points: 45
-# Comments: 32]]></summary>
+Points: 53
+# Comments: 38]]></summary>
         <author>
             <name>xk3</name>
         </author>
@@ -78,8 +128,8 @@ Points: 45
         <updated>2021-05-16T23:58:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries
 Comments URL: https://news.ycombinator.com/item?id=27178486
-Points: 186
-# Comments: 87]]></summary>
+Points: 243
+# Comments: 96]]></summary>
         <author>
             <name>dgudkov</name>
         </author>
@@ -91,7 +141,7 @@ Points: 186
         <updated>2021-05-16T23:38:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.politico.com/news/2021/05/15/congress-colonial-pipeline-disclosure-488406
 Comments URL: https://news.ycombinator.com/item?id=27178330
-Points: 32
+Points: 42
 # Comments: 17]]></summary>
         <author>
             <name>Black101</name>
@@ -104,8 +154,8 @@ Points: 32
         <updated>2021-05-16T22:40:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html
 Comments URL: https://news.ycombinator.com/item?id=27177746
-Points: 75
-# Comments: 20]]></summary>
+Points: 94
+# Comments: 24]]></summary>
         <author>
             <name>oumua_don17</name>
         </author>
@@ -117,21 +167,10 @@ Points: 75
         <updated>2021-05-16T22:37:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt
 Comments URL: https://news.ycombinator.com/item?id=27177718
-Points: 88
+Points: 92
 # Comments: 20]]></summary>
         <author>
             <name>fortran77</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: I think I hate the software development industry? Am I crazy?]]></title>
-        <id>https://news.ycombinator.com/item?id=27177574</id>
-        <link href="https://news.ycombinator.com/item?id=27177574"/>
-        <updated>2021-05-16T22:22:02.000Z</updated>
-        <summary type="html"><![CDATA[I can’t stand software development. I hate the work, hate the people, the culture, etc. The idea of continuing this until for many more decades is sickening. Additionally I’ve pigeonholed myself into an area of the industry that’s is particularly draining (though not for the reasons you may thing).
-Money is not a huge concern to me, but if I’m going to have to do something I hate 8+ hours a day, I would at least to prefer to be making enough money to distract me from it. I’m not anywhere near there at the m…]]></summary>
-        <author>
-            <name>goodbyeworld37</name>
         </author>
     </entry>
     <entry>
@@ -141,7 +180,7 @@ Money is not a huge concern to me, but if I’m going to have to do something I 
         <updated>2021-05-16T20:37:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://voiceofoc.org/2021/05/fullerton-settles-lawsuit-against-local-bloggers-for-publishing-secret-city-hall-documents-including-police-misconduct-records/
 Comments URL: https://news.ycombinator.com/item?id=27176819
-Points: 86
+Points: 89
 # Comments: 18]]></summary>
         <author>
             <name>us0r</name>
@@ -154,7 +193,7 @@ Points: 86
         <updated>2021-05-16T19:10:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://goteleport.com/blog/access-controls/
 Comments URL: https://news.ycombinator.com/item?id=27176145
-Points: 50
+Points: 58
 # Comments: 5]]></summary>
         <author>
             <name>aberoham</name>
@@ -167,8 +206,8 @@ Points: 50
         <updated>2021-05-16T18:42:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://christine.website/talks/systemd-the-good-parts-2021-05-16
 Comments URL: https://news.ycombinator.com/item?id=27175960
-Points: 302
-# Comments: 275]]></summary>
+Points: 311
+# Comments: 281]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -180,8 +219,8 @@ Points: 302
         <updated>2021-05-16T18:41:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/
 Comments URL: https://news.ycombinator.com/item?id=27175955
-Points: 191
-# Comments: 98]]></summary>
+Points: 202
+# Comments: 102]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -193,8 +232,8 @@ Points: 191
         <updated>2021-05-16T18:35:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://coincarboncap.com/
 Comments URL: https://news.ycombinator.com/item?id=27175913
-Points: 285
-# Comments: 234]]></summary>
+Points: 294
+# Comments: 243]]></summary>
         <author>
             <name>GBiT</name>
         </author>
@@ -219,8 +258,8 @@ Points: 17
         <updated>2021-05-16T17:59:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.rekt.news/value-rekt2/
 Comments URL: https://news.ycombinator.com/item?id=27175622
-Points: 255
-# Comments: 255]]></summary>
+Points: 259
+# Comments: 260]]></summary>
         <author>
             <name>drdrey</name>
         </author>
@@ -232,36 +271,10 @@ Points: 255
         <updated>2021-05-16T17:26:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/
 Comments URL: https://news.ycombinator.com/item?id=27175299
-Points: 108
-# Comments: 40]]></summary>
+Points: 112
+# Comments: 42]]></summary>
         <author>
             <name>paulpauper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replacing Elasticsearch with Rust and SQLite (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27175284</id>
-        <link href="https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite"/>
-        <updated>2021-05-16T17:24:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite
-Comments URL: https://news.ycombinator.com/item?id=27175284
-Points: 162
-# Comments: 30]]></summary>
-        <author>
-            <name>nethunters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinTracker (YC W18) is hiring people passionate about cryptocurrency]]></title>
-        <id>https://news.ycombinator.com/item?id=27175053</id>
-        <link href="https://www.cointracker.io/careers"/>
-        <updated>2021-05-16T17:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cointracker.io/careers
-Comments URL: https://news.ycombinator.com/item?id=27175053
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>jonlerner</name>
         </author>
     </entry>
     <entry>
@@ -746,16 +759,6 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
         <updated>2021-05-05T05:18:52.000Z</updated>
         <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.1.6]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6"/>
-        <updated>2021-05-05T05:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: The output website didn't have favicon.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
