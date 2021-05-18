@@ -6,9 +6,45 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27189308",
+          "author": "ethangk",
+          "description": "Article URL: https://ethan.katzenberg.co.uk/posts/saying-difficult-things/\nComments URL: https://news.ycombinator.com/item?id=27189308\nPoints: 18\n# Comments: 2",
+          "link": "https://ethan.katzenberg.co.uk/posts/saying-difficult-things/",
+          "publishedOn": "2021-05-17T22:45:20.000Z",
+          "wordCount": 244,
+          "title": "Saying the Difficult Things"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27189288",
+          "author": "zachlatta",
+          "description": "Article URL: http://jobs.hackclub.com/\nComments URL: https://news.ycombinator.com/item?id=27189288\nPoints: 33\n# Comments: 10",
+          "link": "http://jobs.hackclub.com/",
+          "publishedOn": "2021-05-17T22:42:22.000Z",
+          "wordCount": 193,
+          "title": "Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27189162",
+          "author": "ag8",
+          "description": "Article URL: https://www.nps.gov/articles/000/cicadas-brood-x.htm\nComments URL: https://news.ycombinator.com/item?id=27189162\nPoints: 32\n# Comments: 11",
+          "link": "https://www.nps.gov/articles/000/cicadas-brood-x.htm",
+          "publishedOn": "2021-05-17T22:25:51.000Z",
+          "wordCount": 1001,
+          "title": "Brood X cicadas, which come out ever 17 years, come out in the Eastern U.S."
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27188989",
+          "author": "rajlego",
+          "description": "Article URL: https://cantunsee.space/\nComments URL: https://news.ycombinator.com/item?id=27188989\nPoints: 33\n# Comments: 13",
+          "link": "https://cantunsee.space/",
+          "publishedOn": "2021-05-17T22:05:32.000Z",
+          "wordCount": 19,
+          "title": "Can't Unsee"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27188854",
           "author": "diplodocusaur",
-          "description": "Article URL: https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand\nComments URL: https://news.ycombinator.com/item?id=27188854\nPoints: 58\n# Comments: 18",
+          "description": "Article URL: https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand\nComments URL: https://news.ycombinator.com/item?id=27188854\nPoints: 127\n# Comments: 54",
           "link": "https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand",
           "publishedOn": "2021-05-17T21:48:54.000Z",
           "wordCount": 2174,
@@ -17,16 +53,34 @@
         {
           "id": "https://news.ycombinator.com/item?id=27188753",
           "author": "sova",
-          "description": "Article URL: https://www.nature.com/articles/d41586-021-01332-0\nComments URL: https://news.ycombinator.com/item?id=27188753\nPoints: 15\n# Comments: 1",
+          "description": "Article URL: https://www.nature.com/articles/d41586-021-01332-0\nComments URL: https://news.ycombinator.com/item?id=27188753\nPoints: 36\n# Comments: 3",
           "link": "https://www.nature.com/articles/d41586-021-01332-0",
           "publishedOn": "2021-05-17T21:36:43.000Z",
           "wordCount": 1671,
           "title": "First nuclear detonation created ‘impossible’ quasicrystals"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27188644",
+          "author": "rbanffy",
+          "description": "Article URL: https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/\nComments URL: https://news.ycombinator.com/item?id=27188644\nPoints: 13\n# Comments: 1",
+          "link": "https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/",
+          "publishedOn": "2021-05-17T21:25:36.000Z",
+          "wordCount": 1899,
+          "title": "Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27188643",
+          "author": "throwkeep",
+          "description": "Article URL: https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/\nComments URL: https://news.ycombinator.com/item?id=27188643\nPoints: 31\n# Comments: 4",
+          "link": "https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/",
+          "publishedOn": "2021-05-17T21:25:28.000Z",
+          "wordCount": 6420,
+          "title": "Why Civilization Is Older Than We Thought"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27188443",
           "author": "gjvc",
-          "description": "Article URL: https://github.com/jupyterlab/jupyterlab-latex\nComments URL: https://news.ycombinator.com/item?id=27188443\nPoints: 31\n# Comments: 3",
+          "description": "Article URL: https://github.com/jupyterlab/jupyterlab-latex\nComments URL: https://news.ycombinator.com/item?id=27188443\nPoints: 60\n# Comments: 11",
           "link": "https://github.com/jupyterlab/jupyterlab-latex",
           "publishedOn": "2021-05-17T21:05:45.000Z",
           "wordCount": 1067,
@@ -42,18 +96,18 @@
           "title": "OneSignal (YC S11) Is Hiring Engineers in California, New York, Texas, & the UK"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27188394",
-          "author": "dricornelius",
-          "description": "Article URL: https://www.nhm.ac.uk/discover/horseshoe-crab-blood-miracle-vaccine-ingredient.html\nComments URL: https://news.ycombinator.com/item?id=27188394\nPoints: 22\n# Comments: 5",
-          "link": "https://www.nhm.ac.uk/discover/horseshoe-crab-blood-miracle-vaccine-ingredient.html",
-          "publishedOn": "2021-05-17T21:01:02.000Z",
-          "wordCount": 1736,
-          "title": "Horseshoe crab blood: miracle vaccine ingredient that's saved millions of lives"
+          "id": "https://news.ycombinator.com/item?id=27188188",
+          "author": "throwaway888abc",
+          "description": "Article URL: https://ysamm.com/?p=691\nComments URL: https://news.ycombinator.com/item?id=27188188\nPoints: 22\n# Comments: 0",
+          "link": "https://ysamm.com/?p=691",
+          "publishedOn": "2021-05-17T20:41:30.000Z",
+          "wordCount": 366,
+          "title": "Identify a Facebook user by his phone number despite privacy settings set"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27188130",
           "author": "sdeframond",
-          "description": "Article URL: https://legalese.com/\nComments URL: https://news.ycombinator.com/item?id=27188130\nPoints: 62\n# Comments: 26",
+          "description": "Article URL: https://legalese.com/\nComments URL: https://news.ycombinator.com/item?id=27188130\nPoints: 88\n# Comments: 41",
           "link": "https://legalese.com/",
           "publishedOn": "2021-05-17T20:36:44.000Z",
           "wordCount": 260,
@@ -62,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27187896",
           "author": "macinjosh",
-          "description": "Article URL: https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery\nComments URL: https://news.ycombinator.com/item?id=27187896\nPoints: 64\n# Comments: 19",
+          "description": "Article URL: https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery\nComments URL: https://news.ycombinator.com/item?id=27187896\nPoints: 79\n# Comments: 26",
           "link": "https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery",
           "publishedOn": "2021-05-17T20:14:30.000Z",
           "wordCount": 1155,
@@ -71,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27187522",
           "author": "chmaynard",
-          "description": "Article URL: https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster\nComments URL: https://news.ycombinator.com/item?id=27187522\nPoints: 67\n# Comments: 35",
+          "description": "Article URL: https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster\nComments URL: https://news.ycombinator.com/item?id=27187522\nPoints: 81\n# Comments: 41",
           "link": "https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster",
           "publishedOn": "2021-05-17T19:44:55.000Z",
           "wordCount": 2793,
@@ -80,25 +134,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27187435",
           "author": "scarybeast",
-          "description": "Article URL: https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html\nComments URL: https://news.ycombinator.com/item?id=27187435\nPoints: 128\n# Comments: 20",
+          "description": "Article URL: https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html\nComments URL: https://news.ycombinator.com/item?id=27187435\nPoints: 167\n# Comments: 26",
           "link": "https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html",
           "publishedOn": "2021-05-17T19:38:38.000Z",
           "wordCount": 4610,
           "title": "Recovering “lost” treasure-filled floppy discs with an oscilloscope"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27187100",
-          "author": "jovsa",
-          "description": "Article URL: https://www.reddit.com/r/RedditEng/comments/neknjg/evolving_beyond_100_billion_recommendations_a_day/\nComments URL: https://news.ycombinator.com/item?id=27187100\nPoints: 61\n# Comments: 64",
-          "link": "https://www.reddit.com/r/RedditEng/comments/neknjg/evolving_beyond_100_billion_recommendations_a_day/",
-          "publishedOn": "2021-05-17T19:12:16.000Z",
-          "wordCount": 1462,
-          "title": "Evolving beyond 100B recommendations a day at Reddit"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27186959",
           "author": "epa",
-          "description": "Article URL: https://www.sec.gov/news/press-release/2021-84\nComments URL: https://news.ycombinator.com/item?id=27186959\nPoints: 122\n# Comments: 37",
+          "description": "Article URL: https://www.sec.gov/news/press-release/2021-84\nComments URL: https://news.ycombinator.com/item?id=27186959\nPoints: 145\n# Comments: 46",
           "link": "https://www.sec.gov/news/press-release/2021-84",
           "publishedOn": "2021-05-17T19:01:48.000Z",
           "wordCount": 962,
@@ -107,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27186778",
           "author": "IMAYousaf",
-          "description": "Article URL: https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/\nComments URL: https://news.ycombinator.com/item?id=27186778\nPoints: 89\n# Comments: 40",
+          "description": "Article URL: https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/\nComments URL: https://news.ycombinator.com/item?id=27186778\nPoints: 105\n# Comments: 62",
           "link": "https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/",
           "publishedOn": "2021-05-17T18:51:23.000Z",
           "wordCount": 1206,
@@ -116,16 +161,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27186675",
           "author": "vanusa",
-          "description": "Article URL: https://www.bbc.com/news/57102499\nComments URL: https://news.ycombinator.com/item?id=27186675\nPoints: 550\n# Comments: 261",
+          "description": "Article URL: https://www.bbc.com/news/57102499\nComments URL: https://news.ycombinator.com/item?id=27186675\nPoints: 622\n# Comments: 316",
           "link": "https://www.bbc.com/news/57102499",
           "publishedOn": "2021-05-17T18:42:45.000Z",
-          "wordCount": 1643,
+          "wordCount": 1639,
           "title": "Why is the Gaza Strip blurry on Google Maps?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27186436",
           "author": "pessimizer",
-          "description": "Article URL: https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/\nComments URL: https://news.ycombinator.com/item?id=27186436\nPoints: 125\n# Comments: 92",
+          "description": "Article URL: https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/\nComments URL: https://news.ycombinator.com/item?id=27186436\nPoints: 181\n# Comments: 142",
           "link": "https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/",
           "publishedOn": "2021-05-17T18:23:39.000Z",
           "wordCount": 7113,
@@ -134,56 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27186385",
           "author": "andyjih_",
-          "description": "Article URL: https://www.grouparoo.com/blog/varchar-191\nComments URL: https://news.ycombinator.com/item?id=27186385\nPoints: 84\n# Comments: 28",
+          "description": "Article URL: https://www.grouparoo.com/blog/varchar-191\nComments URL: https://news.ycombinator.com/item?id=27186385\nPoints: 88\n# Comments: 30",
           "link": "https://www.grouparoo.com/blog/varchar-191",
           "publishedOn": "2021-05-17T18:18:18.000Z",
           "wordCount": 1307,
           "title": "Why do database columns have a character length of 191?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27186249",
-          "author": "fuzzymind",
-          "description": "Article URL: https://volument.com/blog/volument-launches\nComments URL: https://news.ycombinator.com/item?id=27186249\nPoints: 30\n# Comments: 14",
-          "link": "https://volument.com/blog/volument-launches",
-          "publishedOn": "2021-05-17T18:04:27.000Z",
-          "wordCount": 1253,
-          "title": "Show HN: Volument – Our take on website analytics"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27185993",
-          "author": "theafh",
-          "description": "Article URL: https://www.quantamagazine.org/how-brain-computer-interface-technology-is-different-from-mind-control-20210517/\nComments URL: https://news.ycombinator.com/item?id=27185993\nPoints: 36\n# Comments: 12",
-          "link": "https://www.quantamagazine.org/how-brain-computer-interface-technology-is-different-from-mind-control-20210517/",
-          "publishedOn": "2021-05-17T17:39:03.000Z",
-          "wordCount": 1951,
-          "title": "Can Machines Control Our Brains?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27185950",
-          "author": "bpierre",
-          "description": "Article URL: https://100r.co/site/uxn.html\nComments URL: https://news.ycombinator.com/item?id=27185950\nPoints: 147\n# Comments: 27",
-          "link": "https://100r.co/site/uxn.html",
-          "publishedOn": "2021-05-17T17:35:32.000Z",
-          "wordCount": 674,
-          "title": "uxn: a portable 8-bit virtual computer"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27183784",
-          "author": "wmanley",
-          "description": "Article URL: https://lwn.net/Articles/414618/\nComments URL: https://news.ycombinator.com/item?id=27183784\nPoints: 135\n# Comments: 59",
-          "link": "https://lwn.net/Articles/414618/",
-          "publishedOn": "2021-05-17T14:25:43.000Z",
-          "wordCount": 16503,
-          "title": "Ghosts of Unix past, part 3: Unfixable designs (2010)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27183734",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/\nComments URL: https://news.ycombinator.com/item?id=27183734\nPoints: 498\n# Comments: 235",
-          "link": "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/",
-          "publishedOn": "2021-05-17T14:22:26.000Z",
-          "wordCount": 4435,
-          "title": "Try This One Weird Trick Russian Hackers Hate"
         }
       ]
     },
@@ -335,7 +335,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 1281,
+          "wordCount": 1356,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -443,7 +443,7 @@
           "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1488,
+          "wordCount": 1498,
           "title": "Next Gen CSS: @container"
         },
         {
