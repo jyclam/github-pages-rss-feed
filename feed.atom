@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T04:24:28.244Z</updated>
+    <updated>2021-05-18T05:22:28.028Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
+        <updated>2021-05-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Infinitic (Apache Pulsar framework for building distributed applications)]]></title>
         <id>https://news.ycombinator.com/item?id=27190762</id>
@@ -13,7 +23,7 @@
         <updated>2021-05-18T02:48:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/infiniticio/infinitic
 Comments URL: https://news.ycombinator.com/item?id=27190762
-Points: 7
+Points: 13
 # Comments: 0]]></summary>
         <author>
             <name>zbentley</name>
@@ -26,8 +36,8 @@ Points: 7
         <updated>2021-05-18T02:42:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cell.com/current-biology/fulltext/S0960-9822(21)00476-0
 Comments URL: https://news.ycombinator.com/item?id=27190742
-Points: 8
-# Comments: 0]]></summary>
+Points: 12
+# Comments: 1]]></summary>
         <author>
             <name>hheikinh</name>
         </author>
@@ -40,19 +50,6 @@ Points: 8
         <summary type="html"><![CDATA[When you're writing an article to publish on the freeCodeCamp community publication, it's important to keep in mind how you're saying what you're saying.  What are we talking about here? We're referring to your voice and your tone. These two aspects of your writing can have a strong effect on]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Learned to Stop Worrying and Love the Lab-Leak Theory]]></title>
-        <id>https://news.ycombinator.com/item?id=27190725</id>
-        <link href="https://donaldgmcneiljr1954.medium.com"/>
-        <updated>2021-05-18T02:40:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://donaldgmcneiljr1954.medium.com
-Comments URL: https://news.ycombinator.com/item?id=27190725
-Points: 138
-# Comments: 81]]></summary>
-        <author>
-            <name>InTheArena</name>
         </author>
     </entry>
     <entry>
@@ -77,8 +74,8 @@ What you are going to do:
         <updated>2021-05-17T22:45:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ethan.katzenberg.co.uk/posts/saying-difficult-things/
 Comments URL: https://news.ycombinator.com/item?id=27189308
-Points: 68
-# Comments: 30]]></summary>
+Points: 82
+# Comments: 37]]></summary>
         <author>
             <name>ethangk</name>
         </author>
@@ -90,8 +87,8 @@ Points: 68
         <updated>2021-05-17T22:42:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://jobs.hackclub.com/
 Comments URL: https://news.ycombinator.com/item?id=27189288
-Points: 123
-# Comments: 61]]></summary>
+Points: 135
+# Comments: 65]]></summary>
         <author>
             <name>zachlatta</name>
         </author>
@@ -117,8 +114,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-17T22:25:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nps.gov/articles/000/cicadas-brood-x.htm
 Comments URL: https://news.ycombinator.com/item?id=27189162
-Points: 73
-# Comments: 35]]></summary>
+Points: 75
+# Comments: 36]]></summary>
         <author>
             <name>ag8</name>
         </author>
@@ -130,8 +127,8 @@ Points: 73
         <updated>2021-05-17T22:05:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cantunsee.space/
 Comments URL: https://news.ycombinator.com/item?id=27188989
-Points: 116
-# Comments: 29]]></summary>
+Points: 136
+# Comments: 36]]></summary>
         <author>
             <name>rajlego</name>
         </author>
@@ -143,8 +140,8 @@ Points: 116
         <updated>2021-05-17T21:48:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
 Comments URL: https://news.ycombinator.com/item?id=27188854
-Points: 224
-# Comments: 102]]></summary>
+Points: 243
+# Comments: 108]]></summary>
         <author>
             <name>diplodocusaur</name>
         </author>
@@ -156,21 +153,21 @@ Points: 224
         <updated>2021-05-17T21:36:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01332-0
 Comments URL: https://news.ycombinator.com/item?id=27188753
-Points: 58
+Points: 60
 # Comments: 13]]></summary>
         <author>
             <name>sova</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Civilization Is Older Than We Thought]]></title>
+        <title type="html"><![CDATA[Civilization Is Older Than We Thought]]></title>
         <id>https://news.ycombinator.com/item?id=27188643</id>
         <link href="https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/"/>
         <updated>2021-05-17T21:25:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/
 Comments URL: https://news.ycombinator.com/item?id=27188643
-Points: 80
-# Comments: 34]]></summary>
+Points: 93
+# Comments: 41]]></summary>
         <author>
             <name>throwkeep</name>
         </author>
@@ -192,7 +189,7 @@ Points: 80
         <updated>2021-05-17T21:05:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jupyterlab/jupyterlab-latex
 Comments URL: https://news.ycombinator.com/item?id=27188443
-Points: 76
+Points: 79
 # Comments: 14]]></summary>
         <author>
             <name>gjvc</name>
@@ -205,8 +202,8 @@ Points: 76
         <updated>2021-05-17T20:41:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ysamm.com/?p=691
 Comments URL: https://news.ycombinator.com/item?id=27188188
-Points: 67
-# Comments: 8]]></summary>
+Points: 76
+# Comments: 11]]></summary>
         <author>
             <name>throwaway888abc</name>
         </author>
@@ -218,8 +215,8 @@ Points: 67
         <updated>2021-05-17T20:36:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://legalese.com/
 Comments URL: https://news.ycombinator.com/item?id=27188130
-Points: 111
-# Comments: 59]]></summary>
+Points: 117
+# Comments: 65]]></summary>
         <author>
             <name>sdeframond</name>
         </author>
@@ -231,7 +228,7 @@ Points: 111
         <updated>2021-05-17T20:14:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery
 Comments URL: https://news.ycombinator.com/item?id=27187896
-Points: 99
+Points: 103
 # Comments: 38]]></summary>
         <author>
             <name>macinjosh</name>
@@ -244,7 +241,7 @@ Points: 99
         <updated>2021-05-17T19:44:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster
 Comments URL: https://news.ycombinator.com/item?id=27187522
-Points: 109
+Points: 113
 # Comments: 53]]></summary>
         <author>
             <name>chmaynard</name>
@@ -257,7 +254,7 @@ Points: 109
         <updated>2021-05-17T19:38:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html
 Comments URL: https://news.ycombinator.com/item?id=27187435
-Points: 203
+Points: 212
 # Comments: 32]]></summary>
         <author>
             <name>scarybeast</name>
@@ -270,7 +267,7 @@ Points: 203
         <updated>2021-05-17T19:01:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sec.gov/news/press-release/2021-84
 Comments URL: https://news.ycombinator.com/item?id=27186959
-Points: 172
+Points: 178
 # Comments: 57]]></summary>
         <author>
             <name>epa</name>
@@ -283,8 +280,8 @@ Points: 172
         <updated>2021-05-17T18:51:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/
 Comments URL: https://news.ycombinator.com/item?id=27186778
-Points: 117
-# Comments: 86]]></summary>
+Points: 122
+# Comments: 88]]></summary>
         <author>
             <name>IMAYousaf</name>
         </author>
@@ -296,10 +293,23 @@ Points: 117
         <updated>2021-05-17T18:42:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/57102499
 Comments URL: https://news.ycombinator.com/item?id=27186675
-Points: 748
-# Comments: 398]]></summary>
+Points: 771
+# Comments: 410]]></summary>
         <author>
             <name>vanusa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A police dog who cried drugs at every traffic stop]]></title>
+        <id>https://news.ycombinator.com/item?id=27186436</id>
+        <link href="https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/"/>
+        <updated>2021-05-17T18:23:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/
+Comments URL: https://news.ycombinator.com/item?id=27186436
+Points: 329
+# Comments: 221]]></summary>
+        <author>
+            <name>pessimizer</name>
         </author>
     </entry>
     <entry>
