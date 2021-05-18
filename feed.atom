@@ -2,32 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T19:22:45.778Z</updated>
+    <updated>2021-05-18T20:15:01.786Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards]]></title>
-        <id>https://news.ycombinator.com/item?id=27199426</id>
-        <link href="https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/"/>
-        <updated>2021-05-18T19:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/
-Comments URL: https://news.ycombinator.com/item?id=27199426
-Points: 3
+        <title type="html"><![CDATA[A Pathway to Equitable Math Instruction]]></title>
+        <id>https://news.ycombinator.com/item?id=27199856</id>
+        <link href="https://equitablemath.org/"/>
+        <updated>2021-05-18T19:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://equitablemath.org/
+Comments URL: https://news.ycombinator.com/item?id=27199856
+Points: 9
 # Comments: 1]]></summary>
         <author>
-            <name>wglb</name>
+            <name>1cvmask</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The tools and tech I use to run a one-woman hardware company – Thea Flowers]]></title>
+        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
+        <id>https://css-tricks.com/?p=340613</id>
+        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
+        <updated>2021-05-18T19:14:53.000Z</updated>
+        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
+A fella wrote to me a while back outlining a situation he was in. His company has …
+The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Starline: Feel like you're there, together]]></title>
+        <id>https://news.ycombinator.com/item?id=27199330</id>
+        <link href="https://blog.google/technology/research/project-starline/"/>
+        <updated>2021-05-18T18:54:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.google/technology/research/project-starline/
+Comments URL: https://news.ycombinator.com/item?id=27199330
+Points: 66
+# Comments: 14]]></summary>
+        <author>
+            <name>ra7</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The tools and tech I use to run a one-woman hardware company]]></title>
         <id>https://news.ycombinator.com/item?id=27199225</id>
         <link href="https://blog.thea.codes/winterblooms-tech-stack/"/>
         <updated>2021-05-18T18:47:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.thea.codes/winterblooms-tech-stack/
 Comments URL: https://news.ycombinator.com/item?id=27199225
-Points: 20
-# Comments: 0]]></summary>
+Points: 131
+# Comments: 8]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -39,8 +65,8 @@ Points: 20
         <updated>2021-05-18T17:57:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7
 Comments URL: https://news.ycombinator.com/item?id=27198505
-Points: 31
-# Comments: 5]]></summary>
+Points: 50
+# Comments: 13]]></summary>
         <author>
             <name>hheikinh</name>
         </author>
@@ -52,8 +78,8 @@ Points: 31
         <updated>2021-05-18T17:47:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/
 Comments URL: https://news.ycombinator.com/item?id=27198357
-Points: 22
-# Comments: 12]]></summary>
+Points: 32
+# Comments: 18]]></summary>
         <author>
             <name>asparagui</name>
         </author>
@@ -77,8 +103,8 @@ We built and launched a few marketplace ideas throughout YC. We originally appli
         <updated>2021-05-18T17:31:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://events.google.com/io/?lng=en
 Comments URL: https://news.ycombinator.com/item?id=27198142
-Points: 44
-# Comments: 14]]></summary>
+Points: 79
+# Comments: 48]]></summary>
         <author>
             <name>mfrw</name>
         </author>
@@ -90,8 +116,8 @@ Points: 44
         <updated>2021-05-18T17:28:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/technology/ai/lamda/
 Comments URL: https://news.ycombinator.com/item?id=27198087
-Points: 90
-# Comments: 24]]></summary>
+Points: 123
+# Comments: 50]]></summary>
         <author>
             <name>rnd2</name>
         </author>
@@ -103,8 +129,8 @@ Points: 90
         <updated>2021-05-18T17:28:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed
 Comments URL: https://news.ycombinator.com/item?id=27198085
-Points: 94
-# Comments: 32]]></summary>
+Points: 122
+# Comments: 45]]></summary>
         <author>
             <name>el_duderino</name>
         </author>
@@ -116,8 +142,8 @@ Points: 94
         <updated>2021-05-18T17:21:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://octo.github.com/projects/flat-data
 Comments URL: https://news.ycombinator.com/item?id=27197950
-Points: 90
-# Comments: 15]]></summary>
+Points: 124
+# Comments: 27]]></summary>
         <author>
             <name>idan</name>
         </author>
@@ -129,8 +155,8 @@ Points: 90
         <updated>2021-05-18T17:16:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers
 Comments URL: https://news.ycombinator.com/item?id=27197873
-Points: 131
-# Comments: 47]]></summary>
+Points: 149
+# Comments: 56]]></summary>
         <author>
             <name>samlambert</name>
         </author>
@@ -175,8 +201,8 @@ Points: 1
         <updated>2021-05-18T16:41:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eng.uber.com/jvm-tuning-garbage-collection/
 Comments URL: https://news.ycombinator.com/item?id=27197296
-Points: 50
-# Comments: 4]]></summary>
+Points: 63
+# Comments: 9]]></summary>
         <author>
             <name>commandlinefan</name>
         </author>
@@ -198,8 +224,8 @@ Points: 50
         <updated>2021-05-18T16:22:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tips.ariyh.com/p/scarcity-promotions-cause-anger
 Comments URL: https://news.ycombinator.com/item?id=27196944
-Points: 28
-# Comments: 19]]></summary>
+Points: 39
+# Comments: 27]]></summary>
         <author>
             <name>tdmckinlay</name>
         </author>
@@ -231,8 +257,8 @@ Points: 28
         <updated>2021-05-18T16:04:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lux.camera/halide-pro-camera-for-ipad/
 Comments URL: https://news.ycombinator.com/item?id=27196576
-Points: 93
-# Comments: 31]]></summary>
+Points: 133
+# Comments: 37]]></summary>
         <author>
             <name>uptown</name>
         </author>
@@ -244,8 +270,8 @@ Points: 93
         <updated>2021-05-18T16:02:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/
 Comments URL: https://news.ycombinator.com/item?id=27196526
-Points: 166
-# Comments: 40]]></summary>
+Points: 200
+# Comments: 48]]></summary>
         <author>
             <name>arthuredelstein</name>
         </author>
@@ -257,8 +283,8 @@ Points: 166
         <updated>2021-05-18T15:54:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/us-treasury-cyber/companies-may-be-punished-for-paying-ransoms-to-sanctioned-hackers-u-s-treasury-idUSKBN26M77U
 Comments URL: https://news.ycombinator.com/item?id=27196382
-Points: 187
-# Comments: 121]]></summary>
+Points: 222
+# Comments: 170]]></summary>
         <author>
             <name>ryan_j_naughton</name>
         </author>
@@ -281,8 +307,8 @@ The post Introducing Firefox’s new Site Isolation Security Architecture appear
         <updated>2021-05-18T15:19:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/
 Comments URL: https://news.ycombinator.com/item?id=27195813
-Points: 176
-# Comments: 82]]></summary>
+Points: 190
+# Comments: 90]]></summary>
         <author>
             <name>theafh</name>
         </author>
@@ -294,8 +320,8 @@ Points: 176
         <updated>2021-05-18T15:17:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kea.js.org/blog/2021/05/14/data-first-frontend-revolution
 Comments URL: https://news.ycombinator.com/item?id=27195780
-Points: 49
-# Comments: 30]]></summary>
+Points: 59
+# Comments: 32]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -319,23 +345,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-18T14:25:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://newsletter.bringthedonuts.com/p/building-products-at-stripe
 Comments URL: https://news.ycombinator.com/item?id=27194976
-Points: 100
-# Comments: 11]]></summary>
+Points: 105
+# Comments: 12]]></summary>
         <author>
             <name>herbertl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Public Working Drafts: WebGPU and WebGPU Shading Language]]></title>
-        <id>https://news.ycombinator.com/item?id=27194857</id>
-        <link href="https://www.w3.org/blog/news/archives/9059"/>
-        <updated>2021-05-18T14:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.w3.org/blog/news/archives/9059
-Comments URL: https://news.ycombinator.com/item?id=27194857
-Points: 103
-# Comments: 62]]></summary>
-        <author>
-            <name>bpierre</name>
         </author>
     </entry>
     <entry>
@@ -642,18 +655,6 @@ The post I could build this during the weekend appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
-        <id>https://css-tricks.com/?p=339138</id>
-        <link href="https://css-tricks.com/next-gen-css-container/"/>
-        <updated>2021-05-11T14:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …
-The post Next Gen CSS: @container appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Una Kravets</name>
         </author>
     </entry>
     <entry>
