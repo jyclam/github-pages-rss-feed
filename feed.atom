@@ -2,19 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T16:27:55.091Z</updated>
+    <updated>2021-05-19T17:42:24.645Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[No, Real World Ownership Is Not a Use Case for Blockchain]]></title>
+        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
+        <id>60a469ec906c5207e3a7e1b9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
+        <updated>2021-05-19T17:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple previews powerful software updates designed for people with disabilities]]></title>
+        <id>https://news.ycombinator.com/item?id=27211583</id>
+        <link href="https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/"/>
+        <updated>2021-05-19T17:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/
+Comments URL: https://news.ycombinator.com/item?id=27211583
+Points: 20
+# Comments: 0]]></summary>
+        <author>
+            <name>ArmandGrillet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. sues Frontier Communications regarding internet speeds]]></title>
+        <id>https://news.ycombinator.com/item?id=27211517</id>
+        <link href="https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4"/>
+        <updated>2021-05-19T17:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4
+Comments URL: https://news.ycombinator.com/item?id=27211517
+Points: 29
+# Comments: 0]]></summary>
+        <author>
+            <name>marc__1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)]]></title>
+        <id>https://news.ycombinator.com/item?id=27211362</id>
+        <link href="https://www.workatastartup.com/jobs/43782"/>
+        <updated>2021-05-19T17:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/43782
+Comments URL: https://news.ycombinator.com/item?id=27211362
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>hmoody</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new corporate owner of Freenode is Imperial Family Companies]]></title>
+        <id>https://news.ycombinator.com/item?id=27211352</id>
+        <link href="https://imperialfamily.com/"/>
+        <updated>2021-05-19T17:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://imperialfamily.com/
+Comments URL: https://news.ycombinator.com/item?id=27211352
+Points: 40
+# Comments: 8]]></summary>
+        <author>
+            <name>marcan_42</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptography experts trash NFTs on first day of RSA Conference]]></title>
+        <id>https://news.ycombinator.com/item?id=27210980</id>
+        <link href="https://mashable.com/article/rsa-conference-cryptographers-panel-nfts.html"/>
+        <updated>2021-05-19T16:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mashable.com/article/rsa-conference-cryptographers-panel-nfts.html
+Comments URL: https://news.ycombinator.com/item?id=27210980
+Points: 58
+# Comments: 11]]></summary>
+        <author>
+            <name>wglb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome testing RSS-powered ‘Follow’ button]]></title>
+        <id>https://news.ycombinator.com/item?id=27210819</id>
+        <link href="https://9to5google.com/2021/05/19/chrome-follow-rss-feed/"/>
+        <updated>2021-05-19T16:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://9to5google.com/2021/05/19/chrome-follow-rss-feed/
+Comments URL: https://news.ycombinator.com/item?id=27210819
+Points: 34
+# Comments: 13]]></summary>
+        <author>
+            <name>Breadmaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real world ownership is not a use case for blockchain]]></title>
         <id>https://news.ycombinator.com/item?id=27210604</id>
         <link href="https://schlockchain.substack.com/p/no-real-world-ownership-is-not-a"/>
         <updated>2021-05-19T16:12:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://schlockchain.substack.com/p/no-real-world-ownership-is-not-a
 Comments URL: https://news.ycombinator.com/item?id=27210604
-Points: 2
-# Comments: 0]]></summary>
+Points: 118
+# Comments: 136]]></summary>
         <author>
             <name>leifg</name>
         </author>
@@ -26,8 +114,8 @@ Points: 2
         <updated>2021-05-19T16:01:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/
 Comments URL: https://news.ycombinator.com/item?id=27210460
-Points: 45
-# Comments: 1]]></summary>
+Points: 81
+# Comments: 8]]></summary>
         <author>
             <name>csmajorfive</name>
         </author>
@@ -39,8 +127,8 @@ Points: 45
         <updated>2021-05-19T15:49:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble
 Comments URL: https://news.ycombinator.com/item?id=27210304
-Points: 37
-# Comments: 29]]></summary>
+Points: 68
+# Comments: 86]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -52,8 +140,8 @@ Points: 37
         <updated>2021-05-19T15:25:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nongnu.org/gzz/gi/gi.html
 Comments URL: https://news.ycombinator.com/item?id=27210008
-Points: 9
-# Comments: 1]]></summary>
+Points: 26
+# Comments: 3]]></summary>
         <author>
             <name>breck</name>
         </author>
@@ -65,8 +153,8 @@ Points: 9
         <updated>2021-05-19T14:48:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/
 Comments URL: https://news.ycombinator.com/item?id=27209412
-Points: 37
-# Comments: 0]]></summary>
+Points: 149
+# Comments: 45]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -95,42 +183,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Junk – Mark Bittman’s History of Why We Eat Bad Food]]></title>
-        <id>https://news.ycombinator.com/item?id=27208370</id>
-        <link href="https://www.thenation.com/article/society/mark-bittman-animal-vegetable-junk/"/>
-        <updated>2021-05-19T13:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thenation.com/article/society/mark-bittman-animal-vegetable-junk/
-Comments URL: https://news.ycombinator.com/item?id=27208370
-Points: 36
-# Comments: 32]]></summary>
-        <author>
-            <name>andrewl</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto crash deepens, stocks slip]]></title>
         <id>https://news.ycombinator.com/item?id=27208119</id>
         <link href="https://www.reuters.com/business/global-markets-wrapup-4-2021-05-19/"/>
         <updated>2021-05-19T13:15:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/global-markets-wrapup-4-2021-05-19/
 Comments URL: https://news.ycombinator.com/item?id=27208119
-Points: 258
-# Comments: 369]]></summary>
+Points: 303
+# Comments: 469]]></summary>
         <author>
             <name>garraeth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase outages]]></title>
-        <id>https://news.ycombinator.com/item?id=27207932</id>
-        <link href="https://coinbase.com/"/>
-        <updated>2021-05-19T12:58:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://coinbase.com/
-Comments URL: https://news.ycombinator.com/item?id=27207932
-Points: 236
-# Comments: 225]]></summary>
-        <author>
-            <name>iand</name>
         </author>
     </entry>
     <entry>
@@ -140,8 +202,8 @@ Points: 236
         <updated>2021-05-19T12:39:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://libera.chat/news/welcome-to-libera-chat
 Comments URL: https://news.ycombinator.com/item?id=27207734
-Points: 478
-# Comments: 151]]></summary>
+Points: 609
+# Comments: 219]]></summary>
         <author>
             <name>smitop</name>
         </author>
@@ -153,8 +215,8 @@ Points: 478
         <updated>2021-05-19T12:21:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57172346
 Comments URL: https://news.ycombinator.com/item?id=27207572
-Points: 139
-# Comments: 19]]></summary>
+Points: 168
+# Comments: 29]]></summary>
         <author>
             <name>leemailll</name>
         </author>
@@ -166,23 +228,36 @@ Points: 139
         <updated>2021-05-19T12:19:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://math.andrej.com/2021/05/18/computing-an-integer-using-a-sheaf-topos/
 Comments URL: https://news.ycombinator.com/item?id=27207556
-Points: 32
+Points: 38
 # Comments: 3]]></summary>
         <author>
             <name>georgecmu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PostureHealth, Inc. (YC S21) Is Hiring]]></title>
-        <id>https://news.ycombinator.com/item?id=27207392</id>
-        <link href="https://www.ycombinator.com/companies/posturehealth-inc/jobs/1Gc6jTI-account-development-represenative"/>
-        <updated>2021-05-19T12:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/posturehealth-inc/jobs/1Gc6jTI-account-development-represenative
-Comments URL: https://news.ycombinator.com/item?id=27207392
-Points: 1
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Squeezebox Keyboard]]></title>
+        <id>https://news.ycombinator.com/item?id=27207333</id>
+        <link href="https://peterlyons.com/problog/2021/04/squeezebox-keyboard/"/>
+        <updated>2021-05-19T11:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://peterlyons.com/problog/2021/04/squeezebox-keyboard/
+Comments URL: https://news.ycombinator.com/item?id=27207333
+Points: 2
+# Comments: 1]]></summary>
         <author>
-            <name>growthtalk4</name>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[59 New Hadrons and Counting]]></title>
+        <id>https://news.ycombinator.com/item?id=27207330</id>
+        <link href="https://home.cern/news/news/physics/59-new-hadrons-and-counting"/>
+        <updated>2021-05-19T11:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://home.cern/news/news/physics/59-new-hadrons-and-counting
+Comments URL: https://news.ycombinator.com/item?id=27207330
+Points: 30
+# Comments: 2]]></summary>
+        <author>
+            <name>graderjs</name>
         </author>
     </entry>
     <entry>
@@ -192,8 +267,8 @@ Points: 1
         <updated>2021-05-19T11:44:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/bignimbus/trombone.js
 Comments URL: https://news.ycombinator.com/item?id=27207250
-Points: 32
-# Comments: 17]]></summary>
+Points: 46
+# Comments: 20]]></summary>
         <author>
             <name>jdauriemma</name>
         </author>
@@ -215,8 +290,8 @@ Points: 32
         <updated>2021-05-19T11:17:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish
 Comments URL: https://news.ycombinator.com/item?id=27207049
-Points: 68
-# Comments: 27]]></summary>
+Points: 87
+# Comments: 47]]></summary>
         <author>
             <name>choult</name>
         </author>
@@ -228,75 +303,10 @@ Points: 68
         <updated>2021-05-19T10:55:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://megelison.com/poor-in-tech
 Comments URL: https://news.ycombinator.com/item?id=27206899
-Points: 494
-# Comments: 487]]></summary>
+Points: 557
+# Comments: 542]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elixir 1.12]]></title>
-        <id>https://news.ycombinator.com/item?id=27206656</id>
-        <link href="https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/"/>
-        <updated>2021-05-19T10:21:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/
-Comments URL: https://news.ycombinator.com/item?id=27206656
-Points: 264
-# Comments: 59]]></summary>
-        <author>
-            <name>princemaple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A teenager's guide to avoiding work]]></title>
-        <id>https://news.ycombinator.com/item?id=27206552</id>
-        <link href="https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual"/>
-        <updated>2021-05-19T10:07:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual
-Comments URL: https://news.ycombinator.com/item?id=27206552
-Points: 574
-# Comments: 92]]></summary>
-        <author>
-            <name>mad_ned</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: One Way Dungeon – A game I've been developing in the last five months]]></title>
-        <id>https://news.ycombinator.com/item?id=27206523</id>
-        <link href="https://play.google.com/store/apps/details?id=com.vaskivodev.onewaydungeon"/>
-        <updated>2021-05-19T10:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://play.google.com/store/apps/details?id=com.vaskivodev.onewaydungeon
-Comments URL: https://news.ycombinator.com/item?id=27206523
-Points: 63
-# Comments: 23]]></summary>
-        <author>
-            <name>Vaskivo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Hundred Ideas for Computing]]></title>
-        <id>https://news.ycombinator.com/item?id=27206198</id>
-        <link href="https://github.com/samsquire/ideas"/>
-        <updated>2021-05-19T09:11:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/samsquire/ideas
-Comments URL: https://news.ycombinator.com/item?id=27206198
-Points: 60
-# Comments: 12]]></summary>
-        <author>
-            <name>yesenadam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How corporations buy and food made with prison labor]]></title>
-        <id>https://news.ycombinator.com/item?id=27205726</id>
-        <link href="https://thecounter.org/how-corporations-buy-and-sell-food-made-with-prison-labor/"/>
-        <updated>2021-05-19T07:44:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thecounter.org/how-corporations-buy-and-sell-food-made-with-prison-labor/
-Comments URL: https://news.ycombinator.com/item?id=27205726
-Points: 197
-# Comments: 212]]></summary>
-        <author>
-            <name>adrian_mrd</name>
         </author>
     </entry>
     <entry>
@@ -536,16 +546,6 @@ The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is SendGrid? SMTP Email Newsletter Tutorial]]></title>
-        <id>609d63e962ab9107fe5aa2ce</id>
-        <link href="https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/"/>
-        <updated>2021-05-14T20:31:30.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
