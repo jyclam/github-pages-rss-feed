@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T05:21:38.236Z</updated>
+    <updated>2021-05-19T06:17:33.951Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,10 +13,23 @@
         <updated>2021-05-19T04:55:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://material.io/blog/announcing-material-you
 Comments URL: https://news.ycombinator.com/item?id=27204720
-Points: 11
-# Comments: 2]]></summary>
+Points: 52
+# Comments: 36]]></summary>
         <author>
             <name>tancik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security keys are now supported for SSH Git operations]]></title>
+        <id>https://news.ycombinator.com/item?id=27204695</id>
+        <link href="https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/"/>
+        <updated>2021-05-19T04:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/
+Comments URL: https://news.ycombinator.com/item?id=27204695
+Points: 21
+# Comments: 1]]></summary>
+        <author>
+            <name>Androider</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +39,8 @@ Points: 11
         <updated>2021-05-19T04:27:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://susam.in/blog/reliance-jio-impersonation-issue/
 Comments URL: https://news.ycombinator.com/item?id=27204581
-Points: 7
-# Comments: 0]]></summary>
+Points: 15
+# Comments: 10]]></summary>
         <author>
             <name>susam</name>
         </author>
@@ -39,8 +52,8 @@ Points: 7
         <updated>2021-05-19T04:02:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.outsideonline.com/2423015/80-20-rule-beginner-mastery-benefits
 Comments URL: https://news.ycombinator.com/item?id=27204406
-Points: 14
-# Comments: 1]]></summary>
+Points: 20
+# Comments: 4]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -52,8 +65,8 @@ Points: 14
         <updated>2021-05-19T03:58:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&output=pdf
 Comments URL: https://news.ycombinator.com/item?id=27204366
-Points: 12
-# Comments: 1]]></summary>
+Points: 31
+# Comments: 2]]></summary>
         <author>
             <name>cbracketdash</name>
         </author>
@@ -65,8 +78,8 @@ Points: 12
         <updated>2021-05-19T03:28:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.usejournal.com/i-am-sick-and-tired-of-hearing-tech-companies-complain-about-a-developer-shortage-fd1f5aa536cc
 Comments URL: https://news.ycombinator.com/item?id=27204205
-Points: 225
-# Comments: 220]]></summary>
+Points: 294
+# Comments: 333]]></summary>
         <author>
             <name>DeLopSpot</name>
         </author>
@@ -78,23 +91,10 @@ Points: 225
         <updated>2021-05-19T03:22:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.commanderx16.com/forum/index.php?/home/
 Comments URL: https://news.ycombinator.com/item?id=27204168
-Points: 35
-# Comments: 0]]></summary>
+Points: 47
+# Comments: 2]]></summary>
         <author>
             <name>ibobev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube Experiencing Issues]]></title>
-        <id>https://news.ycombinator.com/item?id=27204049</id>
-        <link href="https://downdetector.com/status/youtube?1"/>
-        <updated>2021-05-19T03:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://downdetector.com/status/youtube?1
-Comments URL: https://news.ycombinator.com/item?id=27204049
-Points: 76
-# Comments: 38]]></summary>
-        <author>
-            <name>joenathanone</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +104,8 @@ Points: 76
         <updated>2021-05-19T00:56:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.lynalden.com/may-2021-newsletter/
 Comments URL: https://news.ycombinator.com/item?id=27203329
-Points: 58
-# Comments: 41]]></summary>
+Points: 62
+# Comments: 50]]></summary>
         <author>
             <name>exolymph</name>
         </author>
@@ -117,7 +117,7 @@ Points: 58
         <updated>2021-05-18T23:47:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/Battelle/movfuscator
 Comments URL: https://news.ycombinator.com/item?id=27202801
-Points: 79
+Points: 86
 # Comments: 17]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -130,8 +130,8 @@ Points: 79
         <updated>2021-05-18T23:19:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree
 Comments URL: https://news.ycombinator.com/item?id=27202570
-Points: 276
-# Comments: 164]]></summary>
+Points: 289
+# Comments: 167]]></summary>
         <author>
             <name>tareqak</name>
         </author>
@@ -155,8 +155,8 @@ We're currently hiring for both our Palo Alto and Atlanta offices, as well as so
         <updated>2021-05-18T20:28:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://matrix.org/blog/2021/05/17/the-matrix-space-beta
 Comments URL: https://news.ycombinator.com/item?id=27200579
-Points: 175
-# Comments: 46]]></summary>
+Points: 187
+# Comments: 50]]></summary>
         <author>
             <name>fasquoika</name>
         </author>
@@ -168,8 +168,8 @@ Points: 175
         <updated>2021-05-18T19:55:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.notion.so/blog/data-model-behind-notion
 Comments URL: https://news.ycombinator.com/item?id=27200177
-Points: 245
-# Comments: 89]]></summary>
+Points: 251
+# Comments: 91]]></summary>
         <author>
             <name>pspeter3</name>
         </author>
@@ -194,8 +194,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-18T19:01:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/
 Comments URL: https://news.ycombinator.com/item?id=27199426
-Points: 435
-# Comments: 617]]></summary>
+Points: 453
+# Comments: 632]]></summary>
         <author>
             <name>wglb</name>
         </author>
@@ -207,8 +207,8 @@ Points: 435
         <updated>2021-05-18T18:54:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/technology/research/project-starline/
 Comments URL: https://news.ycombinator.com/item?id=27199330
-Points: 949
-# Comments: 357]]></summary>
+Points: 983
+# Comments: 371]]></summary>
         <author>
             <name>ra7</name>
         </author>
@@ -220,8 +220,8 @@ Points: 949
         <updated>2021-05-18T18:47:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.thea.codes/winterblooms-tech-stack/
 Comments URL: https://news.ycombinator.com/item?id=27199225
-Points: 649
-# Comments: 95]]></summary>
+Points: 672
+# Comments: 96]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -233,10 +233,23 @@ Points: 649
         <updated>2021-05-18T17:57:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7
 Comments URL: https://news.ycombinator.com/item?id=27198505
-Points: 139
-# Comments: 60]]></summary>
+Points: 144
+# Comments: 63]]></summary>
         <author>
             <name>hheikinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unveiling our new Quantum AI campus]]></title>
+        <id>https://news.ycombinator.com/item?id=27198357</id>
+        <link href="https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/"/>
+        <updated>2021-05-18T17:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/
+Comments URL: https://news.ycombinator.com/item?id=27198357
+Points: 118
+# Comments: 64]]></summary>
+        <author>
+            <name>asparagui</name>
         </author>
     </entry>
     <entry>
@@ -246,8 +259,8 @@ Points: 139
         <updated>2021-05-18T17:28:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/technology/ai/lamda/
 Comments URL: https://news.ycombinator.com/item?id=27198087
-Points: 236
-# Comments: 115]]></summary>
+Points: 242
+# Comments: 117]]></summary>
         <author>
             <name>rnd2</name>
         </author>
@@ -259,23 +272,10 @@ Points: 236
         <updated>2021-05-18T17:28:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed
 Comments URL: https://news.ycombinator.com/item?id=27198085
-Points: 222
+Points: 227
 # Comments: 98]]></summary>
         <author>
             <name>el_duderino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flat Data]]></title>
-        <id>https://news.ycombinator.com/item?id=27197950</id>
-        <link href="https://octo.github.com/projects/flat-data"/>
-        <updated>2021-05-18T17:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://octo.github.com/projects/flat-data
-Comments URL: https://news.ycombinator.com/item?id=27197950
-Points: 234
-# Comments: 49]]></summary>
-        <author>
-            <name>idan</name>
         </author>
     </entry>
     <entry>
