@@ -2,21 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T14:13:39.780Z</updated>
+    <updated>2021-05-19T15:14:57.415Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[My Resignation from Freenode]]></title>
-        <id>https://news.ycombinator.com/item?id=27208422</id>
-        <link href="https://blog.bofh.it/debian/id_461"/>
-        <updated>2021-05-19T13:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.bofh.it/debian/id_461
-Comments URL: https://news.ycombinator.com/item?id=27208422
-Points: 19
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Bitcoin’s plunge intensifies, tanks 30% to $30k in single day]]></title>
+        <id>https://news.ycombinator.com/item?id=27209294</id>
+        <link href="https://www.cnbc.com/2021/05/19/bitcoin-btc-price-plunges-but-bottom-could-be-near-.html"/>
+        <updated>2021-05-19T14:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/05/19/bitcoin-btc-price-plunges-but-bottom-could-be-near-.html
+Comments URL: https://news.ycombinator.com/item?id=27209294
+Points: 54
+# Comments: 47]]></summary>
         <author>
-            <name>riffraff</name>
+            <name>koolba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Firefox stability on Linux]]></title>
+        <id>https://hacks.mozilla.org/?p=47175</id>
+        <link href="https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/"/>
+        <updated>2021-05-19T14:28:53.000Z</updated>
+        <summary type="html"><![CDATA[Roughly a year ago at Mozilla we started an effort to improve Firefox stability on Linux. This effort quickly became an example of good synergies between FOSS projects.
+The post Improving Firefox stability on Linux appeared first on Mozilla Hacks - the Web developer blog.]]></summary>
+        <author>
+            <name>Gabriele Svelto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
+        <id>https://css-tricks.com/?p=340692</id>
+        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
+        <updated>2021-05-19T14:28:19.000Z</updated>
+        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
+The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Shubham Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Junk – Mark Bittman’s History of Why We Eat Bad Food]]></title>
+        <id>https://news.ycombinator.com/item?id=27208370</id>
+        <link href="https://www.thenation.com/article/society/mark-bittman-animal-vegetable-junk/"/>
+        <updated>2021-05-19T13:37:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thenation.com/article/society/mark-bittman-animal-vegetable-junk/
+Comments URL: https://news.ycombinator.com/item?id=27208370
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>andrewl</name>
         </author>
     </entry>
     <entry>
@@ -26,23 +62,10 @@ Points: 19
         <updated>2021-05-19T13:15:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/global-markets-wrapup-4-2021-05-19/
 Comments URL: https://news.ycombinator.com/item?id=27208119
-Points: 84
-# Comments: 84]]></summary>
+Points: 183
+# Comments: 219]]></summary>
         <author>
             <name>garraeth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Is Down]]></title>
-        <id>https://news.ycombinator.com/item?id=27207932</id>
-        <link href="https://coinbase.com/"/>
-        <updated>2021-05-19T12:58:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://coinbase.com/
-Comments URL: https://news.ycombinator.com/item?id=27207932
-Points: 159
-# Comments: 131]]></summary>
-        <author>
-            <name>iand</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +75,8 @@ Points: 159
         <updated>2021-05-19T12:39:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://libera.chat/news/welcome-to-libera-chat
 Comments URL: https://news.ycombinator.com/item?id=27207734
-Points: 158
-# Comments: 31]]></summary>
+Points: 320
+# Comments: 73]]></summary>
         <author>
             <name>smitop</name>
         </author>
@@ -65,8 +88,8 @@ Points: 158
         <updated>2021-05-19T12:21:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57172346
 Comments URL: https://news.ycombinator.com/item?id=27207572
-Points: 58
-# Comments: 3]]></summary>
+Points: 90
+# Comments: 11]]></summary>
         <author>
             <name>leemailll</name>
         </author>
@@ -78,7 +101,7 @@ Points: 58
         <updated>2021-05-19T12:19:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://math.andrej.com/2021/05/18/computing-an-integer-using-a-sheaf-topos/
 Comments URL: https://news.ycombinator.com/item?id=27207556
-Points: 5
+Points: 12
 # Comments: 0]]></summary>
         <author>
             <name>georgecmu</name>
@@ -91,8 +114,8 @@ Points: 5
         <updated>2021-05-19T12:06:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.kline.sh
 Comments URL: https://news.ycombinator.com/item?id=27207440
-Points: 356
-# Comments: 124]]></summary>
+Points: 499
+# Comments: 189]]></summary>
         <author>
             <name>4ad</name>
         </author>
@@ -111,6 +134,32 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[59 New Hadrons and Counting]]></title>
+        <id>https://news.ycombinator.com/item?id=27207330</id>
+        <link href="https://home.cern/news/news/physics/59-new-hadrons-and-counting"/>
+        <updated>2021-05-19T11:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://home.cern/news/news/physics/59-new-hadrons-and-counting
+Comments URL: https://news.ycombinator.com/item?id=27207330
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>graderjs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play the trombone in your web browser]]></title>
+        <id>https://news.ycombinator.com/item?id=27207250</id>
+        <link href="https://github.com/bignimbus/trombone.js"/>
+        <updated>2021-05-19T11:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/bignimbus/trombone.js
+Comments URL: https://news.ycombinator.com/item?id=27207250
+Points: 13
+# Comments: 5]]></summary>
+        <author>
+            <name>jdauriemma</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
         <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
@@ -121,16 +170,16 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Unparalleled Genius of John von Neumann]]></title>
-        <id>https://news.ycombinator.com/item?id=27206993</id>
-        <link href="https://cantorsparadise.substack.com/p/the-unparalleled-genius-of-john-von-beb"/>
-        <updated>2021-05-19T11:07:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cantorsparadise.substack.com/p/the-unparalleled-genius-of-john-von-beb
-Comments URL: https://news.ycombinator.com/item?id=27206993
-Points: 45
-# Comments: 42]]></summary>
+        <title type="html"><![CDATA[To be more tech-savvy, borrow these strategies from the Amish]]></title>
+        <id>https://news.ycombinator.com/item?id=27207049</id>
+        <link href="https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish"/>
+        <updated>2021-05-19T11:17:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish
+Comments URL: https://news.ycombinator.com/item?id=27207049
+Points: 28
+# Comments: 7]]></summary>
         <author>
-            <name>TheTrotters</name>
+            <name>choult</name>
         </author>
     </entry>
     <entry>
@@ -140,8 +189,8 @@ Points: 45
         <updated>2021-05-19T10:55:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://megelison.com/poor-in-tech
 Comments URL: https://news.ycombinator.com/item?id=27206899
-Points: 341
-# Comments: 354]]></summary>
+Points: 411
+# Comments: 436]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -153,8 +202,8 @@ Points: 341
         <updated>2021-05-19T10:21:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/
 Comments URL: https://news.ycombinator.com/item?id=27206656
-Points: 170
-# Comments: 38]]></summary>
+Points: 212
+# Comments: 46]]></summary>
         <author>
             <name>princemaple</name>
         </author>
@@ -166,8 +215,8 @@ Points: 170
         <updated>2021-05-19T10:07:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual
 Comments URL: https://news.ycombinator.com/item?id=27206552
-Points: 355
-# Comments: 67]]></summary>
+Points: 444
+# Comments: 73]]></summary>
         <author>
             <name>mad_ned</name>
         </author>
@@ -179,8 +228,8 @@ Points: 355
         <updated>2021-05-19T10:03:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://play.google.com/store/apps/details?id=com.vaskivodev.onewaydungeon
 Comments URL: https://news.ycombinator.com/item?id=27206523
-Points: 42
-# Comments: 14]]></summary>
+Points: 54
+# Comments: 19]]></summary>
         <author>
             <name>Vaskivo</name>
         </author>
@@ -192,8 +241,8 @@ Points: 42
         <updated>2021-05-19T09:57:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://wiki.call-cc.org/eggref/5/make-tests
 Comments URL: https://news.ycombinator.com/item?id=27206478
-Points: 16
-# Comments: 2]]></summary>
+Points: 24
+# Comments: 5]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -205,8 +254,8 @@ Points: 16
         <updated>2021-05-19T09:11:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/samsquire/ideas
 Comments URL: https://news.ycombinator.com/item?id=27206198
-Points: 37
-# Comments: 10]]></summary>
+Points: 53
+# Comments: 11]]></summary>
         <author>
             <name>yesenadam</name>
         </author>
@@ -218,8 +267,8 @@ Points: 37
         <updated>2021-05-19T07:44:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thecounter.org/how-corporations-buy-and-sell-food-made-with-prison-labor/
 Comments URL: https://news.ycombinator.com/item?id=27205726
-Points: 156
-# Comments: 159]]></summary>
+Points: 178
+# Comments: 179]]></summary>
         <author>
             <name>adrian_mrd</name>
         </author>
@@ -231,8 +280,8 @@ Points: 156
         <updated>2021-05-19T07:44:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fs.blog/2021/05/advice-for-young-scientists/
 Comments URL: https://news.ycombinator.com/item?id=27205724
-Points: 90
-# Comments: 24]]></summary>
+Points: 107
+# Comments: 27]]></summary>
         <author>
             <name>yarapavan</name>
         </author>
@@ -244,36 +293,10 @@ Points: 90
         <updated>2021-05-19T07:26:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kubevirt.io/
 Comments URL: https://news.ycombinator.com/item?id=27205617
-Points: 45
-# Comments: 7]]></summary>
+Points: 52
+# Comments: 9]]></summary>
         <author>
             <name>WolfOliver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security keys are now supported for SSH Git operations]]></title>
-        <id>https://news.ycombinator.com/item?id=27204695</id>
-        <link href="https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/"/>
-        <updated>2021-05-19T04:51:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/
-Comments URL: https://news.ycombinator.com/item?id=27204695
-Points: 169
-# Comments: 104]]></summary>
-        <author>
-            <name>Androider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Textbook That Unleashed Ramanujan's Genius]]></title>
-        <id>https://news.ycombinator.com/item?id=27204366</id>
-        <link href="https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&amp;output=pdf"/>
-        <updated>2021-05-19T03:58:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&output=pdf
-Comments URL: https://news.ycombinator.com/item?id=27204366
-Points: 184
-# Comments: 44]]></summary>
-        <author>
-            <name>cbracketdash</name>
         </author>
     </entry>
     <entry>
@@ -654,18 +677,6 @@ The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I could build this during the weekend]]></title>
-        <id>https://css-tricks.com/?p=340186</id>
-        <link href="https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e"/>
-        <updated>2021-05-11T21:04:32.000Z</updated>
-        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …
-The post I could build this during the weekend appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
