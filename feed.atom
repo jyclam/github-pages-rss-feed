@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T07:20:21.253Z</updated>
+    <updated>2021-05-19T08:16:29.726Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advice for Young Scientists–and Curious People in General]]></title>
+        <id>https://news.ycombinator.com/item?id=27205724</id>
+        <link href="https://fs.blog/2021/05/advice-for-young-scientists/"/>
+        <updated>2021-05-19T07:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fs.blog/2021/05/advice-for-young-scientists/
+Comments URL: https://news.ycombinator.com/item?id=27205724
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>yarapavan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orchestrate VMs with Kubernetes]]></title>
+        <id>https://news.ycombinator.com/item?id=27205617</id>
+        <link href="https://kubevirt.io/"/>
+        <updated>2021-05-19T07:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kubevirt.io/
+Comments URL: https://news.ycombinator.com/item?id=27205617
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>WolfOliver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google employees demand Palestine support in letter to CEO]]></title>
+        <id>https://news.ycombinator.com/item?id=27205404</id>
+        <link href="https://mashable.com/article/google-employee-letter-palestine/"/>
+        <updated>2021-05-19T06:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mashable.com/article/google-employee-letter-palestine/
+Comments URL: https://news.ycombinator.com/item?id=27205404
+Points: 14
+# Comments: 3]]></summary>
+        <author>
+            <name>billyharris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last year, more people in San Francisco died of overdoses than of Covid-19]]></title>
         <id>https://news.ycombinator.com/item?id=27205201</id>
@@ -13,23 +52,10 @@
         <updated>2021-05-19T06:19:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/united-states/2021/05/15/last-year-more-people-in-san-francisco-died-of-overdoses-than-of-covid-19
 Comments URL: https://news.ycombinator.com/item?id=27205201
-Points: 61
-# Comments: 28]]></summary>
+Points: 92
+# Comments: 77]]></summary>
         <author>
             <name>rblion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unveiling Material You – Google's new design language]]></title>
-        <id>https://news.ycombinator.com/item?id=27204720</id>
-        <link href="https://material.io/blog/announcing-material-you"/>
-        <updated>2021-05-19T04:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://material.io/blog/announcing-material-you
-Comments URL: https://news.ycombinator.com/item?id=27204720
-Points: 80
-# Comments: 78]]></summary>
-        <author>
-            <name>tancik</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +65,8 @@ Points: 80
         <updated>2021-05-19T04:51:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/
 Comments URL: https://news.ycombinator.com/item?id=27204695
-Points: 50
-# Comments: 14]]></summary>
+Points: 71
+# Comments: 23]]></summary>
         <author>
             <name>Androider</name>
         </author>
@@ -52,7 +78,7 @@ Points: 50
         <updated>2021-05-19T04:27:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://susam.in/blog/reliance-jio-impersonation-issue/
 Comments URL: https://news.ycombinator.com/item?id=27204581
-Points: 22
+Points: 28
 # Comments: 10]]></summary>
         <author>
             <name>susam</name>
@@ -65,8 +91,8 @@ Points: 22
         <updated>2021-05-19T04:02:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.outsideonline.com/2423015/80-20-rule-beginner-mastery-benefits
 Comments URL: https://news.ycombinator.com/item?id=27204406
-Points: 28
-# Comments: 8]]></summary>
+Points: 37
+# Comments: 16]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -78,8 +104,8 @@ Points: 28
         <updated>2021-05-19T03:58:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&output=pdf
 Comments URL: https://news.ycombinator.com/item?id=27204366
-Points: 49
-# Comments: 5]]></summary>
+Points: 69
+# Comments: 9]]></summary>
         <author>
             <name>cbracketdash</name>
         </author>
@@ -91,8 +117,8 @@ Points: 49
         <updated>2021-05-19T03:22:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.commanderx16.com/forum/index.php?/home/
 Comments URL: https://news.ycombinator.com/item?id=27204168
-Points: 64
-# Comments: 6]]></summary>
+Points: 75
+# Comments: 10]]></summary>
         <author>
             <name>ibobev</name>
         </author>
@@ -104,8 +130,8 @@ Points: 64
         <updated>2021-05-18T23:47:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/Battelle/movfuscator
 Comments URL: https://news.ycombinator.com/item?id=27202801
-Points: 100
-# Comments: 19]]></summary>
+Points: 106
+# Comments: 23]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -117,8 +143,8 @@ Points: 100
         <updated>2021-05-18T23:19:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree
 Comments URL: https://news.ycombinator.com/item?id=27202570
-Points: 312
-# Comments: 181]]></summary>
+Points: 333
+# Comments: 192]]></summary>
         <author>
             <name>tareqak</name>
         </author>
@@ -142,7 +168,7 @@ We're currently hiring for both our Palo Alto and Atlanta offices, as well as so
         <updated>2021-05-18T20:28:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://matrix.org/blog/2021/05/17/the-matrix-space-beta
 Comments URL: https://news.ycombinator.com/item?id=27200579
-Points: 199
+Points: 213
 # Comments: 54]]></summary>
         <author>
             <name>fasquoika</name>
@@ -155,8 +181,8 @@ Points: 199
         <updated>2021-05-18T19:55:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.notion.so/blog/data-model-behind-notion
 Comments URL: https://news.ycombinator.com/item?id=27200177
-Points: 266
-# Comments: 95]]></summary>
+Points: 275
+# Comments: 101]]></summary>
         <author>
             <name>pspeter3</name>
         </author>
@@ -181,8 +207,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-18T19:01:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/
 Comments URL: https://news.ycombinator.com/item?id=27199426
-Points: 483
-# Comments: 650]]></summary>
+Points: 500
+# Comments: 660]]></summary>
         <author>
             <name>wglb</name>
         </author>
@@ -194,8 +220,8 @@ Points: 483
         <updated>2021-05-18T18:54:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/technology/research/project-starline/
 Comments URL: https://news.ycombinator.com/item?id=27199330
-Points: 1037
-# Comments: 379]]></summary>
+Points: 1093
+# Comments: 394]]></summary>
         <author>
             <name>ra7</name>
         </author>
@@ -207,8 +233,8 @@ Points: 1037
         <updated>2021-05-18T18:47:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.thea.codes/winterblooms-tech-stack/
 Comments URL: https://news.ycombinator.com/item?id=27199225
-Points: 708
-# Comments: 102]]></summary>
+Points: 733
+# Comments: 106]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -220,8 +246,8 @@ Points: 708
         <updated>2021-05-18T17:57:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7
 Comments URL: https://news.ycombinator.com/item?id=27198505
-Points: 150
-# Comments: 63]]></summary>
+Points: 156
+# Comments: 65]]></summary>
         <author>
             <name>hheikinh</name>
         </author>
@@ -233,8 +259,8 @@ Points: 150
         <updated>2021-05-18T17:47:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/
 Comments URL: https://news.ycombinator.com/item?id=27198357
-Points: 124
-# Comments: 65]]></summary>
+Points: 129
+# Comments: 67]]></summary>
         <author>
             <name>asparagui</name>
         </author>
@@ -246,36 +272,10 @@ Points: 124
         <updated>2021-05-18T17:28:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/technology/ai/lamda/
 Comments URL: https://news.ycombinator.com/item?id=27198087
-Points: 248
-# Comments: 123]]></summary>
+Points: 259
+# Comments: 129]]></summary>
         <author>
             <name>rnd2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boosting upload speed and improving Windows' TCP stack]]></title>
-        <id>https://news.ycombinator.com/item?id=27198085</id>
-        <link href="https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed"/>
-        <updated>2021-05-18T17:28:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed
-Comments URL: https://news.ycombinator.com/item?id=27198085
-Points: 236
-# Comments: 100]]></summary>
-        <author>
-            <name>el_duderino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flat Data]]></title>
-        <id>https://news.ycombinator.com/item?id=27197950</id>
-        <link href="https://octo.github.com/projects/flat-data"/>
-        <updated>2021-05-18T17:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://octo.github.com/projects/flat-data
-Comments URL: https://news.ycombinator.com/item?id=27197950
-Points: 249
-# Comments: 50]]></summary>
-        <author>
-            <name>idan</name>
         </author>
     </entry>
     <entry>
