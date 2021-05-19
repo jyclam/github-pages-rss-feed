@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T17:42:24.645Z</updated>
+    <updated>2021-05-19T18:29:43.089Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to build a custom data connector in 2 hours]]></title>
+        <id>https://news.ycombinator.com/item?id=27212002</id>
+        <link href="https://airbyte.io/connector-development-kit"/>
+        <updated>2021-05-19T17:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://airbyte.io/connector-development-kit
+Comments URL: https://news.ycombinator.com/item?id=27212002
+Points: 37
+# Comments: 0]]></summary>
+        <author>
+            <name>jeanlaf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
         <id>60a469ec906c5207e3a7e1b9</id>
@@ -23,8 +36,8 @@
         <updated>2021-05-19T17:19:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/
 Comments URL: https://news.ycombinator.com/item?id=27211583
-Points: 20
-# Comments: 0]]></summary>
+Points: 94
+# Comments: 22]]></summary>
         <author>
             <name>ArmandGrillet</name>
         </author>
@@ -36,8 +49,8 @@ Points: 20
         <updated>2021-05-19T17:13:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4
 Comments URL: https://news.ycombinator.com/item?id=27211517
-Points: 29
-# Comments: 0]]></summary>
+Points: 126
+# Comments: 46]]></summary>
         <author>
             <name>marc__1</name>
         </author>
@@ -56,27 +69,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The new corporate owner of Freenode is Imperial Family Companies]]></title>
-        <id>https://news.ycombinator.com/item?id=27211352</id>
-        <link href="https://imperialfamily.com/"/>
-        <updated>2021-05-19T17:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://imperialfamily.com/
-Comments URL: https://news.ycombinator.com/item?id=27211352
-Points: 40
-# Comments: 8]]></summary>
-        <author>
-            <name>marcan_42</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cryptography experts trash NFTs on first day of RSA Conference]]></title>
         <id>https://news.ycombinator.com/item?id=27210980</id>
         <link href="https://mashable.com/article/rsa-conference-cryptographers-panel-nfts.html"/>
         <updated>2021-05-19T16:35:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mashable.com/article/rsa-conference-cryptographers-panel-nfts.html
 Comments URL: https://news.ycombinator.com/item?id=27210980
-Points: 58
-# Comments: 11]]></summary>
+Points: 98
+# Comments: 41]]></summary>
         <author>
             <name>wglb</name>
         </author>
@@ -88,8 +88,8 @@ Points: 58
         <updated>2021-05-19T16:25:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://9to5google.com/2021/05/19/chrome-follow-rss-feed/
 Comments URL: https://news.ycombinator.com/item?id=27210819
-Points: 34
-# Comments: 13]]></summary>
+Points: 63
+# Comments: 23]]></summary>
         <author>
             <name>Breadmaker</name>
         </author>
@@ -101,8 +101,8 @@ Points: 34
         <updated>2021-05-19T16:12:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://schlockchain.substack.com/p/no-real-world-ownership-is-not-a
 Comments URL: https://news.ycombinator.com/item?id=27210604
-Points: 118
-# Comments: 136]]></summary>
+Points: 164
+# Comments: 210]]></summary>
         <author>
             <name>leifg</name>
         </author>
@@ -114,8 +114,8 @@ Points: 118
         <updated>2021-05-19T16:01:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/
 Comments URL: https://news.ycombinator.com/item?id=27210460
-Points: 81
-# Comments: 8]]></summary>
+Points: 92
+# Comments: 11]]></summary>
         <author>
             <name>csmajorfive</name>
         </author>
@@ -127,8 +127,8 @@ Points: 81
         <updated>2021-05-19T15:49:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble
 Comments URL: https://news.ycombinator.com/item?id=27210304
-Points: 68
-# Comments: 86]]></summary>
+Points: 78
+# Comments: 106]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -140,8 +140,8 @@ Points: 68
         <updated>2021-05-19T15:25:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nongnu.org/gzz/gi/gi.html
 Comments URL: https://news.ycombinator.com/item?id=27210008
-Points: 26
-# Comments: 3]]></summary>
+Points: 34
+# Comments: 7]]></summary>
         <author>
             <name>breck</name>
         </author>
@@ -153,8 +153,8 @@ Points: 26
         <updated>2021-05-19T14:48:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/
 Comments URL: https://news.ycombinator.com/item?id=27209412
-Points: 149
-# Comments: 45]]></summary>
+Points: 199
+# Comments: 61]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -183,27 +183,14 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto crash deepens, stocks slip]]></title>
-        <id>https://news.ycombinator.com/item?id=27208119</id>
-        <link href="https://www.reuters.com/business/global-markets-wrapup-4-2021-05-19/"/>
-        <updated>2021-05-19T13:15:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/global-markets-wrapup-4-2021-05-19/
-Comments URL: https://news.ycombinator.com/item?id=27208119
-Points: 303
-# Comments: 469]]></summary>
-        <author>
-            <name>garraeth</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Welcome to Libera Chat]]></title>
         <id>https://news.ycombinator.com/item?id=27207734</id>
         <link href="https://libera.chat/news/welcome-to-libera-chat"/>
         <updated>2021-05-19T12:39:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://libera.chat/news/welcome-to-libera-chat
 Comments URL: https://news.ycombinator.com/item?id=27207734
-Points: 609
-# Comments: 219]]></summary>
+Points: 684
+# Comments: 257]]></summary>
         <author>
             <name>smitop</name>
         </author>
@@ -215,8 +202,8 @@ Points: 609
         <updated>2021-05-19T12:21:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57172346
 Comments URL: https://news.ycombinator.com/item?id=27207572
-Points: 168
-# Comments: 29]]></summary>
+Points: 190
+# Comments: 35]]></summary>
         <author>
             <name>leemailll</name>
         </author>
@@ -228,7 +215,7 @@ Points: 168
         <updated>2021-05-19T12:19:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://math.andrej.com/2021/05/18/computing-an-integer-using-a-sheaf-topos/
 Comments URL: https://news.ycombinator.com/item?id=27207556
-Points: 38
+Points: 43
 # Comments: 3]]></summary>
         <author>
             <name>georgecmu</name>
@@ -241,8 +228,8 @@ Points: 38
         <updated>2021-05-19T11:53:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://peterlyons.com/problog/2021/04/squeezebox-keyboard/
 Comments URL: https://news.ycombinator.com/item?id=27207333
-Points: 2
-# Comments: 1]]></summary>
+Points: 33
+# Comments: 8]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -254,8 +241,8 @@ Points: 2
         <updated>2021-05-19T11:53:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://home.cern/news/news/physics/59-new-hadrons-and-counting
 Comments URL: https://news.ycombinator.com/item?id=27207330
-Points: 30
-# Comments: 2]]></summary>
+Points: 41
+# Comments: 3]]></summary>
         <author>
             <name>graderjs</name>
         </author>
@@ -267,8 +254,8 @@ Points: 30
         <updated>2021-05-19T11:44:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/bignimbus/trombone.js
 Comments URL: https://news.ycombinator.com/item?id=27207250
-Points: 46
-# Comments: 20]]></summary>
+Points: 53
+# Comments: 23]]></summary>
         <author>
             <name>jdauriemma</name>
         </author>
@@ -290,23 +277,36 @@ Points: 46
         <updated>2021-05-19T11:17:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish
 Comments URL: https://news.ycombinator.com/item?id=27207049
-Points: 87
-# Comments: 47]]></summary>
+Points: 99
+# Comments: 62]]></summary>
         <author>
             <name>choult</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Poor in Tech]]></title>
-        <id>https://news.ycombinator.com/item?id=27206899</id>
-        <link href="http://megelison.com/poor-in-tech"/>
-        <updated>2021-05-19T10:55:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://megelison.com/poor-in-tech
-Comments URL: https://news.ycombinator.com/item?id=27206899
-Points: 557
-# Comments: 542]]></summary>
+        <title type="html"><![CDATA[Elixir 1.12]]></title>
+        <id>https://news.ycombinator.com/item?id=27206656</id>
+        <link href="https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/"/>
+        <updated>2021-05-19T10:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/
+Comments URL: https://news.ycombinator.com/item?id=27206656
+Points: 306
+# Comments: 69]]></summary>
         <author>
-            <name>tosh</name>
+            <name>princemaple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A teenager's guide to avoiding work]]></title>
+        <id>https://news.ycombinator.com/item?id=27206552</id>
+        <link href="https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual"/>
+        <updated>2021-05-19T10:07:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual
+Comments URL: https://news.ycombinator.com/item?id=27206552
+Points: 701
+# Comments: 112]]></summary>
+        <author>
+            <name>mad_ned</name>
         </author>
     </entry>
     <entry>
