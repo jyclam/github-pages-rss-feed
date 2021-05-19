@@ -6,9 +6,81 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27212977",
+          "author": "childintime",
+          "description": "Article URL: https://ferrous-systems.com/blog/21st-century-embedded-tooling/\nComments URL: https://news.ycombinator.com/item?id=27212977\nPoints: 3\n# Comments: 0",
+          "link": "https://ferrous-systems.com/blog/21st-century-embedded-tooling/",
+          "publishedOn": "2021-05-19T19:07:04.000Z",
+          "wordCount": 2129,
+          "title": "Debugging Embedded Rust Without GDB"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27212812",
+          "author": "taxyovio",
+          "description": "Article URL: https://adguard.com/en/blog/youtube-ads-in-safari-explained.html\nComments URL: https://news.ycombinator.com/item?id=27212812\nPoints: 9\n# Comments: 0",
+          "link": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
+          "publishedOn": "2021-05-19T18:54:05.000Z",
+          "wordCount": 2708,
+          "title": "YouTube ads in Safari: you see them now, will you see them in the future?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27212401",
+          "author": "jdmoreira",
+          "description": "Article URL: https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_dp_mb_gw_tr?ie=UTF8\nComments URL: https://news.ycombinator.com/item?id=27212401\nPoints: 53\n# Comments: 28",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_dp_mb_gw_tr?ie=UTF8",
+          "publishedOn": "2021-05-19T18:21:29.000Z",
+          "wordCount": 735,
+          "title": "Nicholas Taleb's Amazon Reviews"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27212278",
+          "author": "nomoreplease",
+          "description": "Article URL: https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile\nComments URL: https://news.ycombinator.com/item?id=27212278\nPoints: 19\n# Comments: 5",
+          "link": "https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile",
+          "publishedOn": "2021-05-19T18:10:56.000Z",
+          "wordCount": 3178,
+          "title": "All Hail King Pokémon"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27212270",
+          "author": "dsr12",
+          "description": "Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html\nComments URL: https://news.ycombinator.com/item?id=27212270\nPoints: 22\n# Comments: 7",
+          "link": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
+          "publishedOn": "2021-05-19T18:10:21.000Z",
+          "wordCount": 1554,
+          "title": "Sharing learnings about our image cropping algorithm"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27212239",
+          "author": "CharlesW",
+          "description": "Article URL: https://twitter.com/Hetzner_Online/status/1394957824749457409\nComments URL: https://news.ycombinator.com/item?id=27212239\nPoints: 46\n# Comments: 37",
+          "link": "https://twitter.com/Hetzner_Online/status/1394957824749457409",
+          "publishedOn": "2021-05-19T18:07:50.000Z",
+          "wordCount": 196,
+          "title": "Hetzner has banned crypto mining and Chia farming"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27212206",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://nextjs.org/conf#room-b5zue\nComments URL: https://news.ycombinator.com/item?id=27212206\nPoints: 19\n# Comments: 2",
+          "link": "https://nextjs.org/conf#room-b5zue",
+          "publishedOn": "2021-05-19T18:04:50.000Z",
+          "wordCount": 18,
+          "title": "Next.js Conference Site Is Multiplayer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27212127",
+          "author": "smukherjee19",
+          "description": "Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/\nComments URL: https://news.ycombinator.com/item?id=27212127\nPoints: 14\n# Comments: 2",
+          "link": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
+          "publishedOn": "2021-05-19T18:00:24.000Z",
+          "wordCount": 1789,
+          "title": "Internet Explorer 11 (IE11) to be retired on June 15, 2022"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27212002",
           "author": "jeanlaf",
-          "description": "Article URL: https://airbyte.io/connector-development-kit\nComments URL: https://news.ycombinator.com/item?id=27212002\nPoints: 37\n# Comments: 0",
+          "description": "Article URL: https://airbyte.io/connector-development-kit\nComments URL: https://news.ycombinator.com/item?id=27212002\nPoints: 65\n# Comments: 13",
           "link": "https://airbyte.io/connector-development-kit",
           "publishedOn": "2021-05-19T17:51:55.000Z",
           "wordCount": 426,
@@ -17,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27211583",
           "author": "ArmandGrillet",
-          "description": "Article URL: https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/\nComments URL: https://news.ycombinator.com/item?id=27211583\nPoints: 94\n# Comments: 22",
+          "description": "Article URL: https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/\nComments URL: https://news.ycombinator.com/item?id=27211583\nPoints: 192\n# Comments: 79",
           "link": "https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/",
           "publishedOn": "2021-05-19T17:19:12.000Z",
           "wordCount": 2354,
@@ -26,11 +98,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27211517",
           "author": "marc__1",
-          "description": "Article URL: https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4\nComments URL: https://news.ycombinator.com/item?id=27211517\nPoints: 126\n# Comments: 46",
+          "description": "Article URL: https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4\nComments URL: https://news.ycombinator.com/item?id=27211517\nPoints: 185\n# Comments: 89",
           "link": "https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4",
           "publishedOn": "2021-05-19T17:13:27.000Z",
           "wordCount": 323,
-          "title": "U.S. sues Frontier Communications regarding internet speeds"
+          "title": "FTC and several states sue Frontier Communications regarding internet speeds"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27211362",
@@ -44,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27210980",
           "author": "wglb",
-          "description": "Article URL: https://mashable.com/article/rsa-conference-cryptographers-panel-nfts.html\nComments URL: https://news.ycombinator.com/item?id=27210980\nPoints: 98\n# Comments: 41",
+          "description": "Article URL: https://mashable.com/article/rsa-conference-cryptographers-panel-nfts.html\nComments URL: https://news.ycombinator.com/item?id=27210980\nPoints: 123\n# Comments: 97",
           "link": "https://mashable.com/article/rsa-conference-cryptographers-panel-nfts.html",
           "publishedOn": "2021-05-19T16:35:56.000Z",
           "wordCount": 840,
@@ -53,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27210819",
           "author": "Breadmaker",
-          "description": "Article URL: https://9to5google.com/2021/05/19/chrome-follow-rss-feed/\nComments URL: https://news.ycombinator.com/item?id=27210819\nPoints: 63\n# Comments: 23",
+          "description": "Article URL: https://9to5google.com/2021/05/19/chrome-follow-rss-feed/\nComments URL: https://news.ycombinator.com/item?id=27210819\nPoints: 78\n# Comments: 42",
           "link": "https://9to5google.com/2021/05/19/chrome-follow-rss-feed/",
           "publishedOn": "2021-05-19T16:25:11.000Z",
           "wordCount": 774,
@@ -62,16 +134,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27210604",
           "author": "leifg",
-          "description": "Article URL: https://schlockchain.substack.com/p/no-real-world-ownership-is-not-a\nComments URL: https://news.ycombinator.com/item?id=27210604\nPoints: 164\n# Comments: 210",
+          "description": "Article URL: https://schlockchain.substack.com/p/no-real-world-ownership-is-not-a\nComments URL: https://news.ycombinator.com/item?id=27210604\nPoints: 206\n# Comments: 285",
           "link": "https://schlockchain.substack.com/p/no-real-world-ownership-is-not-a",
           "publishedOn": "2021-05-19T16:12:08.000Z",
-          "wordCount": 782,
+          "wordCount": 811,
           "title": "Real world ownership is not a use case for blockchain"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27210460",
           "author": "csmajorfive",
-          "description": "Article URL: https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/\nComments URL: https://news.ycombinator.com/item?id=27210460\nPoints: 92\n# Comments: 11",
+          "description": "Article URL: https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/\nComments URL: https://news.ycombinator.com/item?id=27210460\nPoints: 104\n# Comments: 15",
           "link": "https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/",
           "publishedOn": "2021-05-19T16:01:05.000Z",
           "wordCount": 1240,
@@ -80,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27210304",
           "author": "hhs",
-          "description": "Article URL: https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble\nComments URL: https://news.ycombinator.com/item?id=27210304\nPoints: 78\n# Comments: 106",
+          "description": "Article URL: https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble\nComments URL: https://news.ycombinator.com/item?id=27210304\nPoints: 82\n# Comments: 119",
           "link": "https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble",
           "publishedOn": "2021-05-19T15:49:34.000Z",
           "wordCount": 9123,
@@ -89,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27210008",
           "author": "breck",
-          "description": "Article URL: https://www.nongnu.org/gzz/gi/gi.html\nComments URL: https://news.ycombinator.com/item?id=27210008\nPoints: 34\n# Comments: 7",
+          "description": "Article URL: https://www.nongnu.org/gzz/gi/gi.html\nComments URL: https://news.ycombinator.com/item?id=27210008\nPoints: 44\n# Comments: 14",
           "link": "https://www.nongnu.org/gzz/gi/gi.html",
           "publishedOn": "2021-05-19T15:25:40.000Z",
           "wordCount": 4442,
@@ -98,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27209412",
           "author": "TangerineDream",
-          "description": "Article URL: https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/\nComments URL: https://news.ycombinator.com/item?id=27209412\nPoints: 199\n# Comments: 61",
+          "description": "Article URL: https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/\nComments URL: https://news.ycombinator.com/item?id=27209412\nPoints: 248\n# Comments: 82",
           "link": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
           "publishedOn": "2021-05-19T14:48:43.000Z",
           "wordCount": 1411,
@@ -107,83 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27207734",
           "author": "smitop",
-          "description": "Article URL: https://libera.chat/news/welcome-to-libera-chat\nComments URL: https://news.ycombinator.com/item?id=27207734\nPoints: 684\n# Comments: 257",
+          "description": "Article URL: https://libera.chat/news/welcome-to-libera-chat\nComments URL: https://news.ycombinator.com/item?id=27207734\nPoints: 741\n# Comments: 287",
           "link": "https://libera.chat/news/welcome-to-libera-chat",
           "publishedOn": "2021-05-19T12:39:41.000Z",
           "wordCount": 357,
           "title": "Welcome to Libera Chat"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27207572",
-          "author": "leemailll",
-          "description": "Article URL: https://www.bbc.com/news/science-environment-57172346\nComments URL: https://news.ycombinator.com/item?id=27207572\nPoints: 190\n# Comments: 35",
-          "link": "https://www.bbc.com/news/science-environment-57172346",
-          "publishedOn": "2021-05-19T12:21:23.000Z",
-          "wordCount": 1033,
-          "title": "China on Mars: Zhurong rover returns first pictures"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27207556",
-          "author": "georgecmu",
-          "description": "Article URL: http://math.andrej.com/2021/05/18/computing-an-integer-using-a-sheaf-topos/\nComments URL: https://news.ycombinator.com/item?id=27207556\nPoints: 43\n# Comments: 3",
-          "link": "http://math.andrej.com/2021/05/18/computing-an-integer-using-a-sheaf-topos/",
-          "publishedOn": "2021-05-19T12:19:14.000Z",
-          "wordCount": 2158,
-          "title": "Computing an integer using a Grothendieck topos"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27207333",
-          "author": "mooreds",
-          "description": "Article URL: https://peterlyons.com/problog/2021/04/squeezebox-keyboard/\nComments URL: https://news.ycombinator.com/item?id=27207333\nPoints: 33\n# Comments: 8",
-          "link": "https://peterlyons.com/problog/2021/04/squeezebox-keyboard/",
-          "publishedOn": "2021-05-19T11:53:42.000Z",
-          "wordCount": 2932,
-          "title": "Squeezebox Keyboard"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27207330",
-          "author": "graderjs",
-          "description": "Article URL: https://home.cern/news/news/physics/59-new-hadrons-and-counting\nComments URL: https://news.ycombinator.com/item?id=27207330\nPoints: 41\n# Comments: 3",
-          "link": "https://home.cern/news/news/physics/59-new-hadrons-and-counting",
-          "publishedOn": "2021-05-19T11:53:09.000Z",
-          "wordCount": 1357,
-          "title": "59 New Hadrons and Counting"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27207250",
-          "author": "jdauriemma",
-          "description": "Article URL: https://github.com/bignimbus/trombone.js\nComments URL: https://news.ycombinator.com/item?id=27207250\nPoints: 53\n# Comments: 23",
-          "link": "https://github.com/bignimbus/trombone.js",
-          "publishedOn": "2021-05-19T11:44:48.000Z",
-          "wordCount": 1244,
-          "title": "Play the trombone in your web browser"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27207049",
-          "author": "choult",
-          "description": "Article URL: https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish\nComments URL: https://news.ycombinator.com/item?id=27207049\nPoints: 99\n# Comments: 62",
-          "link": "https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish",
-          "publishedOn": "2021-05-19T11:17:34.000Z",
-          "wordCount": 1974,
-          "title": "To be more tech-savvy, borrow these strategies from the Amish"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27206656",
-          "author": "princemaple",
-          "description": "Article URL: https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/\nComments URL: https://news.ycombinator.com/item?id=27206656\nPoints: 306\n# Comments: 69",
-          "link": "https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/",
-          "publishedOn": "2021-05-19T10:21:53.000Z",
-          "wordCount": 1334,
-          "title": "Elixir 1.12"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27206552",
-          "author": "mad_ned",
-          "description": "Article URL: https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual\nComments URL: https://news.ycombinator.com/item?id=27206552\nPoints: 701\n# Comments: 112",
-          "link": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
-          "publishedOn": "2021-05-19T10:07:21.000Z",
-          "wordCount": 3716,
-          "title": "A teenager's guide to avoiding work"
         }
       ]
     },
@@ -207,7 +207,7 @@
           "description": "Like any web browser, Firefox loads code from untrusted and potentially hostile websites and runs it on your computer. To protect you against new types of attacks from malicious sites and to meet the security principles of Mozilla, we set out to redesign Firefox on desktop.\nThe post Introducing Firefox’s new Site Isolation Security Architecture appeared first on Mozilla Hacks - the Web developer blog.",
           "link": "https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/",
           "publishedOn": "2021-05-18T15:45:15.000Z",
-          "wordCount": 2109,
+          "wordCount": 2125,
           "title": "Introducing Firefox’s new Site Isolation Security Architecture"
         },
         {
@@ -371,7 +371,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2451,
+          "wordCount": 2463,
           "title": "A Love Letter to HTML & CSS"
         },
         {
