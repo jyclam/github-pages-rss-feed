@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T19:21:17.848Z</updated>
+    <updated>2021-05-19T20:15:00.464Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,10 +13,23 @@
         <updated>2021-05-19T19:07:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ferrous-systems.com/blog/21st-century-embedded-tooling/
 Comments URL: https://news.ycombinator.com/item?id=27212977
-Points: 3
-# Comments: 0]]></summary>
+Points: 24
+# Comments: 1]]></summary>
         <author>
             <name>childintime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome Autofill doesn't respect autocomplete=off]]></title>
+        <id>https://news.ycombinator.com/item?id=27212926</id>
+        <link href="https://bugs.chromium.org/p/chromium/issues/detail?id=914451#c139"/>
+        <updated>2021-05-19T19:02:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bugs.chromium.org/p/chromium/issues/detail?id=914451#c139
+Comments URL: https://news.ycombinator.com/item?id=27212926
+Points: 10
+# Comments: 3]]></summary>
+        <author>
+            <name>react_burger38</name>
         </author>
     </entry>
     <entry>
@@ -26,10 +39,23 @@ Points: 3
         <updated>2021-05-19T18:54:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://adguard.com/en/blog/youtube-ads-in-safari-explained.html
 Comments URL: https://news.ycombinator.com/item?id=27212812
-Points: 9
-# Comments: 0]]></summary>
+Points: 47
+# Comments: 43]]></summary>
         <author>
             <name>taxyovio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF Tech Exodus]]></title>
+        <id>https://news.ycombinator.com/item?id=27212423</id>
+        <link href="https://sfciti.org/sf-tech-exodus/"/>
+        <updated>2021-05-19T18:23:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sfciti.org/sf-tech-exodus/
+Comments URL: https://news.ycombinator.com/item?id=27212423
+Points: 23
+# Comments: 4]]></summary>
+        <author>
+            <name>kyleblarson</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +65,8 @@ Points: 9
         <updated>2021-05-19T18:21:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_dp_mb_gw_tr?ie=UTF8
 Comments URL: https://news.ycombinator.com/item?id=27212401
-Points: 53
-# Comments: 28]]></summary>
+Points: 100
+# Comments: 70]]></summary>
         <author>
             <name>jdmoreira</name>
         </author>
@@ -52,8 +78,8 @@ Points: 53
         <updated>2021-05-19T18:10:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile
 Comments URL: https://news.ycombinator.com/item?id=27212278
-Points: 19
-# Comments: 5]]></summary>
+Points: 28
+# Comments: 14]]></summary>
         <author>
             <name>nomoreplease</name>
         </author>
@@ -65,23 +91,10 @@ Points: 19
         <updated>2021-05-19T18:10:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html
 Comments URL: https://news.ycombinator.com/item?id=27212270
-Points: 22
-# Comments: 7]]></summary>
+Points: 42
+# Comments: 18]]></summary>
         <author>
             <name>dsr12</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hetzner has banned crypto mining and Chia farming]]></title>
-        <id>https://news.ycombinator.com/item?id=27212239</id>
-        <link href="https://twitter.com/Hetzner_Online/status/1394957824749457409"/>
-        <updated>2021-05-19T18:07:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/Hetzner_Online/status/1394957824749457409
-Comments URL: https://news.ycombinator.com/item?id=27212239
-Points: 46
-# Comments: 37]]></summary>
-        <author>
-            <name>CharlesW</name>
         </author>
     </entry>
     <entry>
@@ -91,8 +104,8 @@ Points: 46
         <updated>2021-05-19T18:04:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nextjs.org/conf#room-b5zue
 Comments URL: https://news.ycombinator.com/item?id=27212206
-Points: 19
-# Comments: 2]]></summary>
+Points: 28
+# Comments: 10]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -104,8 +117,8 @@ Points: 19
         <updated>2021-05-19T18:00:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/
 Comments URL: https://news.ycombinator.com/item?id=27212127
-Points: 14
-# Comments: 2]]></summary>
+Points: 52
+# Comments: 29]]></summary>
         <author>
             <name>smukherjee19</name>
         </author>
@@ -117,10 +130,23 @@ Points: 14
         <updated>2021-05-19T17:51:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://airbyte.io/connector-development-kit
 Comments URL: https://news.ycombinator.com/item?id=27212002
-Points: 65
-# Comments: 13]]></summary>
+Points: 74
+# Comments: 16]]></summary>
         <author>
             <name>jeanlaf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IRCv3]]></title>
+        <id>https://news.ycombinator.com/item?id=27211798</id>
+        <link href="https://ircv3.net/"/>
+        <updated>2021-05-19T17:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ircv3.net/
+Comments URL: https://news.ycombinator.com/item?id=27211798
+Points: 23
+# Comments: 2]]></summary>
+        <author>
+            <name>xvilka</name>
         </author>
     </entry>
     <entry>
@@ -134,14 +160,14 @@ Points: 65
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple previews powerful software updates designed for people with disabilities]]></title>
+        <title type="html"><![CDATA[Previews of software updates designed for people with disabilities]]></title>
         <id>https://news.ycombinator.com/item?id=27211583</id>
         <link href="https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/"/>
         <updated>2021-05-19T17:19:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/
 Comments URL: https://news.ycombinator.com/item?id=27211583
-Points: 192
-# Comments: 79]]></summary>
+Points: 277
+# Comments: 120]]></summary>
         <author>
             <name>ArmandGrillet</name>
         </author>
@@ -153,8 +179,8 @@ Points: 192
         <updated>2021-05-19T17:13:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4
 Comments URL: https://news.ycombinator.com/item?id=27211517
-Points: 185
-# Comments: 89]]></summary>
+Points: 234
+# Comments: 98]]></summary>
         <author>
             <name>marc__1</name>
         </author>
@@ -179,23 +205,10 @@ Points: 1
         <updated>2021-05-19T16:35:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mashable.com/article/rsa-conference-cryptographers-panel-nfts.html
 Comments URL: https://news.ycombinator.com/item?id=27210980
-Points: 123
-# Comments: 97]]></summary>
+Points: 147
+# Comments: 129]]></summary>
         <author>
             <name>wglb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome testing RSS-powered ‘Follow’ button]]></title>
-        <id>https://news.ycombinator.com/item?id=27210819</id>
-        <link href="https://9to5google.com/2021/05/19/chrome-follow-rss-feed/"/>
-        <updated>2021-05-19T16:25:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://9to5google.com/2021/05/19/chrome-follow-rss-feed/
-Comments URL: https://news.ycombinator.com/item?id=27210819
-Points: 78
-# Comments: 42]]></summary>
-        <author>
-            <name>Breadmaker</name>
         </author>
     </entry>
     <entry>
@@ -205,8 +218,8 @@ Points: 78
         <updated>2021-05-19T16:12:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://schlockchain.substack.com/p/no-real-world-ownership-is-not-a
 Comments URL: https://news.ycombinator.com/item?id=27210604
-Points: 206
-# Comments: 285]]></summary>
+Points: 232
+# Comments: 323]]></summary>
         <author>
             <name>leifg</name>
         </author>
@@ -218,23 +231,10 @@ Points: 206
         <updated>2021-05-19T16:01:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/
 Comments URL: https://news.ycombinator.com/item?id=27210460
-Points: 104
-# Comments: 15]]></summary>
+Points: 115
+# Comments: 17]]></summary>
         <author>
             <name>csmajorfive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood’s big gamble]]></title>
-        <id>https://news.ycombinator.com/item?id=27210304</id>
-        <link href="https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble"/>
-        <updated>2021-05-19T15:49:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble
-Comments URL: https://news.ycombinator.com/item?id=27210304
-Points: 82
-# Comments: 119]]></summary>
-        <author>
-            <name>hhs</name>
         </author>
     </entry>
     <entry>
@@ -244,8 +244,8 @@ Points: 82
         <updated>2021-05-19T15:25:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nongnu.org/gzz/gi/gi.html
 Comments URL: https://news.ycombinator.com/item?id=27210008
-Points: 44
-# Comments: 14]]></summary>
+Points: 47
+# Comments: 18]]></summary>
         <author>
             <name>breck</name>
         </author>
@@ -257,8 +257,8 @@ Points: 44
         <updated>2021-05-19T14:48:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/
 Comments URL: https://news.ycombinator.com/item?id=27209412
-Points: 248
-# Comments: 82]]></summary>
+Points: 284
+# Comments: 102]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -293,8 +293,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T12:39:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://libera.chat/news/welcome-to-libera-chat
 Comments URL: https://news.ycombinator.com/item?id=27207734
-Points: 741
-# Comments: 287]]></summary>
+Points: 794
+# Comments: 313]]></summary>
         <author>
             <name>smitop</name>
         </author>
