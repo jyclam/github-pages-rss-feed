@@ -6,6 +6,33 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27227751",
+          "author": "rmason",
+          "description": "Article URL: https://therecord.media/microsoft-releases-simuland-a-lab-environment-to-simulate-attacker-tradecraft/\nComments URL: https://news.ycombinator.com/item?id=27227751\nPoints: 3\n# Comments: 0",
+          "link": "https://therecord.media/microsoft-releases-simuland-a-lab-environment-to-simulate-attacker-tradecraft/",
+          "publishedOn": "2021-05-20T21:44:18.000Z",
+          "wordCount": 465,
+          "title": "Microsoft releases SimuLand, a lab environment to simulate attacker tradecraft"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27227498",
+          "author": "mritzmann",
+          "description": "Article URL: https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956\nComments URL: https://news.ycombinator.com/item?id=27227498\nPoints: 11\n# Comments: 2",
+          "link": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956",
+          "publishedOn": "2021-05-20T21:25:27.000Z",
+          "wordCount": 610,
+          "title": "Thunderbird stored OpenPGP secret keys without master password protection"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27227492",
+          "author": "DoreenMichele",
+          "description": "Article URL: https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/\nComments URL: https://news.ycombinator.com/item?id=27227492\nPoints: 22\n# Comments: 2",
+          "link": "https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/",
+          "publishedOn": "2021-05-20T21:25:03.000Z",
+          "wordCount": 983,
+          "title": "Red Cross honors Igiugig woman for helping light runway during nighttime medevac"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27227180",
           "author": "ukd1",
           "description": "Article URL: https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN\nComments URL: https://news.ycombinator.com/item?id=27227180\nPoints: 1\n# Comments: 0",
@@ -15,9 +42,27 @@
           "title": "Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27226751",
+          "author": "paultgriffiths",
+          "description": "Article URL: https://science.sciencemag.org/content/early/2021/05/19/science.abg6296\nComments URL: https://news.ycombinator.com/item?id=27226751\nPoints: 96\n# Comments: 72",
+          "link": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
+          "publishedOn": "2021-05-20T20:27:02.000Z",
+          "wordCount": 6846,
+          "title": "Face masks effectively limit the probability of SARS-CoV-2 transmission"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27226625",
+          "author": "lukastyrychtr",
+          "description": "Article URL: https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/\nComments URL: https://news.ycombinator.com/item?id=27226625\nPoints: 19\n# Comments: 0",
+          "link": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
+          "publishedOn": "2021-05-20T20:18:32.000Z",
+          "wordCount": 1220,
+          "title": "Why RISC-V doesn't (yet) support KVM"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27226382",
           "author": "talawahtech",
-          "description": "Article URL: https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/\nComments URL: https://news.ycombinator.com/item?id=27226382\nPoints: 30\n# Comments: 2",
+          "description": "Article URL: https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/\nComments URL: https://news.ycombinator.com/item?id=27226382\nPoints: 156\n# Comments: 23",
           "link": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
           "publishedOn": "2021-05-20T20:01:28.000Z",
           "wordCount": 14589,
@@ -26,34 +71,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27225739",
           "author": "rmason",
-          "description": "Article URL: https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/\nComments URL: https://news.ycombinator.com/item?id=27225739\nPoints: 86\n# Comments: 136",
+          "description": "Article URL: https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/\nComments URL: https://news.ycombinator.com/item?id=27225739\nPoints: 132\n# Comments: 275",
           "link": "https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/",
           "publishedOn": "2021-05-20T19:16:40.000Z",
-          "wordCount": 976,
+          "wordCount": 975,
           "title": "Five Oregon counties vote to leave state, create 'Greater Idaho'"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27225442",
-          "author": "awb",
-          "description": "Article URL: https://www.scientificamerican.com/article/wormhole-tunnels-in-spacetime-may-be-possible-new-research-suggests/\nComments URL: https://news.ycombinator.com/item?id=27225442\nPoints: 112\n# Comments: 59",
-          "link": "https://www.scientificamerican.com/article/wormhole-tunnels-in-spacetime-may-be-possible-new-research-suggests/",
-          "publishedOn": "2021-05-20T18:50:27.000Z",
-          "wordCount": 1248,
-          "title": "Wormhole Tunnels in Spacetime May Be Possible, New Research Suggests"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27224691",
-          "author": "upwardbound",
-          "description": "Article URL: https://www.spectacles.com/new-spectacles\nComments URL: https://news.ycombinator.com/item?id=27224691\nPoints: 78\n# Comments: 75",
-          "link": "https://www.spectacles.com/new-spectacles",
-          "publishedOn": "2021-05-20T18:00:05.000Z",
-          "wordCount": 12,
-          "title": "New Snap Spectacles Feature Augmented Reality Display"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27224590",
           "author": "ephesee",
-          "description": "Article URL: https://blog.scaleway.com/scaleway-and-chia/\nComments URL: https://news.ycombinator.com/item?id=27224590\nPoints: 123\n# Comments: 103",
+          "description": "Article URL: https://blog.scaleway.com/scaleway-and-chia/\nComments URL: https://news.ycombinator.com/item?id=27224590\nPoints: 144\n# Comments: 138",
           "link": "https://blog.scaleway.com/scaleway-and-chia/",
           "publishedOn": "2021-05-20T17:53:52.000Z",
           "wordCount": 766,
@@ -62,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27224094",
           "author": "javierbyte",
-          "description": "Article URL: https://javier.xyz/pintr/\nComments URL: https://news.ycombinator.com/item?id=27224094\nPoints: 140\n# Comments: 25",
+          "description": "Article URL: https://javier.xyz/pintr/\nComments URL: https://news.ycombinator.com/item?id=27224094\nPoints: 185\n# Comments: 29",
           "link": "https://javier.xyz/pintr/",
           "publishedOn": "2021-05-20T17:22:33.000Z",
           "wordCount": 50,
@@ -71,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27223520",
           "author": "theafh",
-          "description": "Article URL: https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/\nComments URL: https://news.ycombinator.com/item?id=27223520\nPoints: 76\n# Comments: 32",
+          "description": "Article URL: https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/\nComments URL: https://news.ycombinator.com/item?id=27223520\nPoints: 90\n# Comments: 44",
           "link": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
           "publishedOn": "2021-05-20T16:43:51.000Z",
           "wordCount": 2634,
@@ -80,16 +107,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27223340",
           "author": "jwcooper",
-          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates\nComments URL: https://news.ycombinator.com/item?id=27223340\nPoints: 90\n# Comments: 26",
+          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates\nComments URL: https://news.ycombinator.com/item?id=27223340\nPoints: 104\n# Comments: 36",
           "link": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
           "publishedOn": "2021-05-20T16:31:47.000Z",
-          "wordCount": 2683,
+          "wordCount": 2682,
           "title": "CRISPR Editing in Primates"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27223090",
           "author": "daenney",
-          "description": "Article URL: https://matrix.org/blog/2021/05/19/how-the-u-ks-online-safety-bill-threatens-matrix\nComments URL: https://news.ycombinator.com/item?id=27223090\nPoints: 286\n# Comments: 78",
+          "description": "Article URL: https://matrix.org/blog/2021/05/19/how-the-u-ks-online-safety-bill-threatens-matrix\nComments URL: https://news.ycombinator.com/item?id=27223090\nPoints: 298\n# Comments: 89",
           "link": "https://matrix.org/blog/2021/05/19/how-the-u-ks-online-safety-bill-threatens-matrix",
           "publishedOn": "2021-05-20T16:15:32.000Z",
           "wordCount": 1158,
@@ -98,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27223012",
           "author": "bpierre",
-          "description": "Article URL: https://blog.stackblitz.com/posts/introducing-webcontainers/\nComments URL: https://news.ycombinator.com/item?id=27223012\nPoints: 181\n# Comments: 99",
+          "description": "Article URL: https://blog.stackblitz.com/posts/introducing-webcontainers/\nComments URL: https://news.ycombinator.com/item?id=27223012\nPoints: 209\n# Comments: 114",
           "link": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
           "publishedOn": "2021-05-20T16:10:26.000Z",
           "wordCount": 1816,
@@ -110,13 +137,13 @@
           "description": "We're Tunde, Boateng, and Landon, the founders of YSplit (https://www.ysplit.com). We make it easy to share the cost of utility bills, subscriptions, phone plans & more. When your bill is due, we charge everyone their portion, and then we pay for it.\nWhile sharing an apartment with my co-founders during an internship, I was responsible for paying the gas, wifi & rent bills upfront and having everyone Venmo me back. Tracking how much I was owed and getting everyone to pay me back took up a fair amount of tim…",
           "link": "https://news.ycombinator.com/item?id=27222985",
           "publishedOn": "2021-05-20T16:08:30.000Z",
-          "wordCount": 2887,
+          "wordCount": 3463,
           "title": "Launch HN: YSplit (YC W19) – Automatically split and pay any bill"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27222471",
           "author": "blacksqr",
-          "description": "Article URL: https://wiki.tcl-lang.org/page/Divisible+by+7\nComments URL: https://news.ycombinator.com/item?id=27222471\nPoints: 62\n# Comments: 22",
+          "description": "Article URL: https://wiki.tcl-lang.org/page/Divisible+by+7\nComments URL: https://news.ycombinator.com/item?id=27222471\nPoints: 65\n# Comments: 23",
           "link": "https://wiki.tcl-lang.org/page/Divisible+by+7",
           "publishedOn": "2021-05-20T15:31:55.000Z",
           "wordCount": 2299,
@@ -125,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27222460",
           "author": "bpierre",
-          "description": "Article URL: https://v2.parceljs.org/blog/beta3/\nComments URL: https://news.ycombinator.com/item?id=27222460\nPoints: 213\n# Comments: 51",
+          "description": "Article URL: https://v2.parceljs.org/blog/beta3/\nComments URL: https://news.ycombinator.com/item?id=27222460\nPoints: 217\n# Comments: 55",
           "link": "https://v2.parceljs.org/blog/beta3/",
           "publishedOn": "2021-05-20T15:31:22.000Z",
           "wordCount": 1972,
@@ -134,56 +161,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27222457",
           "author": "mcp_",
-          "description": "Article URL: https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits\nComments URL: https://news.ycombinator.com/item?id=27222457\nPoints: 159\n# Comments: 41",
+          "description": "Article URL: https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits\nComments URL: https://news.ycombinator.com/item?id=27222457\nPoints: 192\n# Comments: 48",
           "link": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
           "publishedOn": "2021-05-20T15:31:06.000Z",
-          "wordCount": 3655,
+          "wordCount": 3661,
           "title": "Spintronics: Build Mechanical Circuits"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27221552",
           "author": "zdw",
-          "description": "Article URL: https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/\nComments URL: https://news.ycombinator.com/item?id=27221552\nPoints: 104\n# Comments: 204",
+          "description": "Article URL: https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/\nComments URL: https://news.ycombinator.com/item?id=27221552\nPoints: 114\n# Comments: 239",
           "link": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
           "publishedOn": "2021-05-20T14:29:55.000Z",
           "wordCount": 1980,
           "title": "Undefined behavior in C is a reading error"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27221009",
-          "author": "leoferres",
-          "description": "Article URL: https://leoferres.info/blog/2021/05/16/bts-base-transceiver-stations-vs-gps/\nComments URL: https://news.ycombinator.com/item?id=27221009\nPoints: 46\n# Comments: 13",
-          "link": "https://leoferres.info/blog/2021/05/16/bts-base-transceiver-stations-vs-gps/",
-          "publishedOn": "2021-05-20T13:44:38.000Z",
-          "wordCount": 639,
-          "title": "Comparing trips between cellphone towers and Google timeline (GPS)"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27220789",
           "author": "sampo",
-          "description": "Article URL: https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators\nComments URL: https://news.ycombinator.com/item?id=27220789\nPoints: 73\n# Comments: 102",
+          "description": "Article URL: https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators\nComments URL: https://news.ycombinator.com/item?id=27220789\nPoints: 85\n# Comments: 114",
           "link": "https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators",
           "publishedOn": "2021-05-20T13:24:19.000Z",
           "wordCount": 1326,
           "title": "Native speakers are hard to understand in a lingua franca situation"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27220657",
-          "author": "tosh",
-          "description": "Article URL: https://twitter.com/id_aa_carmack/status/1395089205986988043\nComments URL: https://news.ycombinator.com/item?id=27220657\nPoints: 437\n# Comments: 238",
-          "link": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
-          "publishedOn": "2021-05-20T13:12:49.000Z",
-          "wordCount": 196,
-          "title": "Before the iPhone, I worked on a few games for what were called \"feature phones\""
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27220433",
-          "author": "andersonvom",
-          "description": "Article URL: https://www.npr.org/sections/goatsandsoda/2021/05/16/995963311/prepone-that-your-accent-is-funny-readers-share-their-esl-stories\nComments URL: https://news.ycombinator.com/item?id=27220433\nPoints: 181\n# Comments: 454",
-          "link": "https://www.npr.org/sections/goatsandsoda/2021/05/16/995963311/prepone-that-your-accent-is-funny-readers-share-their-esl-stories",
-          "publishedOn": "2021-05-20T12:50:06.000Z",
-          "wordCount": 1968,
-          "title": "Nonnative English speakers share their gripes about speaking English"
         }
       ]
     },
@@ -330,6 +330,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340933",
+          "author": "Chris Coyier",
+          "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/learn/css/",
+          "publishedOn": "2021-05-20T21:51:43.000Z",
+          "wordCount": 991,
+          "title": "Learn CSS!"
+        },
+        {
           "id": "https://css-tricks.com/?p=340715",
           "author": "Jhey Tompkins",
           "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -454,15 +463,6 @@
           "publishedOn": "2021-05-13T22:55:35.000Z",
           "wordCount": 605,
           "title": "2021 Design Systems (Survey/Courses)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340036",
-          "author": "Temani Afif",
-          "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
-          "publishedOn": "2021-05-13T14:24:42.000Z",
-          "wordCount": 2745,
-          "title": "Advanced CSS Animation Using cubic-bezier()"
         }
       ]
     },
