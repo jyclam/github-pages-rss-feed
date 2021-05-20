@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T07:20:12.298Z</updated>
+    <updated>2021-05-20T08:16:19.303Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saying Good Bye to Hey.com]]></title>
+        <id>https://news.ycombinator.com/item?id=27218295</id>
+        <link href="https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/"/>
+        <updated>2021-05-20T07:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/
+Comments URL: https://news.ycombinator.com/item?id=27218295
+Points: 16
+# Comments: 0]]></summary>
+        <author>
+            <name>tachyons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ampere announces their next CPU will use custom microarchitecture instead of ARM]]></title>
+        <id>https://news.ycombinator.com/item?id=27218275</id>
+        <link href="https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores"/>
+        <updated>2021-05-20T07:09:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores
+Comments URL: https://news.ycombinator.com/item?id=27218275
+Points: 28
+# Comments: 5]]></summary>
+        <author>
+            <name>gautamcgoel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK Rail services to come under unified state control]]></title>
         <id>https://news.ycombinator.com/item?id=27218069</id>
@@ -13,8 +39,8 @@
         <updated>2021-05-20T06:33:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57176858.html
 Comments URL: https://news.ycombinator.com/item?id=27218069
-Points: 46
-# Comments: 28]]></summary>
+Points: 100
+# Comments: 85]]></summary>
         <author>
             <name>petewailes</name>
         </author>
@@ -26,8 +52,8 @@ Points: 46
         <updated>2021-05-20T06:20:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57181225
 Comments URL: https://news.ycombinator.com/item?id=27218009
-Points: 7
-# Comments: 0]]></summary>
+Points: 31
+# Comments: 9]]></summary>
         <author>
             <name>throwawaysea</name>
         </author>
@@ -39,8 +65,8 @@ Points: 7
         <updated>2021-05-20T05:49:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.cppreference.com/w/cpp/thread/latch
 Comments URL: https://news.ycombinator.com/item?id=27217877
-Points: 21
-# Comments: 16]]></summary>
+Points: 39
+# Comments: 35]]></summary>
         <author>
             <name>nickysielicki</name>
         </author>
@@ -52,8 +78,8 @@ Points: 21
         <updated>2021-05-20T04:37:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://afternoonlabs.com/breeze/
 Comments URL: https://news.ycombinator.com/item?id=27217423
-Points: 27
-# Comments: 26]]></summary>
+Points: 30
+# Comments: 35]]></summary>
         <author>
             <name>niedzielski</name>
         </author>
@@ -65,7 +91,7 @@ Points: 27
         <updated>2021-05-20T04:09:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html
 Comments URL: https://news.ycombinator.com/item?id=27217283
-Points: 15
+Points: 18
 # Comments: 3]]></summary>
         <author>
             <name>ChrisArchitect</name>
@@ -78,8 +104,8 @@ Points: 15
         <updated>2021-05-20T02:21:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=HfXK0Y9xHBI
 Comments URL: https://news.ycombinator.com/item?id=27216631
-Points: 158
-# Comments: 91]]></summary>
+Points: 181
+# Comments: 103]]></summary>
         <author>
             <name>josephcsible</name>
         </author>
@@ -91,8 +117,8 @@ Points: 158
         <updated>2021-05-20T01:42:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openflexure.org/projects/microscope/
 Comments URL: https://news.ycombinator.com/item?id=27216452
-Points: 36
-# Comments: 3]]></summary>
+Points: 49
+# Comments: 6]]></summary>
         <author>
             <name>fybs</name>
         </author>
@@ -104,8 +130,8 @@ Points: 36
         <updated>2021-05-19T23:22:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://0pointer.net/blog/file-descriptor-limits.html
 Comments URL: https://news.ycombinator.com/item?id=27215690
-Points: 138
-# Comments: 52]]></summary>
+Points: 143
+# Comments: 56]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -139,8 +165,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T23:15:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/products/search/introducing-mum/
 Comments URL: https://news.ycombinator.com/item?id=27215653
-Points: 179
-# Comments: 152]]></summary>
+Points: 184
+# Comments: 153]]></summary>
         <author>
             <name>chris_f</name>
         </author>
@@ -152,8 +178,8 @@ Points: 179
         <updated>2021-05-19T23:00:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://landlock.io/
 Comments URL: https://news.ycombinator.com/item?id=27215563
-Points: 77
-# Comments: 32]]></summary>
+Points: 81
+# Comments: 37]]></summary>
         <author>
             <name>p4bl0</name>
         </author>
@@ -165,7 +191,7 @@ Points: 77
         <updated>2021-05-19T22:28:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://computerhistory.org/blog/patricias-perfect-pull/
 Comments URL: https://news.ycombinator.com/item?id=27215348
-Points: 58
+Points: 60
 # Comments: 3]]></summary>
         <author>
             <name>sohkamyung</name>
@@ -178,8 +204,8 @@ Points: 58
         <updated>2021-05-19T21:12:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/
 Comments URL: https://news.ycombinator.com/item?id=27214507
-Points: 152
-# Comments: 41]]></summary>
+Points: 157
+# Comments: 47]]></summary>
         <author>
             <name>choult</name>
         </author>
@@ -214,8 +240,8 @@ Points: 1
         <updated>2021-05-19T20:43:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gamemath.com/
 Comments URL: https://news.ycombinator.com/item?id=27214221
-Points: 135
-# Comments: 5]]></summary>
+Points: 145
+# Comments: 7]]></summary>
         <author>
             <name>noch</name>
         </author>
@@ -227,8 +253,8 @@ Points: 135
         <updated>2021-05-19T20:37:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/
 Comments URL: https://news.ycombinator.com/item?id=27214158
-Points: 65
-# Comments: 10]]></summary>
+Points: 71
+# Comments: 13]]></summary>
         <author>
             <name>privong</name>
         </author>
@@ -240,8 +266,8 @@ Points: 65
         <updated>2021-05-19T18:54:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://adguard.com/en/blog/youtube-ads-in-safari-explained.html
 Comments URL: https://news.ycombinator.com/item?id=27212812
-Points: 185
-# Comments: 191]]></summary>
+Points: 189
+# Comments: 203]]></summary>
         <author>
             <name>taxyovio</name>
         </author>
@@ -254,7 +280,7 @@ Points: 185
         <summary type="html"><![CDATA[Article URL: https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile
 Comments URL: https://news.ycombinator.com/item?id=27212278
 Points: 76
-# Comments: 52]]></summary>
+# Comments: 53]]></summary>
         <author>
             <name>nomoreplease</name>
         </author>
@@ -266,23 +292,10 @@ Points: 76
         <updated>2021-05-19T18:10:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html
 Comments URL: https://news.ycombinator.com/item?id=27212270
-Points: 173
-# Comments: 114]]></summary>
+Points: 176
+# Comments: 117]]></summary>
         <author>
             <name>dsr12</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Explorer 11 (IE11) to be retired on June 15, 2022]]></title>
-        <id>https://news.ycombinator.com/item?id=27212127</id>
-        <link href="https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/"/>
-        <updated>2021-05-19T18:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/
-Comments URL: https://news.ycombinator.com/item?id=27212127
-Points: 574
-# Comments: 233]]></summary>
-        <author>
-            <name>smukherjee19</name>
         </author>
     </entry>
     <entry>
@@ -293,19 +306,6 @@ Points: 574
         <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome testing RSS-powered ‘Follow’ button]]></title>
-        <id>https://news.ycombinator.com/item?id=27210819</id>
-        <link href="https://9to5google.com/2021/05/19/chrome-follow-rss-feed/"/>
-        <updated>2021-05-19T16:25:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://9to5google.com/2021/05/19/chrome-follow-rss-feed/
-Comments URL: https://news.ycombinator.com/item?id=27210819
-Points: 183
-# Comments: 100]]></summary>
-        <author>
-            <name>Breadmaker</name>
         </author>
     </entry>
     <entry>
