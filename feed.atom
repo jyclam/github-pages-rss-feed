@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T13:27:44.640Z</updated>
+    <updated>2021-05-20T14:12:15.258Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Nonnative English Speakers Share Their Gripes About Speaking English]]></title>
-        <id>https://news.ycombinator.com/item?id=27220433</id>
-        <link href="https://www.npr.org/sections/goatsandsoda/2021/05/16/995963311/prepone-that-your-accent-is-funny-readers-share-their-esl-stories"/>
-        <updated>2021-05-20T12:50:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/goatsandsoda/2021/05/16/995963311/prepone-that-your-accent-is-funny-readers-share-their-esl-stories
-Comments URL: https://news.ycombinator.com/item?id=27220433
-Points: 37
-# Comments: 33]]></summary>
+        <title type="html"><![CDATA[The level of Mac malware is not acceptable, says Craig Federighi at Epic trial]]></title>
+        <id>https://news.ycombinator.com/item?id=27221083</id>
+        <link href="https://www.theverge.com/2021/5/19/22444353/mac-malware-not-acceptable-craig-federighi-apple-epic"/>
+        <updated>2021-05-20T13:50:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/19/22444353/mac-malware-not-acceptable-craig-federighi-apple-epic
+Comments URL: https://news.ycombinator.com/item?id=27221083
+Points: 26
+# Comments: 2]]></summary>
         <author>
-            <name>andersonvom</name>
+            <name>pjmlp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Native English speakers are the world’s worst communicators]]></title>
+        <id>https://news.ycombinator.com/item?id=27220789</id>
+        <link href="https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators"/>
+        <updated>2021-05-20T13:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators
+Comments URL: https://news.ycombinator.com/item?id=27220789
+Points: 15
+# Comments: 7]]></summary>
+        <author>
+            <name>sampo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM Common User Access]]></title>
+        <id>https://news.ycombinator.com/item?id=27220344</id>
+        <link href="https://en.wikipedia.org/wiki/IBM_Common_User_Access"/>
+        <updated>2021-05-20T12:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/IBM_Common_User_Access
+Comments URL: https://news.ycombinator.com/item?id=27220344
+Points: 14
+# Comments: 1]]></summary>
+        <author>
+            <name>amadeuspagel</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +52,8 @@ Points: 37
         <updated>2021-05-20T12:13:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/
 Comments URL: https://news.ycombinator.com/item?id=27220136
-Points: 129
-# Comments: 79]]></summary>
+Points: 178
+# Comments: 106]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -46,14 +72,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Case Against Bitcoin]]></title>
+        <id>https://news.ycombinator.com/item?id=27219810</id>
+        <link href="https://bariweiss.substack.com/p/the-case-against-bitcoin"/>
+        <updated>2021-05-20T11:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bariweiss.substack.com/p/the-case-against-bitcoin
+Comments URL: https://news.ycombinator.com/item?id=27219810
+Points: 18
+# Comments: 0]]></summary>
+        <author>
+            <name>SirLJ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show HN: Nyxt Browser 2.0.0]]></title>
         <id>https://news.ycombinator.com/item?id=27219646</id>
         <link href="https://nyxt.atlas.engineer/article/release-2.0.0.org"/>
         <updated>2021-05-20T11:04:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nyxt.atlas.engineer/article/release-2.0.0.org
 Comments URL: https://news.ycombinator.com/item?id=27219646
-Points: 43
-# Comments: 12]]></summary>
+Points: 88
+# Comments: 22]]></summary>
         <author>
             <name>jmercouris</name>
         </author>
@@ -75,23 +114,10 @@ Points: 43
         <updated>2021-05-20T10:55:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-unexpected-black-swan-defect-soft.html
 Comments URL: https://news.ycombinator.com/item?id=27219585
-Points: 46
-# Comments: 19]]></summary>
+Points: 68
+# Comments: 33]]></summary>
         <author>
             <name>dnetesn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crash a Ryzen system in single line of tweetable PowerShell]]></title>
-        <id>https://news.ycombinator.com/item?id=27219152</id>
-        <link href="https://twitter.com/aionescu/status/1393798004151181312"/>
-        <updated>2021-05-20T09:32:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/aionescu/status/1393798004151181312
-Comments URL: https://news.ycombinator.com/item?id=27219152
-Points: 25
-# Comments: 8]]></summary>
-        <author>
-            <name>simon04</name>
         </author>
     </entry>
     <entry>
@@ -101,8 +127,8 @@ Points: 25
         <updated>2021-05-20T08:52:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ariadne.space/2021/05/20/the-whole-freenode-kerfluffle/
 Comments URL: https://news.ycombinator.com/item?id=27218912
-Points: 58
-# Comments: 30]]></summary>
+Points: 86
+# Comments: 57]]></summary>
         <author>
             <name>gbrown_</name>
         </author>
@@ -114,8 +140,8 @@ Points: 58
         <updated>2021-05-20T08:36:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.techpowerup.com/282422/tsmc-claims-breakthrough-on-1nm-chip-production
 Comments URL: https://news.ycombinator.com/item?id=27218812
-Points: 65
-# Comments: 38]]></summary>
+Points: 83
+# Comments: 44]]></summary>
         <author>
             <name>0-_-0</name>
         </author>
@@ -127,8 +153,8 @@ Points: 65
         <updated>2021-05-20T08:07:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newsweek.com/exclusive-inside-militarys-secret-undercover-army-1591881
 Comments URL: https://news.ycombinator.com/item?id=27218637
-Points: 48
-# Comments: 19]]></summary>
+Points: 57
+# Comments: 22]]></summary>
         <author>
             <name>graderjs</name>
         </author>
@@ -140,8 +166,8 @@ Points: 48
         <updated>2021-05-20T08:00:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/worlds-largest-iceberg-spotted-in-antarctica/a-57590031
 Comments URL: https://news.ycombinator.com/item?id=27218595
-Points: 22
-# Comments: 12]]></summary>
+Points: 28
+# Comments: 16]]></summary>
         <author>
             <name>the_70x</name>
         </author>
@@ -153,8 +179,8 @@ Points: 22
         <updated>2021-05-20T07:09:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores
 Comments URL: https://news.ycombinator.com/item?id=27218275
-Points: 169
-# Comments: 110]]></summary>
+Points: 185
+# Comments: 119]]></summary>
         <author>
             <name>gautamcgoel</name>
         </author>
@@ -166,8 +192,8 @@ Points: 169
         <updated>2021-05-20T06:33:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57176858
 Comments URL: https://news.ycombinator.com/item?id=27218069
-Points: 196
-# Comments: 271]]></summary>
+Points: 219
+# Comments: 300]]></summary>
         <author>
             <name>petewailes</name>
         </author>
@@ -179,8 +205,8 @@ Points: 196
         <updated>2021-05-20T06:20:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57181225
 Comments URL: https://news.ycombinator.com/item?id=27218009
-Points: 124
-# Comments: 50]]></summary>
+Points: 142
+# Comments: 53]]></summary>
         <author>
             <name>throwawaysea</name>
         </author>
@@ -192,7 +218,7 @@ Points: 124
         <updated>2021-05-20T01:42:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openflexure.org/projects/microscope/
 Comments URL: https://news.ycombinator.com/item?id=27216452
-Points: 89
+Points: 94
 # Comments: 26]]></summary>
         <author>
             <name>fybs</name>
@@ -205,7 +231,7 @@ Points: 89
         <updated>2021-05-19T23:22:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://0pointer.net/blog/file-descriptor-limits.html
 Comments URL: https://news.ycombinator.com/item?id=27215690
-Points: 207
+Points: 215
 # Comments: 76]]></summary>
         <author>
             <name>ingve</name>
@@ -240,8 +266,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T23:15:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/products/search/introducing-mum/
 Comments URL: https://news.ycombinator.com/item?id=27215653
-Points: 224
-# Comments: 177]]></summary>
+Points: 233
+# Comments: 184]]></summary>
         <author>
             <name>chris_f</name>
         </author>
@@ -253,36 +279,10 @@ Points: 224
         <updated>2021-05-19T23:00:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://landlock.io/
 Comments URL: https://news.ycombinator.com/item?id=27215563
-Points: 113
-# Comments: 57]]></summary>
+Points: 124
+# Comments: 61]]></summary>
         <author>
             <name>p4bl0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ansible 4.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27215477</id>
-        <link href="https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8"/>
-        <updated>2021-05-19T22:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8
-Comments URL: https://news.ycombinator.com/item?id=27215477
-Points: 173
-# Comments: 122]]></summary>
-        <author>
-            <name>AJAlabs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patricia’s Perfect Pull: A Crystal Grower’s Story]]></title>
-        <id>https://news.ycombinator.com/item?id=27215348</id>
-        <link href="https://computerhistory.org/blog/patricias-perfect-pull/"/>
-        <updated>2021-05-19T22:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://computerhistory.org/blog/patricias-perfect-pull/
-Comments URL: https://news.ycombinator.com/item?id=27215348
-Points: 79
-# Comments: 3]]></summary>
-        <author>
-            <name>sohkamyung</name>
         </author>
     </entry>
     <entry>
@@ -302,8 +302,8 @@ Points: 79
         <updated>2021-05-19T20:37:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/
 Comments URL: https://news.ycombinator.com/item?id=27214158
-Points: 95
-# Comments: 19]]></summary>
+Points: 100
+# Comments: 20]]></summary>
         <author>
             <name>privong</name>
         </author>
