@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T06:17:00.818Z</updated>
+    <updated>2021-05-20T07:20:12.298Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UK Rail services to come under unified state control]]></title>
+        <id>https://news.ycombinator.com/item?id=27218069</id>
+        <link href="https://www.bbc.com/news/business-57176858.html"/>
+        <updated>2021-05-20T06:33:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57176858.html
+Comments URL: https://news.ycombinator.com/item?id=27218069
+Points: 46
+# Comments: 28]]></summary>
+        <author>
+            <name>petewailes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ByteDance: TikTok's co-founder to step down as chief executive]]></title>
+        <id>https://news.ycombinator.com/item?id=27218009</id>
+        <link href="https://www.bbc.com/news/business-57181225"/>
+        <updated>2021-05-20T06:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57181225
+Comments URL: https://news.ycombinator.com/item?id=27218009
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>throwawaysea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[std::latch]]></title>
+        <id>https://news.ycombinator.com/item?id=27217877</id>
+        <link href="https://en.cppreference.com/w/cpp/thread/latch"/>
+        <updated>2021-05-20T05:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.cppreference.com/w/cpp/thread/latch
+Comments URL: https://news.ycombinator.com/item?id=27217877
+Points: 21
+# Comments: 16]]></summary>
+        <author>
+            <name>nickysielicki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breeze Ergonomic Keyboard by Afternoon Labs]]></title>
         <id>https://news.ycombinator.com/item?id=27217423</id>
@@ -13,8 +52,8 @@
         <updated>2021-05-20T04:37:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://afternoonlabs.com/breeze/
 Comments URL: https://news.ycombinator.com/item?id=27217423
-Points: 13
-# Comments: 10]]></summary>
+Points: 27
+# Comments: 26]]></summary>
         <author>
             <name>niedzielski</name>
         </author>
@@ -26,8 +65,8 @@ Points: 13
         <updated>2021-05-20T04:09:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html
 Comments URL: https://news.ycombinator.com/item?id=27217283
-Points: 5
-# Comments: 0]]></summary>
+Points: 15
+# Comments: 3]]></summary>
         <author>
             <name>ChrisArchitect</name>
         </author>
@@ -39,8 +78,8 @@ Points: 5
         <updated>2021-05-20T02:21:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=HfXK0Y9xHBI
 Comments URL: https://news.ycombinator.com/item?id=27216631
-Points: 131
-# Comments: 78]]></summary>
+Points: 158
+# Comments: 91]]></summary>
         <author>
             <name>josephcsible</name>
         </author>
@@ -52,23 +91,10 @@ Points: 131
         <updated>2021-05-20T01:42:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openflexure.org/projects/microscope/
 Comments URL: https://news.ycombinator.com/item?id=27216452
-Points: 29
-# Comments: 2]]></summary>
+Points: 36
+# Comments: 3]]></summary>
         <author>
             <name>fybs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nikola Tesla invention from 100 years ago suddenly makes more sense today]]></title>
-        <id>https://news.ycombinator.com/item?id=27215894</id>
-        <link href="https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/"/>
-        <updated>2021-05-19T23:57:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/
-Comments URL: https://news.ycombinator.com/item?id=27215894
-Points: 139
-# Comments: 31]]></summary>
-        <author>
-            <name>hirundo</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +104,8 @@ Points: 139
         <updated>2021-05-19T23:22:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://0pointer.net/blog/file-descriptor-limits.html
 Comments URL: https://news.ycombinator.com/item?id=27215690
-Points: 118
-# Comments: 47]]></summary>
+Points: 138
+# Comments: 52]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -113,8 +139,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T23:15:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/products/search/introducing-mum/
 Comments URL: https://news.ycombinator.com/item?id=27215653
-Points: 170
-# Comments: 144]]></summary>
+Points: 179
+# Comments: 152]]></summary>
         <author>
             <name>chris_f</name>
         </author>
@@ -126,23 +152,10 @@ Points: 170
         <updated>2021-05-19T23:00:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://landlock.io/
 Comments URL: https://news.ycombinator.com/item?id=27215563
-Points: 70
-# Comments: 29]]></summary>
+Points: 77
+# Comments: 32]]></summary>
         <author>
             <name>p4bl0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ansible 4.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27215477</id>
-        <link href="https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8"/>
-        <updated>2021-05-19T22:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8
-Comments URL: https://news.ycombinator.com/item?id=27215477
-Points: 125
-# Comments: 88]]></summary>
-        <author>
-            <name>AJAlabs</name>
         </author>
     </entry>
     <entry>
@@ -152,23 +165,10 @@ Points: 125
         <updated>2021-05-19T22:28:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://computerhistory.org/blog/patricias-perfect-pull/
 Comments URL: https://news.ycombinator.com/item?id=27215348
-Points: 51
+Points: 58
 # Comments: 3]]></summary>
         <author>
             <name>sohkamyung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Energy in the Future”: a time capsule of energy concerns from 1953]]></title>
-        <id>https://news.ycombinator.com/item?id=27214929</id>
-        <link href="https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/"/>
-        <updated>2021-05-19T21:47:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/
-Comments URL: https://news.ycombinator.com/item?id=27214929
-Points: 66
-# Comments: 48]]></summary>
-        <author>
-            <name>herogreen</name>
         </author>
     </entry>
     <entry>
@@ -178,8 +178,8 @@ Points: 66
         <updated>2021-05-19T21:12:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/
 Comments URL: https://news.ycombinator.com/item?id=27214507
-Points: 141
-# Comments: 36]]></summary>
+Points: 152
+# Comments: 41]]></summary>
         <author>
             <name>choult</name>
         </author>
@@ -214,7 +214,7 @@ Points: 1
         <updated>2021-05-19T20:43:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gamemath.com/
 Comments URL: https://news.ycombinator.com/item?id=27214221
-Points: 119
+Points: 135
 # Comments: 5]]></summary>
         <author>
             <name>noch</name>
@@ -227,8 +227,8 @@ Points: 119
         <updated>2021-05-19T20:37:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/
 Comments URL: https://news.ycombinator.com/item?id=27214158
-Points: 57
-# Comments: 5]]></summary>
+Points: 65
+# Comments: 10]]></summary>
         <author>
             <name>privong</name>
         </author>
@@ -240,8 +240,8 @@ Points: 57
         <updated>2021-05-19T18:54:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://adguard.com/en/blog/youtube-ads-in-safari-explained.html
 Comments URL: https://news.ycombinator.com/item?id=27212812
-Points: 174
-# Comments: 186]]></summary>
+Points: 185
+# Comments: 191]]></summary>
         <author>
             <name>taxyovio</name>
         </author>
@@ -253,8 +253,8 @@ Points: 174
         <updated>2021-05-19T18:10:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile
 Comments URL: https://news.ycombinator.com/item?id=27212278
-Points: 71
-# Comments: 51]]></summary>
+Points: 76
+# Comments: 52]]></summary>
         <author>
             <name>nomoreplease</name>
         </author>
@@ -266,8 +266,8 @@ Points: 71
         <updated>2021-05-19T18:10:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html
 Comments URL: https://news.ycombinator.com/item?id=27212270
-Points: 166
-# Comments: 108]]></summary>
+Points: 173
+# Comments: 114]]></summary>
         <author>
             <name>dsr12</name>
         </author>
@@ -279,8 +279,8 @@ Points: 166
         <updated>2021-05-19T18:00:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/
 Comments URL: https://news.ycombinator.com/item?id=27212127
-Points: 512
-# Comments: 225]]></summary>
+Points: 574
+# Comments: 233]]></summary>
         <author>
             <name>smukherjee19</name>
         </author>
@@ -302,8 +302,8 @@ Points: 512
         <updated>2021-05-19T16:25:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://9to5google.com/2021/05/19/chrome-follow-rss-feed/
 Comments URL: https://news.ycombinator.com/item?id=27210819
-Points: 168
-# Comments: 92]]></summary>
+Points: 183
+# Comments: 100]]></summary>
         <author>
             <name>Breadmaker</name>
         </author>

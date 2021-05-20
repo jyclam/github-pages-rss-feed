@@ -6,9 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27218069",
+          "author": "petewailes",
+          "description": "Article URL: https://www.bbc.com/news/business-57176858.html\nComments URL: https://news.ycombinator.com/item?id=27218069\nPoints: 46\n# Comments: 28",
+          "link": "https://www.bbc.com/news/business-57176858.html",
+          "publishedOn": "2021-05-20T06:33:22.000Z",
+          "wordCount": null,
+          "title": "UK Rail services to come under unified state control"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27218009",
+          "author": "throwawaysea",
+          "description": "Article URL: https://www.bbc.com/news/business-57181225\nComments URL: https://news.ycombinator.com/item?id=27218009\nPoints: 7\n# Comments: 0",
+          "link": "https://www.bbc.com/news/business-57181225",
+          "publishedOn": "2021-05-20T06:20:10.000Z",
+          "wordCount": 939,
+          "title": "ByteDance: TikTok's co-founder to step down as chief executive"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27217877",
+          "author": "nickysielicki",
+          "description": "Article URL: https://en.cppreference.com/w/cpp/thread/latch\nComments URL: https://news.ycombinator.com/item?id=27217877\nPoints: 21\n# Comments: 16",
+          "link": "https://en.cppreference.com/w/cpp/thread/latch",
+          "publishedOn": "2021-05-20T05:49:51.000Z",
+          "wordCount": 559,
+          "title": "std::latch"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27217423",
           "author": "niedzielski",
-          "description": "Article URL: https://afternoonlabs.com/breeze/\nComments URL: https://news.ycombinator.com/item?id=27217423\nPoints: 13\n# Comments: 10",
+          "description": "Article URL: https://afternoonlabs.com/breeze/\nComments URL: https://news.ycombinator.com/item?id=27217423\nPoints: 27\n# Comments: 26",
           "link": "https://afternoonlabs.com/breeze/",
           "publishedOn": "2021-05-20T04:37:27.000Z",
           "wordCount": 919,
@@ -17,7 +44,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27217283",
           "author": "ChrisArchitect",
-          "description": "Article URL: https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html\nComments URL: https://news.ycombinator.com/item?id=27217283\nPoints: 5\n# Comments: 0",
+          "description": "Article URL: https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html\nComments URL: https://news.ycombinator.com/item?id=27217283\nPoints: 15\n# Comments: 3",
           "link": "https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html",
           "publishedOn": "2021-05-20T04:09:46.000Z",
           "wordCount": 1251,
@@ -26,7 +53,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27216631",
           "author": "josephcsible",
-          "description": "Article URL: https://www.youtube.com/watch?v=HfXK0Y9xHBI\nComments URL: https://news.ycombinator.com/item?id=27216631\nPoints: 131\n# Comments: 78",
+          "description": "Article URL: https://www.youtube.com/watch?v=HfXK0Y9xHBI\nComments URL: https://news.ycombinator.com/item?id=27216631\nPoints: 158\n# Comments: 91",
           "link": "https://www.youtube.com/watch?v=HfXK0Y9xHBI",
           "publishedOn": "2021-05-20T02:21:37.000Z",
           "wordCount": 17,
@@ -35,25 +62,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27216452",
           "author": "fybs",
-          "description": "Article URL: https://openflexure.org/projects/microscope/\nComments URL: https://news.ycombinator.com/item?id=27216452\nPoints: 29\n# Comments: 2",
+          "description": "Article URL: https://openflexure.org/projects/microscope/\nComments URL: https://news.ycombinator.com/item?id=27216452\nPoints: 36\n# Comments: 3",
           "link": "https://openflexure.org/projects/microscope/",
           "publishedOn": "2021-05-20T01:42:36.000Z",
           "wordCount": 406,
           "title": "OpenFlexure Microscope, an open-source optical microscope"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27215894",
-          "author": "hirundo",
-          "description": "Article URL: https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/\nComments URL: https://news.ycombinator.com/item?id=27215894\nPoints: 139\n# Comments: 31",
-          "link": "https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/",
-          "publishedOn": "2021-05-19T23:57:04.000Z",
-          "wordCount": 1226,
-          "title": "Nikola Tesla invention from 100 years ago suddenly makes more sense today"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27215690",
           "author": "ingve",
-          "description": "Article URL: http://0pointer.net/blog/file-descriptor-limits.html\nComments URL: https://news.ycombinator.com/item?id=27215690\nPoints: 118\n# Comments: 47",
+          "description": "Article URL: http://0pointer.net/blog/file-descriptor-limits.html\nComments URL: https://news.ycombinator.com/item?id=27215690\nPoints: 138\n# Comments: 52",
           "link": "http://0pointer.net/blog/file-descriptor-limits.html",
           "publishedOn": "2021-05-19T23:22:45.000Z",
           "wordCount": 1403,
@@ -62,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27215653",
           "author": "chris_f",
-          "description": "Article URL: https://blog.google/products/search/introducing-mum/\nComments URL: https://news.ycombinator.com/item?id=27215653\nPoints: 170\n# Comments: 144",
+          "description": "Article URL: https://blog.google/products/search/introducing-mum/\nComments URL: https://news.ycombinator.com/item?id=27215653\nPoints: 179\n# Comments: 152",
           "link": "https://blog.google/products/search/introducing-mum/",
           "publishedOn": "2021-05-19T23:15:51.000Z",
           "wordCount": 1591,
@@ -71,43 +89,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27215563",
           "author": "p4bl0",
-          "description": "Article URL: https://landlock.io/\nComments URL: https://news.ycombinator.com/item?id=27215563\nPoints: 70\n# Comments: 29",
+          "description": "Article URL: https://landlock.io/\nComments URL: https://news.ycombinator.com/item?id=27215563\nPoints: 77\n# Comments: 32",
           "link": "https://landlock.io/",
           "publishedOn": "2021-05-19T23:00:10.000Z",
           "wordCount": 405,
           "title": "Landlock merged in mainline for Linux 5.13"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27215477",
-          "author": "AJAlabs",
-          "description": "Article URL: https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8\nComments URL: https://news.ycombinator.com/item?id=27215477\nPoints: 125\n# Comments: 88",
-          "link": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
-          "publishedOn": "2021-05-19T22:45:36.000Z",
-          "wordCount": 549,
-          "title": "Ansible 4.0"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27215348",
           "author": "sohkamyung",
-          "description": "Article URL: https://computerhistory.org/blog/patricias-perfect-pull/\nComments URL: https://news.ycombinator.com/item?id=27215348\nPoints: 51\n# Comments: 3",
+          "description": "Article URL: https://computerhistory.org/blog/patricias-perfect-pull/\nComments URL: https://news.ycombinator.com/item?id=27215348\nPoints: 58\n# Comments: 3",
           "link": "https://computerhistory.org/blog/patricias-perfect-pull/",
           "publishedOn": "2021-05-19T22:28:34.000Z",
           "wordCount": 2963,
           "title": "Patricia’s Perfect Pull: A Crystal Grower’s Story"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27214929",
-          "author": "herogreen",
-          "description": "Article URL: https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/\nComments URL: https://news.ycombinator.com/item?id=27214929\nPoints: 66\n# Comments: 48",
-          "link": "https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/",
-          "publishedOn": "2021-05-19T21:47:33.000Z",
-          "wordCount": 2136,
-          "title": "“Energy in the Future”: a time capsule of energy concerns from 1953"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27214507",
           "author": "choult",
-          "description": "Article URL: https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/\nComments URL: https://news.ycombinator.com/item?id=27214507\nPoints: 141\n# Comments: 36",
+          "description": "Article URL: https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/\nComments URL: https://news.ycombinator.com/item?id=27214507\nPoints: 152\n# Comments: 41",
           "link": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
           "publishedOn": "2021-05-19T21:12:07.000Z",
           "wordCount": 4351,
@@ -125,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27214221",
           "author": "noch",
-          "description": "Article URL: https://gamemath.com/\nComments URL: https://news.ycombinator.com/item?id=27214221\nPoints: 119\n# Comments: 5",
+          "description": "Article URL: https://gamemath.com/\nComments URL: https://news.ycombinator.com/item?id=27214221\nPoints: 135\n# Comments: 5",
           "link": "https://gamemath.com/",
           "publishedOn": "2021-05-19T20:43:42.000Z",
           "wordCount": 341,
@@ -134,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27214158",
           "author": "privong",
-          "description": "Article URL: https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/\nComments URL: https://news.ycombinator.com/item?id=27214158\nPoints: 57\n# Comments: 5",
+          "description": "Article URL: https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/\nComments URL: https://news.ycombinator.com/item?id=27214158\nPoints: 65\n# Comments: 10",
           "link": "https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/",
           "publishedOn": "2021-05-19T20:37:21.000Z",
           "wordCount": 1250,
@@ -143,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27212812",
           "author": "taxyovio",
-          "description": "Article URL: https://adguard.com/en/blog/youtube-ads-in-safari-explained.html\nComments URL: https://news.ycombinator.com/item?id=27212812\nPoints: 174\n# Comments: 186",
+          "description": "Article URL: https://adguard.com/en/blog/youtube-ads-in-safari-explained.html\nComments URL: https://news.ycombinator.com/item?id=27212812\nPoints: 185\n# Comments: 191",
           "link": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
           "publishedOn": "2021-05-19T18:54:05.000Z",
           "wordCount": 2749,
@@ -152,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27212278",
           "author": "nomoreplease",
-          "description": "Article URL: https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile\nComments URL: https://news.ycombinator.com/item?id=27212278\nPoints: 71\n# Comments: 51",
+          "description": "Article URL: https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile\nComments URL: https://news.ycombinator.com/item?id=27212278\nPoints: 76\n# Comments: 52",
           "link": "https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile",
           "publishedOn": "2021-05-19T18:10:56.000Z",
           "wordCount": 3178,
@@ -161,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27212270",
           "author": "dsr12",
-          "description": "Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html\nComments URL: https://news.ycombinator.com/item?id=27212270\nPoints: 166\n# Comments: 108",
+          "description": "Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html\nComments URL: https://news.ycombinator.com/item?id=27212270\nPoints: 173\n# Comments: 114",
           "link": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
           "publishedOn": "2021-05-19T18:10:21.000Z",
           "wordCount": 1452,
@@ -170,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27212127",
           "author": "smukherjee19",
-          "description": "Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/\nComments URL: https://news.ycombinator.com/item?id=27212127\nPoints: 512\n# Comments: 225",
+          "description": "Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/\nComments URL: https://news.ycombinator.com/item?id=27212127\nPoints: 574\n# Comments: 233",
           "link": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
           "publishedOn": "2021-05-19T18:00:24.000Z",
           "wordCount": 1789,
@@ -179,7 +179,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27210819",
           "author": "Breadmaker",
-          "description": "Article URL: https://9to5google.com/2021/05/19/chrome-follow-rss-feed/\nComments URL: https://news.ycombinator.com/item?id=27210819\nPoints: 168\n# Comments: 92",
+          "description": "Article URL: https://9to5google.com/2021/05/19/chrome-follow-rss-feed/\nComments URL: https://news.ycombinator.com/item?id=27210819\nPoints: 183\n# Comments: 100",
           "link": "https://9to5google.com/2021/05/19/chrome-follow-rss-feed/",
           "publishedOn": "2021-05-19T16:25:11.000Z",
           "wordCount": 774,
