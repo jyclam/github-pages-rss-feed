@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T12:20:50.268Z</updated>
+    <updated>2021-05-20T13:27:44.640Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nonnative English Speakers Share Their Gripes About Speaking English]]></title>
+        <id>https://news.ycombinator.com/item?id=27220433</id>
+        <link href="https://www.npr.org/sections/goatsandsoda/2021/05/16/995963311/prepone-that-your-accent-is-funny-readers-share-their-esl-stories"/>
+        <updated>2021-05-20T12:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/goatsandsoda/2021/05/16/995963311/prepone-that-your-accent-is-funny-readers-share-their-esl-stories
+Comments URL: https://news.ycombinator.com/item?id=27220433
+Points: 37
+# Comments: 33]]></summary>
+        <author>
+            <name>andersonvom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I Could Rewrite Curl”]]></title>
+        <id>https://news.ycombinator.com/item?id=27220136</id>
+        <link href="https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/"/>
+        <updated>2021-05-20T12:13:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/
+Comments URL: https://news.ycombinator.com/item?id=27220136
+Points: 129
+# Comments: 79]]></summary>
+        <author>
+            <name>TangerineDream</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Porter (YC S20) Is Hiring a FullStack Engineer]]></title>
         <id>https://news.ycombinator.com/item?id=27220023</id>
@@ -17,6 +43,19 @@ Points: 1
 # Comments: 0]]></summary>
         <author>
             <name>sungrokshim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Nyxt Browser 2.0.0]]></title>
+        <id>https://news.ycombinator.com/item?id=27219646</id>
+        <link href="https://nyxt.atlas.engineer/article/release-2.0.0.org"/>
+        <updated>2021-05-20T11:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nyxt.atlas.engineer/article/release-2.0.0.org
+Comments URL: https://news.ycombinator.com/item?id=27219646
+Points: 43
+# Comments: 12]]></summary>
+        <author>
+            <name>jmercouris</name>
         </author>
     </entry>
     <entry>
@@ -36,10 +75,23 @@ Points: 1
         <updated>2021-05-20T10:55:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-unexpected-black-swan-defect-soft.html
 Comments URL: https://news.ycombinator.com/item?id=27219585
-Points: 25
-# Comments: 4]]></summary>
+Points: 46
+# Comments: 19]]></summary>
         <author>
             <name>dnetesn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crash a Ryzen system in single line of tweetable PowerShell]]></title>
+        <id>https://news.ycombinator.com/item?id=27219152</id>
+        <link href="https://twitter.com/aionescu/status/1393798004151181312"/>
+        <updated>2021-05-20T09:32:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/aionescu/status/1393798004151181312
+Comments URL: https://news.ycombinator.com/item?id=27219152
+Points: 25
+# Comments: 8]]></summary>
+        <author>
+            <name>simon04</name>
         </author>
     </entry>
     <entry>
@@ -49,8 +101,8 @@ Points: 25
         <updated>2021-05-20T08:52:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ariadne.space/2021/05/20/the-whole-freenode-kerfluffle/
 Comments URL: https://news.ycombinator.com/item?id=27218912
-Points: 15
-# Comments: 1]]></summary>
+Points: 58
+# Comments: 30]]></summary>
         <author>
             <name>gbrown_</name>
         </author>
@@ -62,8 +114,8 @@ Points: 15
         <updated>2021-05-20T08:36:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.techpowerup.com/282422/tsmc-claims-breakthrough-on-1nm-chip-production
 Comments URL: https://news.ycombinator.com/item?id=27218812
-Points: 44
-# Comments: 22]]></summary>
+Points: 65
+# Comments: 38]]></summary>
         <author>
             <name>0-_-0</name>
         </author>
@@ -75,8 +127,8 @@ Points: 44
         <updated>2021-05-20T08:07:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newsweek.com/exclusive-inside-militarys-secret-undercover-army-1591881
 Comments URL: https://news.ycombinator.com/item?id=27218637
-Points: 33
-# Comments: 11]]></summary>
+Points: 48
+# Comments: 19]]></summary>
         <author>
             <name>graderjs</name>
         </author>
@@ -88,23 +140,10 @@ Points: 33
         <updated>2021-05-20T08:00:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/worlds-largest-iceberg-spotted-in-antarctica/a-57590031
 Comments URL: https://news.ycombinator.com/item?id=27218595
-Points: 13
-# Comments: 1]]></summary>
+Points: 22
+# Comments: 12]]></summary>
         <author>
             <name>the_70x</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saying Good Bye to Hey.com]]></title>
-        <id>https://news.ycombinator.com/item?id=27218295</id>
-        <link href="https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/"/>
-        <updated>2021-05-20T07:13:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/
-Comments URL: https://news.ycombinator.com/item?id=27218295
-Points: 128
-# Comments: 69]]></summary>
-        <author>
-            <name>tachyons</name>
         </author>
     </entry>
     <entry>
@@ -114,8 +153,8 @@ Points: 128
         <updated>2021-05-20T07:09:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores
 Comments URL: https://news.ycombinator.com/item?id=27218275
-Points: 143
-# Comments: 81]]></summary>
+Points: 169
+# Comments: 110]]></summary>
         <author>
             <name>gautamcgoel</name>
         </author>
@@ -127,8 +166,8 @@ Points: 143
         <updated>2021-05-20T06:33:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57176858
 Comments URL: https://news.ycombinator.com/item?id=27218069
-Points: 170
-# Comments: 245]]></summary>
+Points: 196
+# Comments: 271]]></summary>
         <author>
             <name>petewailes</name>
         </author>
@@ -140,23 +179,10 @@ Points: 170
         <updated>2021-05-20T06:20:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57181225
 Comments URL: https://news.ycombinator.com/item?id=27218009
-Points: 100
-# Comments: 39]]></summary>
+Points: 124
+# Comments: 50]]></summary>
         <author>
             <name>throwawaysea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook says I'm abusive content [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27216631</id>
-        <link href="https://www.youtube.com/watch?v=HfXK0Y9xHBI"/>
-        <updated>2021-05-20T02:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=HfXK0Y9xHBI
-Comments URL: https://news.ycombinator.com/item?id=27216631
-Points: 244
-# Comments: 149]]></summary>
-        <author>
-            <name>josephcsible</name>
         </author>
     </entry>
     <entry>
@@ -166,8 +192,8 @@ Points: 244
         <updated>2021-05-20T01:42:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openflexure.org/projects/microscope/
 Comments URL: https://news.ycombinator.com/item?id=27216452
-Points: 83
-# Comments: 23]]></summary>
+Points: 89
+# Comments: 26]]></summary>
         <author>
             <name>fybs</name>
         </author>
@@ -179,8 +205,8 @@ Points: 83
         <updated>2021-05-19T23:22:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://0pointer.net/blog/file-descriptor-limits.html
 Comments URL: https://news.ycombinator.com/item?id=27215690
-Points: 192
-# Comments: 71]]></summary>
+Points: 207
+# Comments: 76]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -214,8 +240,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T23:15:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/products/search/introducing-mum/
 Comments URL: https://news.ycombinator.com/item?id=27215653
-Points: 216
-# Comments: 167]]></summary>
+Points: 224
+# Comments: 177]]></summary>
         <author>
             <name>chris_f</name>
         </author>
@@ -227,8 +253,8 @@ Points: 216
         <updated>2021-05-19T23:00:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://landlock.io/
 Comments URL: https://news.ycombinator.com/item?id=27215563
-Points: 106
-# Comments: 53]]></summary>
+Points: 113
+# Comments: 57]]></summary>
         <author>
             <name>p4bl0</name>
         </author>
@@ -240,8 +266,8 @@ Points: 106
         <updated>2021-05-19T22:45:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8
 Comments URL: https://news.ycombinator.com/item?id=27215477
-Points: 167
-# Comments: 115]]></summary>
+Points: 173
+# Comments: 122]]></summary>
         <author>
             <name>AJAlabs</name>
         </author>
@@ -253,23 +279,10 @@ Points: 167
         <updated>2021-05-19T22:28:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://computerhistory.org/blog/patricias-perfect-pull/
 Comments URL: https://news.ycombinator.com/item?id=27215348
-Points: 77
+Points: 79
 # Comments: 3]]></summary>
         <author>
             <name>sohkamyung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Miss Shilling's Orifice” helped win the war (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27214507</id>
-        <link href="https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/"/>
-        <updated>2021-05-19T21:12:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/
-Comments URL: https://news.ycombinator.com/item?id=27214507
-Points: 194
-# Comments: 66]]></summary>
-        <author>
-            <name>choult</name>
         </author>
     </entry>
     <entry>
@@ -289,23 +302,10 @@ Points: 194
         <updated>2021-05-19T20:37:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/
 Comments URL: https://news.ycombinator.com/item?id=27214158
-Points: 92
+Points: 95
 # Comments: 19]]></summary>
         <author>
             <name>privong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Hail King Pokémon]]></title>
-        <id>https://news.ycombinator.com/item?id=27212278</id>
-        <link href="https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile"/>
-        <updated>2021-05-19T18:10:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile
-Comments URL: https://news.ycombinator.com/item?id=27212278
-Points: 81
-# Comments: 61]]></summary>
-        <author>
-            <name>nomoreplease</name>
         </author>
     </entry>
     <entry>
