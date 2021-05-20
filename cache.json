@@ -6,54 +6,63 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27219152",
+          "author": "simon04",
+          "description": "Article URL: https://twitter.com/aionescu/status/1393798004151181312\nComments URL: https://news.ycombinator.com/item?id=27219152\nPoints: 4\n# Comments: 0",
+          "link": "https://twitter.com/aionescu/status/1393798004151181312",
+          "publishedOn": "2021-05-20T09:32:12.000Z",
+          "wordCount": 196,
+          "title": "Crash a Ryzen system in single line of tweetable PowerShell"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27218940",
+          "author": "tosh",
+          "description": "Article URL: https://techxplore.com/news/2021-05-robotic-thumb-brain-representation.html\nComments URL: https://news.ycombinator.com/item?id=27218940\nPoints: 5\n# Comments: 0",
+          "link": "https://techxplore.com/news/2021-05-robotic-thumb-brain-representation.html",
+          "publishedOn": "2021-05-20T08:57:56.000Z",
+          "wordCount": 1929,
+          "title": "Robotic 'Third Thumb' use can alter brain representation of the hand"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27218637",
+          "author": "graderjs",
+          "description": "Article URL: https://www.newsweek.com/exclusive-inside-militarys-secret-undercover-army-1591881\nComments URL: https://news.ycombinator.com/item?id=27218637\nPoints: 9\n# Comments: 0",
+          "link": "https://www.newsweek.com/exclusive-inside-militarys-secret-undercover-army-1591881",
+          "publishedOn": "2021-05-20T08:07:50.000Z",
+          "wordCount": 4535,
+          "title": "Exclusive: Inside the Military's Secret Undercover Army"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27218295",
           "author": "tachyons",
-          "description": "Article URL: https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/\nComments URL: https://news.ycombinator.com/item?id=27218295\nPoints: 56\n# Comments: 8",
+          "description": "Article URL: https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/\nComments URL: https://news.ycombinator.com/item?id=27218295\nPoints: 83\n# Comments: 26",
           "link": "https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/",
           "publishedOn": "2021-05-20T07:13:28.000Z",
-          "wordCount": 1339,
+          "wordCount": 1347,
           "title": "Saying Good Bye to Hey.com"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27218275",
           "author": "gautamcgoel",
-          "description": "Article URL: https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores\nComments URL: https://news.ycombinator.com/item?id=27218275\nPoints: 64\n# Comments: 35",
+          "description": "Article URL: https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores\nComments URL: https://news.ycombinator.com/item?id=27218275\nPoints: 92\n# Comments: 54",
           "link": "https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores",
           "publishedOn": "2021-05-20T07:09:56.000Z",
-          "wordCount": 3466,
+          "wordCount": 3493,
           "title": "Ampere announces their next CPU will use custom microarchitecture instead of ARM"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27218069",
-          "author": "petewailes",
-          "description": "Article URL: https://www.bbc.com/news/business-57176858.html\nComments URL: https://news.ycombinator.com/item?id=27218069\nPoints: 120\n# Comments: 136",
-          "link": "https://www.bbc.com/news/business-57176858.html",
-          "publishedOn": "2021-05-20T06:33:22.000Z",
-          "wordCount": null,
-          "title": "UK Rail services to come under unified state control"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27218009",
           "author": "throwawaysea",
-          "description": "Article URL: https://www.bbc.com/news/business-57181225\nComments URL: https://news.ycombinator.com/item?id=27218009\nPoints: 43\n# Comments: 13",
+          "description": "Article URL: https://www.bbc.com/news/business-57181225\nComments URL: https://news.ycombinator.com/item?id=27218009\nPoints: 61\n# Comments: 23",
           "link": "https://www.bbc.com/news/business-57181225",
           "publishedOn": "2021-05-20T06:20:10.000Z",
-          "wordCount": 938,
-          "title": "ByteDance: TikTok's co-founder to step down as chief executive"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27217877",
-          "author": "nickysielicki",
-          "description": "Article URL: https://en.cppreference.com/w/cpp/thread/latch\nComments URL: https://news.ycombinator.com/item?id=27217877\nPoints: 47\n# Comments: 51",
-          "link": "https://en.cppreference.com/w/cpp/thread/latch",
-          "publishedOn": "2021-05-20T05:49:51.000Z",
-          "wordCount": 559,
-          "title": "std::latch"
+          "wordCount": 965,
+          "title": "TikTok's co-founder to step down as chief executive"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27217283",
           "author": "ChrisArchitect",
-          "description": "Article URL: https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html\nComments URL: https://news.ycombinator.com/item?id=27217283\nPoints: 21\n# Comments: 4",
+          "description": "Article URL: https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html\nComments URL: https://news.ycombinator.com/item?id=27217283\nPoints: 29\n# Comments: 6",
           "link": "https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html",
           "publishedOn": "2021-05-20T04:09:46.000Z",
           "wordCount": 1251,
@@ -62,7 +71,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27216631",
           "author": "josephcsible",
-          "description": "Article URL: https://www.youtube.com/watch?v=HfXK0Y9xHBI\nComments URL: https://news.ycombinator.com/item?id=27216631\nPoints: 194\n# Comments: 112",
+          "description": "Article URL: https://www.youtube.com/watch?v=HfXK0Y9xHBI\nComments URL: https://news.ycombinator.com/item?id=27216631\nPoints: 204\n# Comments: 121",
           "link": "https://www.youtube.com/watch?v=HfXK0Y9xHBI",
           "publishedOn": "2021-05-20T02:21:37.000Z",
           "wordCount": 17,
@@ -71,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27216452",
           "author": "fybs",
-          "description": "Article URL: https://openflexure.org/projects/microscope/\nComments URL: https://news.ycombinator.com/item?id=27216452\nPoints: 55\n# Comments: 10",
+          "description": "Article URL: https://openflexure.org/projects/microscope/\nComments URL: https://news.ycombinator.com/item?id=27216452\nPoints: 61\n# Comments: 16",
           "link": "https://openflexure.org/projects/microscope/",
           "publishedOn": "2021-05-20T01:42:36.000Z",
           "wordCount": 406,
@@ -80,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27215690",
           "author": "ingve",
-          "description": "Article URL: http://0pointer.net/blog/file-descriptor-limits.html\nComments URL: https://news.ycombinator.com/item?id=27215690\nPoints: 151\n# Comments: 56",
+          "description": "Article URL: http://0pointer.net/blog/file-descriptor-limits.html\nComments URL: https://news.ycombinator.com/item?id=27215690\nPoints: 161\n# Comments: 60",
           "link": "http://0pointer.net/blog/file-descriptor-limits.html",
           "publishedOn": "2021-05-19T23:22:45.000Z",
           "wordCount": 1403,
@@ -89,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27215653",
           "author": "chris_f",
-          "description": "Article URL: https://blog.google/products/search/introducing-mum/\nComments URL: https://news.ycombinator.com/item?id=27215653\nPoints: 192\n# Comments: 155",
+          "description": "Article URL: https://blog.google/products/search/introducing-mum/\nComments URL: https://news.ycombinator.com/item?id=27215653\nPoints: 198\n# Comments: 163",
           "link": "https://blog.google/products/search/introducing-mum/",
           "publishedOn": "2021-05-19T23:15:51.000Z",
           "wordCount": 1591,
@@ -98,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27215563",
           "author": "p4bl0",
-          "description": "Article URL: https://landlock.io/\nComments URL: https://news.ycombinator.com/item?id=27215563\nPoints: 87\n# Comments: 41",
+          "description": "Article URL: https://landlock.io/\nComments URL: https://news.ycombinator.com/item?id=27215563\nPoints: 93\n# Comments: 45",
           "link": "https://landlock.io/",
           "publishedOn": "2021-05-19T23:00:10.000Z",
           "wordCount": 405,
@@ -107,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27215348",
           "author": "sohkamyung",
-          "description": "Article URL: https://computerhistory.org/blog/patricias-perfect-pull/\nComments URL: https://news.ycombinator.com/item?id=27215348\nPoints: 63\n# Comments: 3",
+          "description": "Article URL: https://computerhistory.org/blog/patricias-perfect-pull/\nComments URL: https://news.ycombinator.com/item?id=27215348\nPoints: 66\n# Comments: 3",
           "link": "https://computerhistory.org/blog/patricias-perfect-pull/",
           "publishedOn": "2021-05-19T22:28:34.000Z",
           "wordCount": 2963,
@@ -116,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27214507",
           "author": "choult",
-          "description": "Article URL: https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/\nComments URL: https://news.ycombinator.com/item?id=27214507\nPoints: 167\n# Comments: 50",
+          "description": "Article URL: https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/\nComments URL: https://news.ycombinator.com/item?id=27214507\nPoints: 172\n# Comments: 57",
           "link": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
           "publishedOn": "2021-05-19T21:12:07.000Z",
           "wordCount": 4351,
@@ -134,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27214221",
           "author": "noch",
-          "description": "Article URL: https://gamemath.com/\nComments URL: https://news.ycombinator.com/item?id=27214221\nPoints: 152\n# Comments: 7",
+          "description": "Article URL: https://gamemath.com/\nComments URL: https://news.ycombinator.com/item?id=27214221\nPoints: 156\n# Comments: 7",
           "link": "https://gamemath.com/",
           "publishedOn": "2021-05-19T20:43:42.000Z",
           "wordCount": 341,
@@ -143,47 +152,38 @@
         {
           "id": "https://news.ycombinator.com/item?id=27214158",
           "author": "privong",
-          "description": "Article URL: https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/\nComments URL: https://news.ycombinator.com/item?id=27214158\nPoints: 80\n# Comments: 14",
+          "description": "Article URL: https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/\nComments URL: https://news.ycombinator.com/item?id=27214158\nPoints: 84\n# Comments: 16",
           "link": "https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/",
           "publishedOn": "2021-05-19T20:37:21.000Z",
           "wordCount": 1302,
           "title": "FemtoStar: Taking Aim for the Stars"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27212812",
-          "author": "taxyovio",
-          "description": "Article URL: https://adguard.com/en/blog/youtube-ads-in-safari-explained.html\nComments URL: https://news.ycombinator.com/item?id=27212812\nPoints: 197\n# Comments: 210",
-          "link": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
-          "publishedOn": "2021-05-19T18:54:05.000Z",
-          "wordCount": 2749,
-          "title": "YouTube ads in Safari: you see them now, will you see them in the future?"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27212278",
           "author": "nomoreplease",
-          "description": "Article URL: https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile\nComments URL: https://news.ycombinator.com/item?id=27212278\nPoints: 77\n# Comments: 53",
+          "description": "Article URL: https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile\nComments URL: https://news.ycombinator.com/item?id=27212278\nPoints: 79\n# Comments: 54",
           "link": "https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile",
           "publishedOn": "2021-05-19T18:10:56.000Z",
           "wordCount": 3178,
           "title": "All Hail King Pokémon"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27212270",
-          "author": "dsr12",
-          "description": "Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html\nComments URL: https://news.ycombinator.com/item?id=27212270\nPoints: 178\n# Comments: 118",
-          "link": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
-          "publishedOn": "2021-05-19T18:10:21.000Z",
-          "wordCount": 1452,
-          "title": "Sharing learnings about our image cropping algorithm"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27212127",
           "author": "smukherjee19",
-          "description": "Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/\nComments URL: https://news.ycombinator.com/item?id=27212127\nPoints: 615\n# Comments: 244",
+          "description": "Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/\nComments URL: https://news.ycombinator.com/item?id=27212127\nPoints: 635\n# Comments: 255",
           "link": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
           "publishedOn": "2021-05-19T18:00:24.000Z",
           "wordCount": 1789,
           "title": "Internet Explorer 11 (IE11) to be retired on June 15, 2022"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27209536",
+          "author": "pepys",
+          "description": "Article URL: https://www.thenation.com/article/culture/graham-greene-unquiet-englishman/\nComments URL: https://news.ycombinator.com/item?id=27209536\nPoints: 4\n# Comments: 0",
+          "link": "https://www.thenation.com/article/culture/graham-greene-unquiet-englishman/",
+          "publishedOn": "2021-05-19T14:55:57.000Z",
+          "wordCount": 4379,
+          "title": "A Cold Heaven: Graham Greene’s God"
         }
       ]
     },

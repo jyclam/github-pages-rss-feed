@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T09:14:57.205Z</updated>
+    <updated>2021-05-20T10:15:00.948Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crash a Ryzen system in single line of tweetable PowerShell]]></title>
+        <id>https://news.ycombinator.com/item?id=27219152</id>
+        <link href="https://twitter.com/aionescu/status/1393798004151181312"/>
+        <updated>2021-05-20T09:32:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/aionescu/status/1393798004151181312
+Comments URL: https://news.ycombinator.com/item?id=27219152
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>simon04</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotic 'Third Thumb' use can alter brain representation of the hand]]></title>
+        <id>https://news.ycombinator.com/item?id=27218940</id>
+        <link href="https://techxplore.com/news/2021-05-robotic-thumb-brain-representation.html"/>
+        <updated>2021-05-20T08:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techxplore.com/news/2021-05-robotic-thumb-brain-representation.html
+Comments URL: https://news.ycombinator.com/item?id=27218940
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusive: Inside the Military's Secret Undercover Army]]></title>
+        <id>https://news.ycombinator.com/item?id=27218637</id>
+        <link href="https://www.newsweek.com/exclusive-inside-militarys-secret-undercover-army-1591881"/>
+        <updated>2021-05-20T08:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newsweek.com/exclusive-inside-militarys-secret-undercover-army-1591881
+Comments URL: https://news.ycombinator.com/item?id=27218637
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>graderjs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saying Good Bye to Hey.com]]></title>
         <id>https://news.ycombinator.com/item?id=27218295</id>
@@ -13,8 +52,8 @@
         <updated>2021-05-20T07:13:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/
 Comments URL: https://news.ycombinator.com/item?id=27218295
-Points: 56
-# Comments: 8]]></summary>
+Points: 83
+# Comments: 26]]></summary>
         <author>
             <name>tachyons</name>
         </author>
@@ -26,49 +65,23 @@ Points: 56
         <updated>2021-05-20T07:09:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores
 Comments URL: https://news.ycombinator.com/item?id=27218275
-Points: 64
-# Comments: 35]]></summary>
+Points: 92
+# Comments: 54]]></summary>
         <author>
             <name>gautamcgoel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK Rail services to come under unified state control]]></title>
-        <id>https://news.ycombinator.com/item?id=27218069</id>
-        <link href="https://www.bbc.com/news/business-57176858.html"/>
-        <updated>2021-05-20T06:33:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57176858.html
-Comments URL: https://news.ycombinator.com/item?id=27218069
-Points: 120
-# Comments: 136]]></summary>
-        <author>
-            <name>petewailes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ByteDance: TikTok's co-founder to step down as chief executive]]></title>
+        <title type="html"><![CDATA[TikTok's co-founder to step down as chief executive]]></title>
         <id>https://news.ycombinator.com/item?id=27218009</id>
         <link href="https://www.bbc.com/news/business-57181225"/>
         <updated>2021-05-20T06:20:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57181225
 Comments URL: https://news.ycombinator.com/item?id=27218009
-Points: 43
-# Comments: 13]]></summary>
+Points: 61
+# Comments: 23]]></summary>
         <author>
             <name>throwawaysea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[std::latch]]></title>
-        <id>https://news.ycombinator.com/item?id=27217877</id>
-        <link href="https://en.cppreference.com/w/cpp/thread/latch"/>
-        <updated>2021-05-20T05:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.cppreference.com/w/cpp/thread/latch
-Comments URL: https://news.ycombinator.com/item?id=27217877
-Points: 47
-# Comments: 51]]></summary>
-        <author>
-            <name>nickysielicki</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +91,8 @@ Points: 47
         <updated>2021-05-20T04:09:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html
 Comments URL: https://news.ycombinator.com/item?id=27217283
-Points: 21
-# Comments: 4]]></summary>
+Points: 29
+# Comments: 6]]></summary>
         <author>
             <name>ChrisArchitect</name>
         </author>
@@ -91,8 +104,8 @@ Points: 21
         <updated>2021-05-20T02:21:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=HfXK0Y9xHBI
 Comments URL: https://news.ycombinator.com/item?id=27216631
-Points: 194
-# Comments: 112]]></summary>
+Points: 204
+# Comments: 121]]></summary>
         <author>
             <name>josephcsible</name>
         </author>
@@ -104,8 +117,8 @@ Points: 194
         <updated>2021-05-20T01:42:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openflexure.org/projects/microscope/
 Comments URL: https://news.ycombinator.com/item?id=27216452
-Points: 55
-# Comments: 10]]></summary>
+Points: 61
+# Comments: 16]]></summary>
         <author>
             <name>fybs</name>
         </author>
@@ -117,8 +130,8 @@ Points: 55
         <updated>2021-05-19T23:22:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://0pointer.net/blog/file-descriptor-limits.html
 Comments URL: https://news.ycombinator.com/item?id=27215690
-Points: 151
-# Comments: 56]]></summary>
+Points: 161
+# Comments: 60]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -152,8 +165,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T23:15:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/products/search/introducing-mum/
 Comments URL: https://news.ycombinator.com/item?id=27215653
-Points: 192
-# Comments: 155]]></summary>
+Points: 198
+# Comments: 163]]></summary>
         <author>
             <name>chris_f</name>
         </author>
@@ -165,8 +178,8 @@ Points: 192
         <updated>2021-05-19T23:00:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://landlock.io/
 Comments URL: https://news.ycombinator.com/item?id=27215563
-Points: 87
-# Comments: 41]]></summary>
+Points: 93
+# Comments: 45]]></summary>
         <author>
             <name>p4bl0</name>
         </author>
@@ -178,7 +191,7 @@ Points: 87
         <updated>2021-05-19T22:28:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://computerhistory.org/blog/patricias-perfect-pull/
 Comments URL: https://news.ycombinator.com/item?id=27215348
-Points: 63
+Points: 66
 # Comments: 3]]></summary>
         <author>
             <name>sohkamyung</name>
@@ -191,8 +204,8 @@ Points: 63
         <updated>2021-05-19T21:12:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/
 Comments URL: https://news.ycombinator.com/item?id=27214507
-Points: 167
-# Comments: 50]]></summary>
+Points: 172
+# Comments: 57]]></summary>
         <author>
             <name>choult</name>
         </author>
@@ -227,7 +240,7 @@ Points: 1
         <updated>2021-05-19T20:43:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gamemath.com/
 Comments URL: https://news.ycombinator.com/item?id=27214221
-Points: 152
+Points: 156
 # Comments: 7]]></summary>
         <author>
             <name>noch</name>
@@ -240,23 +253,10 @@ Points: 152
         <updated>2021-05-19T20:37:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/
 Comments URL: https://news.ycombinator.com/item?id=27214158
-Points: 80
-# Comments: 14]]></summary>
+Points: 84
+# Comments: 16]]></summary>
         <author>
             <name>privong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube ads in Safari: you see them now, will you see them in the future?]]></title>
-        <id>https://news.ycombinator.com/item?id=27212812</id>
-        <link href="https://adguard.com/en/blog/youtube-ads-in-safari-explained.html"/>
-        <updated>2021-05-19T18:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://adguard.com/en/blog/youtube-ads-in-safari-explained.html
-Comments URL: https://news.ycombinator.com/item?id=27212812
-Points: 197
-# Comments: 210]]></summary>
-        <author>
-            <name>taxyovio</name>
         </author>
     </entry>
     <entry>
@@ -266,23 +266,10 @@ Points: 197
         <updated>2021-05-19T18:10:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile
 Comments URL: https://news.ycombinator.com/item?id=27212278
-Points: 77
-# Comments: 53]]></summary>
+Points: 79
+# Comments: 54]]></summary>
         <author>
             <name>nomoreplease</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing learnings about our image cropping algorithm]]></title>
-        <id>https://news.ycombinator.com/item?id=27212270</id>
-        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html"/>
-        <updated>2021-05-19T18:10:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html
-Comments URL: https://news.ycombinator.com/item?id=27212270
-Points: 178
-# Comments: 118]]></summary>
-        <author>
-            <name>dsr12</name>
         </author>
     </entry>
     <entry>
@@ -292,8 +279,8 @@ Points: 178
         <updated>2021-05-19T18:00:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/
 Comments URL: https://news.ycombinator.com/item?id=27212127
-Points: 615
-# Comments: 244]]></summary>
+Points: 635
+# Comments: 255]]></summary>
         <author>
             <name>smukherjee19</name>
         </author>
@@ -306,6 +293,19 @@ Points: 615
         <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
         <author>
             <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cold Heaven: Graham Greene’s God]]></title>
+        <id>https://news.ycombinator.com/item?id=27209536</id>
+        <link href="https://www.thenation.com/article/culture/graham-greene-unquiet-englishman/"/>
+        <updated>2021-05-19T14:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thenation.com/article/culture/graham-greene-unquiet-englishman/
+Comments URL: https://news.ycombinator.com/item?id=27209536
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>pepys</name>
         </author>
     </entry>
     <entry>
