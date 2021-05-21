@@ -6,18 +6,27 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27229171",
+          "author": "signa11",
+          "description": "Article URL: https://lwn.net/Articles/856044/\nComments URL: https://news.ycombinator.com/item?id=27229171\nPoints: 11\n# Comments: 1",
+          "link": "https://lwn.net/Articles/856044/",
+          "publishedOn": "2021-05-21T00:30:33.000Z",
+          "wordCount": 3874,
+          "title": "Holes in the WiFi"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27228550",
           "author": "danso",
-          "description": "Article URL: https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/\nComments URL: https://news.ycombinator.com/item?id=27228550\nPoints: 68\n# Comments: 39",
+          "description": "Article URL: https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/\nComments URL: https://news.ycombinator.com/item?id=27228550\nPoints: 100\n# Comments: 65",
           "link": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
           "publishedOn": "2021-05-20T23:05:07.000Z",
           "wordCount": 2273,
-          "title": "The Anus Is an Evolutionary Marvel"
+          "title": "The anus is an evolutionary marvel"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27227751",
           "author": "rmason",
-          "description": "Article URL: https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/\nComments URL: https://news.ycombinator.com/item?id=27227751\nPoints: 48\n# Comments: 8",
+          "description": "Article URL: https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/\nComments URL: https://news.ycombinator.com/item?id=27227751\nPoints: 54\n# Comments: 9",
           "link": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
           "publishedOn": "2021-05-20T21:44:18.000Z",
           "wordCount": 1839,
@@ -26,25 +35,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27227683",
           "author": "belter",
-          "description": "Article URL: https://ionescu007.github.io/SimpleVisor/\nComments URL: https://news.ycombinator.com/item?id=27227683\nPoints: 54\n# Comments: 4",
+          "description": "Article URL: https://ionescu007.github.io/SimpleVisor/\nComments URL: https://news.ycombinator.com/item?id=27227683\nPoints: 75\n# Comments: 6",
           "link": "https://ionescu007.github.io/SimpleVisor/",
           "publishedOn": "2021-05-20T21:40:16.000Z",
           "wordCount": 1672,
           "title": "SimpleVisor – Intel VT-x hypervisor in 500 lines of C code"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27227498",
-          "author": "mritzmann",
-          "description": "Article URL: https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956\nComments URL: https://news.ycombinator.com/item?id=27227498\nPoints: 44\n# Comments: 16",
-          "link": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956",
-          "publishedOn": "2021-05-20T21:25:27.000Z",
-          "wordCount": 610,
-          "title": "Thunderbird stored OpenPGP secret keys without master password protection"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27227492",
           "author": "DoreenMichele",
-          "description": "Article URL: https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/\nComments URL: https://news.ycombinator.com/item?id=27227492\nPoints: 66\n# Comments: 12",
+          "description": "Article URL: https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/\nComments URL: https://news.ycombinator.com/item?id=27227492\nPoints: 84\n# Comments: 16",
           "link": "https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/",
           "publishedOn": "2021-05-20T21:25:03.000Z",
           "wordCount": 983,
@@ -62,7 +62,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27226751",
           "author": "paultgriffiths",
-          "description": "Article URL: https://science.sciencemag.org/content/early/2021/05/19/science.abg6296\nComments URL: https://news.ycombinator.com/item?id=27226751\nPoints: 175\n# Comments: 138",
+          "description": "Article URL: https://science.sciencemag.org/content/early/2021/05/19/science.abg6296\nComments URL: https://news.ycombinator.com/item?id=27226751\nPoints: 198\n# Comments: 170",
           "link": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
           "publishedOn": "2021-05-20T20:27:02.000Z",
           "wordCount": 6846,
@@ -71,16 +71,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27226625",
           "author": "lukastyrychtr",
-          "description": "Article URL: https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/\nComments URL: https://news.ycombinator.com/item?id=27226625\nPoints: 83\n# Comments: 5",
+          "description": "Article URL: https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/\nComments URL: https://news.ycombinator.com/item?id=27226625\nPoints: 105\n# Comments: 12",
           "link": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
           "publishedOn": "2021-05-20T20:18:32.000Z",
-          "wordCount": 1387,
+          "wordCount": 1503,
           "title": "Why RISC-V doesn't yet support KVM"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27226382",
           "author": "talawahtech",
-          "description": "Article URL: https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/\nComments URL: https://news.ycombinator.com/item?id=27226382\nPoints: 325\n# Comments: 45",
+          "description": "Article URL: https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/\nComments URL: https://news.ycombinator.com/item?id=27226382\nPoints: 415\n# Comments: 60",
           "link": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
           "publishedOn": "2021-05-20T20:01:28.000Z",
           "wordCount": 14589,
@@ -89,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27225789",
           "author": "geerlingguy",
-          "description": "Article URL: https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router\nComments URL: https://news.ycombinator.com/item?id=27225789\nPoints: 28\n# Comments: 5",
+          "description": "Article URL: https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router\nComments URL: https://news.ycombinator.com/item?id=27225789\nPoints: 45\n# Comments: 9",
           "link": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
           "publishedOn": "2021-05-20T19:20:29.000Z",
           "wordCount": 665,
@@ -98,16 +98,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27225739",
           "author": "rmason",
-          "description": "Article URL: https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/\nComments URL: https://news.ycombinator.com/item?id=27225739\nPoints: 200\n# Comments: 447",
+          "description": "Article URL: https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/\nComments URL: https://news.ycombinator.com/item?id=27225739\nPoints: 226\n# Comments: 512",
           "link": "https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/",
           "publishedOn": "2021-05-20T19:16:40.000Z",
-          "wordCount": 980,
+          "wordCount": 984,
           "title": "Five Oregon counties vote to leave state, create 'Greater Idaho'"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27224691",
           "author": "upwardbound",
-          "description": "Article URL: https://www.spectacles.com/new-spectacles\nComments URL: https://news.ycombinator.com/item?id=27224691\nPoints: 94\n# Comments: 93",
+          "description": "Article URL: https://www.spectacles.com/new-spectacles\nComments URL: https://news.ycombinator.com/item?id=27224691\nPoints: 102\n# Comments: 104",
           "link": "https://www.spectacles.com/new-spectacles",
           "publishedOn": "2021-05-20T18:00:05.000Z",
           "wordCount": 12,
@@ -116,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27224094",
           "author": "javierbyte",
-          "description": "Article URL: https://javier.xyz/pintr/\nComments URL: https://news.ycombinator.com/item?id=27224094\nPoints: 237\n# Comments: 39",
+          "description": "Article URL: https://javier.xyz/pintr/\nComments URL: https://news.ycombinator.com/item?id=27224094\nPoints: 260\n# Comments: 44",
           "link": "https://javier.xyz/pintr/",
           "publishedOn": "2021-05-20T17:22:33.000Z",
           "wordCount": 50,
@@ -125,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27223520",
           "author": "theafh",
-          "description": "Article URL: https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/\nComments URL: https://news.ycombinator.com/item?id=27223520\nPoints: 107\n# Comments: 66",
+          "description": "Article URL: https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/\nComments URL: https://news.ycombinator.com/item?id=27223520\nPoints: 117\n# Comments: 83",
           "link": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
           "publishedOn": "2021-05-20T16:43:51.000Z",
           "wordCount": 2634,
@@ -134,16 +134,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27223340",
           "author": "jwcooper",
-          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates\nComments URL: https://news.ycombinator.com/item?id=27223340\nPoints: 130\n# Comments: 43",
+          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates\nComments URL: https://news.ycombinator.com/item?id=27223340\nPoints: 141\n# Comments: 50",
           "link": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
           "publishedOn": "2021-05-20T16:31:47.000Z",
-          "wordCount": 3050,
+          "wordCount": 3119,
           "title": "CRISPR Editing in Primates"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27223012",
           "author": "bpierre",
-          "description": "Article URL: https://blog.stackblitz.com/posts/introducing-webcontainers/\nComments URL: https://news.ycombinator.com/item?id=27223012\nPoints: 249\n# Comments: 138",
+          "description": "Article URL: https://blog.stackblitz.com/posts/introducing-webcontainers/\nComments URL: https://news.ycombinator.com/item?id=27223012\nPoints: 267\n# Comments: 154",
           "link": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
           "publishedOn": "2021-05-20T16:10:26.000Z",
           "wordCount": 1811,
@@ -155,22 +155,13 @@
           "description": "We're Tunde, Boateng, and Landon, the founders of YSplit (https://www.ysplit.com). We make it easy to share the cost of utility bills, subscriptions, phone plans & more. When your bill is due, we charge everyone their portion, and then we pay for it.\nWhile sharing an apartment with my co-founders during an internship, I was responsible for paying the gas, wifi & rent bills upfront and having everyone Venmo me back. Tracking how much I was owed and getting everyone to pay me back took up a fair amount of tim…",
           "link": "https://news.ycombinator.com/item?id=27222985",
           "publishedOn": "2021-05-20T16:08:30.000Z",
-          "wordCount": 4179,
+          "wordCount": 4571,
           "title": "Launch HN: YSplit (YC W19) – Automatically split and pay any bill"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27222460",
-          "author": "bpierre",
-          "description": "Article URL: https://v2.parceljs.org/blog/beta3/\nComments URL: https://news.ycombinator.com/item?id=27222460\nPoints: 226\n# Comments: 60",
-          "link": "https://v2.parceljs.org/blog/beta3/",
-          "publishedOn": "2021-05-20T15:31:22.000Z",
-          "wordCount": 1972,
-          "title": "Parcel 2 Beta 3 – improved build performance"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27222457",
           "author": "mcp_",
-          "description": "Article URL: https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits\nComments URL: https://news.ycombinator.com/item?id=27222457\nPoints: 256\n# Comments: 62",
+          "description": "Article URL: https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits\nComments URL: https://news.ycombinator.com/item?id=27222457\nPoints: 277\n# Comments: 64",
           "link": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
           "publishedOn": "2021-05-20T15:31:06.000Z",
           "wordCount": 3655,
@@ -179,11 +170,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27221552",
           "author": "zdw",
-          "description": "Article URL: https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/\nComments URL: https://news.ycombinator.com/item?id=27221552\nPoints: 132\n# Comments: 286",
+          "description": "Article URL: https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/\nComments URL: https://news.ycombinator.com/item?id=27221552\nPoints: 150\n# Comments: 315",
           "link": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
           "publishedOn": "2021-05-20T14:29:55.000Z",
           "wordCount": 1980,
           "title": "Undefined behavior in C is a reading error"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27220789",
+          "author": "sampo",
+          "description": "Article URL: https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators\nComments URL: https://news.ycombinator.com/item?id=27220789\nPoints: 121\n# Comments: 153",
+          "link": "https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators",
+          "publishedOn": "2021-05-20T13:24:19.000Z",
+          "wordCount": 1326,
+          "title": "Native speakers are hard to understand in a lingua franca situation"
         }
       ]
     },
@@ -695,15 +695,6 @@
           "publishedOn": "2021-04-22T14:00:00.000Z",
           "wordCount": 1764,
           "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "author": "hello@smashingmagazine.com (Lee Robinson)",
-          "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
-          "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "publishedOn": "2021-04-21T13:55:00.000Z",
-          "wordCount": 1929,
-          "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
         }
       ]
     },
