@@ -2,34 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T14:13:58.271Z</updated>
+    <updated>2021-05-21T15:15:10.331Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Designing Domain Events]]></title>
-        <id>https://news.ycombinator.com/item?id=27233807</id>
-        <link href="https://medium.com/casaone-engineering/designing-domain-events-5efc6e25da52"/>
-        <updated>2021-05-21T13:37:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medium.com/casaone-engineering/designing-domain-events-5efc6e25da52
-Comments URL: https://news.ycombinator.com/item?id=27233807
-Points: 3
+        <title type="html"><![CDATA[Setting the record straight on Freenode [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27234542</id>
+        <link href="https://github.com/freenode/web-7.0/raw/main/static/files/on-freenode.pdf"/>
+        <updated>2021-05-21T14:38:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/freenode/web-7.0/raw/main/static/files/on-freenode.pdf
+Comments URL: https://news.ycombinator.com/item?id=27234542
+Points: 4
 # Comments: 0]]></summary>
         <author>
-            <name>endeepak</name>
+            <name>rasengan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 9.9 Percent Is the New American Aristocracy (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=27233436</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2018/06/the-birth-of-a-new-american-aristocracy/559130/"/>
-        <updated>2021-05-21T12:58:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/magazine/archive/2018/06/the-birth-of-a-new-american-aristocracy/559130/
-Comments URL: https://news.ycombinator.com/item?id=27233436
-Points: 18
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[Svelte for the Experienced React Dev]]></title>
+        <id>https://css-tricks.com/?p=340825</id>
+        <link href="https://css-tricks.com/svelte-for-the-experienced-react-dev/"/>
+        <updated>2021-05-21T14:30:59.000Z</updated>
+        <summary type="html"><![CDATA[This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …
+The post Svelte for the Experienced React Dev appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>GranularRecipe</name>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Hell]]></title>
+        <id>https://css-tricks.com/?p=340919</id>
+        <link href="https://csshell.dev/"/>
+        <updated>2021-05-21T14:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Collection of common CSS mistakes, and how to fix them
+From Stefánia Péter. 
+Clever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …
+The post CSS Hell appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Ford F-150 Lightning]]></title>
+        <id>https://news.ycombinator.com/item?id=27234039</id>
+        <link href="https://www.ford.com/trucks/f150/f150-lightning/2022/"/>
+        <updated>2021-05-21T13:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ford.com/trucks/f150/f150-lightning/2022/
+Comments URL: https://news.ycombinator.com/item?id=27234039
+Points: 116
+# Comments: 183]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Speed Internet at a Crossroads]]></title>
+        <id>https://news.ycombinator.com/item?id=27233899</id>
+        <link href="https://news.harvard.edu/gazette/story/2021/05/computer-science-expert-reviews-a-pandemic-stressed-internet/"/>
+        <updated>2021-05-21T13:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.harvard.edu/gazette/story/2021/05/computer-science-expert-reviews-a-pandemic-stressed-internet/
+Comments URL: https://news.ycombinator.com/item?id=27233899
+Points: 19
+# Comments: 3]]></summary>
+        <author>
+            <name>fortran77</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Journey (YC W21) – a better tool to buy and sell software]]></title>
+        <id>https://news.ycombinator.com/item?id=27233718</id>
+        <link href="https://news.ycombinator.com/item?id=27233718"/>
+        <updated>2021-05-21T13:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Hi, we’re pclark, bweitz and anilsevim, the founders of Journey (https://journey.io). We want to make buying and selling software a better experience. We do this by allowing sellers and marketers to embed all sorts of content - slides, videos, forms, calendars - into one sharable webpage.
+Sales people have a hard job, and we don’t think their tools help them enough -- as such, they have to rely on live meetings and phone calls. Which is annoying because a live phone call is pretty much the last thing I want…]]></summary>
+        <author>
+            <name>pclark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KELM: Integrating Knowledge Graphs with Language Model Pre-Training Corpora]]></title>
+        <id>https://news.ycombinator.com/item?id=27233470</id>
+        <link href="https://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html"/>
+        <updated>2021-05-21T13:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html
+Comments URL: https://news.ycombinator.com/item?id=27233470
+Points: 19
+# Comments: 2]]></summary>
+        <author>
+            <name>theafh</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +102,8 @@ Points: 18
         <updated>2021-05-21T12:36:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.13-UMN-Fixes
 Comments URL: https://news.ycombinator.com/item?id=27233229
-Points: 47
-# Comments: 14]]></summary>
+Points: 94
+# Comments: 34]]></summary>
         <author>
             <name>varbhat</name>
         </author>
@@ -52,8 +115,8 @@ Points: 47
         <updated>2021-05-21T12:17:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/Denver/comments/nh7s8f/but_not_in_colorado/
 Comments URL: https://news.ycombinator.com/item?id=27233073
-Points: 180
-# Comments: 166]]></summary>
+Points: 242
+# Comments: 227]]></summary>
         <author>
             <name>NCFZ</name>
         </author>
@@ -65,8 +128,8 @@ Points: 180
         <updated>2021-05-21T12:10:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.dev/learn/css/
 Comments URL: https://news.ycombinator.com/item?id=27233019
-Points: 252
-# Comments: 57]]></summary>
+Points: 360
+# Comments: 84]]></summary>
         <author>
             <name>markodenic</name>
         </author>
@@ -101,8 +164,8 @@ Points: 1
         <updated>2021-05-21T10:40:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/GernotHeiser/status/1395517697689931780
 Comments URL: https://news.ycombinator.com/item?id=27232401
-Points: 80
-# Comments: 26]]></summary>
+Points: 97
+# Comments: 31]]></summary>
         <author>
             <name>zekrioca</name>
         </author>
@@ -114,8 +177,8 @@ Points: 80
         <updated>2021-05-21T09:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries
 Comments URL: https://news.ycombinator.com/item?id=27232178
-Points: 114
-# Comments: 192]]></summary>
+Points: 139
+# Comments: 234]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -127,10 +190,23 @@ Points: 114
         <updated>2021-05-21T09:36:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/earthspecies/project
 Comments URL: https://news.ycombinator.com/item?id=27232047
-Points: 21
-# Comments: 2]]></summary>
+Points: 31
+# Comments: 9]]></summary>
         <author>
             <name>polm23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby 3 JIT can make Rails faster]]></title>
+        <id>https://news.ycombinator.com/item?id=27231556</id>
+        <link href="https://k0kubun.medium.com/ruby-3-jit-can-make-rails-faster-756310f235a"/>
+        <updated>2021-05-21T08:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://k0kubun.medium.com/ruby-3-jit-can-make-rails-faster-756310f235a
+Comments URL: https://news.ycombinator.com/item?id=27231556
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>rguiscard</name>
         </author>
     </entry>
     <entry>
@@ -140,8 +216,8 @@ Points: 21
         <updated>2021-05-21T07:43:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eetimes.com/now-your-car-is-a-cybersecurity-risk-too/
 Comments URL: https://news.ycombinator.com/item?id=27231471
-Points: 110
-# Comments: 135]]></summary>
+Points: 132
+# Comments: 147]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -153,8 +229,8 @@ Points: 110
         <updated>2021-05-21T05:22:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://static1.squarespace.com/static/5835e608414fb5a615f828bb/t/5ff3cac7dc8f8e0b7122ff58/1609812690849/AmirSariri_JMP.pdf
 Comments URL: https://news.ycombinator.com/item?id=27230774
-Points: 71
-# Comments: 40]]></summary>
+Points: 76
+# Comments: 42]]></summary>
         <author>
             <name>georgecmu</name>
         </author>
@@ -166,8 +242,8 @@ Points: 71
         <updated>2021-05-21T04:13:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/ccgus/status/1395145361136644098
 Comments URL: https://news.ycombinator.com/item?id=27230427
-Points: 447
-# Comments: 217]]></summary>
+Points: 509
+# Comments: 238]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -179,8 +255,8 @@ Points: 447
         <updated>2021-05-21T03:35:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.os2museum.com/wp/dos-smb-client-performance/
 Comments URL: https://news.ycombinator.com/item?id=27230190
-Points: 60
-# Comments: 30]]></summary>
+Points: 65
+# Comments: 31]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -192,8 +268,8 @@ Points: 60
         <updated>2021-05-21T03:06:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sublimetext.com/blog/articles/sublime-text-4
 Comments URL: https://news.ycombinator.com/item?id=27230042
-Points: 1041
-# Comments: 453]]></summary>
+Points: 1122
+# Comments: 493]]></summary>
         <author>
             <name>ascom</name>
         </author>
@@ -205,8 +281,8 @@ Points: 1041
         <updated>2021-05-21T02:21:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
 Comments URL: https://news.ycombinator.com/item?id=27229836
-Points: 204
-# Comments: 40]]></summary>
+Points: 222
+# Comments: 41]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -218,36 +294,10 @@ Points: 204
         <updated>2021-05-21T01:13:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/rodrigo-brito/ninjabot
 Comments URL: https://news.ycombinator.com/item?id=27229436
-Points: 88
-# Comments: 44]]></summary>
+Points: 92
+# Comments: 47]]></summary>
         <author>
             <name>rodrigobrito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holes in the WiFi]]></title>
-        <id>https://news.ycombinator.com/item?id=27229171</id>
-        <link href="https://lwn.net/Articles/856044/"/>
-        <updated>2021-05-21T00:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/856044/
-Comments URL: https://news.ycombinator.com/item?id=27229171
-Points: 85
-# Comments: 8]]></summary>
-        <author>
-            <name>signa11</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The anus is an evolutionary marvel]]></title>
-        <id>https://news.ycombinator.com/item?id=27228550</id>
-        <link href="https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/"/>
-        <updated>2021-05-20T23:05:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/
-Comments URL: https://news.ycombinator.com/item?id=27228550
-Points: 261
-# Comments: 177]]></summary>
-        <author>
-            <name>danso</name>
         </author>
     </entry>
     <entry>
@@ -275,19 +325,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Extreme HTTP Performance Tuning]]></title>
-        <id>https://news.ycombinator.com/item?id=27226382</id>
-        <link href="https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/"/>
-        <updated>2021-05-20T20:01:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/
-Comments URL: https://news.ycombinator.com/item?id=27226382
-Points: 786
-# Comments: 126]]></summary>
-        <author>
-            <name>talawahtech</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
         <id>60a6b3ab906c5207e3a7f5fa</id>
         <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
@@ -295,19 +332,6 @@ Points: 786
         <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Tool that turns your images into plotter-like line drawings]]></title>
-        <id>https://news.ycombinator.com/item?id=27224094</id>
-        <link href="https://javier.xyz/pintr/"/>
-        <updated>2021-05-20T17:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://javier.xyz/pintr/
-Comments URL: https://news.ycombinator.com/item?id=27224094
-Points: 372
-# Comments: 62]]></summary>
-        <author>
-            <name>javierbyte</name>
         </author>
     </entry>
     <entry>
@@ -653,18 +677,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Boilerplates]]></title>
-        <id>https://css-tricks.com/?p=340403</id>
-        <link href="https://css-tricks.com/html-boilerplates/"/>
-        <updated>2021-05-14T14:13:07.000Z</updated>
-        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …
-The post HTML Boilerplates appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
         <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
         <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
@@ -672,20 +684,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
-        <id>https://css-tricks.com/?p=340490</id>
-        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
-        <updated>2021-05-13T23:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
-Firefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector 
-…
-The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
