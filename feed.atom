@@ -2,12 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T21:12:52.298Z</updated>
+    <updated>2021-05-21T22:14:14.072Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Substack is hiring technical recruiters to build the future of writing]]></title>
+        <title type="html"><![CDATA[PHP 3.0 Final is out]]></title>
+        <id>https://news.ycombinator.com/item?id=27240416</id>
+        <link href="http://web.archive.org/web/19980701120538/http://www.php.net/"/>
+        <updated>2021-05-21T21:51:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://web.archive.org/web/19980701120538/http://www.php.net/
+Comments URL: https://news.ycombinator.com/item?id=27240416
+Points: 4
+# Comments: 2]]></summary>
+        <author>
+            <name>xd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, Google and Microsoft wage war on right-to-repair laws]]></title>
+        <id>https://news.ycombinator.com/item?id=27240008</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws"/>
+        <updated>2021-05-21T21:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws
+Comments URL: https://news.ycombinator.com/item?id=27240008
+Points: 55
+# Comments: 17]]></summary>
+        <author>
+            <name>holmesworcester</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack (YC W18) is hiring technical recruiters to build the future of writing]]></title>
         <id>https://news.ycombinator.com/item?id=27239912</id>
         <link href="https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd"/>
         <updated>2021-05-21T21:00:33.000Z</updated>
@@ -26,8 +52,8 @@ Points: 1
         <updated>2021-05-21T20:30:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.protocol.com/apple-epic-trial/tim-cook-apple-epic-grilled
 Comments URL: https://news.ycombinator.com/item?id=27239550
-Points: 62
-# Comments: 25]]></summary>
+Points: 109
+# Comments: 111]]></summary>
         <author>
             <name>amaBasics</name>
         </author>
@@ -39,10 +65,23 @@ Points: 62
         <updated>2021-05-21T19:57:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wordhistories.net/2020/01/06/put-pipe-and-smoke/
 Comments URL: https://news.ycombinator.com/item?id=27239129
-Points: 19
-# Comments: 1]]></summary>
+Points: 40
+# Comments: 14]]></summary>
         <author>
             <name>doat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US to ramp up tracking of domestic extremism on social media]]></title>
+        <id>https://news.ycombinator.com/item?id=27238414</id>
+        <link href="https://apnews.com/article/media-social-media-race-and-ethnicity-racial-injustice-government-and-politics-d4c8d4cc7bc7789ffa77071458ade3fa"/>
+        <updated>2021-05-21T19:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/media-social-media-race-and-ethnicity-racial-injustice-government-and-politics-d4c8d4cc7bc7789ffa77071458ade3fa
+Comments URL: https://news.ycombinator.com/item?id=27238414
+Points: 39
+# Comments: 55]]></summary>
+        <author>
+            <name>oblib</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +91,8 @@ Points: 19
         <updated>2021-05-21T18:58:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flutterflow.io/launch
 Comments URL: https://news.ycombinator.com/item?id=27238381
-Points: 69
-# Comments: 31]]></summary>
+Points: 111
+# Comments: 43]]></summary>
         <author>
             <name>dested</name>
         </author>
@@ -65,8 +104,8 @@ Points: 69
         <updated>2021-05-21T18:52:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers
 Comments URL: https://news.ycombinator.com/item?id=27238289
-Points: 5
-# Comments: 0]]></summary>
+Points: 25
+# Comments: 2]]></summary>
         <author>
             <name>optimalsolver</name>
         </author>
@@ -78,36 +117,10 @@ Points: 5
         <updated>2021-05-21T18:09:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fastcompany.com/90151279/the-woman-supercomputer-designer-who-inspired-steve-jobs
 Comments URL: https://news.ycombinator.com/item?id=27237676
-Points: 35
-# Comments: 19]]></summary>
+Points: 42
+# Comments: 21]]></summary>
         <author>
             <name>rbanffy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaked emails show crime app Citizen is testing on-demand security force]]></title>
-        <id>https://news.ycombinator.com/item?id=27237520</id>
-        <link href="https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails"/>
-        <updated>2021-05-21T17:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails
-Comments URL: https://news.ycombinator.com/item?id=27237520
-Points: 198
-# Comments: 203]]></summary>
-        <author>
-            <name>codq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deadly fungi are an emerging microbe threat]]></title>
-        <id>https://news.ycombinator.com/item?id=27237205</id>
-        <link href="https://www.scientificamerican.com/article/deadly-fungi-are-the-newest-emerging-microbe-threat-all-over-the-world/"/>
-        <updated>2021-05-21T17:37:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/deadly-fungi-are-the-newest-emerging-microbe-threat-all-over-the-world/
-Comments URL: https://news.ycombinator.com/item?id=27237205
-Points: 99
-# Comments: 63]]></summary>
-        <author>
-            <name>laurex</name>
         </author>
     </entry>
     <entry>
@@ -117,8 +130,8 @@ Points: 99
         <updated>2021-05-21T17:12:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lord.io/text-editing-hates-you-too/
 Comments URL: https://news.ycombinator.com/item?id=27236874
-Points: 150
-# Comments: 48]]></summary>
+Points: 172
+# Comments: 72]]></summary>
         <author>
             <name>tate</name>
         </author>
@@ -131,7 +144,7 @@ Points: 150
         <summary type="html"><![CDATA[Article URL: https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/
 Comments URL: https://news.ycombinator.com/item?id=27236251
 Points: 40
-# Comments: 30]]></summary>
+# Comments: 39]]></summary>
         <author>
             <name>empressplay</name>
         </author>
@@ -143,8 +156,8 @@ Points: 40
         <updated>2021-05-21T16:14:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://voice2json.org/
 Comments URL: https://news.ycombinator.com/item?id=27235970
-Points: 255
-# Comments: 56]]></summary>
+Points: 296
+# Comments: 66]]></summary>
         <author>
             <name>easrng</name>
         </author>
@@ -156,8 +169,8 @@ Points: 255
         <updated>2021-05-21T16:11:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.artvee.com/?
 Comments URL: https://news.ycombinator.com/item?id=27235918
-Points: 134
-# Comments: 18]]></summary>
+Points: 154
+# Comments: 19]]></summary>
         <author>
             <name>ndtut</name>
         </author>
@@ -179,23 +192,10 @@ Points: 134
         <updated>2021-05-21T15:30:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/21/22447328/twitter-ticketed-spaces-monetization-stripe-approval
 Comments URL: https://news.ycombinator.com/item?id=27235321
-Points: 81
-# Comments: 73]]></summary>
+Points: 89
+# Comments: 87]]></summary>
         <author>
             <name>t3rabytes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50B birds live on Earth, new study finds]]></title>
-        <id>https://news.ycombinator.com/item?id=27235135</id>
-        <link href="https://www.dw.com/en/50-billion-birds-live-on-earth-new-study-finds/a-57564439"/>
-        <updated>2021-05-21T15:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/50-billion-birds-live-on-earth-new-study-finds/a-57564439
-Comments URL: https://news.ycombinator.com/item?id=27235135
-Points: 56
-# Comments: 53]]></summary>
-        <author>
-            <name>Breadmaker</name>
         </author>
     </entry>
     <entry>
@@ -205,8 +205,8 @@ Points: 56
         <updated>2021-05-21T14:54:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lemire.me/blog/2021/05/21/counting-the-number-of-matching-characters-in-two-ascii-strings/
 Comments URL: https://news.ycombinator.com/item?id=27234806
-Points: 65
-# Comments: 38]]></summary>
+Points: 69
+# Comments: 41]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -218,8 +218,8 @@ Points: 65
         <updated>2021-05-21T14:51:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ephtracy.github.io/index.html?page=magicacsg
 Comments URL: https://news.ycombinator.com/item?id=27234755
-Points: 45
-# Comments: 5]]></summary>
+Points: 49
+# Comments: 8]]></summary>
         <author>
             <name>xemoka</name>
         </author>
@@ -257,8 +257,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-21T13:57:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ford.com/trucks/f150/f150-lightning/2022/
 Comments URL: https://news.ycombinator.com/item?id=27234039
-Points: 467
-# Comments: 1065]]></summary>
+Points: 513
+# Comments: 1141]]></summary>
         <author>
             <name>awb</name>
         </author>
@@ -270,8 +270,8 @@ Points: 467
         <updated>2021-05-21T13:43:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.harvard.edu/gazette/story/2021/05/computer-science-expert-reviews-a-pandemic-stressed-internet/
 Comments URL: https://news.ycombinator.com/item?id=27233899
-Points: 43
-# Comments: 57]]></summary>
+Points: 45
+# Comments: 65]]></summary>
         <author>
             <name>fortran77</name>
         </author>
@@ -293,7 +293,7 @@ Points: 43
         <updated>2021-05-21T13:01:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html
 Comments URL: https://news.ycombinator.com/item?id=27233470
-Points: 64
+Points: 65
 # Comments: 7]]></summary>
         <author>
             <name>theafh</name>
