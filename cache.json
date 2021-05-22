@@ -6,18 +6,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27249082",
+          "author": "Aaronmacaron",
+          "description": "Article URL: https://instruments.digital/inflation-adjusted-hn/\nComments URL: https://news.ycombinator.com/item?id=27249082\nPoints: 26\n# Comments: 10",
+          "link": "https://instruments.digital/inflation-adjusted-hn/",
+          "publishedOn": "2021-05-22T18:30:57.000Z",
+          "wordCount": 382,
+          "title": "Inflation Adjusted Hacker News"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27249075",
+          "author": "luke2m",
+          "description": "Article URL: http://www.kolibrios.org/en/\nComments URL: https://news.ycombinator.com/item?id=27249075\nPoints: 26\n# Comments: 3",
+          "link": "http://www.kolibrios.org/en/",
+          "publishedOn": "2021-05-22T18:29:47.000Z",
+          "wordCount": 206,
+          "title": "KolibriOS"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27248960",
+          "author": "frabert",
+          "description": "Article URL: https://github.com/frabert/ClangQL\nComments URL: https://news.ycombinator.com/item?id=27248960\nPoints: 12\n# Comments: 3",
+          "link": "https://github.com/frabert/ClangQL",
+          "publishedOn": "2021-05-22T18:15:22.000Z",
+          "wordCount": 1389,
+          "title": "Show HN: Query C++ codebases using SQLite"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27248747",
+          "author": "alok-g",
+          "description": "Article URL: https://nv-tlabs.github.io/datasetGAN/\nComments URL: https://news.ycombinator.com/item?id=27248747\nPoints: 19\n# Comments: 2",
+          "link": "https://nv-tlabs.github.io/datasetGAN/",
+          "publishedOn": "2021-05-22T17:49:32.000Z",
+          "wordCount": 441,
+          "title": "Nvidia DatasetGAN, Efficient Labeled Data for AI Training"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27248678",
           "author": "tareqak",
-          "description": "Article URL: https://www.wsj.com/articles/bitcoin-miners-are-giving-new-life-to-old-fossil-fuel-power-plants-11621594803\nComments URL: https://news.ycombinator.com/item?id=27248678\nPoints: 28\n# Comments: 6",
+          "description": "Article URL: https://www.wsj.com/articles/bitcoin-miners-are-giving-new-life-to-old-fossil-fuel-power-plants-11621594803\nComments URL: https://news.ycombinator.com/item?id=27248678\nPoints: 57\n# Comments: 43",
           "link": "https://www.wsj.com/articles/bitcoin-miners-are-giving-new-life-to-old-fossil-fuel-power-plants-11621594803",
           "publishedOn": "2021-05-22T17:40:31.000Z",
-          "wordCount": 2343,
+          "wordCount": 1199,
           "title": "Bitcoin Miners Are Giving New Life to Old Fossil-Fuel Power Plants"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27248406",
           "author": "georgecmu",
-          "description": "Article URL: https://www.nature.com/articles/s41591-021-01377-8\nComments URL: https://news.ycombinator.com/item?id=27248406\nPoints: 14\n# Comments: 3",
+          "description": "Article URL: https://www.nature.com/articles/s41591-021-01377-8\nComments URL: https://news.ycombinator.com/item?id=27248406\nPoints: 28\n# Comments: 18",
           "link": "https://www.nature.com/articles/s41591-021-01377-8",
           "publishedOn": "2021-05-22T17:11:13.000Z",
           "wordCount": 10533,
@@ -26,7 +62,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27248383",
           "author": "Tomte",
-          "description": "Article URL: https://www.romanzolotarev.com/rssg.html\nComments URL: https://news.ycombinator.com/item?id=27248383\nPoints: 7\n# Comments: 0",
+          "description": "Article URL: https://www.romanzolotarev.com/rssg.html\nComments URL: https://news.ycombinator.com/item?id=27248383\nPoints: 16\n# Comments: 5",
           "link": "https://www.romanzolotarev.com/rssg.html",
           "publishedOn": "2021-05-22T17:09:17.000Z",
           "wordCount": 271,
@@ -44,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27248093",
           "author": "ReginaDeiPirati",
-          "description": "Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html\nComments URL: https://news.ycombinator.com/item?id=27248093\nPoints: 32\n# Comments: 7",
+          "description": "Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html\nComments URL: https://news.ycombinator.com/item?id=27248093\nPoints: 40\n# Comments: 20",
           "link": "https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html",
           "publishedOn": "2021-05-22T16:34:56.000Z",
           "wordCount": 1481,
@@ -53,16 +89,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27248059",
           "author": "h1x",
-          "description": "Article URL: https://lwn.net/Articles/853423/\nComments URL: https://news.ycombinator.com/item?id=27248059\nPoints: 64\n# Comments: 23",
+          "description": "Article URL: https://lwn.net/Articles/853423/\nComments URL: https://news.ycombinator.com/item?id=27248059\nPoints: 97\n# Comments: 59",
           "link": "https://lwn.net/Articles/853423/",
           "publishedOn": "2021-05-22T16:30:23.000Z",
-          "wordCount": 20166,
+          "wordCount": 20156,
           "title": "Rust heads into the kernel?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27247621",
           "author": "bananaoomarang",
-          "description": "Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring\nComments URL: https://news.ycombinator.com/item?id=27247621\nPoints: 142\n# Comments: 44",
+          "description": "Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring\nComments URL: https://news.ycombinator.com/item?id=27247621\nPoints: 176\n# Comments: 65",
           "link": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
           "publishedOn": "2021-05-22T15:47:37.000Z",
           "wordCount": 2370,
@@ -71,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27247612",
           "author": "todsacerdoti",
-          "description": "Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/\nComments URL: https://news.ycombinator.com/item?id=27247612\nPoints: 40\n# Comments: 15",
+          "description": "Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/\nComments URL: https://news.ycombinator.com/item?id=27247612\nPoints: 52\n# Comments: 22",
           "link": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
           "publishedOn": "2021-05-22T15:46:56.000Z",
           "wordCount": 1427,
@@ -80,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27247605",
           "author": "filoeleven",
-          "description": "Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution\nComments URL: https://news.ycombinator.com/item?id=27247605\nPoints: 17\n# Comments: 0",
+          "description": "Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution\nComments URL: https://news.ycombinator.com/item?id=27247605\nPoints: 32\n# Comments: 2",
           "link": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
           "publishedOn": "2021-05-22T15:46:33.000Z",
           "wordCount": 985,
@@ -89,25 +125,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27247386",
           "author": "philzook",
-          "description": "Article URL: https://www.philipzucker.com/minikanren-z3py/\nComments URL: https://news.ycombinator.com/item?id=27247386\nPoints: 20\n# Comments: 2",
+          "description": "Article URL: https://www.philipzucker.com/minikanren-z3py/\nComments URL: https://news.ycombinator.com/item?id=27247386\nPoints: 24\n# Comments: 3",
           "link": "https://www.philipzucker.com/minikanren-z3py/",
           "publishedOn": "2021-05-22T15:22:49.000Z",
           "wordCount": 1808,
           "title": "Making a “MiniKanren” using Z3Py (2021)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27245799",
-          "author": "xenocratus",
-          "description": "Article URL: https://perso.uclouvain.be/fstandae/PUBLIS/265.pdf\nComments URL: https://news.ycombinator.com/item?id=27245799\nPoints: 28\n# Comments: 33",
-          "link": "https://perso.uclouvain.be/fstandae/PUBLIS/265.pdf",
-          "publishedOn": "2021-05-22T12:19:11.000Z",
-          "wordCount": 22023,
-          "title": "Can fake news detection be accountable? [pdf]"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27245680",
           "author": "Jaxtek",
-          "description": "Article URL: https://nav.al/rich\nComments URL: https://news.ycombinator.com/item?id=27245680\nPoints: 98\n# Comments: 147",
+          "description": "Article URL: https://nav.al/rich\nComments URL: https://news.ycombinator.com/item?id=27245680\nPoints: 117\n# Comments: 188",
           "link": "https://nav.al/rich",
           "publishedOn": "2021-05-22T12:00:49.000Z",
           "wordCount": 43429,
@@ -116,25 +143,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27245662",
           "author": "polm23",
-          "description": "Article URL: https://compositor.bham.ac.uk/\nComments URL: https://news.ycombinator.com/item?id=27245662\nPoints: 28\n# Comments: 5",
+          "description": "Article URL: https://compositor.bham.ac.uk/\nComments URL: https://news.ycombinator.com/item?id=27245662\nPoints: 32\n# Comments: 5",
           "link": "https://compositor.bham.ac.uk/",
           "publishedOn": "2021-05-22T11:58:47.000Z",
           "wordCount": 242,
           "title": "Compositor: A database of eighteenth-century printers’ ornaments"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27245529",
-          "author": "zeristor",
-          "description": "Article URL: https://science.sciencemag.org/content/372/6544/874\nComments URL: https://news.ycombinator.com/item?id=27245529\nPoints: 102\n# Comments: 127",
-          "link": "https://science.sciencemag.org/content/372/6544/874",
-          "publishedOn": "2021-05-22T11:34:52.000Z",
-          "wordCount": 755,
-          "title": "The problem with ‘follow your dream’"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27245450",
           "author": "richardw",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun\nComments URL: https://news.ycombinator.com/item?id=27245450\nPoints: 106\n# Comments: 60",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun\nComments URL: https://news.ycombinator.com/item?id=27245450\nPoints: 120\n# Comments: 67",
           "link": "https://en.wikipedia.org/wiki/Initial-stress-derived_noun",
           "publishedOn": "2021-05-22T11:20:21.000Z",
           "wordCount": 1817,
@@ -143,43 +161,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27245310",
           "author": "ingve",
-          "description": "Article URL: https://github.com/p-e-w/plotinus\nComments URL: https://news.ycombinator.com/item?id=27245310\nPoints: 99\n# Comments: 29",
+          "description": "Article URL: https://github.com/p-e-w/plotinus\nComments URL: https://news.ycombinator.com/item?id=27245310\nPoints: 105\n# Comments: 29",
           "link": "https://github.com/p-e-w/plotinus",
           "publishedOn": "2021-05-22T10:52:00.000Z",
           "wordCount": 1593,
           "title": "Plotinus: A searchable command palette in every modern GTK+ application"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27245132",
-          "author": "teleforce",
-          "description": "Article URL: https://www.aacc.org/cln/articles/2020/april/why-clinical-laboratorians-should-embrace-the-r-programming-language\nComments URL: https://news.ycombinator.com/item?id=27245132\nPoints: 42\n# Comments: 53",
-          "link": "https://www.aacc.org/cln/articles/2020/april/why-clinical-laboratorians-should-embrace-the-r-programming-language",
-          "publishedOn": "2021-05-22T10:11:32.000Z",
-          "wordCount": 3281,
-          "title": "Why Clinical Laboratorians Should Embrace the R Programming Language"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27245090",
           "author": "dshipper",
-          "description": "Article URL: https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##\nComments URL: https://news.ycombinator.com/item?id=27245090\nPoints: 408\n# Comments: 278",
+          "description": "Article URL: https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##\nComments URL: https://news.ycombinator.com/item?id=27245090\nPoints: 427\n# Comments: 288",
           "link": "https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##",
           "publishedOn": "2021-05-22T10:01:20.000Z",
           "wordCount": 3671,
           "title": "Working at a startup is overrated, both financially and emotionally"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27244017",
-          "author": "lukastyrychtr",
-          "description": "Article URL: https://utopixel.games/en/blog/building-outer-wonders-for-linux/\nComments URL: https://news.ycombinator.com/item?id=27244017\nPoints: 101\n# Comments: 70",
-          "link": "https://utopixel.games/en/blog/building-outer-wonders-for-linux/",
-          "publishedOn": "2021-05-22T06:19:07.000Z",
-          "wordCount": 2353,
-          "title": "Building Outer Wonders for Linux"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27244004",
           "author": "ToJans",
-          "description": "Article URL: https://bellard.org/nncp/\nComments URL: https://news.ycombinator.com/item?id=27244004\nPoints: 350\n# Comments: 138",
+          "description": "Article URL: https://bellard.org/nncp/\nComments URL: https://news.ycombinator.com/item?id=27244004\nPoints: 358\n# Comments: 139",
           "link": "https://bellard.org/nncp/",
           "publishedOn": "2021-05-22T06:15:01.000Z",
           "wordCount": 216,

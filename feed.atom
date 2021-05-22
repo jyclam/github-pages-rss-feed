@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T18:31:07.424Z</updated>
+    <updated>2021-05-22T19:23:43.693Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inflation Adjusted Hacker News]]></title>
+        <id>https://news.ycombinator.com/item?id=27249082</id>
+        <link href="https://instruments.digital/inflation-adjusted-hn/"/>
+        <updated>2021-05-22T18:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://instruments.digital/inflation-adjusted-hn/
+Comments URL: https://news.ycombinator.com/item?id=27249082
+Points: 26
+# Comments: 10]]></summary>
+        <author>
+            <name>Aaronmacaron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KolibriOS]]></title>
+        <id>https://news.ycombinator.com/item?id=27249075</id>
+        <link href="http://www.kolibrios.org/en/"/>
+        <updated>2021-05-22T18:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.kolibrios.org/en/
+Comments URL: https://news.ycombinator.com/item?id=27249075
+Points: 26
+# Comments: 3]]></summary>
+        <author>
+            <name>luke2m</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Query C++ codebases using SQLite]]></title>
+        <id>https://news.ycombinator.com/item?id=27248960</id>
+        <link href="https://github.com/frabert/ClangQL"/>
+        <updated>2021-05-22T18:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/frabert/ClangQL
+Comments URL: https://news.ycombinator.com/item?id=27248960
+Points: 12
+# Comments: 3]]></summary>
+        <author>
+            <name>frabert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia DatasetGAN, Efficient Labeled Data for AI Training]]></title>
+        <id>https://news.ycombinator.com/item?id=27248747</id>
+        <link href="https://nv-tlabs.github.io/datasetGAN/"/>
+        <updated>2021-05-22T17:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nv-tlabs.github.io/datasetGAN/
+Comments URL: https://news.ycombinator.com/item?id=27248747
+Points: 19
+# Comments: 2]]></summary>
+        <author>
+            <name>alok-g</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Miners Are Giving New Life to Old Fossil-Fuel Power Plants]]></title>
         <id>https://news.ycombinator.com/item?id=27248678</id>
@@ -13,8 +65,8 @@
         <updated>2021-05-22T17:40:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/bitcoin-miners-are-giving-new-life-to-old-fossil-fuel-power-plants-11621594803
 Comments URL: https://news.ycombinator.com/item?id=27248678
-Points: 28
-# Comments: 6]]></summary>
+Points: 57
+# Comments: 43]]></summary>
         <author>
             <name>tareqak</name>
         </author>
@@ -26,8 +78,8 @@ Points: 28
         <updated>2021-05-22T17:11:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41591-021-01377-8
 Comments URL: https://news.ycombinator.com/item?id=27248406
-Points: 14
-# Comments: 3]]></summary>
+Points: 28
+# Comments: 18]]></summary>
         <author>
             <name>georgecmu</name>
         </author>
@@ -39,8 +91,8 @@ Points: 14
         <updated>2021-05-22T17:09:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.romanzolotarev.com/rssg.html
 Comments URL: https://news.ycombinator.com/item?id=27248383
-Points: 7
-# Comments: 0]]></summary>
+Points: 16
+# Comments: 5]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -65,8 +117,8 @@ Points: 1
         <updated>2021-05-22T16:34:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html
 Comments URL: https://news.ycombinator.com/item?id=27248093
-Points: 32
-# Comments: 7]]></summary>
+Points: 40
+# Comments: 20]]></summary>
         <author>
             <name>ReginaDeiPirati</name>
         </author>
@@ -78,8 +130,8 @@ Points: 32
         <updated>2021-05-22T16:30:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/853423/
 Comments URL: https://news.ycombinator.com/item?id=27248059
-Points: 64
-# Comments: 23]]></summary>
+Points: 97
+# Comments: 59]]></summary>
         <author>
             <name>h1x</name>
         </author>
@@ -91,8 +143,8 @@ Points: 64
         <updated>2021-05-22T15:47:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring
 Comments URL: https://news.ycombinator.com/item?id=27247621
-Points: 142
-# Comments: 44]]></summary>
+Points: 176
+# Comments: 65]]></summary>
         <author>
             <name>bananaoomarang</name>
         </author>
@@ -104,8 +156,8 @@ Points: 142
         <updated>2021-05-22T15:46:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/
 Comments URL: https://news.ycombinator.com/item?id=27247612
-Points: 40
-# Comments: 15]]></summary>
+Points: 52
+# Comments: 22]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -117,8 +169,8 @@ Points: 40
         <updated>2021-05-22T15:46:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution
 Comments URL: https://news.ycombinator.com/item?id=27247605
-Points: 17
-# Comments: 0]]></summary>
+Points: 32
+# Comments: 2]]></summary>
         <author>
             <name>filoeleven</name>
         </author>
@@ -130,23 +182,10 @@ Points: 17
         <updated>2021-05-22T15:22:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.philipzucker.com/minikanren-z3py/
 Comments URL: https://news.ycombinator.com/item?id=27247386
-Points: 20
-# Comments: 2]]></summary>
+Points: 24
+# Comments: 3]]></summary>
         <author>
             <name>philzook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can fake news detection be accountable? [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27245799</id>
-        <link href="https://perso.uclouvain.be/fstandae/PUBLIS/265.pdf"/>
-        <updated>2021-05-22T12:19:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://perso.uclouvain.be/fstandae/PUBLIS/265.pdf
-Comments URL: https://news.ycombinator.com/item?id=27245799
-Points: 28
-# Comments: 33]]></summary>
-        <author>
-            <name>xenocratus</name>
         </author>
     </entry>
     <entry>
@@ -156,8 +195,8 @@ Points: 28
         <updated>2021-05-22T12:00:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nav.al/rich
 Comments URL: https://news.ycombinator.com/item?id=27245680
-Points: 98
-# Comments: 147]]></summary>
+Points: 117
+# Comments: 188]]></summary>
         <author>
             <name>Jaxtek</name>
         </author>
@@ -169,23 +208,10 @@ Points: 98
         <updated>2021-05-22T11:58:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://compositor.bham.ac.uk/
 Comments URL: https://news.ycombinator.com/item?id=27245662
-Points: 28
+Points: 32
 # Comments: 5]]></summary>
         <author>
             <name>polm23</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The problem with ‘follow your dream’]]></title>
-        <id>https://news.ycombinator.com/item?id=27245529</id>
-        <link href="https://science.sciencemag.org/content/372/6544/874"/>
-        <updated>2021-05-22T11:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://science.sciencemag.org/content/372/6544/874
-Comments URL: https://news.ycombinator.com/item?id=27245529
-Points: 102
-# Comments: 127]]></summary>
-        <author>
-            <name>zeristor</name>
         </author>
     </entry>
     <entry>
@@ -195,8 +221,8 @@ Points: 102
         <updated>2021-05-22T11:20:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun
 Comments URL: https://news.ycombinator.com/item?id=27245450
-Points: 106
-# Comments: 60]]></summary>
+Points: 120
+# Comments: 67]]></summary>
         <author>
             <name>richardw</name>
         </author>
@@ -208,23 +234,10 @@ Points: 106
         <updated>2021-05-22T10:52:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/p-e-w/plotinus
 Comments URL: https://news.ycombinator.com/item?id=27245310
-Points: 99
+Points: 105
 # Comments: 29]]></summary>
         <author>
             <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Clinical Laboratorians Should Embrace the R Programming Language]]></title>
-        <id>https://news.ycombinator.com/item?id=27245132</id>
-        <link href="https://www.aacc.org/cln/articles/2020/april/why-clinical-laboratorians-should-embrace-the-r-programming-language"/>
-        <updated>2021-05-22T10:11:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.aacc.org/cln/articles/2020/april/why-clinical-laboratorians-should-embrace-the-r-programming-language
-Comments URL: https://news.ycombinator.com/item?id=27245132
-Points: 42
-# Comments: 53]]></summary>
-        <author>
-            <name>teleforce</name>
         </author>
     </entry>
     <entry>
@@ -234,23 +247,10 @@ Points: 42
         <updated>2021-05-22T10:01:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##
 Comments URL: https://news.ycombinator.com/item?id=27245090
-Points: 408
-# Comments: 278]]></summary>
+Points: 427
+# Comments: 288]]></summary>
         <author>
             <name>dshipper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Outer Wonders for Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=27244017</id>
-        <link href="https://utopixel.games/en/blog/building-outer-wonders-for-linux/"/>
-        <updated>2021-05-22T06:19:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://utopixel.games/en/blog/building-outer-wonders-for-linux/
-Comments URL: https://news.ycombinator.com/item?id=27244017
-Points: 101
-# Comments: 70]]></summary>
-        <author>
-            <name>lukastyrychtr</name>
         </author>
     </entry>
     <entry>
@@ -260,8 +260,8 @@ Points: 101
         <updated>2021-05-22T06:15:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bellard.org/nncp/
 Comments URL: https://news.ycombinator.com/item?id=27244004
-Points: 350
-# Comments: 138]]></summary>
+Points: 358
+# Comments: 139]]></summary>
         <author>
             <name>ToJans</name>
         </author>
