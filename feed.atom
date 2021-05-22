@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T23:14:17.423Z</updated>
+    <updated>2021-05-22T00:44:40.712Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
+        <id>https://css-tricks.com/?p=340991</id>
+        <link href="https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/"/>
+        <updated>2021-05-21T23:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …
+The post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[San Francisco’s Shoplifting Surge]]></title>
+        <id>https://news.ycombinator.com/item?id=27241085</id>
+        <link href="https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html"/>
+        <updated>2021-05-21T23:10:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html
+Comments URL: https://news.ycombinator.com/item?id=27241085
+Points: 93
+# Comments: 73]]></summary>
+        <author>
+            <name>tagawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All recipe websites should be adjustable like this]]></title>
+        <id>https://news.ycombinator.com/item?id=27241047</id>
+        <link href="https://jeanieandluluskitchen.com/wprm_print/10697"/>
+        <updated>2021-05-21T23:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jeanieandluluskitchen.com/wprm_print/10697
+Comments URL: https://news.ycombinator.com/item?id=27241047
+Points: 27
+# Comments: 37]]></summary>
+        <author>
+            <name>incanus77</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Despite social pressure, boys and girls still prefer gender-typical toys]]></title>
+        <id>https://news.ycombinator.com/item?id=27240988</id>
+        <link href="https://bigthink.com/surprising-science/gender-stereotyped-toys"/>
+        <updated>2021-05-21T22:57:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bigthink.com/surprising-science/gender-stereotyped-toys
+Comments URL: https://news.ycombinator.com/item?id=27240988
+Points: 64
+# Comments: 24]]></summary>
+        <author>
+            <name>yamrzou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Algorithmic Beauty of Plants (1990) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27240927</id>
+        <link href="http://algorithmicbotany.org/papers/abop/abop.pdf"/>
+        <updated>2021-05-21T22:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://algorithmicbotany.org/papers/abop/abop.pdf
+Comments URL: https://news.ycombinator.com/item?id=27240927
+Points: 21
+# Comments: 0]]></summary>
+        <author>
+            <name>tomlagier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canada declares plastics toxic, paving the way for restrictions]]></title>
         <id>https://news.ycombinator.com/item?id=27240796</id>
@@ -13,10 +77,23 @@
         <updated>2021-05-21T22:31:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/
 Comments URL: https://news.ycombinator.com/item?id=27240796
-Points: 94
-# Comments: 28]]></summary>
+Points: 219
+# Comments: 99]]></summary>
         <author>
             <name>robin_reala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woke at Work: Why tech firms are trying to run away from politics and failing]]></title>
+        <id>https://news.ycombinator.com/item?id=27240688</id>
+        <link href="https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing"/>
+        <updated>2021-05-21T22:20:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing
+Comments URL: https://news.ycombinator.com/item?id=27240688
+Points: 79
+# Comments: 140]]></summary>
+        <author>
+            <name>furrowedbrow</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +103,8 @@ Points: 94
         <updated>2021-05-21T22:17:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/
 Comments URL: https://news.ycombinator.com/item?id=27240659
-Points: 12
-# Comments: 0]]></summary>
+Points: 27
+# Comments: 4]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -39,8 +116,8 @@ Points: 12
         <updated>2021-05-21T21:51:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://web.archive.org/web/19980701120538/http://www.php.net/
 Comments URL: https://news.ycombinator.com/item?id=27240416
-Points: 36
-# Comments: 30]]></summary>
+Points: 53
+# Comments: 51]]></summary>
         <author>
             <name>xd</name>
         </author>
@@ -52,8 +129,8 @@ Points: 36
         <updated>2021-05-21T21:10:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws
 Comments URL: https://news.ycombinator.com/item?id=27240008
-Points: 116
-# Comments: 49]]></summary>
+Points: 167
+# Comments: 71]]></summary>
         <author>
             <name>holmesworcester</name>
         </author>
@@ -72,27 +149,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Judge in Fortnite case holds Tim Cook's feet to the fire]]></title>
-        <id>https://news.ycombinator.com/item?id=27239550</id>
-        <link href="https://www.protocol.com/apple-epic-trial/tim-cook-apple-epic-grilled"/>
-        <updated>2021-05-21T20:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.protocol.com/apple-epic-trial/tim-cook-apple-epic-grilled
-Comments URL: https://news.ycombinator.com/item?id=27239550
-Points: 149
-# Comments: 176]]></summary>
-        <author>
-            <name>amaBasics</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“Put that in your pipe and smoke it”]]></title>
         <id>https://news.ycombinator.com/item?id=27239129</id>
         <link href="https://wordhistories.net/2020/01/06/put-pipe-and-smoke/"/>
         <updated>2021-05-21T19:57:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wordhistories.net/2020/01/06/put-pipe-and-smoke/
 Comments URL: https://news.ycombinator.com/item?id=27239129
-Points: 53
-# Comments: 22]]></summary>
+Points: 62
+# Comments: 24]]></summary>
         <author>
             <name>doat</name>
         </author>
@@ -104,8 +168,8 @@ Points: 53
         <updated>2021-05-21T18:58:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flutterflow.io/launch
 Comments URL: https://news.ycombinator.com/item?id=27238381
-Points: 142
-# Comments: 53]]></summary>
+Points: 153
+# Comments: 54]]></summary>
         <author>
             <name>dested</name>
         </author>
@@ -117,8 +181,8 @@ Points: 142
         <updated>2021-05-21T18:53:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/
 Comments URL: https://news.ycombinator.com/item?id=27238317
-Points: 79
-# Comments: 125]]></summary>
+Points: 106
+# Comments: 163]]></summary>
         <author>
             <name>danso</name>
         </author>
@@ -130,7 +194,7 @@ Points: 79
         <updated>2021-05-21T18:52:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers
 Comments URL: https://news.ycombinator.com/item?id=27238289
-Points: 32
+Points: 38
 # Comments: 8]]></summary>
         <author>
             <name>optimalsolver</name>
@@ -143,8 +207,8 @@ Points: 32
         <updated>2021-05-21T17:56:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails
 Comments URL: https://news.ycombinator.com/item?id=27237520
-Points: 235
-# Comments: 281]]></summary>
+Points: 257
+# Comments: 308]]></summary>
         <author>
             <name>codq</name>
         </author>
@@ -156,23 +220,10 @@ Points: 235
         <updated>2021-05-21T17:18:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/
 Comments URL: https://news.ycombinator.com/item?id=27236958
-Points: 25
-# Comments: 4]]></summary>
+Points: 44
+# Comments: 9]]></summary>
         <author>
             <name>panabee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessibility is the hardest thing for me about making things for the web]]></title>
-        <id>https://news.ycombinator.com/item?id=27236953</id>
-        <link href="https://gomakethings.com/accessibility-is-hard.-its-also-your-job./"/>
-        <updated>2021-05-21T17:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gomakethings.com/accessibility-is-hard.-its-also-your-job./
-Comments URL: https://news.ycombinator.com/item?id=27236953
-Points: 77
-# Comments: 66]]></summary>
-        <author>
-            <name>tate</name>
         </author>
     </entry>
     <entry>
@@ -182,8 +233,8 @@ Points: 77
         <updated>2021-05-21T17:12:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lord.io/text-editing-hates-you-too/
 Comments URL: https://news.ycombinator.com/item?id=27236874
-Points: 202
-# Comments: 88]]></summary>
+Points: 230
+# Comments: 122]]></summary>
         <author>
             <name>tate</name>
         </author>
@@ -195,8 +246,8 @@ Points: 202
         <updated>2021-05-21T16:33:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/
 Comments URL: https://news.ycombinator.com/item?id=27236251
-Points: 45
-# Comments: 39]]></summary>
+Points: 56
+# Comments: 45]]></summary>
         <author>
             <name>empressplay</name>
         </author>
@@ -208,23 +259,10 @@ Points: 45
         <updated>2021-05-21T16:14:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://voice2json.org/
 Comments URL: https://news.ycombinator.com/item?id=27235970
-Points: 331
-# Comments: 73]]></summary>
+Points: 357
+# Comments: 78]]></summary>
         <author>
             <name>easrng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Download free public domain paintings, posters and illustrations]]></title>
-        <id>https://news.ycombinator.com/item?id=27235918</id>
-        <link href="https://www.artvee.com/?"/>
-        <updated>2021-05-21T16:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.artvee.com/?
-Comments URL: https://news.ycombinator.com/item?id=27235918
-Points: 173
-# Comments: 19]]></summary>
-        <author>
-            <name>ndtut</name>
         </author>
     </entry>
     <entry>
@@ -238,26 +276,13 @@ Points: 173
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Counting the number of matching characters in two ASCII strings]]></title>
-        <id>https://news.ycombinator.com/item?id=27234806</id>
-        <link href="https://lemire.me/blog/2021/05/21/counting-the-number-of-matching-characters-in-two-ascii-strings/"/>
-        <updated>2021-05-21T14:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lemire.me/blog/2021/05/21/counting-the-number-of-matching-characters-in-two-ascii-strings/
-Comments URL: https://news.ycombinator.com/item?id=27234806
-Points: 72
-# Comments: 43]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MagicaCSG: A lightweight signed distance field editor and renderer]]></title>
         <id>https://news.ycombinator.com/item?id=27234755</id>
         <link href="https://ephtracy.github.io/index.html?page=magicacsg"/>
         <updated>2021-05-21T14:51:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ephtracy.github.io/index.html?page=magicacsg
 Comments URL: https://news.ycombinator.com/item?id=27234755
-Points: 55
+Points: 60
 # Comments: 8]]></summary>
         <author>
             <name>xemoka</name>
@@ -287,19 +312,6 @@ The post CSS Hell appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Ford F-150 Lightning]]></title>
-        <id>https://news.ycombinator.com/item?id=27234039</id>
-        <link href="https://www.ford.com/trucks/f150/f150-lightning/2022/"/>
-        <updated>2021-05-21T13:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ford.com/trucks/f150/f150-lightning/2022/
-Comments URL: https://news.ycombinator.com/item?id=27234039
-Points: 544
-# Comments: 1169]]></summary>
-        <author>
-            <name>awb</name>
         </author>
     </entry>
     <entry>
@@ -662,20 +674,6 @@ The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
-        <id>https://css-tricks.com/?p=340343</id>
-        <link href="https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/"/>
-        <updated>2021-05-14T14:14:34.000Z</updated>
-        <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
-$variable: 'test' !default;
-To the Sass compiler, this line …
-The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Nathan Babcock</name>
         </author>
     </entry>
     <entry>
