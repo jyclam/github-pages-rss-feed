@@ -2,19 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T19:23:43.693Z</updated>
+    <updated>2021-05-22T20:14:36.253Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Inflation Adjusted Hacker News]]></title>
+        <title type="html"><![CDATA[Changing your SSH server's listen address every 30 seconds based on TOTP]]></title>
+        <id>https://news.ycombinator.com/item?id=27249555</id>
+        <link href="https://github.com/mikroskeem/tosh"/>
+        <updated>2021-05-22T19:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/mikroskeem/tosh
+Comments URL: https://news.ycombinator.com/item?id=27249555
+Points: 29
+# Comments: 8]]></summary>
+        <author>
+            <name>Avamander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Inflation-adjusted Hacker News]]></title>
         <id>https://news.ycombinator.com/item?id=27249082</id>
         <link href="https://instruments.digital/inflation-adjusted-hn/"/>
         <updated>2021-05-22T18:30:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://instruments.digital/inflation-adjusted-hn/
 Comments URL: https://news.ycombinator.com/item?id=27249082
-Points: 26
-# Comments: 10]]></summary>
+Points: 95
+# Comments: 27]]></summary>
         <author>
             <name>Aaronmacaron</name>
         </author>
@@ -26,8 +39,8 @@ Points: 26
         <updated>2021-05-22T18:29:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.kolibrios.org/en/
 Comments URL: https://news.ycombinator.com/item?id=27249075
-Points: 26
-# Comments: 3]]></summary>
+Points: 44
+# Comments: 11]]></summary>
         <author>
             <name>luke2m</name>
         </author>
@@ -39,7 +52,7 @@ Points: 26
         <updated>2021-05-22T18:15:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/frabert/ClangQL
 Comments URL: https://news.ycombinator.com/item?id=27248960
-Points: 12
+Points: 22
 # Comments: 3]]></summary>
         <author>
             <name>frabert</name>
@@ -52,23 +65,10 @@ Points: 12
         <updated>2021-05-22T17:49:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nv-tlabs.github.io/datasetGAN/
 Comments URL: https://news.ycombinator.com/item?id=27248747
-Points: 19
-# Comments: 2]]></summary>
+Points: 25
+# Comments: 4]]></summary>
         <author>
             <name>alok-g</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Miners Are Giving New Life to Old Fossil-Fuel Power Plants]]></title>
-        <id>https://news.ycombinator.com/item?id=27248678</id>
-        <link href="https://www.wsj.com/articles/bitcoin-miners-are-giving-new-life-to-old-fossil-fuel-power-plants-11621594803"/>
-        <updated>2021-05-22T17:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/bitcoin-miners-are-giving-new-life-to-old-fossil-fuel-power-plants-11621594803
-Comments URL: https://news.ycombinator.com/item?id=27248678
-Points: 57
-# Comments: 43]]></summary>
-        <author>
-            <name>tareqak</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +78,8 @@ Points: 57
         <updated>2021-05-22T17:11:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41591-021-01377-8
 Comments URL: https://news.ycombinator.com/item?id=27248406
-Points: 28
-# Comments: 18]]></summary>
+Points: 36
+# Comments: 29]]></summary>
         <author>
             <name>georgecmu</name>
         </author>
@@ -91,8 +91,8 @@ Points: 28
         <updated>2021-05-22T17:09:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.romanzolotarev.com/rssg.html
 Comments URL: https://news.ycombinator.com/item?id=27248383
-Points: 16
-# Comments: 5]]></summary>
+Points: 19
+# Comments: 6]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -117,8 +117,8 @@ Points: 1
         <updated>2021-05-22T16:34:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html
 Comments URL: https://news.ycombinator.com/item?id=27248093
-Points: 40
-# Comments: 20]]></summary>
+Points: 51
+# Comments: 25]]></summary>
         <author>
             <name>ReginaDeiPirati</name>
         </author>
@@ -130,21 +130,21 @@ Points: 40
         <updated>2021-05-22T16:30:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/853423/
 Comments URL: https://news.ycombinator.com/item?id=27248059
-Points: 97
-# Comments: 59]]></summary>
+Points: 124
+# Comments: 81]]></summary>
         <author>
             <name>h1x</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An early look at Postgres 14 performance and monitoring improvements]]></title>
+        <title type="html"><![CDATA[An early look at Postgres 14: Performance and monitoring Improvements]]></title>
         <id>https://news.ycombinator.com/item?id=27247621</id>
         <link href="https://pganalyze.com/blog/postgres-14-performance-monitoring"/>
         <updated>2021-05-22T15:47:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring
 Comments URL: https://news.ycombinator.com/item?id=27247621
-Points: 176
-# Comments: 65]]></summary>
+Points: 212
+# Comments: 89]]></summary>
         <author>
             <name>bananaoomarang</name>
         </author>
@@ -156,8 +156,8 @@ Points: 176
         <updated>2021-05-22T15:46:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/
 Comments URL: https://news.ycombinator.com/item?id=27247612
-Points: 52
-# Comments: 22]]></summary>
+Points: 59
+# Comments: 27]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -169,8 +169,8 @@ Points: 52
         <updated>2021-05-22T15:46:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution
 Comments URL: https://news.ycombinator.com/item?id=27247605
-Points: 32
-# Comments: 2]]></summary>
+Points: 55
+# Comments: 3]]></summary>
         <author>
             <name>filoeleven</name>
         </author>
@@ -182,10 +182,23 @@ Points: 32
         <updated>2021-05-22T15:22:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.philipzucker.com/minikanren-z3py/
 Comments URL: https://news.ycombinator.com/item?id=27247386
-Points: 24
+Points: 29
 # Comments: 3]]></summary>
         <author>
             <name>philzook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Knowledge Graphs]]></title>
+        <id>https://news.ycombinator.com/item?id=27245696</id>
+        <link href="http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/"/>
+        <updated>2021-05-22T12:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/
+Comments URL: https://news.ycombinator.com/item?id=27245696
+Points: 24
+# Comments: 0]]></summary>
+        <author>
+            <name>umangkeshri</name>
         </author>
     </entry>
     <entry>
@@ -195,8 +208,8 @@ Points: 24
         <updated>2021-05-22T12:00:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nav.al/rich
 Comments URL: https://news.ycombinator.com/item?id=27245680
-Points: 117
-# Comments: 188]]></summary>
+Points: 138
+# Comments: 210]]></summary>
         <author>
             <name>Jaxtek</name>
         </author>
@@ -208,7 +221,7 @@ Points: 117
         <updated>2021-05-22T11:58:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://compositor.bham.ac.uk/
 Comments URL: https://news.ycombinator.com/item?id=27245662
-Points: 32
+Points: 33
 # Comments: 5]]></summary>
         <author>
             <name>polm23</name>
@@ -221,8 +234,8 @@ Points: 32
         <updated>2021-05-22T11:20:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun
 Comments URL: https://news.ycombinator.com/item?id=27245450
-Points: 120
-# Comments: 67]]></summary>
+Points: 130
+# Comments: 79]]></summary>
         <author>
             <name>richardw</name>
         </author>
@@ -234,8 +247,8 @@ Points: 120
         <updated>2021-05-22T10:52:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/p-e-w/plotinus
 Comments URL: https://news.ycombinator.com/item?id=27245310
-Points: 105
-# Comments: 29]]></summary>
+Points: 110
+# Comments: 30]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -247,23 +260,10 @@ Points: 105
         <updated>2021-05-22T10:01:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##
 Comments URL: https://news.ycombinator.com/item?id=27245090
-Points: 427
-# Comments: 288]]></summary>
+Points: 452
+# Comments: 300]]></summary>
         <author>
             <name>dshipper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NNCP: Lossless Data Compression with Neural Networks (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27244004</id>
-        <link href="https://bellard.org/nncp/"/>
-        <updated>2021-05-22T06:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bellard.org/nncp/
-Comments URL: https://news.ycombinator.com/item?id=27244004
-Points: 358
-# Comments: 139]]></summary>
-        <author>
-            <name>ToJans</name>
         </author>
     </entry>
     <entry>
