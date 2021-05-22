@@ -2,45 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T22:13:46.196Z</updated>
+    <updated>2021-05-22T23:13:31.551Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[6th Grader Expelled After Zoom Provided Possibly Inaccurate IP Address]]></title>
+        <title type="html"><![CDATA[My Road to Erlang (2008)]]></title>
+        <id>https://news.ycombinator.com/item?id=27250619</id>
+        <link href="https://prog21.dadgum.com/22.html"/>
+        <updated>2021-05-22T21:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://prog21.dadgum.com/22.html
+Comments URL: https://news.ycombinator.com/item?id=27250619
+Points: 37
+# Comments: 1]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Are there software companies with a good life/work balance?]]></title>
+        <id>https://news.ycombinator.com/item?id=27250546</id>
+        <link href="https://news.ycombinator.com/item?id=27250546"/>
+        <updated>2021-05-22T21:45:40.000Z</updated>
+        <summary type="html"><![CDATA[I worked for a long time in different software engineering positions in b2b tech companies. It looks like a majority of them go through a very similar trajectory - more product, more customers, raise more money, more people, rinse and repeat until you get to IPO or acquisition.
+On the one hand, this approach is understandable (it’s what business is built for), and the pay is good in such companies. But, on the other hand, life/work balance usually sucks.
+First of all, there is an unsaid expectation of long …]]></summary>
+        <author>
+            <name>dotbob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sixth grader expelled after Zoom provided possibly inaccurate IP address]]></title>
         <id>https://news.ycombinator.com/item?id=27250068</id>
         <link href="https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/"/>
         <updated>2021-05-22T20:40:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/
 Comments URL: https://news.ycombinator.com/item?id=27250068
-Points: 35
-# Comments: 14]]></summary>
+Points: 84
+# Comments: 30]]></summary>
         <author>
             <name>WarOnPrivacy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should Google just become a VC fund?]]></title>
-        <id>https://news.ycombinator.com/item?id=27249758</id>
-        <link href="https://carter.sprigings.com/google-vc-fund"/>
-        <updated>2021-05-22T19:53:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://carter.sprigings.com/google-vc-fund
-Comments URL: https://news.ycombinator.com/item?id=27249758
-Points: 28
-# Comments: 21]]></summary>
-        <author>
-            <name>likecarter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changing your SSH server's listen address every 30 seconds based on TOTP]]></title>
+        <title type="html"><![CDATA[Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP]]></title>
         <id>https://news.ycombinator.com/item?id=27249555</id>
         <link href="https://github.com/mikroskeem/tosh"/>
         <updated>2021-05-22T19:26:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/mikroskeem/tosh
 Comments URL: https://news.ycombinator.com/item?id=27249555
-Points: 100
-# Comments: 74]]></summary>
+Points: 114
+# Comments: 83]]></summary>
         <author>
             <name>Avamander</name>
         </author>
@@ -52,8 +64,8 @@ Points: 100
         <updated>2021-05-22T19:09:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pakkly.com
 Comments URL: https://news.ycombinator.com/item?id=27249413
-Points: 41
-# Comments: 11]]></summary>
+Points: 62
+# Comments: 18]]></summary>
         <author>
             <name>enatik</name>
         </author>
@@ -65,8 +77,8 @@ Points: 41
         <updated>2021-05-22T18:30:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://instruments.digital/inflation-adjusted-hn/
 Comments URL: https://news.ycombinator.com/item?id=27249082
-Points: 265
-# Comments: 71]]></summary>
+Points: 294
+# Comments: 80]]></summary>
         <author>
             <name>Aaronmacaron</name>
         </author>
@@ -78,34 +90,34 @@ Points: 265
         <updated>2021-05-22T18:29:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.kolibrios.org/en/
 Comments URL: https://news.ycombinator.com/item?id=27249075
-Points: 116
-# Comments: 28]]></summary>
+Points: 146
+# Comments: 42]]></summary>
         <author>
             <name>luke2m</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Query C++ codebases using SQLite]]></title>
+        <title type="html"><![CDATA[Show HN: ClangQL – Query C++ codebases using SQLite]]></title>
         <id>https://news.ycombinator.com/item?id=27248960</id>
         <link href="https://github.com/frabert/ClangQL"/>
         <updated>2021-05-22T18:15:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/frabert/ClangQL
 Comments URL: https://news.ycombinator.com/item?id=27248960
-Points: 39
+Points: 42
 # Comments: 5]]></summary>
         <author>
             <name>frabert</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia DatasetGAN, Efficient Labeled Data for AI Training]]></title>
+        <title type="html"><![CDATA[DatasetGAN: Efficient Labeled Data for AI Training]]></title>
         <id>https://news.ycombinator.com/item?id=27248747</id>
         <link href="https://nv-tlabs.github.io/datasetGAN/"/>
         <updated>2021-05-22T17:49:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nv-tlabs.github.io/datasetGAN/
 Comments URL: https://news.ycombinator.com/item?id=27248747
-Points: 43
-# Comments: 9]]></summary>
+Points: 47
+# Comments: 10]]></summary>
         <author>
             <name>alok-g</name>
         </author>
@@ -117,8 +129,8 @@ Points: 43
         <updated>2021-05-22T17:11:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41591-021-01377-8
 Comments URL: https://news.ycombinator.com/item?id=27248406
-Points: 56
-# Comments: 43]]></summary>
+Points: 66
+# Comments: 48]]></summary>
         <author>
             <name>georgecmu</name>
         </author>
@@ -130,8 +142,8 @@ Points: 56
         <updated>2021-05-22T17:09:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.romanzolotarev.com/rssg.html
 Comments URL: https://news.ycombinator.com/item?id=27248383
-Points: 34
-# Comments: 9]]></summary>
+Points: 49
+# Comments: 10]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -156,23 +168,10 @@ Points: 1
         <updated>2021-05-22T16:34:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html
 Comments URL: https://news.ycombinator.com/item?id=27248093
-Points: 74
-# Comments: 35]]></summary>
+Points: 86
+# Comments: 44]]></summary>
         <author>
             <name>ReginaDeiPirati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust heads into the kernel?]]></title>
-        <id>https://news.ycombinator.com/item?id=27248059</id>
-        <link href="https://lwn.net/Articles/853423/"/>
-        <updated>2021-05-22T16:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/853423/
-Comments URL: https://news.ycombinator.com/item?id=27248059
-Points: 159
-# Comments: 141]]></summary>
-        <author>
-            <name>h1x</name>
         </author>
     </entry>
     <entry>
@@ -182,8 +181,8 @@ Points: 159
         <updated>2021-05-22T15:47:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring
 Comments URL: https://news.ycombinator.com/item?id=27247621
-Points: 250
-# Comments: 121]]></summary>
+Points: 276
+# Comments: 129]]></summary>
         <author>
             <name>bananaoomarang</name>
         </author>
@@ -195,8 +194,8 @@ Points: 250
         <updated>2021-05-22T15:46:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/
 Comments URL: https://news.ycombinator.com/item?id=27247612
-Points: 78
-# Comments: 35]]></summary>
+Points: 92
+# Comments: 39]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -208,20 +207,20 @@ Points: 78
         <updated>2021-05-22T15:46:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution
 Comments URL: https://news.ycombinator.com/item?id=27247605
-Points: 97
-# Comments: 10]]></summary>
+Points: 112
+# Comments: 14]]></summary>
         <author>
             <name>filoeleven</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making a “MiniKanren” using Z3Py (2021)]]></title>
+        <title type="html"><![CDATA[Making a “MiniKanren” using Z3Py]]></title>
         <id>https://news.ycombinator.com/item?id=27247386</id>
         <link href="https://www.philipzucker.com/minikanren-z3py/"/>
         <updated>2021-05-22T15:22:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.philipzucker.com/minikanren-z3py/
 Comments URL: https://news.ycombinator.com/item?id=27247386
-Points: 39
+Points: 46
 # Comments: 3]]></summary>
         <author>
             <name>philzook</name>
@@ -234,21 +233,21 @@ Points: 39
         <updated>2021-05-22T12:02:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/
 Comments URL: https://news.ycombinator.com/item?id=27245696
-Points: 80
-# Comments: 19]]></summary>
+Points: 100
+# Comments: 24]]></summary>
         <author>
             <name>umangkeshri</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get Rich without Being Lucky (2019)]]></title>
+        <title type="html"><![CDATA[How to get rich without being lucky (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=27245680</id>
         <link href="https://nav.al/rich"/>
         <updated>2021-05-22T12:00:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nav.al/rich
 Comments URL: https://news.ycombinator.com/item?id=27245680
-Points: 176
-# Comments: 291]]></summary>
+Points: 195
+# Comments: 309]]></summary>
         <author>
             <name>Jaxtek</name>
         </author>
@@ -260,8 +259,8 @@ Points: 176
         <updated>2021-05-22T11:20:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun
 Comments URL: https://news.ycombinator.com/item?id=27245450
-Points: 155
-# Comments: 95]]></summary>
+Points: 166
+# Comments: 105]]></summary>
         <author>
             <name>richardw</name>
         </author>
