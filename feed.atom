@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T20:14:36.253Z</updated>
+    <updated>2021-05-22T21:12:18.034Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Should Google just become a VC fund?]]></title>
+        <id>https://news.ycombinator.com/item?id=27249758</id>
+        <link href="https://carter.sprigings.com/google-vc-fund"/>
+        <updated>2021-05-22T19:53:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://carter.sprigings.com/google-vc-fund
+Comments URL: https://news.ycombinator.com/item?id=27249758
+Points: 18
+# Comments: 10]]></summary>
+        <author>
+            <name>likecarter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changing your SSH server's listen address every 30 seconds based on TOTP]]></title>
         <id>https://news.ycombinator.com/item?id=27249555</id>
@@ -13,10 +26,23 @@
         <updated>2021-05-22T19:26:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/mikroskeem/tosh
 Comments URL: https://news.ycombinator.com/item?id=27249555
-Points: 29
-# Comments: 8]]></summary>
+Points: 69
+# Comments: 40]]></summary>
         <author>
             <name>Avamander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I hate adding updating to my apps, so I created Pakkly]]></title>
+        <id>https://news.ycombinator.com/item?id=27249413</id>
+        <link href="https://pakkly.com"/>
+        <updated>2021-05-22T19:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pakkly.com
+Comments URL: https://news.ycombinator.com/item?id=27249413
+Points: 17
+# Comments: 5]]></summary>
+        <author>
+            <name>enatik</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +52,8 @@ Points: 29
         <updated>2021-05-22T18:30:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://instruments.digital/inflation-adjusted-hn/
 Comments URL: https://news.ycombinator.com/item?id=27249082
-Points: 95
-# Comments: 27]]></summary>
+Points: 186
+# Comments: 49]]></summary>
         <author>
             <name>Aaronmacaron</name>
         </author>
@@ -39,8 +65,8 @@ Points: 95
         <updated>2021-05-22T18:29:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.kolibrios.org/en/
 Comments URL: https://news.ycombinator.com/item?id=27249075
-Points: 44
-# Comments: 11]]></summary>
+Points: 82
+# Comments: 17]]></summary>
         <author>
             <name>luke2m</name>
         </author>
@@ -52,7 +78,7 @@ Points: 44
         <updated>2021-05-22T18:15:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/frabert/ClangQL
 Comments URL: https://news.ycombinator.com/item?id=27248960
-Points: 22
+Points: 29
 # Comments: 3]]></summary>
         <author>
             <name>frabert</name>
@@ -65,8 +91,8 @@ Points: 22
         <updated>2021-05-22T17:49:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nv-tlabs.github.io/datasetGAN/
 Comments URL: https://news.ycombinator.com/item?id=27248747
-Points: 25
-# Comments: 4]]></summary>
+Points: 35
+# Comments: 9]]></summary>
         <author>
             <name>alok-g</name>
         </author>
@@ -78,8 +104,8 @@ Points: 25
         <updated>2021-05-22T17:11:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41591-021-01377-8
 Comments URL: https://news.ycombinator.com/item?id=27248406
-Points: 36
-# Comments: 29]]></summary>
+Points: 45
+# Comments: 36]]></summary>
         <author>
             <name>georgecmu</name>
         </author>
@@ -91,8 +117,8 @@ Points: 36
         <updated>2021-05-22T17:09:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.romanzolotarev.com/rssg.html
 Comments URL: https://news.ycombinator.com/item?id=27248383
-Points: 19
-# Comments: 6]]></summary>
+Points: 26
+# Comments: 8]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -117,8 +143,8 @@ Points: 1
         <updated>2021-05-22T16:34:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html
 Comments URL: https://news.ycombinator.com/item?id=27248093
-Points: 51
-# Comments: 25]]></summary>
+Points: 60
+# Comments: 30]]></summary>
         <author>
             <name>ReginaDeiPirati</name>
         </author>
@@ -130,8 +156,8 @@ Points: 51
         <updated>2021-05-22T16:30:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/853423/
 Comments URL: https://news.ycombinator.com/item?id=27248059
-Points: 124
-# Comments: 81]]></summary>
+Points: 147
+# Comments: 111]]></summary>
         <author>
             <name>h1x</name>
         </author>
@@ -143,8 +169,8 @@ Points: 124
         <updated>2021-05-22T15:47:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring
 Comments URL: https://news.ycombinator.com/item?id=27247621
-Points: 212
-# Comments: 89]]></summary>
+Points: 232
+# Comments: 112]]></summary>
         <author>
             <name>bananaoomarang</name>
         </author>
@@ -156,8 +182,8 @@ Points: 212
         <updated>2021-05-22T15:46:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/
 Comments URL: https://news.ycombinator.com/item?id=27247612
-Points: 59
-# Comments: 27]]></summary>
+Points: 68
+# Comments: 29]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -169,8 +195,8 @@ Points: 59
         <updated>2021-05-22T15:46:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution
 Comments URL: https://news.ycombinator.com/item?id=27247605
-Points: 55
-# Comments: 3]]></summary>
+Points: 77
+# Comments: 6]]></summary>
         <author>
             <name>filoeleven</name>
         </author>
@@ -182,7 +208,7 @@ Points: 55
         <updated>2021-05-22T15:22:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.philipzucker.com/minikanren-z3py/
 Comments URL: https://news.ycombinator.com/item?id=27247386
-Points: 29
+Points: 32
 # Comments: 3]]></summary>
         <author>
             <name>philzook</name>
@@ -195,8 +221,8 @@ Points: 29
         <updated>2021-05-22T12:02:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/
 Comments URL: https://news.ycombinator.com/item?id=27245696
-Points: 24
-# Comments: 0]]></summary>
+Points: 55
+# Comments: 8]]></summary>
         <author>
             <name>umangkeshri</name>
         </author>
@@ -208,23 +234,10 @@ Points: 24
         <updated>2021-05-22T12:00:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nav.al/rich
 Comments URL: https://news.ycombinator.com/item?id=27245680
-Points: 138
-# Comments: 210]]></summary>
+Points: 160
+# Comments: 242]]></summary>
         <author>
             <name>Jaxtek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compositor: A database of eighteenth-century printers’ ornaments]]></title>
-        <id>https://news.ycombinator.com/item?id=27245662</id>
-        <link href="https://compositor.bham.ac.uk/"/>
-        <updated>2021-05-22T11:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://compositor.bham.ac.uk/
-Comments URL: https://news.ycombinator.com/item?id=27245662
-Points: 33
-# Comments: 5]]></summary>
-        <author>
-            <name>polm23</name>
         </author>
     </entry>
     <entry>
@@ -234,8 +247,8 @@ Points: 33
         <updated>2021-05-22T11:20:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun
 Comments URL: https://news.ycombinator.com/item?id=27245450
-Points: 130
-# Comments: 79]]></summary>
+Points: 147
+# Comments: 84]]></summary>
         <author>
             <name>richardw</name>
         </author>
@@ -247,23 +260,10 @@ Points: 130
         <updated>2021-05-22T10:52:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/p-e-w/plotinus
 Comments URL: https://news.ycombinator.com/item?id=27245310
-Points: 110
-# Comments: 30]]></summary>
+Points: 115
+# Comments: 31]]></summary>
         <author>
             <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working at a startup is overrated, both financially and emotionally]]></title>
-        <id>https://news.ycombinator.com/item?id=27245090</id>
-        <link href="https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##"/>
-        <updated>2021-05-22T10:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##
-Comments URL: https://news.ycombinator.com/item?id=27245090
-Points: 452
-# Comments: 300]]></summary>
-        <author>
-            <name>dshipper</name>
         </author>
     </entry>
     <entry>
@@ -930,16 +930,6 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
-        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
-        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
-        <updated>2021-04-23T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>
