@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T10:14:39.249Z</updated>
+    <updated>2021-05-23T11:11:13.274Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Preparing your game for deterministic netcode]]></title>
+        <id>https://news.ycombinator.com/item?id=27253890</id>
+        <link href="https://yal.cc/preparing-your-game-for-deterministic-netcode/"/>
+        <updated>2021-05-23T10:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://yal.cc/preparing-your-game-for-deterministic-netcode/
+Comments URL: https://news.ycombinator.com/item?id=27253890
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>manjana</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fujitsu (né Siemens-Nixdorf) BS2000 Operating System Manuals]]></title>
         <id>https://news.ycombinator.com/item?id=27253518</id>
@@ -13,23 +26,36 @@
         <updated>2021-05-23T09:12:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bs2manuals.ts.fujitsu.com/index_en
 Comments URL: https://news.ycombinator.com/item?id=27253518
-Points: 11
-# Comments: 3]]></summary>
+Points: 23
+# Comments: 5]]></summary>
         <author>
             <name>throwawaybutwhy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wayland: “Move fast and break things” as a moral imperative]]></title>
-        <id>https://news.ycombinator.com/item?id=27253430</id>
-        <link href="https://rentry.co/pa2a3"/>
-        <updated>2021-05-23T08:55:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rentry.co/pa2a3
-Comments URL: https://news.ycombinator.com/item?id=27253430
-Points: 51
-# Comments: 43]]></summary>
+        <title type="html"><![CDATA[Tim Cook’s Fortnite trial testimony was unexpectedly revealing]]></title>
+        <id>https://news.ycombinator.com/item?id=27253467</id>
+        <link href="https://www.theverge.com/2021/5/22/22448139/tim-cook-epic-fortnite-trial-testimony-privacy-iap-antitrust"/>
+        <updated>2021-05-23T09:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/22/22448139/tim-cook-epic-fortnite-trial-testimony-privacy-iap-antitrust
+Comments URL: https://news.ycombinator.com/item?id=27253467
+Points: 19
+# Comments: 5]]></summary>
         <author>
-            <name>trashburger</name>
+            <name>rjzzleep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vector Tiles to GeoJSON]]></title>
+        <id>https://news.ycombinator.com/item?id=27253365</id>
+        <link href="https://github.com/LilithWittmann/VectorTileExporter"/>
+        <updated>2021-05-23T08:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/LilithWittmann/VectorTileExporter
+Comments URL: https://news.ycombinator.com/item?id=27253365
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>app4soft</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +65,8 @@ Points: 51
         <updated>2021-05-23T08:04:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/trabant-the-east-german-car-remains-iconic/a-41251024
 Comments URL: https://news.ycombinator.com/item?id=27253217
-Points: 12
-# Comments: 11]]></summary>
+Points: 23
+# Comments: 18]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -52,8 +78,8 @@ Points: 12
         <updated>2021-05-23T07:22:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.amazon.com/stores/Aukey/Aukey/page/B4F70606-6B67-46A0-BD18-938B37E59982
 Comments URL: https://news.ycombinator.com/item?id=27253047
-Points: 105
-# Comments: 82]]></summary>
+Points: 138
+# Comments: 127]]></summary>
         <author>
             <name>wetpaws</name>
         </author>
@@ -65,8 +91,8 @@ Points: 105
         <updated>2021-05-23T07:14:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57156799
 Comments URL: https://news.ycombinator.com/item?id=27253012
-Points: 55
-# Comments: 30]]></summary>
+Points: 71
+# Comments: 47]]></summary>
         <author>
             <name>bananapear</name>
         </author>
@@ -91,7 +117,7 @@ We’ve grown a lot since we started, and today we’re a hardworking team o…]
         <updated>2021-05-23T06:56:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://briancallahan.net/blog/20210522.html
 Comments URL: https://news.ycombinator.com/item?id=27252956
-Points: 9
+Points: 21
 # Comments: 0]]></summary>
         <author>
             <name>ingve</name>
@@ -104,10 +130,23 @@ Points: 9
         <updated>2021-05-23T06:37:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/
 Comments URL: https://news.ycombinator.com/item?id=27252891
-Points: 113
-# Comments: 69]]></summary>
+Points: 139
+# Comments: 86]]></summary>
         <author>
             <name>nwotnagrom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newegg to go public in reverse merger; listing under ticker “N”]]></title>
+        <id>https://news.ycombinator.com/item?id=27252890</id>
+        <link href="https://www.nasdaq.com/articles/newegg-to-go-public-in-reverse-merger-listing-under-ticker-n-2020-10-26"/>
+        <updated>2021-05-23T06:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nasdaq.com/articles/newegg-to-go-public-in-reverse-merger-listing-under-ticker-n-2020-10-26
+Comments URL: https://news.ycombinator.com/item?id=27252890
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>satya71</name>
         </author>
     </entry>
     <entry>
@@ -117,8 +156,8 @@ Points: 113
         <updated>2021-05-23T06:05:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716
 Comments URL: https://news.ycombinator.com/item?id=27252771
-Points: 186
-# Comments: 39]]></summary>
+Points: 200
+# Comments: 41]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -130,7 +169,7 @@ Points: 186
         <updated>2021-05-23T05:43:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://threads.js.org/
 Comments URL: https://news.ycombinator.com/item?id=27252706
-Points: 18
+Points: 24
 # Comments: 2]]></summary>
         <author>
             <name>peterhunt</name>
@@ -153,8 +192,8 @@ Points: 18
         <updated>2021-05-23T05:22:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/obivan/autopilot
 Comments URL: https://news.ycombinator.com/item?id=27252639
-Points: 52
-# Comments: 7]]></summary>
+Points: 60
+# Comments: 8]]></summary>
         <author>
             <name>obvn</name>
         </author>
@@ -166,8 +205,8 @@ Points: 52
         <updated>2021-05-23T05:19:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-13-video-uploads-available-github/
 Comments URL: https://news.ycombinator.com/item?id=27252631
-Points: 79
-# Comments: 51]]></summary>
+Points: 88
+# Comments: 54]]></summary>
         <author>
             <name>stikit</name>
         </author>
@@ -190,8 +229,8 @@ Thank you: @LooperXX.]]></summary>
         <updated>2021-05-23T02:58:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic
 Comments URL: https://news.ycombinator.com/item?id=27252066
-Points: 345
-# Comments: 169]]></summary>
+Points: 361
+# Comments: 178]]></summary>
         <author>
             <name>no_wizard</name>
         </author>
@@ -203,8 +242,8 @@ Points: 345
         <updated>2021-05-23T01:57:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.haproxy.com/blog/announcing-haproxy-2-4/
 Comments URL: https://news.ycombinator.com/item?id=27251837
-Points: 103
-# Comments: 38]]></summary>
+Points: 106
+# Comments: 41]]></summary>
         <author>
             <name>throwaway888abc</name>
         </author>
@@ -216,8 +255,8 @@ Points: 103
         <updated>2021-05-22T21:56:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://prog21.dadgum.com/22.html
 Comments URL: https://news.ycombinator.com/item?id=27250619
-Points: 122
-# Comments: 17]]></summary>
+Points: 124
+# Comments: 19]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -229,36 +268,10 @@ Points: 122
         <updated>2021-05-22T21:52:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.includeos.org/
 Comments URL: https://news.ycombinator.com/item?id=27250596
-Points: 60
-# Comments: 4]]></summary>
+Points: 66
+# Comments: 5]]></summary>
         <author>
             <name>turrini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP]]></title>
-        <id>https://news.ycombinator.com/item?id=27249555</id>
-        <link href="https://github.com/mikroskeem/tosh"/>
-        <updated>2021-05-22T19:26:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/mikroskeem/tosh
-Comments URL: https://news.ycombinator.com/item?id=27249555
-Points: 185
-# Comments: 163]]></summary>
-        <author>
-            <name>Avamander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I hate adding updating to my apps, so I created Pakkly]]></title>
-        <id>https://news.ycombinator.com/item?id=27249413</id>
-        <link href="https://pakkly.com"/>
-        <updated>2021-05-22T19:09:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pakkly.com
-Comments URL: https://news.ycombinator.com/item?id=27249413
-Points: 100
-# Comments: 54]]></summary>
-        <author>
-            <name>enatik</name>
         </author>
     </entry>
     <entry>
@@ -268,23 +281,10 @@ Points: 100
         <updated>2021-05-22T18:29:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.kolibrios.org/en/
 Comments URL: https://news.ycombinator.com/item?id=27249075
-Points: 324
-# Comments: 92]]></summary>
+Points: 326
+# Comments: 94]]></summary>
         <author>
             <name>luke2m</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An early look at Postgres 14: Performance and monitoring Improvements]]></title>
-        <id>https://news.ycombinator.com/item?id=27247621</id>
-        <link href="https://pganalyze.com/blog/postgres-14-performance-monitoring"/>
-        <updated>2021-05-22T15:47:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring
-Comments URL: https://news.ycombinator.com/item?id=27247621
-Points: 405
-# Comments: 205]]></summary>
-        <author>
-            <name>bananaoomarang</name>
         </author>
     </entry>
     <entry>
