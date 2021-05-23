@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T05:26:47.176Z</updated>
-    <generator>osmosfeed 1.8.0</generator>
+    <updated>2021-05-23T06:17:28.455Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.8.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1"/>
+        <updated>2021-05-23T05:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Carpentry: Teaching basic lab skills for research computing]]></title>
+        <id>https://news.ycombinator.com/item?id=27252684</id>
+        <link href="https://software-carpentry.org/"/>
+        <updated>2021-05-23T05:37:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://software-carpentry.org/
+Comments URL: https://news.ycombinator.com/item?id=27252684
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>teleforce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video uploads now available across GitHub]]></title>
+        <id>https://news.ycombinator.com/item?id=27252631</id>
+        <link href="https://github.blog/2021-05-13-video-uploads-available-github/"/>
+        <updated>2021-05-23T05:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-13-video-uploads-available-github/
+Comments URL: https://news.ycombinator.com/item?id=27252631
+Points: 32
+# Comments: 10]]></summary>
+        <author>
+            <name>stikit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.8.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
@@ -18,42 +54,29 @@ Thank you: @LooperXX.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tether: The Story So Far (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27252087</id>
-        <link href="https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/"/>
-        <updated>2021-05-23T03:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/
-Comments URL: https://news.ycombinator.com/item?id=27252087
-Points: 18
-# Comments: 4]]></summary>
-        <author>
-            <name>pkd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monetizing Open-source is problematic]]></title>
-        <id>https://news.ycombinator.com/item?id=27252066</id>
-        <link href="https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic"/>
-        <updated>2021-05-23T02:58:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic
-Comments URL: https://news.ycombinator.com/item?id=27252066
-Points: 261
-# Comments: 127]]></summary>
-        <author>
-            <name>no_wizard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HAProxy 2.4]]></title>
         <id>https://news.ycombinator.com/item?id=27251837</id>
         <link href="https://www.haproxy.com/blog/announcing-haproxy-2-4/"/>
         <updated>2021-05-23T01:57:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.haproxy.com/blog/announcing-haproxy-2-4/
 Comments URL: https://news.ycombinator.com/item?id=27251837
-Points: 65
-# Comments: 19]]></summary>
+Points: 77
+# Comments: 22]]></summary>
         <author>
             <name>throwaway888abc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Nonnative English Speakers Speak the Best English]]></title>
+        <id>https://news.ycombinator.com/item?id=27251644</id>
+        <link href="https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english"/>
+        <updated>2021-05-23T01:10:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english
+Comments URL: https://news.ycombinator.com/item?id=27251644
+Points: 17
+# Comments: 5]]></summary>
+        <author>
+            <name>anotherevan</name>
         </author>
     </entry>
     <entry>
@@ -63,8 +86,8 @@ Points: 65
         <updated>2021-05-22T21:56:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://prog21.dadgum.com/22.html
 Comments URL: https://news.ycombinator.com/item?id=27250619
-Points: 91
-# Comments: 11]]></summary>
+Points: 97
+# Comments: 13]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -76,10 +99,23 @@ Points: 91
         <updated>2021-05-22T21:52:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.includeos.org/
 Comments URL: https://news.ycombinator.com/item?id=27250596
-Points: 21
+Points: 27
 # Comments: 1]]></summary>
         <author>
             <name>turrini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sixth grader expelled after Zoom provided possibly inaccurate IP address]]></title>
+        <id>https://news.ycombinator.com/item?id=27250068</id>
+        <link href="https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/"/>
+        <updated>2021-05-22T20:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/
+Comments URL: https://news.ycombinator.com/item?id=27250068
+Points: 257
+# Comments: 177]]></summary>
+        <author>
+            <name>WarOnPrivacy</name>
         </author>
     </entry>
     <entry>
@@ -89,8 +125,8 @@ Points: 21
         <updated>2021-05-22T19:09:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pakkly.com
 Comments URL: https://news.ycombinator.com/item?id=27249413
-Points: 86
-# Comments: 41]]></summary>
+Points: 88
+# Comments: 42]]></summary>
         <author>
             <name>enatik</name>
         </author>
@@ -102,8 +138,8 @@ Points: 86
         <updated>2021-05-22T18:30:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://instruments.digital/inflation-adjusted-hn/
 Comments URL: https://news.ycombinator.com/item?id=27249082
-Points: 361
-# Comments: 92]]></summary>
+Points: 370
+# Comments: 99]]></summary>
         <author>
             <name>Aaronmacaron</name>
         </author>
@@ -115,8 +151,8 @@ Points: 361
         <updated>2021-05-22T18:29:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.kolibrios.org/en/
 Comments URL: https://news.ycombinator.com/item?id=27249075
-Points: 258
-# Comments: 74]]></summary>
+Points: 267
+# Comments: 77]]></summary>
         <author>
             <name>luke2m</name>
         </author>
@@ -128,7 +164,7 @@ Points: 258
         <updated>2021-05-22T18:15:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/frabert/ClangQL
 Comments URL: https://news.ycombinator.com/item?id=27248960
-Points: 61
+Points: 65
 # Comments: 6]]></summary>
         <author>
             <name>frabert</name>
@@ -141,7 +177,7 @@ Points: 61
         <updated>2021-05-22T17:49:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nv-tlabs.github.io/datasetGAN/
 Comments URL: https://news.ycombinator.com/item?id=27248747
-Points: 66
+Points: 68
 # Comments: 10]]></summary>
         <author>
             <name>alok-g</name>
@@ -154,8 +190,8 @@ Points: 66
         <updated>2021-05-22T17:09:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.romanzolotarev.com/rssg.html
 Comments URL: https://news.ycombinator.com/item?id=27248383
-Points: 71
-# Comments: 18]]></summary>
+Points: 75
+# Comments: 20]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -180,8 +216,8 @@ Points: 1
         <updated>2021-05-22T16:34:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html
 Comments URL: https://news.ycombinator.com/item?id=27248093
-Points: 134
-# Comments: 65]]></summary>
+Points: 144
+# Comments: 71]]></summary>
         <author>
             <name>ReginaDeiPirati</name>
         </author>
@@ -193,7 +229,7 @@ Points: 134
         <updated>2021-05-22T15:47:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring
 Comments URL: https://news.ycombinator.com/item?id=27247621
-Points: 371
+Points: 379
 # Comments: 180]]></summary>
         <author>
             <name>bananaoomarang</name>
@@ -206,8 +242,8 @@ Points: 371
         <updated>2021-05-22T15:46:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/
 Comments URL: https://news.ycombinator.com/item?id=27247612
-Points: 129
-# Comments: 61]]></summary>
+Points: 134
+# Comments: 63]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -219,8 +255,8 @@ Points: 129
         <updated>2021-05-22T15:46:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution
 Comments URL: https://news.ycombinator.com/item?id=27247605
-Points: 186
-# Comments: 24]]></summary>
+Points: 195
+# Comments: 28]]></summary>
         <author>
             <name>filoeleven</name>
         </author>
@@ -232,23 +268,10 @@ Points: 186
         <updated>2021-05-22T12:02:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/
 Comments URL: https://news.ycombinator.com/item?id=27245696
-Points: 172
-# Comments: 47]]></summary>
+Points: 179
+# Comments: 50]]></summary>
         <author>
             <name>umangkeshri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Initial Stress-Derived Noun]]></title>
-        <id>https://news.ycombinator.com/item?id=27245450</id>
-        <link href="https://en.wikipedia.org/wiki/Initial-stress-derived_noun"/>
-        <updated>2021-05-22T11:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun
-Comments URL: https://news.ycombinator.com/item?id=27245450
-Points: 199
-# Comments: 144]]></summary>
-        <author>
-            <name>richardw</name>
         </author>
     </entry>
     <entry>
@@ -258,23 +281,10 @@ Points: 199
         <updated>2021-05-22T09:52:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eng.uber.com/architecture-api-gateway/
 Comments URL: https://news.ycombinator.com/item?id=27245058
-Points: 84
-# Comments: 19]]></summary>
+Points: 91
+# Comments: 20]]></summary>
         <author>
             <name>zerop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regex Cross­Word]]></title>
-        <id>https://news.ycombinator.com/item?id=27244758</id>
-        <link href="https://regexcrossword.com/"/>
-        <updated>2021-05-22T08:46:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://regexcrossword.com/
-Comments URL: https://news.ycombinator.com/item?id=27244758
-Points: 13
-# Comments: 2]]></summary>
-        <author>
-            <name>missy-davies</name>
         </author>
     </entry>
     <entry>
@@ -839,16 +849,6 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
 Added: Documentation for osmosfeed.yaml.
 Fixed: More intuitive logging during build.
 Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3"/>
-        <updated>2021-05-05T05:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Changed: favicon update.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
