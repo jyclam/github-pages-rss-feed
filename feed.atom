@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T08:15:56.913Z</updated>
+    <updated>2021-05-23T09:14:24.337Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1B$+ seller pulled from Amazon for fake reviews]]></title>
+        <id>https://news.ycombinator.com/item?id=27253047</id>
+        <link href="https://www.amazon.com/stores/Aukey/Aukey/page/B4F70606-6B67-46A0-BD18-938B37E59982"/>
+        <updated>2021-05-23T07:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.amazon.com/stores/Aukey/Aukey/page/B4F70606-6B67-46A0-BD18-938B37E59982
+Comments URL: https://news.ycombinator.com/item?id=27253047
+Points: 63
+# Comments: 46]]></summary>
+        <author>
+            <name>wetpaws</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did a weak WiFi password lead police to our door?]]></title>
+        <id>https://news.ycombinator.com/item?id=27253012</id>
+        <link href="https://www.bbc.co.uk/news/technology-57156799"/>
+        <updated>2021-05-23T07:14:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57156799
+Comments URL: https://news.ycombinator.com/item?id=27253012
+Points: 27
+# Comments: 6]]></summary>
+        <author>
+            <name>bananapear</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zeus (YC S11) Is Hiring a Senior Product Designer to Build the Future of FlexLiving]]></title>
         <id>https://news.ycombinator.com/item?id=27252965</id>
@@ -26,23 +52,36 @@ We’ve grown a lot since we started, and today we’re a hardworking team o…]
         <updated>2021-05-23T06:37:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/
 Comments URL: https://news.ycombinator.com/item?id=27252891
-Points: 41
-# Comments: 15]]></summary>
+Points: 79
+# Comments: 45]]></summary>
         <author>
             <name>nwotnagrom</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In 2013 Rockchip engineers found that the Gregorian calendar contained flaws]]></title>
+        <title type="html"><![CDATA[In 2013 Rockchip engineers found that the Gregorian calendar contained flaws (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=27252771</id>
         <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716"/>
         <updated>2021-05-23T06:05:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716
 Comments URL: https://news.ycombinator.com/item?id=27252771
-Points: 116
-# Comments: 11]]></summary>
+Points: 159
+# Comments: 22]]></summary>
         <author>
             <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web worker meets worker threads – threads.js]]></title>
+        <id>https://news.ycombinator.com/item?id=27252706</id>
+        <link href="https://threads.js.org/"/>
+        <updated>2021-05-23T05:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://threads.js.org/
+Comments URL: https://news.ycombinator.com/item?id=27252706
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>peterhunt</name>
         </author>
     </entry>
     <entry>
@@ -56,27 +95,14 @@ Points: 116
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software Carpentry: Teaching basic lab skills for research computing]]></title>
-        <id>https://news.ycombinator.com/item?id=27252684</id>
-        <link href="https://software-carpentry.org/"/>
-        <updated>2021-05-23T05:37:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://software-carpentry.org/
-Comments URL: https://news.ycombinator.com/item?id=27252684
-Points: 19
-# Comments: 1]]></summary>
-        <author>
-            <name>teleforce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SpaceX ISS Docking Simulator Autopilot in Elixir]]></title>
         <id>https://news.ycombinator.com/item?id=27252639</id>
         <link href="https://github.com/obivan/autopilot"/>
         <updated>2021-05-23T05:22:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/obivan/autopilot
 Comments URL: https://news.ycombinator.com/item?id=27252639
-Points: 30
-# Comments: 2]]></summary>
+Points: 41
+# Comments: 4]]></summary>
         <author>
             <name>obvn</name>
         </author>
@@ -88,8 +114,8 @@ Points: 30
         <updated>2021-05-23T05:19:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-13-video-uploads-available-github/
 Comments URL: https://news.ycombinator.com/item?id=27252631
-Points: 65
-# Comments: 47]]></summary>
+Points: 72
+# Comments: 49]]></summary>
         <author>
             <name>stikit</name>
         </author>
@@ -112,8 +138,8 @@ Thank you: @LooperXX.]]></summary>
         <updated>2021-05-23T02:58:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic
 Comments URL: https://news.ycombinator.com/item?id=27252066
-Points: 315
-# Comments: 147]]></summary>
+Points: 333
+# Comments: 161]]></summary>
         <author>
             <name>no_wizard</name>
         </author>
@@ -125,10 +151,23 @@ Points: 315
         <updated>2021-05-23T01:57:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.haproxy.com/blog/announcing-haproxy-2-4/
 Comments URL: https://news.ycombinator.com/item?id=27251837
-Points: 89
-# Comments: 29]]></summary>
+Points: 95
+# Comments: 32]]></summary>
         <author>
             <name>throwaway888abc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-native speakers navigate the world of 'good' and 'bad' English]]></title>
+        <id>https://news.ycombinator.com/item?id=27251644</id>
+        <link href="https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english"/>
+        <updated>2021-05-23T01:10:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english
+Comments URL: https://news.ycombinator.com/item?id=27251644
+Points: 37
+# Comments: 34]]></summary>
+        <author>
+            <name>anotherevan</name>
         </author>
     </entry>
     <entry>
@@ -138,7 +177,7 @@ Points: 89
         <updated>2021-05-22T21:56:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://prog21.dadgum.com/22.html
 Comments URL: https://news.ycombinator.com/item?id=27250619
-Points: 113
+Points: 118
 # Comments: 15]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -151,8 +190,8 @@ Points: 113
         <updated>2021-05-22T21:52:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.includeos.org/
 Comments URL: https://news.ycombinator.com/item?id=27250596
-Points: 45
-# Comments: 3]]></summary>
+Points: 53
+# Comments: 4]]></summary>
         <author>
             <name>turrini</name>
         </author>
@@ -164,8 +203,8 @@ Points: 45
         <updated>2021-05-22T19:26:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/mikroskeem/tosh
 Comments URL: https://news.ycombinator.com/item?id=27249555
-Points: 162
-# Comments: 151]]></summary>
+Points: 177
+# Comments: 158]]></summary>
         <author>
             <name>Avamander</name>
         </author>
@@ -177,8 +216,8 @@ Points: 162
         <updated>2021-05-22T19:09:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pakkly.com
 Comments URL: https://news.ycombinator.com/item?id=27249413
-Points: 96
-# Comments: 43]]></summary>
+Points: 98
+# Comments: 45]]></summary>
         <author>
             <name>enatik</name>
         </author>
@@ -190,8 +229,8 @@ Points: 96
         <updated>2021-05-22T18:30:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://instruments.digital/inflation-adjusted-hn/
 Comments URL: https://news.ycombinator.com/item?id=27249082
-Points: 385
-# Comments: 105]]></summary>
+Points: 397
+# Comments: 109]]></summary>
         <author>
             <name>Aaronmacaron</name>
         </author>
@@ -203,8 +242,8 @@ Points: 385
         <updated>2021-05-22T18:29:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.kolibrios.org/en/
 Comments URL: https://news.ycombinator.com/item?id=27249075
-Points: 299
-# Comments: 86]]></summary>
+Points: 311
+# Comments: 90]]></summary>
         <author>
             <name>luke2m</name>
         </author>
@@ -216,36 +255,10 @@ Points: 299
         <updated>2021-05-22T18:15:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/frabert/ClangQL
 Comments URL: https://news.ycombinator.com/item?id=27248960
-Points: 67
+Points: 69
 # Comments: 6]]></summary>
         <author>
             <name>frabert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generate RSS feeds with grep(1), sed(1), and Awk(1)]]></title>
-        <id>https://news.ycombinator.com/item?id=27248383</id>
-        <link href="https://www.romanzolotarev.com/rssg.html"/>
-        <updated>2021-05-22T17:09:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.romanzolotarev.com/rssg.html
-Comments URL: https://news.ycombinator.com/item?id=27248383
-Points: 82
-# Comments: 20]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common data model mistakes made by startups]]></title>
-        <id>https://news.ycombinator.com/item?id=27248093</id>
-        <link href="https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html"/>
-        <updated>2021-05-22T16:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html
-Comments URL: https://news.ycombinator.com/item?id=27248093
-Points: 155
-# Comments: 83]]></summary>
-        <author>
-            <name>ReginaDeiPirati</name>
         </author>
     </entry>
     <entry>
@@ -255,23 +268,10 @@ Points: 155
         <updated>2021-05-22T15:47:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring
 Comments URL: https://news.ycombinator.com/item?id=27247621
-Points: 398
-# Comments: 196]]></summary>
+Points: 401
+# Comments: 203]]></summary>
         <author>
             <name>bananaoomarang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Floppinux – An Embedded Linux on a Single Floppy]]></title>
-        <id>https://news.ycombinator.com/item?id=27247612</id>
-        <link href="https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/"/>
-        <updated>2021-05-22T15:46:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/
-Comments URL: https://news.ycombinator.com/item?id=27247612
-Points: 139
-# Comments: 68]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -281,8 +281,8 @@ Points: 139
         <updated>2021-05-22T12:02:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/
 Comments URL: https://news.ycombinator.com/item?id=27245696
-Points: 193
-# Comments: 59]]></summary>
+Points: 204
+# Comments: 62]]></summary>
         <author>
             <name>umangkeshri</name>
         </author>
