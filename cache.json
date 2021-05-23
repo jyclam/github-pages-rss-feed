@@ -6,6 +6,24 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27256867",
+          "author": "azhenley",
+          "description": "Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html\nComments URL: https://news.ycombinator.com/item?id=27256867\nPoints: 6\n# Comments: 1",
+          "link": "https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html",
+          "publishedOn": "2021-05-23T17:37:25.000Z",
+          "wordCount": 458,
+          "title": "Why I prefer making useless stuff"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27256686",
+          "author": "Barenboim",
+          "description": "Article URL: https://github.com/sogou/workflow\nComments URL: https://news.ycombinator.com/item?id=27256686\nPoints: 23\n# Comments: 2",
+          "link": "https://github.com/sogou/workflow",
+          "publishedOn": "2021-05-23T17:15:00.000Z",
+          "wordCount": 1678,
+          "title": "C++ Workflow: C++ Parallel Computing and Asynchronous Networking Engine"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27256552",
           "author": "KMinshew",
           "description": "Article URL: https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&lever-source%5B%5D=YC\nComments URL: https://news.ycombinator.com/item?id=27256552\nPoints: 1\n# Comments: 0",
@@ -17,34 +35,43 @@
         {
           "id": "https://news.ycombinator.com/item?id=27256515",
           "author": "parsecs",
-          "description": "Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html\nComments URL: https://news.ycombinator.com/item?id=27256515\nPoints: 24\n# Comments: 2",
+          "description": "Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html\nComments URL: https://news.ycombinator.com/item?id=27256515\nPoints: 60\n# Comments: 12",
           "link": "https://www.righto.com/2021/05/teardown-of-pc-power-supply.html",
           "publishedOn": "2021-05-23T16:55:08.000Z",
-          "wordCount": 3953,
+          "wordCount": 3963,
           "title": "Teardown of a PC Power Supply"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27256474",
           "author": "kensai",
-          "description": "Article URL: https://www.bbc.com/news/world-europe-57219860\nComments URL: https://news.ycombinator.com/item?id=27256474\nPoints: 28\n# Comments: 4",
+          "description": "Article URL: https://www.bbc.com/news/world-europe-57219860\nComments URL: https://news.ycombinator.com/item?id=27256474\nPoints: 297\n# Comments: 55",
           "link": "https://www.bbc.com/news/world-europe-57219860",
           "publishedOn": "2021-05-23T16:50:02.000Z",
-          "wordCount": 1583,
+          "wordCount": 1626,
           "title": "Belarus diverts Ryanair flight to arrest journalist"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27256262",
           "author": "wwwtyro",
-          "description": "Article URL: https://github.com/wwwtyro/candygraph\nComments URL: https://news.ycombinator.com/item?id=27256262\nPoints: 7\n# Comments: 2",
+          "description": "Article URL: https://github.com/wwwtyro/candygraph\nComments URL: https://news.ycombinator.com/item?id=27256262\nPoints: 20\n# Comments: 7",
           "link": "https://github.com/wwwtyro/candygraph",
           "publishedOn": "2021-05-23T16:28:02.000Z",
           "wordCount": 864,
           "title": "Show HN: CandyGraph, a flexible, fast-by-default WebGL plotting library"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27256178",
+          "author": "weejewel",
+          "description": "Article URL: https://github.com/WeeJeWel/wg-easy/blob/master/README.md\nComments URL: https://news.ycombinator.com/item?id=27256178\nPoints: 14\n# Comments: 0",
+          "link": "https://github.com/WeeJeWel/wg-easy/blob/master/README.md",
+          "publishedOn": "2021-05-23T16:18:57.000Z",
+          "wordCount": 555,
+          "title": "Show HN: Wg-easy] Easy to setup, all-in-one WireGuard and Management Web UI"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27255755",
           "author": "mhb",
-          "description": "Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/\nComments URL: https://news.ycombinator.com/item?id=27255755\nPoints: 75\n# Comments: 25",
+          "description": "Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/\nComments URL: https://news.ycombinator.com/item?id=27255755\nPoints: 104\n# Comments: 31",
           "link": "https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/",
           "publishedOn": "2021-05-23T15:37:58.000Z",
           "wordCount": 1600,
@@ -53,16 +80,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27255742",
           "author": "aerovistae",
-          "description": "I just got this email from Triplebyte:\nHey [name],\nIt’s been 12 months since you found the opportunity that’s right for for you on our platform. We hope things are going great!\nWe wanted to let you know that your profile is no longer hidden from companies on Triplebyte. Companies will be able to view your profile and reach out with opportunities through the platform.\nIf you’d like to maximize requests on Triplebyte, make sure your profile is up to date. We’ll use this information to match you with the best opportunities.\nComments URL: https://news.ycombinator.com/item?id=27255742\nPoints: 42\n# Comments: 6",
+          "description": "I just got this email from Triplebyte:\nHey [name],\nIt’s been 12 months since you found the opportunity that’s right for for you on our platform. We hope things are going great!\nWe wanted to let you know that your profile is no longer hidden from companies on Triplebyte. Companies will be able to view your profile and reach out with opportunities through the platform.\nIf you’d like to maximize requests on Triplebyte, make sure your profile is up to date. We’ll use this information to match you with the best opportunities.\nComments URL: https://news.ycombinator.com/item?id=27255742\nPoints: 91\n# Comments: 14",
           "link": "https://news.ycombinator.com/item?id=27255742",
           "publishedOn": "2021-05-23T15:36:45.000Z",
-          "wordCount": 543,
+          "wordCount": 920,
           "title": "Triplebyte now showing profiles by default without consent"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27255727",
           "author": "robin_reala",
-          "description": "Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci\nComments URL: https://news.ycombinator.com/item?id=27255727\nPoints: 42\n# Comments: 9",
+          "description": "Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci\nComments URL: https://news.ycombinator.com/item?id=27255727\nPoints: 54\n# Comments: 22",
           "link": "https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci",
           "publishedOn": "2021-05-23T15:35:17.000Z",
           "wordCount": 1061,
@@ -71,34 +98,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27255561",
           "author": "cjnicholls",
-          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-57219860\nComments URL: https://news.ycombinator.com/item?id=27255561\nPoints: 271\n# Comments: 138",
+          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-57219860\nComments URL: https://news.ycombinator.com/item?id=27255561\nPoints: 377\n# Comments: 193",
           "link": "https://www.bbc.co.uk/news/world-europe-57219860",
           "publishedOn": "2021-05-23T15:18:34.000Z",
-          "wordCount": 1585,
+          "wordCount": 1628,
           "title": "Belarus 'diverts Ryanair flight to arrest journalist'"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27255524",
           "author": "marsokod",
-          "description": "Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html\nComments URL: https://news.ycombinator.com/item?id=27255524\nPoints: 26\n# Comments: 6",
+          "description": "Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html\nComments URL: https://news.ycombinator.com/item?id=27255524\nPoints: 33\n# Comments: 14",
           "link": "https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html",
           "publishedOn": "2021-05-23T15:14:40.000Z",
           "wordCount": 1523,
           "title": "ESA advances its plan for satellites around the Moon"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27255389",
-          "author": "guiambros",
-          "description": "Article URL: https://cointelegraph.com/news/authorities-are-looking-to-close-the-gap-on-unhosted-wallets\nComments URL: https://news.ycombinator.com/item?id=27255389\nPoints: 45\n# Comments: 29",
-          "link": "https://cointelegraph.com/news/authorities-are-looking-to-close-the-gap-on-unhosted-wallets",
-          "publishedOn": "2021-05-23T14:54:52.000Z",
-          "wordCount": null,
-          "title": "Authorities are looking to close the gap on crypto unhosted wallets"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27254838",
           "author": "HugoDaniel",
-          "description": "Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days\nComments URL: https://news.ycombinator.com/item?id=27254838\nPoints: 190\n# Comments: 14",
+          "description": "Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days\nComments URL: https://news.ycombinator.com/item?id=27254838\nPoints: 216\n# Comments: 17",
           "link": "https://github.com/psenough/teach_yourself_demoscene_in_14_days",
           "publishedOn": "2021-05-23T13:20:38.000Z",
           "wordCount": 6795,
@@ -107,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27254719",
           "author": "anandaverma18",
-          "description": "Article URL: https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/\nComments URL: https://news.ycombinator.com/item?id=27254719\nPoints: 428\n# Comments: 197",
+          "description": "Article URL: https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/\nComments URL: https://news.ycombinator.com/item?id=27254719\nPoints: 505\n# Comments: 239",
           "link": "https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/",
           "publishedOn": "2021-05-23T13:00:37.000Z",
           "wordCount": 3531,
@@ -116,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27254670",
           "author": "SkyLinx",
-          "description": "Article URL: https://www.dynablogger.com/\nComments URL: https://news.ycombinator.com/item?id=27254670\nPoints: 109\n# Comments: 53",
+          "description": "Article URL: https://www.dynablogger.com/\nComments URL: https://news.ycombinator.com/item?id=27254670\nPoints: 115\n# Comments: 61",
           "link": "https://www.dynablogger.com/",
           "publishedOn": "2021-05-23T12:53:00.000Z",
           "wordCount": 702,
@@ -125,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27254606",
           "author": "dade",
-          "description": "Article URL: https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/\nComments URL: https://news.ycombinator.com/item?id=27254606\nPoints: 78\n# Comments: 11",
+          "description": "Article URL: https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/\nComments URL: https://news.ycombinator.com/item?id=27254606\nPoints: 90\n# Comments: 13",
           "link": "https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/",
           "publishedOn": "2021-05-23T12:41:02.000Z",
           "wordCount": 4037,
@@ -134,25 +152,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27254480",
           "author": "SG16",
-          "description": "Article URL: https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3\nComments URL: https://news.ycombinator.com/item?id=27254480\nPoints: 33\n# Comments: 6",
+          "description": "Article URL: https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3\nComments URL: https://news.ycombinator.com/item?id=27254480\nPoints: 47\n# Comments: 8",
           "link": "https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3",
           "publishedOn": "2021-05-23T12:13:53.000Z",
           "wordCount": 1018,
           "title": "Rapid Prototyping with a $100 Inkjet Printer"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27254248",
-          "author": "kiyanwang",
-          "description": "Article URL: https://stackoverflow.blog/2021/05/19/rethinking-system-architecture-can-kubernetes-help-to-solve-rewrite-anxiety/\nComments URL: https://news.ycombinator.com/item?id=27254248\nPoints: 23\n# Comments: 0",
-          "link": "https://stackoverflow.blog/2021/05/19/rethinking-system-architecture-can-kubernetes-help-to-solve-rewrite-anxiety/",
-          "publishedOn": "2021-05-23T11:31:57.000Z",
-          "wordCount": 2590,
-          "title": "Using Kubernetes to rethink your system architecture and ease technical debt"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27254177",
           "author": "adnzzzzZ",
-          "description": "Article URL: https://github.com/a327ex/SNKRX\nComments URL: https://news.ycombinator.com/item?id=27254177\nPoints: 257\n# Comments: 52",
+          "description": "Article URL: https://github.com/a327ex/SNKRX\nComments URL: https://news.ycombinator.com/item?id=27254177\nPoints: 275\n# Comments: 54",
           "link": "https://github.com/a327ex/SNKRX",
           "publishedOn": "2021-05-23T11:17:43.000Z",
           "wordCount": 648,
@@ -161,29 +170,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27254100",
           "author": "pseudolus",
-          "description": "Article URL: https://www.cbc.ca/radio/quirks/may-15-california-condor-genetics-a-strange-star-goes-supernova-don-t-think-just-kick-and-more-1.6025290/for-soccer-players-the-less-brain-they-use-the-better-for-penalty-kicks-1.6025297\nComments URL: https://news.ycombinator.com/item?id=27254100\nPoints: 69\n# Comments: 64",
+          "description": "Article URL: https://www.cbc.ca/radio/quirks/may-15-california-condor-genetics-a-strange-star-goes-supernova-don-t-think-just-kick-and-more-1.6025290/for-soccer-players-the-less-brain-they-use-the-better-for-penalty-kicks-1.6025297\nComments URL: https://news.ycombinator.com/item?id=27254100\nPoints: 72\n# Comments: 72",
           "link": "https://www.cbc.ca/radio/quirks/may-15-california-condor-genetics-a-strange-star-goes-supernova-don-t-think-just-kick-and-more-1.6025290/for-soccer-players-the-less-brain-they-use-the-better-for-penalty-kicks-1.6025297",
           "publishedOn": "2021-05-23T11:00:15.000Z",
           "wordCount": 812,
           "title": "For soccer players, the less brain they use, the better for penalty kicks"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27253890",
-          "author": "manjana",
-          "description": "Article URL: https://yal.cc/preparing-your-game-for-deterministic-netcode/\nComments URL: https://news.ycombinator.com/item?id=27253890\nPoints: 86\n# Comments: 17",
-          "link": "https://yal.cc/preparing-your-game-for-deterministic-netcode/",
-          "publishedOn": "2021-05-23T10:19:01.000Z",
-          "wordCount": 2348,
-          "title": "Preparing your game for deterministic netcode"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27253518",
-          "author": "throwawaybutwhy",
-          "description": "Article URL: https://bs2manuals.ts.fujitsu.com/index_en\nComments URL: https://news.ycombinator.com/item?id=27253518\nPoints: 59\n# Comments: 26",
-          "link": "https://bs2manuals.ts.fujitsu.com/index_en",
-          "publishedOn": "2021-05-23T09:12:51.000Z",
-          "wordCount": 171,
-          "title": "Fujitsu BS2000 Operating System Manuals"
+          "id": "https://news.ycombinator.com/item?id=27253938",
+          "author": "allenleein",
+          "description": "Article URL: https://thume.ca/2020/08/15/ropshipai/\nComments URL: https://news.ycombinator.com/item?id=27253938\nPoints: 6\n# Comments: 0",
+          "link": "https://thume.ca/2020/08/15/ropshipai/",
+          "publishedOn": "2021-05-23T10:26:49.000Z",
+          "wordCount": 2481,
+          "title": "Reverse engineering an AI spaceship game at DEF CON CTF"
         }
       ]
     },

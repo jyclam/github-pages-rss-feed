@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T17:42:24.481Z</updated>
+    <updated>2021-05-23T18:29:07.973Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why I prefer making useless stuff]]></title>
+        <id>https://news.ycombinator.com/item?id=27256867</id>
+        <link href="https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html"/>
+        <updated>2021-05-23T17:37:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
+Comments URL: https://news.ycombinator.com/item?id=27256867
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>azhenley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ Workflow: C++ Parallel Computing and Asynchronous Networking Engine]]></title>
+        <id>https://news.ycombinator.com/item?id=27256686</id>
+        <link href="https://github.com/sogou/workflow"/>
+        <updated>2021-05-23T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/sogou/workflow
+Comments URL: https://news.ycombinator.com/item?id=27256686
+Points: 23
+# Comments: 2]]></summary>
+        <author>
+            <name>Barenboim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Muse (YC W12) Is Hiring a Senior Platform Engineer]]></title>
         <id>https://news.ycombinator.com/item?id=27256552</id>
@@ -26,8 +52,8 @@ Points: 1
         <updated>2021-05-23T16:55:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html
 Comments URL: https://news.ycombinator.com/item?id=27256515
-Points: 24
-# Comments: 2]]></summary>
+Points: 60
+# Comments: 12]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -39,8 +65,8 @@ Points: 24
         <updated>2021-05-23T16:50:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57219860
 Comments URL: https://news.ycombinator.com/item?id=27256474
-Points: 28
-# Comments: 4]]></summary>
+Points: 297
+# Comments: 55]]></summary>
         <author>
             <name>kensai</name>
         </author>
@@ -52,10 +78,23 @@ Points: 28
         <updated>2021-05-23T16:28:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wwwtyro/candygraph
 Comments URL: https://news.ycombinator.com/item?id=27256262
-Points: 7
-# Comments: 2]]></summary>
+Points: 20
+# Comments: 7]]></summary>
         <author>
             <name>wwwtyro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Wg-easy] Easy to setup, all-in-one WireGuard and Management Web UI]]></title>
+        <id>https://news.ycombinator.com/item?id=27256178</id>
+        <link href="https://github.com/WeeJeWel/wg-easy/blob/master/README.md"/>
+        <updated>2021-05-23T16:18:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/WeeJeWel/wg-easy/blob/master/README.md
+Comments URL: https://news.ycombinator.com/item?id=27256178
+Points: 14
+# Comments: 0]]></summary>
+        <author>
+            <name>weejewel</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +104,8 @@ Points: 7
         <updated>2021-05-23T15:37:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/
 Comments URL: https://news.ycombinator.com/item?id=27255755
-Points: 75
-# Comments: 25]]></summary>
+Points: 104
+# Comments: 31]]></summary>
         <author>
             <name>mhb</name>
         </author>
@@ -82,8 +121,8 @@ It’s been 12 months since you found the opportunity that’s right for for you
 We wanted to let you know that your profile is no longer hidden from companies on Triplebyte. Companies will be able to view your profile and reach out with opportunities through the platform.
 If you’d like to maximize requests on Triplebyte, make sure your profile is up to date. We’ll use this information to match you with the best opportunities.
 Comments URL: https://news.ycombinator.com/item?id=27255742
-Points: 42
-# Comments: 6]]></summary>
+Points: 91
+# Comments: 14]]></summary>
         <author>
             <name>aerovistae</name>
         </author>
@@ -95,8 +134,8 @@ Points: 42
         <updated>2021-05-23T15:35:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci
 Comments URL: https://news.ycombinator.com/item?id=27255727
-Points: 42
-# Comments: 9]]></summary>
+Points: 54
+# Comments: 22]]></summary>
         <author>
             <name>robin_reala</name>
         </author>
@@ -108,8 +147,8 @@ Points: 42
         <updated>2021-05-23T15:18:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-europe-57219860
 Comments URL: https://news.ycombinator.com/item?id=27255561
-Points: 271
-# Comments: 138]]></summary>
+Points: 377
+# Comments: 193]]></summary>
         <author>
             <name>cjnicholls</name>
         </author>
@@ -121,23 +160,10 @@ Points: 271
         <updated>2021-05-23T15:14:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html
 Comments URL: https://news.ycombinator.com/item?id=27255524
-Points: 26
-# Comments: 6]]></summary>
+Points: 33
+# Comments: 14]]></summary>
         <author>
             <name>marsokod</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authorities are looking to close the gap on crypto unhosted wallets]]></title>
-        <id>https://news.ycombinator.com/item?id=27255389</id>
-        <link href="https://cointelegraph.com/news/authorities-are-looking-to-close-the-gap-on-unhosted-wallets"/>
-        <updated>2021-05-23T14:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cointelegraph.com/news/authorities-are-looking-to-close-the-gap-on-unhosted-wallets
-Comments URL: https://news.ycombinator.com/item?id=27255389
-Points: 45
-# Comments: 29]]></summary>
-        <author>
-            <name>guiambros</name>
         </author>
     </entry>
     <entry>
@@ -147,8 +173,8 @@ Points: 45
         <updated>2021-05-23T13:20:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days
 Comments URL: https://news.ycombinator.com/item?id=27254838
-Points: 190
-# Comments: 14]]></summary>
+Points: 216
+# Comments: 17]]></summary>
         <author>
             <name>HugoDaniel</name>
         </author>
@@ -160,8 +186,8 @@ Points: 190
         <updated>2021-05-23T13:00:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/
 Comments URL: https://news.ycombinator.com/item?id=27254719
-Points: 428
-# Comments: 197]]></summary>
+Points: 505
+# Comments: 239]]></summary>
         <author>
             <name>anandaverma18</name>
         </author>
@@ -173,8 +199,8 @@ Points: 428
         <updated>2021-05-23T12:53:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dynablogger.com/
 Comments URL: https://news.ycombinator.com/item?id=27254670
-Points: 109
-# Comments: 53]]></summary>
+Points: 115
+# Comments: 61]]></summary>
         <author>
             <name>SkyLinx</name>
         </author>
@@ -186,8 +212,8 @@ Points: 109
         <updated>2021-05-23T12:41:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/
 Comments URL: https://news.ycombinator.com/item?id=27254606
-Points: 78
-# Comments: 11]]></summary>
+Points: 90
+# Comments: 13]]></summary>
         <author>
             <name>dade</name>
         </author>
@@ -199,23 +225,10 @@ Points: 78
         <updated>2021-05-23T12:13:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3
 Comments URL: https://news.ycombinator.com/item?id=27254480
-Points: 33
-# Comments: 6]]></summary>
+Points: 47
+# Comments: 8]]></summary>
         <author>
             <name>SG16</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Kubernetes to rethink your system architecture and ease technical debt]]></title>
-        <id>https://news.ycombinator.com/item?id=27254248</id>
-        <link href="https://stackoverflow.blog/2021/05/19/rethinking-system-architecture-can-kubernetes-help-to-solve-rewrite-anxiety/"/>
-        <updated>2021-05-23T11:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stackoverflow.blog/2021/05/19/rethinking-system-architecture-can-kubernetes-help-to-solve-rewrite-anxiety/
-Comments URL: https://news.ycombinator.com/item?id=27254248
-Points: 23
-# Comments: 0]]></summary>
-        <author>
-            <name>kiyanwang</name>
         </author>
     </entry>
     <entry>
@@ -225,8 +238,8 @@ Points: 23
         <updated>2021-05-23T11:17:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/a327ex/SNKRX
 Comments URL: https://news.ycombinator.com/item?id=27254177
-Points: 257
-# Comments: 52]]></summary>
+Points: 275
+# Comments: 54]]></summary>
         <author>
             <name>adnzzzzZ</name>
         </author>
@@ -238,36 +251,23 @@ Points: 257
         <updated>2021-05-23T11:00:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/radio/quirks/may-15-california-condor-genetics-a-strange-star-goes-supernova-don-t-think-just-kick-and-more-1.6025290/for-soccer-players-the-less-brain-they-use-the-better-for-penalty-kicks-1.6025297
 Comments URL: https://news.ycombinator.com/item?id=27254100
-Points: 69
-# Comments: 64]]></summary>
+Points: 72
+# Comments: 72]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Preparing your game for deterministic netcode]]></title>
-        <id>https://news.ycombinator.com/item?id=27253890</id>
-        <link href="https://yal.cc/preparing-your-game-for-deterministic-netcode/"/>
-        <updated>2021-05-23T10:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://yal.cc/preparing-your-game-for-deterministic-netcode/
-Comments URL: https://news.ycombinator.com/item?id=27253890
-Points: 86
-# Comments: 17]]></summary>
+        <title type="html"><![CDATA[Reverse engineering an AI spaceship game at DEF CON CTF]]></title>
+        <id>https://news.ycombinator.com/item?id=27253938</id>
+        <link href="https://thume.ca/2020/08/15/ropshipai/"/>
+        <updated>2021-05-23T10:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thume.ca/2020/08/15/ropshipai/
+Comments URL: https://news.ycombinator.com/item?id=27253938
+Points: 6
+# Comments: 0]]></summary>
         <author>
-            <name>manjana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fujitsu BS2000 Operating System Manuals]]></title>
-        <id>https://news.ycombinator.com/item?id=27253518</id>
-        <link href="https://bs2manuals.ts.fujitsu.com/index_en"/>
-        <updated>2021-05-23T09:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bs2manuals.ts.fujitsu.com/index_en
-Comments URL: https://news.ycombinator.com/item?id=27253518
-Points: 59
-# Comments: 26]]></summary>
-        <author>
-            <name>throwawaybutwhy</name>
+            <name>allenleein</name>
         </author>
     </entry>
     <entry>
