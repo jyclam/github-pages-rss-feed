@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T20:14:41.217Z</updated>
+    <updated>2021-05-23T21:12:27.136Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rustc_codegen_GCC can now run libcore’s tests and pass most of them]]></title>
+        <id>https://news.ycombinator.com/item?id=27258522</id>
+        <link href="https://blog.antoyo.xyz/rustc_codegen_gcc-run-core-tests"/>
+        <updated>2021-05-23T20:57:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.antoyo.xyz/rustc_codegen_gcc-run-core-tests
+Comments URL: https://news.ycombinator.com/item?id=27258522
+Points: 19
+# Comments: 1]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save 500€/Year Switching from Mailchimp to Open Source Mailtrain and AWS SES]]></title>
+        <id>https://news.ycombinator.com/item?id=27258502</id>
+        <link href="https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/"/>
+        <updated>2021-05-23T20:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/
+Comments URL: https://news.ycombinator.com/item?id=27258502
+Points: 7
+# Comments: 4]]></summary>
+        <author>
+            <name>edward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cray-2 Memories [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27257924</id>
+        <link href="http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf"/>
+        <updated>2021-05-23T19:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf
+Comments URL: https://news.ycombinator.com/item?id=27257924
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>pinewurst</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neural Network Enabled Filmmaking]]></title>
         <id>https://news.ycombinator.com/item?id=27257658</id>
@@ -13,8 +52,8 @@
         <updated>2021-05-23T19:11:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.flawlessai.com/
 Comments URL: https://news.ycombinator.com/item?id=27257658
-Points: 9
-# Comments: 3]]></summary>
+Points: 21
+# Comments: 7]]></summary>
         <author>
             <name>doener</name>
         </author>
@@ -26,8 +65,8 @@ Points: 9
         <updated>2021-05-23T19:09:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vitalik.ca/general/2021/05/23/scaling.html
 Comments URL: https://news.ycombinator.com/item?id=27257641
-Points: 72
-# Comments: 14]]></summary>
+Points: 147
+# Comments: 114]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -39,8 +78,8 @@ Points: 72
         <updated>2021-05-23T17:37:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
 Comments URL: https://news.ycombinator.com/item?id=27256867
-Points: 95
-# Comments: 27]]></summary>
+Points: 134
+# Comments: 36]]></summary>
         <author>
             <name>azhenley</name>
         </author>
@@ -52,8 +91,8 @@ Points: 95
         <updated>2021-05-23T17:37:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.knotend.com
 Comments URL: https://news.ycombinator.com/item?id=27256861
-Points: 16
-# Comments: 3]]></summary>
+Points: 20
+# Comments: 5]]></summary>
         <author>
             <name>escot</name>
         </author>
@@ -65,10 +104,23 @@ Points: 16
         <updated>2021-05-23T17:26:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.kiter.app/#/
 Comments URL: https://news.ycombinator.com/item?id=27256776
-Points: 17
-# Comments: 8]]></summary>
+Points: 23
+# Comments: 12]]></summary>
         <author>
             <name>pbmango</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Tips to Writing RISC-V Assembly]]></title>
+        <id>https://news.ycombinator.com/item?id=27256690</id>
+        <link href="https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/"/>
+        <updated>2021-05-23T17:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/
+Comments URL: https://news.ycombinator.com/item?id=27256690
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>azhenley</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +130,8 @@ Points: 17
         <updated>2021-05-23T17:15:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/sogou/workflow
 Comments URL: https://news.ycombinator.com/item?id=27256686
-Points: 43
-# Comments: 9]]></summary>
+Points: 44
+# Comments: 11]]></summary>
         <author>
             <name>Barenboim</name>
         </author>
@@ -104,23 +156,10 @@ Points: 1
         <updated>2021-05-23T16:55:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html
 Comments URL: https://news.ycombinator.com/item?id=27256515
-Points: 127
-# Comments: 56]]></summary>
+Points: 153
+# Comments: 72]]></summary>
         <author>
             <name>parsecs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belarus diverts Ryanair flight to arrest journalist]]></title>
-        <id>https://news.ycombinator.com/item?id=27256474</id>
-        <link href="https://www.bbc.com/news/world-europe-57219860"/>
-        <updated>2021-05-23T16:50:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57219860
-Comments URL: https://news.ycombinator.com/item?id=27256474
-Points: 671
-# Comments: 189]]></summary>
-        <author>
-            <name>kensai</name>
         </author>
     </entry>
     <entry>
@@ -130,8 +169,8 @@ Points: 671
         <updated>2021-05-23T16:28:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wwwtyro/candygraph
 Comments URL: https://news.ycombinator.com/item?id=27256262
-Points: 37
-# Comments: 10]]></summary>
+Points: 40
+# Comments: 13]]></summary>
         <author>
             <name>wwwtyro</name>
         </author>
@@ -143,8 +182,8 @@ Points: 37
         <updated>2021-05-23T16:18:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/WeeJeWel/wg-easy/blob/master/README.md
 Comments URL: https://news.ycombinator.com/item?id=27256178
-Points: 48
-# Comments: 3]]></summary>
+Points: 54
+# Comments: 4]]></summary>
         <author>
             <name>weejewel</name>
         </author>
@@ -156,8 +195,8 @@ Points: 48
         <updated>2021-05-23T15:37:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/
 Comments URL: https://news.ycombinator.com/item?id=27255755
-Points: 148
-# Comments: 38]]></summary>
+Points: 164
+# Comments: 39]]></summary>
         <author>
             <name>mhb</name>
         </author>
@@ -173,8 +212,8 @@ It’s been 12 months since you found the opportunity that’s right for for you
 We wanted to let you know that your profile is no longer hidden from companies on Triplebyte. Companies will be able to view your profile and reach out with opportunities through the platform.
 If you’d like to maximize requests on Triplebyte, make sure your profile is up to date. We’ll use this information to match you with the best opportunities.
 Comments URL: https://news.ycombinator.com/item?id=27255742
-Points: 150
-# Comments: 39]]></summary>
+Points: 179
+# Comments: 46]]></summary>
         <author>
             <name>aerovistae</name>
         </author>
@@ -186,10 +225,23 @@ Points: 150
         <updated>2021-05-23T15:35:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci
 Comments URL: https://news.ycombinator.com/item?id=27255727
-Points: 71
-# Comments: 30]]></summary>
+Points: 81
+# Comments: 31]]></summary>
         <author>
             <name>robin_reala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Belarus 'diverts Ryanair flight to arrest journalist', opposition says]]></title>
+        <id>https://news.ycombinator.com/item?id=27255561</id>
+        <link href="https://www.bbc.co.uk/news/world-europe-57219860"/>
+        <updated>2021-05-23T15:18:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-europe-57219860
+Comments URL: https://news.ycombinator.com/item?id=27255561
+Points: 503
+# Comments: 235]]></summary>
+        <author>
+            <name>cjnicholls</name>
         </author>
     </entry>
     <entry>
@@ -199,8 +251,8 @@ Points: 71
         <updated>2021-05-23T15:14:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html
 Comments URL: https://news.ycombinator.com/item?id=27255524
-Points: 57
-# Comments: 23]]></summary>
+Points: 65
+# Comments: 30]]></summary>
         <author>
             <name>marsokod</name>
         </author>
@@ -212,62 +264,10 @@ Points: 57
         <updated>2021-05-23T13:20:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days
 Comments URL: https://news.ycombinator.com/item?id=27254838
-Points: 258
-# Comments: 25]]></summary>
+Points: 278
+# Comments: 28]]></summary>
         <author>
             <name>HugoDaniel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One man’s fight for the right to repair broken MacBooks]]></title>
-        <id>https://news.ycombinator.com/item?id=27254719</id>
-        <link href="https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/"/>
-        <updated>2021-05-23T13:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/
-Comments URL: https://news.ycombinator.com/item?id=27254719
-Points: 643
-# Comments: 276]]></summary>
-        <author>
-            <name>anandaverma18</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A simple blogging platform I built out of frustration with other tools]]></title>
-        <id>https://news.ycombinator.com/item?id=27254670</id>
-        <link href="https://www.dynablogger.com/"/>
-        <updated>2021-05-23T12:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dynablogger.com/
-Comments URL: https://news.ycombinator.com/item?id=27254670
-Points: 131
-# Comments: 71]]></summary>
-        <author>
-            <name>SkyLinx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scion – A Novel Internet Architecture]]></title>
-        <id>https://news.ycombinator.com/item?id=27254606</id>
-        <link href="https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/"/>
-        <updated>2021-05-23T12:41:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/
-Comments URL: https://news.ycombinator.com/item?id=27254606
-Points: 96
-# Comments: 14]]></summary>
-        <author>
-            <name>dade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rapid Prototyping with a $100 Inkjet Printer]]></title>
-        <id>https://news.ycombinator.com/item?id=27254480</id>
-        <link href="https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3"/>
-        <updated>2021-05-23T12:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3
-Comments URL: https://news.ycombinator.com/item?id=27254480
-Points: 65
-# Comments: 9]]></summary>
-        <author>
-            <name>SG16</name>
         </author>
     </entry>
     <entry>
