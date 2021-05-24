@@ -6,27 +6,45 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27269639",
+          "author": "FabioFleitas",
+          "description": "Article URL: https://www.tesorio.com/careers#job-openings\nComments URL: https://news.ycombinator.com/item?id=27269639\nPoints: 1\n# Comments: 0",
+          "link": "https://www.tesorio.com/careers#job-openings",
+          "publishedOn": "2021-05-24T21:00:52.000Z",
+          "wordCount": 287,
+          "title": "Tesorio Is Hiring a Principal Data Architect to Join Our Leadership"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27269290",
+          "author": "alexanderdmitri",
+          "description": "Article URL: https://www.bbc.co.uk/news/technology-57011639\nComments URL: https://news.ycombinator.com/item?id=27269290\nPoints: 35\n# Comments: 31",
+          "link": "https://www.bbc.co.uk/news/technology-57011639",
+          "publishedOn": "2021-05-24T20:26:08.000Z",
+          "wordCount": 1273,
+          "title": "3 years of GDPR: The biggest fines so far"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27268537",
+          "author": "bmau5",
+          "description": "Article URL: https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/\nComments URL: https://news.ycombinator.com/item?id=27268537\nPoints: 34\n# Comments: 3",
+          "link": "https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/",
+          "publishedOn": "2021-05-24T19:17:49.000Z",
+          "wordCount": 2259,
+          "title": "Scientists use optogenetics for the first time to help a blind patient see again"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27268462",
           "author": "deegles",
-          "description": "Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/\nComments URL: https://news.ycombinator.com/item?id=27268462\nPoints: 52\n# Comments: 16",
+          "description": "Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/\nComments URL: https://news.ycombinator.com/item?id=27268462\nPoints: 107\n# Comments: 41",
           "link": "https://wejn.org/2021/02/urbit-good-bad-insane/",
           "publishedOn": "2021-05-24T19:09:23.000Z",
           "wordCount": 2573,
           "title": "Urbit: The good, the bad, and the insane"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27267852",
-          "author": "walterbell",
-          "description": "Article URL: https://www.nature.com/articles/s41586-021-03647-4.epdf?sharing_token=2bD5mZYd0Lb4kRjPJEClptRgN0jAjWel9jnR3ZoTv0NZhpDgSZLI7_fsIhPOWeIJ1diSQO20_EoDjgJbiSiQ2_fyxVwlNfADlUAbRn9GThkDeP-tAn0H0axaMYdDUDJNS__xetM-TOktuE94sVDjefdlAcl-Vos5feOTSgLXCYc%3D\nComments URL: https://news.ycombinator.com/item?id=27267852\nPoints: 51\n# Comments: 25",
-          "link": "https://www.nature.com/articles/s41586-021-03647-4.epdf?sharing_token=2bD5mZYd0Lb4kRjPJEClptRgN0jAjWel9jnR3ZoTv0NZhpDgSZLI7_fsIhPOWeIJ1diSQO20_EoDjgJbiSiQ2_fyxVwlNfADlUAbRn9GThkDeP-tAn0H0axaMYdDUDJNS__xetM-TOktuE94sVDjefdlAcl-Vos5feOTSgLXCYc%3D",
-          "publishedOn": "2021-05-24T18:19:19.000Z",
-          "wordCount": 23,
-          "title": "SARS-CoV-2 infection induces long-lived bone marrow plasma cells in humans"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27267368",
           "author": "gregdoesit",
-          "description": "Article URL: https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/\nComments URL: https://news.ycombinator.com/item?id=27267368\nPoints: 143\n# Comments: 113",
+          "description": "Article URL: https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/\nComments URL: https://news.ycombinator.com/item?id=27267368\nPoints: 169\n# Comments: 138",
           "link": "https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/",
           "publishedOn": "2021-05-24T17:41:07.000Z",
           "wordCount": 4238,
@@ -35,7 +53,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27267066",
           "author": "zbentley",
-          "description": "Article URL: http://www.cmyr.net/blog/rust-python-learnings.html\nComments URL: https://news.ycombinator.com/item?id=27267066\nPoints: 105\n# Comments: 59",
+          "description": "Article URL: http://www.cmyr.net/blog/rust-python-learnings.html\nComments URL: https://news.ycombinator.com/item?id=27267066\nPoints: 134\n# Comments: 82",
           "link": "http://www.cmyr.net/blog/rust-python-learnings.html",
           "publishedOn": "2021-05-24T17:18:15.000Z",
           "wordCount": 2596,
@@ -44,25 +62,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27267007",
           "author": "digikata",
-          "description": "Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/\nComments URL: https://news.ycombinator.com/item?id=27267007\nPoints: 33\n# Comments: 2",
+          "description": "Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/\nComments URL: https://news.ycombinator.com/item?id=27267007\nPoints: 47\n# Comments: 4",
           "link": "https://clickhouse.tech/blog/en/2021/reading-from-external-memory/",
           "publishedOn": "2021-05-24T17:13:44.000Z",
           "wordCount": 1174,
           "title": "A journey to io_uring, AIO and modern storage devices"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27266826",
-          "author": "jstreebin",
-          "description": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=27266826\nPoints: 1\n# Comments: 0",
-          "link": "https://www.easypost.com/careers",
-          "publishedOn": "2021-05-24T17:00:48.000Z",
-          "wordCount": 381,
-          "title": "EasyPost (YC S13) Is Hiring (Remote)"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27266551",
           "author": "teleforce",
-          "description": "Article URL: http://www.knosof.co.uk/ESEUR/\nComments URL: https://news.ycombinator.com/item?id=27266551\nPoints: 68\n# Comments: 4",
+          "description": "Article URL: http://www.knosof.co.uk/ESEUR/\nComments URL: https://news.ycombinator.com/item?id=27266551\nPoints: 87\n# Comments: 7",
           "link": "http://www.knosof.co.uk/ESEUR/",
           "publishedOn": "2021-05-24T16:43:30.000Z",
           "wordCount": 453,
@@ -71,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27266485",
           "author": "teleforce",
-          "description": "Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/\nComments URL: https://news.ycombinator.com/item?id=27266485\nPoints: 134\n# Comments: 75",
+          "description": "Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/\nComments URL: https://news.ycombinator.com/item?id=27266485\nPoints: 168\n# Comments: 86",
           "link": "https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/",
           "publishedOn": "2021-05-24T16:39:07.000Z",
           "wordCount": 1736,
@@ -80,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27265836",
           "author": "theafh",
-          "description": "Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/\nComments URL: https://news.ycombinator.com/item?id=27265836\nPoints: 45\n# Comments: 0",
+          "description": "Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/\nComments URL: https://news.ycombinator.com/item?id=27265836\nPoints: 62\n# Comments: 1",
           "link": "https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/",
           "publishedOn": "2021-05-24T15:52:49.000Z",
           "wordCount": 2854,
@@ -89,10 +98,10 @@
         {
           "id": "https://news.ycombinator.com/item?id=27265645",
           "author": "de_keyboard",
-          "description": "Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/\nComments URL: https://news.ycombinator.com/item?id=27265645\nPoints: 60\n# Comments: 88",
+          "description": "Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/\nComments URL: https://news.ycombinator.com/item?id=27265645\nPoints: 78\n# Comments: 128",
           "link": "https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/",
           "publishedOn": "2021-05-24T15:40:49.000Z",
-          "wordCount": 2462,
+          "wordCount": 2454,
           "title": "Why did bar ends go away from mountain bikes?"
         },
         {
@@ -107,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27265340",
           "author": "kemonocode",
-          "description": "Article URL: https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/\nComments URL: https://news.ycombinator.com/item?id=27265340\nPoints: 222\n# Comments: 97",
+          "description": "Article URL: https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/\nComments URL: https://news.ycombinator.com/item?id=27265340\nPoints: 233\n# Comments: 107",
           "link": "https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/",
           "publishedOn": "2021-05-24T15:18:00.000Z",
           "wordCount": 675,
@@ -116,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27265209",
           "author": "tosh",
-          "description": "Article URL: https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen\nComments URL: https://news.ycombinator.com/item?id=27265209\nPoints: 120\n# Comments: 81",
+          "description": "Article URL: https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen\nComments URL: https://news.ycombinator.com/item?id=27265209\nPoints: 124\n# Comments: 94",
           "link": "https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen",
           "publishedOn": "2021-05-24T15:06:39.000Z",
           "wordCount": 669,
@@ -125,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27264988",
           "author": "jukkakoskinen",
-          "description": "Article URL: https://vivirenremoto.github.io/doomcaptcha/\nComments URL: https://news.ycombinator.com/item?id=27264988\nPoints: 87\n# Comments: 20",
+          "description": "Article URL: https://vivirenremoto.github.io/doomcaptcha/\nComments URL: https://news.ycombinator.com/item?id=27264988\nPoints: 140\n# Comments: 43",
           "link": "https://vivirenremoto.github.io/doomcaptcha/",
           "publishedOn": "2021-05-24T14:48:57.000Z",
           "wordCount": 318,
@@ -134,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27264777",
           "author": "jasim",
-          "description": "Article URL: https://tomassetti.me/parsing-in-javascript/#chevrotain\nComments URL: https://news.ycombinator.com/item?id=27264777\nPoints: 46\n# Comments: 13",
+          "description": "Article URL: https://tomassetti.me/parsing-in-javascript/#chevrotain\nComments URL: https://news.ycombinator.com/item?id=27264777\nPoints: 53\n# Comments: 13",
           "link": "https://tomassetti.me/parsing-in-javascript/#chevrotain",
           "publishedOn": "2021-05-24T14:32:01.000Z",
           "wordCount": 6965,
@@ -143,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27264514",
           "author": "todsacerdoti",
-          "description": "Article URL: https://nezhar.com/blog/increase-performance-via-range-fields-in-django-querysets-on-postgresql/\nComments URL: https://news.ycombinator.com/item?id=27264514\nPoints: 20\n# Comments: 2",
+          "description": "Article URL: https://nezhar.com/blog/increase-performance-via-range-fields-in-django-querysets-on-postgresql/\nComments URL: https://news.ycombinator.com/item?id=27264514\nPoints: 22\n# Comments: 3",
           "link": "https://nezhar.com/blog/increase-performance-via-range-fields-in-django-querysets-on-postgresql/",
           "publishedOn": "2021-05-24T14:07:11.000Z",
           "wordCount": 878,
@@ -152,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27264500",
           "author": "baobabKoodaa",
-          "description": "Article URL: https://cloudbite.attejuvonen.fi/\nComments URL: https://news.ycombinator.com/item?id=27264500\nPoints: 221\n# Comments: 66",
+          "description": "Article URL: https://cloudbite.attejuvonen.fi/\nComments URL: https://news.ycombinator.com/item?id=27264500\nPoints: 236\n# Comments: 76",
           "link": "https://cloudbite.attejuvonen.fi/",
           "publishedOn": "2021-05-24T14:06:03.000Z",
           "wordCount": 62,
@@ -161,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27264295",
           "author": "pseudolus",
-          "description": "Article URL: https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview\nComments URL: https://news.ycombinator.com/item?id=27264295\nPoints: 130\n# Comments: 65",
+          "description": "Article URL: https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview\nComments URL: https://news.ycombinator.com/item?id=27264295\nPoints: 143\n# Comments: 76",
           "link": "https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview",
           "publishedOn": "2021-05-24T13:46:27.000Z",
           "wordCount": 1596,
@@ -170,20 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27263875",
           "author": "theBashShell",
-          "description": "Article URL: https://www.cppstories.com/2021/security-sins/\nComments URL: https://news.ycombinator.com/item?id=27263875\nPoints: 34\n# Comments: 6",
+          "description": "Article URL: https://www.cppstories.com/2021/security-sins/\nComments URL: https://news.ycombinator.com/item?id=27263875\nPoints: 38\n# Comments: 8",
           "link": "https://www.cppstories.com/2021/security-sins/",
           "publishedOn": "2021-05-24T13:06:05.000Z",
           "wordCount": 1716,
           "title": "C++ Software Security Sins: Basic Issues"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27263585",
-          "author": "danny00",
-          "description": "Article URL: https://www.joshmcguigan.com/blog/array-initialization-rust/\nComments URL: https://news.ycombinator.com/item?id=27263585\nPoints: 87\n# Comments: 27",
-          "link": "https://www.joshmcguigan.com/blog/array-initialization-rust/",
-          "publishedOn": "2021-05-24T12:32:54.000Z",
-          "wordCount": 1283,
-          "title": "Methods for Array Initialization in Rust (2018)"
         }
       ]
     },
@@ -695,6 +695,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60ac07ec11ffb70827ef66e4",
+          "author": null,
+          "description": "CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/",
+          "publishedOn": "2021-05-24T20:36:07.000Z",
+          "wordCount": 319,
+          "title": "How to Use CSS Media Queries to Create Responsive Websites"
+        },
+        {
           "id": "60aa161211ffb70827ef5f2c",
           "author": null,
           "description": "Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking",
@@ -774,15 +783,6 @@
           "publishedOn": "2021-05-19T21:09:01.000Z",
           "wordCount": 2087,
           "title": "What is Web3? The Decentralized Internet of the Future Explained"
-        },
-        {
-          "id": "60a469ec906c5207e3a7e1b9",
-          "author": null,
-          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
-          "publishedOn": "2021-05-19T17:30:08.000Z",
-          "wordCount": 1981,
-          "title": "How to Optimize for Change in Software Development"
         }
       ]
     }
