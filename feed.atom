@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T22:15:07.498Z</updated>
+    <updated>2021-05-24T23:13:35.807Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Florida Governor Signs Bill to fine tech companies that block politicians]]></title>
+        <id>https://news.ycombinator.com/item?id=27270490</id>
+        <link href="https://www.flgov.com/2021/05/24/governor-ron-desantis-signs-bill-to-stop-the-censorship-of-floridians-by-big-tech/"/>
+        <updated>2021-05-24T22:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.flgov.com/2021/05/24/governor-ron-desantis-signs-bill-to-stop-the-censorship-of-floridians-by-big-tech/
+Comments URL: https://news.ycombinator.com/item?id=27270490
+Points: 36
+# Comments: 8]]></summary>
+        <author>
+            <name>grappler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia gives Google 24 hours to delete banned content]]></title>
+        <id>https://news.ycombinator.com/item?id=27270287</id>
+        <link href="https://www.reuters.com/technology/russia-gives-google-one-day-delete-banned-content-threatens-slowdown-2021-05-24/"/>
+        <updated>2021-05-24T22:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/russia-gives-google-one-day-delete-banned-content-threatens-slowdown-2021-05-24/
+Comments URL: https://news.ycombinator.com/item?id=27270287
+Points: 15
+# Comments: 2]]></summary>
+        <author>
+            <name>tareqak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Performance]]></title>
+        <id>https://css-tricks.com/?p=340808</id>
+        <link href="https://css-tricks.com/links-on-performance/"/>
+        <updated>2021-05-24T22:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, 
+…
+The post Links on Performance appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape 1.1]]></title>
+        <id>https://news.ycombinator.com/item?id=27270070</id>
+        <link href="https://inkscape.org/news/2021/05/24/welcome-inkscape-11/"/>
+        <updated>2021-05-24T21:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://inkscape.org/news/2021/05/24/welcome-inkscape-11/
+Comments URL: https://news.ycombinator.com/item?id=27270070
+Points: 129
+# Comments: 27]]></summary>
+        <author>
+            <name>RaitoBezarius</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
         <id>60aaba5911ffb70827ef5ffc</id>
@@ -30,6 +82,19 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Elk OS – The Audio Operating System]]></title>
+        <id>https://news.ycombinator.com/item?id=27269589</id>
+        <link href="https://elk.audio/audio-os/"/>
+        <updated>2021-05-24T20:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://elk.audio/audio-os/
+Comments URL: https://news.ycombinator.com/item?id=27269589
+Points: 26
+# Comments: 4]]></summary>
+        <author>
+            <name>ushakov</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Use CSS Media Queries to Create Responsive Websites]]></title>
         <id>60ac07ec11ffb70827ef66e4</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/"/>
@@ -40,14 +105,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Replit now supports every programming language]]></title>
+        <title type="html"><![CDATA[Replit now supports every programming language in Nix]]></title>
         <id>https://news.ycombinator.com/item?id=27269292</id>
         <link href="https://blog.replit.com/nix"/>
         <updated>2021-05-24T20:26:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.replit.com/nix
 Comments URL: https://news.ycombinator.com/item?id=27269292
-Points: 45
-# Comments: 13]]></summary>
+Points: 84
+# Comments: 20]]></summary>
         <author>
             <name>bobrenjc93</name>
         </author>
@@ -63,14 +128,14 @@ Points: 45
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists use optogenetics for the first time to help a blind patient see again]]></title>
+        <title type="html"><![CDATA[Scientists use optogenetics to help a blind patient see again]]></title>
         <id>https://news.ycombinator.com/item?id=27268537</id>
         <link href="https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/"/>
         <updated>2021-05-24T19:17:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/
 Comments URL: https://news.ycombinator.com/item?id=27268537
-Points: 54
-# Comments: 5]]></summary>
+Points: 67
+# Comments: 6]]></summary>
         <author>
             <name>bmau5</name>
         </author>
@@ -98,36 +163,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-24T19:09:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/
 Comments URL: https://news.ycombinator.com/item?id=27268462
-Points: 130
-# Comments: 59]]></summary>
+Points: 148
+# Comments: 68]]></summary>
         <author>
             <name>deegles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Nears Deal to Buy Hollywood Studio MGM]]></title>
-        <id>https://news.ycombinator.com/item?id=27268288</id>
-        <link href="https://www.wsj.com/articles/amazon-nears-deal-to-buy-hollywood-studio-mgm-11621880759"/>
-        <updated>2021-05-24T18:53:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/amazon-nears-deal-to-buy-hollywood-studio-mgm-11621880759
-Comments URL: https://news.ycombinator.com/item?id=27268288
-Points: 63
-# Comments: 14]]></summary>
-        <author>
-            <name>lunchbreak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serendipity Finds You]]></title>
-        <id>https://news.ycombinator.com/item?id=27268273</id>
-        <link href="http://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html"/>
-        <updated>2021-05-24T18:52:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html
-Comments URL: https://news.ycombinator.com/item?id=27268273
-Points: 10
-# Comments: 0]]></summary>
-        <author>
-            <name>paulpauper</name>
         </author>
     </entry>
     <entry>
@@ -137,8 +176,8 @@ Points: 10
         <updated>2021-05-24T17:18:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.cmyr.net/blog/rust-python-learnings.html
 Comments URL: https://news.ycombinator.com/item?id=27267066
-Points: 143
-# Comments: 94]]></summary>
+Points: 153
+# Comments: 112]]></summary>
         <author>
             <name>zbentley</name>
         </author>
@@ -150,8 +189,8 @@ Points: 143
         <updated>2021-05-24T17:13:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/
 Comments URL: https://news.ycombinator.com/item?id=27267007
-Points: 60
-# Comments: 6]]></summary>
+Points: 72
+# Comments: 7]]></summary>
         <author>
             <name>digikata</name>
         </author>
@@ -163,21 +202,21 @@ Points: 60
         <updated>2021-05-24T16:43:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.knosof.co.uk/ESEUR/
 Comments URL: https://news.ycombinator.com/item?id=27266551
-Points: 99
-# Comments: 8]]></summary>
+Points: 106
+# Comments: 10]]></summary>
         <author>
             <name>teleforce</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Complexity is a source of income in open source ecosystems]]></title>
+        <title type="html"><![CDATA[Complexity is a source of income in open source ecosystems (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=27266485</id>
         <link href="https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/"/>
         <updated>2021-05-24T16:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/
 Comments URL: https://news.ycombinator.com/item?id=27266485
-Points: 206
-# Comments: 115]]></summary>
+Points: 223
+# Comments: 136]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -189,8 +228,8 @@ Points: 206
         <updated>2021-05-24T15:52:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/
 Comments URL: https://news.ycombinator.com/item?id=27265836
-Points: 72
-# Comments: 4]]></summary>
+Points: 80
+# Comments: 5]]></summary>
         <author>
             <name>theafh</name>
         </author>
@@ -202,8 +241,8 @@ Points: 72
         <updated>2021-05-24T15:40:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/
 Comments URL: https://news.ycombinator.com/item?id=27265645
-Points: 97
-# Comments: 151]]></summary>
+Points: 107
+# Comments: 180]]></summary>
         <author>
             <name>de_keyboard</name>
         </author>
@@ -221,27 +260,14 @@ Steve and I met in the open-sou…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What lies beneath: Evidence from leaked account data on offshore banking use]]></title>
-        <id>https://news.ycombinator.com/item?id=27265340</id>
-        <link href="https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/"/>
-        <updated>2021-05-24T15:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/
-Comments URL: https://news.ycombinator.com/item?id=27265340
-Points: 251
-# Comments: 125]]></summary>
-        <author>
-            <name>kemonocode</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft has turned the Surface Duo into a handheld Xbox]]></title>
         <id>https://news.ycombinator.com/item?id=27265209</id>
         <link href="https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen"/>
         <updated>2021-05-24T15:06:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen
 Comments URL: https://news.ycombinator.com/item?id=27265209
-Points: 132
-# Comments: 105]]></summary>
+Points: 135
+# Comments: 111]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -253,8 +279,8 @@ Points: 132
         <updated>2021-05-24T14:56:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/
 Comments URL: https://news.ycombinator.com/item?id=27265091
-Points: 21
-# Comments: 6]]></summary>
+Points: 28
+# Comments: 7]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -276,23 +302,10 @@ Points: 21
         <updated>2021-05-24T14:48:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vivirenremoto.github.io/doomcaptcha/
 Comments URL: https://news.ycombinator.com/item?id=27264988
-Points: 217
-# Comments: 58]]></summary>
+Points: 265
+# Comments: 82]]></summary>
         <author>
             <name>jukkakoskinen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parsing in JavaScript: all the tools and libraries you can use]]></title>
-        <id>https://news.ycombinator.com/item?id=27264777</id>
-        <link href="https://tomassetti.me/parsing-in-javascript/#chevrotain"/>
-        <updated>2021-05-24T14:32:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tomassetti.me/parsing-in-javascript/#chevrotain
-Comments URL: https://news.ycombinator.com/item?id=27264777
-Points: 58
-# Comments: 15]]></summary>
-        <author>
-            <name>jasim</name>
         </author>
     </entry>
     <entry>
@@ -302,7 +315,7 @@ Points: 58
         <updated>2021-05-24T14:07:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nezhar.com/blog/increase-performance-via-range-fields-in-django-querysets-on-postgresql/
 Comments URL: https://news.ycombinator.com/item?id=27264514
-Points: 27
+Points: 30
 # Comments: 5]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -315,8 +328,8 @@ Points: 27
         <updated>2021-05-24T14:06:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloudbite.attejuvonen.fi/
 Comments URL: https://news.ycombinator.com/item?id=27264500
-Points: 252
-# Comments: 78]]></summary>
+Points: 264
+# Comments: 81]]></summary>
         <author>
             <name>baobabKoodaa</name>
         </author>
@@ -653,18 +666,6 @@ The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tric
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
-        <id>https://css-tricks.com/?p=339522</id>
-        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
-        <updated>2021-05-17T14:27:22.000Z</updated>
-        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
-The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ashley Kolodziej</name>
         </author>
     </entry>
     <entry>
