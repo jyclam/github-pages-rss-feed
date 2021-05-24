@@ -6,31 +6,49 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27264560",
+          "author": "imrank1",
+          "description": "How do you insure you are working on the most important items for the TEAM?\nWhats the thing that drains you the most?\nWhere do you reach out to get advise outside of your company?\nWhat is missing from the tools you currently have?\nComments URL: https://news.ycombinator.com/item?id=27264560\nPoints: 9\n# Comments: 0",
+          "link": "https://news.ycombinator.com/item?id=27264560",
+          "publishedOn": "2021-05-24T14:11:15.000Z",
+          "wordCount": 114,
+          "title": "Ask HN: Engineering managers; what are the problems you face?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27264500",
+          "author": "baobabKoodaa",
+          "description": "Article URL: https://cloudbite.attejuvonen.fi/\nComments URL: https://news.ycombinator.com/item?id=27264500\nPoints: 49\n# Comments: 10",
+          "link": "https://cloudbite.attejuvonen.fi/",
+          "publishedOn": "2021-05-24T14:06:03.000Z",
+          "wordCount": 62,
+          "title": "Show HN: Flashcards to learn AWS skills"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27264295",
           "author": "pseudolus",
-          "description": "Article URL: https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview\nComments URL: https://news.ycombinator.com/item?id=27264295\nPoints: 13\n# Comments: 1",
+          "description": "Article URL: https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview\nComments URL: https://news.ycombinator.com/item?id=27264295\nPoints: 47\n# Comments: 13",
           "link": "https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview",
           "publishedOn": "2021-05-24T13:46:27.000Z",
           "wordCount": 1596,
           "title": "‘I’m way older, but I’m still doing it’: Tony Hawk on his skateboarding legacy"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27263596",
-          "author": "doener",
-          "description": "Article URL: https://electrek.co/2021/05/24/tesla-found-guilty-throttling-charging-speed-asked-pay-16000-thousands-owners/\nComments URL: https://news.ycombinator.com/item?id=27263596\nPoints: 113\n# Comments: 95",
-          "link": "https://electrek.co/2021/05/24/tesla-found-guilty-throttling-charging-speed-asked-pay-16000-thousands-owners/",
-          "publishedOn": "2021-05-24T12:34:38.000Z",
-          "wordCount": 876,
-          "title": "Tesla is found guilty of throttling charging speed"
+          "id": "https://news.ycombinator.com/item?id=27263828",
+          "author": "jermaustin1",
+          "description": "Article URL: https://jeremyaboyd.com/post/how-intuitive-are-macs-really-\nComments URL: https://news.ycombinator.com/item?id=27263828\nPoints: 67\n# Comments: 138",
+          "link": "https://jeremyaboyd.com/post/how-intuitive-are-macs-really-",
+          "publishedOn": "2021-05-24T13:01:25.000Z",
+          "wordCount": 731,
+          "title": "How Intuitive Are Macs Really?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27263585",
           "author": "danny00",
-          "description": "Article URL: https://www.joshmcguigan.com/blog/array-initialization-rust/\nComments URL: https://news.ycombinator.com/item?id=27263585\nPoints: 39\n# Comments: 15",
+          "description": "Article URL: https://www.joshmcguigan.com/blog/array-initialization-rust/\nComments URL: https://news.ycombinator.com/item?id=27263585\nPoints: 54\n# Comments: 18",
           "link": "https://www.joshmcguigan.com/blog/array-initialization-rust/",
           "publishedOn": "2021-05-24T12:32:54.000Z",
           "wordCount": 1283,
-          "title": "Methods for Array Initialization in Rust"
+          "title": "Methods for Array Initialization in Rust (2018)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27263333",
@@ -44,7 +62,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27263235",
           "author": "leephillips",
-          "description": "Article URL: https://arstechnica.com/science/2021/05/eternally-five-years-away-no-batteries-are-improving-under-your-nose/\nComments URL: https://news.ycombinator.com/item?id=27263235\nPoints: 18\n# Comments: 0",
+          "description": "Article URL: https://arstechnica.com/science/2021/05/eternally-five-years-away-no-batteries-are-improving-under-your-nose/\nComments URL: https://news.ycombinator.com/item?id=27263235\nPoints: 40\n# Comments: 2",
           "link": "https://arstechnica.com/science/2021/05/eternally-five-years-away-no-batteries-are-improving-under-your-nose/",
           "publishedOn": "2021-05-24T11:45:26.000Z",
           "wordCount": 1488,
@@ -53,16 +71,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27263141",
           "author": "Tomte",
-          "description": "Article URL: https://www.netmeister.org/blog/email.html\nComments URL: https://news.ycombinator.com/item?id=27263141\nPoints: 49\n# Comments: 46",
+          "description": "Article URL: https://www.netmeister.org/blog/email.html\nComments URL: https://news.ycombinator.com/item?id=27263141\nPoints: 91\n# Comments: 98",
           "link": "https://www.netmeister.org/blog/email.html",
           "publishedOn": "2021-05-24T11:27:24.000Z",
           "wordCount": 1873,
-          "title": "Email Validation Logic Is Wrong"
+          "title": "Your e-mail validation logic is wrong"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27263136",
           "author": "Smaug123",
-          "description": "Article URL: https://www.gresearch.co.uk/article/in-praise-of-dry-run/\nComments URL: https://news.ycombinator.com/item?id=27263136\nPoints: 3\n# Comments: 2",
+          "description": "Article URL: https://www.gresearch.co.uk/article/in-praise-of-dry-run/\nComments URL: https://news.ycombinator.com/item?id=27263136\nPoints: 52\n# Comments: 15",
           "link": "https://www.gresearch.co.uk/article/in-praise-of-dry-run/",
           "publishedOn": "2021-05-24T11:26:15.000Z",
           "wordCount": 2252,
@@ -71,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27262960",
           "author": "svenpeter",
-          "description": "Article URL: https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/\nComments URL: https://news.ycombinator.com/item?id=27262960\nPoints: 240\n# Comments: 91",
+          "description": "Article URL: https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/\nComments URL: https://news.ycombinator.com/item?id=27262960\nPoints: 294\n# Comments: 141",
           "link": "https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/",
           "publishedOn": "2021-05-24T10:58:30.000Z",
           "wordCount": 2200,
@@ -80,34 +98,34 @@
         {
           "id": "https://news.ycombinator.com/item?id=27262943",
           "author": "xenocratus",
-          "description": "Article URL: https://www.reddit.com/r/AskHistorians/comments/lz3rj1/why_did_the_ussr_build_such_grandiose_designs_and/gq09pvf/\nComments URL: https://news.ycombinator.com/item?id=27262943\nPoints: 73\n# Comments: 16",
+          "description": "Article URL: https://www.reddit.com/r/AskHistorians/comments/lz3rj1/why_did_the_ussr_build_such_grandiose_designs_and/gq09pvf/\nComments URL: https://news.ycombinator.com/item?id=27262943\nPoints: 89\n# Comments: 22",
           "link": "https://www.reddit.com/r/AskHistorians/comments/lz3rj1/why_did_the_ussr_build_such_grandiose_designs_and/gq09pvf/",
           "publishedOn": "2021-05-24T10:56:13.000Z",
-          "wordCount": 2527,
+          "wordCount": 2531,
           "title": "Why is the Moscow Metro so grandiose compared to other Soviet architecture"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27262788",
           "author": "mnw21cam",
-          "description": "Article URL: https://www.bbc.co.uk/news/uk-england-merseyside-57226165\nComments URL: https://news.ycombinator.com/item?id=27262788\nPoints: 112\n# Comments: 84",
+          "description": "Article URL: https://www.bbc.co.uk/news/uk-england-merseyside-57226165\nComments URL: https://news.ycombinator.com/item?id=27262788\nPoints: 142\n# Comments: 93",
           "link": "https://www.bbc.co.uk/news/uk-england-merseyside-57226165",
           "publishedOn": "2021-05-24T10:28:10.000Z",
-          "wordCount": 766,
+          "wordCount": 769,
           "title": "Cheese photo leads to Liverpool drug dealer's downfall"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27262761",
           "author": "pseudolus",
-          "description": "Article URL: https://phys.org/news/2021-05-tardigrades-survive-impacts-meters.html\nComments URL: https://news.ycombinator.com/item?id=27262761\nPoints: 43\n# Comments: 28",
+          "description": "Article URL: https://phys.org/news/2021-05-tardigrades-survive-impacts-meters.html\nComments URL: https://news.ycombinator.com/item?id=27262761\nPoints: 53\n# Comments: 38",
           "link": "https://phys.org/news/2021-05-tardigrades-survive-impacts-meters.html",
           "publishedOn": "2021-05-24T10:23:14.000Z",
-          "wordCount": 1387,
+          "wordCount": 1378,
           "title": "Tardigrades survive impacts of up to 825 meters per second"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27262511",
           "author": "germandiago",
-          "description": "Article URL: https://germandiagogomez.medium.com/c-scripting-alternatives-easy-to-bind-scripting-binding-chaiscript-and-wren-into-a-small-game-174c86b0ecd7\nComments URL: https://news.ycombinator.com/item?id=27262511\nPoints: 43\n# Comments: 36",
+          "description": "Article URL: https://germandiagogomez.medium.com/c-scripting-alternatives-easy-to-bind-scripting-binding-chaiscript-and-wren-into-a-small-game-174c86b0ecd7\nComments URL: https://news.ycombinator.com/item?id=27262511\nPoints: 47\n# Comments: 46",
           "link": "https://germandiagogomez.medium.com/c-scripting-alternatives-easy-to-bind-scripting-binding-chaiscript-and-wren-into-a-small-game-174c86b0ecd7",
           "publishedOn": "2021-05-24T09:38:23.000Z",
           "wordCount": 3315,
@@ -116,16 +134,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27262385",
           "author": "underscore_ku",
-          "description": "Article URL: https://www.lrt.lt/en/news-in-english/19/1416084/baltic-airlines-reroute-flights-to-avoid-belarus-airspace\nComments URL: https://news.ycombinator.com/item?id=27262385\nPoints: 397\n# Comments: 195",
+          "description": "Article URL: https://www.lrt.lt/en/news-in-english/19/1416084/baltic-airlines-reroute-flights-to-avoid-belarus-airspace\nComments URL: https://news.ycombinator.com/item?id=27262385\nPoints: 433\n# Comments: 225",
           "link": "https://www.lrt.lt/en/news-in-english/19/1416084/baltic-airlines-reroute-flights-to-avoid-belarus-airspace",
           "publishedOn": "2021-05-24T09:13:26.000Z",
-          "wordCount": 908,
+          "wordCount": 918,
           "title": "Baltic airlines reroute flights to avoid Belarus airspace"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27262340",
           "author": "rbanffy",
-          "description": "Article URL: http://hccc.org.uk/retro/retro.html\nComments URL: https://news.ycombinator.com/item?id=27262340\nPoints: 104\n# Comments: 35",
+          "description": "Article URL: http://hccc.org.uk/retro/retro.html\nComments URL: https://news.ycombinator.com/item?id=27262340\nPoints: 119\n# Comments: 43",
           "link": "http://hccc.org.uk/retro/retro.html",
           "publishedOn": "2021-05-24T09:03:59.000Z",
           "wordCount": 2468,
@@ -134,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27262327",
           "author": "belatw",
-          "description": "Article URL: https://www.damninteresting.com/lake-peigneur-the-swirling-vortex-of-doom/\nComments URL: https://news.ycombinator.com/item?id=27262327\nPoints: 76\n# Comments: 11",
+          "description": "Article URL: https://www.damninteresting.com/lake-peigneur-the-swirling-vortex-of-doom/\nComments URL: https://news.ycombinator.com/item?id=27262327\nPoints: 89\n# Comments: 15",
           "link": "https://www.damninteresting.com/lake-peigneur-the-swirling-vortex-of-doom/",
           "publishedOn": "2021-05-24T09:01:02.000Z",
           "wordCount": 10830,
@@ -143,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27262298",
           "author": "app4soft",
-          "description": "Article URL: https://twitter.com/RyanairPress/status/1396543331878981632\nComments URL: https://news.ycombinator.com/item?id=27262298\nPoints: 110\n# Comments: 65",
+          "description": "Article URL: https://twitter.com/RyanairPress/status/1396543331878981632\nComments URL: https://news.ycombinator.com/item?id=27262298\nPoints: 126\n# Comments: 78",
           "link": "https://twitter.com/RyanairPress/status/1396543331878981632",
           "publishedOn": "2021-05-24T08:55:50.000Z",
           "wordCount": 196,
@@ -152,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27261399",
           "author": "morsanu",
-          "description": "Article URL: https://countthings.com/case-studies/0001\nComments URL: https://news.ycombinator.com/item?id=27261399\nPoints: 364\n# Comments: 139",
+          "description": "Article URL: https://countthings.com/case-studies/0001\nComments URL: https://news.ycombinator.com/item?id=27261399\nPoints: 410\n# Comments: 158",
           "link": "https://countthings.com/case-studies/0001",
           "publishedOn": "2021-05-24T05:44:16.000Z",
           "wordCount": 765,
@@ -161,29 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27261348",
           "author": "phonebucket",
-          "description": "Article URL: https://spectrum.ieee.org/tech-history/cyberspace/claude-shannon-tinkerer-prankster-and-father-of-information-theory\nComments URL: https://news.ycombinator.com/item?id=27261348\nPoints: 114\n# Comments: 16",
+          "description": "Article URL: https://spectrum.ieee.org/tech-history/cyberspace/claude-shannon-tinkerer-prankster-and-father-of-information-theory\nComments URL: https://news.ycombinator.com/item?id=27261348\nPoints: 126\n# Comments: 19",
           "link": "https://spectrum.ieee.org/tech-history/cyberspace/claude-shannon-tinkerer-prankster-and-father-of-information-theory",
           "publishedOn": "2021-05-24T05:30:28.000Z",
           "wordCount": 44,
           "title": "Claude Shannon: Tinkerer, Prankster, and Father of Information Theory (2016)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27260591",
-          "author": "jphong1111",
-          "description": "Article URL: https://github.com/jphong1111/Useful_Swift\nComments URL: https://news.ycombinator.com/item?id=27260591\nPoints: 66\n# Comments: 19",
-          "link": "https://github.com/jphong1111/Useful_Swift",
-          "publishedOn": "2021-05-24T02:32:16.000Z",
-          "wordCount": 3096,
-          "title": "Useful iOS Things GitHub Repository"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27260522",
-          "author": "jitl",
-          "description": "Article URL: https://dl.acm.org/doi/10.1145/3064176.3064187\nComments URL: https://news.ycombinator.com/item?id=27260522\nPoints: 95\n# Comments: 34",
-          "link": "https://dl.acm.org/doi/10.1145/3064176.3064187",
-          "publishedOn": "2021-05-24T02:17:31.000Z",
-          "wordCount": 148,
-          "title": "The Unwritten Contract of Solid State Drives (2017)"
         }
       ]
     },
@@ -321,6 +321,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340626",
+          "author": "Raymond Camden",
+          "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
+          "publishedOn": "2021-05-24T13:57:21.000Z",
+          "wordCount": 2789,
+          "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
+        },
+        {
           "id": "https://css-tricks.com/?p=340991",
           "author": "Chris Coyier",
           "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -335,7 +344,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3343,
+          "wordCount": 3515,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -371,7 +380,7 @@
           "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
           "publishedOn": "2021-05-20T14:24:12.000Z",
-          "wordCount": 1725,
+          "wordCount": 1747,
           "title": "Can We Create a “Resize Hack” With Container Queries?"
         },
         {
@@ -398,7 +407,7 @@
           "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
           "publishedOn": "2021-05-19T14:28:19.000Z",
-          "wordCount": 1606,
+          "wordCount": 1803,
           "title": "svg-loader: A Different Way to Work With External SVG"
         },
         {
@@ -434,7 +443,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2963,
+          "wordCount": 2988,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -445,15 +454,6 @@
           "publishedOn": "2021-05-17T14:27:13.000Z",
           "wordCount": 3,
           "title": "Euismod"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340136",
-          "author": "Chris Coyier",
-          "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/auto-generated-social-media-images/",
-          "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2298,
-          "title": "Auto-Generated Social Media Images"
         }
       ]
     },
