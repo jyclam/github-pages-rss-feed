@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T19:32:16.463Z</updated>
+    <updated>2021-05-24T20:15:41.156Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Generate a Code Coverage Report with CodeCov and GitHub Actions]]></title>
+        <id>60aa161211ffb70827ef5f2c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/"/>
+        <updated>2021-05-24T19:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[proxy-www]]></title>
         <id>https://css-tricks.com/?p=341153</id>
@@ -23,29 +33,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Physics]]></title>
-        <id>https://news.ycombinator.com/item?id=27268370</id>
-        <link href="http://physics.com"/>
-        <updated>2021-05-24T19:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://physics.com
-Comments URL: https://news.ycombinator.com/item?id=27268370
-Points: 7
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Urbit: The good, the bad, and the insane]]></title>
+        <id>https://news.ycombinator.com/item?id=27268462</id>
+        <link href="https://wejn.org/2021/02/urbit-good-bad-insane/"/>
+        <updated>2021-05-24T19:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/
+Comments URL: https://news.ycombinator.com/item?id=27268462
+Points: 52
+# Comments: 16]]></summary>
         <author>
-            <name>CynicusRex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wuhan lab staff sought hospital care in November 2019]]></title>
-        <id>https://news.ycombinator.com/item?id=27268180</id>
-        <link href="https://www.reuters.com/business/healthcare-pharmaceuticals/wuhan-lab-staff-sought-hospital-care-before-covid-19-outbreak-disclosed-wsj-2021-05-23/"/>
-        <updated>2021-05-24T18:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/healthcare-pharmaceuticals/wuhan-lab-staff-sought-hospital-care-before-covid-19-outbreak-disclosed-wsj-2021-05-23/
-Comments URL: https://news.ycombinator.com/item?id=27268180
-Points: 49
-# Comments: 8]]></summary>
-        <author>
-            <name>misja111</name>
+            <name>deegles</name>
         </author>
     </entry>
     <entry>
@@ -55,8 +52,8 @@ Points: 49
         <updated>2021-05-24T18:19:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41586-021-03647-4.epdf?sharing_token=2bD5mZYd0Lb4kRjPJEClptRgN0jAjWel9jnR3ZoTv0NZhpDgSZLI7_fsIhPOWeIJ1diSQO20_EoDjgJbiSiQ2_fyxVwlNfADlUAbRn9GThkDeP-tAn0H0axaMYdDUDJNS__xetM-TOktuE94sVDjefdlAcl-Vos5feOTSgLXCYc%3D
 Comments URL: https://news.ycombinator.com/item?id=27267852
-Points: 34
-# Comments: 4]]></summary>
+Points: 51
+# Comments: 25]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -68,8 +65,8 @@ Points: 34
         <updated>2021-05-24T17:41:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/
 Comments URL: https://news.ycombinator.com/item?id=27267368
-Points: 110
-# Comments: 79]]></summary>
+Points: 143
+# Comments: 113]]></summary>
         <author>
             <name>gregdoesit</name>
         </author>
@@ -81,8 +78,8 @@ Points: 110
         <updated>2021-05-24T17:18:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.cmyr.net/blog/rust-python-learnings.html
 Comments URL: https://news.ycombinator.com/item?id=27267066
-Points: 81
-# Comments: 41]]></summary>
+Points: 105
+# Comments: 59]]></summary>
         <author>
             <name>zbentley</name>
         </author>
@@ -94,7 +91,7 @@ Points: 81
         <updated>2021-05-24T17:13:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/
 Comments URL: https://news.ycombinator.com/item?id=27267007
-Points: 17
+Points: 33
 # Comments: 2]]></summary>
         <author>
             <name>digikata</name>
@@ -120,8 +117,8 @@ Points: 1
         <updated>2021-05-24T16:43:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.knosof.co.uk/ESEUR/
 Comments URL: https://news.ycombinator.com/item?id=27266551
-Points: 50
-# Comments: 3]]></summary>
+Points: 68
+# Comments: 4]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -133,23 +130,10 @@ Points: 50
         <updated>2021-05-24T16:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/
 Comments URL: https://news.ycombinator.com/item?id=27266485
-Points: 103
-# Comments: 58]]></summary>
+Points: 134
+# Comments: 75]]></summary>
         <author>
             <name>teleforce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iFixit tells the sad story of how Samsung “ruined” its upcycling program]]></title>
-        <id>https://news.ycombinator.com/item?id=27266433</id>
-        <link href="https://arstechnica.com/gadgets/2021/05/ifixit-tells-the-sad-story-of-how-samsung-ruined-its-upcycling-program/"/>
-        <updated>2021-05-24T16:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/ifixit-tells-the-sad-story-of-how-samsung-ruined-its-upcycling-program/
-Comments URL: https://news.ycombinator.com/item?id=27266433
-Points: 71
-# Comments: 19]]></summary>
-        <author>
-            <name>a-human</name>
         </author>
     </entry>
     <entry>
@@ -159,10 +143,23 @@ Points: 71
         <updated>2021-05-24T15:52:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/
 Comments URL: https://news.ycombinator.com/item?id=27265836
-Points: 31
+Points: 45
 # Comments: 0]]></summary>
         <author>
             <name>theafh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did bar ends go away from mountain bikes?]]></title>
+        <id>https://news.ycombinator.com/item?id=27265645</id>
+        <link href="https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/"/>
+        <updated>2021-05-24T15:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/
+Comments URL: https://news.ycombinator.com/item?id=27265645
+Points: 60
+# Comments: 88]]></summary>
+        <author>
+            <name>de_keyboard</name>
         </author>
     </entry>
     <entry>
@@ -184,8 +181,8 @@ Steve and I met in the open-sou…]]></summary>
         <updated>2021-05-24T15:18:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/
 Comments URL: https://news.ycombinator.com/item?id=27265340
-Points: 210
-# Comments: 85]]></summary>
+Points: 222
+# Comments: 97]]></summary>
         <author>
             <name>kemonocode</name>
         </author>
@@ -197,8 +194,8 @@ Points: 210
         <updated>2021-05-24T15:06:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen
 Comments URL: https://news.ycombinator.com/item?id=27265209
-Points: 111
-# Comments: 71]]></summary>
+Points: 120
+# Comments: 81]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -220,8 +217,8 @@ Points: 111
         <updated>2021-05-24T14:48:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vivirenremoto.github.io/doomcaptcha/
 Comments URL: https://news.ycombinator.com/item?id=27264988
-Points: 57
-# Comments: 10]]></summary>
+Points: 87
+# Comments: 20]]></summary>
         <author>
             <name>jukkakoskinen</name>
         </author>
@@ -233,8 +230,8 @@ Points: 57
         <updated>2021-05-24T14:32:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tomassetti.me/parsing-in-javascript/#chevrotain
 Comments URL: https://news.ycombinator.com/item?id=27264777
-Points: 39
-# Comments: 10]]></summary>
+Points: 46
+# Comments: 13]]></summary>
         <author>
             <name>jasim</name>
         </author>
@@ -246,7 +243,7 @@ Points: 39
         <updated>2021-05-24T14:07:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nezhar.com/blog/increase-performance-via-range-fields-in-django-querysets-on-postgresql/
 Comments URL: https://news.ycombinator.com/item?id=27264514
-Points: 12
+Points: 20
 # Comments: 2]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -259,8 +256,8 @@ Points: 12
         <updated>2021-05-24T14:06:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloudbite.attejuvonen.fi/
 Comments URL: https://news.ycombinator.com/item?id=27264500
-Points: 200
-# Comments: 60]]></summary>
+Points: 221
+# Comments: 66]]></summary>
         <author>
             <name>baobabKoodaa</name>
         </author>
@@ -284,8 +281,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-24T13:46:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview
 Comments URL: https://news.ycombinator.com/item?id=27264295
-Points: 119
-# Comments: 60]]></summary>
+Points: 130
+# Comments: 65]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -297,10 +294,23 @@ Points: 119
         <updated>2021-05-24T13:06:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cppstories.com/2021/security-sins/
 Comments URL: https://news.ycombinator.com/item?id=27263875
-Points: 31
-# Comments: 5]]></summary>
+Points: 34
+# Comments: 6]]></summary>
         <author>
             <name>theBashShell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Methods for Array Initialization in Rust (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=27263585</id>
+        <link href="https://www.joshmcguigan.com/blog/array-initialization-rust/"/>
+        <updated>2021-05-24T12:32:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.joshmcguigan.com/blog/array-initialization-rust/
+Comments URL: https://news.ycombinator.com/item?id=27263585
+Points: 87
+# Comments: 27]]></summary>
+        <author>
+            <name>danny00</name>
         </author>
     </entry>
     <entry>
@@ -573,16 +583,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
-        <id>60a53182906c5207e3a7e588</id>
-        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
-        <updated>2021-05-18T21:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
