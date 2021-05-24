@@ -2,47 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T18:37:10.778Z</updated>
+    <updated>2021-05-24T19:32:16.463Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Kiwi IRC founder stops contributing to IRC after Freenode drama]]></title>
-        <id>https://news.ycombinator.com/item?id=27267733</id>
-        <link href="https://gist.github.com/prawnsalad/4ca20da6c2295ddb06c1646791c61953"/>
-        <updated>2021-05-24T18:09:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gist.github.com/prawnsalad/4ca20da6c2295ddb06c1646791c61953
-Comments URL: https://news.ycombinator.com/item?id=27267733
-Points: 6
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[proxy-www]]></title>
+        <id>https://css-tricks.com/?p=341153</id>
+        <link href="https://github.com/justjavac/proxy-www"/>
+        <updated>2021-05-24T19:09:59.000Z</updated>
+        <summary type="html"><![CDATA[I like a good trick. What if… a URL was…  a promise… that fetched said URL?
+www.codepen.io.then((response) ={
+  console.log(response);
+});
+That’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…
+The post proxy-www appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>buovjaga</name>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uber's Crazy YOLO App Rewrite, from the Front Seat]]></title>
+        <title type="html"><![CDATA[Physics]]></title>
+        <id>https://news.ycombinator.com/item?id=27268370</id>
+        <link href="http://physics.com"/>
+        <updated>2021-05-24T19:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://physics.com
+Comments URL: https://news.ycombinator.com/item?id=27268370
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>CynicusRex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wuhan lab staff sought hospital care in November 2019]]></title>
+        <id>https://news.ycombinator.com/item?id=27268180</id>
+        <link href="https://www.reuters.com/business/healthcare-pharmaceuticals/wuhan-lab-staff-sought-hospital-care-before-covid-19-outbreak-disclosed-wsj-2021-05-23/"/>
+        <updated>2021-05-24T18:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/healthcare-pharmaceuticals/wuhan-lab-staff-sought-hospital-care-before-covid-19-outbreak-disclosed-wsj-2021-05-23/
+Comments URL: https://news.ycombinator.com/item?id=27268180
+Points: 49
+# Comments: 8]]></summary>
+        <author>
+            <name>misja111</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SARS-CoV-2 infection induces long-lived bone marrow plasma cells in humans]]></title>
+        <id>https://news.ycombinator.com/item?id=27267852</id>
+        <link href="https://www.nature.com/articles/s41586-021-03647-4.epdf?sharing_token=2bD5mZYd0Lb4kRjPJEClptRgN0jAjWel9jnR3ZoTv0NZhpDgSZLI7_fsIhPOWeIJ1diSQO20_EoDjgJbiSiQ2_fyxVwlNfADlUAbRn9GThkDeP-tAn0H0axaMYdDUDJNS__xetM-TOktuE94sVDjefdlAcl-Vos5feOTSgLXCYc%3D"/>
+        <updated>2021-05-24T18:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41586-021-03647-4.epdf?sharing_token=2bD5mZYd0Lb4kRjPJEClptRgN0jAjWel9jnR3ZoTv0NZhpDgSZLI7_fsIhPOWeIJ1diSQO20_EoDjgJbiSiQ2_fyxVwlNfADlUAbRn9GThkDeP-tAn0H0axaMYdDUDJNS__xetM-TOktuE94sVDjefdlAcl-Vos5feOTSgLXCYc%3D
+Comments URL: https://news.ycombinator.com/item?id=27267852
+Points: 34
+# Comments: 4]]></summary>
+        <author>
+            <name>walterbell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber's crazy YOLO app rewrite, from the front seat]]></title>
         <id>https://news.ycombinator.com/item?id=27267368</id>
         <link href="https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/"/>
         <updated>2021-05-24T17:41:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/
 Comments URL: https://news.ycombinator.com/item?id=27267368
-Points: 58
-# Comments: 12]]></summary>
+Points: 110
+# Comments: 79]]></summary>
         <author>
             <name>gregdoesit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Just avoid the satellites” they said]]></title>
-        <id>https://news.ycombinator.com/item?id=27267267</id>
-        <link href="https://twitter.com/kaizey/status/1396457704147783681"/>
-        <updated>2021-05-24T17:33:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/kaizey/status/1396457704147783681
-Comments URL: https://news.ycombinator.com/item?id=27267267
-Points: 43
-# Comments: 0]]></summary>
-        <author>
-            <name>brundolf</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +81,8 @@ Points: 43
         <updated>2021-05-24T17:18:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.cmyr.net/blog/rust-python-learnings.html
 Comments URL: https://news.ycombinator.com/item?id=27267066
-Points: 54
-# Comments: 16]]></summary>
+Points: 81
+# Comments: 41]]></summary>
         <author>
             <name>zbentley</name>
         </author>
@@ -65,8 +94,8 @@ Points: 54
         <updated>2021-05-24T17:13:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/
 Comments URL: https://news.ycombinator.com/item?id=27267007
-Points: 13
-# Comments: 0]]></summary>
+Points: 17
+# Comments: 2]]></summary>
         <author>
             <name>digikata</name>
         </author>
@@ -91,8 +120,8 @@ Points: 1
         <updated>2021-05-24T16:43:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.knosof.co.uk/ESEUR/
 Comments URL: https://news.ycombinator.com/item?id=27266551
-Points: 36
-# Comments: 2]]></summary>
+Points: 50
+# Comments: 3]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -104,8 +133,8 @@ Points: 36
         <updated>2021-05-24T16:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/
 Comments URL: https://news.ycombinator.com/item?id=27266485
-Points: 60
-# Comments: 21]]></summary>
+Points: 103
+# Comments: 58]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -117,23 +146,10 @@ Points: 60
         <updated>2021-05-24T16:35:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/ifixit-tells-the-sad-story-of-how-samsung-ruined-its-upcycling-program/
 Comments URL: https://news.ycombinator.com/item?id=27266433
-Points: 56
-# Comments: 9]]></summary>
+Points: 71
+# Comments: 19]]></summary>
         <author>
             <name>a-human</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WWDC21]]></title>
-        <id>https://news.ycombinator.com/item?id=27266177</id>
-        <link href="https://developer.apple.com/wwdc21/"/>
-        <updated>2021-05-24T16:17:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/wwdc21/
-Comments URL: https://news.ycombinator.com/item?id=27266177
-Points: 139
-# Comments: 105]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -143,23 +159,10 @@ Points: 139
         <updated>2021-05-24T15:52:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/
 Comments URL: https://news.ycombinator.com/item?id=27265836
-Points: 20
+Points: 31
 # Comments: 0]]></summary>
         <author>
             <name>theafh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delhi Police raids Twitter offices over manipulated label]]></title>
-        <id>https://news.ycombinator.com/item?id=27265755</id>
-        <link href="https://techcrunch.com/2021/05/24/delhi-police-run-by-indias-central-government-raids-twitter-offices-over-manipulated-label/"/>
-        <updated>2021-05-24T15:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/05/24/delhi-police-run-by-indias-central-government-raids-twitter-offices-over-manipulated-label/
-Comments URL: https://news.ycombinator.com/item?id=27265755
-Points: 101
-# Comments: 40]]></summary>
-        <author>
-            <name>jmsflknr</name>
         </author>
     </entry>
     <entry>
@@ -181,8 +184,8 @@ Steve and I met in the open-sou…]]></summary>
         <updated>2021-05-24T15:18:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/
 Comments URL: https://news.ycombinator.com/item?id=27265340
-Points: 196
-# Comments: 79]]></summary>
+Points: 210
+# Comments: 85]]></summary>
         <author>
             <name>kemonocode</name>
         </author>
@@ -194,8 +197,8 @@ Points: 196
         <updated>2021-05-24T15:06:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen
 Comments URL: https://news.ycombinator.com/item?id=27265209
-Points: 97
-# Comments: 47]]></summary>
+Points: 111
+# Comments: 71]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -211,14 +214,27 @@ Points: 97
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DOOM Captcha]]></title>
+        <id>https://news.ycombinator.com/item?id=27264988</id>
+        <link href="https://vivirenremoto.github.io/doomcaptcha/"/>
+        <updated>2021-05-24T14:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vivirenremoto.github.io/doomcaptcha/
+Comments URL: https://news.ycombinator.com/item?id=27264988
+Points: 57
+# Comments: 10]]></summary>
+        <author>
+            <name>jukkakoskinen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Parsing in JavaScript: all the tools and libraries you can use]]></title>
         <id>https://news.ycombinator.com/item?id=27264777</id>
         <link href="https://tomassetti.me/parsing-in-javascript/#chevrotain"/>
         <updated>2021-05-24T14:32:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tomassetti.me/parsing-in-javascript/#chevrotain
 Comments URL: https://news.ycombinator.com/item?id=27264777
-Points: 37
-# Comments: 9]]></summary>
+Points: 39
+# Comments: 10]]></summary>
         <author>
             <name>jasim</name>
         </author>
@@ -230,8 +246,8 @@ Points: 37
         <updated>2021-05-24T14:07:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nezhar.com/blog/increase-performance-via-range-fields-in-django-querysets-on-postgresql/
 Comments URL: https://news.ycombinator.com/item?id=27264514
-Points: 5
-# Comments: 0]]></summary>
+Points: 12
+# Comments: 2]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -243,8 +259,8 @@ Points: 5
         <updated>2021-05-24T14:06:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloudbite.attejuvonen.fi/
 Comments URL: https://news.ycombinator.com/item?id=27264500
-Points: 173
-# Comments: 50]]></summary>
+Points: 200
+# Comments: 60]]></summary>
         <author>
             <name>baobabKoodaa</name>
         </author>
@@ -262,29 +278,29 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tony Hawk on his skateboarding legacy]]></title>
+        <id>https://news.ycombinator.com/item?id=27264295</id>
+        <link href="https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview"/>
+        <updated>2021-05-24T13:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview
+Comments URL: https://news.ycombinator.com/item?id=27264295
+Points: 119
+# Comments: 60]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[C++ Software Security Sins: Basic Issues]]></title>
         <id>https://news.ycombinator.com/item?id=27263875</id>
         <link href="https://www.cppstories.com/2021/security-sins/"/>
         <updated>2021-05-24T13:06:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cppstories.com/2021/security-sins/
 Comments URL: https://news.ycombinator.com/item?id=27263875
-Points: 27
-# Comments: 1]]></summary>
+Points: 31
+# Comments: 5]]></summary>
         <author>
             <name>theBashShell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Methods for Array Initialization in Rust (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=27263585</id>
-        <link href="https://www.joshmcguigan.com/blog/array-initialization-rust/"/>
-        <updated>2021-05-24T12:32:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.joshmcguigan.com/blog/array-initialization-rust/
-Comments URL: https://news.ycombinator.com/item?id=27263585
-Points: 80
-# Comments: 25]]></summary>
-        <author>
-            <name>danny00</name>
         </author>
     </entry>
     <entry>
@@ -649,18 +665,6 @@ The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Ashley Kolodziej</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euismod]]></title>
-        <id>https://css-tricks.com/?p=340594</id>
-        <link href="https://www.euismod.dev/"/>
-        <updated>2021-05-17T14:27:13.000Z</updated>
-        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
-The post Euismod appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
