@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T02:22:55.653Z</updated>
+    <updated>2021-05-24T03:34:56.233Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Unwritten Contract of Solid State Drives]]></title>
+        <id>https://news.ycombinator.com/item?id=27260522</id>
+        <link href="https://dl.acm.org/doi/10.1145/3064176.3064187"/>
+        <updated>2021-05-24T02:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/3064176.3064187
+Comments URL: https://news.ycombinator.com/item?id=27260522
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>jitl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plivo (YC S12) Is Hiring a VP of Engineering Based in India]]></title>
         <id>https://news.ycombinator.com/item?id=27260129</id>
@@ -20,29 +33,16 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dave Ramsey sues former employees for making blog posts about leaving company]]></title>
-        <id>https://news.ycombinator.com/item?id=27259985</id>
-        <link href="https://twitter.com/amyfritz/status/1395558966768377860"/>
-        <updated>2021-05-24T00:38:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/amyfritz/status/1395558966768377860
-Comments URL: https://news.ycombinator.com/item?id=27259985
-Points: 53
-# Comments: 15]]></summary>
+        <title type="html"><![CDATA[Instanced Line Rendering Using WebGL]]></title>
+        <id>https://news.ycombinator.com/item?id=27259944</id>
+        <link href="https://wwwtyro.net/2019/11/18/instanced-lines.html"/>
+        <updated>2021-05-24T00:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wwwtyro.net/2019/11/18/instanced-lines.html
+Comments URL: https://news.ycombinator.com/item?id=27259944
+Points: 21
+# Comments: 3]]></summary>
         <author>
-            <name>sithlord</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast & Open source metrics demo dashboard]]></title>
-        <id>https://news.ycombinator.com/item?id=27259594</id>
-        <link href="https://dashboard.speculare.cloud"/>
-        <updated>2021-05-23T23:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dashboard.speculare.cloud
-Comments URL: https://news.ycombinator.com/item?id=27259594
-Points: 8
-# Comments: 0]]></summary>
-        <author>
-            <name>martichou</name>
+            <name>otherjason</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +52,8 @@ Points: 8
         <updated>2021-05-23T22:44:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ingrids.space/posts/why-distributed-systems-dont-work/
 Comments URL: https://news.ycombinator.com/item?id=27259321
-Points: 114
-# Comments: 71]]></summary>
+Points: 182
+# Comments: 110]]></summary>
         <author>
             <name>intarga</name>
         </author>
@@ -65,8 +65,8 @@ Points: 114
         <updated>2021-05-23T20:53:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/
 Comments URL: https://news.ycombinator.com/item?id=27258502
-Points: 126
-# Comments: 83]]></summary>
+Points: 138
+# Comments: 88]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -78,7 +78,7 @@ Points: 126
         <updated>2021-05-23T19:46:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf
 Comments URL: https://news.ycombinator.com/item?id=27257924
-Points: 49
+Points: 54
 # Comments: 6]]></summary>
         <author>
             <name>pinewurst</name>
@@ -91,8 +91,8 @@ Points: 49
         <updated>2021-05-23T19:11:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.flawlessai.com/
 Comments URL: https://news.ycombinator.com/item?id=27257658
-Points: 55
-# Comments: 25]]></summary>
+Points: 59
+# Comments: 28]]></summary>
         <author>
             <name>doener</name>
         </author>
@@ -104,8 +104,8 @@ Points: 55
         <updated>2021-05-23T19:09:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vitalik.ca/general/2021/05/23/scaling.html
 Comments URL: https://news.ycombinator.com/item?id=27257641
-Points: 260
-# Comments: 287]]></summary>
+Points: 281
+# Comments: 300]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -117,23 +117,23 @@ Points: 260
         <updated>2021-05-23T17:37:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
 Comments URL: https://news.ycombinator.com/item?id=27256867
-Points: 294
-# Comments: 103]]></summary>
+Points: 330
+# Comments: 111]]></summary>
         <author>
             <name>azhenley</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Direct manipulation flowchart editor without the mouse]]></title>
-        <id>https://news.ycombinator.com/item?id=27256861</id>
-        <link href="https://www.knotend.com"/>
-        <updated>2021-05-23T17:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.knotend.com
-Comments URL: https://news.ycombinator.com/item?id=27256861
-Points: 37
-# Comments: 15]]></summary>
+        <title type="html"><![CDATA[Show HN: CRM for Your Job Search]]></title>
+        <id>https://news.ycombinator.com/item?id=27256776</id>
+        <link href="https://www.kiter.app/#/"/>
+        <updated>2021-05-23T17:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.kiter.app/#/
+Comments URL: https://news.ycombinator.com/item?id=27256776
+Points: 68
+# Comments: 43]]></summary>
         <author>
-            <name>escot</name>
+            <name>pbmango</name>
         </author>
     </entry>
     <entry>
@@ -143,7 +143,7 @@ Points: 37
         <updated>2021-05-23T17:15:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/
 Comments URL: https://news.ycombinator.com/item?id=27256690
-Points: 47
+Points: 54
 # Comments: 2]]></summary>
         <author>
             <name>azhenley</name>
@@ -156,8 +156,8 @@ Points: 47
         <updated>2021-05-23T17:15:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/sogou/workflow
 Comments URL: https://news.ycombinator.com/item?id=27256686
-Points: 66
-# Comments: 16]]></summary>
+Points: 70
+# Comments: 17]]></summary>
         <author>
             <name>Barenboim</name>
         </author>
@@ -169,8 +169,8 @@ Points: 66
         <updated>2021-05-23T16:55:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html
 Comments URL: https://news.ycombinator.com/item?id=27256515
-Points: 257
-# Comments: 169]]></summary>
+Points: 273
+# Comments: 181]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -182,7 +182,7 @@ Points: 257
         <updated>2021-05-23T16:28:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wwwtyro/candygraph
 Comments URL: https://news.ycombinator.com/item?id=27256262
-Points: 66
+Points: 69
 # Comments: 20]]></summary>
         <author>
             <name>wwwtyro</name>
@@ -195,7 +195,7 @@ Points: 66
         <updated>2021-05-23T16:18:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/WeeJeWel/wg-easy/blob/master/README.md
 Comments URL: https://news.ycombinator.com/item?id=27256178
-Points: 92
+Points: 98
 # Comments: 12]]></summary>
         <author>
             <name>weejewel</name>
@@ -208,8 +208,8 @@ Points: 92
         <updated>2021-05-23T15:37:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/
 Comments URL: https://news.ycombinator.com/item?id=27255755
-Points: 238
-# Comments: 54]]></summary>
+Points: 247
+# Comments: 57]]></summary>
         <author>
             <name>mhb</name>
         </author>
@@ -221,8 +221,8 @@ Points: 238
         <updated>2021-05-23T15:35:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci
 Comments URL: https://news.ycombinator.com/item?id=27255727
-Points: 108
-# Comments: 33]]></summary>
+Points: 111
+# Comments: 34]]></summary>
         <author>
             <name>robin_reala</name>
         </author>
@@ -234,8 +234,8 @@ Points: 108
         <updated>2021-05-23T15:18:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-europe-57219860
 Comments URL: https://news.ycombinator.com/item?id=27255561
-Points: 755
-# Comments: 271]]></summary>
+Points: 794
+# Comments: 273]]></summary>
         <author>
             <name>cjnicholls</name>
         </author>
@@ -247,8 +247,8 @@ Points: 755
         <updated>2021-05-23T15:14:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html
 Comments URL: https://news.ycombinator.com/item?id=27255524
-Points: 80
-# Comments: 39]]></summary>
+Points: 83
+# Comments: 41]]></summary>
         <author>
             <name>marsokod</name>
         </author>
@@ -260,8 +260,8 @@ Points: 80
         <updated>2021-05-23T13:20:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days
 Comments URL: https://news.ycombinator.com/item?id=27254838
-Points: 341
-# Comments: 35]]></summary>
+Points: 355
+# Comments: 37]]></summary>
         <author>
             <name>HugoDaniel</name>
         </author>
