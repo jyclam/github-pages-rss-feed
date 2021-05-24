@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T06:19:19.673Z</updated>
+    <updated>2021-05-24T07:22:54.040Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[If Apple is the only organisation defending our privacy, it is time to worry]]></title>
-        <id>https://news.ycombinator.com/item?id=27260770</id>
-        <link href="https://www.theguardian.com/commentisfree/2021/may/22/if-apple-is-the-only-organisation-capable-of-defending-our-privacy-it-really-is-time-to-worry"/>
-        <updated>2021-05-24T03:10:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/commentisfree/2021/may/22/if-apple-is-the-only-organisation-capable-of-defending-our-privacy-it-really-is-time-to-worry
-Comments URL: https://news.ycombinator.com/item?id=27260770
-Points: 157
-# Comments: 108]]></summary>
+        <title type="html"><![CDATA[A Japanese Company Cut 80% of the Time Needed to Manually Count Pearls]]></title>
+        <id>https://news.ycombinator.com/item?id=27261399</id>
+        <link href="https://countthings.com/case-studies/0001"/>
+        <updated>2021-05-24T05:44:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://countthings.com/case-studies/0001
+Comments URL: https://news.ycombinator.com/item?id=27261399
+Points: 53
+# Comments: 12]]></summary>
         <author>
-            <name>nwotnagrom</name>
+            <name>morsanu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora has significantly fumbled DKMS handling for Linux kernel modules]]></title>
+        <id>https://news.ycombinator.com/item?id=27261388</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraWeakUpdatesFailure"/>
+        <updated>2021-05-24T05:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraWeakUpdatesFailure
+Comments URL: https://news.ycombinator.com/item?id=27261388
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>pcr910303</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new way to approach Wayback Machine]]></title>
+        <id>https://news.ycombinator.com/item?id=27260998</id>
+        <link href="https://github.com/wabarc/wayback"/>
+        <updated>2021-05-24T04:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/wabarc/wayback
+Comments URL: https://news.ycombinator.com/item?id=27260998
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>wabarc</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +52,8 @@ Points: 157
         <updated>2021-05-24T02:32:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jphong1111/Useful_Swift
 Comments URL: https://news.ycombinator.com/item?id=27260591
-Points: 9
-# Comments: 0]]></summary>
+Points: 11
+# Comments: 2]]></summary>
         <author>
             <name>jphong1111</name>
         </author>
@@ -39,8 +65,8 @@ Points: 9
         <updated>2021-05-24T02:17:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/3064176.3064187
 Comments URL: https://news.ycombinator.com/item?id=27260522
-Points: 46
-# Comments: 2]]></summary>
+Points: 56
+# Comments: 5]]></summary>
         <author>
             <name>jitl</name>
         </author>
@@ -65,8 +91,8 @@ Points: 1
         <updated>2021-05-24T00:31:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wwwtyro.net/2019/11/18/instanced-lines.html
 Comments URL: https://news.ycombinator.com/item?id=27259944
-Points: 49
-# Comments: 11]]></summary>
+Points: 57
+# Comments: 13]]></summary>
         <author>
             <name>otherjason</name>
         </author>
@@ -78,8 +104,8 @@ Points: 49
         <updated>2021-05-23T22:44:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ingrids.space/posts/why-distributed-systems-dont-work/
 Comments URL: https://news.ycombinator.com/item?id=27259321
-Points: 252
-# Comments: 147]]></summary>
+Points: 269
+# Comments: 160]]></summary>
         <author>
             <name>intarga</name>
         </author>
@@ -87,12 +113,12 @@ Points: 252
     <entry>
         <title type="html"><![CDATA[Cray-2 Memories [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=27257924</id>
-        <link href="http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf"/>
+        <link href="https://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf"/>
         <updated>2021-05-23T19:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf
+        <summary type="html"><![CDATA[Article URL: https://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf
 Comments URL: https://news.ycombinator.com/item?id=27257924
-Points: 63
-# Comments: 8]]></summary>
+Points: 68
+# Comments: 9]]></summary>
         <author>
             <name>pinewurst</name>
         </author>
@@ -104,8 +130,8 @@ Points: 63
         <updated>2021-05-23T19:11:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.flawlessai.com/
 Comments URL: https://news.ycombinator.com/item?id=27257658
-Points: 75
-# Comments: 33]]></summary>
+Points: 79
+# Comments: 34]]></summary>
         <author>
             <name>doener</name>
         </author>
@@ -117,8 +143,8 @@ Points: 75
         <updated>2021-05-23T19:09:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vitalik.ca/general/2021/05/23/scaling.html
 Comments URL: https://news.ycombinator.com/item?id=27257641
-Points: 322
-# Comments: 324]]></summary>
+Points: 335
+# Comments: 335]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -130,8 +156,8 @@ Points: 322
         <updated>2021-05-23T17:37:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
 Comments URL: https://news.ycombinator.com/item?id=27256867
-Points: 469
-# Comments: 139]]></summary>
+Points: 511
+# Comments: 161]]></summary>
         <author>
             <name>azhenley</name>
         </author>
@@ -143,8 +169,8 @@ Points: 469
         <updated>2021-05-23T17:26:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.kiter.app/#/
 Comments URL: https://news.ycombinator.com/item?id=27256776
-Points: 83
-# Comments: 50]]></summary>
+Points: 86
+# Comments: 51]]></summary>
         <author>
             <name>pbmango</name>
         </author>
@@ -156,7 +182,7 @@ Points: 83
         <updated>2021-05-23T17:15:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/
 Comments URL: https://news.ycombinator.com/item?id=27256690
-Points: 64
+Points: 67
 # Comments: 2]]></summary>
         <author>
             <name>azhenley</name>
@@ -170,7 +196,7 @@ Points: 64
         <summary type="html"><![CDATA[Article URL: https://github.com/sogou/workflow
 Comments URL: https://news.ycombinator.com/item?id=27256686
 Points: 81
-# Comments: 21]]></summary>
+# Comments: 23]]></summary>
         <author>
             <name>Barenboim</name>
         </author>
@@ -182,8 +208,8 @@ Points: 81
         <updated>2021-05-23T16:55:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html
 Comments URL: https://news.ycombinator.com/item?id=27256515
-Points: 326
-# Comments: 202]]></summary>
+Points: 333
+# Comments: 208]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -195,8 +221,8 @@ Points: 326
         <updated>2021-05-23T16:28:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wwwtyro/candygraph
 Comments URL: https://news.ycombinator.com/item?id=27256262
-Points: 79
-# Comments: 24]]></summary>
+Points: 84
+# Comments: 26]]></summary>
         <author>
             <name>wwwtyro</name>
         </author>
@@ -208,7 +234,7 @@ Points: 79
         <updated>2021-05-23T16:18:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/WeeJeWel/wg-easy/blob/master/README.md
 Comments URL: https://news.ycombinator.com/item?id=27256178
-Points: 110
+Points: 114
 # Comments: 13]]></summary>
         <author>
             <name>weejewel</name>
@@ -221,49 +247,23 @@ Points: 110
         <updated>2021-05-23T15:37:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/
 Comments URL: https://news.ycombinator.com/item?id=27255755
-Points: 287
+Points: 299
 # Comments: 60]]></summary>
         <author>
             <name>mhb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Saying Goodbye to Typo CI]]></title>
-        <id>https://news.ycombinator.com/item?id=27255727</id>
-        <link href="https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci"/>
-        <updated>2021-05-23T15:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci
-Comments URL: https://news.ycombinator.com/item?id=27255727
-Points: 122
-# Comments: 35]]></summary>
+        <title type="html"><![CDATA[One man’s fight for the right to repair broken MacBooks]]></title>
+        <id>https://news.ycombinator.com/item?id=27254719</id>
+        <link href="https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/"/>
+        <updated>2021-05-23T13:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/
+Comments URL: https://news.ycombinator.com/item?id=27254719
+Points: 1070
+# Comments: 465]]></summary>
         <author>
-            <name>robin_reala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belarus 'diverts Ryanair flight to arrest journalist', opposition says]]></title>
-        <id>https://news.ycombinator.com/item?id=27255561</id>
-        <link href="https://www.bbc.co.uk/news/world-europe-57219860"/>
-        <updated>2021-05-23T15:18:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-europe-57219860
-Comments URL: https://news.ycombinator.com/item?id=27255561
-Points: 880
-# Comments: 280]]></summary>
-        <author>
-            <name>cjnicholls</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESA advances its plan for satellites around the Moon]]></title>
-        <id>https://news.ycombinator.com/item?id=27255524</id>
-        <link href="https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html"/>
-        <updated>2021-05-23T15:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html
-Comments URL: https://news.ycombinator.com/item?id=27255524
-Points: 90
-# Comments: 42]]></summary>
-        <author>
-            <name>marsokod</name>
+            <name>anandaverma18</name>
         </author>
     </entry>
     <entry>
