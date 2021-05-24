@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T17:52:46.383Z</updated>
+    <updated>2021-05-24T18:37:10.778Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kiwi IRC founder stops contributing to IRC after Freenode drama]]></title>
+        <id>https://news.ycombinator.com/item?id=27267733</id>
+        <link href="https://gist.github.com/prawnsalad/4ca20da6c2295ddb06c1646791c61953"/>
+        <updated>2021-05-24T18:09:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gist.github.com/prawnsalad/4ca20da6c2295ddb06c1646791c61953
+Comments URL: https://news.ycombinator.com/item?id=27267733
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>buovjaga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber's Crazy YOLO App Rewrite, from the Front Seat]]></title>
+        <id>https://news.ycombinator.com/item?id=27267368</id>
+        <link href="https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/"/>
+        <updated>2021-05-24T17:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/
+Comments URL: https://news.ycombinator.com/item?id=27267368
+Points: 58
+# Comments: 12]]></summary>
+        <author>
+            <name>gregdoesit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Just avoid the satellites” they said]]></title>
+        <id>https://news.ycombinator.com/item?id=27267267</id>
+        <link href="https://twitter.com/kaizey/status/1396457704147783681"/>
+        <updated>2021-05-24T17:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/kaizey/status/1396457704147783681
+Comments URL: https://news.ycombinator.com/item?id=27267267
+Points: 43
+# Comments: 0]]></summary>
+        <author>
+            <name>brundolf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Writing Pythonic Rust]]></title>
         <id>https://news.ycombinator.com/item?id=27267066</id>
@@ -13,10 +52,23 @@
         <updated>2021-05-24T17:18:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.cmyr.net/blog/rust-python-learnings.html
 Comments URL: https://news.ycombinator.com/item?id=27267066
-Points: 22
-# Comments: 0]]></summary>
+Points: 54
+# Comments: 16]]></summary>
         <author>
             <name>zbentley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A journey to io_uring, AIO and modern storage devices]]></title>
+        <id>https://news.ycombinator.com/item?id=27267007</id>
+        <link href="https://clickhouse.tech/blog/en/2021/reading-from-external-memory/"/>
+        <updated>2021-05-24T17:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/
+Comments URL: https://news.ycombinator.com/item?id=27267007
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>digikata</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +91,8 @@ Points: 1
         <updated>2021-05-24T16:43:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.knosof.co.uk/ESEUR/
 Comments URL: https://news.ycombinator.com/item?id=27266551
-Points: 13
-# Comments: 0]]></summary>
+Points: 36
+# Comments: 2]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -52,8 +104,8 @@ Points: 13
         <updated>2021-05-24T16:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/
 Comments URL: https://news.ycombinator.com/item?id=27266485
-Points: 24
-# Comments: 2]]></summary>
+Points: 60
+# Comments: 21]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -65,8 +117,8 @@ Points: 24
         <updated>2021-05-24T16:35:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/ifixit-tells-the-sad-story-of-how-samsung-ruined-its-upcycling-program/
 Comments URL: https://news.ycombinator.com/item?id=27266433
-Points: 32
-# Comments: 0]]></summary>
+Points: 56
+# Comments: 9]]></summary>
         <author>
             <name>a-human</name>
         </author>
@@ -78,8 +130,8 @@ Points: 32
         <updated>2021-05-24T16:17:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.apple.com/wwdc21/
 Comments URL: https://news.ycombinator.com/item?id=27266177
-Points: 105
-# Comments: 52]]></summary>
+Points: 139
+# Comments: 105]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -91,7 +143,7 @@ Points: 105
         <updated>2021-05-24T15:52:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/
 Comments URL: https://news.ycombinator.com/item?id=27265836
-Points: 3
+Points: 20
 # Comments: 0]]></summary>
         <author>
             <name>theafh</name>
@@ -104,8 +156,8 @@ Points: 3
         <updated>2021-05-24T15:47:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/05/24/delhi-police-run-by-indias-central-government-raids-twitter-offices-over-manipulated-label/
 Comments URL: https://news.ycombinator.com/item?id=27265755
-Points: 76
-# Comments: 10]]></summary>
+Points: 101
+# Comments: 40]]></summary>
         <author>
             <name>jmsflknr</name>
         </author>
@@ -129,8 +181,8 @@ Steve and I met in the open-sou…]]></summary>
         <updated>2021-05-24T15:18:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/
 Comments URL: https://news.ycombinator.com/item?id=27265340
-Points: 176
-# Comments: 39]]></summary>
+Points: 196
+# Comments: 79]]></summary>
         <author>
             <name>kemonocode</name>
         </author>
@@ -142,8 +194,8 @@ Points: 176
         <updated>2021-05-24T15:06:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen
 Comments URL: https://news.ycombinator.com/item?id=27265209
-Points: 80
-# Comments: 33]]></summary>
+Points: 97
+# Comments: 47]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -165,10 +217,23 @@ Points: 80
         <updated>2021-05-24T14:32:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tomassetti.me/parsing-in-javascript/#chevrotain
 Comments URL: https://news.ycombinator.com/item?id=27264777
-Points: 30
-# Comments: 7]]></summary>
+Points: 37
+# Comments: 9]]></summary>
         <author>
             <name>jasim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increase Performance via Range Fields in Django Querysets on PostgreSQL]]></title>
+        <id>https://news.ycombinator.com/item?id=27264514</id>
+        <link href="https://nezhar.com/blog/increase-performance-via-range-fields-in-django-querysets-on-postgresql/"/>
+        <updated>2021-05-24T14:07:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nezhar.com/blog/increase-performance-via-range-fields-in-django-querysets-on-postgresql/
+Comments URL: https://news.ycombinator.com/item?id=27264514
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -178,8 +243,8 @@ Points: 30
         <updated>2021-05-24T14:06:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloudbite.attejuvonen.fi/
 Comments URL: https://news.ycombinator.com/item?id=27264500
-Points: 157
-# Comments: 46]]></summary>
+Points: 173
+# Comments: 50]]></summary>
         <author>
             <name>baobabKoodaa</name>
         </author>
@@ -197,42 +262,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘I’m way older, but I’m still doing it’: Tony Hawk on his skateboarding legacy]]></title>
-        <id>https://news.ycombinator.com/item?id=27264295</id>
-        <link href="https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview"/>
-        <updated>2021-05-24T13:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview
-Comments URL: https://news.ycombinator.com/item?id=27264295
-Points: 98
-# Comments: 50]]></summary>
-        <author>
-            <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[C++ Software Security Sins: Basic Issues]]></title>
         <id>https://news.ycombinator.com/item?id=27263875</id>
         <link href="https://www.cppstories.com/2021/security-sins/"/>
         <updated>2021-05-24T13:06:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cppstories.com/2021/security-sins/
 Comments URL: https://news.ycombinator.com/item?id=27263875
-Points: 21
-# Comments: 0]]></summary>
+Points: 27
+# Comments: 1]]></summary>
         <author>
             <name>theBashShell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Intuitive Are Macs Really?]]></title>
-        <id>https://news.ycombinator.com/item?id=27263828</id>
-        <link href="https://jeremyaboyd.com/post/how-intuitive-are-macs-really-"/>
-        <updated>2021-05-24T13:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jeremyaboyd.com/post/how-intuitive-are-macs-really-
-Comments URL: https://news.ycombinator.com/item?id=27263828
-Points: 131
-# Comments: 393]]></summary>
-        <author>
-            <name>jermaustin1</name>
         </author>
     </entry>
     <entry>
@@ -242,23 +281,10 @@ Points: 131
         <updated>2021-05-24T12:32:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.joshmcguigan.com/blog/array-initialization-rust/
 Comments URL: https://news.ycombinator.com/item?id=27263585
-Points: 76
-# Comments: 24]]></summary>
+Points: 80
+# Comments: 25]]></summary>
         <author>
             <name>danny00</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using io_uring to make a high-performance finger server]]></title>
-        <id>https://news.ycombinator.com/item?id=27263160</id>
-        <link href="https://drewdevault.com/2021/05/24/io_uring-finger-server.html"/>
-        <updated>2021-05-24T11:31:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://drewdevault.com/2021/05/24/io_uring-finger-server.html
-Comments URL: https://news.ycombinator.com/item?id=27263160
-Points: 12
-# Comments: 1]]></summary>
-        <author>
-            <name>smlckz</name>
         </author>
     </entry>
     <entry>
@@ -269,32 +295,6 @@ Points: 12
         <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your e-mail validation logic is wrong]]></title>
-        <id>https://news.ycombinator.com/item?id=27263141</id>
-        <link href="https://www.netmeister.org/blog/email.html"/>
-        <updated>2021-05-24T11:27:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.netmeister.org/blog/email.html
-Comments URL: https://news.ycombinator.com/item?id=27263141
-Points: 153
-# Comments: 215]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In praise of --dry-run]]></title>
-        <id>https://news.ycombinator.com/item?id=27263136</id>
-        <link href="https://www.gresearch.co.uk/article/in-praise-of-dry-run/"/>
-        <updated>2021-05-24T11:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.gresearch.co.uk/article/in-praise-of-dry-run/
-Comments URL: https://news.ycombinator.com/item?id=27263136
-Points: 172
-# Comments: 68]]></summary>
-        <author>
-            <name>Smaug123</name>
         </author>
     </entry>
     <entry>
