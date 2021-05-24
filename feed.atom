@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T08:16:27.349Z</updated>
+    <updated>2021-05-24T09:16:57.374Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,8 +13,8 @@
         <updated>2021-05-24T06:39:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/china/crypto-miners-halt-china-business-after-beijings-crackdown-bitcoin-dives-2021-05-24/
 Comments URL: https://news.ycombinator.com/item?id=27261607
-Points: 12
-# Comments: 3]]></summary>
+Points: 38
+# Comments: 37]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -26,8 +26,8 @@ Points: 12
         <updated>2021-05-24T05:44:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://countthings.com/case-studies/0001
 Comments URL: https://news.ycombinator.com/item?id=27261399
-Points: 112
-# Comments: 40]]></summary>
+Points: 182
+# Comments: 63]]></summary>
         <author>
             <name>morsanu</name>
         </author>
@@ -39,8 +39,8 @@ Points: 112
         <updated>2021-05-24T05:40:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraWeakUpdatesFailure
 Comments URL: https://news.ycombinator.com/item?id=27261388
-Points: 28
-# Comments: 3]]></summary>
+Points: 39
+# Comments: 6]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -52,10 +52,36 @@ Points: 28
         <updated>2021-05-24T05:30:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/tech-history/cyberspace/claude-shannon-tinkerer-prankster-and-father-of-information-theory
 Comments URL: https://news.ycombinator.com/item?id=27261348
-Points: 15
-# Comments: 0]]></summary>
+Points: 28
+# Comments: 6]]></summary>
         <author>
             <name>phonebucket</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new way to approach Wayback Machine]]></title>
+        <id>https://news.ycombinator.com/item?id=27260998</id>
+        <link href="https://github.com/wabarc/wayback"/>
+        <updated>2021-05-24T04:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/wabarc/wayback
+Comments URL: https://news.ycombinator.com/item?id=27260998
+Points: 12
+# Comments: 1]]></summary>
+        <author>
+            <name>wabarc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nacker Hews]]></title>
+        <id>https://news.ycombinator.com/item?id=27260668</id>
+        <link href="http://www.nackerhews.com/"/>
+        <updated>2021-05-24T02:48:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.nackerhews.com/
+Comments URL: https://news.ycombinator.com/item?id=27260668
+Points: 123
+# Comments: 39]]></summary>
+        <author>
+            <name>lokedhs</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +91,8 @@ Points: 15
         <updated>2021-05-24T02:32:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jphong1111/Useful_Swift
 Comments URL: https://news.ycombinator.com/item?id=27260591
-Points: 16
-# Comments: 5]]></summary>
+Points: 29
+# Comments: 9]]></summary>
         <author>
             <name>jphong1111</name>
         </author>
@@ -78,8 +104,8 @@ Points: 16
         <updated>2021-05-24T02:17:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/3064176.3064187
 Comments URL: https://news.ycombinator.com/item?id=27260522
-Points: 62
-# Comments: 12]]></summary>
+Points: 70
+# Comments: 16]]></summary>
         <author>
             <name>jitl</name>
         </author>
@@ -104,8 +130,8 @@ Points: 1
         <updated>2021-05-24T00:31:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wwwtyro.net/2019/11/18/instanced-lines.html
 Comments URL: https://news.ycombinator.com/item?id=27259944
-Points: 64
-# Comments: 17]]></summary>
+Points: 70
+# Comments: 21]]></summary>
         <author>
             <name>otherjason</name>
         </author>
@@ -117,8 +143,8 @@ Points: 64
         <updated>2021-05-23T22:44:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ingrids.space/posts/why-distributed-systems-dont-work/
 Comments URL: https://news.ycombinator.com/item?id=27259321
-Points: 291
-# Comments: 171]]></summary>
+Points: 312
+# Comments: 184]]></summary>
         <author>
             <name>intarga</name>
         </author>
@@ -130,7 +156,7 @@ Points: 291
         <updated>2021-05-23T19:46:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf
 Comments URL: https://news.ycombinator.com/item?id=27257924
-Points: 71
+Points: 73
 # Comments: 10]]></summary>
         <author>
             <name>pinewurst</name>
@@ -144,7 +170,7 @@ Points: 71
         <summary type="html"><![CDATA[Article URL: https://www.flawlessai.com/
 Comments URL: https://news.ycombinator.com/item?id=27257658
 Points: 83
-# Comments: 35]]></summary>
+# Comments: 39]]></summary>
         <author>
             <name>doener</name>
         </author>
@@ -156,8 +182,8 @@ Points: 83
         <updated>2021-05-23T19:09:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vitalik.ca/general/2021/05/23/scaling.html
 Comments URL: https://news.ycombinator.com/item?id=27257641
-Points: 351
-# Comments: 354]]></summary>
+Points: 364
+# Comments: 360]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -169,49 +195,10 @@ Points: 351
         <updated>2021-05-23T17:37:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
 Comments URL: https://news.ycombinator.com/item?id=27256867
-Points: 554
-# Comments: 181]]></summary>
+Points: 583
+# Comments: 196]]></summary>
         <author>
             <name>azhenley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: CRM for Your Job Search]]></title>
-        <id>https://news.ycombinator.com/item?id=27256776</id>
-        <link href="https://www.kiter.app/#/"/>
-        <updated>2021-05-23T17:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kiter.app/#/
-Comments URL: https://news.ycombinator.com/item?id=27256776
-Points: 90
-# Comments: 52]]></summary>
-        <author>
-            <name>pbmango</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Tips to Writing RISC-V Assembly]]></title>
-        <id>https://news.ycombinator.com/item?id=27256690</id>
-        <link href="https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/"/>
-        <updated>2021-05-23T17:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/
-Comments URL: https://news.ycombinator.com/item?id=27256690
-Points: 67
-# Comments: 2]]></summary>
-        <author>
-            <name>azhenley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ Workflow: C++ Parallel Computing and Asynchronous Networking Engine]]></title>
-        <id>https://news.ycombinator.com/item?id=27256686</id>
-        <link href="https://github.com/sogou/workflow"/>
-        <updated>2021-05-23T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/sogou/workflow
-Comments URL: https://news.ycombinator.com/item?id=27256686
-Points: 82
-# Comments: 23]]></summary>
-        <author>
-            <name>Barenboim</name>
         </author>
     </entry>
     <entry>
@@ -221,8 +208,8 @@ Points: 82
         <updated>2021-05-23T16:55:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html
 Comments URL: https://news.ycombinator.com/item?id=27256515
-Points: 343
-# Comments: 211]]></summary>
+Points: 346
+# Comments: 218]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -234,10 +221,23 @@ Points: 343
         <updated>2021-05-23T15:37:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/
 Comments URL: https://news.ycombinator.com/item?id=27255755
-Points: 304
-# Comments: 61]]></summary>
+Points: 312
+# Comments: 64]]></summary>
         <author>
             <name>mhb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teach Yourself Demoscene in 14 Days]]></title>
+        <id>https://news.ycombinator.com/item?id=27254838</id>
+        <link href="https://github.com/psenough/teach_yourself_demoscene_in_14_days"/>
+        <updated>2021-05-23T13:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days
+Comments URL: https://news.ycombinator.com/item?id=27254838
+Points: 392
+# Comments: 41]]></summary>
+        <author>
+            <name>HugoDaniel</name>
         </author>
     </entry>
     <entry>
@@ -247,8 +247,8 @@ Points: 304
         <updated>2021-05-23T13:00:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/
 Comments URL: https://news.ycombinator.com/item?id=27254719
-Points: 1095
-# Comments: 469]]></summary>
+Points: 1124
+# Comments: 472]]></summary>
         <author>
             <name>anandaverma18</name>
         </author>
@@ -260,8 +260,8 @@ Points: 1095
         <updated>2021-05-23T11:22:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html
 Comments URL: https://news.ycombinator.com/item?id=27254204
-Points: 58
-# Comments: 7]]></summary>
+Points: 60
+# Comments: 8]]></summary>
         <author>
             <name>yagizdegirmenci</name>
         </author>
