@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T21:13:25.094Z</updated>
+    <updated>2021-05-24T22:15:07.498Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
+        <id>60aaba5911ffb70827ef5ffc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/"/>
+        <updated>2021-05-24T21:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tesorio Is Hiring a Principal Data Architect to Join Our Leadership]]></title>
         <id>https://news.ycombinator.com/item?id=27269639</id>
@@ -30,16 +40,16 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3 years of GDPR: The biggest fines so far]]></title>
-        <id>https://news.ycombinator.com/item?id=27269290</id>
-        <link href="https://www.bbc.co.uk/news/technology-57011639"/>
-        <updated>2021-05-24T20:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57011639
-Comments URL: https://news.ycombinator.com/item?id=27269290
-Points: 35
-# Comments: 31]]></summary>
+        <title type="html"><![CDATA[Replit now supports every programming language]]></title>
+        <id>https://news.ycombinator.com/item?id=27269292</id>
+        <link href="https://blog.replit.com/nix"/>
+        <updated>2021-05-24T20:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.replit.com/nix
+Comments URL: https://news.ycombinator.com/item?id=27269292
+Points: 45
+# Comments: 13]]></summary>
         <author>
-            <name>alexanderdmitri</name>
+            <name>bobrenjc93</name>
         </author>
     </entry>
     <entry>
@@ -59,8 +69,8 @@ Points: 35
         <updated>2021-05-24T19:17:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/
 Comments URL: https://news.ycombinator.com/item?id=27268537
-Points: 34
-# Comments: 3]]></summary>
+Points: 54
+# Comments: 5]]></summary>
         <author>
             <name>bmau5</name>
         </author>
@@ -88,23 +98,36 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-24T19:09:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/
 Comments URL: https://news.ycombinator.com/item?id=27268462
-Points: 107
-# Comments: 41]]></summary>
+Points: 130
+# Comments: 59]]></summary>
         <author>
             <name>deegles</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uber's crazy YOLO app rewrite, from the front seat]]></title>
-        <id>https://news.ycombinator.com/item?id=27267368</id>
-        <link href="https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/"/>
-        <updated>2021-05-24T17:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/
-Comments URL: https://news.ycombinator.com/item?id=27267368
-Points: 169
-# Comments: 138]]></summary>
+        <title type="html"><![CDATA[Amazon Nears Deal to Buy Hollywood Studio MGM]]></title>
+        <id>https://news.ycombinator.com/item?id=27268288</id>
+        <link href="https://www.wsj.com/articles/amazon-nears-deal-to-buy-hollywood-studio-mgm-11621880759"/>
+        <updated>2021-05-24T18:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/amazon-nears-deal-to-buy-hollywood-studio-mgm-11621880759
+Comments URL: https://news.ycombinator.com/item?id=27268288
+Points: 63
+# Comments: 14]]></summary>
         <author>
-            <name>gregdoesit</name>
+            <name>lunchbreak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serendipity Finds You]]></title>
+        <id>https://news.ycombinator.com/item?id=27268273</id>
+        <link href="http://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html"/>
+        <updated>2021-05-24T18:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html
+Comments URL: https://news.ycombinator.com/item?id=27268273
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>paulpauper</name>
         </author>
     </entry>
     <entry>
@@ -114,8 +137,8 @@ Points: 169
         <updated>2021-05-24T17:18:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.cmyr.net/blog/rust-python-learnings.html
 Comments URL: https://news.ycombinator.com/item?id=27267066
-Points: 134
-# Comments: 82]]></summary>
+Points: 143
+# Comments: 94]]></summary>
         <author>
             <name>zbentley</name>
         </author>
@@ -127,8 +150,8 @@ Points: 134
         <updated>2021-05-24T17:13:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/
 Comments URL: https://news.ycombinator.com/item?id=27267007
-Points: 47
-# Comments: 4]]></summary>
+Points: 60
+# Comments: 6]]></summary>
         <author>
             <name>digikata</name>
         </author>
@@ -140,8 +163,8 @@ Points: 47
         <updated>2021-05-24T16:43:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.knosof.co.uk/ESEUR/
 Comments URL: https://news.ycombinator.com/item?id=27266551
-Points: 87
-# Comments: 7]]></summary>
+Points: 99
+# Comments: 8]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -153,8 +176,8 @@ Points: 87
         <updated>2021-05-24T16:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/
 Comments URL: https://news.ycombinator.com/item?id=27266485
-Points: 168
-# Comments: 86]]></summary>
+Points: 206
+# Comments: 115]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -166,8 +189,8 @@ Points: 168
         <updated>2021-05-24T15:52:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/
 Comments URL: https://news.ycombinator.com/item?id=27265836
-Points: 62
-# Comments: 1]]></summary>
+Points: 72
+# Comments: 4]]></summary>
         <author>
             <name>theafh</name>
         </author>
@@ -179,8 +202,8 @@ Points: 62
         <updated>2021-05-24T15:40:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/
 Comments URL: https://news.ycombinator.com/item?id=27265645
-Points: 78
-# Comments: 128]]></summary>
+Points: 97
+# Comments: 151]]></summary>
         <author>
             <name>de_keyboard</name>
         </author>
@@ -204,8 +227,8 @@ Steve and I met in the open-sou…]]></summary>
         <updated>2021-05-24T15:18:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/
 Comments URL: https://news.ycombinator.com/item?id=27265340
-Points: 233
-# Comments: 107]]></summary>
+Points: 251
+# Comments: 125]]></summary>
         <author>
             <name>kemonocode</name>
         </author>
@@ -217,10 +240,23 @@ Points: 233
         <updated>2021-05-24T15:06:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen
 Comments URL: https://news.ycombinator.com/item?id=27265209
-Points: 124
-# Comments: 94]]></summary>
+Points: 132
+# Comments: 105]]></summary>
         <author>
             <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I/O Rings: When One I/O Operation is Not Enough]]></title>
+        <id>https://news.ycombinator.com/item?id=27265091</id>
+        <link href="https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/"/>
+        <updated>2021-05-24T14:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/
+Comments URL: https://news.ycombinator.com/item?id=27265091
+Points: 21
+# Comments: 6]]></summary>
+        <author>
+            <name>ingve</name>
         </author>
     </entry>
     <entry>
@@ -240,8 +276,8 @@ Points: 124
         <updated>2021-05-24T14:48:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vivirenremoto.github.io/doomcaptcha/
 Comments URL: https://news.ycombinator.com/item?id=27264988
-Points: 140
-# Comments: 43]]></summary>
+Points: 217
+# Comments: 58]]></summary>
         <author>
             <name>jukkakoskinen</name>
         </author>
@@ -253,8 +289,8 @@ Points: 140
         <updated>2021-05-24T14:32:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tomassetti.me/parsing-in-javascript/#chevrotain
 Comments URL: https://news.ycombinator.com/item?id=27264777
-Points: 53
-# Comments: 13]]></summary>
+Points: 58
+# Comments: 15]]></summary>
         <author>
             <name>jasim</name>
         </author>
@@ -266,8 +302,8 @@ Points: 53
         <updated>2021-05-24T14:07:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nezhar.com/blog/increase-performance-via-range-fields-in-django-querysets-on-postgresql/
 Comments URL: https://news.ycombinator.com/item?id=27264514
-Points: 22
-# Comments: 3]]></summary>
+Points: 27
+# Comments: 5]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -279,8 +315,8 @@ Points: 22
         <updated>2021-05-24T14:06:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloudbite.attejuvonen.fi/
 Comments URL: https://news.ycombinator.com/item?id=27264500
-Points: 236
-# Comments: 76]]></summary>
+Points: 252
+# Comments: 78]]></summary>
         <author>
             <name>baobabKoodaa</name>
         </author>
@@ -295,32 +331,6 @@ The post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tony Hawk on his skateboarding legacy]]></title>
-        <id>https://news.ycombinator.com/item?id=27264295</id>
-        <link href="https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview"/>
-        <updated>2021-05-24T13:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview
-Comments URL: https://news.ycombinator.com/item?id=27264295
-Points: 143
-# Comments: 76]]></summary>
-        <author>
-            <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ Software Security Sins: Basic Issues]]></title>
-        <id>https://news.ycombinator.com/item?id=27263875</id>
-        <link href="https://www.cppstories.com/2021/security-sins/"/>
-        <updated>2021-05-24T13:06:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cppstories.com/2021/security-sins/
-Comments URL: https://news.ycombinator.com/item?id=27263875
-Points: 38
-# Comments: 8]]></summary>
-        <author>
-            <name>theBashShell</name>
         </author>
     </entry>
     <entry>
@@ -538,16 +548,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/"/>
         <updated>2021-05-19T23:17:21.000Z</updated>
         <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
-        <id>60a42386906c5207e3a7dfe2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
-        <updated>2021-05-19T21:09:01.000Z</updated>
-        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
