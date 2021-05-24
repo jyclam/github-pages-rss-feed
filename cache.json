@@ -6,31 +6,76 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27267066",
+          "author": "zbentley",
+          "description": "Article URL: http://www.cmyr.net/blog/rust-python-learnings.html\nComments URL: https://news.ycombinator.com/item?id=27267066\nPoints: 22\n# Comments: 0",
+          "link": "http://www.cmyr.net/blog/rust-python-learnings.html",
+          "publishedOn": "2021-05-24T17:18:15.000Z",
+          "wordCount": 2596,
+          "title": "Writing Pythonic Rust"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27266826",
+          "author": "jstreebin",
+          "description": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=27266826\nPoints: 1\n# Comments: 0",
+          "link": "https://www.easypost.com/careers",
+          "publishedOn": "2021-05-24T17:00:48.000Z",
+          "wordCount": 381,
+          "title": "EasyPost (YC S13) Is Hiring (Remote)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27266551",
+          "author": "teleforce",
+          "description": "Article URL: http://www.knosof.co.uk/ESEUR/\nComments URL: https://news.ycombinator.com/item?id=27266551\nPoints: 13\n# Comments: 0",
+          "link": "http://www.knosof.co.uk/ESEUR/",
+          "publishedOn": "2021-05-24T16:43:30.000Z",
+          "wordCount": 453,
+          "title": "Evidence-Based Software Engineering based on publicly available data"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27266485",
+          "author": "teleforce",
+          "description": "Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/\nComments URL: https://news.ycombinator.com/item?id=27266485\nPoints: 24\n# Comments: 2",
+          "link": "https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/",
+          "publishedOn": "2021-05-24T16:39:07.000Z",
+          "wordCount": 1736,
+          "title": "Complexity is a source of income in open source ecosystems"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27266433",
+          "author": "a-human",
+          "description": "Article URL: https://arstechnica.com/gadgets/2021/05/ifixit-tells-the-sad-story-of-how-samsung-ruined-its-upcycling-program/\nComments URL: https://news.ycombinator.com/item?id=27266433\nPoints: 32\n# Comments: 0",
+          "link": "https://arstechnica.com/gadgets/2021/05/ifixit-tells-the-sad-story-of-how-samsung-ruined-its-upcycling-program/",
+          "publishedOn": "2021-05-24T16:35:43.000Z",
+          "wordCount": 1088,
+          "title": "iFixit tells the sad story of how Samsung “ruined” its upcycling program"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27266177",
+          "author": "tosh",
+          "description": "Article URL: https://developer.apple.com/wwdc21/\nComments URL: https://news.ycombinator.com/item?id=27266177\nPoints: 105\n# Comments: 52",
+          "link": "https://developer.apple.com/wwdc21/",
+          "publishedOn": "2021-05-24T16:17:32.000Z",
+          "wordCount": 485,
+          "title": "WWDC21"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27265836",
+          "author": "theafh",
+          "description": "Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/\nComments URL: https://news.ycombinator.com/item?id=27265836\nPoints: 3\n# Comments: 0",
+          "link": "https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/",
+          "publishedOn": "2021-05-24T15:52:49.000Z",
+          "wordCount": 2854,
+          "title": "Radioactivity May Fuel Life Deep Underground and Inside Other Worlds"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27265755",
           "author": "jmsflknr",
-          "description": "Article URL: https://techcrunch.com/2021/05/24/delhi-police-run-by-indias-central-government-raids-twitter-offices-over-manipulated-label/\nComments URL: https://news.ycombinator.com/item?id=27265755\nPoints: 19\n# Comments: 0",
+          "description": "Article URL: https://techcrunch.com/2021/05/24/delhi-police-run-by-indias-central-government-raids-twitter-offices-over-manipulated-label/\nComments URL: https://news.ycombinator.com/item?id=27265755\nPoints: 76\n# Comments: 10",
           "link": "https://techcrunch.com/2021/05/24/delhi-police-run-by-indias-central-government-raids-twitter-offices-over-manipulated-label/",
           "publishedOn": "2021-05-24T15:47:29.000Z",
-          "wordCount": 459,
+          "wordCount": 723,
           "title": "Delhi Police raids Twitter offices over manipulated label"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27265645",
-          "author": "de_keyboard",
-          "description": "Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/\nComments URL: https://news.ycombinator.com/item?id=27265645\nPoints: 36\n# Comments: 22",
-          "link": "https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/",
-          "publishedOn": "2021-05-24T15:40:49.000Z",
-          "wordCount": 2460,
-          "title": "Why Did Bar Ends Go Away from Mountain Bikes?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27265532",
-          "author": "noego",
-          "description": "Article URL: https://www.nytimes.com/2021/05/20/business/economy/global-minimum-tax-corporations.html\nComments URL: https://news.ycombinator.com/item?id=27265532\nPoints: 58\n# Comments: 9",
-          "link": "https://www.nytimes.com/2021/05/20/business/economy/global-minimum-tax-corporations.html",
-          "publishedOn": "2021-05-24T15:32:01.000Z",
-          "wordCount": 1343,
-          "title": "U.S. Backs 15% Global Minimum Tax to Curb Profit Shifting Overseas"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27265380",
@@ -38,13 +83,13 @@
           "description": "Hi HN! I’m Rowan and with my co-founder Steve we are building Curvenote (https://curvenote.com) — a technical writing tool for sharing data analysis and research from Jupyter with a wider audience.\nWe are building Curvenote to get science communication out of PDFs and help researchers and data-scientists communicate interactive, reproducible results (graphs, figures, maps, etc.) that are linked to the actual data and computation. There are currently two parts to Curvenote: 1) a WYSIWYG collaborative writing environment for interactive, technical documents; and 2) a Jupyter integration that adds version control and commenting and can link interactive plots and outputs directly into Curvenote documents (including any new versions or comments on those outputs).\nSteve and I met in the open-sou…",
           "link": "https://news.ycombinator.com/item?id=27265380",
           "publishedOn": "2021-05-24T15:20:10.000Z",
-          "wordCount": 992,
+          "wordCount": 1386,
           "title": "Launch HN: Curvenote (YC W21) – Collaborative writing tools for science"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27265340",
           "author": "kemonocode",
-          "description": "Article URL: https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/\nComments URL: https://news.ycombinator.com/item?id=27265340\nPoints: 89\n# Comments: 4",
+          "description": "Article URL: https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/\nComments URL: https://news.ycombinator.com/item?id=27265340\nPoints: 176\n# Comments: 39",
           "link": "https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/",
           "publishedOn": "2021-05-24T15:18:00.000Z",
           "wordCount": 675,
@@ -53,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27265209",
           "author": "tosh",
-          "description": "Article URL: https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen\nComments URL: https://news.ycombinator.com/item?id=27265209\nPoints: 46\n# Comments: 16",
+          "description": "Article URL: https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen\nComments URL: https://news.ycombinator.com/item?id=27265209\nPoints: 80\n# Comments: 33",
           "link": "https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen",
           "publishedOn": "2021-05-24T15:06:39.000Z",
           "wordCount": 669,
@@ -62,25 +107,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27264777",
           "author": "jasim",
-          "description": "Article URL: https://tomassetti.me/parsing-in-javascript/#chevrotain\nComments URL: https://news.ycombinator.com/item?id=27264777\nPoints: 8\n# Comments: 2",
+          "description": "Article URL: https://tomassetti.me/parsing-in-javascript/#chevrotain\nComments URL: https://news.ycombinator.com/item?id=27264777\nPoints: 30\n# Comments: 7",
           "link": "https://tomassetti.me/parsing-in-javascript/#chevrotain",
           "publishedOn": "2021-05-24T14:32:01.000Z",
           "wordCount": 6965,
           "title": "Parsing in JavaScript: all the tools and libraries you can use"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27264560",
-          "author": "imrank1",
-          "description": "How do you insure you are working on the most important items for the TEAM?\nWhats the thing that drains you the most?\nWhere do you reach out to get advise outside of your company?\nWhat is missing from the tools you currently have?\nComments URL: https://news.ycombinator.com/item?id=27264560\nPoints: 62\n# Comments: 22",
-          "link": "https://news.ycombinator.com/item?id=27264560",
-          "publishedOn": "2021-05-24T14:11:15.000Z",
-          "wordCount": 4054,
-          "title": "Ask HN: Engineering managers; what are the problems you face?"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27264500",
           "author": "baobabKoodaa",
-          "description": "Article URL: https://cloudbite.attejuvonen.fi/\nComments URL: https://news.ycombinator.com/item?id=27264500\nPoints: 121\n# Comments: 34",
+          "description": "Article URL: https://cloudbite.attejuvonen.fi/\nComments URL: https://news.ycombinator.com/item?id=27264500\nPoints: 157\n# Comments: 46",
           "link": "https://cloudbite.attejuvonen.fi/",
           "publishedOn": "2021-05-24T14:06:03.000Z",
           "wordCount": 62,
@@ -89,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27264295",
           "author": "pseudolus",
-          "description": "Article URL: https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview\nComments URL: https://news.ycombinator.com/item?id=27264295\nPoints: 78\n# Comments: 29",
+          "description": "Article URL: https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview\nComments URL: https://news.ycombinator.com/item?id=27264295\nPoints: 98\n# Comments: 50",
           "link": "https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview",
           "publishedOn": "2021-05-24T13:46:27.000Z",
           "wordCount": 1596,
@@ -98,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27263875",
           "author": "theBashShell",
-          "description": "Article URL: https://www.cppstories.com/2021/security-sins/\nComments URL: https://news.ycombinator.com/item?id=27263875\nPoints: 10\n# Comments: 0",
+          "description": "Article URL: https://www.cppstories.com/2021/security-sins/\nComments URL: https://news.ycombinator.com/item?id=27263875\nPoints: 21\n# Comments: 0",
           "link": "https://www.cppstories.com/2021/security-sins/",
           "publishedOn": "2021-05-24T13:06:05.000Z",
           "wordCount": 1716,
@@ -107,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27263828",
           "author": "jermaustin1",
-          "description": "Article URL: https://jeremyaboyd.com/post/how-intuitive-are-macs-really-\nComments URL: https://news.ycombinator.com/item?id=27263828\nPoints: 113\n# Comments: 287",
+          "description": "Article URL: https://jeremyaboyd.com/post/how-intuitive-are-macs-really-\nComments URL: https://news.ycombinator.com/item?id=27263828\nPoints: 131\n# Comments: 393",
           "link": "https://jeremyaboyd.com/post/how-intuitive-are-macs-really-",
           "publishedOn": "2021-05-24T13:01:25.000Z",
           "wordCount": 732,
@@ -116,74 +152,38 @@
         {
           "id": "https://news.ycombinator.com/item?id=27263585",
           "author": "danny00",
-          "description": "Article URL: https://www.joshmcguigan.com/blog/array-initialization-rust/\nComments URL: https://news.ycombinator.com/item?id=27263585\nPoints: 68\n# Comments: 21",
+          "description": "Article URL: https://www.joshmcguigan.com/blog/array-initialization-rust/\nComments URL: https://news.ycombinator.com/item?id=27263585\nPoints: 76\n# Comments: 24",
           "link": "https://www.joshmcguigan.com/blog/array-initialization-rust/",
           "publishedOn": "2021-05-24T12:32:54.000Z",
           "wordCount": 1283,
           "title": "Methods for Array Initialization in Rust (2018)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27263333",
-          "author": "jaguar75",
-          "description": "Article URL: https://www.workatastartup.com/jobs/42298\nComments URL: https://news.ycombinator.com/item?id=27263333\nPoints: 1\n# Comments: 0",
-          "link": "https://www.workatastartup.com/jobs/42298",
-          "publishedOn": "2021-05-24T12:00:25.000Z",
-          "wordCount": 460,
-          "title": "Signadot (YC W20) Is Hiring Founding Back End Engineers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27263235",
-          "author": "leephillips",
-          "description": "Article URL: https://arstechnica.com/science/2021/05/eternally-five-years-away-no-batteries-are-improving-under-your-nose/\nComments URL: https://news.ycombinator.com/item?id=27263235\nPoints: 62\n# Comments: 13",
-          "link": "https://arstechnica.com/science/2021/05/eternally-five-years-away-no-batteries-are-improving-under-your-nose/",
-          "publishedOn": "2021-05-24T11:45:26.000Z",
-          "wordCount": 1488,
-          "title": "Eternally five years away? No, batteries are improving under your nose"
+          "id": "https://news.ycombinator.com/item?id=27263160",
+          "author": "smlckz",
+          "description": "Article URL: https://drewdevault.com/2021/05/24/io_uring-finger-server.html\nComments URL: https://news.ycombinator.com/item?id=27263160\nPoints: 12\n# Comments: 1",
+          "link": "https://drewdevault.com/2021/05/24/io_uring-finger-server.html",
+          "publishedOn": "2021-05-24T11:31:40.000Z",
+          "wordCount": 5171,
+          "title": "Using io_uring to make a high-performance finger server"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27263141",
           "author": "Tomte",
-          "description": "Article URL: https://www.netmeister.org/blog/email.html\nComments URL: https://news.ycombinator.com/item?id=27263141\nPoints: 124\n# Comments: 164",
+          "description": "Article URL: https://www.netmeister.org/blog/email.html\nComments URL: https://news.ycombinator.com/item?id=27263141\nPoints: 153\n# Comments: 215",
           "link": "https://www.netmeister.org/blog/email.html",
           "publishedOn": "2021-05-24T11:27:24.000Z",
-          "wordCount": null,
+          "wordCount": 1873,
           "title": "Your e-mail validation logic is wrong"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27263136",
           "author": "Smaug123",
-          "description": "Article URL: https://www.gresearch.co.uk/article/in-praise-of-dry-run/\nComments URL: https://news.ycombinator.com/item?id=27263136\nPoints: 120\n# Comments: 44",
+          "description": "Article URL: https://www.gresearch.co.uk/article/in-praise-of-dry-run/\nComments URL: https://news.ycombinator.com/item?id=27263136\nPoints: 172\n# Comments: 68",
           "link": "https://www.gresearch.co.uk/article/in-praise-of-dry-run/",
           "publishedOn": "2021-05-24T11:26:15.000Z",
           "wordCount": 2252,
           "title": "In praise of --dry-run"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27262960",
-          "author": "svenpeter",
-          "description": "Article URL: https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/\nComments URL: https://news.ycombinator.com/item?id=27262960\nPoints: 350\n# Comments: 183",
-          "link": "https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/",
-          "publishedOn": "2021-05-24T10:58:30.000Z",
-          "wordCount": 2200,
-          "title": "Temptation of the Apple: Dolphin on macOS M1"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27262943",
-          "author": "xenocratus",
-          "description": "Article URL: https://www.reddit.com/r/AskHistorians/comments/lz3rj1/why_did_the_ussr_build_such_grandiose_designs_and/gq09pvf/\nComments URL: https://news.ycombinator.com/item?id=27262943\nPoints: 119\n# Comments: 26",
-          "link": "https://www.reddit.com/r/AskHistorians/comments/lz3rj1/why_did_the_ussr_build_such_grandiose_designs_and/gq09pvf/",
-          "publishedOn": "2021-05-24T10:56:13.000Z",
-          "wordCount": 2527,
-          "title": "Why is the Moscow Metro so grandiose compared to other Soviet architecture"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27262788",
-          "author": "mnw21cam",
-          "description": "Article URL: https://www.bbc.co.uk/news/uk-england-merseyside-57226165\nComments URL: https://news.ycombinator.com/item?id=27262788\nPoints: 189\n# Comments: 111",
-          "link": "https://www.bbc.co.uk/news/uk-england-merseyside-57226165",
-          "publishedOn": "2021-05-24T10:28:10.000Z",
-          "wordCount": 781,
-          "title": "Cheese photo leads to Liverpool drug dealer's downfall"
         }
       ]
     },
@@ -344,7 +344,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3515,
+          "wordCount": 3530,
           "title": "Svelte for the Experienced React Dev"
         },
         {
