@@ -6,9 +6,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27276706",
+          "author": "avinassh",
+          "description": "Article URL: https://qntm.org/clean?tw=\nComments URL: https://news.ycombinator.com/item?id=27276706\nPoints: 7\n# Comments: 1",
+          "link": "https://qntm.org/clean?tw=",
+          "publishedOn": "2021-05-25T13:48:37.000Z",
+          "wordCount": 12419,
+          "title": "It's probably time to stop recommending Clean Code"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27276671",
+          "author": "seik",
+          "description": "Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510\nComments URL: https://news.ycombinator.com/item?id=27276671\nPoints: 5\n# Comments: 0",
+          "link": "https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510",
+          "publishedOn": "2021-05-25T13:45:36.000Z",
+          "wordCount": 2812,
+          "title": "Arm Announces New Mobile Armv9 CPU Microarchitectures"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27276481",
+          "author": "raldu",
+          "description": "Article URL: https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model\nComments URL: https://news.ycombinator.com/item?id=27276481\nPoints: 61\n# Comments: 26",
+          "link": "https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model",
+          "publishedOn": "2021-05-25T13:25:30.000Z",
+          "wordCount": 721,
+          "title": "The Economist's excess deaths model"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27276434",
+          "author": "FridayoLeary",
+          "description": "Article URL: https://www.bbc.co.uk/news/world-us-canada-57239610\nComments URL: https://news.ycombinator.com/item?id=27276434\nPoints: 36\n# Comments: 7",
+          "link": "https://www.bbc.co.uk/news/world-us-canada-57239610",
+          "publishedOn": "2021-05-25T13:20:44.000Z",
+          "wordCount": 845,
+          "title": "Texas to allow unlicensed carrying of handguns"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27276400",
+          "author": "timdaub",
+          "description": "Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/#f1\nComments URL: https://news.ycombinator.com/item?id=27276400\nPoints: 13\n# Comments: 4",
+          "link": "https://timdaub.github.io/2020/02/19/wasm-synth/#f1",
+          "publishedOn": "2021-05-25T13:15:48.000Z",
+          "wordCount": 4168,
+          "title": "WASM SYNTH, or, how music taught me the beauty of math"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27275906",
           "author": "mehdim",
-          "description": "Article URL: https://www.alias.dev/report\nComments URL: https://news.ycombinator.com/item?id=27275906\nPoints: 82\n# Comments: 27",
+          "description": "Article URL: https://www.alias.dev/report\nComments URL: https://news.ycombinator.com/item?id=27275906\nPoints: 140\n# Comments: 66",
           "link": "https://www.alias.dev/report",
           "publishedOn": "2021-05-25T12:14:42.000Z",
           "wordCount": 236,
@@ -17,11 +62,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275827",
           "author": "optimalsolver",
-          "description": "Article URL: https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun\nComments URL: https://news.ycombinator.com/item?id=27275827\nPoints: 48\n# Comments: 9",
+          "description": "Article URL: https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun\nComments URL: https://news.ycombinator.com/item?id=27275827\nPoints: 75\n# Comments: 21",
           "link": "https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun",
           "publishedOn": "2021-05-25T12:06:18.000Z",
           "wordCount": 5735,
-          "title": "The 31 Laws Of Fun"
+          "title": "Laws of Fun (2009)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27275783",
@@ -29,13 +74,13 @@
           "description": "Article URL: https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer\nComments URL: https://news.ycombinator.com/item?id=27275783\nPoints: 1\n# Comments: 0",
           "link": "https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer",
           "publishedOn": "2021-05-25T12:01:02.000Z",
-          "wordCount": 315,
+          "wordCount": 322,
           "title": "Fractional (YC W21) is hiring a product engineer"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27275730",
           "author": "daegloe",
-          "description": "Article URL: https://www.theguardian.com/science/2021/may/24/research-reveals-why-some-find-the-sound-of-others-eating-so-irritating\nComments URL: https://news.ycombinator.com/item?id=27275730\nPoints: 29\n# Comments: 11",
+          "description": "Article URL: https://www.theguardian.com/science/2021/may/24/research-reveals-why-some-find-the-sound-of-others-eating-so-irritating\nComments URL: https://news.ycombinator.com/item?id=27275730\nPoints: 39\n# Comments: 30",
           "link": "https://www.theguardian.com/science/2021/may/24/research-reveals-why-some-find-the-sound-of-others-eating-so-irritating",
           "publishedOn": "2021-05-25T11:55:07.000Z",
           "wordCount": 663,
@@ -44,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275691",
           "author": "vchain-dz",
-          "description": "Article URL: https://www.codenotary.com/blog/immudb-release-1-0\nComments URL: https://news.ycombinator.com/item?id=27275691\nPoints: 32\n# Comments: 24",
+          "description": "Article URL: https://www.codenotary.com/blog/immudb-release-1-0\nComments URL: https://news.ycombinator.com/item?id=27275691\nPoints: 63\n# Comments: 35",
           "link": "https://www.codenotary.com/blog/immudb-release-1-0",
           "publishedOn": "2021-05-25T11:49:50.000Z",
           "wordCount": 705,
@@ -53,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275452",
           "author": "shivbhatt",
-          "description": "Article URL: https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history\nComments URL: https://news.ycombinator.com/item?id=27275452\nPoints: 38\n# Comments: 18",
+          "description": "Article URL: https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history\nComments URL: https://news.ycombinator.com/item?id=27275452\nPoints: 49\n# Comments: 28",
           "link": "https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history",
           "publishedOn": "2021-05-25T11:19:58.000Z",
           "wordCount": 627,
@@ -62,25 +107,43 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275447",
           "author": "shivbhatt",
-          "description": "Article URL: https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520\nComments URL: https://news.ycombinator.com/item?id=27275447\nPoints: 44\n# Comments: 0",
+          "description": "Article URL: https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520\nComments URL: https://news.ycombinator.com/item?id=27275447\nPoints: 57\n# Comments: 0",
           "link": "https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520",
           "publishedOn": "2021-05-25T11:19:20.000Z",
           "wordCount": 62,
           "title": "German regulator probes Google's market position, data use"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27275393",
+          "author": "rbanffy",
+          "description": "Article URL: https://news.mit.edu/2021/misinformation-correcting-worse-0520\nComments URL: https://news.ycombinator.com/item?id=27275393\nPoints: 12\n# Comments: 1",
+          "link": "https://news.mit.edu/2021/misinformation-correcting-worse-0520",
+          "publishedOn": "2021-05-25T11:11:00.000Z",
+          "wordCount": 2008,
+          "title": "Does correcting online falsehoods make matters worse?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27275318",
+          "author": "haakonhr",
+          "description": "Article URL: https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home\nComments URL: https://news.ycombinator.com/item?id=27275318\nPoints: 34\n# Comments: 25",
+          "link": "https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home",
+          "publishedOn": "2021-05-25T11:00:42.000Z",
+          "wordCount": 1959,
+          "title": "What if remote work meant WFNH (work from near home); not WFH?"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27274992",
           "author": "robin_reala",
-          "description": "Article URL: https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules\nComments URL: https://news.ycombinator.com/item?id=27274992\nPoints: 97\n# Comments: 32",
+          "description": "Article URL: https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules\nComments URL: https://news.ycombinator.com/item?id=27274992\nPoints: 120\n# Comments: 33",
           "link": "https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules",
           "publishedOn": "2021-05-25T10:09:02.000Z",
-          "wordCount": 696,
+          "wordCount": 864,
           "title": "GCHQ’s mass data-sharing violated right to privacy, court rules"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27274670",
           "author": "mpsq",
-          "description": "Article URL: https://emacsair.me/2021/05/25/magit-3.0/\nComments URL: https://news.ycombinator.com/item?id=27274670\nPoints: 42\n# Comments: 4",
+          "description": "Article URL: https://emacsair.me/2021/05/25/magit-3.0/\nComments URL: https://news.ycombinator.com/item?id=27274670\nPoints: 84\n# Comments: 26",
           "link": "https://emacsair.me/2021/05/25/magit-3.0/",
           "publishedOn": "2021-05-25T09:17:30.000Z",
           "wordCount": 625,
@@ -89,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27274647",
           "author": "theindianappguy",
-          "description": "Article URL: https://www.sendsimple.app\nComments URL: https://news.ycombinator.com/item?id=27274647\nPoints: 49\n# Comments: 46",
+          "description": "Article URL: https://www.sendsimple.app\nComments URL: https://news.ycombinator.com/item?id=27274647\nPoints: 61\n# Comments: 52",
           "link": "https://www.sendsimple.app",
           "publishedOn": "2021-05-25T09:14:53.000Z",
           "wordCount": 587,
@@ -98,92 +161,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27273953",
           "author": "hiharryhere",
-          "description": "Article URL: https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html\nComments URL: https://news.ycombinator.com/item?id=27273953\nPoints: 97\n# Comments: 68",
+          "description": "Article URL: https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html\nComments URL: https://news.ycombinator.com/item?id=27273953\nPoints: 117\n# Comments: 93",
           "link": "https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html",
           "publishedOn": "2021-05-25T07:32:56.000Z",
           "wordCount": 600,
           "title": "Italian seaside residents hit with bygone feudal tax"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27273778",
-          "author": "panic",
-          "description": "Article URL: https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/\nComments URL: https://news.ycombinator.com/item?id=27273778\nPoints: 146\n# Comments: 113",
-          "link": "https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/",
-          "publishedOn": "2021-05-25T07:04:48.000Z",
-          "wordCount": 901,
-          "title": "Google is officially releasing Fuchsia OS, starting with a first-gen Nest Hub"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27273752",
           "author": "xendo",
-          "description": "Article URL: https://www.bbc.com/news/world-europe-57236489\nComments URL: https://news.ycombinator.com/item?id=27273752\nPoints: 426\n# Comments: 292",
+          "description": "Article URL: https://www.bbc.com/news/world-europe-57236489\nComments URL: https://news.ycombinator.com/item?id=27273752\nPoints: 469\n# Comments: 309",
           "link": "https://www.bbc.com/news/world-europe-57236489",
           "publishedOn": "2021-05-25T07:00:45.000Z",
-          "wordCount": 1650,
+          "wordCount": 1648,
           "title": "EU bans Belarusian airlines from European skies"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27273724",
           "author": "reid",
-          "description": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=34572\nComments URL: https://news.ycombinator.com/item?id=27273724\nPoints: 391\n# Comments: 185",
+          "description": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=34572\nComments URL: https://news.ycombinator.com/item?id=27273724\nPoints: 416\n# Comments: 199",
           "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=34572",
           "publishedOn": "2021-05-25T06:57:04.000Z",
           "wordCount": 4962,
           "title": "Use native context menus on Mac OS"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27273706",
-          "author": "Flex247A",
-          "description": "I recently picked up 'The Audio Programming Book' [0] and so far, I am really liking it. But I am not sure which resource to pick after reading that. Can you recommend me some audio programming resources which are beginner friendly?\n[0] https://mitpress.mit.edu/books/audio-programming-book\nEdit: My goal is to make a mini-synth which takes input from the computer keyboard.\nComments URL: https://news.ycombinator.com/item?id=27273706\nPoints: 202\n# Comments: 68",
-          "link": "https://news.ycombinator.com/item?id=27273706",
-          "publishedOn": "2021-05-25T06:54:43.000Z",
-          "wordCount": 4930,
-          "title": "Ask HN: How to get started with audio programming?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27273657",
-          "author": "seanhandley",
-          "description": "Article URL: https://orbis.stanford.edu/\nComments URL: https://news.ycombinator.com/item?id=27273657\nPoints: 41\n# Comments: 7",
-          "link": "https://orbis.stanford.edu/",
-          "publishedOn": "2021-05-25T06:49:17.000Z",
-          "wordCount": 288,
-          "title": "ORBIS: The Stanford Geospatial Network Model of the Roman World"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27272634",
-          "author": "onemind",
-          "description": "Article URL: https://mitpress.mit.edu/blog/hidden-architecture-birds\nComments URL: https://news.ycombinator.com/item?id=27272634\nPoints: 59\n# Comments: 6",
-          "link": "https://mitpress.mit.edu/blog/hidden-architecture-birds",
-          "publishedOn": "2021-05-25T04:35:19.000Z",
-          "wordCount": 1641,
-          "title": "Bird Architecture"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27272605",
-          "author": "solvent",
-          "description": "Article URL: https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/\nComments URL: https://news.ycombinator.com/item?id=27272605\nPoints: 57\n# Comments: 34",
-          "link": "https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/",
-          "publishedOn": "2021-05-25T04:29:22.000Z",
-          "wordCount": 1927,
-          "title": "Drunk as a Lord: the Regency Bottle Men"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27271366",
-          "author": "vimy",
-          "description": "Article URL: https://www.researchhub.com/about\nComments URL: https://news.ycombinator.com/item?id=27271366\nPoints: 155\n# Comments: 76",
-          "link": "https://www.researchhub.com/about",
-          "publishedOn": "2021-05-25T00:30:31.000Z",
-          "wordCount": 888,
-          "title": "Researchhub: GitHub for Science"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27269589",
-          "author": "ushakov",
-          "description": "Article URL: https://elk.audio/audio-os/\nComments URL: https://news.ycombinator.com/item?id=27269589\nPoints: 295\n# Comments: 138",
-          "link": "https://elk.audio/audio-os/",
-          "publishedOn": "2021-05-24T20:54:54.000Z",
-          "wordCount": 529,
-          "title": "Elk OS – Audio Operating System"
         }
       ]
     },
