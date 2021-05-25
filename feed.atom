@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T15:15:22.231Z</updated>
+    <updated>2021-05-25T16:37:51.084Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Which tools/services have your favorite UI/UX?]]></title>
+        <id>https://news.ycombinator.com/item?id=27278367</id>
+        <link href="https://news.ycombinator.com/item?id=27278367"/>
+        <updated>2021-05-25T15:48:25.000Z</updated>
+        <summary type="html"><![CDATA[e.g.:
+* Linux with its pipes
+* i3 with its window management
+* vim
+* emacs
+* fzf
+* pgsql
+* google.com
+* wikipedia.com
+I can't help but think that we could do so much more with some tools.
+Comments URL: https://news.ycombinator.com/item?id=27278367
+Points: 20
+# Comments: 6]]></summary>
+        <author>
+            <name>Bridgeburner4</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Launch HN: Fig (YC S20) – Autocomplete for the Terminal]]></title>
         <id>https://news.ycombinator.com/item?id=27277819</id>
@@ -13,10 +35,23 @@
         <updated>2021-05-25T15:09:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fig.io?ref=hn
 Comments URL: https://news.ycombinator.com/item?id=27277819
-Points: 1
-# Comments: 0]]></summary>
+Points: 134
+# Comments: 49]]></summary>
         <author>
             <name>mschrage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClojureScript 1.10.866 Release]]></title>
+        <id>https://news.ycombinator.com/item?id=27277482</id>
+        <link href="https://clojurescript.org/news/2021-05-24-release"/>
+        <updated>2021-05-25T14:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://clojurescript.org/news/2021-05-24-release
+Comments URL: https://news.ycombinator.com/item?id=27277482
+Points: 20
+# Comments: 0]]></summary>
+        <author>
+            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -32,6 +67,32 @@ The post What I Learned Building a Word Game App With Nuxt on Google Play appear
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Steinbeck’s estate urged to let the world read his shunned werewolf novel]]></title>
+        <id>https://news.ycombinator.com/item?id=27277035</id>
+        <link href="https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel"/>
+        <updated>2021-05-25T14:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel
+Comments URL: https://news.ycombinator.com/item?id=27277035
+Points: 37
+# Comments: 8]]></summary>
+        <author>
+            <name>benbreen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing mobile digital key applications with ClojureScript]]></title>
+        <id>https://news.ycombinator.com/item?id=27276992</id>
+        <link href="https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/"/>
+        <updated>2021-05-25T14:14:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/
+Comments URL: https://news.ycombinator.com/item?id=27276992
+Points: 26
+# Comments: 1]]></summary>
+        <author>
+            <name>swannodette</name>
         </author>
     </entry>
     <entry>
@@ -51,8 +112,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-25T13:48:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://qntm.org/clean?tw=
 Comments URL: https://news.ycombinator.com/item?id=27276706
-Points: 144
-# Comments: 52]]></summary>
+Points: 315
+# Comments: 221]]></summary>
         <author>
             <name>avinassh</name>
         </author>
@@ -64,8 +125,8 @@ Points: 144
         <updated>2021-05-25T13:45:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510
 Comments URL: https://news.ycombinator.com/item?id=27276671
-Points: 51
-# Comments: 12]]></summary>
+Points: 109
+# Comments: 37]]></summary>
         <author>
             <name>seik</name>
         </author>
@@ -77,23 +138,10 @@ Points: 51
         <updated>2021-05-25T13:32:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.buttoncheatsheet.com/
 Comments URL: https://news.ycombinator.com/item?id=27276547
-Points: 3
-# Comments: 0]]></summary>
+Points: 40
+# Comments: 12]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Economist's excess deaths model]]></title>
-        <id>https://news.ycombinator.com/item?id=27276481</id>
-        <link href="https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model"/>
-        <updated>2021-05-25T13:25:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model
-Comments URL: https://news.ycombinator.com/item?id=27276481
-Points: 105
-# Comments: 69]]></summary>
-        <author>
-            <name>raldu</name>
         </author>
     </entry>
     <entry>
@@ -103,8 +151,8 @@ Points: 105
         <updated>2021-05-25T13:15:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/#f1
 Comments URL: https://news.ycombinator.com/item?id=27276400
-Points: 37
-# Comments: 6]]></summary>
+Points: 77
+# Comments: 18]]></summary>
         <author>
             <name>timdaub</name>
         </author>
@@ -116,8 +164,8 @@ Points: 37
         <updated>2021-05-25T12:26:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible
 Comments URL: https://news.ycombinator.com/item?id=27275995
-Points: 9
-# Comments: 1]]></summary>
+Points: 19
+# Comments: 4]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -129,8 +177,8 @@ Points: 9
         <updated>2021-05-25T12:14:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.alias.dev/report
 Comments URL: https://news.ycombinator.com/item?id=27275906
-Points: 178
-# Comments: 93]]></summary>
+Points: 212
+# Comments: 116]]></summary>
         <author>
             <name>mehdim</name>
         </author>
@@ -142,8 +190,8 @@ Points: 178
         <updated>2021-05-25T12:06:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun
 Comments URL: https://news.ycombinator.com/item?id=27275827
-Points: 85
-# Comments: 28]]></summary>
+Points: 103
+# Comments: 35]]></summary>
         <author>
             <name>optimalsolver</name>
         </author>
@@ -168,8 +216,8 @@ Points: 1
         <updated>2021-05-25T11:49:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.codenotary.com/blog/immudb-release-1-0
 Comments URL: https://news.ycombinator.com/item?id=27275691
-Points: 109
-# Comments: 51]]></summary>
+Points: 158
+# Comments: 62]]></summary>
         <author>
             <name>vchain-dz</name>
         </author>
@@ -181,8 +229,8 @@ Points: 109
         <updated>2021-05-25T11:19:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history
 Comments URL: https://news.ycombinator.com/item?id=27275452
-Points: 55
-# Comments: 37]]></summary>
+Points: 67
+# Comments: 41]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -194,23 +242,10 @@ Points: 55
         <updated>2021-05-25T11:19:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520
 Comments URL: https://news.ycombinator.com/item?id=27275447
-Points: 78
-# Comments: 0]]></summary>
+Points: 92
+# Comments: 1]]></summary>
         <author>
             <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does correcting online falsehoods make matters worse?]]></title>
-        <id>https://news.ycombinator.com/item?id=27275393</id>
-        <link href="https://news.mit.edu/2021/misinformation-correcting-worse-0520"/>
-        <updated>2021-05-25T11:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/misinformation-correcting-worse-0520
-Comments URL: https://news.ycombinator.com/item?id=27275393
-Points: 34
-# Comments: 27]]></summary>
-        <author>
-            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -220,10 +255,23 @@ Points: 34
         <updated>2021-05-25T10:09:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules
 Comments URL: https://news.ycombinator.com/item?id=27274992
-Points: 140
-# Comments: 34]]></summary>
+Points: 167
+# Comments: 38]]></summary>
         <author>
             <name>robin_reala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The downfall of Malaysia’s biggest sugar daddy platform]]></title>
+        <id>https://news.ycombinator.com/item?id=27274902</id>
+        <link href="https://restofworld.org/2021/inside-the-downfall-of-sugarbook-malaysias-biggest-site-for-sex-work/"/>
+        <updated>2021-05-25T09:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://restofworld.org/2021/inside-the-downfall-of-sugarbook-malaysias-biggest-site-for-sex-work/
+Comments URL: https://news.ycombinator.com/item?id=27274902
+Points: 47
+# Comments: 9]]></summary>
+        <author>
+            <name>imartin2k</name>
         </author>
     </entry>
     <entry>
@@ -243,8 +291,8 @@ Points: 140
         <updated>2021-05-25T09:17:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://emacsair.me/2021/05/25/magit-3.0/
 Comments URL: https://news.ycombinator.com/item?id=27274670
-Points: 124
-# Comments: 43]]></summary>
+Points: 184
+# Comments: 65]]></summary>
         <author>
             <name>mpsq</name>
         </author>
@@ -256,49 +304,10 @@ Points: 124
         <updated>2021-05-25T07:32:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html
 Comments URL: https://news.ycombinator.com/item?id=27273953
-Points: 137
-# Comments: 109]]></summary>
+Points: 163
+# Comments: 123]]></summary>
         <author>
             <name>hiharryhere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Going Unconscious]]></title>
-        <id>https://news.ycombinator.com/item?id=27273811</id>
-        <link href="https://www.nybooks.com/articles/1995/04/20/going-unconscious/"/>
-        <updated>2021-05-25T07:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nybooks.com/articles/1995/04/20/going-unconscious/
-Comments URL: https://news.ycombinator.com/item?id=27273811
-Points: 6
-# Comments: 0]]></summary>
-        <author>
-            <name>dangerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google is officially releasing Fuchsia OS, starting with a first-gen Nest Hub]]></title>
-        <id>https://news.ycombinator.com/item?id=27273778</id>
-        <link href="https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/"/>
-        <updated>2021-05-25T07:04:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/
-Comments URL: https://news.ycombinator.com/item?id=27273778
-Points: 192
-# Comments: 197]]></summary>
-        <author>
-            <name>panic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU bans Belarusian airlines from European skies]]></title>
-        <id>https://news.ycombinator.com/item?id=27273752</id>
-        <link href="https://www.bbc.com/news/world-europe-57236489"/>
-        <updated>2021-05-25T07:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57236489
-Comments URL: https://news.ycombinator.com/item?id=27273752
-Points: 515
-# Comments: 328]]></summary>
-        <author>
-            <name>xendo</name>
         </author>
     </entry>
     <entry>
