@@ -2,14 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T00:46:59.415Z</updated>
+    <updated>2021-05-25T02:25:46.658Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
+        <title type="html"><![CDATA[Court Orders WhatsApp to Suspend Users Sharing Pirated Movie]]></title>
+        <id>https://news.ycombinator.com/item?id=27271830</id>
+        <link href="https://torrentfreak.com/court-orders-whatsapp-to-suspend-users-sharing-pirated-movie-210524/"/>
+        <updated>2021-05-25T01:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://torrentfreak.com/court-orders-whatsapp-to-suspend-users-sharing-pirated-movie-210524/
+Comments URL: https://news.ycombinator.com/item?id=27271830
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>curmudgeon22</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jerry, Inc. (YC S17) Is Hiring Senior Software Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27271555</id>
+        <link href="https://apply.workable.com/jerry/j/07E1D2B302/"/>
+        <updated>2021-05-25T01:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apply.workable.com/jerry/j/07E1D2B302/
+Comments URL: https://news.ycombinator.com/item?id=27271555
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>artag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Node Environment Variables with a DotEnv File for Node.js and npm]]></title>
+        <id>60abc6d011ffb70827ef630f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/"/>
+        <updated>2021-05-25T00:48:45.000Z</updated>
+        <summary type="html"><![CDATA[Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
         <id>60626dc29618b008528a9589</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/"/>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/"/>
         <updated>2021-05-25T00:20:22.000Z</updated>
         <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
         <author>
@@ -23,8 +59,8 @@
         <updated>2021-05-24T23:29:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thanaverage.xyz/
 Comments URL: https://news.ycombinator.com/item?id=27270928
-Points: 60
-# Comments: 54]]></summary>
+Points: 135
+# Comments: 112]]></summary>
         <author>
             <name>dvt</name>
         </author>
@@ -36,8 +72,8 @@ Points: 60
         <updated>2021-05-24T22:57:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/
 Comments URL: https://news.ycombinator.com/item?id=27270662
-Points: 40
-# Comments: 6]]></summary>
+Points: 76
+# Comments: 22]]></summary>
         <author>
             <name>lukefreeman</name>
         </author>
@@ -62,8 +98,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-24T21:45:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://inkscape.org/news/2021/05/24/welcome-inkscape-11/
 Comments URL: https://news.ycombinator.com/item?id=27270070
-Points: 204
-# Comments: 63]]></summary>
+Points: 238
+# Comments: 81]]></summary>
         <author>
             <name>RaitoBezarius</name>
         </author>
@@ -79,27 +115,14 @@ Points: 204
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesorio (YC S15) Is Hiring a Principal Data Architect]]></title>
-        <id>https://news.ycombinator.com/item?id=27269639</id>
-        <link href="https://www.tesorio.com/careers#job-openings"/>
-        <updated>2021-05-24T21:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tesorio.com/careers#job-openings
-Comments URL: https://news.ycombinator.com/item?id=27269639
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>FabioFleitas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Elk OS – Audio Operating System]]></title>
         <id>https://news.ycombinator.com/item?id=27269589</id>
         <link href="https://elk.audio/audio-os/"/>
         <updated>2021-05-24T20:54:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://elk.audio/audio-os/
 Comments URL: https://news.ycombinator.com/item?id=27269589
-Points: 97
-# Comments: 29]]></summary>
+Points: 137
+# Comments: 53]]></summary>
         <author>
             <name>ushakov</name>
         </author>
@@ -111,8 +134,8 @@ Points: 97
         <updated>2021-05-24T20:54:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914
 Comments URL: https://news.ycombinator.com/item?id=27269586
-Points: 9
-# Comments: 4]]></summary>
+Points: 23
+# Comments: 10]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -134,8 +157,8 @@ Points: 9
         <updated>2021-05-24T20:26:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.replit.com/nix
 Comments URL: https://news.ycombinator.com/item?id=27269292
-Points: 115
-# Comments: 27]]></summary>
+Points: 146
+# Comments: 30]]></summary>
         <author>
             <name>bobrenjc93</name>
         </author>
@@ -157,8 +180,8 @@ Points: 115
         <updated>2021-05-24T19:17:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/
 Comments URL: https://news.ycombinator.com/item?id=27268537
-Points: 97
-# Comments: 8]]></summary>
+Points: 117
+# Comments: 9]]></summary>
         <author>
             <name>bmau5</name>
         </author>
@@ -186,8 +209,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-24T19:09:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/
 Comments URL: https://news.ycombinator.com/item?id=27268462
-Points: 166
-# Comments: 80]]></summary>
+Points: 178
+# Comments: 83]]></summary>
         <author>
             <name>deegles</name>
         </author>
@@ -199,8 +222,8 @@ Points: 166
         <updated>2021-05-24T17:18:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.cmyr.net/blog/rust-python-learnings.html
 Comments URL: https://news.ycombinator.com/item?id=27267066
-Points: 166
-# Comments: 126]]></summary>
+Points: 180
+# Comments: 131]]></summary>
         <author>
             <name>zbentley</name>
         </author>
@@ -212,8 +235,8 @@ Points: 166
         <updated>2021-05-24T17:13:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/
 Comments URL: https://news.ycombinator.com/item?id=27267007
-Points: 84
-# Comments: 9]]></summary>
+Points: 90
+# Comments: 13]]></summary>
         <author>
             <name>digikata</name>
         </author>
@@ -225,8 +248,8 @@ Points: 84
         <updated>2021-05-24T16:43:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.knosof.co.uk/ESEUR/
 Comments URL: https://news.ycombinator.com/item?id=27266551
-Points: 119
-# Comments: 13]]></summary>
+Points: 131
+# Comments: 14]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -238,8 +261,8 @@ Points: 119
         <updated>2021-05-24T16:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/
 Comments URL: https://news.ycombinator.com/item?id=27266485
-Points: 233
-# Comments: 147]]></summary>
+Points: 249
+# Comments: 151]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -251,8 +274,8 @@ Points: 233
         <updated>2021-05-24T15:52:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/
 Comments URL: https://news.ycombinator.com/item?id=27265836
-Points: 93
-# Comments: 8]]></summary>
+Points: 100
+# Comments: 11]]></summary>
         <author>
             <name>theafh</name>
         </author>
@@ -264,8 +287,8 @@ Points: 93
         <updated>2021-05-24T15:40:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/
 Comments URL: https://news.ycombinator.com/item?id=27265645
-Points: 132
-# Comments: 209]]></summary>
+Points: 155
+# Comments: 240]]></summary>
         <author>
             <name>de_keyboard</name>
         </author>
@@ -289,7 +312,7 @@ Steve and I met in the open-sou…]]></summary>
         <updated>2021-05-24T14:56:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/
 Comments URL: https://news.ycombinator.com/item?id=27265091
-Points: 40
+Points: 47
 # Comments: 8]]></summary>
         <author>
             <name>ingve</name>
@@ -312,8 +335,8 @@ Points: 40
         <updated>2021-05-24T14:48:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vivirenremoto.github.io/doomcaptcha/
 Comments URL: https://news.ycombinator.com/item?id=27264988
-Points: 331
-# Comments: 103]]></summary>
+Points: 396
+# Comments: 112]]></summary>
         <author>
             <name>jukkakoskinen</name>
         </author>
@@ -326,22 +349,9 @@ Points: 331
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.08712
 Comments URL: https://news.ycombinator.com/item?id=27264585
 Points: 4
-# Comments: 0]]></summary>
+# Comments: 2]]></summary>
         <author>
             <name>gbrown_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rf: an experimental refactoring tool for Go]]></title>
-        <id>https://news.ycombinator.com/item?id=27264542</id>
-        <link href="https://pkg.go.dev/rsc.io/rf"/>
-        <updated>2021-05-24T14:09:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pkg.go.dev/rsc.io/rf
-Comments URL: https://news.ycombinator.com/item?id=27264542
-Points: 47
-# Comments: 6]]></summary>
-        <author>
-            <name>robfig</name>
         </author>
     </entry>
     <entry>
@@ -495,16 +505,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/get-started-with-version-control-and-git/"/>
         <updated>2021-05-20T15:20:53.000Z</updated>
         <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn JavaScript - A Free 7-hour Interactive Tutorial]]></title>
-        <id>60a36742906c5207e3a7da6e</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-interactive-course/"/>
-        <updated>2021-05-20T14:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
