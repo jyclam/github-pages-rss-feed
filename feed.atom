@@ -2,21 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T18:02:54.624Z</updated>
+    <updated>2021-05-25T19:32:30.459Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Advances of the Hare programming language compared to C]]></title>
-        <id>https://news.ycombinator.com/item?id=27279695</id>
-        <link href="https://harelang.org/blog/2021-02-09-hare-advances-on-c/"/>
-        <updated>2021-05-25T17:27:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://harelang.org/blog/2021-02-09-hare-advances-on-c/
-Comments URL: https://news.ycombinator.com/item?id=27279695
-Points: 4
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Google launches its third major operating system, Fuchsia]]></title>
+        <id>https://news.ycombinator.com/item?id=27280567</id>
+        <link href="https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/"/>
+        <updated>2021-05-25T18:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/
+Comments URL: https://news.ycombinator.com/item?id=27280567
+Points: 30
+# Comments: 5]]></summary>
         <author>
-            <name>pcr910303</name>
+            <name>moh_maya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube Will Monetize Videos Without Paying Content Creators]]></title>
+        <id>https://news.ycombinator.com/item?id=27280277</id>
+        <link href="https://www.youtube.com/static?template=terms"/>
+        <updated>2021-05-25T18:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/static?template=terms
+Comments URL: https://news.ycombinator.com/item?id=27280277
+Points: 96
+# Comments: 65]]></summary>
+        <author>
+            <name>StandardFuture</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julia 1.6 addresses latency issues]]></title>
+        <id>https://news.ycombinator.com/item?id=27280174</id>
+        <link href="https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/"/>
+        <updated>2021-05-25T18:07:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/
+Comments URL: https://news.ycombinator.com/item?id=27280174
+Points: 50
+# Comments: 9]]></summary>
+        <author>
+            <name>leephillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe Payment Links: Create a link. Sell anywhere in under 5 minutes]]></title>
+        <id>https://news.ycombinator.com/item?id=27280096</id>
+        <link href="https://stripe.com/payments/payment-links"/>
+        <updated>2021-05-25T18:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stripe.com/payments/payment-links
+Comments URL: https://news.ycombinator.com/item?id=27280096
+Points: 89
+# Comments: 11]]></summary>
+        <author>
+            <name>joeyespo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Inevitable Is the Concept of Numbers?]]></title>
+        <id>https://news.ycombinator.com/item?id=27279913</id>
+        <link href="https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/"/>
+        <updated>2021-05-25T17:46:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/
+Comments URL: https://news.ycombinator.com/item?id=27279913
+Points: 23
+# Comments: 16]]></summary>
+        <author>
+            <name>perardi</name>
         </author>
     </entry>
     <entry>
@@ -43,42 +95,16 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transcript of controller telling plane to land in Minsk]]></title>
-        <id>https://news.ycombinator.com/item?id=27279209</id>
-        <link href="https://www.reuters.com/business/aerospace-defense/they-say-code-is-red-transcript-controller-telling-plane-land-minsk-2021-05-25/"/>
-        <updated>2021-05-25T16:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/aerospace-defense/they-say-code-is-red-transcript-controller-telling-plane-land-minsk-2021-05-25/
-Comments URL: https://news.ycombinator.com/item?id=27279209
-Points: 154
-# Comments: 71]]></summary>
-        <author>
-            <name>aericson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siemens acquires Supplyframe (owners of Hackaday and Tindie)]]></title>
+        <title type="html"><![CDATA[Siemens acquires Supplyframe, owners of Hackaday and Tindie]]></title>
         <id>https://news.ycombinator.com/item?id=27279043</id>
         <link href="https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/"/>
         <updated>2021-05-25T16:38:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/
 Comments URL: https://news.ycombinator.com/item?id=27279043
-Points: 31
-# Comments: 6]]></summary>
+Points: 107
+# Comments: 39]]></summary>
         <author>
             <name>kevinbowman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Store Arguments]]></title>
-        <id>https://news.ycombinator.com/item?id=27278736</id>
-        <link href="https://stratechery.com/2021/app-store-arguments/"/>
-        <updated>2021-05-25T16:17:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stratechery.com/2021/app-store-arguments/
-Comments URL: https://news.ycombinator.com/item?id=27278736
-Points: 22
-# Comments: 7]]></summary>
-        <author>
-            <name>feross</name>
         </author>
     </entry>
     <entry>
@@ -88,8 +114,8 @@ Points: 22
         <updated>2021-05-25T16:03:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/05/31/the-dark-side-of-congos-cobalt-rush
 Comments URL: https://news.ycombinator.com/item?id=27278559
-Points: 13
-# Comments: 3]]></summary>
+Points: 30
+# Comments: 12]]></summary>
         <author>
             <name>GranularRecipe</name>
         </author>
@@ -101,10 +127,23 @@ Points: 13
         <updated>2021-05-25T16:02:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html
 Comments URL: https://news.ycombinator.com/item?id=27278540
-Points: 31
-# Comments: 4]]></summary>
+Points: 63
+# Comments: 11]]></summary>
         <author>
             <name>fqazi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Is a Wave of the Future]]></title>
+        <id>https://news.ycombinator.com/item?id=27278180</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/programming/RustInOurFuture"/>
+        <updated>2021-05-25T15:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/RustInOurFuture
+Comments URL: https://news.ycombinator.com/item?id=27278180
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>zdw</name>
         </author>
     </entry>
     <entry>
@@ -114,8 +153,8 @@ Points: 31
         <updated>2021-05-25T15:09:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fig.io?ref=hn
 Comments URL: https://news.ycombinator.com/item?id=27277819
-Points: 235
-# Comments: 156]]></summary>
+Points: 304
+# Comments: 209]]></summary>
         <author>
             <name>mschrage</name>
         </author>
@@ -127,8 +166,8 @@ Points: 235
         <updated>2021-05-25T14:53:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/robert-strandh/Second-Climacs
 Comments URL: https://news.ycombinator.com/item?id=27277575
-Points: 37
-# Comments: 3]]></summary>
+Points: 63
+# Comments: 18]]></summary>
         <author>
             <name>xvilka</name>
         </author>
@@ -140,8 +179,8 @@ Points: 37
         <updated>2021-05-25T14:46:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://clojurescript.org/news/2021-05-24-release
 Comments URL: https://news.ycombinator.com/item?id=27277482
-Points: 61
-# Comments: 11]]></summary>
+Points: 87
+# Comments: 16]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -153,8 +192,8 @@ Points: 61
         <updated>2021-05-25T14:35:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/
 Comments URL: https://news.ycombinator.com/item?id=27277329
-Points: 89
-# Comments: 43]]></summary>
+Points: 174
+# Comments: 109]]></summary>
         <author>
             <name>acdanger</name>
         </author>
@@ -181,8 +220,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-25T14:17:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel
 Comments URL: https://news.ycombinator.com/item?id=27277035
-Points: 64
-# Comments: 76]]></summary>
+Points: 88
+# Comments: 102]]></summary>
         <author>
             <name>benbreen</name>
         </author>
@@ -194,7 +233,7 @@ Points: 64
         <updated>2021-05-25T14:14:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/
 Comments URL: https://news.ycombinator.com/item?id=27276992
-Points: 50
+Points: 63
 # Comments: 5]]></summary>
         <author>
             <name>swannodette</name>
@@ -211,27 +250,14 @@ Points: 50
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It's probably time to stop recommending Clean Code (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27276706</id>
-        <link href="https://qntm.org/clean?tw="/>
-        <updated>2021-05-25T13:48:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://qntm.org/clean?tw=
-Comments URL: https://news.ycombinator.com/item?id=27276706
-Points: 378
-# Comments: 338]]></summary>
-        <author>
-            <name>avinassh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Arm Announces New Mobile Armv9 CPU Microarchitectures]]></title>
         <id>https://news.ycombinator.com/item?id=27276671</id>
         <link href="https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510"/>
         <updated>2021-05-25T13:45:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510
 Comments URL: https://news.ycombinator.com/item?id=27276671
-Points: 140
-# Comments: 67]]></summary>
+Points: 167
+# Comments: 83]]></summary>
         <author>
             <name>seik</name>
         </author>
@@ -243,8 +269,8 @@ Points: 140
         <updated>2021-05-25T13:32:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.buttoncheatsheet.com/
 Comments URL: https://news.ycombinator.com/item?id=27276547
-Points: 66
-# Comments: 22]]></summary>
+Points: 82
+# Comments: 34]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -252,12 +278,12 @@ Points: 66
     <entry>
         <title type="html"><![CDATA[WASM SYNTH, or, how music taught me the beauty of math]]></title>
         <id>https://news.ycombinator.com/item?id=27276400</id>
-        <link href="https://timdaub.github.io/2020/02/19/wasm-synth/#f1"/>
+        <link href="https://timdaub.github.io/2020/02/19/wasm-synth/"/>
         <updated>2021-05-25T13:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/#f1
+        <summary type="html"><![CDATA[Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/
 Comments URL: https://news.ycombinator.com/item?id=27276400
-Points: 103
-# Comments: 25]]></summary>
+Points: 121
+# Comments: 35]]></summary>
         <author>
             <name>timdaub</name>
         </author>
@@ -269,36 +295,10 @@ Points: 103
         <updated>2021-05-25T12:26:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible
 Comments URL: https://news.ycombinator.com/item?id=27275995
-Points: 27
+Points: 34
 # Comments: 8]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data portability, the forgotten right of GDPR]]></title>
-        <id>https://news.ycombinator.com/item?id=27275906</id>
-        <link href="https://www.alias.dev/report"/>
-        <updated>2021-05-25T12:14:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.alias.dev/report
-Comments URL: https://news.ycombinator.com/item?id=27275906
-Points: 240
-# Comments: 158]]></summary>
-        <author>
-            <name>mehdim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immudb 1.0 – open-source, immutable database with SQL and verified timetravel]]></title>
-        <id>https://news.ycombinator.com/item?id=27275691</id>
-        <link href="https://www.codenotary.com/blog/immudb-release-1-0"/>
-        <updated>2021-05-25T11:49:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.codenotary.com/blog/immudb-release-1-0
-Comments URL: https://news.ycombinator.com/item?id=27275691
-Points: 190
-# Comments: 77]]></summary>
-        <author>
-            <name>vchain-dz</name>
         </author>
     </entry>
     <entry>
