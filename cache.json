@@ -6,6 +6,24 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27275906",
+          "author": "mehdim",
+          "description": "Article URL: https://www.alias.dev/report\nComments URL: https://news.ycombinator.com/item?id=27275906\nPoints: 82\n# Comments: 27",
+          "link": "https://www.alias.dev/report",
+          "publishedOn": "2021-05-25T12:14:42.000Z",
+          "wordCount": 236,
+          "title": "Data portability, the forgotten right of GDPR"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27275827",
+          "author": "optimalsolver",
+          "description": "Article URL: https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun\nComments URL: https://news.ycombinator.com/item?id=27275827\nPoints: 48\n# Comments: 9",
+          "link": "https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun",
+          "publishedOn": "2021-05-25T12:06:18.000Z",
+          "wordCount": 5735,
+          "title": "The 31 Laws Of Fun"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27275783",
           "author": "carlostrevino",
           "description": "Article URL: https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer\nComments URL: https://news.ycombinator.com/item?id=27275783\nPoints: 1\n# Comments: 0",
@@ -17,25 +35,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275730",
           "author": "daegloe",
-          "description": "Article URL: https://www.theguardian.com/science/2021/may/24/research-reveals-why-some-find-the-sound-of-others-eating-so-irritating\nComments URL: https://news.ycombinator.com/item?id=27275730\nPoints: 9\n# Comments: 0",
+          "description": "Article URL: https://www.theguardian.com/science/2021/may/24/research-reveals-why-some-find-the-sound-of-others-eating-so-irritating\nComments URL: https://news.ycombinator.com/item?id=27275730\nPoints: 29\n# Comments: 11",
           "link": "https://www.theguardian.com/science/2021/may/24/research-reveals-why-some-find-the-sound-of-others-eating-so-irritating",
           "publishedOn": "2021-05-25T11:55:07.000Z",
           "wordCount": 663,
           "title": "Research reveals why some find the sound of others eating so irritating"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27275707",
-          "author": "billyharris",
-          "description": "Article URL: https://www.engineering.columbia.edu/press-release/first-hacker-resistant-cloud-software-system\nComments URL: https://news.ycombinator.com/item?id=27275707\nPoints: 5\n# Comments: 3",
-          "link": "https://www.engineering.columbia.edu/press-release/first-hacker-resistant-cloud-software-system",
-          "publishedOn": "2021-05-25T11:51:37.000Z",
-          "wordCount": 1426,
-          "title": "Columbia Engineering Team Builds First Hacker-Resistant Cloud Software System"
+          "id": "https://news.ycombinator.com/item?id=27275691",
+          "author": "vchain-dz",
+          "description": "Article URL: https://www.codenotary.com/blog/immudb-release-1-0\nComments URL: https://news.ycombinator.com/item?id=27275691\nPoints: 32\n# Comments: 24",
+          "link": "https://www.codenotary.com/blog/immudb-release-1-0",
+          "publishedOn": "2021-05-25T11:49:50.000Z",
+          "wordCount": 705,
+          "title": "Immudb 1.0 – open-source, immutable database with SQL and verified timetravel"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27275452",
           "author": "shivbhatt",
-          "description": "Article URL: https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history\nComments URL: https://news.ycombinator.com/item?id=27275452\nPoints: 15\n# Comments: 4",
+          "description": "Article URL: https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history\nComments URL: https://news.ycombinator.com/item?id=27275452\nPoints: 38\n# Comments: 18",
           "link": "https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history",
           "publishedOn": "2021-05-25T11:19:58.000Z",
           "wordCount": 627,
@@ -44,7 +62,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275447",
           "author": "shivbhatt",
-          "description": "Article URL: https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520\nComments URL: https://news.ycombinator.com/item?id=27275447\nPoints: 18\n# Comments: 0",
+          "description": "Article URL: https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520\nComments URL: https://news.ycombinator.com/item?id=27275447\nPoints: 44\n# Comments: 0",
           "link": "https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520",
           "publishedOn": "2021-05-25T11:19:20.000Z",
           "wordCount": 62,
@@ -53,25 +71,34 @@
         {
           "id": "https://news.ycombinator.com/item?id=27274992",
           "author": "robin_reala",
-          "description": "Article URL: https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules\nComments URL: https://news.ycombinator.com/item?id=27274992\nPoints: 64\n# Comments: 23",
+          "description": "Article URL: https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules\nComments URL: https://news.ycombinator.com/item?id=27274992\nPoints: 97\n# Comments: 32",
           "link": "https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules",
           "publishedOn": "2021-05-25T10:09:02.000Z",
           "wordCount": 696,
           "title": "GCHQ’s mass data-sharing violated right to privacy, court rules"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27274670",
+          "author": "mpsq",
+          "description": "Article URL: https://emacsair.me/2021/05/25/magit-3.0/\nComments URL: https://news.ycombinator.com/item?id=27274670\nPoints: 42\n# Comments: 4",
+          "link": "https://emacsair.me/2021/05/25/magit-3.0/",
+          "publishedOn": "2021-05-25T09:17:30.000Z",
+          "wordCount": 625,
+          "title": "Magit 3.0 Released"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27274647",
           "author": "theindianappguy",
-          "description": "Article URL: https://www.sendsimple.app\nComments URL: https://news.ycombinator.com/item?id=27274647\nPoints: 34\n# Comments: 35",
+          "description": "Article URL: https://www.sendsimple.app\nComments URL: https://news.ycombinator.com/item?id=27274647\nPoints: 49\n# Comments: 46",
           "link": "https://www.sendsimple.app",
           "publishedOn": "2021-05-25T09:14:53.000Z",
-          "wordCount": 572,
+          "wordCount": 587,
           "title": "Show HN: Send email via Amazon ses and Sendgrid from your Google Sheets"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27273953",
           "author": "hiharryhere",
-          "description": "Article URL: https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html\nComments URL: https://news.ycombinator.com/item?id=27273953\nPoints: 55\n# Comments: 45",
+          "description": "Article URL: https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html\nComments URL: https://news.ycombinator.com/item?id=27273953\nPoints: 97\n# Comments: 68",
           "link": "https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html",
           "publishedOn": "2021-05-25T07:32:56.000Z",
           "wordCount": 600,
@@ -80,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27273778",
           "author": "panic",
-          "description": "Article URL: https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/\nComments URL: https://news.ycombinator.com/item?id=27273778\nPoints: 100\n# Comments: 70",
+          "description": "Article URL: https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/\nComments URL: https://news.ycombinator.com/item?id=27273778\nPoints: 146\n# Comments: 113",
           "link": "https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/",
           "publishedOn": "2021-05-25T07:04:48.000Z",
           "wordCount": 901,
@@ -89,16 +116,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27273752",
           "author": "xendo",
-          "description": "Article URL: https://www.bbc.com/news/world-europe-57236489\nComments URL: https://news.ycombinator.com/item?id=27273752\nPoints: 386\n# Comments: 244",
+          "description": "Article URL: https://www.bbc.com/news/world-europe-57236489\nComments URL: https://news.ycombinator.com/item?id=27273752\nPoints: 426\n# Comments: 292",
           "link": "https://www.bbc.com/news/world-europe-57236489",
           "publishedOn": "2021-05-25T07:00:45.000Z",
-          "wordCount": 1646,
+          "wordCount": 1650,
           "title": "EU bans Belarusian airlines from European skies"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27273724",
           "author": "reid",
-          "description": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=34572\nComments URL: https://news.ycombinator.com/item?id=27273724\nPoints: 353\n# Comments: 160",
+          "description": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=34572\nComments URL: https://news.ycombinator.com/item?id=27273724\nPoints: 391\n# Comments: 185",
           "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=34572",
           "publishedOn": "2021-05-25T06:57:04.000Z",
           "wordCount": 4962,
@@ -107,16 +134,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27273706",
           "author": "Flex247A",
-          "description": "I recently picked up 'The Audio Programming Book' [0] and so far, I am really liking it. But I am not sure which resource to pick after reading that. Can you recommend me some audio programming resources which are beginner friendly?\n[0] https://mitpress.mit.edu/books/audio-programming-book\nEdit: My goal is to make a mini-synth which takes input from the computer keyboard.\nComments URL: https://news.ycombinator.com/item?id=27273706\nPoints: 169\n# Comments: 60",
+          "description": "I recently picked up 'The Audio Programming Book' [0] and so far, I am really liking it. But I am not sure which resource to pick after reading that. Can you recommend me some audio programming resources which are beginner friendly?\n[0] https://mitpress.mit.edu/books/audio-programming-book\nEdit: My goal is to make a mini-synth which takes input from the computer keyboard.\nComments URL: https://news.ycombinator.com/item?id=27273706\nPoints: 202\n# Comments: 68",
           "link": "https://news.ycombinator.com/item?id=27273706",
           "publishedOn": "2021-05-25T06:54:43.000Z",
-          "wordCount": 4465,
+          "wordCount": 4930,
           "title": "Ask HN: How to get started with audio programming?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27273657",
           "author": "seanhandley",
-          "description": "Article URL: https://orbis.stanford.edu/\nComments URL: https://news.ycombinator.com/item?id=27273657\nPoints: 34\n# Comments: 5",
+          "description": "Article URL: https://orbis.stanford.edu/\nComments URL: https://news.ycombinator.com/item?id=27273657\nPoints: 41\n# Comments: 7",
           "link": "https://orbis.stanford.edu/",
           "publishedOn": "2021-05-25T06:49:17.000Z",
           "wordCount": 288,
@@ -125,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27272634",
           "author": "onemind",
-          "description": "Article URL: https://mitpress.mit.edu/blog/hidden-architecture-birds\nComments URL: https://news.ycombinator.com/item?id=27272634\nPoints: 47\n# Comments: 6",
+          "description": "Article URL: https://mitpress.mit.edu/blog/hidden-architecture-birds\nComments URL: https://news.ycombinator.com/item?id=27272634\nPoints: 59\n# Comments: 6",
           "link": "https://mitpress.mit.edu/blog/hidden-architecture-birds",
           "publishedOn": "2021-05-25T04:35:19.000Z",
           "wordCount": 1641,
@@ -134,56 +161,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27272605",
           "author": "solvent",
-          "description": "Article URL: https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/\nComments URL: https://news.ycombinator.com/item?id=27272605\nPoints: 52\n# Comments: 32",
+          "description": "Article URL: https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/\nComments URL: https://news.ycombinator.com/item?id=27272605\nPoints: 57\n# Comments: 34",
           "link": "https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/",
           "publishedOn": "2021-05-25T04:29:22.000Z",
-          "wordCount": 1932,
+          "wordCount": 1927,
           "title": "Drunk as a Lord: the Regency Bottle Men"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27271366",
           "author": "vimy",
-          "description": "Article URL: https://www.researchhub.com/about\nComments URL: https://news.ycombinator.com/item?id=27271366\nPoints: 143\n# Comments: 72",
+          "description": "Article URL: https://www.researchhub.com/about\nComments URL: https://news.ycombinator.com/item?id=27271366\nPoints: 155\n# Comments: 76",
           "link": "https://www.researchhub.com/about",
           "publishedOn": "2021-05-25T00:30:31.000Z",
           "wordCount": 888,
           "title": "Researchhub: GitHub for Science"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27270928",
-          "author": "dvt",
-          "description": "Article URL: https://thanaverage.xyz/\nComments URL: https://news.ycombinator.com/item?id=27270928\nPoints: 272\n# Comments: 180",
-          "link": "https://thanaverage.xyz/",
-          "publishedOn": "2021-05-24T23:29:03.000Z",
-          "wordCount": 110,
-          "title": "Than Average"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27269589",
           "author": "ushakov",
-          "description": "Article URL: https://elk.audio/audio-os/\nComments URL: https://news.ycombinator.com/item?id=27269589\nPoints: 290\n# Comments: 134",
+          "description": "Article URL: https://elk.audio/audio-os/\nComments URL: https://news.ycombinator.com/item?id=27269589\nPoints: 295\n# Comments: 138",
           "link": "https://elk.audio/audio-os/",
           "publishedOn": "2021-05-24T20:54:54.000Z",
           "wordCount": 529,
           "title": "Elk OS – Audio Operating System"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27265380",
-          "author": "rowanc1",
-          "description": "Hi HN! I’m Rowan and with my co-founder Steve we are building Curvenote (https://curvenote.com) — a technical writing tool for sharing data analysis and research from Jupyter with a wider audience.\nWe are building Curvenote to get science communication out of PDFs and help researchers and data-scientists communicate interactive, reproducible results (graphs, figures, maps, etc.) that are linked to the actual data and computation. There are currently two parts to Curvenote: 1) a WYSIWYG collaborative writing environment for interactive, technical documents; and 2) a Jupyter integration that adds version control and commenting and can link interactive plots and outputs directly into Curvenote documents (including any new versions or comments on those outputs).\nSteve and I met in the open-sou…",
-          "link": "https://news.ycombinator.com/item?id=27265380",
-          "publishedOn": "2021-05-24T15:20:10.000Z",
-          "wordCount": 2465,
-          "title": "Launch HN: Curvenote (YC W21) – Collaborative writing tools for science"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27265329",
-          "author": "matt_d",
-          "description": "Article URL: https://plv.mpi-sws.org/refinedc/\nComments URL: https://news.ycombinator.com/item?id=27265329\nPoints: 46\n# Comments: 11",
-          "link": "https://plv.mpi-sws.org/refinedc/",
-          "publishedOn": "2021-05-24T15:16:55.000Z",
-          "wordCount": 254,
-          "title": "RefinedC: Automating Foundational Verification of C Code with Refined Ownership"
         }
       ]
     },
@@ -468,7 +468,7 @@
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
           "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 1985,
+          "wordCount": 2020,
           "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors"
         },
         {

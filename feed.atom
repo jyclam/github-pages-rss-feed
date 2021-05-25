@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T12:22:15.554Z</updated>
+    <updated>2021-05-25T13:36:29.753Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data portability, the forgotten right of GDPR]]></title>
+        <id>https://news.ycombinator.com/item?id=27275906</id>
+        <link href="https://www.alias.dev/report"/>
+        <updated>2021-05-25T12:14:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.alias.dev/report
+Comments URL: https://news.ycombinator.com/item?id=27275906
+Points: 82
+# Comments: 27]]></summary>
+        <author>
+            <name>mehdim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 31 Laws Of Fun]]></title>
+        <id>https://news.ycombinator.com/item?id=27275827</id>
+        <link href="https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun"/>
+        <updated>2021-05-25T12:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun
+Comments URL: https://news.ycombinator.com/item?id=27275827
+Points: 48
+# Comments: 9]]></summary>
+        <author>
+            <name>optimalsolver</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fractional (YC W21) is hiring a product engineer]]></title>
         <id>https://news.ycombinator.com/item?id=27275783</id>
@@ -26,23 +52,23 @@ Points: 1
         <updated>2021-05-25T11:55:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/science/2021/may/24/research-reveals-why-some-find-the-sound-of-others-eating-so-irritating
 Comments URL: https://news.ycombinator.com/item?id=27275730
-Points: 9
-# Comments: 0]]></summary>
+Points: 29
+# Comments: 11]]></summary>
         <author>
             <name>daegloe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Columbia Engineering Team Builds First Hacker-Resistant Cloud Software System]]></title>
-        <id>https://news.ycombinator.com/item?id=27275707</id>
-        <link href="https://www.engineering.columbia.edu/press-release/first-hacker-resistant-cloud-software-system"/>
-        <updated>2021-05-25T11:51:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.engineering.columbia.edu/press-release/first-hacker-resistant-cloud-software-system
-Comments URL: https://news.ycombinator.com/item?id=27275707
-Points: 5
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[Immudb 1.0 – open-source, immutable database with SQL and verified timetravel]]></title>
+        <id>https://news.ycombinator.com/item?id=27275691</id>
+        <link href="https://www.codenotary.com/blog/immudb-release-1-0"/>
+        <updated>2021-05-25T11:49:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.codenotary.com/blog/immudb-release-1-0
+Comments URL: https://news.ycombinator.com/item?id=27275691
+Points: 32
+# Comments: 24]]></summary>
         <author>
-            <name>billyharris</name>
+            <name>vchain-dz</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +78,8 @@ Points: 5
         <updated>2021-05-25T11:19:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history
 Comments URL: https://news.ycombinator.com/item?id=27275452
-Points: 15
-# Comments: 4]]></summary>
+Points: 38
+# Comments: 18]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -65,7 +91,7 @@ Points: 15
         <updated>2021-05-25T11:19:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520
 Comments URL: https://news.ycombinator.com/item?id=27275447
-Points: 18
+Points: 44
 # Comments: 0]]></summary>
         <author>
             <name>shivbhatt</name>
@@ -78,8 +104,8 @@ Points: 18
         <updated>2021-05-25T10:09:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules
 Comments URL: https://news.ycombinator.com/item?id=27274992
-Points: 64
-# Comments: 23]]></summary>
+Points: 97
+# Comments: 32]]></summary>
         <author>
             <name>robin_reala</name>
         </author>
@@ -95,14 +121,27 @@ Points: 64
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Magit 3.0 Released]]></title>
+        <id>https://news.ycombinator.com/item?id=27274670</id>
+        <link href="https://emacsair.me/2021/05/25/magit-3.0/"/>
+        <updated>2021-05-25T09:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://emacsair.me/2021/05/25/magit-3.0/
+Comments URL: https://news.ycombinator.com/item?id=27274670
+Points: 42
+# Comments: 4]]></summary>
+        <author>
+            <name>mpsq</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show HN: Send email via Amazon ses and Sendgrid from your Google Sheets]]></title>
         <id>https://news.ycombinator.com/item?id=27274647</id>
         <link href="https://www.sendsimple.app"/>
         <updated>2021-05-25T09:14:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sendsimple.app
 Comments URL: https://news.ycombinator.com/item?id=27274647
-Points: 34
-# Comments: 35]]></summary>
+Points: 49
+# Comments: 46]]></summary>
         <author>
             <name>theindianappguy</name>
         </author>
@@ -114,8 +153,8 @@ Points: 34
         <updated>2021-05-25T07:32:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html
 Comments URL: https://news.ycombinator.com/item?id=27273953
-Points: 55
-# Comments: 45]]></summary>
+Points: 97
+# Comments: 68]]></summary>
         <author>
             <name>hiharryhere</name>
         </author>
@@ -127,8 +166,8 @@ Points: 55
         <updated>2021-05-25T07:04:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/
 Comments URL: https://news.ycombinator.com/item?id=27273778
-Points: 100
-# Comments: 70]]></summary>
+Points: 146
+# Comments: 113]]></summary>
         <author>
             <name>panic</name>
         </author>
@@ -140,8 +179,8 @@ Points: 100
         <updated>2021-05-25T07:00:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57236489
 Comments URL: https://news.ycombinator.com/item?id=27273752
-Points: 386
-# Comments: 244]]></summary>
+Points: 426
+# Comments: 292]]></summary>
         <author>
             <name>xendo</name>
         </author>
@@ -153,8 +192,8 @@ Points: 386
         <updated>2021-05-25T06:57:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=34572
 Comments URL: https://news.ycombinator.com/item?id=27273724
-Points: 353
-# Comments: 160]]></summary>
+Points: 391
+# Comments: 185]]></summary>
         <author>
             <name>reid</name>
         </author>
@@ -168,8 +207,8 @@ Points: 353
 [0] https://mitpress.mit.edu/books/audio-programming-book
 Edit: My goal is to make a mini-synth which takes input from the computer keyboard.
 Comments URL: https://news.ycombinator.com/item?id=27273706
-Points: 169
-# Comments: 60]]></summary>
+Points: 202
+# Comments: 68]]></summary>
         <author>
             <name>Flex247A</name>
         </author>
@@ -181,8 +220,8 @@ Points: 169
         <updated>2021-05-25T06:49:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://orbis.stanford.edu/
 Comments URL: https://news.ycombinator.com/item?id=27273657
-Points: 34
-# Comments: 5]]></summary>
+Points: 41
+# Comments: 7]]></summary>
         <author>
             <name>seanhandley</name>
         </author>
@@ -194,7 +233,7 @@ Points: 34
         <updated>2021-05-25T04:35:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mitpress.mit.edu/blog/hidden-architecture-birds
 Comments URL: https://news.ycombinator.com/item?id=27272634
-Points: 47
+Points: 59
 # Comments: 6]]></summary>
         <author>
             <name>onemind</name>
@@ -207,8 +246,8 @@ Points: 47
         <updated>2021-05-25T04:29:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/
 Comments URL: https://news.ycombinator.com/item?id=27272605
-Points: 52
-# Comments: 32]]></summary>
+Points: 57
+# Comments: 34]]></summary>
         <author>
             <name>solvent</name>
         </author>
@@ -230,8 +269,8 @@ Points: 52
         <updated>2021-05-25T00:30:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.researchhub.com/about
 Comments URL: https://news.ycombinator.com/item?id=27271366
-Points: 143
-# Comments: 72]]></summary>
+Points: 155
+# Comments: 76]]></summary>
         <author>
             <name>vimy</name>
         </author>
@@ -244,19 +283,6 @@ Points: 143
         <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Than Average]]></title>
-        <id>https://news.ycombinator.com/item?id=27270928</id>
-        <link href="https://thanaverage.xyz/"/>
-        <updated>2021-05-24T23:29:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thanaverage.xyz/
-Comments URL: https://news.ycombinator.com/item?id=27270928
-Points: 272
-# Comments: 180]]></summary>
-        <author>
-            <name>dvt</name>
         </author>
     </entry>
     <entry>
@@ -289,8 +315,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-24T20:54:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://elk.audio/audio-os/
 Comments URL: https://news.ycombinator.com/item?id=27269589
-Points: 290
-# Comments: 134]]></summary>
+Points: 295
+# Comments: 138]]></summary>
         <author>
             <name>ushakov</name>
         </author>
@@ -329,31 +355,6 @@ The post proxy-www appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Curvenote (YC W21) – Collaborative writing tools for science]]></title>
-        <id>https://news.ycombinator.com/item?id=27265380</id>
-        <link href="https://news.ycombinator.com/item?id=27265380"/>
-        <updated>2021-05-24T15:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN! I’m Rowan and with my co-founder Steve we are building Curvenote (https://curvenote.com) — a technical writing tool for sharing data analysis and research from Jupyter with a wider audience.
-We are building Curvenote to get science communication out of PDFs and help researchers and data-scientists communicate interactive, reproducible results (graphs, figures, maps, etc.) that are linked to the actual data and computation. There are currently two parts to Curvenote: 1) a WYSIWYG collaborative writing environment for interactive, technical documents; and 2) a Jupyter integration that adds version control and commenting and can link interactive plots and outputs directly into Curvenote documents (including any new versions or comments on those outputs).
-Steve and I met in the open-sou…]]></summary>
-        <author>
-            <name>rowanc1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RefinedC: Automating Foundational Verification of C Code with Refined Ownership]]></title>
-        <id>https://news.ycombinator.com/item?id=27265329</id>
-        <link href="https://plv.mpi-sws.org/refinedc/"/>
-        <updated>2021-05-24T15:16:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://plv.mpi-sws.org/refinedc/
-Comments URL: https://news.ycombinator.com/item?id=27265329
-Points: 46
-# Comments: 11]]></summary>
-        <author>
-            <name>matt_d</name>
         </author>
     </entry>
     <entry>
