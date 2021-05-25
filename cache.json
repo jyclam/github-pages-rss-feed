@@ -6,54 +6,72 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27277819",
+          "author": "mschrage",
+          "description": "Article URL: https://fig.io?ref=hn\nComments URL: https://news.ycombinator.com/item?id=27277819\nPoints: 1\n# Comments: 0",
+          "link": "https://fig.io?ref=hn",
+          "publishedOn": "2021-05-25T15:09:02.000Z",
+          "wordCount": 541,
+          "title": "Launch HN: Fig (YC S20) – Autocomplete for the Terminal"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27276706",
           "author": "avinassh",
-          "description": "Article URL: https://qntm.org/clean?tw=\nComments URL: https://news.ycombinator.com/item?id=27276706\nPoints: 7\n# Comments: 1",
+          "description": "Article URL: https://qntm.org/clean?tw=\nComments URL: https://news.ycombinator.com/item?id=27276706\nPoints: 144\n# Comments: 52",
           "link": "https://qntm.org/clean?tw=",
           "publishedOn": "2021-05-25T13:48:37.000Z",
           "wordCount": 12419,
-          "title": "It's probably time to stop recommending Clean Code"
+          "title": "It's probably time to stop recommending Clean Code (2020)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27276671",
           "author": "seik",
-          "description": "Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510\nComments URL: https://news.ycombinator.com/item?id=27276671\nPoints: 5\n# Comments: 0",
+          "description": "Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510\nComments URL: https://news.ycombinator.com/item?id=27276671\nPoints: 51\n# Comments: 12",
           "link": "https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510",
           "publishedOn": "2021-05-25T13:45:36.000Z",
-          "wordCount": 2812,
+          "wordCount": 2580,
           "title": "Arm Announces New Mobile Armv9 CPU Microarchitectures"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27276547",
+          "author": "tosh",
+          "description": "Article URL: https://www.buttoncheatsheet.com/\nComments URL: https://news.ycombinator.com/item?id=27276547\nPoints: 3\n# Comments: 0",
+          "link": "https://www.buttoncheatsheet.com/",
+          "publishedOn": "2021-05-25T13:32:22.000Z",
+          "wordCount": 508,
+          "title": "The Button Cheat Sheet"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27276481",
           "author": "raldu",
-          "description": "Article URL: https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model\nComments URL: https://news.ycombinator.com/item?id=27276481\nPoints: 61\n# Comments: 26",
+          "description": "Article URL: https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model\nComments URL: https://news.ycombinator.com/item?id=27276481\nPoints: 105\n# Comments: 69",
           "link": "https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model",
           "publishedOn": "2021-05-25T13:25:30.000Z",
           "wordCount": 721,
           "title": "The Economist's excess deaths model"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27276434",
-          "author": "FridayoLeary",
-          "description": "Article URL: https://www.bbc.co.uk/news/world-us-canada-57239610\nComments URL: https://news.ycombinator.com/item?id=27276434\nPoints: 36\n# Comments: 7",
-          "link": "https://www.bbc.co.uk/news/world-us-canada-57239610",
-          "publishedOn": "2021-05-25T13:20:44.000Z",
-          "wordCount": 845,
-          "title": "Texas to allow unlicensed carrying of handguns"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27276400",
           "author": "timdaub",
-          "description": "Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/#f1\nComments URL: https://news.ycombinator.com/item?id=27276400\nPoints: 13\n# Comments: 4",
+          "description": "Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/#f1\nComments URL: https://news.ycombinator.com/item?id=27276400\nPoints: 37\n# Comments: 6",
           "link": "https://timdaub.github.io/2020/02/19/wasm-synth/#f1",
           "publishedOn": "2021-05-25T13:15:48.000Z",
           "wordCount": 4168,
           "title": "WASM SYNTH, or, how music taught me the beauty of math"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27275995",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible\nComments URL: https://news.ycombinator.com/item?id=27275995\nPoints: 9\n# Comments: 1",
+          "link": "https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible",
+          "publishedOn": "2021-05-25T12:26:58.000Z",
+          "wordCount": 4098,
+          "title": "Jerikan: A configuration management system for network teams"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27275906",
           "author": "mehdim",
-          "description": "Article URL: https://www.alias.dev/report\nComments URL: https://news.ycombinator.com/item?id=27275906\nPoints: 140\n# Comments: 66",
+          "description": "Article URL: https://www.alias.dev/report\nComments URL: https://news.ycombinator.com/item?id=27275906\nPoints: 178\n# Comments: 93",
           "link": "https://www.alias.dev/report",
           "publishedOn": "2021-05-25T12:14:42.000Z",
           "wordCount": 236,
@@ -62,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275827",
           "author": "optimalsolver",
-          "description": "Article URL: https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun\nComments URL: https://news.ycombinator.com/item?id=27275827\nPoints: 75\n# Comments: 21",
+          "description": "Article URL: https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun\nComments URL: https://news.ycombinator.com/item?id=27275827\nPoints: 85\n# Comments: 28",
           "link": "https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun",
           "publishedOn": "2021-05-25T12:06:18.000Z",
           "wordCount": 5735,
@@ -74,22 +92,13 @@
           "description": "Article URL: https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer\nComments URL: https://news.ycombinator.com/item?id=27275783\nPoints: 1\n# Comments: 0",
           "link": "https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer",
           "publishedOn": "2021-05-25T12:01:02.000Z",
-          "wordCount": 322,
+          "wordCount": 315,
           "title": "Fractional (YC W21) is hiring a product engineer"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27275730",
-          "author": "daegloe",
-          "description": "Article URL: https://www.theguardian.com/science/2021/may/24/research-reveals-why-some-find-the-sound-of-others-eating-so-irritating\nComments URL: https://news.ycombinator.com/item?id=27275730\nPoints: 39\n# Comments: 30",
-          "link": "https://www.theguardian.com/science/2021/may/24/research-reveals-why-some-find-the-sound-of-others-eating-so-irritating",
-          "publishedOn": "2021-05-25T11:55:07.000Z",
-          "wordCount": 663,
-          "title": "Research reveals why some find the sound of others eating so irritating"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27275691",
           "author": "vchain-dz",
-          "description": "Article URL: https://www.codenotary.com/blog/immudb-release-1-0\nComments URL: https://news.ycombinator.com/item?id=27275691\nPoints: 63\n# Comments: 35",
+          "description": "Article URL: https://www.codenotary.com/blog/immudb-release-1-0\nComments URL: https://news.ycombinator.com/item?id=27275691\nPoints: 109\n# Comments: 51",
           "link": "https://www.codenotary.com/blog/immudb-release-1-0",
           "publishedOn": "2021-05-25T11:49:50.000Z",
           "wordCount": 705,
@@ -98,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275452",
           "author": "shivbhatt",
-          "description": "Article URL: https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history\nComments URL: https://news.ycombinator.com/item?id=27275452\nPoints: 49\n# Comments: 28",
+          "description": "Article URL: https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history\nComments URL: https://news.ycombinator.com/item?id=27275452\nPoints: 55\n# Comments: 37",
           "link": "https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history",
           "publishedOn": "2021-05-25T11:19:58.000Z",
           "wordCount": 627,
@@ -107,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275447",
           "author": "shivbhatt",
-          "description": "Article URL: https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520\nComments URL: https://news.ycombinator.com/item?id=27275447\nPoints: 57\n# Comments: 0",
+          "description": "Article URL: https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520\nComments URL: https://news.ycombinator.com/item?id=27275447\nPoints: 78\n# Comments: 0",
           "link": "https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520",
           "publishedOn": "2021-05-25T11:19:20.000Z",
           "wordCount": 62,
@@ -116,74 +125,65 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275393",
           "author": "rbanffy",
-          "description": "Article URL: https://news.mit.edu/2021/misinformation-correcting-worse-0520\nComments URL: https://news.ycombinator.com/item?id=27275393\nPoints: 12\n# Comments: 1",
+          "description": "Article URL: https://news.mit.edu/2021/misinformation-correcting-worse-0520\nComments URL: https://news.ycombinator.com/item?id=27275393\nPoints: 34\n# Comments: 27",
           "link": "https://news.mit.edu/2021/misinformation-correcting-worse-0520",
           "publishedOn": "2021-05-25T11:11:00.000Z",
           "wordCount": 2008,
           "title": "Does correcting online falsehoods make matters worse?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27275318",
-          "author": "haakonhr",
-          "description": "Article URL: https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home\nComments URL: https://news.ycombinator.com/item?id=27275318\nPoints: 34\n# Comments: 25",
-          "link": "https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home",
-          "publishedOn": "2021-05-25T11:00:42.000Z",
-          "wordCount": 1959,
-          "title": "What if remote work meant WFNH (work from near home); not WFH?"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27274992",
           "author": "robin_reala",
-          "description": "Article URL: https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules\nComments URL: https://news.ycombinator.com/item?id=27274992\nPoints: 120\n# Comments: 33",
+          "description": "Article URL: https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules\nComments URL: https://news.ycombinator.com/item?id=27274992\nPoints: 140\n# Comments: 34",
           "link": "https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules",
           "publishedOn": "2021-05-25T10:09:02.000Z",
-          "wordCount": 864,
+          "wordCount": 946,
           "title": "GCHQ’s mass data-sharing violated right to privacy, court rules"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27274670",
           "author": "mpsq",
-          "description": "Article URL: https://emacsair.me/2021/05/25/magit-3.0/\nComments URL: https://news.ycombinator.com/item?id=27274670\nPoints: 84\n# Comments: 26",
+          "description": "Article URL: https://emacsair.me/2021/05/25/magit-3.0/\nComments URL: https://news.ycombinator.com/item?id=27274670\nPoints: 124\n# Comments: 43",
           "link": "https://emacsair.me/2021/05/25/magit-3.0/",
           "publishedOn": "2021-05-25T09:17:30.000Z",
           "wordCount": 625,
           "title": "Magit 3.0 Released"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27274647",
-          "author": "theindianappguy",
-          "description": "Article URL: https://www.sendsimple.app\nComments URL: https://news.ycombinator.com/item?id=27274647\nPoints: 61\n# Comments: 52",
-          "link": "https://www.sendsimple.app",
-          "publishedOn": "2021-05-25T09:14:53.000Z",
-          "wordCount": 587,
-          "title": "Show HN: Send email via Amazon ses and Sendgrid from your Google Sheets"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27273953",
           "author": "hiharryhere",
-          "description": "Article URL: https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html\nComments URL: https://news.ycombinator.com/item?id=27273953\nPoints: 117\n# Comments: 93",
+          "description": "Article URL: https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html\nComments URL: https://news.ycombinator.com/item?id=27273953\nPoints: 137\n# Comments: 109",
           "link": "https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html",
           "publishedOn": "2021-05-25T07:32:56.000Z",
           "wordCount": 600,
           "title": "Italian seaside residents hit with bygone feudal tax"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27273811",
+          "author": "dangerman",
+          "description": "Article URL: https://www.nybooks.com/articles/1995/04/20/going-unconscious/\nComments URL: https://news.ycombinator.com/item?id=27273811\nPoints: 6\n# Comments: 0",
+          "link": "https://www.nybooks.com/articles/1995/04/20/going-unconscious/",
+          "publishedOn": "2021-05-25T07:12:00.000Z",
+          "wordCount": 8783,
+          "title": "Going Unconscious"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27273778",
+          "author": "panic",
+          "description": "Article URL: https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/\nComments URL: https://news.ycombinator.com/item?id=27273778\nPoints: 192\n# Comments: 197",
+          "link": "https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/",
+          "publishedOn": "2021-05-25T07:04:48.000Z",
+          "wordCount": 899,
+          "title": "Google is officially releasing Fuchsia OS, starting with a first-gen Nest Hub"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27273752",
           "author": "xendo",
-          "description": "Article URL: https://www.bbc.com/news/world-europe-57236489\nComments URL: https://news.ycombinator.com/item?id=27273752\nPoints: 469\n# Comments: 309",
+          "description": "Article URL: https://www.bbc.com/news/world-europe-57236489\nComments URL: https://news.ycombinator.com/item?id=27273752\nPoints: 515\n# Comments: 328",
           "link": "https://www.bbc.com/news/world-europe-57236489",
           "publishedOn": "2021-05-25T07:00:45.000Z",
           "wordCount": 1648,
           "title": "EU bans Belarusian airlines from European skies"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27273724",
-          "author": "reid",
-          "description": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=34572\nComments URL: https://news.ycombinator.com/item?id=27273724\nPoints: 416\n# Comments: 199",
-          "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=34572",
-          "publishedOn": "2021-05-25T06:57:04.000Z",
-          "wordCount": 4962,
-          "title": "Use native context menus on Mac OS"
         }
       ]
     },
@@ -321,6 +321,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340759",
+          "author": "Josh Collinsworth",
+          "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
+          "publishedOn": "2021-05-25T14:25:06.000Z",
+          "wordCount": 7448,
+          "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
+        },
+        {
           "id": "https://css-tricks.com/?p=340808",
           "author": "Chris Coyier",
           "description": "Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, \n…\nThe post Links on Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -362,7 +371,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3530,
+          "wordCount": 3553,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -443,17 +452,8 @@
           "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
           "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2401,
+          "wordCount": 2455,
           "title": "How to Create Neon Text With CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340716",
-          "author": "Chris Coyier",
-          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-05-17T22:38:06.000Z",
-          "wordCount": 5322,
-          "title": "The Humble `img` Element And Core Web Vitals"
         }
       ]
     },
@@ -462,6 +462,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
+          "author": "hello@smashingmagazine.com (Tobias Günther)",
+          "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
+          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
+          "publishedOn": "2021-05-25T14:00:00.000Z",
+          "wordCount": 2079,
+          "title": "A Guide To Undoing Mistakes With Git (Part 2)"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "author": "hello@smashingmagazine.com (Barry Pollard)",
@@ -630,8 +639,8 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1791,
-          "title": "A Guide To Undoing Mistakes With Git"
+          "wordCount": 1795,
+          "title": "A Guide To Undoing Mistakes With Git (Part 1)"
         },
         {
           "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
