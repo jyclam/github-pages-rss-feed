@@ -2,30 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T16:37:51.084Z</updated>
+    <updated>2021-05-25T18:02:54.624Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Which tools/services have your favorite UI/UX?]]></title>
-        <id>https://news.ycombinator.com/item?id=27278367</id>
-        <link href="https://news.ycombinator.com/item?id=27278367"/>
-        <updated>2021-05-25T15:48:25.000Z</updated>
-        <summary type="html"><![CDATA[e.g.:
-* Linux with its pipes
-* i3 with its window management
-* vim
-* emacs
-* fzf
-* pgsql
-* google.com
-* wikipedia.com
-I can't help but think that we could do so much more with some tools.
-Comments URL: https://news.ycombinator.com/item?id=27278367
-Points: 20
+        <title type="html"><![CDATA[Advances of the Hare programming language compared to C]]></title>
+        <id>https://news.ycombinator.com/item?id=27279695</id>
+        <link href="https://harelang.org/blog/2021-02-09-hare-advances-on-c/"/>
+        <updated>2021-05-25T17:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://harelang.org/blog/2021-02-09-hare-advances-on-c/
+Comments URL: https://news.ycombinator.com/item?id=27279695
+Points: 4
+# Comments: 2]]></summary>
+        <author>
+            <name>pcr910303</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mux (YC W16) is hiring to help build the Stripe for video]]></title>
+        <id>https://news.ycombinator.com/item?id=27279325</id>
+        <link href="https://mux.com/jobs?hnj=stripe"/>
+        <updated>2021-05-25T17:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mux.com/jobs?hnj=stripe
+Comments URL: https://news.ycombinator.com/item?id=27279325
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>mmcclure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work]]></title>
+        <id>608706aedd38b9088c2c012c</id>
+        <link href="https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/"/>
+        <updated>2021-05-25T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transcript of controller telling plane to land in Minsk]]></title>
+        <id>https://news.ycombinator.com/item?id=27279209</id>
+        <link href="https://www.reuters.com/business/aerospace-defense/they-say-code-is-red-transcript-controller-telling-plane-land-minsk-2021-05-25/"/>
+        <updated>2021-05-25T16:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/aerospace-defense/they-say-code-is-red-transcript-controller-telling-plane-land-minsk-2021-05-25/
+Comments URL: https://news.ycombinator.com/item?id=27279209
+Points: 154
+# Comments: 71]]></summary>
+        <author>
+            <name>aericson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siemens acquires Supplyframe (owners of Hackaday and Tindie)]]></title>
+        <id>https://news.ycombinator.com/item?id=27279043</id>
+        <link href="https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/"/>
+        <updated>2021-05-25T16:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/
+Comments URL: https://news.ycombinator.com/item?id=27279043
+Points: 31
 # Comments: 6]]></summary>
         <author>
-            <name>Bridgeburner4</name>
+            <name>kevinbowman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Store Arguments]]></title>
+        <id>https://news.ycombinator.com/item?id=27278736</id>
+        <link href="https://stratechery.com/2021/app-store-arguments/"/>
+        <updated>2021-05-25T16:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stratechery.com/2021/app-store-arguments/
+Comments URL: https://news.ycombinator.com/item?id=27278736
+Points: 22
+# Comments: 7]]></summary>
+        <author>
+            <name>feross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dark Side of Congo’s Cobalt Rush]]></title>
+        <id>https://news.ycombinator.com/item?id=27278559</id>
+        <link href="https://www.newyorker.com/magazine/2021/05/31/the-dark-side-of-congos-cobalt-rush"/>
+        <updated>2021-05-25T16:03:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/05/31/the-dark-side-of-congos-cobalt-rush
+Comments URL: https://news.ycombinator.com/item?id=27278559
+Points: 13
+# Comments: 3]]></summary>
+        <author>
+            <name>GranularRecipe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half-Double: New hammering technique for DRAM Rowhammer bug]]></title>
+        <id>https://news.ycombinator.com/item?id=27278540</id>
+        <link href="https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html"/>
+        <updated>2021-05-25T16:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html
+Comments URL: https://news.ycombinator.com/item?id=27278540
+Points: 31
+# Comments: 4]]></summary>
+        <author>
+            <name>fqazi</name>
         </author>
     </entry>
     <entry>
@@ -35,10 +114,23 @@ Points: 20
         <updated>2021-05-25T15:09:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fig.io?ref=hn
 Comments URL: https://news.ycombinator.com/item?id=27277819
-Points: 134
-# Comments: 49]]></summary>
+Points: 235
+# Comments: 156]]></summary>
         <author>
             <name>mschrage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second Climacs – Emacs Implementation in Common Lisp]]></title>
+        <id>https://news.ycombinator.com/item?id=27277575</id>
+        <link href="https://github.com/robert-strandh/Second-Climacs"/>
+        <updated>2021-05-25T14:53:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/robert-strandh/Second-Climacs
+Comments URL: https://news.ycombinator.com/item?id=27277575
+Points: 37
+# Comments: 3]]></summary>
+        <author>
+            <name>xvilka</name>
         </author>
     </entry>
     <entry>
@@ -48,10 +140,23 @@ Points: 134
         <updated>2021-05-25T14:46:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://clojurescript.org/news/2021-05-24-release
 Comments URL: https://news.ycombinator.com/item?id=27277482
-Points: 20
-# Comments: 0]]></summary>
+Points: 61
+# Comments: 11]]></summary>
         <author>
             <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biodiversity decline will require millions of years to recover]]></title>
+        <id>https://news.ycombinator.com/item?id=27277329</id>
+        <link href="https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/"/>
+        <updated>2021-05-25T14:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/
+Comments URL: https://news.ycombinator.com/item?id=27277329
+Points: 89
+# Comments: 43]]></summary>
+        <author>
+            <name>acdanger</name>
         </author>
     </entry>
     <entry>
@@ -76,8 +181,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-25T14:17:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel
 Comments URL: https://news.ycombinator.com/item?id=27277035
-Points: 37
-# Comments: 8]]></summary>
+Points: 64
+# Comments: 76]]></summary>
         <author>
             <name>benbreen</name>
         </author>
@@ -89,8 +194,8 @@ Points: 37
         <updated>2021-05-25T14:14:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/
 Comments URL: https://news.ycombinator.com/item?id=27276992
-Points: 26
-# Comments: 1]]></summary>
+Points: 50
+# Comments: 5]]></summary>
         <author>
             <name>swannodette</name>
         </author>
@@ -112,8 +217,8 @@ Points: 26
         <updated>2021-05-25T13:48:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://qntm.org/clean?tw=
 Comments URL: https://news.ycombinator.com/item?id=27276706
-Points: 315
-# Comments: 221]]></summary>
+Points: 378
+# Comments: 338]]></summary>
         <author>
             <name>avinassh</name>
         </author>
@@ -125,8 +230,8 @@ Points: 315
         <updated>2021-05-25T13:45:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510
 Comments URL: https://news.ycombinator.com/item?id=27276671
-Points: 109
-# Comments: 37]]></summary>
+Points: 140
+# Comments: 67]]></summary>
         <author>
             <name>seik</name>
         </author>
@@ -138,8 +243,8 @@ Points: 109
         <updated>2021-05-25T13:32:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.buttoncheatsheet.com/
 Comments URL: https://news.ycombinator.com/item?id=27276547
-Points: 40
-# Comments: 12]]></summary>
+Points: 66
+# Comments: 22]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -151,8 +256,8 @@ Points: 40
         <updated>2021-05-25T13:15:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/#f1
 Comments URL: https://news.ycombinator.com/item?id=27276400
-Points: 77
-# Comments: 18]]></summary>
+Points: 103
+# Comments: 25]]></summary>
         <author>
             <name>timdaub</name>
         </author>
@@ -164,8 +269,8 @@ Points: 77
         <updated>2021-05-25T12:26:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible
 Comments URL: https://news.ycombinator.com/item?id=27275995
-Points: 19
-# Comments: 4]]></summary>
+Points: 27
+# Comments: 8]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -177,36 +282,10 @@ Points: 19
         <updated>2021-05-25T12:14:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.alias.dev/report
 Comments URL: https://news.ycombinator.com/item?id=27275906
-Points: 212
-# Comments: 116]]></summary>
+Points: 240
+# Comments: 158]]></summary>
         <author>
             <name>mehdim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laws of Fun (2009)]]></title>
-        <id>https://news.ycombinator.com/item?id=27275827</id>
-        <link href="https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun"/>
-        <updated>2021-05-25T12:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun
-Comments URL: https://news.ycombinator.com/item?id=27275827
-Points: 103
-# Comments: 35]]></summary>
-        <author>
-            <name>optimalsolver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fractional (YC W21) is hiring a product engineer]]></title>
-        <id>https://news.ycombinator.com/item?id=27275783</id>
-        <link href="https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer"/>
-        <updated>2021-05-25T12:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer
-Comments URL: https://news.ycombinator.com/item?id=27275783
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>carlostrevino</name>
         </author>
     </entry>
     <entry>
@@ -216,62 +295,10 @@ Points: 1
         <updated>2021-05-25T11:49:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.codenotary.com/blog/immudb-release-1-0
 Comments URL: https://news.ycombinator.com/item?id=27275691
-Points: 158
-# Comments: 62]]></summary>
+Points: 190
+# Comments: 77]]></summary>
         <author>
             <name>vchain-dz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google now lets you password-protect the page that shows all your searches]]></title>
-        <id>https://news.ycombinator.com/item?id=27275452</id>
-        <link href="https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history"/>
-        <updated>2021-05-25T11:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history
-Comments URL: https://news.ycombinator.com/item?id=27275452
-Points: 67
-# Comments: 41]]></summary>
-        <author>
-            <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[German regulator probes Google's market position, data use]]></title>
-        <id>https://news.ycombinator.com/item?id=27275447</id>
-        <link href="https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520"/>
-        <updated>2021-05-25T11:19:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520
-Comments URL: https://news.ycombinator.com/item?id=27275447
-Points: 92
-# Comments: 1]]></summary>
-        <author>
-            <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCHQ’s mass data-sharing violated right to privacy, court rules]]></title>
-        <id>https://news.ycombinator.com/item?id=27274992</id>
-        <link href="https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules"/>
-        <updated>2021-05-25T10:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules
-Comments URL: https://news.ycombinator.com/item?id=27274992
-Points: 167
-# Comments: 38]]></summary>
-        <author>
-            <name>robin_reala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The downfall of Malaysia’s biggest sugar daddy platform]]></title>
-        <id>https://news.ycombinator.com/item?id=27274902</id>
-        <link href="https://restofworld.org/2021/inside-the-downfall-of-sugarbook-malaysias-biggest-site-for-sex-work/"/>
-        <updated>2021-05-25T09:54:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://restofworld.org/2021/inside-the-downfall-of-sugarbook-malaysias-biggest-site-for-sex-work/
-Comments URL: https://news.ycombinator.com/item?id=27274902
-Points: 47
-# Comments: 9]]></summary>
-        <author>
-            <name>imartin2k</name>
         </author>
     </entry>
     <entry>
@@ -282,32 +309,6 @@ Points: 47
         <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magit 3.0 Released]]></title>
-        <id>https://news.ycombinator.com/item?id=27274670</id>
-        <link href="https://emacsair.me/2021/05/25/magit-3.0/"/>
-        <updated>2021-05-25T09:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://emacsair.me/2021/05/25/magit-3.0/
-Comments URL: https://news.ycombinator.com/item?id=27274670
-Points: 184
-# Comments: 65]]></summary>
-        <author>
-            <name>mpsq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Italian seaside residents hit with bygone feudal tax]]></title>
-        <id>https://news.ycombinator.com/item?id=27273953</id>
-        <link href="https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html"/>
-        <updated>2021-05-25T07:32:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html
-Comments URL: https://news.ycombinator.com/item?id=27273953
-Points: 163
-# Comments: 123]]></summary>
-        <author>
-            <name>hiharryhere</name>
         </author>
     </entry>
     <entry>
@@ -540,16 +541,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/"/>
         <updated>2021-05-20T17:12:29.000Z</updated>
         <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with Version Control Using Git]]></title>
-        <id>60a4b5c7906c5207e3a7e2bb</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-version-control-and-git/"/>
-        <updated>2021-05-20T15:20:53.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
