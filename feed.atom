@@ -2,44 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T05:45:45.077Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-26T06:36:35.882Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[M1RACLES: An Apple M1 covert channel vulnerability]]></title>
+        <title type="html"><![CDATA[v1.9.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
+        <updated>2021-05-26T06:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
+
+This feature is currently only available through custom template.
+iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
+No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
+You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
+Fixed: the articles in template data were not sorted.
+Thank you @Zenigata]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freenode Ops Take Control of 700 Channels]]></title>
+        <id>https://news.ycombinator.com/item?id=27286628</id>
+        <link href="https://mastodon.sdf.org/@kline/106299403921451814"/>
+        <updated>2021-05-26T05:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mastodon.sdf.org/@kline/106299403921451814
+Comments URL: https://news.ycombinator.com/item?id=27286628
+Points: 68
+# Comments: 9]]></summary>
+        <author>
+            <name>LambdaComplex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mild Covid-19 induces lasting antibody protection]]></title>
+        <id>https://news.ycombinator.com/item?id=27286326</id>
+        <link href="https://medicine.wustl.edu/news/good-news-mild-covid-19-induces-lasting-antibody-protection/"/>
+        <updated>2021-05-26T04:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medicine.wustl.edu/news/good-news-mild-covid-19-induces-lasting-antibody-protection/
+Comments URL: https://news.ycombinator.com/item?id=27286326
+Points: 23
+# Comments: 0]]></summary>
+        <author>
+            <name>dsr12</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1racles: An Apple M1 covert channel vulnerability]]></title>
         <id>https://news.ycombinator.com/item?id=27285700</id>
         <link href="https://m1racles.com/"/>
         <updated>2021-05-26T03:02:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://m1racles.com/
 Comments URL: https://news.ycombinator.com/item?id=27285700
-Points: 277
-# Comments: 79]]></summary>
+Points: 373
+# Comments: 106]]></summary>
         <author>
             <name>paulgerhardt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Renewable Energy Is Suddenly Startlingly Cheap]]></title>
-        <id>https://news.ycombinator.com/item?id=27285432</id>
-        <link href="https://www.newyorker.com/news/annals-of-a-warming-planet/renewable-energy-is-suddenly-startlingly-cheap"/>
-        <updated>2021-05-26T02:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/news/annals-of-a-warming-planet/renewable-energy-is-suddenly-startlingly-cheap
-Comments URL: https://news.ycombinator.com/item?id=27285432
-Points: 77
-# Comments: 101]]></summary>
-        <author>
-            <name>mmettler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Memory Is Even Better Than Experts Thought]]></title>
+        <title type="html"><![CDATA[Our memory is better than experts thought]]></title>
         <id>https://news.ycombinator.com/item?id=27285068</id>
         <link href="https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/"/>
         <updated>2021-05-26T01:30:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/
 Comments URL: https://news.ycombinator.com/item?id=27285068
-Points: 29
+Points: 41
 # Comments: 0]]></summary>
         <author>
             <name>pseudolus</name>
@@ -65,7 +95,7 @@ Points: 1
         <updated>2021-05-26T00:54:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://streetmix.net/
 Comments URL: https://news.ycombinator.com/item?id=27284800
-Points: 41
+Points: 43
 # Comments: 2]]></summary>
         <author>
             <name>wilg</name>
@@ -78,21 +108,21 @@ Points: 41
         <updated>2021-05-25T23:44:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206
 Comments URL: https://news.ycombinator.com/item?id=27284286
-Points: 70
-# Comments: 11]]></summary>
+Points: 79
+# Comments: 13]]></summary>
         <author>
             <name>danboarder</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thousands of Chrome extensions are tampering with security headers]]></title>
+        <title type="html"><![CDATA[Chrome extensions are tampering with security headers]]></title>
         <id>https://news.ycombinator.com/item?id=27284224</id>
         <link href="https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/"/>
         <updated>2021-05-25T23:38:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/
 Comments URL: https://news.ycombinator.com/item?id=27284224
-Points: 116
-# Comments: 55]]></summary>
+Points: 127
+# Comments: 61]]></summary>
         <author>
             <name>arkadiyt</name>
         </author>
@@ -104,8 +134,8 @@ Points: 116
         <updated>2021-05-25T23:27:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ae.studio/blog/how-our-slack-app-got-to-200k-users-with-no-marketing-whatsoever
 Comments URL: https://news.ycombinator.com/item?id=27284124
-Points: 52
-# Comments: 8]]></summary>
+Points: 59
+# Comments: 12]]></summary>
         <author>
             <name>L-epstein</name>
         </author>
@@ -121,14 +151,14 @@ Points: 52
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rare Vietnam War images from the winning side, 1965-1975]]></title>
+        <title type="html"><![CDATA[Vietnam War images from the North Vietnamese side]]></title>
         <id>https://news.ycombinator.com/item?id=27283624</id>
         <link href="https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/"/>
         <updated>2021-05-25T22:36:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/
 Comments URL: https://news.ycombinator.com/item?id=27283624
-Points: 400
-# Comments: 342]]></summary>
+Points: 438
+# Comments: 353]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -140,7 +170,7 @@ Points: 400
         <updated>2021-05-25T21:21:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cascade.page
 Comments URL: https://news.ycombinator.com/item?id=27282842
-Points: 92
+Points: 97
 # Comments: 11]]></summary>
         <author>
             <name>koch</name>
@@ -157,14 +187,27 @@ Points: 92
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Google Nest Hub is first commercial Fuchsia device]]></title>
+        <id>https://news.ycombinator.com/item?id=27280567</id>
+        <link href="https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/"/>
+        <updated>2021-05-25T18:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/
+Comments URL: https://news.ycombinator.com/item?id=27280567
+Points: 217
+# Comments: 205]]></summary>
+        <author>
+            <name>moh_maya</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Julia 1.6 addresses latency issues]]></title>
         <id>https://news.ycombinator.com/item?id=27280174</id>
         <link href="https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/"/>
         <updated>2021-05-25T18:07:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/
 Comments URL: https://news.ycombinator.com/item?id=27280174
-Points: 149
-# Comments: 96]]></summary>
+Points: 153
+# Comments: 98]]></summary>
         <author>
             <name>leephillips</name>
         </author>
@@ -176,8 +219,8 @@ Points: 149
         <updated>2021-05-25T18:00:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stripe.com/payments/payment-links
 Comments URL: https://news.ycombinator.com/item?id=27280096
-Points: 758
-# Comments: 262]]></summary>
+Points: 791
+# Comments: 267]]></summary>
         <author>
             <name>joeyespo</name>
         </author>
@@ -189,8 +232,8 @@ Points: 758
         <updated>2021-05-25T17:46:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/
 Comments URL: https://news.ycombinator.com/item?id=27279913
-Points: 144
-# Comments: 154]]></summary>
+Points: 151
+# Comments: 156]]></summary>
         <author>
             <name>perardi</name>
         </author>
@@ -212,7 +255,7 @@ Points: 144
         <updated>2021-05-25T16:38:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/
 Comments URL: https://news.ycombinator.com/item?id=27279043
-Points: 242
+Points: 249
 # Comments: 149]]></summary>
         <author>
             <name>kevinbowman</name>
@@ -225,7 +268,7 @@ Points: 242
         <updated>2021-05-25T16:02:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html
 Comments URL: https://news.ycombinator.com/item?id=27278540
-Points: 156
+Points: 159
 # Comments: 27]]></summary>
         <author>
             <name>fqazi</name>
@@ -238,23 +281,10 @@ Points: 156
         <updated>2021-05-25T15:09:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fig.io?ref=hn
 Comments URL: https://news.ycombinator.com/item?id=27277819
-Points: 460
+Points: 463
 # Comments: 326]]></summary>
         <author>
             <name>mschrage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Second Climacs – Emacs Implementation in Common Lisp]]></title>
-        <id>https://news.ycombinator.com/item?id=27277575</id>
-        <link href="https://github.com/robert-strandh/Second-Climacs"/>
-        <updated>2021-05-25T14:53:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/robert-strandh/Second-Climacs
-Comments URL: https://news.ycombinator.com/item?id=27277575
-Points: 122
-# Comments: 52]]></summary>
-        <author>
-            <name>xvilka</name>
         </author>
     </entry>
     <entry>
@@ -264,23 +294,10 @@ Points: 122
         <updated>2021-05-25T14:50:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality
 Comments URL: https://news.ycombinator.com/item?id=27277539
-Points: 71
-# Comments: 99]]></summary>
+Points: 73
+# Comments: 108]]></summary>
         <author>
             <name>lisper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClojureScript 1.10.866 Release]]></title>
-        <id>https://news.ycombinator.com/item?id=27277482</id>
-        <link href="https://clojurescript.org/news/2021-05-24-release"/>
-        <updated>2021-05-25T14:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://clojurescript.org/news/2021-05-24-release
-Comments URL: https://news.ycombinator.com/item?id=27277482
-Points: 141
-# Comments: 37]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -305,8 +322,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-25T14:17:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel
 Comments URL: https://news.ycombinator.com/item?id=27277035
-Points: 146
-# Comments: 158]]></summary>
+Points: 147
+# Comments: 160]]></summary>
         <author>
             <name>benbreen</name>
         </author>
@@ -872,19 +889,6 @@ Chore: Excluded testing files from repo.]]></summary>
 Fixed: Error logging from XML parser.
 Fixed: Typo in docs.
 Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
