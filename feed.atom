@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T19:48:24.050Z</updated>
+    <updated>2021-05-26T20:28:44.648Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Life After an Internet Mob Attack]]></title>
+        <id>https://news.ycombinator.com/item?id=27295320</id>
+        <link href="https://pasquale.cool/internet-mob"/>
+        <updated>2021-05-26T19:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pasquale.cool/internet-mob
+Comments URL: https://news.ycombinator.com/item?id=27295320
+Points: 22
+# Comments: 0]]></summary>
+        <author>
+            <name>jseliger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strong Towns Has Filed a Lawsuit Against the Minnesota Board of Engineering]]></title>
+        <id>https://news.ycombinator.com/item?id=27295108</id>
+        <link href="https://www.strongtowns.org/journal/2021/5/23/lawsuit"/>
+        <updated>2021-05-26T19:41:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.strongtowns.org/journal/2021/5/23/lawsuit
+Comments URL: https://news.ycombinator.com/item?id=27295108
+Points: 15
+# Comments: 4]]></summary>
+        <author>
+            <name>Breadmaker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why (and how) GitHub is adopting OpenTelemetry]]></title>
         <id>https://news.ycombinator.com/item?id=27294890</id>
@@ -13,10 +39,23 @@
         <updated>2021-05-26T19:21:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/
 Comments URL: https://news.ycombinator.com/item?id=27294890
-Points: 14
-# Comments: 1]]></summary>
+Points: 46
+# Comments: 7]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comcast Subscriber Receives DMCA Notice for Downloading Ubuntu]]></title>
+        <id>https://news.ycombinator.com/item?id=27294777</id>
+        <link href="https://torrentfreak.com/comcast-subscriber-receives-dmca-notice-for-downloading-ubuntu-210526/"/>
+        <updated>2021-05-26T19:11:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://torrentfreak.com/comcast-subscriber-receives-dmca-notice-for-downloading-ubuntu-210526/
+Comments URL: https://news.ycombinator.com/item?id=27294777
+Points: 49
+# Comments: 1]]></summary>
+        <author>
+            <name>LopRabbit</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +65,8 @@ Points: 14
         <updated>2021-05-26T18:45:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://oxide.computer
 Comments URL: https://news.ycombinator.com/item?id=27294471
-Points: 166
-# Comments: 43]]></summary>
+Points: 267
+# Comments: 76]]></summary>
         <author>
             <name>ykl</name>
         </author>
@@ -39,8 +78,8 @@ Points: 166
         <updated>2021-05-26T18:39:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
 Comments URL: https://news.ycombinator.com/item?id=27294401
-Points: 33
-# Comments: 6]]></summary>
+Points: 50
+# Comments: 9]]></summary>
         <author>
             <name>panabee</name>
         </author>
@@ -52,8 +91,8 @@ Points: 33
         <updated>2021-05-26T18:35:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm
 Comments URL: https://news.ycombinator.com/item?id=27294355
-Points: 9
-# Comments: 0]]></summary>
+Points: 15
+# Comments: 1]]></summary>
         <author>
             <name>rmason</name>
         </author>
@@ -85,8 +124,8 @@ Points: 9
         <updated>2021-05-26T17:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.findareddit.com/
 Comments URL: https://news.ycombinator.com/item?id=27293902
-Points: 89
-# Comments: 39]]></summary>
+Points: 118
+# Comments: 57]]></summary>
         <author>
             <name>thisissidhant</name>
         </author>
@@ -123,8 +162,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-26T17:44:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newscientist.com/article/2278370-greenlands-ice-sheet-is-releasing-huge-amounts-of-mercury-into-rivers/
 Comments URL: https://news.ycombinator.com/item?id=27293692
-Points: 79
-# Comments: 17]]></summary>
+Points: 95
+# Comments: 34]]></summary>
         <author>
             <name>mef51</name>
         </author>
@@ -136,8 +175,8 @@ Points: 79
         <updated>2021-05-26T17:43:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openai.com/fund/
 Comments URL: https://news.ycombinator.com/item?id=27293676
-Points: 67
-# Comments: 23]]></summary>
+Points: 90
+# Comments: 27]]></summary>
         <author>
             <name>cl42</name>
         </author>
@@ -149,8 +188,8 @@ Points: 67
         <updated>2021-05-26T17:13:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mux.com/blog/your-browser-and-my-browser-see-different-colors/
 Comments URL: https://news.ycombinator.com/item?id=27293266
-Points: 94
-# Comments: 35]]></summary>
+Points: 103
+# Comments: 36]]></summary>
         <author>
             <name>slimscsi</name>
         </author>
@@ -162,8 +201,8 @@ Points: 94
         <updated>2021-05-26T17:03:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/
 Comments URL: https://news.ycombinator.com/item?id=27293108
-Points: 33
-# Comments: 13]]></summary>
+Points: 44
+# Comments: 15]]></summary>
         <author>
             <name>jayp1418</name>
         </author>
@@ -198,8 +237,8 @@ Points: 1
         <updated>2021-05-26T16:25:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newsweek.com/edward-snowden-hails-eu-court-ruling-progress-acknowledging-devastation-mass-surveillance-1594811
 Comments URL: https://news.ycombinator.com/item?id=27292510
-Points: 130
-# Comments: 8]]></summary>
+Points: 139
+# Comments: 12]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -211,8 +250,8 @@ Points: 130
         <updated>2021-05-26T16:15:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.valisure.com/blog/valisure-news/valisure-detects-benzene-in-sunscreen/
 Comments URL: https://news.ycombinator.com/item?id=27292387
-Points: 281
-# Comments: 178]]></summary>
+Points: 312
+# Comments: 206]]></summary>
         <author>
             <name>rchiba</name>
         </author>
@@ -224,23 +263,10 @@ Points: 281
         <updated>2021-05-26T15:31:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/
 Comments URL: https://news.ycombinator.com/item?id=27291848
-Points: 29
-# Comments: 12]]></summary>
+Points: 33
+# Comments: 23]]></summary>
         <author>
             <name>pepys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ST3 Update now is ST4]]></title>
-        <id>https://news.ycombinator.com/item?id=27291757</id>
-        <link href="https://forum.sublimetext.com/t/st3-update-now-is-st4"/>
-        <updated>2021-05-26T15:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://forum.sublimetext.com/t/st3-update-now-is-st4
-Comments URL: https://news.ycombinator.com/item?id=27291757
-Points: 15
-# Comments: 3]]></summary>
-        <author>
-            <name>sherincall</name>
         </author>
     </entry>
     <entry>
@@ -250,8 +276,8 @@ Points: 15
         <updated>2021-05-26T14:56:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
 Comments URL: https://news.ycombinator.com/item?id=27291302
-Points: 431
-# Comments: 237]]></summary>
+Points: 458
+# Comments: 262]]></summary>
         <author>
             <name>imbnwa</name>
         </author>
@@ -296,8 +322,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-26T13:00:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/
 Comments URL: https://news.ycombinator.com/item?id=27289924
-Points: 633
-# Comments: 600]]></summary>
+Points: 652
+# Comments: 624]]></summary>
         <author>
             <name>helsinkiandrew</name>
         </author>
@@ -309,8 +335,8 @@ Points: 633
         <updated>2021-05-26T10:51:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41467-021-23014-1
 Comments URL: https://news.ycombinator.com/item?id=27288796
-Points: 175
-# Comments: 65]]></summary>
+Points: 180
+# Comments: 71]]></summary>
         <author>
             <name>Kinrany</name>
         </author>
@@ -322,36 +348,10 @@ Points: 175
         <updated>2021-05-26T10:31:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://libera.chat/news/one-week-of-libera-chat
 Comments URL: https://news.ycombinator.com/item?id=27288613
-Points: 449
-# Comments: 135]]></summary>
+Points: 456
+# Comments: 137]]></summary>
         <author>
             <name>wut42</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USB-C is about to go from 100W to 240W, enough to power beefier laptops]]></title>
-        <id>https://news.ycombinator.com/item?id=27288483</id>
-        <link href="https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr"/>
-        <updated>2021-05-26T10:09:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr
-Comments URL: https://news.ycombinator.com/item?id=27288483
-Points: 219
-# Comments: 192]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The only Buddhist region in Europe]]></title>
-        <id>https://news.ycombinator.com/item?id=27288447</id>
-        <link href="https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543"/>
-        <updated>2021-05-26T10:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543
-Comments URL: https://news.ycombinator.com/item?id=27288447
-Points: 120
-# Comments: 140]]></summary>
-        <author>
-            <name>janandonly</name>
         </author>
     </entry>
     <entry>
