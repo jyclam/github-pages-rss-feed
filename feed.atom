@@ -2,34 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T15:18:20.069Z</updated>
+    <updated>2021-05-26T16:43:13.833Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Neovim 0.5 Is Overpowering]]></title>
+        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
+        <id>60abc59d11ffb70827ef6304</id>
+        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
+        <updated>2021-05-26T16:34:32.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bell's Theorem Refuted]]></title>
+        <id>https://news.ycombinator.com/item?id=27292520</id>
+        <link href="https://sciencex.com/news/2021-05-bell-theorem-refuted.html"/>
+        <updated>2021-05-26T16:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sciencex.com/news/2021-05-bell-theorem-refuted.html
+Comments URL: https://news.ycombinator.com/item?id=27292520
+Points: 15
+# Comments: 0]]></summary>
+        <author>
+            <name>sandebert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Do you still use E-Mail?]]></title>
+        <id>https://news.ycombinator.com/item?id=27292512</id>
+        <link href="https://news.ycombinator.com/item?id=27292512"/>
+        <updated>2021-05-26T16:25:11.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, I have noticed that fewer and fewer people in my circle of friends use e-mail. I also use it less and less personally and have switched to alternatives. Is this just a subjective perception of mine or are there similar tendencies among you?
+Comments URL: https://news.ycombinator.com/item?id=27292512
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>x14km2d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benzene Detected in 78 Sunscreen Products]]></title>
+        <id>https://news.ycombinator.com/item?id=27292387</id>
+        <link href="https://www.valisure.com/blog/valisure-news/valisure-detects-benzene-in-sunscreen/"/>
+        <updated>2021-05-26T16:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.valisure.com/blog/valisure-news/valisure-detects-benzene-in-sunscreen/
+Comments URL: https://news.ycombinator.com/item?id=27292387
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>rchiba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neovim 0.5 is overpowering]]></title>
         <id>https://news.ycombinator.com/item?id=27291302</id>
         <link href="https://crispgm.com/page/neovim-is-overpowering.html"/>
         <updated>2021-05-26T14:56:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
 Comments URL: https://news.ycombinator.com/item?id=27291302
-Points: 13
-# Comments: 0]]></summary>
+Points: 192
+# Comments: 57]]></summary>
         <author>
             <name>imbnwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product placements may soon be added to classic films]]></title>
-        <id>https://news.ycombinator.com/item?id=27291093</id>
-        <link href="https://www.bbc.com/news/business-56758376"/>
-        <updated>2021-05-26T14:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-56758376
-Comments URL: https://news.ycombinator.com/item?id=27291093
-Points: 11
-# Comments: 0]]></summary>
-        <author>
-            <name>deegles</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +75,8 @@ Points: 11
         <updated>2021-05-26T14:24:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.unrealengine.com/en-US/unreal-engine-5
 Comments URL: https://news.ycombinator.com/item?id=27290854
-Points: 4
-# Comments: 0]]></summary>
+Points: 103
+# Comments: 33]]></summary>
         <author>
             <name>meheleventyone</name>
         </author>
@@ -69,27 +105,14 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shell ordered to cut CO2 emissions by 45% in landmark climate case]]></title>
-        <id>https://news.ycombinator.com/item?id=27290508</id>
-        <link href="https://www.euronews.com/green/2021/05/26/shell-ordered-to-cut-co2-emissions-by-45-in-landmark-climate-case"/>
-        <updated>2021-05-26T13:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.euronews.com/green/2021/05/26/shell-ordered-to-cut-co2-emissions-by-45-in-landmark-climate-case
-Comments URL: https://news.ycombinator.com/item?id=27290508
-Points: 124
-# Comments: 90]]></summary>
-        <author>
-            <name>chefkoch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An open letter from Atheme's developers and community]]></title>
         <id>https://news.ycombinator.com/item?id=27290420</id>
         <link href="https://atheme.github.io/atheme-open-letter/"/>
         <updated>2021-05-26T13:46:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://atheme.github.io/atheme-open-letter/
 Comments URL: https://news.ycombinator.com/item?id=27290420
-Points: 64
-# Comments: 5]]></summary>
+Points: 99
+# Comments: 6]]></summary>
         <author>
             <name>wut42</name>
         </author>
@@ -101,8 +124,8 @@ Points: 64
         <updated>2021-05-26T13:37:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/E-Prime
 Comments URL: https://news.ycombinator.com/item?id=27290317
-Points: 27
-# Comments: 1]]></summary>
+Points: 57
+# Comments: 28]]></summary>
         <author>
             <name>isomorph</name>
         </author>
@@ -124,8 +147,8 @@ Points: 27
         <updated>2021-05-26T13:00:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/
 Comments URL: https://news.ycombinator.com/item?id=27289924
-Points: 308
-# Comments: 275]]></summary>
+Points: 446
+# Comments: 423]]></summary>
         <author>
             <name>helsinkiandrew</name>
         </author>
@@ -150,21 +173,21 @@ Points: 1
         <updated>2021-05-26T11:26:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/857252/
 Comments URL: https://news.ycombinator.com/item?id=27289071
-Points: 526
-# Comments: 240]]></summary>
+Points: 628
+# Comments: 302]]></summary>
         <author>
             <name>daenney</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stripe isn’t a platform. It’s a mouse.]]></title>
+        <title type="html"><![CDATA[Stripe isn’t a platform. It’s a mouse]]></title>
         <id>https://news.ycombinator.com/item?id=27288942</id>
         <link href="https://numair.medium.com/stripe-isnt-a-platform-it-s-a-mouse-913b2352fb5"/>
         <updated>2021-05-26T11:10:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://numair.medium.com/stripe-isnt-a-platform-it-s-a-mouse-913b2352fb5
 Comments URL: https://news.ycombinator.com/item?id=27288942
-Points: 34
-# Comments: 2]]></summary>
+Points: 91
+# Comments: 37]]></summary>
         <author>
             <name>numair</name>
         </author>
@@ -176,23 +199,10 @@ Points: 34
         <updated>2021-05-26T10:51:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41467-021-23014-1
 Comments URL: https://news.ycombinator.com/item?id=27288796
-Points: 85
-# Comments: 33]]></summary>
+Points: 117
+# Comments: 42]]></summary>
         <author>
             <name>Kinrany</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve is making a Switch-like portable gaming PC]]></title>
-        <id>https://news.ycombinator.com/item?id=27288653</id>
-        <link href="https://arstechnica.com/gaming/2021/05/exclusive-valve-is-making-a-switch-like-portable-gaming-pc/"/>
-        <updated>2021-05-26T10:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gaming/2021/05/exclusive-valve-is-making-a-switch-like-portable-gaming-pc/
-Comments URL: https://news.ycombinator.com/item?id=27288653
-Points: 106
-# Comments: 64]]></summary>
-        <author>
-            <name>signa11</name>
         </author>
     </entry>
     <entry>
@@ -202,10 +212,36 @@ Points: 106
         <updated>2021-05-26T10:31:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://libera.chat/news/one-week-of-libera-chat
 Comments URL: https://news.ycombinator.com/item?id=27288613
-Points: 338
-# Comments: 101]]></summary>
+Points: 382
+# Comments: 108]]></summary>
         <author>
             <name>wut42</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB-C is about to go from 100W to 240W, enough to power beefier laptops]]></title>
+        <id>https://news.ycombinator.com/item?id=27288483</id>
+        <link href="https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr"/>
+        <updated>2021-05-26T10:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr
+Comments URL: https://news.ycombinator.com/item?id=27288483
+Points: 45
+# Comments: 55]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The only Buddhist region in Europe]]></title>
+        <id>https://news.ycombinator.com/item?id=27288447</id>
+        <link href="https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543"/>
+        <updated>2021-05-26T10:03:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543
+Comments URL: https://news.ycombinator.com/item?id=27288447
+Points: 77
+# Comments: 71]]></summary>
+        <author>
+            <name>janandonly</name>
         </author>
     </entry>
     <entry>
@@ -215,10 +251,23 @@ Points: 338
         <updated>2021-05-26T09:58:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/facundoolano/rpg-cli
 Comments URL: https://news.ycombinator.com/item?id=27288415
-Points: 76
-# Comments: 8]]></summary>
+Points: 94
+# Comments: 11]]></summary>
         <author>
             <name>agluszak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern C for C++ Peeps (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27288145</id>
+        <link href="https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html"/>
+        <updated>2021-05-26T09:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html
+Comments URL: https://news.ycombinator.com/item?id=27288145
+Points: 36
+# Comments: 2]]></summary>
+        <author>
+            <name>signa11</name>
         </author>
     </entry>
     <entry>
@@ -228,8 +277,8 @@ Points: 76
         <updated>2021-05-26T08:42:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://compress-or-die.com/Understanding-PNG
 Comments URL: https://news.ycombinator.com/item?id=27287917
-Points: 86
-# Comments: 31]]></summary>
+Points: 94
+# Comments: 36]]></summary>
         <author>
             <name>Asdrubalini</name>
         </author>
@@ -241,8 +290,8 @@ Points: 86
         <updated>2021-05-26T08:42:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hudsandguis.com/home/2021/theexpanse
 Comments URL: https://news.ycombinator.com/item?id=27287912
-Points: 290
-# Comments: 151]]></summary>
+Points: 336
+# Comments: 183]]></summary>
         <author>
             <name>cryo</name>
         </author>
@@ -254,49 +303,10 @@ Points: 290
         <updated>2021-05-26T08:12:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.gentoo.org/news/2021/05/26/gentoo-freenode-channels-hijacked.html
 Comments URL: https://news.ycombinator.com/item?id=27287750
-Points: 503
-# Comments: 189]]></summary>
+Points: 592
+# Comments: 204]]></summary>
         <author>
             <name>zatertip</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Antipiracy firm sending copyright notices for downloading Ubuntu ISO]]></title>
-        <id>https://news.ycombinator.com/item?id=27287716</id>
-        <link href="https://www.reddit.com/r/linux/comments/nkztyv"/>
-        <updated>2021-05-26T08:07:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/linux/comments/nkztyv
-Comments URL: https://news.ycombinator.com/item?id=27287716
-Points: 256
-# Comments: 77]]></summary>
-        <author>
-            <name>kasabali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The end of the pandemic is near]]></title>
-        <id>https://news.ycombinator.com/item?id=27287554</id>
-        <link href="https://donaldgmcneiljr1954.medium.com/the-end-is-near-no-seriously-142683fb085e"/>
-        <updated>2021-05-26T07:41:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://donaldgmcneiljr1954.medium.com/the-end-is-near-no-seriously-142683fb085e
-Comments URL: https://news.ycombinator.com/item?id=27287554
-Points: 115
-# Comments: 165]]></summary>
-        <author>
-            <name>mpweiher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gio – write immediate-mode GUI programs in Go]]></title>
-        <id>https://news.ycombinator.com/item?id=27287270</id>
-        <link href="https://gioui.org/"/>
-        <updated>2021-05-26T06:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gioui.org/
-Comments URL: https://news.ycombinator.com/item?id=27287270
-Points: 128
-# Comments: 55]]></summary>
-        <author>
-            <name>rahimnathwani</name>
         </author>
     </entry>
     <entry>
@@ -470,16 +480,6 @@ The post proxy-www appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best No-Code Tools for Developers in 2021]]></title>
-        <id>60a5248c906c5207e3a7e54b</id>
-        <link href="https://www.freecodecamp.org/news/best-no-code-tools-for-developers/"/>
-        <updated>2021-05-24T14:54:42.000Z</updated>
-        <summary type="html"><![CDATA[No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
