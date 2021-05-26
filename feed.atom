@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T16:43:13.833Z</updated>
+    <updated>2021-05-26T18:17:51.906Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Basic Terraform Syntax in 20 minutes]]></title>
+        <id>606f4f5fd5756f080ba96b65</id>
+        <link href="https://www.freecodecamp.org/news/terraform-syntax-for-beginners/"/>
+        <updated>2021-05-26T18:00:52.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find Subreddits for Your Niche]]></title>
+        <id>https://news.ycombinator.com/item?id=27293902</id>
+        <link href="https://www.findareddit.com/"/>
+        <updated>2021-05-26T17:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.findareddit.com/
+Comments URL: https://news.ycombinator.com/item?id=27293902
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>thisissidhant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[83% of Americans Are Belt Tightening Due to Inflation Pressures]]></title>
+        <id>https://news.ycombinator.com/item?id=27293747</id>
+        <link href="https://www.forbes.com/sites/walterloeb/2021/05/24/83-of-americans-are-belt-tightening-due-to-inflation-pressures/"/>
+        <updated>2021-05-26T17:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/walterloeb/2021/05/24/83-of-americans-are-belt-tightening-due-to-inflation-pressures/
+Comments URL: https://news.ycombinator.com/item?id=27293747
+Points: 23
+# Comments: 3]]></summary>
+        <author>
+            <name>whack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greenland’s ice sheet is releasing huge amounts of mercury into rivers]]></title>
+        <id>https://news.ycombinator.com/item?id=27293692</id>
+        <link href="https://www.newscientist.com/article/2278370-greenlands-ice-sheet-is-releasing-huge-amounts-of-mercury-into-rivers/"/>
+        <updated>2021-05-26T17:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newscientist.com/article/2278370-greenlands-ice-sheet-is-releasing-huge-amounts-of-mercury-into-rivers/
+Comments URL: https://news.ycombinator.com/item?id=27293692
+Points: 28
+# Comments: 3]]></summary>
+        <author>
+            <name>mef51</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different browsers see different colors]]></title>
+        <id>https://news.ycombinator.com/item?id=27293266</id>
+        <link href="https://mux.com/blog/your-browser-and-my-browser-see-different-colors/"/>
+        <updated>2021-05-26T17:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mux.com/blog/your-browser-and-my-browser-see-different-colors/
+Comments URL: https://news.ycombinator.com/item?id=27293266
+Points: 47
+# Comments: 9]]></summary>
+        <author>
+            <name>slimscsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using NetBSD’s pkgsrc everywhere I can]]></title>
+        <id>https://news.ycombinator.com/item?id=27293108</id>
+        <link href="https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/"/>
+        <updated>2021-05-26T17:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/
+Comments URL: https://news.ycombinator.com/item?id=27293108
+Points: 15
+# Comments: 0]]></summary>
+        <author>
+            <name>jayp1418</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product]]></title>
+        <id>https://news.ycombinator.com/item?id=27293072</id>
+        <link href="https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"/>
+        <updated>2021-05-26T17:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567
+Comments URL: https://news.ycombinator.com/item?id=27293072
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>sangwen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
         <id>60abc59d11ffb70827ef6304</id>
@@ -17,42 +105,42 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bell's Theorem Refuted]]></title>
-        <id>https://news.ycombinator.com/item?id=27292520</id>
-        <link href="https://sciencex.com/news/2021-05-bell-theorem-refuted.html"/>
-        <updated>2021-05-26T16:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sciencex.com/news/2021-05-bell-theorem-refuted.html
-Comments URL: https://news.ycombinator.com/item?id=27292520
-Points: 15
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Edward Snowden Hails Court Ruling Acknowledging Devastation of Mass Surveillance]]></title>
+        <id>https://news.ycombinator.com/item?id=27292510</id>
+        <link href="https://www.newsweek.com/edward-snowden-hails-eu-court-ruling-progress-acknowledging-devastation-mass-surveillance-1594811"/>
+        <updated>2021-05-26T16:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newsweek.com/edward-snowden-hails-eu-court-ruling-progress-acknowledging-devastation-mass-surveillance-1594811
+Comments URL: https://news.ycombinator.com/item?id=27292510
+Points: 68
+# Comments: 2]]></summary>
         <author>
-            <name>sandebert</name>
+            <name>danboarder</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Do you still use E-Mail?]]></title>
-        <id>https://news.ycombinator.com/item?id=27292512</id>
-        <link href="https://news.ycombinator.com/item?id=27292512"/>
-        <updated>2021-05-26T16:25:11.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, I have noticed that fewer and fewer people in my circle of friends use e-mail. I also use it less and less personally and have switched to alternatives. Is this just a subjective perception of mine or are there similar tendencies among you?
-Comments URL: https://news.ycombinator.com/item?id=27292512
-Points: 6
-# Comments: 0]]></summary>
-        <author>
-            <name>x14km2d</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benzene Detected in 78 Sunscreen Products]]></title>
+        <title type="html"><![CDATA[Benzene detected in many sunscreen products]]></title>
         <id>https://news.ycombinator.com/item?id=27292387</id>
         <link href="https://www.valisure.com/blog/valisure-news/valisure-detects-benzene-in-sunscreen/"/>
         <updated>2021-05-26T16:15:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.valisure.com/blog/valisure-news/valisure-detects-benzene-in-sunscreen/
 Comments URL: https://news.ycombinator.com/item?id=27292387
-Points: 2
-# Comments: 0]]></summary>
+Points: 206
+# Comments: 100]]></summary>
         <author>
             <name>rchiba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An In-Depth Look at What/How/Why Books Sell (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27291848</id>
+        <link href="https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/"/>
+        <updated>2021-05-26T15:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/
+Comments URL: https://news.ycombinator.com/item?id=27291848
+Points: 17
+# Comments: 5]]></summary>
+        <author>
+            <name>pepys</name>
         </author>
     </entry>
     <entry>
@@ -62,23 +150,10 @@ Points: 2
         <updated>2021-05-26T14:56:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
 Comments URL: https://news.ycombinator.com/item?id=27291302
-Points: 192
-# Comments: 57]]></summary>
+Points: 330
+# Comments: 173]]></summary>
         <author>
             <name>imbnwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engine 5 enters Early Access]]></title>
-        <id>https://news.ycombinator.com/item?id=27290854</id>
-        <link href="https://www.unrealengine.com/en-US/unreal-engine-5"/>
-        <updated>2021-05-26T14:24:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.unrealengine.com/en-US/unreal-engine-5
-Comments URL: https://news.ycombinator.com/item?id=27290854
-Points: 103
-# Comments: 33]]></summary>
-        <author>
-            <name>meheleventyone</name>
         </author>
     </entry>
     <entry>
@@ -105,32 +180,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An open letter from Atheme's developers and community]]></title>
-        <id>https://news.ycombinator.com/item?id=27290420</id>
-        <link href="https://atheme.github.io/atheme-open-letter/"/>
-        <updated>2021-05-26T13:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://atheme.github.io/atheme-open-letter/
-Comments URL: https://news.ycombinator.com/item?id=27290420
-Points: 99
-# Comments: 6]]></summary>
-        <author>
-            <name>wut42</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E-Prime – English without the verb “to be”]]></title>
-        <id>https://news.ycombinator.com/item?id=27290317</id>
-        <link href="https://en.wikipedia.org/wiki/E-Prime"/>
-        <updated>2021-05-26T13:37:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/E-Prime
-Comments URL: https://news.ycombinator.com/item?id=27290317
-Points: 57
-# Comments: 28]]></summary>
-        <author>
-            <name>isomorph</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
         <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
         <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
@@ -141,55 +190,29 @@ Points: 57
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iOS IDE Play.js Goes Online: Acquired by CodeSandbox]]></title>
+        <id>https://news.ycombinator.com/item?id=27290132</id>
+        <link href="https://codesandbox.io/post/codesandbox-acquires-playjs"/>
+        <updated>2021-05-26T13:19:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://codesandbox.io/post/codesandbox-acquires-playjs
+Comments URL: https://news.ycombinator.com/item?id=27290132
+Points: 36
+# Comments: 2]]></summary>
+        <author>
+            <name>rax0</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amazon acquires MGM for $8.45B]]></title>
         <id>https://news.ycombinator.com/item?id=27289924</id>
         <link href="https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/"/>
         <updated>2021-05-26T13:00:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/
 Comments URL: https://news.ycombinator.com/item?id=27289924
-Points: 446
-# Comments: 423]]></summary>
+Points: 562
+# Comments: 527]]></summary>
         <author>
             <name>helsinkiandrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join 30 YC Founders at YC's Summer Jobs Expo on June 10th]]></title>
-        <id>https://news.ycombinator.com/item?id=27289351</id>
-        <link href="https://www.workatastartup.com/events/startup-tech-expo-summer-2021"/>
-        <updated>2021-05-26T12:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/events/startup-tech-expo-summer-2021
-Comments URL: https://news.ycombinator.com/item?id=27289351
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>ryankicks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upheaval at freenode]]></title>
-        <id>https://news.ycombinator.com/item?id=27289071</id>
-        <link href="https://lwn.net/Articles/857252/"/>
-        <updated>2021-05-26T11:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/857252/
-Comments URL: https://news.ycombinator.com/item?id=27289071
-Points: 628
-# Comments: 302]]></summary>
-        <author>
-            <name>daenney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe isn’t a platform. It’s a mouse]]></title>
-        <id>https://news.ycombinator.com/item?id=27288942</id>
-        <link href="https://numair.medium.com/stripe-isnt-a-platform-it-s-a-mouse-913b2352fb5"/>
-        <updated>2021-05-26T11:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://numair.medium.com/stripe-isnt-a-platform-it-s-a-mouse-913b2352fb5
-Comments URL: https://news.ycombinator.com/item?id=27288942
-Points: 91
-# Comments: 37]]></summary>
-        <author>
-            <name>numair</name>
         </author>
     </entry>
     <entry>
@@ -199,8 +222,8 @@ Points: 91
         <updated>2021-05-26T10:51:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41467-021-23014-1
 Comments URL: https://news.ycombinator.com/item?id=27288796
-Points: 117
-# Comments: 42]]></summary>
+Points: 150
+# Comments: 58]]></summary>
         <author>
             <name>Kinrany</name>
         </author>
@@ -212,8 +235,8 @@ Points: 117
         <updated>2021-05-26T10:31:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://libera.chat/news/one-week-of-libera-chat
 Comments URL: https://news.ycombinator.com/item?id=27288613
-Points: 382
-# Comments: 108]]></summary>
+Points: 424
+# Comments: 119]]></summary>
         <author>
             <name>wut42</name>
         </author>
@@ -225,8 +248,8 @@ Points: 382
         <updated>2021-05-26T10:09:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr
 Comments URL: https://news.ycombinator.com/item?id=27288483
-Points: 45
-# Comments: 55]]></summary>
+Points: 149
+# Comments: 121]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -238,8 +261,8 @@ Points: 45
         <updated>2021-05-26T10:03:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543
 Comments URL: https://news.ycombinator.com/item?id=27288447
-Points: 77
-# Comments: 71]]></summary>
+Points: 100
+# Comments: 113]]></summary>
         <author>
             <name>janandonly</name>
         </author>
@@ -251,8 +274,8 @@ Points: 77
         <updated>2021-05-26T09:58:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/facundoolano/rpg-cli
 Comments URL: https://news.ycombinator.com/item?id=27288415
-Points: 94
-# Comments: 11]]></summary>
+Points: 117
+# Comments: 13]]></summary>
         <author>
             <name>agluszak</name>
         </author>
@@ -264,8 +287,8 @@ Points: 94
         <updated>2021-05-26T09:19:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html
 Comments URL: https://news.ycombinator.com/item?id=27288145
-Points: 36
-# Comments: 2]]></summary>
+Points: 54
+# Comments: 10]]></summary>
         <author>
             <name>signa11</name>
         </author>
@@ -277,8 +300,8 @@ Points: 36
         <updated>2021-05-26T08:42:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://compress-or-die.com/Understanding-PNG
 Comments URL: https://news.ycombinator.com/item?id=27287917
-Points: 94
-# Comments: 36]]></summary>
+Points: 104
+# Comments: 38]]></summary>
         <author>
             <name>Asdrubalini</name>
         </author>
@@ -290,23 +313,10 @@ Points: 94
         <updated>2021-05-26T08:42:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hudsandguis.com/home/2021/theexpanse
 Comments URL: https://news.ycombinator.com/item?id=27287912
-Points: 336
-# Comments: 183]]></summary>
+Points: 375
+# Comments: 221]]></summary>
         <author>
             <name>cryo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gentoo Freenode channels have been hijacked]]></title>
-        <id>https://news.ycombinator.com/item?id=27287750</id>
-        <link href="https://www.gentoo.org/news/2021/05/26/gentoo-freenode-channels-hijacked.html"/>
-        <updated>2021-05-26T08:12:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.gentoo.org/news/2021/05/26/gentoo-freenode-channels-hijacked.html
-Comments URL: https://news.ycombinator.com/item?id=27287750
-Points: 592
-# Comments: 204]]></summary>
-        <author>
-            <name>zatertip</name>
         </author>
     </entry>
     <entry>
@@ -452,16 +462,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/"/>
         <updated>2021-05-24T20:36:07.000Z</updated>
         <summary type="html"><![CDATA[CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Generate a Code Coverage Report with CodeCov and GitHub Actions]]></title>
-        <id>60aa161211ffb70827ef5f2c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/"/>
-        <updated>2021-05-24T19:40:36.000Z</updated>
-        <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
