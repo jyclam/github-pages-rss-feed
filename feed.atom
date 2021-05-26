@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T21:18:50.165Z</updated>
+    <updated>2021-05-26T22:20:38.246Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
+        <id>60a44b9f906c5207e3a7e098</id>
+        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
+        <updated>2021-05-26T21:44:01.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can't have too many angel investors]]></title>
+        <id>https://news.ycombinator.com/item?id=27296330</id>
+        <link href="https://waseem.substack.com/p/you-cant-have-too-many-angels"/>
+        <updated>2021-05-26T21:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://waseem.substack.com/p/you-cant-have-too-many-angels
+Comments URL: https://news.ycombinator.com/item?id=27296330
+Points: 16
+# Comments: 0]]></summary>
+        <author>
+            <name>wdaher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rescale (YC W12) Is Hiring Software Engineers and Product Managers]]></title>
         <id>https://news.ycombinator.com/item?id=27296050</id>
@@ -20,14 +43,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Neovim Treesitter Playground]]></title>
+        <id>https://news.ycombinator.com/item?id=27296024</id>
+        <link href="https://github.com/nvim-treesitter/playground"/>
+        <updated>2021-05-26T20:58:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/nvim-treesitter/playground
+Comments URL: https://news.ycombinator.com/item?id=27296024
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>jamespwilliams</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Collusion Rings Threaten the Integrity of Computer Science Research]]></title>
         <id>https://news.ycombinator.com/item?id=27295906</id>
         <link href="https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext"/>
         <updated>2021-05-26T20:49:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
 Comments URL: https://news.ycombinator.com/item?id=27295906
-Points: 9
-# Comments: 0]]></summary>
+Points: 75
+# Comments: 7]]></summary>
         <author>
             <name>djoldman</name>
         </author>
@@ -39,21 +75,21 @@ Points: 9
         <updated>2021-05-26T19:59:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zentrum.alles.cx/this-is-zentrum-mv9wfrw
 Comments URL: https://news.ycombinator.com/item?id=27295353
-Points: 11
-# Comments: 4]]></summary>
+Points: 21
+# Comments: 11]]></summary>
         <author>
             <name>archiecodes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Life After an Internet Mob Attack]]></title>
+        <title type="html"><![CDATA[Life after an internet mob attack]]></title>
         <id>https://news.ycombinator.com/item?id=27295320</id>
         <link href="https://pasquale.cool/internet-mob"/>
         <updated>2021-05-26T19:56:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pasquale.cool/internet-mob
 Comments URL: https://news.ycombinator.com/item?id=27295320
-Points: 181
-# Comments: 52]]></summary>
+Points: 315
+# Comments: 133]]></summary>
         <author>
             <name>jseliger</name>
         </author>
@@ -65,8 +101,8 @@ Points: 181
         <updated>2021-05-26T19:41:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.strongtowns.org/journal/2021/5/23/lawsuit
 Comments URL: https://news.ycombinator.com/item?id=27295108
-Points: 68
-# Comments: 27]]></summary>
+Points: 108
+# Comments: 77]]></summary>
         <author>
             <name>Breadmaker</name>
         </author>
@@ -78,8 +114,8 @@ Points: 68
         <updated>2021-05-26T19:21:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/
 Comments URL: https://news.ycombinator.com/item?id=27294890
-Points: 83
-# Comments: 18]]></summary>
+Points: 117
+# Comments: 44]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -91,21 +127,21 @@ Points: 83
         <updated>2021-05-26T19:04:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/pluja/awesome-privacy
 Comments URL: https://news.ycombinator.com/item?id=27294703
-Points: 28
-# Comments: 1]]></summary>
+Points: 52
+# Comments: 9]]></summary>
         <author>
             <name>sharjeelsayed</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oxide Computer Company announces their first server rack product]]></title>
+        <title type="html"><![CDATA[Servers as they should be – shipping early 2022]]></title>
         <id>https://news.ycombinator.com/item?id=27294471</id>
         <link href="https://oxide.computer"/>
         <updated>2021-05-26T18:45:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://oxide.computer
 Comments URL: https://news.ycombinator.com/item?id=27294471
-Points: 381
-# Comments: 121]]></summary>
+Points: 472
+# Comments: 145]]></summary>
         <author>
             <name>ykl</name>
         </author>
@@ -117,8 +153,8 @@ Points: 381
         <updated>2021-05-26T18:39:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
 Comments URL: https://news.ycombinator.com/item?id=27294401
-Points: 71
-# Comments: 12]]></summary>
+Points: 89
+# Comments: 17]]></summary>
         <author>
             <name>panabee</name>
         </author>
@@ -130,8 +166,8 @@ Points: 71
         <updated>2021-05-26T18:35:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm
 Comments URL: https://news.ycombinator.com/item?id=27294355
-Points: 24
-# Comments: 2]]></summary>
+Points: 36
+# Comments: 3]]></summary>
         <author>
             <name>rmason</name>
         </author>
@@ -163,8 +199,8 @@ Points: 24
         <updated>2021-05-26T17:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.findareddit.com/
 Comments URL: https://news.ycombinator.com/item?id=27293902
-Points: 140
-# Comments: 75]]></summary>
+Points: 163
+# Comments: 89]]></summary>
         <author>
             <name>thisissidhant</name>
         </author>
@@ -201,8 +237,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-26T17:44:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newscientist.com/article/2278370-greenlands-ice-sheet-is-releasing-huge-amounts-of-mercury-into-rivers/
 Comments URL: https://news.ycombinator.com/item?id=27293692
-Points: 107
-# Comments: 40]]></summary>
+Points: 130
+# Comments: 51]]></summary>
         <author>
             <name>mef51</name>
         </author>
@@ -214,8 +250,8 @@ Points: 107
         <updated>2021-05-26T17:43:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openai.com/fund/
 Comments URL: https://news.ycombinator.com/item?id=27293676
-Points: 98
-# Comments: 40]]></summary>
+Points: 114
+# Comments: 48]]></summary>
         <author>
             <name>cl42</name>
         </author>
@@ -227,8 +263,8 @@ Points: 98
         <updated>2021-05-26T17:13:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mux.com/blog/your-browser-and-my-browser-see-different-colors/
 Comments URL: https://news.ycombinator.com/item?id=27293266
-Points: 117
-# Comments: 41]]></summary>
+Points: 131
+# Comments: 46]]></summary>
         <author>
             <name>slimscsi</name>
         </author>
@@ -240,8 +276,8 @@ Points: 117
         <updated>2021-05-26T17:03:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/
 Comments URL: https://news.ycombinator.com/item?id=27293108
-Points: 48
-# Comments: 21]]></summary>
+Points: 55
+# Comments: 26]]></summary>
         <author>
             <name>jayp1418</name>
         </author>
@@ -263,8 +299,8 @@ Points: 48
         <updated>2021-05-26T16:15:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.valisure.com/blog/valisure-news/valisure-detects-benzene-in-sunscreen/
 Comments URL: https://news.ycombinator.com/item?id=27292387
-Points: 331
-# Comments: 218]]></summary>
+Points: 347
+# Comments: 232]]></summary>
         <author>
             <name>rchiba</name>
         </author>
@@ -276,8 +312,8 @@ Points: 331
         <updated>2021-05-26T15:31:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/
 Comments URL: https://news.ycombinator.com/item?id=27291848
-Points: 38
-# Comments: 27]]></summary>
+Points: 50
+# Comments: 32]]></summary>
         <author>
             <name>pepys</name>
         </author>
@@ -289,8 +325,8 @@ Points: 38
         <updated>2021-05-26T14:56:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
 Comments URL: https://news.ycombinator.com/item?id=27291302
-Points: 491
-# Comments: 276]]></summary>
+Points: 528
+# Comments: 287]]></summary>
         <author>
             <name>imbnwa</name>
         </author>
@@ -326,32 +362,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carie Fisher)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon acquires MGM for $8.5B]]></title>
-        <id>https://news.ycombinator.com/item?id=27289924</id>
-        <link href="https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/"/>
-        <updated>2021-05-26T13:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/
-Comments URL: https://news.ycombinator.com/item?id=27289924
-Points: 675
-# Comments: 645]]></summary>
-        <author>
-            <name>helsinkiandrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysis of blood markers predicts human lifespan limit]]></title>
-        <id>https://news.ycombinator.com/item?id=27288796</id>
-        <link href="https://www.nature.com/articles/s41467-021-23014-1"/>
-        <updated>2021-05-26T10:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41467-021-23014-1
-Comments URL: https://news.ycombinator.com/item?id=27288796
-Points: 187
-# Comments: 78]]></summary>
-        <author>
-            <name>Kinrany</name>
         </author>
     </entry>
     <entry>
@@ -479,16 +489,6 @@ The post Links on Performance appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
-        <id>60aaba5911ffb70827ef5ffc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/"/>
-        <updated>2021-05-24T21:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
