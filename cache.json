@@ -6,18 +6,63 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27288796",
+          "author": "Kinrany",
+          "description": "Article URL: https://www.nature.com/articles/s41467-021-23014-1\nComments URL: https://news.ycombinator.com/item?id=27288796\nPoints: 8\n# Comments: 0",
+          "link": "https://www.nature.com/articles/s41467-021-23014-1",
+          "publishedOn": "2021-05-26T10:51:35.000Z",
+          "wordCount": 10394,
+          "title": "Analysis of blood markers predicts human lifespan limit"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27288673",
+          "author": "wut42",
+          "description": "Article URL: https://twitter.com/AmNicd/status/1397448111291879424\nComments URL: https://news.ycombinator.com/item?id=27288673\nPoints: 25\n# Comments: 5",
+          "link": "https://twitter.com/AmNicd/status/1397448111291879424",
+          "publishedOn": "2021-05-26T10:38:10.000Z",
+          "wordCount": 196,
+          "title": "Elixir moves to Libera after channel being tookover by freenode staff"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27288613",
+          "author": "wut42",
+          "description": "Article URL: https://libera.chat/news/one-week-of-libera-chat\nComments URL: https://news.ycombinator.com/item?id=27288613\nPoints: 71\n# Comments: 10",
+          "link": "https://libera.chat/news/one-week-of-libera-chat",
+          "publishedOn": "2021-05-26T10:31:22.000Z",
+          "wordCount": 380,
+          "title": "One Week of Libera Chat"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27288447",
+          "author": "janandonly",
+          "description": "Article URL: https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543\nComments URL: https://news.ycombinator.com/item?id=27288447\nPoints: 23\n# Comments: 5",
+          "link": "https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543",
+          "publishedOn": "2021-05-26T10:03:57.000Z",
+          "wordCount": 1236,
+          "title": "Europe's Only Buddist “Country”"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27288415",
+          "author": "agluszak",
+          "description": "Article URL: https://github.com/facundoolano/rpg-cli\nComments URL: https://news.ycombinator.com/item?id=27288415\nPoints: 16\n# Comments: 0",
+          "link": "https://github.com/facundoolano/rpg-cli",
+          "publishedOn": "2021-05-26T09:58:45.000Z",
+          "wordCount": 1017,
+          "title": "RPG-CLI – your filesystem as a dungeon"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27287917",
           "author": "Asdrubalini",
-          "description": "Article URL: https://compress-or-die.com/Understanding-PNG\nComments URL: https://news.ycombinator.com/item?id=27287917\nPoints: 35\n# Comments: 3",
+          "description": "Article URL: https://compress-or-die.com/Understanding-PNG\nComments URL: https://news.ycombinator.com/item?id=27287917\nPoints: 47\n# Comments: 12",
           "link": "https://compress-or-die.com/Understanding-PNG",
           "publishedOn": "2021-05-26T08:42:28.000Z",
           "wordCount": 2825,
-          "title": "Finally Understanding PNG"
+          "title": "Finally Understanding PNG (2017)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27287912",
           "author": "cryo",
-          "description": "Article URL: https://www.hudsandguis.com/home/2021/theexpanse\nComments URL: https://news.ycombinator.com/item?id=27287912\nPoints: 84\n# Comments: 32",
+          "description": "Article URL: https://www.hudsandguis.com/home/2021/theexpanse\nComments URL: https://news.ycombinator.com/item?id=27287912\nPoints: 134\n# Comments: 64",
           "link": "https://www.hudsandguis.com/home/2021/theexpanse",
           "publishedOn": "2021-05-26T08:42:06.000Z",
           "wordCount": 2328,
@@ -26,7 +71,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27287750",
           "author": "zatertip",
-          "description": "Article URL: https://www.gentoo.org/news/2021/05/26/gentoo-freenode-channels-hijacked.html\nComments URL: https://news.ycombinator.com/item?id=27287750\nPoints: 97\n# Comments: 14",
+          "description": "Article URL: https://www.gentoo.org/news/2021/05/26/gentoo-freenode-channels-hijacked.html\nComments URL: https://news.ycombinator.com/item?id=27287750\nPoints: 186\n# Comments: 74",
           "link": "https://www.gentoo.org/news/2021/05/26/gentoo-freenode-channels-hijacked.html",
           "publishedOn": "2021-05-26T08:12:27.000Z",
           "wordCount": 212,
@@ -35,38 +80,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27287716",
           "author": "kasabali",
-          "description": "Article URL: https://www.reddit.com/r/linux/comments/nkztyv\nComments URL: https://news.ycombinator.com/item?id=27287716\nPoints: 84\n# Comments: 10",
+          "description": "Article URL: https://www.reddit.com/r/linux/comments/nkztyv\nComments URL: https://news.ycombinator.com/item?id=27287716\nPoints: 116\n# Comments: 21",
           "link": "https://www.reddit.com/r/linux/comments/nkztyv",
           "publishedOn": "2021-05-26T08:07:19.000Z",
-          "wordCount": 1372,
+          "wordCount": 1371,
           "title": "Online Antipiracy firm sending copyright notices for downloading Ubuntu ISO"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27287554",
-          "author": "mpweiher",
-          "description": "Article URL: https://donaldgmcneiljr1954.medium.com/the-end-is-near-no-seriously-142683fb085e\nComments URL: https://news.ycombinator.com/item?id=27287554\nPoints: 54\n# Comments: 44",
-          "link": "https://donaldgmcneiljr1954.medium.com/the-end-is-near-no-seriously-142683fb085e",
-          "publishedOn": "2021-05-26T07:41:57.000Z",
-          "wordCount": 2046,
-          "title": "The End Is Near. No, Seriously"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27287363",
           "author": "walterbell",
-          "description": "Article URL: http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm\nComments URL: https://news.ycombinator.com/item?id=27287363\nPoints: 46\n# Comments: 22",
+          "description": "Article URL: http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm\nComments URL: https://news.ycombinator.com/item?id=27287363\nPoints: 61\n# Comments: 30",
           "link": "http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm",
           "publishedOn": "2021-05-26T07:15:24.000Z",
           "wordCount": 23745,
           "title": "Master List of Logical Fallacies (2018)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27287298",
-          "author": "philshem",
-          "description": "Article URL: https://www.outsideonline.com/2409749/outside-cycling-deaths-2020\nComments URL: https://news.ycombinator.com/item?id=27287298\nPoints: 32\n# Comments: 25",
-          "link": "https://www.outsideonline.com/2409749/outside-cycling-deaths-2020",
-          "publishedOn": "2021-05-26T07:03:08.000Z",
-          "wordCount": 1234,
-          "title": "Every (US) cyclist who was killed by a driver in 2020"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27287278",
@@ -74,13 +101,13 @@
           "description": "Article URL: https://www.ycombinator.com/companies/bonsai/jobs/emuGR5Z-data-analyst-remote\nComments URL: https://news.ycombinator.com/item?id=27287278\nPoints: 1\n# Comments: 0",
           "link": "https://www.ycombinator.com/companies/bonsai/jobs/emuGR5Z-data-analyst-remote",
           "publishedOn": "2021-05-26T07:00:11.000Z",
-          "wordCount": 404,
+          "wordCount": 398,
           "title": "Bonsai (YC W16) Is Hiring a Product and Data Analyst (Remote)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27287270",
           "author": "rahimnathwani",
-          "description": "Article URL: https://gioui.org/\nComments URL: https://news.ycombinator.com/item?id=27287270\nPoints: 74\n# Comments: 28",
+          "description": "Article URL: https://gioui.org/\nComments URL: https://news.ycombinator.com/item?id=27287270\nPoints: 82\n# Comments: 32",
           "link": "https://gioui.org/",
           "publishedOn": "2021-05-26T06:58:11.000Z",
           "wordCount": 731,
@@ -89,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27287184",
           "author": "nimbleal",
-          "description": "Article URL: https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/\nComments URL: https://news.ycombinator.com/item?id=27287184\nPoints: 44\n# Comments: 11",
+          "description": "Article URL: https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/\nComments URL: https://news.ycombinator.com/item?id=27287184\nPoints: 49\n# Comments: 11",
           "link": "https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/",
           "publishedOn": "2021-05-26T06:44:14.000Z",
           "wordCount": 1438,
@@ -98,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27287138",
           "author": "graderjs",
-          "description": "Article URL: http://www.mit.edu/~kcr/poetry/tennyson_ulysses.html\nComments URL: https://news.ycombinator.com/item?id=27287138\nPoints: 34\n# Comments: 2",
+          "description": "Article URL: http://www.mit.edu/~kcr/poetry/tennyson_ulysses.html\nComments URL: https://news.ycombinator.com/item?id=27287138\nPoints: 36\n# Comments: 3",
           "link": "http://www.mit.edu/~kcr/poetry/tennyson_ulysses.html",
           "publishedOn": "2021-05-26T06:35:20.000Z",
           "wordCount": 635,
@@ -107,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27286820",
           "author": "ping_pong",
-          "description": "Article URL: https://www.stlouisfed.org/on-the-economy/2021/may/housing-prices-surpass-bubble-peak-measure-value\nComments URL: https://news.ycombinator.com/item?id=27286820\nPoints: 13\n# Comments: 4",
+          "description": "Article URL: https://www.stlouisfed.org/on-the-economy/2021/may/housing-prices-surpass-bubble-peak-measure-value\nComments URL: https://news.ycombinator.com/item?id=27286820\nPoints: 18\n# Comments: 22",
           "link": "https://www.stlouisfed.org/on-the-economy/2021/may/housing-prices-surpass-bubble-peak-measure-value",
           "publishedOn": "2021-05-26T05:45:32.000Z",
           "wordCount": 2859,
@@ -116,34 +143,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27285700",
           "author": "paulgerhardt",
-          "description": "Article URL: https://m1racles.com/\nComments URL: https://news.ycombinator.com/item?id=27285700\nPoints: 661\n# Comments: 176",
+          "description": "Article URL: https://m1racles.com/\nComments URL: https://news.ycombinator.com/item?id=27285700\nPoints: 696\n# Comments: 185",
           "link": "https://m1racles.com/",
           "publishedOn": "2021-05-26T03:02:00.000Z",
-          "wordCount": 2507,
+          "wordCount": 2508,
           "title": "M1racles: An Apple M1 covert channel vulnerability"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27285068",
           "author": "pseudolus",
-          "description": "Article URL: https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/\nComments URL: https://news.ycombinator.com/item?id=27285068\nPoints: 68\n# Comments: 13",
+          "description": "Article URL: https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/\nComments URL: https://news.ycombinator.com/item?id=27285068\nPoints: 70\n# Comments: 19",
           "link": "https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/",
           "publishedOn": "2021-05-26T01:30:30.000Z",
-          "wordCount": 1278,
+          "wordCount": 1279,
           "title": "Our memory is better than experts thought"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27284800",
-          "author": "wilg",
-          "description": "Article URL: https://streetmix.net/\nComments URL: https://news.ycombinator.com/item?id=27284800\nPoints: 63\n# Comments: 7",
-          "link": "https://streetmix.net/",
-          "publishedOn": "2021-05-26T00:54:06.000Z",
-          "wordCount": 13,
-          "title": "Streetmix – A fun little urban design playground"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27284286",
           "author": "danboarder",
-          "description": "Article URL: https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206\nComments URL: https://news.ycombinator.com/item?id=27284286\nPoints: 113\n# Comments: 22",
+          "description": "Article URL: https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206\nComments URL: https://news.ycombinator.com/item?id=27284286\nPoints: 117\n# Comments: 24",
           "link": "https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206",
           "publishedOn": "2021-05-25T23:44:17.000Z",
           "wordCount": 1047,
@@ -152,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27284224",
           "author": "arkadiyt",
-          "description": "Article URL: https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/\nComments URL: https://news.ycombinator.com/item?id=27284224\nPoints: 170\n# Comments: 73",
+          "description": "Article URL: https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/\nComments URL: https://news.ycombinator.com/item?id=27284224\nPoints: 179\n# Comments: 75",
           "link": "https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/",
           "publishedOn": "2021-05-25T23:38:28.000Z",
           "wordCount": 842,
@@ -161,29 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27284124",
           "author": "L-epstein",
-          "description": "Article URL: https://ae.studio/blog/how-our-slack-app-got-to-200k-users-with-no-marketing-whatsoever\nComments URL: https://news.ycombinator.com/item?id=27284124\nPoints: 82\n# Comments: 22",
+          "description": "Article URL: https://ae.studio/blog/how-our-slack-app-got-to-200k-users-with-no-marketing-whatsoever\nComments URL: https://news.ycombinator.com/item?id=27284124\nPoints: 86\n# Comments: 22",
           "link": "https://ae.studio/blog/how-our-slack-app-got-to-200k-users-with-no-marketing-whatsoever",
           "publishedOn": "2021-05-25T23:27:39.000Z",
           "wordCount": 1526,
           "title": "How Our Slack App Got to 200K Users with No Marketing Whatsoever"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27283624",
-          "author": "pmoriarty",
-          "description": "Article URL: https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/\nComments URL: https://news.ycombinator.com/item?id=27283624\nPoints: 583\n# Comments: 420",
-          "link": "https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/",
-          "publishedOn": "2021-05-25T22:36:35.000Z",
-          "wordCount": 1609,
-          "title": "Vietnam War images from the North Vietnamese side"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27282842",
-          "author": "koch",
-          "description": "Article URL: https://cascade.page\nComments URL: https://news.ycombinator.com/item?id=27282842\nPoints: 117\n# Comments: 12",
-          "link": "https://cascade.page",
-          "publishedOn": "2021-05-25T21:21:14.000Z",
-          "wordCount": 5,
-          "title": "Show HN: Cascade Timeline Maker"
         }
       ]
     },
@@ -326,7 +326,7 @@
           "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
           "publishedOn": "2021-05-25T14:25:06.000Z",
-          "wordCount": 7448,
+          "wordCount": 7475,
           "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
         },
         {
@@ -510,7 +510,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9449,
+          "wordCount": 9440,
           "title": "Building A Rich Text Editor (WYSIWYG) From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -538,7 +538,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1961,
+          "wordCount": 1970,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -594,7 +594,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2957,
+          "wordCount": 2906,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -608,7 +608,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2444,
+          "wordCount": 2435,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -678,7 +678,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
+          "wordCount": 6347,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -692,7 +692,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4169,
+          "wordCount": 4178,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -734,7 +734,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1832,
+          "wordCount": 1837,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -762,7 +762,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2192,
+          "wordCount": 2141,
           "title": "The Evolution Of Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
@@ -776,7 +776,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
+          "wordCount": 2190,
           "title": "May Is In The Air (2021 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1608f515-bf92-4faa-b3e5-1090f1a22696/may-21-from-nope-to-hope-preview-opt.png",
