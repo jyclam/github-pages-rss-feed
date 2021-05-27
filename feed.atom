@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T15:25:36.695Z</updated>
+    <updated>2021-05-27T16:55:23.906Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[V8 Sparkplug – A non-optimizing JavaScript compiler]]></title>
+        <id>https://news.ycombinator.com/item?id=27304808</id>
+        <link href="https://v8.dev/blog/sparkplug"/>
+        <updated>2021-05-27T16:19:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://v8.dev/blog/sparkplug
+Comments URL: https://news.ycombinator.com/item?id=27304808
+Points: 34
+# Comments: 5]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google to use patient data to develop healthcare algorithms for hospital chain]]></title>
         <id>https://news.ycombinator.com/item?id=27304146</id>
@@ -13,8 +26,8 @@
         <updated>2021-05-27T15:18:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/26/22454817/google-hca-patient-data-healthcare-algorithms
 Comments URL: https://news.ycombinator.com/item?id=27304146
-Points: 4
-# Comments: 0]]></summary>
+Points: 37
+# Comments: 18]]></summary>
         <author>
             <name>gmays</name>
         </author>
@@ -30,16 +43,68 @@ Points: 4
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rocky Linux releases its first release candidate]]></title>
+        <id>https://news.ycombinator.com/item?id=27304012</id>
+        <link href="https://rockylinux.org/download"/>
+        <updated>2021-05-27T15:07:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rockylinux.org/download
+Comments URL: https://news.ycombinator.com/item?id=27304012
+Points: 54
+# Comments: 35]]></summary>
+        <author>
+            <name>sparcpile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phil's Old Radios]]></title>
+        <id>https://news.ycombinator.com/item?id=27303881</id>
+        <link href="https://antiqueradio.org/welcome.htm"/>
+        <updated>2021-05-27T14:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://antiqueradio.org/welcome.htm
+Comments URL: https://news.ycombinator.com/item?id=27303881
+Points: 20
+# Comments: 4]]></summary>
+        <author>
+            <name>js2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: NocoDB – The Open Source Airtable Alternative]]></title>
+        <id>https://news.ycombinator.com/item?id=27303783</id>
+        <link href="https://github.com/nocodb/nocodb"/>
+        <updated>2021-05-27T14:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/nocodb/nocodb
+Comments URL: https://news.ycombinator.com/item?id=27303783
+Points: 26
+# Comments: 7]]></summary>
+        <author>
+            <name>nocodb</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Court rules encrypted email provider Tutanota must monitor messages]]></title>
         <id>https://news.ycombinator.com/item?id=27303712</id>
         <link href="https://www.cyberscoop.com/court-rules-encrypted-email-tutanota-monitor-messages/"/>
         <updated>2021-05-27T14:41:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cyberscoop.com/court-rules-encrypted-email-tutanota-monitor-messages/
 Comments URL: https://news.ycombinator.com/item?id=27303712
-Points: 13
-# Comments: 5]]></summary>
+Points: 53
+# Comments: 31]]></summary>
         <author>
             <name>Sami_Lehtinen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Convect – Instant Serverless Deployment of ML Models]]></title>
+        <id>https://news.ycombinator.com/item?id=27303690</id>
+        <link href="https://convect.ml"/>
+        <updated>2021-05-27T14:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://convect.ml
+Comments URL: https://news.ycombinator.com/item?id=27303690
+Points: 13
+# Comments: 1]]></summary>
+        <author>
+            <name>sameerank</name>
         </author>
     </entry>
     <entry>
@@ -73,8 +138,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-27T14:01:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers
 Comments URL: https://news.ycombinator.com/item?id=27303227
-Points: 18
-# Comments: 4]]></summary>
+Points: 100
+# Comments: 39]]></summary>
         <author>
             <name>ksec</name>
         </author>
@@ -96,8 +161,8 @@ Points: 18
         <updated>2021-05-27T13:16:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en/plus
 Comments URL: https://news.ycombinator.com/item?id=27302702
-Points: 215
-# Comments: 102]]></summary>
+Points: 308
+# Comments: 139]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -113,8 +178,8 @@ For example, some of the ones I like are:
 - https://www.joshwcomeau.com/
 - https://ciechanow.ski/
 Comments URL: https://news.ycombinator.com/item?id=27302195
-Points: 257
-# Comments: 113]]></summary>
+Points: 378
+# Comments: 162]]></summary>
         <author>
             <name>zffr</name>
         </author>
@@ -126,8 +191,8 @@ Points: 257
         <updated>2021-05-27T12:16:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Kristy_Viers/status/1287189581926981634
 Comments URL: https://news.ycombinator.com/item?id=27302074
-Points: 226
-# Comments: 62]]></summary>
+Points: 368
+# Comments: 108]]></summary>
         <author>
             <name>eevilspock</name>
         </author>
@@ -152,8 +217,8 @@ Points: 1
         <updated>2021-05-27T11:04:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://if50.substack.com/p/1991-trade-wars-2002
 Comments URL: https://news.ycombinator.com/item?id=27301478
-Points: 12
-# Comments: 3]]></summary>
+Points: 30
+# Comments: 13]]></summary>
         <author>
             <name>TheLocehiliosan</name>
         </author>
@@ -165,8 +230,8 @@ Points: 12
         <updated>2021-05-27T10:28:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/esraefe/status/1397842160607711232
 Comments URL: https://news.ycombinator.com/item?id=27301219
-Points: 273
-# Comments: 129]]></summary>
+Points: 318
+# Comments: 192]]></summary>
         <author>
             <name>danielstocks</name>
         </author>
@@ -188,8 +253,8 @@ Points: 273
         <updated>2021-05-27T09:14:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57254488
 Comments URL: https://news.ycombinator.com/item?id=27300843
-Points: 108
-# Comments: 100]]></summary>
+Points: 146
+# Comments: 130]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -201,23 +266,10 @@ Points: 108
         <updated>2021-05-27T09:14:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57254962
 Comments URL: https://news.ycombinator.com/item?id=27300833
-Points: 115
-# Comments: 75]]></summary>
+Points: 132
+# Comments: 97]]></summary>
         <author>
             <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The data brokers quietly buying and selling your personal information]]></title>
-        <id>https://news.ycombinator.com/item?id=27300764</id>
-        <link href="https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information"/>
-        <updated>2021-05-27T09:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information
-Comments URL: https://news.ycombinator.com/item?id=27300764
-Points: 95
-# Comments: 25]]></summary>
-        <author>
-            <name>KoftaBob</name>
         </author>
     </entry>
     <entry>
@@ -232,10 +284,23 @@ Not seeking a particular piece of advice, more looking for somebody to have a co
 End goal as of now: assemble a few great minds, give them the space to work rent-free in a region with good academic infrastructure, ideally let them collaborate, watch the beauty of it.
 If relevant, an LLC-like structure is available for making this happen, but not 100% sold on how to approach this from a legal perspective.
 Comments URL: https://news.ycombinator.com/item?id=27300594
-Points: 162
-# Comments: 89]]></summary>
+Points: 195
+# Comments: 107]]></summary>
         <author>
             <name>akhann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Penis Poster That Rubbed People the Wrong Way]]></title>
+        <id>https://news.ycombinator.com/item?id=27300548</id>
+        <link href="https://www.topic.com/the-penis-poster-that-rubbed-people-the-wrong-way"/>
+        <updated>2021-05-27T08:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.topic.com/the-penis-poster-that-rubbed-people-the-wrong-way
+Comments URL: https://news.ycombinator.com/item?id=27300548
+Points: 24
+# Comments: 13]]></summary>
+        <author>
+            <name>wombatmobile</name>
         </author>
     </entry>
     <entry>
@@ -245,88 +310,23 @@ Points: 162
         <updated>2021-05-27T07:57:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thedailybeast.com/bomb-threat-cited-in-belarus-hijacking-came-24-minutes-after
 Comments URL: https://news.ycombinator.com/item?id=27300469
-Points: 149
-# Comments: 43]]></summary>
+Points: 194
+# Comments: 54]]></summary>
         <author>
             <name>maratc</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Immediate skin-to-skin contact with unstable newborns improves survival chances]]></title>
-        <id>https://news.ycombinator.com/item?id=27300429</id>
-        <link href="https://medlifestyle.news/2021/05/26/immediate-skin-to-skin-contact-with-unstable-newborns-improves-premature-babies-chances-of-survival/"/>
-        <updated>2021-05-27T07:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medlifestyle.news/2021/05/26/immediate-skin-to-skin-contact-with-unstable-newborns-improves-premature-babies-chances-of-survival/
-Comments URL: https://news.ycombinator.com/item?id=27300429
-Points: 129
-# Comments: 64]]></summary>
+        <title type="html"><![CDATA[QucsStudio – HF Circuit and EM Field Simulator]]></title>
+        <id>https://news.ycombinator.com/item?id=27300466</id>
+        <link href="http://qucsstudio.de/"/>
+        <updated>2021-05-27T07:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://qucsstudio.de/
+Comments URL: https://news.ycombinator.com/item?id=27300466
+Points: 15
+# Comments: 4]]></summary>
         <author>
-            <name>billyharris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whole Earth ‘Lectronic Link]]></title>
-        <id>https://news.ycombinator.com/item?id=27298862</id>
-        <link href="https://www.well.com/"/>
-        <updated>2021-05-27T03:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.well.com/
-Comments URL: https://news.ycombinator.com/item?id=27298862
-Points: 76
-# Comments: 51]]></summary>
-        <author>
-            <name>graderjs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functional Programming in Go with Generics]]></title>
-        <id>https://news.ycombinator.com/item?id=27298506</id>
-        <link href="https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/"/>
-        <updated>2021-05-27T01:58:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
-Comments URL: https://news.ycombinator.com/item?id=27298506
-Points: 86
-# Comments: 65]]></summary>
-        <author>
-            <name>ngaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenHD - HD video, UAV telemetry, audio, and RC control]]></title>
-        <id>https://news.ycombinator.com/item?id=27298422</id>
-        <link href="https://github.com/OpenHD/Open.HD"/>
-        <updated>2021-05-27T01:45:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/OpenHD/Open.HD
-Comments URL: https://news.ycombinator.com/item?id=27298422
-Points: 193
-# Comments: 29]]></summary>
-        <author>
-            <name>danboarder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.I. Is Solving the Wrong Problem]]></title>
-        <id>https://news.ycombinator.com/item?id=27298343</id>
-        <link href="https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd"/>
-        <updated>2021-05-27T01:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd
-Comments URL: https://news.ycombinator.com/item?id=27298343
-Points: 74
-# Comments: 71]]></summary>
-        <author>
-            <name>mbellotti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[River Runner: drop a raindrop anywhere in the USA, watch where it ends up]]></title>
-        <id>https://news.ycombinator.com/item?id=27297689</id>
-        <link href="https://river-runner.samlearner.com/"/>
-        <updated>2021-05-27T00:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://river-runner.samlearner.com/
-Comments URL: https://news.ycombinator.com/item?id=27297689
-Points: 663
-# Comments: 101]]></summary>
-        <author>
-            <name>prawn</name>
+            <name>exar0815</name>
         </author>
     </entry>
     <entry>
