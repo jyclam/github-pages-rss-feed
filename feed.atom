@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T04:58:20.270Z</updated>
+    <updated>2021-05-27T06:00:35.816Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Letter to Freenode – Post Mortem of May 25, 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27299601</id>
+        <link href="https://freenode.net/news/post-mortem-may21"/>
+        <updated>2021-05-27T05:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://freenode.net/news/post-mortem-may21
+Comments URL: https://news.ycombinator.com/item?id=27299601
+Points: 12
+# Comments: 2]]></summary>
+        <author>
+            <name>nneonneo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whole Earth ‘Lectronic Link]]></title>
         <id>https://news.ycombinator.com/item?id=27298862</id>
@@ -13,8 +26,8 @@
         <updated>2021-05-27T03:00:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.well.com/
 Comments URL: https://news.ycombinator.com/item?id=27298862
-Points: 28
-# Comments: 17]]></summary>
+Points: 31
+# Comments: 23]]></summary>
         <author>
             <name>graderjs</name>
         </author>
@@ -26,8 +39,8 @@ Points: 28
         <updated>2021-05-27T01:58:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
 Comments URL: https://news.ycombinator.com/item?id=27298506
-Points: 26
-# Comments: 3]]></summary>
+Points: 39
+# Comments: 20]]></summary>
         <author>
             <name>ngaut</name>
         </author>
@@ -39,8 +52,8 @@ Points: 26
         <updated>2021-05-27T01:53:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57122120
 Comments URL: https://news.ycombinator.com/item?id=27298462
-Points: 108
-# Comments: 94]]></summary>
+Points: 132
+# Comments: 115]]></summary>
         <author>
             <name>intunderflow</name>
         </author>
@@ -52,23 +65,10 @@ Points: 108
         <updated>2021-05-27T01:45:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/OpenHD/Open.HD
 Comments URL: https://news.ycombinator.com/item?id=27298422
-Points: 49
-# Comments: 8]]></summary>
+Points: 70
+# Comments: 9]]></summary>
         <author>
             <name>danboarder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.I. Is Solving the Wrong Problem]]></title>
-        <id>https://news.ycombinator.com/item?id=27298343</id>
-        <link href="https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd"/>
-        <updated>2021-05-27T01:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd
-Comments URL: https://news.ycombinator.com/item?id=27298343
-Points: 20
-# Comments: 11]]></summary>
-        <author>
-            <name>mbellotti</name>
         </author>
     </entry>
     <entry>
@@ -85,27 +85,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LA pays $2600 per homeless tent, per month]]></title>
-        <id>https://news.ycombinator.com/item?id=27297971</id>
-        <link href="https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions"/>
-        <updated>2021-05-27T00:38:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/05/25/999969718/high-cost-of-los-angeles-homeless-camp-raises-eyebrows-and-questions
-Comments URL: https://news.ycombinator.com/item?id=27297971
-Points: 171
-# Comments: 189]]></summary>
-        <author>
-            <name>temp8964</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[River Runner: drop a raindrop anywhere in the USA, watch where it ends up]]></title>
         <id>https://news.ycombinator.com/item?id=27297689</id>
         <link href="https://river-runner.samlearner.com/"/>
         <updated>2021-05-27T00:01:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://river-runner.samlearner.com/
 Comments URL: https://news.ycombinator.com/item?id=27297689
-Points: 99
-# Comments: 15]]></summary>
+Points: 142
+# Comments: 21]]></summary>
         <author>
             <name>prawn</name>
         </author>
@@ -127,7 +114,7 @@ Points: 99
         <updated>2021-05-26T21:26:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://waseem.substack.com/p/you-cant-have-too-many-angels
 Comments URL: https://news.ycombinator.com/item?id=27296330
-Points: 91
+Points: 95
 # Comments: 58]]></summary>
         <author>
             <name>wdaher</name>
@@ -140,23 +127,10 @@ Points: 91
         <updated>2021-05-26T20:49:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
 Comments URL: https://news.ycombinator.com/item?id=27295906
-Points: 413
-# Comments: 224]]></summary>
+Points: 453
+# Comments: 239]]></summary>
         <author>
             <name>djoldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life after an internet mob attack]]></title>
-        <id>https://news.ycombinator.com/item?id=27295320</id>
-        <link href="https://pasquale.cool/internet-mob"/>
-        <updated>2021-05-26T19:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pasquale.cool/internet-mob
-Comments URL: https://news.ycombinator.com/item?id=27295320
-Points: 442
-# Comments: 351]]></summary>
-        <author>
-            <name>jseliger</name>
         </author>
     </entry>
     <entry>
@@ -166,7 +140,7 @@ Points: 442
         <updated>2021-05-26T19:21:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/
 Comments URL: https://news.ycombinator.com/item?id=27294890
-Points: 244
+Points: 258
 # Comments: 66]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -179,8 +153,8 @@ Points: 244
         <updated>2021-05-26T18:45:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://oxide.computer
 Comments URL: https://news.ycombinator.com/item?id=27294471
-Points: 672
-# Comments: 195]]></summary>
+Points: 689
+# Comments: 202]]></summary>
         <author>
             <name>ykl</name>
         </author>
@@ -192,7 +166,7 @@ Points: 672
         <updated>2021-05-26T18:39:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
 Comments URL: https://news.ycombinator.com/item?id=27294401
-Points: 132
+Points: 135
 # Comments: 26]]></summary>
         <author>
             <name>panabee</name>
@@ -205,7 +179,7 @@ Points: 132
         <updated>2021-05-26T18:35:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm
 Comments URL: https://news.ycombinator.com/item?id=27294355
-Points: 60
+Points: 64
 # Comments: 6]]></summary>
         <author>
             <name>rmason</name>
@@ -238,8 +212,8 @@ Points: 60
         <updated>2021-05-26T17:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.findareddit.com/
 Comments URL: https://news.ycombinator.com/item?id=27293902
-Points: 275
-# Comments: 143]]></summary>
+Points: 282
+# Comments: 145]]></summary>
         <author>
             <name>thisissidhant</name>
         </author>
@@ -276,8 +250,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-26T17:43:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openai.com/fund/
 Comments URL: https://news.ycombinator.com/item?id=27293676
-Points: 166
-# Comments: 78]]></summary>
+Points: 168
+# Comments: 81]]></summary>
         <author>
             <name>cl42</name>
         </author>
@@ -289,8 +263,8 @@ Points: 166
         <updated>2021-05-26T17:13:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mux.com/blog/your-browser-and-my-browser-see-different-colors/
 Comments URL: https://news.ycombinator.com/item?id=27293266
-Points: 172
-# Comments: 72]]></summary>
+Points: 178
+# Comments: 73]]></summary>
         <author>
             <name>slimscsi</name>
         </author>
@@ -302,8 +276,8 @@ Points: 172
         <updated>2021-05-26T17:03:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/
 Comments URL: https://news.ycombinator.com/item?id=27293108
-Points: 76
-# Comments: 42]]></summary>
+Points: 81
+# Comments: 43]]></summary>
         <author>
             <name>jayp1418</name>
         </author>
@@ -325,10 +299,36 @@ Points: 76
         <updated>2021-05-26T16:00:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code
 Comments URL: https://news.ycombinator.com/item?id=27292219
-Points: 190
-# Comments: 95]]></summary>
+Points: 217
+# Comments: 111]]></summary>
         <author>
             <name>its_nikita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An In-Depth Look at What/How/Why Books Sell (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27291848</id>
+        <link href="https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/"/>
+        <updated>2021-05-26T15:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/
+Comments URL: https://news.ycombinator.com/item?id=27291848
+Points: 85
+# Comments: 45]]></summary>
+        <author>
+            <name>pepys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neovim 0.5 is overpowering]]></title>
+        <id>https://news.ycombinator.com/item?id=27291302</id>
+        <link href="https://crispgm.com/page/neovim-is-overpowering.html"/>
+        <updated>2021-05-26T14:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
+Comments URL: https://news.ycombinator.com/item?id=27291302
+Points: 640
+# Comments: 353]]></summary>
+        <author>
+            <name>imbnwa</name>
         </author>
     </entry>
     <entry>
