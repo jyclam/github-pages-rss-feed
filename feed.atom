@@ -2,23 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T06:00:35.816Z</updated>
+    <updated>2021-05-27T06:58:59.663Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[Letter to Freenode – Post Mortem of May 25, 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27299601</id>
-        <link href="https://freenode.net/news/post-mortem-may21"/>
-        <updated>2021-05-27T05:07:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://freenode.net/news/post-mortem-may21
-Comments URL: https://news.ycombinator.com/item?id=27299601
-Points: 12
-# Comments: 2]]></summary>
-        <author>
-            <name>nneonneo</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Whole Earth ‘Lectronic Link]]></title>
         <id>https://news.ycombinator.com/item?id=27298862</id>
@@ -26,8 +13,8 @@ Points: 12
         <updated>2021-05-27T03:00:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.well.com/
 Comments URL: https://news.ycombinator.com/item?id=27298862
-Points: 31
-# Comments: 23]]></summary>
+Points: 36
+# Comments: 27]]></summary>
         <author>
             <name>graderjs</name>
         </author>
@@ -39,23 +26,10 @@ Points: 31
         <updated>2021-05-27T01:58:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
 Comments URL: https://news.ycombinator.com/item?id=27298506
-Points: 39
-# Comments: 20]]></summary>
+Points: 48
+# Comments: 37]]></summary>
         <author>
             <name>ngaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft president: Orwell’s 1984 could happen in 2024]]></title>
-        <id>https://news.ycombinator.com/item?id=27298462</id>
-        <link href="https://www.bbc.co.uk/news/technology-57122120"/>
-        <updated>2021-05-27T01:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57122120
-Comments URL: https://news.ycombinator.com/item?id=27298462
-Points: 132
-# Comments: 115]]></summary>
-        <author>
-            <name>intunderflow</name>
         </author>
     </entry>
     <entry>
@@ -65,10 +39,23 @@ Points: 132
         <updated>2021-05-27T01:45:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/OpenHD/Open.HD
 Comments URL: https://news.ycombinator.com/item?id=27298422
-Points: 70
-# Comments: 9]]></summary>
+Points: 96
+# Comments: 15]]></summary>
         <author>
             <name>danboarder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A.I. Is Solving the Wrong Problem]]></title>
+        <id>https://news.ycombinator.com/item?id=27298343</id>
+        <link href="https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd"/>
+        <updated>2021-05-27T01:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd
+Comments URL: https://news.ycombinator.com/item?id=27298343
+Points: 25
+# Comments: 17]]></summary>
+        <author>
+            <name>mbellotti</name>
         </author>
     </entry>
     <entry>
@@ -91,8 +78,8 @@ Points: 1
         <updated>2021-05-27T00:01:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://river-runner.samlearner.com/
 Comments URL: https://news.ycombinator.com/item?id=27297689
-Points: 142
-# Comments: 21]]></summary>
+Points: 187
+# Comments: 26]]></summary>
         <author>
             <name>prawn</name>
         </author>
@@ -114,7 +101,7 @@ Points: 142
         <updated>2021-05-26T21:26:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://waseem.substack.com/p/you-cant-have-too-many-angels
 Comments URL: https://news.ycombinator.com/item?id=27296330
-Points: 95
+Points: 101
 # Comments: 58]]></summary>
         <author>
             <name>wdaher</name>
@@ -127,8 +114,8 @@ Points: 95
         <updated>2021-05-26T20:49:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
 Comments URL: https://news.ycombinator.com/item?id=27295906
-Points: 453
-# Comments: 239]]></summary>
+Points: 486
+# Comments: 260]]></summary>
         <author>
             <name>djoldman</name>
         </author>
@@ -140,10 +127,23 @@ Points: 453
         <updated>2021-05-26T19:21:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/
 Comments URL: https://news.ycombinator.com/item?id=27294890
-Points: 258
-# Comments: 66]]></summary>
+Points: 279
+# Comments: 72]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy – A curated list of services and alternatives that respect privacy]]></title>
+        <id>https://news.ycombinator.com/item?id=27294703</id>
+        <link href="https://github.com/pluja/awesome-privacy"/>
+        <updated>2021-05-26T19:04:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/pluja/awesome-privacy
+Comments URL: https://news.ycombinator.com/item?id=27294703
+Points: 147
+# Comments: 34]]></summary>
+        <author>
+            <name>sharjeelsayed</name>
         </author>
     </entry>
     <entry>
@@ -153,8 +153,8 @@ Points: 258
         <updated>2021-05-26T18:45:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://oxide.computer
 Comments URL: https://news.ycombinator.com/item?id=27294471
-Points: 689
-# Comments: 202]]></summary>
+Points: 718
+# Comments: 206]]></summary>
         <author>
             <name>ykl</name>
         </author>
@@ -166,8 +166,8 @@ Points: 689
         <updated>2021-05-26T18:39:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
 Comments URL: https://news.ycombinator.com/item?id=27294401
-Points: 135
-# Comments: 26]]></summary>
+Points: 138
+# Comments: 28]]></summary>
         <author>
             <name>panabee</name>
         </author>
@@ -179,7 +179,7 @@ Points: 135
         <updated>2021-05-26T18:35:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm
 Comments URL: https://news.ycombinator.com/item?id=27294355
-Points: 64
+Points: 68
 # Comments: 6]]></summary>
         <author>
             <name>rmason</name>
@@ -212,8 +212,8 @@ Points: 64
         <updated>2021-05-26T17:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.findareddit.com/
 Comments URL: https://news.ycombinator.com/item?id=27293902
-Points: 282
-# Comments: 145]]></summary>
+Points: 294
+# Comments: 148]]></summary>
         <author>
             <name>thisissidhant</name>
         </author>
@@ -250,8 +250,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-26T17:43:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openai.com/fund/
 Comments URL: https://news.ycombinator.com/item?id=27293676
-Points: 168
-# Comments: 81]]></summary>
+Points: 175
+# Comments: 84]]></summary>
         <author>
             <name>cl42</name>
         </author>
@@ -263,8 +263,8 @@ Points: 168
         <updated>2021-05-26T17:13:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mux.com/blog/your-browser-and-my-browser-see-different-colors/
 Comments URL: https://news.ycombinator.com/item?id=27293266
-Points: 178
-# Comments: 73]]></summary>
+Points: 183
+# Comments: 75]]></summary>
         <author>
             <name>slimscsi</name>
         </author>
@@ -276,8 +276,8 @@ Points: 178
         <updated>2021-05-26T17:03:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/
 Comments URL: https://news.ycombinator.com/item?id=27293108
-Points: 81
-# Comments: 43]]></summary>
+Points: 87
+# Comments: 51]]></summary>
         <author>
             <name>jayp1418</name>
         </author>
@@ -299,23 +299,10 @@ Points: 81
         <updated>2021-05-26T16:00:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code
 Comments URL: https://news.ycombinator.com/item?id=27292219
-Points: 217
-# Comments: 111]]></summary>
+Points: 247
+# Comments: 129]]></summary>
         <author>
             <name>its_nikita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An In-Depth Look at What/How/Why Books Sell (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=27291848</id>
-        <link href="https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/"/>
-        <updated>2021-05-26T15:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/
-Comments URL: https://news.ycombinator.com/item?id=27291848
-Points: 85
-# Comments: 45]]></summary>
-        <author>
-            <name>pepys</name>
         </author>
     </entry>
     <entry>
@@ -325,8 +312,8 @@ Points: 85
         <updated>2021-05-26T14:56:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
 Comments URL: https://news.ycombinator.com/item?id=27291302
-Points: 640
-# Comments: 353]]></summary>
+Points: 659
+# Comments: 361]]></summary>
         <author>
             <name>imbnwa</name>
         </author>
@@ -362,6 +349,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carie Fisher)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A study in North Carolina of dying trees]]></title>
+        <id>https://news.ycombinator.com/item?id=27289479</id>
+        <link href="https://www.smithsonianmag.com/science-nature/why-ecologists-are-haunted-rapid-growth-ghost-forests-180977674/"/>
+        <updated>2021-05-26T12:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/science-nature/why-ecologists-are-haunted-rapid-growth-ghost-forests-180977674/
+Comments URL: https://news.ycombinator.com/item?id=27289479
+Points: 54
+# Comments: 20]]></summary>
+        <author>
+            <name>ryan_j_naughton</name>
         </author>
     </entry>
     <entry>
