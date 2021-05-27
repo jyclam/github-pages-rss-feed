@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T13:49:06.114Z</updated>
+    <updated>2021-05-27T14:34:08.934Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jeff Bezos will step down as Amazon CEO on July 5]]></title>
+        <id>https://news.ycombinator.com/item?id=27303028</id>
+        <link href="https://www.cnn.com/2021/05/26/tech/jeff-bezos-andy-jassy-amazon-ceo/index.html"/>
+        <updated>2021-05-27T13:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnn.com/2021/05/26/tech/jeff-bezos-andy-jassy-amazon-ceo/index.html
+Comments URL: https://news.ycombinator.com/item?id=27303028
+Points: 139
+# Comments: 33]]></summary>
+        <author>
+            <name>brutus1213</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
+        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
+        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
+        <updated>2021-05-27T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MDN Plus]]></title>
         <id>https://news.ycombinator.com/item?id=27302702</id>
@@ -13,8 +36,8 @@
         <updated>2021-05-27T13:16:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en/plus
 Comments URL: https://news.ycombinator.com/item?id=27302702
-Points: 93
-# Comments: 33]]></summary>
+Points: 157
+# Comments: 79]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -30,8 +53,8 @@ For example, some of the ones I like are:
 - https://www.joshwcomeau.com/
 - https://ciechanow.ski/
 Comments URL: https://news.ycombinator.com/item?id=27302195
-Points: 114
-# Comments: 68]]></summary>
+Points: 186
+# Comments: 95]]></summary>
         <author>
             <name>zffr</name>
         </author>
@@ -43,8 +66,8 @@ Points: 114
         <updated>2021-05-27T12:16:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Kristy_Viers/status/1287189581926981634
 Comments URL: https://news.ycombinator.com/item?id=27302074
-Points: 64
-# Comments: 9]]></summary>
+Points: 139
+# Comments: 38]]></summary>
         <author>
             <name>eevilspock</name>
         </author>
@@ -69,23 +92,10 @@ Points: 1
         <updated>2021-05-27T11:52:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://interconnected.org/home/2021/05/27/charlie
 Comments URL: https://news.ycombinator.com/item?id=27301899
-Points: 10
-# Comments: 0]]></summary>
+Points: 26
+# Comments: 24]]></summary>
         <author>
             <name>tmfi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia reports 'unprecedented' hacking campaign aimed at government agencies]]></title>
-        <id>https://news.ycombinator.com/item?id=27301603</id>
-        <link href="https://www.reuters.com/technology/russias-fsb-reports-unprecedented-hacking-campaign-aimed-government-agencies-2021-05-26/"/>
-        <updated>2021-05-27T11:18:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/russias-fsb-reports-unprecedented-hacking-campaign-aimed-government-agencies-2021-05-26/
-Comments URL: https://news.ycombinator.com/item?id=27301603
-Points: 56
-# Comments: 23]]></summary>
-        <author>
-            <name>georgecmu</name>
         </author>
     </entry>
     <entry>
@@ -95,8 +105,8 @@ Points: 56
         <updated>2021-05-27T10:28:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/esraefe/status/1397842160607711232
 Comments URL: https://news.ycombinator.com/item?id=27301219
-Points: 185
-# Comments: 51]]></summary>
+Points: 216
+# Comments: 91]]></summary>
         <author>
             <name>danielstocks</name>
         </author>
@@ -118,8 +128,8 @@ Points: 185
         <updated>2021-05-27T09:14:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57254488
 Comments URL: https://news.ycombinator.com/item?id=27300843
-Points: 83
-# Comments: 92]]></summary>
+Points: 95
+# Comments: 97]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -131,8 +141,8 @@ Points: 83
         <updated>2021-05-27T09:14:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57254962
 Comments URL: https://news.ycombinator.com/item?id=27300833
-Points: 88
-# Comments: 49]]></summary>
+Points: 103
+# Comments: 69]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -144,8 +154,8 @@ Points: 88
         <updated>2021-05-27T09:08:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/europe/protasevich-street-bucharest-mulls-changing-address-belarusian-embassy-2021-05-27/
 Comments URL: https://news.ycombinator.com/item?id=27300799
-Points: 207
-# Comments: 155]]></summary>
+Points: 219
+# Comments: 167]]></summary>
         <author>
             <name>johnnycerberus</name>
         </author>
@@ -157,8 +167,8 @@ Points: 207
         <updated>2021-05-27T09:02:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information
 Comments URL: https://news.ycombinator.com/item?id=27300764
-Points: 63
-# Comments: 11]]></summary>
+Points: 75
+# Comments: 21]]></summary>
         <author>
             <name>KoftaBob</name>
         </author>
@@ -175,8 +185,8 @@ Not seeking a particular piece of advice, more looking for somebody to have a co
 End goal as of now: assemble a few great minds, give them the space to work rent-free in a region with good academic infrastructure, ideally let them collaborate, watch the beauty of it.
 If relevant, an LLC-like structure is available for making this happen, but not 100% sold on how to approach this from a legal perspective.
 Comments URL: https://news.ycombinator.com/item?id=27300594
-Points: 124
-# Comments: 69]]></summary>
+Points: 142
+# Comments: 79]]></summary>
         <author>
             <name>akhann</name>
         </author>
@@ -188,8 +198,8 @@ Points: 124
         <updated>2021-05-27T07:57:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thedailybeast.com/bomb-threat-cited-in-belarus-hijacking-came-24-minutes-after
 Comments URL: https://news.ycombinator.com/item?id=27300469
-Points: 100
-# Comments: 24]]></summary>
+Points: 122
+# Comments: 38]]></summary>
         <author>
             <name>maratc</name>
         </author>
@@ -201,8 +211,8 @@ Points: 100
         <updated>2021-05-27T07:48:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medlifestyle.news/2021/05/26/immediate-skin-to-skin-contact-with-unstable-newborns-improves-premature-babies-chances-of-survival/
 Comments URL: https://news.ycombinator.com/item?id=27300429
-Points: 75
-# Comments: 32]]></summary>
+Points: 102
+# Comments: 45]]></summary>
         <author>
             <name>billyharris</name>
         </author>
@@ -214,10 +224,23 @@ Points: 75
         <updated>2021-05-27T03:00:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.well.com/
 Comments URL: https://news.ycombinator.com/item?id=27298862
-Points: 70
-# Comments: 48]]></summary>
+Points: 73
+# Comments: 51]]></summary>
         <author>
             <name>graderjs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional Programming in Go with Generics]]></title>
+        <id>https://news.ycombinator.com/item?id=27298506</id>
+        <link href="https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/"/>
+        <updated>2021-05-27T01:58:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
+Comments URL: https://news.ycombinator.com/item?id=27298506
+Points: 77
+# Comments: 60]]></summary>
+        <author>
+            <name>ngaut</name>
         </author>
     </entry>
     <entry>
@@ -227,10 +250,23 @@ Points: 70
         <updated>2021-05-27T01:45:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/OpenHD/Open.HD
 Comments URL: https://news.ycombinator.com/item?id=27298422
-Points: 177
-# Comments: 27]]></summary>
+Points: 182
+# Comments: 29]]></summary>
         <author>
             <name>danboarder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A.I. Is Solving the Wrong Problem]]></title>
+        <id>https://news.ycombinator.com/item?id=27298343</id>
+        <link href="https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd"/>
+        <updated>2021-05-27T01:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd
+Comments URL: https://news.ycombinator.com/item?id=27298343
+Points: 64
+# Comments: 67]]></summary>
+        <author>
+            <name>mbellotti</name>
         </author>
     </entry>
     <entry>
@@ -240,8 +276,8 @@ Points: 177
         <updated>2021-05-27T00:01:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://river-runner.samlearner.com/
 Comments URL: https://news.ycombinator.com/item?id=27297689
-Points: 602
-# Comments: 89]]></summary>
+Points: 634
+# Comments: 95]]></summary>
         <author>
             <name>prawn</name>
         </author>
@@ -263,8 +299,8 @@ Points: 602
         <updated>2021-05-26T20:49:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
 Comments URL: https://news.ycombinator.com/item?id=27295906
-Points: 624
-# Comments: 340]]></summary>
+Points: 629
+# Comments: 347]]></summary>
         <author>
             <name>djoldman</name>
         </author>
@@ -322,32 +358,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have you ever hurt yourself from your own code?]]></title>
-        <id>https://news.ycombinator.com/item?id=27292219</id>
-        <link href="https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code"/>
-        <updated>2021-05-26T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code
-Comments URL: https://news.ycombinator.com/item?id=27292219
-Points: 401
-# Comments: 224]]></summary>
-        <author>
-            <name>its_nikita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neovim 0.5 is overpowering]]></title>
-        <id>https://news.ycombinator.com/item?id=27291302</id>
-        <link href="https://crispgm.com/page/neovim-is-overpowering.html"/>
-        <updated>2021-05-26T14:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
-Comments URL: https://news.ycombinator.com/item?id=27291302
-Points: 718
-# Comments: 396]]></summary>
-        <author>
-            <name>imbnwa</name>
         </author>
     </entry>
     <entry>
