@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T22:21:35.121Z</updated>
+    <updated>2021-05-27T23:24:25.746Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Second-Guessing the Modern Web]]></title>
+        <id>https://news.ycombinator.com/item?id=27308982</id>
+        <link href="https://macwright.com/2020/05/10/spa-fatigue.html"/>
+        <updated>2021-05-27T21:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://macwright.com/2020/05/10/spa-fatigue.html
+Comments URL: https://news.ycombinator.com/item?id=27308982
+Points: 29
+# Comments: 9]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finley (YC W21) is hiring remote software engineers]]></title>
         <id>https://news.ycombinator.com/item?id=27308475</id>
@@ -20,14 +33,40 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I raised a $5M seed as first-time, female, solo founder for biotech moonshot]]></title>
+        <id>https://news.ycombinator.com/item?id=27307977</id>
+        <link href="https://www.celinehh.com/seed-raise-how-to"/>
+        <updated>2021-05-27T20:28:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.celinehh.com/seed-raise-how-to
+Comments URL: https://news.ycombinator.com/item?id=27307977
+Points: 31
+# Comments: 3]]></summary>
+        <author>
+            <name>walterbell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intuition for Lisp Syntax]]></title>
+        <id>https://news.ycombinator.com/item?id=27307388</id>
+        <link href="https://stopa.io/post/265?repost=true"/>
+        <updated>2021-05-27T19:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stopa.io/post/265?repost=true
+Comments URL: https://news.ycombinator.com/item?id=27307388
+Points: 14
+# Comments: 2]]></summary>
+        <author>
+            <name>codetrotter</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The media's lab leak fiasco]]></title>
         <id>https://news.ycombinator.com/item?id=27307175</id>
         <link href="https://www.slowboring.com/p/the-medias-lab-leak-fiasco"/>
         <updated>2021-05-27T19:34:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.slowboring.com/p/the-medias-lab-leak-fiasco
 Comments URL: https://news.ycombinator.com/item?id=27307175
-Points: 126
-# Comments: 141]]></summary>
+Points: 182
+# Comments: 211]]></summary>
         <author>
             <name>ksec</name>
         </author>
@@ -39,8 +78,8 @@ Points: 126
         <updated>2021-05-27T18:59:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/y3dpyw/inside-crime-app-citizen-vigilante
 Comments URL: https://news.ycombinator.com/item?id=27306754
-Points: 183
-# Comments: 125]]></summary>
+Points: 196
+# Comments: 152]]></summary>
         <author>
             <name>hemloc_io</name>
         </author>
@@ -52,8 +91,8 @@ Points: 183
         <updated>2021-05-27T18:58:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/
 Comments URL: https://news.ycombinator.com/item?id=27306742
-Points: 91
-# Comments: 50]]></summary>
+Points: 124
+# Comments: 107]]></summary>
         <author>
             <name>StratusBen</name>
         </author>
@@ -80,8 +119,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-27T18:16:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jsonlogic.com/
 Comments URL: https://news.ycombinator.com/item?id=27306263
-Points: 180
-# Comments: 157]]></summary>
+Points: 187
+# Comments: 164]]></summary>
         <author>
             <name>sebmellen</name>
         </author>
@@ -103,8 +142,8 @@ Points: 180
         <updated>2021-05-27T17:29:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57244708
 Comments URL: https://news.ycombinator.com/item?id=27305666
-Points: 59
-# Comments: 40]]></summary>
+Points: 68
+# Comments: 58]]></summary>
         <author>
             <name>tooltower</name>
         </author>
@@ -116,23 +155,10 @@ Points: 59
         <updated>2021-05-27T17:17:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stacked-git.github.io/
 Comments URL: https://news.ycombinator.com/item?id=27305521
-Points: 82
-# Comments: 45]]></summary>
+Points: 93
+# Comments: 47]]></summary>
         <author>
             <name>pcr910303</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Better Fog-Trap]]></title>
-        <id>https://news.ycombinator.com/item?id=27305163</id>
-        <link href="https://www.economist.com/science-and-technology/2021/05/26/a-better-fog-trap"/>
-        <updated>2021-05-27T16:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/05/26/a-better-fog-trap
-Comments URL: https://news.ycombinator.com/item?id=27305163
-Points: 39
-# Comments: 8]]></summary>
-        <author>
-            <name>edward</name>
         </author>
     </entry>
     <entry>
@@ -142,8 +168,8 @@ Points: 39
         <updated>2021-05-27T16:47:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/
 Comments URL: https://news.ycombinator.com/item?id=27305127
-Points: 98
-# Comments: 41]]></summary>
+Points: 112
+# Comments: 47]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -155,8 +181,8 @@ Points: 98
         <updated>2021-05-27T16:37:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/
 Comments URL: https://news.ycombinator.com/item?id=27305022
-Points: 133
-# Comments: 80]]></summary>
+Points: 145
+# Comments: 88]]></summary>
         <author>
             <name>KhoomeiK</name>
         </author>
@@ -168,8 +194,8 @@ Points: 133
         <updated>2021-05-27T16:19:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://v8.dev/blog/sparkplug
 Comments URL: https://news.ycombinator.com/item?id=27304808
-Points: 196
-# Comments: 82]]></summary>
+Points: 211
+# Comments: 87]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -185,27 +211,14 @@ Points: 196
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rocky Linux releases its first release candidate]]></title>
-        <id>https://news.ycombinator.com/item?id=27304012</id>
-        <link href="https://rockylinux.org/download"/>
-        <updated>2021-05-27T15:07:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rockylinux.org/download
-Comments URL: https://news.ycombinator.com/item?id=27304012
-Points: 132
-# Comments: 100]]></summary>
-        <author>
-            <name>sparcpile</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Phil's Old Radios]]></title>
         <id>https://news.ycombinator.com/item?id=27303881</id>
         <link href="https://antiqueradio.org/welcome.htm"/>
         <updated>2021-05-27T14:54:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://antiqueradio.org/welcome.htm
 Comments URL: https://news.ycombinator.com/item?id=27303881
-Points: 72
-# Comments: 15]]></summary>
+Points: 77
+# Comments: 17]]></summary>
         <author>
             <name>js2</name>
         </author>
@@ -217,8 +230,8 @@ Points: 72
         <updated>2021-05-27T14:47:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/nocodb/nocodb
 Comments URL: https://news.ycombinator.com/item?id=27303783
-Points: 254
-# Comments: 76]]></summary>
+Points: 299
+# Comments: 95]]></summary>
         <author>
             <name>nocodb</name>
         </author>
@@ -230,8 +243,8 @@ Points: 254
         <updated>2021-05-27T14:39:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://convect.ml
 Comments URL: https://news.ycombinator.com/item?id=27303690
-Points: 58
-# Comments: 16]]></summary>
+Points: 61
+# Comments: 17]]></summary>
         <author>
             <name>sameerank</name>
         </author>
@@ -267,8 +280,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-27T14:01:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers
 Comments URL: https://news.ycombinator.com/item?id=27303227
-Points: 192
-# Comments: 91]]></summary>
+Points: 201
+# Comments: 95]]></summary>
         <author>
             <name>ksec</name>
         </author>
@@ -290,8 +303,8 @@ Points: 192
         <updated>2021-05-27T13:16:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en/plus
 Comments URL: https://news.ycombinator.com/item?id=27302702
-Points: 451
-# Comments: 179]]></summary>
+Points: 463
+# Comments: 187]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -307,8 +320,8 @@ For example, some of the ones I like are:
 - https://www.joshwcomeau.com/
 - https://ciechanow.ski/
 Comments URL: https://news.ycombinator.com/item?id=27302195
-Points: 599
-# Comments: 217]]></summary>
+Points: 616
+# Comments: 223]]></summary>
         <author>
             <name>zffr</name>
         </author>
@@ -320,23 +333,10 @@ Points: 599
         <updated>2021-05-27T12:16:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Kristy_Viers/status/1287189581926981634
 Comments URL: https://news.ycombinator.com/item?id=27302074
-Points: 606
-# Comments: 175]]></summary>
+Points: 636
+# Comments: 181]]></summary>
         <author>
             <name>eevilspock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I made a free blogging/bookmarking platform with discussions/discovery]]></title>
-        <id>https://news.ycombinator.com/item?id=27301495</id>
-        <link href="http://wndr.xyz"/>
-        <updated>2021-05-27T11:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://wndr.xyz
-Comments URL: https://news.ycombinator.com/item?id=27301495
-Points: 23
-# Comments: 7]]></summary>
-        <author>
-            <name>TheRealNGenius</name>
         </author>
     </entry>
     <entry>
