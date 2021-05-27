@@ -2,21 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T14:34:08.934Z</updated>
+    <updated>2021-05-27T15:25:36.695Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Jeff Bezos will step down as Amazon CEO on July 5]]></title>
-        <id>https://news.ycombinator.com/item?id=27303028</id>
-        <link href="https://www.cnn.com/2021/05/26/tech/jeff-bezos-andy-jassy-amazon-ceo/index.html"/>
-        <updated>2021-05-27T13:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnn.com/2021/05/26/tech/jeff-bezos-andy-jassy-amazon-ceo/index.html
-Comments URL: https://news.ycombinator.com/item?id=27303028
-Points: 139
-# Comments: 33]]></summary>
+        <title type="html"><![CDATA[Google to use patient data to develop healthcare algorithms for hospital chain]]></title>
+        <id>https://news.ycombinator.com/item?id=27304146</id>
+        <link href="https://www.theverge.com/2021/5/26/22454817/google-hca-patient-data-healthcare-algorithms"/>
+        <updated>2021-05-27T15:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/5/26/22454817/google-hca-patient-data-healthcare-algorithms
+Comments URL: https://news.ycombinator.com/item?id=27304146
+Points: 4
+# Comments: 0]]></summary>
         <author>
-            <name>brutus1213</name>
+            <name>gmays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
+        <id>60a325c6906c5207e3a7da25</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
+        <updated>2021-05-27T15:16:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Court rules encrypted email provider Tutanota must monitor messages]]></title>
+        <id>https://news.ycombinator.com/item?id=27303712</id>
+        <link href="https://www.cyberscoop.com/court-rules-encrypted-email-tutanota-monitor-messages/"/>
+        <updated>2021-05-27T14:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cyberscoop.com/court-rules-encrypted-email-tutanota-monitor-messages/
+Comments URL: https://news.ycombinator.com/item?id=27303712
+Points: 13
+# Comments: 5]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Show Images on Click]]></title>
+        <id>https://css-tricks.com/?p=341020</id>
+        <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
+        <updated>2021-05-27T14:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t event that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …
+The post How to Show Images on Click appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
+        <id>https://css-tricks.com/?p=340910</id>
+        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
+        <updated>2021-05-27T14:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
+The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Michael Rispoli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvell Announces First PCIe 5.0 NVMe SSD Controllers: Up to 14 GB/S]]></title>
+        <id>https://news.ycombinator.com/item?id=27303227</id>
+        <link href="https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers"/>
+        <updated>2021-05-27T14:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers
+Comments URL: https://news.ycombinator.com/item?id=27303227
+Points: 18
+# Comments: 4]]></summary>
+        <author>
+            <name>ksec</name>
         </author>
     </entry>
     <entry>
@@ -36,8 +96,8 @@ Points: 139
         <updated>2021-05-27T13:16:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en/plus
 Comments URL: https://news.ycombinator.com/item?id=27302702
-Points: 157
-# Comments: 79]]></summary>
+Points: 215
+# Comments: 102]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -53,8 +113,8 @@ For example, some of the ones I like are:
 - https://www.joshwcomeau.com/
 - https://ciechanow.ski/
 Comments URL: https://news.ycombinator.com/item?id=27302195
-Points: 186
-# Comments: 95]]></summary>
+Points: 257
+# Comments: 113]]></summary>
         <author>
             <name>zffr</name>
         </author>
@@ -66,8 +126,8 @@ Points: 186
         <updated>2021-05-27T12:16:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Kristy_Viers/status/1287189581926981634
 Comments URL: https://news.ycombinator.com/item?id=27302074
-Points: 139
-# Comments: 38]]></summary>
+Points: 226
+# Comments: 62]]></summary>
         <author>
             <name>eevilspock</name>
         </author>
@@ -86,16 +146,16 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the Impending Deletion of Charlie Bit My Finger]]></title>
-        <id>https://news.ycombinator.com/item?id=27301899</id>
-        <link href="https://interconnected.org/home/2021/05/27/charlie"/>
-        <updated>2021-05-27T11:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://interconnected.org/home/2021/05/27/charlie
-Comments URL: https://news.ycombinator.com/item?id=27301899
-Points: 26
-# Comments: 24]]></summary>
+        <title type="html"><![CDATA[1991: Trade Wars 2002]]></title>
+        <id>https://news.ycombinator.com/item?id=27301478</id>
+        <link href="https://if50.substack.com/p/1991-trade-wars-2002"/>
+        <updated>2021-05-27T11:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://if50.substack.com/p/1991-trade-wars-2002
+Comments URL: https://news.ycombinator.com/item?id=27301478
+Points: 12
+# Comments: 3]]></summary>
         <author>
-            <name>tmfi</name>
+            <name>TheLocehiliosan</name>
         </author>
     </entry>
     <entry>
@@ -105,8 +165,8 @@ Points: 26
         <updated>2021-05-27T10:28:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/esraefe/status/1397842160607711232
 Comments URL: https://news.ycombinator.com/item?id=27301219
-Points: 216
-# Comments: 91]]></summary>
+Points: 273
+# Comments: 129]]></summary>
         <author>
             <name>danielstocks</name>
         </author>
@@ -128,8 +188,8 @@ Points: 216
         <updated>2021-05-27T09:14:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57254488
 Comments URL: https://news.ycombinator.com/item?id=27300843
-Points: 95
-# Comments: 97]]></summary>
+Points: 108
+# Comments: 100]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -141,23 +201,10 @@ Points: 95
         <updated>2021-05-27T09:14:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57254962
 Comments URL: https://news.ycombinator.com/item?id=27300833
-Points: 103
-# Comments: 69]]></summary>
+Points: 115
+# Comments: 75]]></summary>
         <author>
             <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protasevich Street? Bucharest mulls changing address of Belarusian embassy]]></title>
-        <id>https://news.ycombinator.com/item?id=27300799</id>
-        <link href="https://www.reuters.com/world/europe/protasevich-street-bucharest-mulls-changing-address-belarusian-embassy-2021-05-27/"/>
-        <updated>2021-05-27T09:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/europe/protasevich-street-bucharest-mulls-changing-address-belarusian-embassy-2021-05-27/
-Comments URL: https://news.ycombinator.com/item?id=27300799
-Points: 219
-# Comments: 167]]></summary>
-        <author>
-            <name>johnnycerberus</name>
         </author>
     </entry>
     <entry>
@@ -167,8 +214,8 @@ Points: 219
         <updated>2021-05-27T09:02:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information
 Comments URL: https://news.ycombinator.com/item?id=27300764
-Points: 75
-# Comments: 21]]></summary>
+Points: 95
+# Comments: 25]]></summary>
         <author>
             <name>KoftaBob</name>
         </author>
@@ -185,8 +232,8 @@ Not seeking a particular piece of advice, more looking for somebody to have a co
 End goal as of now: assemble a few great minds, give them the space to work rent-free in a region with good academic infrastructure, ideally let them collaborate, watch the beauty of it.
 If relevant, an LLC-like structure is available for making this happen, but not 100% sold on how to approach this from a legal perspective.
 Comments URL: https://news.ycombinator.com/item?id=27300594
-Points: 142
-# Comments: 79]]></summary>
+Points: 162
+# Comments: 89]]></summary>
         <author>
             <name>akhann</name>
         </author>
@@ -198,8 +245,8 @@ Points: 142
         <updated>2021-05-27T07:57:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thedailybeast.com/bomb-threat-cited-in-belarus-hijacking-came-24-minutes-after
 Comments URL: https://news.ycombinator.com/item?id=27300469
-Points: 122
-# Comments: 38]]></summary>
+Points: 149
+# Comments: 43]]></summary>
         <author>
             <name>maratc</name>
         </author>
@@ -211,8 +258,8 @@ Points: 122
         <updated>2021-05-27T07:48:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medlifestyle.news/2021/05/26/immediate-skin-to-skin-contact-with-unstable-newborns-improves-premature-babies-chances-of-survival/
 Comments URL: https://news.ycombinator.com/item?id=27300429
-Points: 102
-# Comments: 45]]></summary>
+Points: 129
+# Comments: 64]]></summary>
         <author>
             <name>billyharris</name>
         </author>
@@ -224,7 +271,7 @@ Points: 102
         <updated>2021-05-27T03:00:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.well.com/
 Comments URL: https://news.ycombinator.com/item?id=27298862
-Points: 73
+Points: 76
 # Comments: 51]]></summary>
         <author>
             <name>graderjs</name>
@@ -237,8 +284,8 @@ Points: 73
         <updated>2021-05-27T01:58:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
 Comments URL: https://news.ycombinator.com/item?id=27298506
-Points: 77
-# Comments: 60]]></summary>
+Points: 86
+# Comments: 65]]></summary>
         <author>
             <name>ngaut</name>
         </author>
@@ -250,7 +297,7 @@ Points: 77
         <updated>2021-05-27T01:45:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/OpenHD/Open.HD
 Comments URL: https://news.ycombinator.com/item?id=27298422
-Points: 182
+Points: 193
 # Comments: 29]]></summary>
         <author>
             <name>danboarder</name>
@@ -263,8 +310,8 @@ Points: 182
         <updated>2021-05-27T01:31:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd
 Comments URL: https://news.ycombinator.com/item?id=27298343
-Points: 64
-# Comments: 67]]></summary>
+Points: 74
+# Comments: 71]]></summary>
         <author>
             <name>mbellotti</name>
         </author>
@@ -276,8 +323,8 @@ Points: 64
         <updated>2021-05-27T00:01:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://river-runner.samlearner.com/
 Comments URL: https://news.ycombinator.com/item?id=27297689
-Points: 634
-# Comments: 95]]></summary>
+Points: 663
+# Comments: 101]]></summary>
         <author>
             <name>prawn</name>
         </author>
@@ -290,19 +337,6 @@ Points: 634
         <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collusion rings threaten the integrity of computer science research]]></title>
-        <id>https://news.ycombinator.com/item?id=27295906</id>
-        <link href="https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext"/>
-        <updated>2021-05-26T20:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
-Comments URL: https://news.ycombinator.com/item?id=27295906
-Points: 629
-# Comments: 347]]></summary>
-        <author>
-            <name>djoldman</name>
         </author>
     </entry>
     <entry>
@@ -498,16 +532,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
-        <id>60626dc29618b008528a9589</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/"/>
-        <updated>2021-05-25T00:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Links on Performance]]></title>
         <id>https://css-tricks.com/?p=340808</id>
         <link href="https://css-tricks.com/links-on-performance/"/>
@@ -646,30 +670,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-20T21:51:43.000Z</updated>
         <summary type="html"><![CDATA[Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …
 The post Learn CSS! appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can We Create a “Resize Hack” With Container Queries?]]></title>
-        <id>https://css-tricks.com/?p=340715</id>
-        <link href="https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/"/>
-        <updated>2021-05-20T14:24:12.000Z</updated>
-        <summary type="html"><![CDATA[If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …
-The post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jhey Tompkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fit-content and fit-content()]]></title>
-        <id>https://css-tricks.com/?p=340897</id>
-        <link href="https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html"/>
-        <updated>2021-05-20T14:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …
-The post fit-content and fit-content() appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
