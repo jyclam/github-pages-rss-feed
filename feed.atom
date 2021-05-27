@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T07:59:31.585Z</updated>
+    <updated>2021-05-27T08:51:54.312Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -26,8 +26,8 @@ Points: 1
         <updated>2021-05-27T06:31:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/billmckibben/status/1397635499611889664
 Comments URL: https://news.ycombinator.com/item?id=27300043
-Points: 11
-# Comments: 8]]></summary>
+Points: 21
+# Comments: 24]]></summary>
         <author>
             <name>chha</name>
         </author>
@@ -39,7 +39,7 @@ Points: 11
         <updated>2021-05-27T05:56:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rachelbythebay.com/w/2021/05/26/irc/
 Comments URL: https://news.ycombinator.com/item?id=27299839
-Points: 18
+Points: 28
 # Comments: 1]]></summary>
         <author>
             <name>Tomte</name>
@@ -52,23 +52,10 @@ Points: 18
         <updated>2021-05-27T03:00:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.well.com/
 Comments URL: https://news.ycombinator.com/item?id=27298862
-Points: 43
-# Comments: 29]]></summary>
+Points: 46
+# Comments: 31]]></summary>
         <author>
             <name>graderjs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functional Programming in Go with Generics]]></title>
-        <id>https://news.ycombinator.com/item?id=27298506</id>
-        <link href="https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/"/>
-        <updated>2021-05-27T01:58:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
-Comments URL: https://news.ycombinator.com/item?id=27298506
-Points: 52
-# Comments: 46]]></summary>
-        <author>
-            <name>ngaut</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +65,8 @@ Points: 52
         <updated>2021-05-27T01:45:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/OpenHD/Open.HD
 Comments URL: https://news.ycombinator.com/item?id=27298422
-Points: 113
-# Comments: 16]]></summary>
+Points: 125
+# Comments: 19]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -91,8 +78,8 @@ Points: 113
         <updated>2021-05-27T01:31:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd
 Comments URL: https://news.ycombinator.com/item?id=27298343
-Points: 31
-# Comments: 25]]></summary>
+Points: 40
+# Comments: 31]]></summary>
         <author>
             <name>mbellotti</name>
         </author>
@@ -104,8 +91,8 @@ Points: 31
         <updated>2021-05-27T00:01:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://river-runner.samlearner.com/
 Comments URL: https://news.ycombinator.com/item?id=27297689
-Points: 227
-# Comments: 31]]></summary>
+Points: 281
+# Comments: 35]]></summary>
         <author>
             <name>prawn</name>
         </author>
@@ -127,7 +114,7 @@ Points: 227
         <updated>2021-05-26T21:26:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://waseem.substack.com/p/you-cant-have-too-many-angels
 Comments URL: https://news.ycombinator.com/item?id=27296330
-Points: 104
+Points: 105
 # Comments: 58]]></summary>
         <author>
             <name>wdaher</name>
@@ -140,8 +127,8 @@ Points: 104
         <updated>2021-05-26T20:49:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
 Comments URL: https://news.ycombinator.com/item?id=27295906
-Points: 524
-# Comments: 276]]></summary>
+Points: 549
+# Comments: 289]]></summary>
         <author>
             <name>djoldman</name>
         </author>
@@ -153,8 +140,8 @@ Points: 524
         <updated>2021-05-26T19:21:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/
 Comments URL: https://news.ycombinator.com/item?id=27294890
-Points: 289
-# Comments: 80]]></summary>
+Points: 297
+# Comments: 81]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -166,8 +153,8 @@ Points: 289
         <updated>2021-05-26T18:45:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://oxide.computer
 Comments URL: https://news.ycombinator.com/item?id=27294471
-Points: 744
-# Comments: 211]]></summary>
+Points: 763
+# Comments: 214]]></summary>
         <author>
             <name>ykl</name>
         </author>
@@ -179,8 +166,8 @@ Points: 744
         <updated>2021-05-26T18:39:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
 Comments URL: https://news.ycombinator.com/item?id=27294401
-Points: 142
-# Comments: 29]]></summary>
+Points: 145
+# Comments: 30]]></summary>
         <author>
             <name>panabee</name>
         </author>
@@ -193,7 +180,7 @@ Points: 142
         <summary type="html"><![CDATA[Article URL: https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm
 Comments URL: https://news.ycombinator.com/item?id=27294355
 Points: 70
-# Comments: 6]]></summary>
+# Comments: 8]]></summary>
         <author>
             <name>rmason</name>
         </author>
@@ -225,8 +212,8 @@ Points: 70
         <updated>2021-05-26T17:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.findareddit.com/
 Comments URL: https://news.ycombinator.com/item?id=27293902
-Points: 310
-# Comments: 155]]></summary>
+Points: 323
+# Comments: 158]]></summary>
         <author>
             <name>thisissidhant</name>
         </author>
@@ -263,23 +250,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-26T17:43:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openai.com/fund/
 Comments URL: https://news.ycombinator.com/item?id=27293676
-Points: 182
-# Comments: 88]]></summary>
+Points: 190
+# Comments: 93]]></summary>
         <author>
             <name>cl42</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Different browsers see different colors]]></title>
-        <id>https://news.ycombinator.com/item?id=27293266</id>
-        <link href="https://mux.com/blog/your-browser-and-my-browser-see-different-colors/"/>
-        <updated>2021-05-26T17:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mux.com/blog/your-browser-and-my-browser-see-different-colors/
-Comments URL: https://news.ycombinator.com/item?id=27293266
-Points: 186
-# Comments: 75]]></summary>
-        <author>
-            <name>slimscsi</name>
         </author>
     </entry>
     <entry>
@@ -289,8 +263,8 @@ Points: 186
         <updated>2021-05-26T17:03:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/
 Comments URL: https://news.ycombinator.com/item?id=27293108
-Points: 88
-# Comments: 51]]></summary>
+Points: 91
+# Comments: 52]]></summary>
         <author>
             <name>jayp1418</name>
         </author>
@@ -312,8 +286,8 @@ Points: 88
         <updated>2021-05-26T16:00:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code
 Comments URL: https://news.ycombinator.com/item?id=27292219
-Points: 278
-# Comments: 150]]></summary>
+Points: 305
+# Comments: 165]]></summary>
         <author>
             <name>its_nikita</name>
         </author>
@@ -325,8 +299,8 @@ Points: 278
         <updated>2021-05-26T14:56:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
 Comments URL: https://news.ycombinator.com/item?id=27291302
-Points: 673
-# Comments: 364]]></summary>
+Points: 676
+# Comments: 370]]></summary>
         <author>
             <name>imbnwa</name>
         </author>
@@ -362,6 +336,32 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carie Fisher)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A study in North Carolina of dying trees]]></title>
+        <id>https://news.ycombinator.com/item?id=27289479</id>
+        <link href="https://www.smithsonianmag.com/science-nature/why-ecologists-are-haunted-rapid-growth-ghost-forests-180977674/"/>
+        <updated>2021-05-26T12:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/science-nature/why-ecologists-are-haunted-rapid-growth-ghost-forests-180977674/
+Comments URL: https://news.ycombinator.com/item?id=27289479
+Points: 58
+# Comments: 26]]></summary>
+        <author>
+            <name>ryan_j_naughton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a RISC-V CPU from scratch]]></title>
+        <id>https://news.ycombinator.com/item?id=27289213</id>
+        <link href="https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch"/>
+        <updated>2021-05-26T11:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch
+Comments URL: https://news.ycombinator.com/item?id=27289213
+Points: 77
+# Comments: 16]]></summary>
+        <author>
+            <name>azhenley</name>
         </author>
     </entry>
     <entry>
