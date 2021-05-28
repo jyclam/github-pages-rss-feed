@@ -2,19 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T23:24:25.746Z</updated>
+    <updated>2021-05-28T01:07:10.139Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Second-Guessing the Modern Web]]></title>
+        <title type="html"><![CDATA[QUIC is now RFC 9000]]></title>
+        <id>https://news.ycombinator.com/item?id=27310349</id>
+        <link href="https://www.fastly.com/blog/quic-is-now-rfc-9000"/>
+        <updated>2021-05-28T00:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fastly.com/blog/quic-is-now-rfc-9000
+Comments URL: https://news.ycombinator.com/item?id=27310349
+Points: 30
+# Comments: 3]]></summary>
+        <author>
+            <name>blucell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A six figure meme making job at a legit company]]></title>
+        <id>https://news.ycombinator.com/item?id=27310343</id>
+        <link href="https://twitter.com/nateliason/status/1397719837204418561"/>
+        <updated>2021-05-28T00:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/nateliason/status/1397719837204418561
+Comments URL: https://news.ycombinator.com/item?id=27310343
+Points: 16
+# Comments: 2]]></summary>
+        <author>
+            <name>sergeant3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27310179</id>
+        <link href="https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html"/>
+        <updated>2021-05-28T00:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html
+Comments URL: https://news.ycombinator.com/item?id=27310179
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>diodorus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second-guessing the modern web (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27308982</id>
         <link href="https://macwright.com/2020/05/10/spa-fatigue.html"/>
         <updated>2021-05-27T21:48:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://macwright.com/2020/05/10/spa-fatigue.html
 Comments URL: https://news.ycombinator.com/item?id=27308982
-Points: 29
-# Comments: 9]]></summary>
+Points: 135
+# Comments: 72]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -33,27 +72,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I raised a $5M seed as first-time, female, solo founder for biotech moonshot]]></title>
-        <id>https://news.ycombinator.com/item?id=27307977</id>
-        <link href="https://www.celinehh.com/seed-raise-how-to"/>
-        <updated>2021-05-27T20:28:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.celinehh.com/seed-raise-how-to
-Comments URL: https://news.ycombinator.com/item?id=27307977
-Points: 31
-# Comments: 3]]></summary>
-        <author>
-            <name>walterbell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An Intuition for Lisp Syntax]]></title>
         <id>https://news.ycombinator.com/item?id=27307388</id>
         <link href="https://stopa.io/post/265?repost=true"/>
         <updated>2021-05-27T19:50:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stopa.io/post/265?repost=true
 Comments URL: https://news.ycombinator.com/item?id=27307388
-Points: 14
-# Comments: 2]]></summary>
+Points: 47
+# Comments: 12]]></summary>
         <author>
             <name>codetrotter</name>
         </author>
@@ -65,36 +91,10 @@ Points: 14
         <updated>2021-05-27T19:34:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.slowboring.com/p/the-medias-lab-leak-fiasco
 Comments URL: https://news.ycombinator.com/item?id=27307175
-Points: 182
-# Comments: 211]]></summary>
+Points: 255
+# Comments: 345]]></summary>
         <author>
             <name>ksec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citizen’s dangerous effort to cash in on vigilantism]]></title>
-        <id>https://news.ycombinator.com/item?id=27306754</id>
-        <link href="https://www.vice.com/en/article/y3dpyw/inside-crime-app-citizen-vigilante"/>
-        <updated>2021-05-27T18:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/y3dpyw/inside-crime-app-citizen-vigilante
-Comments URL: https://news.ycombinator.com/item?id=27306754
-Points: 196
-# Comments: 152]]></summary>
-        <author>
-            <name>hemloc_io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The cost of cloud, a trillion dollar paradox]]></title>
-        <id>https://news.ycombinator.com/item?id=27306742</id>
-        <link href="https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/"/>
-        <updated>2021-05-27T18:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/
-Comments URL: https://news.ycombinator.com/item?id=27306742
-Points: 124
-# Comments: 107]]></summary>
-        <author>
-            <name>StratusBen</name>
         </author>
     </entry>
     <entry>
@@ -119,8 +119,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-27T18:16:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jsonlogic.com/
 Comments URL: https://news.ycombinator.com/item?id=27306263
-Points: 187
-# Comments: 164]]></summary>
+Points: 195
+# Comments: 185]]></summary>
         <author>
             <name>sebmellen</name>
         </author>
@@ -142,8 +142,8 @@ Points: 187
         <updated>2021-05-27T17:29:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57244708
 Comments URL: https://news.ycombinator.com/item?id=27305666
-Points: 68
-# Comments: 58]]></summary>
+Points: 79
+# Comments: 71]]></summary>
         <author>
             <name>tooltower</name>
         </author>
@@ -155,8 +155,8 @@ Points: 68
         <updated>2021-05-27T17:17:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stacked-git.github.io/
 Comments URL: https://news.ycombinator.com/item?id=27305521
-Points: 93
-# Comments: 47]]></summary>
+Points: 101
+# Comments: 52]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -168,8 +168,8 @@ Points: 93
         <updated>2021-05-27T16:47:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/
 Comments URL: https://news.ycombinator.com/item?id=27305127
-Points: 112
-# Comments: 47]]></summary>
+Points: 131
+# Comments: 50]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -181,8 +181,8 @@ Points: 112
         <updated>2021-05-27T16:37:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/
 Comments URL: https://news.ycombinator.com/item?id=27305022
-Points: 145
-# Comments: 88]]></summary>
+Points: 164
+# Comments: 102]]></summary>
         <author>
             <name>KhoomeiK</name>
         </author>
@@ -194,8 +194,8 @@ Points: 145
         <updated>2021-05-27T16:19:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://v8.dev/blog/sparkplug
 Comments URL: https://news.ycombinator.com/item?id=27304808
-Points: 211
-# Comments: 87]]></summary>
+Points: 220
+# Comments: 93]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -217,8 +217,8 @@ Points: 211
         <updated>2021-05-27T14:54:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://antiqueradio.org/welcome.htm
 Comments URL: https://news.ycombinator.com/item?id=27303881
-Points: 77
-# Comments: 17]]></summary>
+Points: 86
+# Comments: 22]]></summary>
         <author>
             <name>js2</name>
         </author>
@@ -230,8 +230,8 @@ Points: 77
         <updated>2021-05-27T14:47:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/nocodb/nocodb
 Comments URL: https://news.ycombinator.com/item?id=27303783
-Points: 299
-# Comments: 95]]></summary>
+Points: 340
+# Comments: 113]]></summary>
         <author>
             <name>nocodb</name>
         </author>
@@ -243,8 +243,8 @@ Points: 299
         <updated>2021-05-27T14:39:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://convect.ml
 Comments URL: https://news.ycombinator.com/item?id=27303690
-Points: 61
-# Comments: 17]]></summary>
+Points: 64
+# Comments: 18]]></summary>
         <author>
             <name>sameerank</name>
         </author>
@@ -280,8 +280,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-27T14:01:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers
 Comments URL: https://news.ycombinator.com/item?id=27303227
-Points: 201
-# Comments: 95]]></summary>
+Points: 220
+# Comments: 101]]></summary>
         <author>
             <name>ksec</name>
         </author>
@@ -303,8 +303,8 @@ Points: 201
         <updated>2021-05-27T13:16:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en/plus
 Comments URL: https://news.ycombinator.com/item?id=27302702
-Points: 463
-# Comments: 187]]></summary>
+Points: 480
+# Comments: 192]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -320,8 +320,8 @@ For example, some of the ones I like are:
 - https://www.joshwcomeau.com/
 - https://ciechanow.ski/
 Comments URL: https://news.ycombinator.com/item?id=27302195
-Points: 616
-# Comments: 223]]></summary>
+Points: 641
+# Comments: 229]]></summary>
         <author>
             <name>zffr</name>
         </author>
@@ -333,8 +333,8 @@ Points: 616
         <updated>2021-05-27T12:16:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Kristy_Viers/status/1287189581926981634
 Comments URL: https://news.ycombinator.com/item?id=27302074
-Points: 636
-# Comments: 181]]></summary>
+Points: 671
+# Comments: 189]]></summary>
         <author>
             <name>eevilspock</name>
         </author>
