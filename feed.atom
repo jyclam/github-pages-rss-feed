@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T13:57:08.977Z</updated>
+    <updated>2021-05-28T14:37:14.244Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Humans Could Live up to 150 Years]]></title>
+        <id>https://news.ycombinator.com/item?id=27315085</id>
+        <link href="https://www.scientificamerican.com/article/humans-could-live-up-to-150-years-new-research-suggests/"/>
+        <updated>2021-05-28T13:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/humans-could-live-up-to-150-years-new-research-suggests/
+Comments URL: https://news.ycombinator.com/item?id=27315085
+Points: 13
+# Comments: 1]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Had Covid? You’ll probably make antibodies for a lifetime]]></title>
         <id>https://news.ycombinator.com/item?id=27315074</id>
@@ -13,8 +26,8 @@
         <updated>2021-05-28T13:27:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01442-9
 Comments URL: https://news.ycombinator.com/item?id=27315074
-Points: 17
-# Comments: 3]]></summary>
+Points: 70
+# Comments: 79]]></summary>
         <author>
             <name>azth</name>
         </author>
@@ -26,23 +39,36 @@ Points: 17
         <updated>2021-05-28T13:10:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.mysterywire.com/ufo/ufos-swarm-uss-omaha/
 Comments URL: https://news.ycombinator.com/item?id=27314922
-Points: 33
-# Comments: 34]]></summary>
+Points: 73
+# Comments: 76]]></summary>
         <author>
             <name>graderjs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In 2019 US Navy warships were swarmed by UFOs]]></title>
-        <id>https://news.ycombinator.com/item?id=27314881</id>
-        <link href="https://twitter.com/JeremyCorbell/status/1397991804130131969"/>
-        <updated>2021-05-28T13:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/JeremyCorbell/status/1397991804130131969
-Comments URL: https://news.ycombinator.com/item?id=27314881
-Points: 5
+        <title type="html"><![CDATA[Physical Warp Drives]]></title>
+        <id>https://news.ycombinator.com/item?id=27314827</id>
+        <link href="https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e"/>
+        <updated>2021-05-28T12:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e
+Comments URL: https://news.ycombinator.com/item?id=27314827
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>phonebucket</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z80 Development Toolchain]]></title>
+        <id>https://news.ycombinator.com/item?id=27314620</id>
+        <link href="http://www.breakintoprogram.co.uk/computers/zx-spectrum/assembly-language/z80-development-toolchain"/>
+        <updated>2021-05-28T12:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.breakintoprogram.co.uk/computers/zx-spectrum/assembly-language/z80-development-toolchain
+Comments URL: https://news.ycombinator.com/item?id=27314620
+Points: 10
 # Comments: 2]]></summary>
         <author>
-            <name>graderjs</name>
+            <name>ingve</name>
         </author>
     </entry>
     <entry>
@@ -69,13 +95,26 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Writing a Jinja-inspired template library in Python]]></title>
+        <id>https://news.ycombinator.com/item?id=27314237</id>
+        <link href="https://notes.eatonphil.com/writing-a-template-library-in-python.html"/>
+        <updated>2021-05-28T11:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://notes.eatonphil.com/writing-a-template-library-in-python.html
+Comments URL: https://news.ycombinator.com/item?id=27314237
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>makaimc</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Agricultural Pest that Relies on Bacteria to Overcome Plant Defenses]]></title>
         <id>https://news.ycombinator.com/item?id=27313955</id>
         <link href="https://www.tus.ac.jp/en/mediarelations/archive/20210527_1035.html"/>
         <updated>2021-05-28T11:09:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tus.ac.jp/en/mediarelations/archive/20210527_1035.html
 Comments URL: https://news.ycombinator.com/item?id=27313955
-Points: 7
+Points: 9
 # Comments: 0]]></summary>
         <author>
             <name>rustoo</name>
@@ -88,8 +127,8 @@ Points: 7
         <updated>2021-05-28T11:04:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nber.org/papers/w28773
 Comments URL: https://news.ycombinator.com/item?id=27313931
-Points: 18
-# Comments: 9]]></summary>
+Points: 26
+# Comments: 15]]></summary>
         <author>
             <name>rustoo</name>
         </author>
@@ -101,8 +140,8 @@ Points: 18
         <updated>2021-05-28T11:00:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ft.com/content/4169ea4b-d6d7-4a2e-bc91-480550c2f539
 Comments URL: https://news.ycombinator.com/item?id=27313895
-Points: 100
-# Comments: 79]]></summary>
+Points: 116
+# Comments: 91]]></summary>
         <author>
             <name>tokyoseb</name>
         </author>
@@ -124,8 +163,8 @@ Points: 100
         <updated>2021-05-28T10:24:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/uk-england-birmingham-57280115
 Comments URL: https://news.ycombinator.com/item?id=27313686
-Points: 109
-# Comments: 122]]></summary>
+Points: 126
+# Comments: 148]]></summary>
         <author>
             <name>frereubu</name>
         </author>
@@ -137,8 +176,8 @@ Points: 109
         <updated>2021-05-28T10:02:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tidbits.com/2021/05/20/extracting-data-from-an-old-ios-app-broken-by-ios-14-5/
 Comments URL: https://news.ycombinator.com/item?id=27313531
-Points: 33
-# Comments: 13]]></summary>
+Points: 42
+# Comments: 17]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -150,8 +189,8 @@ Points: 33
         <updated>2021-05-28T09:22:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.adacore.com/download
 Comments URL: https://news.ycombinator.com/item?id=27313294
-Points: 60
-# Comments: 24]]></summary>
+Points: 66
+# Comments: 30]]></summary>
         <author>
             <name>berkeleynerd</name>
         </author>
@@ -163,8 +202,8 @@ Points: 60
         <updated>2021-05-28T09:20:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/livewire-ui/spotlight/issues/25
 Comments URL: https://news.ycombinator.com/item?id=27313284
-Points: 385
-# Comments: 234]]></summary>
+Points: 438
+# Comments: 258]]></summary>
         <author>
             <name>knorthfield</name>
         </author>
@@ -176,10 +215,23 @@ Points: 385
         <updated>2021-05-28T08:44:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bfi.uchicago.edu/insight/research-summary/lifetime-earnings-in-the-united-states-over-six-decades/
 Comments URL: https://news.ycombinator.com/item?id=27313083
-Points: 26
-# Comments: 15]]></summary>
+Points: 43
+# Comments: 31]]></summary>
         <author>
             <name>T-A</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replacements for existing software written in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27312564</id>
+        <link href="https://github.com/TaKO8Ki/awesome-rewrite-it-in-rust"/>
+        <updated>2021-05-28T07:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/TaKO8Ki/awesome-rewrite-it-in-rust
+Comments URL: https://news.ycombinator.com/item?id=27312564
+Points: 79
+# Comments: 87]]></summary>
+        <author>
+            <name>prabir</name>
         </author>
     </entry>
     <entry>
@@ -189,8 +241,8 @@ Points: 26
         <updated>2021-05-28T05:56:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly
 Comments URL: https://news.ycombinator.com/item?id=27312169
-Points: 220
-# Comments: 86]]></summary>
+Points: 238
+# Comments: 90]]></summary>
         <author>
             <name>tmfi</name>
         </author>
@@ -202,10 +254,23 @@ Points: 220
         <updated>2021-05-28T05:15:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://boringavatars.com/
 Comments URL: https://news.ycombinator.com/item?id=27311964
-Points: 242
-# Comments: 55]]></summary>
+Points: 258
+# Comments: 67]]></summary>
         <author>
             <name>arnklint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idiosyncrasies of the HTML Parser]]></title>
+        <id>https://news.ycombinator.com/item?id=27311627</id>
+        <link href="https://htmlparser.info/"/>
+        <updated>2021-05-28T04:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://htmlparser.info/
+Comments URL: https://news.ycombinator.com/item?id=27311627
+Points: 80
+# Comments: 50]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -215,36 +280,10 @@ Points: 242
         <updated>2021-05-28T04:00:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/
 Comments URL: https://news.ycombinator.com/item?id=27311594
-Points: 60
-# Comments: 21]]></summary>
+Points: 61
+# Comments: 26]]></summary>
         <author>
             <name>marcodiego</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QUIC is now RFC 9000]]></title>
-        <id>https://news.ycombinator.com/item?id=27310349</id>
-        <link href="https://www.fastly.com/blog/quic-is-now-rfc-9000"/>
-        <updated>2021-05-28T00:25:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fastly.com/blog/quic-is-now-rfc-9000
-Comments URL: https://news.ycombinator.com/item?id=27310349
-Points: 437
-# Comments: 130]]></summary>
-        <author>
-            <name>blucell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClickHouse: An open-source column-oriented database management system]]></title>
-        <id>https://news.ycombinator.com/item?id=27310247</id>
-        <link href="https://github.com/ClickHouse/ClickHouse"/>
-        <updated>2021-05-28T00:12:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ClickHouse/ClickHouse
-Comments URL: https://news.ycombinator.com/item?id=27310247
-Points: 159
-# Comments: 43]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -314,45 +353,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I, as someone who is visually impaired, use my iPhone (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27302074</id>
-        <link href="https://twitter.com/Kristy_Viers/status/1287189581926981634"/>
-        <updated>2021-05-27T12:16:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/Kristy_Viers/status/1287189581926981634
-Comments URL: https://news.ycombinator.com/item?id=27302074
-Points: 790
-# Comments: 220]]></summary>
-        <author>
-            <name>eevilspock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I Built Multiplayer Deathmatch Joust]]></title>
-        <id>https://news.ycombinator.com/item?id=27301879</id>
-        <link href="https://joust.life/"/>
-        <updated>2021-05-27T11:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://joust.life/
-Comments URL: https://news.ycombinator.com/item?id=27301879
-Points: 62
-# Comments: 20]]></summary>
-        <author>
-            <name>jasonkester</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experiments validate the possibility of helium rain inside Jupiter and Saturn]]></title>
-        <id>https://news.ycombinator.com/item?id=27301129</id>
-        <link href="https://phys.org/news/2021-05-validate-possibility-helium-jupiter-saturn.html"/>
-        <updated>2021-05-27T10:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-validate-possibility-helium-jupiter-saturn.html
-Comments URL: https://news.ycombinator.com/item?id=27301129
-Points: 40
-# Comments: 13]]></summary>
-        <author>
-            <name>dnetesn</name>
         </author>
     </entry>
     <entry>
