@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T08:42:55.838Z</updated>
+    <updated>2021-05-28T09:37:33.957Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The phrase “welcome back” on a page causes Safari to autofill a password]]></title>
+        <id>https://news.ycombinator.com/item?id=27313284</id>
+        <link href="https://github.com/livewire-ui/spotlight/issues/25"/>
+        <updated>2021-05-28T09:20:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/livewire-ui/spotlight/issues/25
+Comments URL: https://news.ycombinator.com/item?id=27313284
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>knorthfield</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Replacements for existing software written in Rust]]></title>
         <id>https://news.ycombinator.com/item?id=27312564</id>
@@ -13,8 +26,8 @@
         <updated>2021-05-28T07:11:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/TaKO8Ki/awesome-rewrite-it-in-rust
 Comments URL: https://news.ycombinator.com/item?id=27312564
-Points: 23
-# Comments: 19]]></summary>
+Points: 37
+# Comments: 37]]></summary>
         <author>
             <name>prabir</name>
         </author>
@@ -33,42 +46,27 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Did preparing for LeetCode type of interviews improve your skills?]]></title>
-        <id>https://news.ycombinator.com/item?id=27312265</id>
-        <link href="https://news.ycombinator.com/item?id=27312265"/>
-        <updated>2021-05-28T06:13:42.000Z</updated>
-        <summary type="html"><![CDATA[I'm not new to the field and I have nearly a decade years of experience under my belt. I'm currently job hunting and decided I'm not gonna shy away from LeetCode type of interviews as before (I used to refuse to proceed with any company that had this as part of their interview process) and actually give it a shot.
-As I'm doing some Hackerrank/LeetCode exercises, I'm actually enjoying solving these puzzles. I'm wondering if anyone who went through this prepping for an interview ended up being technically better overall. I know that I rarely needed this kind of skill in my career, but also I'm wondering if there were cases where I did need them and I didn't know.
-Cheers!
-Comments URL: https://news.ycombinator.com/item?id=27312265
-Points: 40
-# Comments: 30]]></summary>
-        <author>
-            <name>wreath</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mars Helicopter Lands Safely After Serious In-Flight Anomaly]]></title>
         <id>https://news.ycombinator.com/item?id=27312169</id>
         <link href="https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly"/>
         <updated>2021-05-28T05:56:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly
 Comments URL: https://news.ycombinator.com/item?id=27312169
-Points: 90
-# Comments: 28]]></summary>
+Points: 120
+# Comments: 45]]></summary>
         <author>
             <name>tmfi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boring Avatars – react library to generate custom avatars]]></title>
+        <title type="html"><![CDATA[Boring Avatars – React library to generate custom avatars]]></title>
         <id>https://news.ycombinator.com/item?id=27311964</id>
         <link href="https://boringavatars.com/"/>
         <updated>2021-05-28T05:15:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://boringavatars.com/
 Comments URL: https://news.ycombinator.com/item?id=27311964
-Points: 94
-# Comments: 18]]></summary>
+Points: 131
+# Comments: 25]]></summary>
         <author>
             <name>arnklint</name>
         </author>
@@ -80,8 +78,8 @@ Points: 94
         <updated>2021-05-28T04:06:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://htmlparser.info/
 Comments URL: https://news.ycombinator.com/item?id=27311627
-Points: 50
-# Comments: 23]]></summary>
+Points: 56
+# Comments: 36]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -93,8 +91,8 @@ Points: 50
         <updated>2021-05-28T04:00:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/
 Comments URL: https://news.ycombinator.com/item?id=27311594
-Points: 33
-# Comments: 10]]></summary>
+Points: 36
+# Comments: 11]]></summary>
         <author>
             <name>marcodiego</name>
         </author>
@@ -106,8 +104,8 @@ Points: 33
         <updated>2021-05-28T02:46:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ma.tt/2021/05/wordpress-18/
 Comments URL: https://news.ycombinator.com/item?id=27311198
-Points: 144
-# Comments: 107]]></summary>
+Points: 161
+# Comments: 128]]></summary>
         <author>
             <name>gmays</name>
         </author>
@@ -119,7 +117,7 @@ Points: 144
         <updated>2021-05-28T01:08:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.virtuozzo.com/connect/details/blog/view/virtuozzos-mature-linux-distribution-vzlinux-now-available-to-public.html
 Comments URL: https://news.ycombinator.com/item?id=27310645
-Points: 22
+Points: 23
 # Comments: 5]]></summary>
         <author>
             <name>merlinscholz</name>
@@ -132,8 +130,8 @@ Points: 22
         <updated>2021-05-28T00:25:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fastly.com/blog/quic-is-now-rfc-9000
 Comments URL: https://news.ycombinator.com/item?id=27310349
-Points: 349
-# Comments: 92]]></summary>
+Points: 367
+# Comments: 99]]></summary>
         <author>
             <name>blucell</name>
         </author>
@@ -145,8 +143,8 @@ Points: 349
         <updated>2021-05-28T00:12:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ClickHouse/ClickHouse
 Comments URL: https://news.ycombinator.com/item?id=27310247
-Points: 92
-# Comments: 10]]></summary>
+Points: 100
+# Comments: 11]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -158,8 +156,8 @@ Points: 92
         <updated>2021-05-27T21:48:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://macwright.com/2020/05/10/spa-fatigue.html
 Comments URL: https://news.ycombinator.com/item?id=27308982
-Points: 255
-# Comments: 195]]></summary>
+Points: 260
+# Comments: 199]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -171,23 +169,10 @@ Points: 255
         <updated>2021-05-27T20:28:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.celinehh.com/seed-raise-how-to
 Comments URL: https://news.ycombinator.com/item?id=27307977
-Points: 214
-# Comments: 167]]></summary>
+Points: 220
+# Comments: 168]]></summary>
         <author>
             <name>walterbell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Intuition for Lisp Syntax]]></title>
-        <id>https://news.ycombinator.com/item?id=27307388</id>
-        <link href="https://stopa.io/post/265?repost=true"/>
-        <updated>2021-05-27T19:50:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stopa.io/post/265?repost=true
-Comments URL: https://news.ycombinator.com/item?id=27307388
-Points: 113
-# Comments: 75]]></summary>
-        <author>
-            <name>codetrotter</name>
         </author>
     </entry>
     <entry>
@@ -197,8 +182,8 @@ Points: 113
         <updated>2021-05-27T19:34:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.slowboring.com/p/the-medias-lab-leak-fiasco
 Comments URL: https://news.ycombinator.com/item?id=27307175
-Points: 418
-# Comments: 579]]></summary>
+Points: 434
+# Comments: 589]]></summary>
         <author>
             <name>ksec</name>
         </author>
@@ -258,8 +243,8 @@ Points: 110
         <updated>2021-05-27T14:47:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/nocodb/nocodb
 Comments URL: https://news.ycombinator.com/item?id=27303783
-Points: 481
-# Comments: 132]]></summary>
+Points: 489
+# Comments: 133]]></summary>
         <author>
             <name>nocodb</name>
         </author>
@@ -305,8 +290,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-27T12:16:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Kristy_Viers/status/1287189581926981634
 Comments URL: https://news.ycombinator.com/item?id=27302074
-Points: 763
-# Comments: 213]]></summary>
+Points: 765
+# Comments: 215]]></summary>
         <author>
             <name>eevilspock</name>
         </author>
@@ -318,8 +303,8 @@ Points: 763
         <updated>2021-05-27T10:12:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-validate-possibility-helium-jupiter-saturn.html
 Comments URL: https://news.ycombinator.com/item?id=27301129
-Points: 26
-# Comments: 0]]></summary>
+Points: 27
+# Comments: 2]]></summary>
         <author>
             <name>dnetesn</name>
         </author>
@@ -335,14 +320,27 @@ Points: 26
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[First English dictionary of ancient Greek since Victorian era spares no blushes]]></title>
+        <id>https://news.ycombinator.com/item?id=27300776</id>
+        <link href="https://www.theguardian.com/books/2021/may/27/first-english-dictionary-of-ancient-greek-since-victorian-era-spares-no-blushes-lexicon-classics"/>
+        <updated>2021-05-27T09:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2021/may/27/first-english-dictionary-of-ancient-greek-since-victorian-era-spares-no-blushes-lexicon-classics
+Comments URL: https://news.ycombinator.com/item?id=27300776
+Points: 34
+# Comments: 37]]></summary>
+        <author>
+            <name>iechoz6H</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Blog about what you've struggled with]]></title>
         <id>https://news.ycombinator.com/item?id=27300566</id>
         <link href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/"/>
         <updated>2021-05-27T08:18:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/
 Comments URL: https://news.ycombinator.com/item?id=27300566
-Points: 143
-# Comments: 34]]></summary>
+Points: 152
+# Comments: 35]]></summary>
         <author>
             <name>yesenadam</name>
         </author>
