@@ -2,34 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T04:07:03.636Z</updated>
+    <updated>2021-05-28T06:16:32.511Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[WordPress is 18]]></title>
+        <title type="html"><![CDATA[Idiosyncrasies of the HTML Parser]]></title>
+        <id>https://news.ycombinator.com/item?id=27311627</id>
+        <link href="https://htmlparser.info/"/>
+        <updated>2021-05-28T04:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://htmlparser.info/
+Comments URL: https://news.ycombinator.com/item?id=27311627
+Points: 15
+# Comments: 4]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oldest recovered TV images (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=27311594</id>
+        <link href="http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/"/>
+        <updated>2021-05-28T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/
+Comments URL: https://news.ycombinator.com/item?id=27311594
+Points: 19
+# Comments: 5]]></summary>
+        <author>
+            <name>marcodiego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 18]]></title>
         <id>https://news.ycombinator.com/item?id=27311198</id>
         <link href="https://ma.tt/2021/05/wordpress-18/"/>
         <updated>2021-05-28T02:46:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ma.tt/2021/05/wordpress-18/
 Comments URL: https://news.ycombinator.com/item?id=27311198
-Points: 31
-# Comments: 10]]></summary>
+Points: 100
+# Comments: 59]]></summary>
         <author>
             <name>gmays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The history of lab leaks]]></title>
-        <id>https://news.ycombinator.com/item?id=27310681</id>
-        <link href="https://www.bloomberg.com/opinion/articles/2021-05-27/covid-19-and-lab-leak-history-smallpox-h1n1-sars"/>
-        <updated>2021-05-28T01:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/opinion/articles/2021-05-27/covid-19-and-lab-leak-history-smallpox-h1n1-sars
-Comments URL: https://news.ycombinator.com/item?id=27310681
-Points: 41
-# Comments: 36]]></summary>
+        <title type="html"><![CDATA[Virtuozzo’s Mature Linux Distribution VzLinux Now Available to Public]]></title>
+        <id>https://news.ycombinator.com/item?id=27310645</id>
+        <link href="https://www.virtuozzo.com/connect/details/blog/view/virtuozzos-mature-linux-distribution-vzlinux-now-available-to-public.html"/>
+        <updated>2021-05-28T01:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.virtuozzo.com/connect/details/blog/view/virtuozzos-mature-linux-distribution-vzlinux-now-available-to-public.html
+Comments URL: https://news.ycombinator.com/item?id=27310645
+Points: 15
+# Comments: 1]]></summary>
         <author>
-            <name>wearywanderer</name>
+            <name>merlinscholz</name>
         </author>
     </entry>
     <entry>
@@ -62,8 +88,8 @@ Points: 1
         <updated>2021-05-28T00:25:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fastly.com/blog/quic-is-now-rfc-9000
 Comments URL: https://news.ycombinator.com/item?id=27310349
-Points: 194
-# Comments: 38]]></summary>
+Points: 261
+# Comments: 60]]></summary>
         <author>
             <name>blucell</name>
         </author>
@@ -75,8 +101,8 @@ Points: 194
         <updated>2021-05-28T00:12:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ClickHouse/ClickHouse
 Comments URL: https://news.ycombinator.com/item?id=27310247
-Points: 41
-# Comments: 2]]></summary>
+Points: 61
+# Comments: 4]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -88,8 +114,8 @@ Points: 41
         <updated>2021-05-28T00:05:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html
 Comments URL: https://news.ycombinator.com/item?id=27310179
-Points: 18
-# Comments: 12]]></summary>
+Points: 20
+# Comments: 16]]></summary>
         <author>
             <name>diodorus</name>
         </author>
@@ -101,8 +127,8 @@ Points: 18
         <updated>2021-05-27T21:48:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://macwright.com/2020/05/10/spa-fatigue.html
 Comments URL: https://news.ycombinator.com/item?id=27308982
-Points: 201
-# Comments: 149]]></summary>
+Points: 227
+# Comments: 173]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -114,8 +140,8 @@ Points: 201
         <updated>2021-05-27T20:28:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.celinehh.com/seed-raise-how-to
 Comments URL: https://news.ycombinator.com/item?id=27307977
-Points: 134
-# Comments: 103]]></summary>
+Points: 174
+# Comments: 130]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -127,8 +153,8 @@ Points: 134
         <updated>2021-05-27T19:50:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stopa.io/post/265?repost=true
 Comments URL: https://news.ycombinator.com/item?id=27307388
-Points: 79
-# Comments: 37]]></summary>
+Points: 98
+# Comments: 57]]></summary>
         <author>
             <name>codetrotter</name>
         </author>
@@ -140,8 +166,8 @@ Points: 79
         <updated>2021-05-27T19:34:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.slowboring.com/p/the-medias-lab-leak-fiasco
 Comments URL: https://news.ycombinator.com/item?id=27307175
-Points: 332
-# Comments: 488]]></summary>
+Points: 378
+# Comments: 543]]></summary>
         <author>
             <name>ksec</name>
         </author>
@@ -178,8 +204,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-27T17:17:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stacked-git.github.io/
 Comments URL: https://news.ycombinator.com/item?id=27305521
-Points: 119
-# Comments: 55]]></summary>
+Points: 125
+# Comments: 65]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -191,8 +217,8 @@ Points: 119
         <updated>2021-05-27T16:47:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/
 Comments URL: https://news.ycombinator.com/item?id=27305127
-Points: 147
-# Comments: 63]]></summary>
+Points: 163
+# Comments: 65]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -204,8 +230,8 @@ Points: 147
         <updated>2021-05-27T16:37:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/
 Comments URL: https://news.ycombinator.com/item?id=27305022
-Points: 187
-# Comments: 108]]></summary>
+Points: 195
+# Comments: 111]]></summary>
         <author>
             <name>KhoomeiK</name>
         </author>
@@ -217,8 +243,8 @@ Points: 187
         <updated>2021-05-27T16:19:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://v8.dev/blog/sparkplug
 Comments URL: https://news.ycombinator.com/item?id=27304808
-Points: 245
-# Comments: 100]]></summary>
+Points: 262
+# Comments: 106]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -240,8 +266,8 @@ Points: 245
         <updated>2021-05-27T14:54:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://antiqueradio.org/welcome.htm
 Comments URL: https://news.ycombinator.com/item?id=27303881
-Points: 96
-# Comments: 29]]></summary>
+Points: 104
+# Comments: 31]]></summary>
         <author>
             <name>js2</name>
         </author>
@@ -253,8 +279,8 @@ Points: 96
         <updated>2021-05-27T14:47:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/nocodb/nocodb
 Comments URL: https://news.ycombinator.com/item?id=27303783
-Points: 398
-# Comments: 124]]></summary>
+Points: 450
+# Comments: 126]]></summary>
         <author>
             <name>nocodb</name>
         </author>
@@ -266,8 +292,8 @@ Points: 398
         <updated>2021-05-27T14:39:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://convect.ml
 Comments URL: https://news.ycombinator.com/item?id=27303690
-Points: 73
-# Comments: 19]]></summary>
+Points: 81
+# Comments: 20]]></summary>
         <author>
             <name>sameerank</name>
         </author>
@@ -297,19 +323,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marvell Announces First PCIe 5.0 NVMe SSD Controllers: Up to 14 GB/S]]></title>
-        <id>https://news.ycombinator.com/item?id=27303227</id>
-        <link href="https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers"/>
-        <updated>2021-05-27T14:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers
-Comments URL: https://news.ycombinator.com/item?id=27303227
-Points: 238
-# Comments: 107]]></summary>
-        <author>
-            <name>ksec</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
         <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
         <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
@@ -320,27 +333,14 @@ Points: 238
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MDN Plus]]></title>
-        <id>https://news.ycombinator.com/item?id=27302702</id>
-        <link href="https://developer.mozilla.org/en/plus"/>
-        <updated>2021-05-27T13:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en/plus
-Comments URL: https://news.ycombinator.com/item?id=27302702
-Points: 497
-# Comments: 196]]></summary>
-        <author>
-            <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How I, as someone who is visually impaired, use my iPhone (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27302074</id>
         <link href="https://twitter.com/Kristy_Viers/status/1287189581926981634"/>
         <updated>2021-05-27T12:16:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Kristy_Viers/status/1287189581926981634
 Comments URL: https://news.ycombinator.com/item?id=27302074
-Points: 715
-# Comments: 199]]></summary>
+Points: 738
+# Comments: 208]]></summary>
         <author>
             <name>eevilspock</name>
         </author>
