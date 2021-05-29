@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T01:19:52.461Z</updated>
+    <updated>2021-05-29T04:38:06.325Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Feynman Lectures on Physics Audio Collection]]></title>
+        <id>https://news.ycombinator.com/item?id=27322636</id>
+        <link href="https://www.feynmanlectures.caltech.edu/flptapes.html"/>
+        <updated>2021-05-29T02:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.feynmanlectures.caltech.edu/flptapes.html
+Comments URL: https://news.ycombinator.com/item?id=27322636
+Points: 62
+# Comments: 12]]></summary>
+        <author>
+            <name>sohkamyung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Is JRuby Slow?]]></title>
+        <id>https://news.ycombinator.com/item?id=27322533</id>
+        <link href="https://earthly.dev/blog/jruby/"/>
+        <updated>2021-05-29T02:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://earthly.dev/blog/jruby/
+Comments URL: https://news.ycombinator.com/item?id=27322533
+Points: 36
+# Comments: 10]]></summary>
+        <author>
+            <name>kristianp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Greywing (YC W21) Is Hiring (Remote) Front End Lead Engineers]]></title>
         <id>https://news.ycombinator.com/item?id=27322233</id>
@@ -20,27 +46,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generic graph (analysis) library in TypeScript - MIT License]]></title>
-        <id>https://news.ycombinator.com/item?id=27321934</id>
-        <link href="https://github.com/cassinius/graphinius"/>
-        <updated>2021-05-29T00:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/cassinius/graphinius
-Comments URL: https://news.ycombinator.com/item?id=27321934
-Points: 4
-# Comments: 1]]></summary>
-        <author>
-            <name>rch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer]]></title>
         <id>https://news.ycombinator.com/item?id=27321780</id>
         <link href="https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/"/>
         <updated>2021-05-28T23:39:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/
 Comments URL: https://news.ycombinator.com/item?id=27321780
-Points: 26
-# Comments: 14]]></summary>
+Points: 67
+# Comments: 36]]></summary>
         <author>
             <name>infodocket</name>
         </author>
@@ -52,8 +65,8 @@ Points: 26
         <updated>2021-05-28T23:35:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/
 Comments URL: https://news.ycombinator.com/item?id=27321754
-Points: 74
-# Comments: 4]]></summary>
+Points: 150
+# Comments: 20]]></summary>
         <author>
             <name>jffry</name>
         </author>
@@ -69,42 +82,29 @@ Points: 74
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple has a decade-long lead in wearables]]></title>
-        <id>https://news.ycombinator.com/item?id=27321387</id>
-        <link href="https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables"/>
-        <updated>2021-05-28T22:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables
-Comments URL: https://news.ycombinator.com/item?id=27321387
-Points: 71
-# Comments: 75]]></summary>
-        <author>
-            <name>kulpreet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never mind the 1 percent: Let's talk about the 0.01 percent]]></title>
-        <id>https://news.ycombinator.com/item?id=27319923</id>
-        <link href="https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent"/>
-        <updated>2021-05-28T20:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent
-Comments URL: https://news.ycombinator.com/item?id=27319923
-Points: 132
-# Comments: 106]]></summary>
-        <author>
-            <name>arcanus</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Unix Game]]></title>
         <id>https://news.ycombinator.com/item?id=27319540</id>
         <link href="https://unixgame.io/unix50"/>
         <updated>2021-05-28T19:31:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://unixgame.io/unix50
 Comments URL: https://news.ycombinator.com/item?id=27319540
-Points: 115
-# Comments: 16]]></summary>
+Points: 143
+# Comments: 18]]></summary>
         <author>
             <name>salgernon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrigley and others are suing over look-alike THC treats]]></title>
+        <id>https://news.ycombinator.com/item?id=27319130</id>
+        <link href="https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html"/>
+        <updated>2021-05-28T18:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html
+Comments URL: https://news.ycombinator.com/item?id=27319130
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>bookofjoe</name>
         </author>
     </entry>
     <entry>
@@ -114,8 +114,8 @@ Points: 115
         <updated>2021-05-28T18:48:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/
 Comments URL: https://news.ycombinator.com/item?id=27319099
-Points: 388
-# Comments: 171]]></summary>
+Points: 445
+# Comments: 200]]></summary>
         <author>
             <name>spenvo</name>
         </author>
@@ -127,8 +127,8 @@ Points: 388
         <updated>2021-05-28T18:46:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds
 Comments URL: https://news.ycombinator.com/item?id=27319070
-Points: 215
-# Comments: 137]]></summary>
+Points: 254
+# Comments: 161]]></summary>
         <author>
             <name>user_235711</name>
         </author>
@@ -140,23 +140,10 @@ Points: 215
         <updated>2021-05-28T18:34:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism
 Comments URL: https://news.ycombinator.com/item?id=27318942
-Points: 49
+Points: 62
 # Comments: 13]]></summary>
         <author>
             <name>vackosar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Court rules climate change “duty of care” to future generations exists]]></title>
-        <id>https://news.ycombinator.com/item?id=27318588</id>
-        <link href="https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560"/>
-        <updated>2021-05-28T18:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560
-Comments URL: https://news.ycombinator.com/item?id=27318588
-Points: 168
-# Comments: 175]]></summary>
-        <author>
-            <name>Bluestein</name>
         </author>
     </entry>
     <entry>
@@ -166,8 +153,8 @@ Points: 168
         <updated>2021-05-28T17:25:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/
 Comments URL: https://news.ycombinator.com/item?id=27318153
-Points: 84
-# Comments: 22]]></summary>
+Points: 94
+# Comments: 23]]></summary>
         <author>
             <name>vulkd</name>
         </author>
@@ -179,8 +166,8 @@ Points: 84
         <updated>2021-05-28T17:02:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/
 Comments URL: https://news.ycombinator.com/item?id=27317859
-Points: 241
-# Comments: 186]]></summary>
+Points: 307
+# Comments: 224]]></summary>
         <author>
             <name>1experience</name>
         </author>
@@ -192,8 +179,8 @@ Points: 241
         <updated>2021-05-28T16:51:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://librefoodpantry.org/
 Comments URL: https://news.ycombinator.com/item?id=27317709
-Points: 50
-# Comments: 19]]></summary>
+Points: 57
+# Comments: 20]]></summary>
         <author>
             <name>jka</name>
         </author>
@@ -205,8 +192,8 @@ Points: 50
         <updated>2021-05-28T16:47:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/
 Comments URL: https://news.ycombinator.com/item?id=27317655
-Points: 937
-# Comments: 163]]></summary>
+Points: 1096
+# Comments: 180]]></summary>
         <author>
             <name>there</name>
         </author>
@@ -241,8 +228,8 @@ NextUX works with any existing websi…]]></summary>
         <updated>2021-05-28T16:01:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/
 Comments URL: https://news.ycombinator.com/item?id=27317024
-Points: 145
-# Comments: 19]]></summary>
+Points: 161
+# Comments: 20]]></summary>
         <author>
             <name>PhilipTrauner</name>
         </author>
@@ -254,8 +241,8 @@ Points: 145
         <updated>2021-05-28T15:42:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ninfex.com/hello
 Comments URL: https://news.ycombinator.com/item?id=27316752
-Points: 115
-# Comments: 34]]></summary>
+Points: 137
+# Comments: 37]]></summary>
         <author>
             <name>zeeshanqureshi</name>
         </author>
@@ -267,8 +254,8 @@ Points: 115
         <updated>2021-05-28T14:57:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/wongmjane/status/1398022730553860102
 Comments URL: https://news.ycombinator.com/item?id=27316115
-Points: 365
-# Comments: 606]]></summary>
+Points: 391
+# Comments: 622]]></summary>
         <author>
             <name>0xedb</name>
         </author>
@@ -292,10 +279,23 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-28T13:27:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01442-9
 Comments URL: https://news.ycombinator.com/item?id=27315074
-Points: 123
-# Comments: 239]]></summary>
+Points: 172
+# Comments: 290]]></summary>
         <author>
             <name>azth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physical Warp Drives]]></title>
+        <id>https://news.ycombinator.com/item?id=27314827</id>
+        <link href="https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e"/>
+        <updated>2021-05-28T12:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e
+Comments URL: https://news.ycombinator.com/item?id=27314827
+Points: 122
+# Comments: 89]]></summary>
+        <author>
+            <name>phonebucket</name>
         </author>
     </entry>
     <entry>
