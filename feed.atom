@@ -2,34 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T23:29:14.334Z</updated>
+    <updated>2021-05-30T01:28:52.638Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Biologists Taboo Artificial Life]]></title>
-        <id>https://news.ycombinator.com/item?id=27328965</id>
-        <link href="https://www.overcomingbias.com/2021/05/the-artificial-life-taboo-in-biology.html"/>
-        <updated>2021-05-29T22:58:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.overcomingbias.com/2021/05/the-artificial-life-taboo-in-biology.html
-Comments URL: https://news.ycombinator.com/item?id=27328965
-Points: 5
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[GPG-Tui, a Terminal User Interface for GnuPG]]></title>
+        <id>https://news.ycombinator.com/item?id=27329598</id>
+        <link href="https://orhun.dev/blog/introducing-gpg-tui/"/>
+        <updated>2021-05-30T00:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://orhun.dev/blog/introducing-gpg-tui/
+Comments URL: https://news.ycombinator.com/item?id=27329598
+Points: 14
+# Comments: 0]]></summary>
         <author>
-            <name>hirundo</name>
+            <name>sbt567</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hypervisor for multi-tenant computing, like it should be]]></title>
-        <id>https://news.ycombinator.com/item?id=27328766</id>
-        <link href="https://kwarantine.xyz"/>
-        <updated>2021-05-29T22:31:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kwarantine.xyz
-Comments URL: https://news.ycombinator.com/item?id=27328766
-Points: 7
+        <title type="html"><![CDATA[Firesign Theatre’s ‘Dope Humor of the Seventies’]]></title>
+        <id>https://news.ycombinator.com/item?id=27329497</id>
+        <link href="https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies"/>
+        <updated>2021-05-30T00:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies
+Comments URL: https://news.ycombinator.com/item?id=27329497
+Points: 5
 # Comments: 1]]></summary>
         <author>
-            <name>ashishbijlani</name>
+            <name>blegh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Fourth Dimension? (1884)]]></title>
+        <id>https://news.ycombinator.com/item?id=27329211</id>
+        <link href="https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F"/>
+        <updated>2021-05-29T23:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F
+Comments URL: https://news.ycombinator.com/item?id=27329211
+Points: 9
+# Comments: 4]]></summary>
+        <author>
+            <name>tintinnabula</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish Café]]></title>
+        <id>https://news.ycombinator.com/item?id=27329131</id>
+        <link href="https://en.wikipedia.org/wiki/Scottish_Café"/>
+        <updated>2021-05-29T23:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Scottish_Café
+Comments URL: https://news.ycombinator.com/item?id=27329131
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>benbreen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Patterns Hall of Shame]]></title>
+        <id>https://news.ycombinator.com/item?id=27328863</id>
+        <link href="https://www.darkpatterns.org/hall-of-shame"/>
+        <updated>2021-05-29T22:45:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.darkpatterns.org/hall-of-shame
+Comments URL: https://news.ycombinator.com/item?id=27328863
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>bookofjoe</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +78,8 @@ Points: 7
         <updated>2021-05-29T22:22:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://devjac.dev/posts/2021-05-29-my-personal-creed-of-employment.html
 Comments URL: https://news.ycombinator.com/item?id=27328705
-Points: 33
-# Comments: 7]]></summary>
+Points: 83
+# Comments: 22]]></summary>
         <author>
             <name>Buttons840</name>
         </author>
@@ -52,34 +91,34 @@ Points: 33
         <updated>2021-05-29T22:15:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/
 Comments URL: https://news.ycombinator.com/item?id=27328663
-Points: 123
-# Comments: 61]]></summary>
+Points: 300
+# Comments: 129]]></summary>
         <author>
             <name>beefman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phacility Is Winding Down, Phabricator No Longer Actively Maintained]]></title>
+        <title type="html"><![CDATA[Phacility is winding down, Phabricator no longer actively maintained]]></title>
         <id>https://news.ycombinator.com/item?id=27328404</id>
         <link href="https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/"/>
         <updated>2021-05-29T21:35:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/
 Comments URL: https://news.ycombinator.com/item?id=27328404
-Points: 84
-# Comments: 39]]></summary>
+Points: 131
+# Comments: 60]]></summary>
         <author>
             <name>carwyn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waking up one hour earlier can lower chance of major depression by 23%]]></title>
+        <title type="html"><![CDATA[Waking up one hour earlier can lower chance of major depression]]></title>
         <id>https://news.ycombinator.com/item?id=27328290</id>
         <link href="https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/"/>
         <updated>2021-05-29T21:18:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/
 Comments URL: https://news.ycombinator.com/item?id=27328290
-Points: 12
-# Comments: 7]]></summary>
+Points: 61
+# Comments: 57]]></summary>
         <author>
             <name>intellaughs</name>
         </author>
@@ -91,8 +130,8 @@ Points: 12
         <updated>2021-05-29T21:02:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.synthesia.io/
 Comments URL: https://news.ycombinator.com/item?id=27328205
-Points: 46
-# Comments: 19]]></summary>
+Points: 98
+# Comments: 37]]></summary>
         <author>
             <name>vladoh</name>
         </author>
@@ -111,27 +150,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slicer: Auto-Sharding for Datacenter Applications (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=27328126</id>
-        <link href="https://research.google/pubs/pub46921/"/>
-        <updated>2021-05-29T20:46:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://research.google/pubs/pub46921/
-Comments URL: https://news.ycombinator.com/item?id=27328126
-Points: 21
-# Comments: 1]]></summary>
-        <author>
-            <name>yagizdegirmenci</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Abolish High School (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=27328111</id>
         <link href="https://harpers.org/archive/2015/04/abolish-high-school/"/>
         <updated>2021-05-29T20:44:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://harpers.org/archive/2015/04/abolish-high-school/
 Comments URL: https://news.ycombinator.com/item?id=27328111
-Points: 63
-# Comments: 105]]></summary>
+Points: 85
+# Comments: 154]]></summary>
         <author>
             <name>johntfella</name>
         </author>
@@ -143,23 +169,10 @@ Points: 63
         <updated>2021-05-29T20:39:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/
 Comments URL: https://news.ycombinator.com/item?id=27328087
-Points: 81
-# Comments: 29]]></summary>
+Points: 143
+# Comments: 93]]></summary>
         <author>
             <name>throwaway888abc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many temptations of an open-source Chrome extension developer]]></title>
-        <id>https://news.ycombinator.com/item?id=27327892</id>
-        <link href="https://github.com/extesy/hoverzoom/discussions/670"/>
-        <updated>2021-05-29T20:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/extesy/hoverzoom/discussions/670
-Comments URL: https://news.ycombinator.com/item?id=27327892
-Points: 155
-# Comments: 34]]></summary>
-        <author>
-            <name>tech234a</name>
         </author>
     </entry>
     <entry>
@@ -169,7 +182,7 @@ Points: 155
         <updated>2021-05-29T20:03:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/
 Comments URL: https://news.ycombinator.com/item?id=27327871
-Points: 20
+Points: 37
 # Comments: 5]]></summary>
         <author>
             <name>zdw</name>
@@ -182,8 +195,8 @@ Points: 20
         <updated>2021-05-29T19:44:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.depauw.edu/sfs/backissues/5/lem5art.htm
 Comments URL: https://news.ycombinator.com/item?id=27327755
-Points: 51
-# Comments: 26]]></summary>
+Points: 74
+# Comments: 47]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -195,8 +208,8 @@ Points: 51
         <updated>2021-05-29T17:35:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html
 Comments URL: https://news.ycombinator.com/item?id=27326837
-Points: 58
-# Comments: 24]]></summary>
+Points: 65
+# Comments: 23]]></summary>
         <author>
             <name>homarp</name>
         </author>
@@ -208,36 +221,36 @@ Points: 58
         <updated>2021-05-29T17:19:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction
 Comments URL: https://news.ycombinator.com/item?id=27326712
-Points: 18
-# Comments: 3]]></summary>
+Points: 24
+# Comments: 4]]></summary>
         <author>
             <name>breakintoprog</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Fake Reviews to Find Dangerous Extensions]]></title>
+        <title type="html"><![CDATA[New York’s Hyphenated History]]></title>
+        <id>https://news.ycombinator.com/item?id=27326270</id>
+        <link href="https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/"/>
+        <updated>2021-05-29T16:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/
+Comments URL: https://news.ycombinator.com/item?id=27326270
+Points: 9
+# Comments: 1]]></summary>
+        <author>
+            <name>overwhelm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using fake reviews to find dangerous extensions]]></title>
         <id>https://news.ycombinator.com/item?id=27326268</id>
         <link href="https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/"/>
         <updated>2021-05-29T16:25:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/
 Comments URL: https://news.ycombinator.com/item?id=27326268
-Points: 168
-# Comments: 83]]></summary>
+Points: 187
+# Comments: 89]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking the Silvercrest (Lidl) Smart Home Gateway]]></title>
-        <id>https://news.ycombinator.com/item?id=27326183</id>
-        <link href="https://paulbanks.org/projects/lidl-zigbee/"/>
-        <updated>2021-05-29T16:13:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://paulbanks.org/projects/lidl-zigbee/
-Comments URL: https://news.ycombinator.com/item?id=27326183
-Points: 65
-# Comments: 11]]></summary>
-        <author>
-            <name>homarp</name>
         </author>
     </entry>
     <entry>
@@ -247,23 +260,10 @@ Points: 65
         <updated>2021-05-29T15:48:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP
 Comments URL: https://news.ycombinator.com/item?id=27326003
-Points: 78
-# Comments: 6]]></summary>
+Points: 82
+# Comments: 8]]></summary>
         <author>
             <name>blacksqr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cognitive Style of PowerPoint (2003) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27325824</id>
-        <link href="https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf"/>
-        <updated>2021-05-29T15:23:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
-Comments URL: https://news.ycombinator.com/item?id=27325824
-Points: 59
-# Comments: 34]]></summary>
-        <author>
-            <name>azalemeth</name>
         </author>
     </entry>
     <entry>
