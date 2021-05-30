@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T18:49:34.153Z</updated>
+    <updated>2021-05-30T20:12:13.844Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Why Don't Americans Use Bidets?]]></title>
-        <id>https://news.ycombinator.com/item?id=27335311</id>
-        <link href="https://www.theatlantic.com/technology/archive/2018/03/the-bidets-revival/555770/"/>
-        <updated>2021-05-30T18:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/technology/archive/2018/03/the-bidets-revival/555770/
-Comments URL: https://news.ycombinator.com/item?id=27335311
-Points: 18
-# Comments: 7]]></summary>
+        <title type="html"><![CDATA[Ask HN: Why did your business fail?]]></title>
+        <id>https://news.ycombinator.com/item?id=27335993</id>
+        <link href="https://news.ycombinator.com/item?id=27335993"/>
+        <updated>2021-05-30T19:38:21.000Z</updated>
+        <summary type="html"><![CDATA[One day I would like to try to build a business. There is lots of information how to do it good, which to some extent come with survivorship bias. But we can also learn from mistakes. So could you tell me: Why did your business fail?
+Comments URL: https://news.ycombinator.com/item?id=27335993
+Points: 6
+# Comments: 0]]></summary>
         <author>
-            <name>elorant</name>
+            <name>hawski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The emperor has no clothes]]></title>
+        <id>https://news.ycombinator.com/item?id=27335574</id>
+        <link href="https://twitter.com/Pinboard/status/1399058952336277505"/>
+        <updated>2021-05-30T18:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/Pinboard/status/1399058952336277505
+Comments URL: https://news.ycombinator.com/item?id=27335574
+Points: 30
+# Comments: 5]]></summary>
+        <author>
+            <name>cratermoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SARS-CoV-2 as a Gain-of-Function Laboratory Manipulation of Bat CoV RaTG13]]></title>
+        <id>https://news.ycombinator.com/item?id=27335421</id>
+        <link href="https://pubs.acs.org/doi/10.1021/acsmedchemlett.1c00274"/>
+        <updated>2021-05-30T18:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pubs.acs.org/doi/10.1021/acsmedchemlett.1c00274
+Comments URL: https://news.ycombinator.com/item?id=27335421
+Points: 118
+# Comments: 53]]></summary>
+        <author>
+            <name>JohnJamesRambo</name>
         </author>
     </entry>
     <entry>
@@ -26,23 +52,10 @@ Points: 18
         <updated>2021-05-30T17:59:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.commentarymagazine.com/articles/mordecai-richler/james-bond-unmasked/
 Comments URL: https://news.ycombinator.com/item?id=27335084
-Points: 5
-# Comments: 1]]></summary>
+Points: 16
+# Comments: 3]]></summary>
         <author>
             <name>uniqueid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humans Used to Sleep in Two Shifts, and Maybe We Should Do It Again]]></title>
-        <id>https://news.ycombinator.com/item?id=27334769</id>
-        <link href="https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again"/>
-        <updated>2021-05-30T17:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again
-Comments URL: https://news.ycombinator.com/item?id=27334769
-Points: 18
-# Comments: 10]]></summary>
-        <author>
-            <name>dsukhin</name>
         </author>
     </entry>
     <entry>
@@ -59,14 +72,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Strange Binary – a cellular automata game]]></title>
+        <id>https://news.ycombinator.com/item?id=27334561</id>
+        <link href="https://strangebinary.com"/>
+        <updated>2021-05-30T16:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://strangebinary.com
+Comments URL: https://news.ycombinator.com/item?id=27334561
+Points: 8
+# Comments: 6]]></summary>
+        <author>
+            <name>mkrecny</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A minimalistic Python wrapper to AWS DynamoDB]]></title>
         <id>https://news.ycombinator.com/item?id=27334430</id>
         <link href="https://github.com/dineshsonachalam/Lucid-Dynamodb"/>
         <updated>2021-05-30T16:36:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/dineshsonachalam/Lucid-Dynamodb
 Comments URL: https://news.ycombinator.com/item?id=27334430
-Points: 15
-# Comments: 7]]></summary>
+Points: 20
+# Comments: 12]]></summary>
         <author>
             <name>nsonachalam</name>
         </author>
@@ -78,8 +104,8 @@ Points: 15
         <updated>2021-05-30T16:10:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://neil.computer/notes/overkill-objects-for-everyday-life/
 Comments URL: https://news.ycombinator.com/item?id=27334223
-Points: 258
-# Comments: 159]]></summary>
+Points: 382
+# Comments: 273]]></summary>
         <author>
             <name>mrzool</name>
         </author>
@@ -91,8 +117,8 @@ Points: 258
         <updated>2021-05-30T15:49:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://terralang.org/
 Comments URL: https://news.ycombinator.com/item?id=27334065
-Points: 17
-# Comments: 3]]></summary>
+Points: 36
+# Comments: 6]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -104,8 +130,8 @@ Points: 17
         <updated>2021-05-30T15:30:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise
 Comments URL: https://news.ycombinator.com/item?id=27333933
-Points: 354
-# Comments: 182]]></summary>
+Points: 468
+# Comments: 229]]></summary>
         <author>
             <name>yarapavan</name>
         </author>
@@ -117,8 +143,8 @@ Points: 354
         <updated>2021-05-30T15:07:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kalk.strct.net
 Comments URL: https://news.ycombinator.com/item?id=27333772
-Points: 43
-# Comments: 15]]></summary>
+Points: 74
+# Comments: 26]]></summary>
         <author>
             <name>paddim8</name>
         </author>
@@ -130,23 +156,10 @@ Points: 43
         <updated>2021-05-30T14:49:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.engineering.com/story/semi-solid-casting-enables-net-shape-volume-manufacturing
 Comments URL: https://news.ycombinator.com/item?id=27333629
-Points: 10
-# Comments: 1]]></summary>
+Points: 14
+# Comments: 2]]></summary>
         <author>
             <name>baybal2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I lost millions through cryptocurrency addiction']]></title>
-        <id>https://news.ycombinator.com/item?id=27333608</id>
-        <link href="https://www.bbc.com/news/uk-scotland-57268024"/>
-        <updated>2021-05-30T14:46:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-scotland-57268024
-Comments URL: https://news.ycombinator.com/item?id=27333608
-Points: 29
-# Comments: 21]]></summary>
-        <author>
-            <name>ryan_j_naughton</name>
         </author>
     </entry>
     <entry>
@@ -156,8 +169,8 @@ Points: 29
         <updated>2021-05-30T13:55:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
 Comments URL: https://news.ycombinator.com/item?id=27333260
-Points: 403
-# Comments: 165]]></summary>
+Points: 512
+# Comments: 231]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -169,8 +182,8 @@ Points: 403
         <updated>2021-05-30T13:25:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://creativedesignsguru.com/category/nextjs/
 Comments URL: https://news.ycombinator.com/item?id=27333066
-Points: 16
-# Comments: 3]]></summary>
+Points: 18
+# Comments: 5]]></summary>
         <author>
             <name>creativedg</name>
         </author>
@@ -182,23 +195,10 @@ Points: 16
         <updated>2021-05-30T11:36:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/RobertGReeve/status/1397032784703655938
 Comments URL: https://news.ycombinator.com/item?id=27332506
-Points: 203
-# Comments: 152]]></summary>
+Points: 236
+# Comments: 176]]></summary>
         <author>
             <name>deadcoder0904</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Tubenotes.xyz – Annotate and Loop Videos]]></title>
-        <id>https://news.ycombinator.com/item?id=27332446</id>
-        <link href="https://tubenotes.xyz/"/>
-        <updated>2021-05-30T11:25:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tubenotes.xyz/
-Comments URL: https://news.ycombinator.com/item?id=27332446
-Points: 17
-# Comments: 3]]></summary>
-        <author>
-            <name>db1</name>
         </author>
     </entry>
     <entry>
@@ -211,8 +211,8 @@ The interviews are over, right now it is not guaranteed they will go with me. Bu
 The question is, when they offer me with a lower rate how should I deal with the situation so that I don't loose the position and get away with the best deal?
 P.S The company is US-based with a development team spread all across the globe. I am from South Asia and even $30/h is a very big deal.
 Comments URL: https://news.ycombinator.com/item?id=27332305
-Points: 99
-# Comments: 95]]></summary>
+Points: 128
+# Comments: 124]]></summary>
         <author>
             <name>2bor-2n</name>
         </author>
@@ -224,8 +224,8 @@ Points: 99
         <updated>2021-05-30T09:15:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/
 Comments URL: https://news.ycombinator.com/item?id=27331807
-Points: 415
-# Comments: 264]]></summary>
+Points: 441
+# Comments: 282]]></summary>
         <author>
             <name>EvgeniyZh</name>
         </author>
@@ -237,7 +237,7 @@ Points: 415
         <updated>2021-05-30T07:22:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://paperd.ink
 Comments URL: https://news.ycombinator.com/item?id=27331311
-Points: 168
+Points: 180
 # Comments: 52]]></summary>
         <author>
             <name>robertlangdon</name>
@@ -250,8 +250,8 @@ Points: 168
         <updated>2021-05-30T07:16:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nostarch.com/algorithmic-thinking
 Comments URL: https://news.ycombinator.com/item?id=27331285
-Points: 49
-# Comments: 4]]></summary>
+Points: 58
+# Comments: 5]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -263,8 +263,8 @@ Points: 49
         <updated>2021-05-30T06:32:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fstoppers.com/news/amazon-refused-refund-7000-after-shipping-empty-box-instead-sony-a1-564979
 Comments URL: https://news.ycombinator.com/item?id=27331075
-Points: 893
-# Comments: 517]]></summary>
+Points: 921
+# Comments: 542]]></summary>
         <author>
             <name>luu</name>
         </author>
