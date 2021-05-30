@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T16:57:54.919Z</updated>
+    <updated>2021-05-30T18:49:34.153Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Don't Americans Use Bidets?]]></title>
+        <id>https://news.ycombinator.com/item?id=27335311</id>
+        <link href="https://www.theatlantic.com/technology/archive/2018/03/the-bidets-revival/555770/"/>
+        <updated>2021-05-30T18:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/technology/archive/2018/03/the-bidets-revival/555770/
+Comments URL: https://news.ycombinator.com/item?id=27335311
+Points: 18
+# Comments: 7]]></summary>
+        <author>
+            <name>elorant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[James Bond Unmasked (1968)]]></title>
+        <id>https://news.ycombinator.com/item?id=27335084</id>
+        <link href="https://www.commentarymagazine.com/articles/mordecai-richler/james-bond-unmasked/"/>
+        <updated>2021-05-30T17:59:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.commentarymagazine.com/articles/mordecai-richler/james-bond-unmasked/
+Comments URL: https://news.ycombinator.com/item?id=27335084
+Points: 5
+# Comments: 1]]></summary>
+        <author>
+            <name>uniqueid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humans Used to Sleep in Two Shifts, and Maybe We Should Do It Again]]></title>
+        <id>https://news.ycombinator.com/item?id=27334769</id>
+        <link href="https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again"/>
+        <updated>2021-05-30T17:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again
+Comments URL: https://news.ycombinator.com/item?id=27334769
+Points: 18
+# Comments: 10]]></summary>
+        <author>
+            <name>dsukhin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience]]></title>
+        <id>https://news.ycombinator.com/item?id=27334621</id>
+        <link href="https://readme.com/careers#head-of-product-management"/>
+        <updated>2021-05-30T17:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://readme.com/careers#head-of-product-management
+Comments URL: https://news.ycombinator.com/item?id=27334621
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>gkoberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A minimalistic Python wrapper to AWS DynamoDB]]></title>
+        <id>https://news.ycombinator.com/item?id=27334430</id>
+        <link href="https://github.com/dineshsonachalam/Lucid-Dynamodb"/>
+        <updated>2021-05-30T16:36:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/dineshsonachalam/Lucid-Dynamodb
+Comments URL: https://news.ycombinator.com/item?id=27334430
+Points: 15
+# Comments: 7]]></summary>
+        <author>
+            <name>nsonachalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overkill objects for everyday life]]></title>
+        <id>https://news.ycombinator.com/item?id=27334223</id>
+        <link href="https://neil.computer/notes/overkill-objects-for-everyday-life/"/>
+        <updated>2021-05-30T16:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neil.computer/notes/overkill-objects-for-everyday-life/
+Comments URL: https://news.ycombinator.com/item?id=27334223
+Points: 258
+# Comments: 159]]></summary>
+        <author>
+            <name>mrzool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terra: Low-level system programming language meta-programmed from Lua]]></title>
+        <id>https://news.ycombinator.com/item?id=27334065</id>
+        <link href="https://terralang.org/"/>
+        <updated>2021-05-30T15:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://terralang.org/
+Comments URL: https://news.ycombinator.com/item?id=27334065
+Points: 17
+# Comments: 3]]></summary>
+        <author>
+            <name>teleforce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Prime inflates prices, using the false promise of ‘free shipping’]]></title>
         <id>https://news.ycombinator.com/item?id=27333933</id>
@@ -13,10 +104,49 @@
         <updated>2021-05-30T15:30:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise
 Comments URL: https://news.ycombinator.com/item?id=27333933
-Points: 84
-# Comments: 57]]></summary>
+Points: 354
+# Comments: 182]]></summary>
         <author>
             <name>yarapavan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Kalk, A calculator with math syntax, complex numbers, etc. (Rust, WASM)]]></title>
+        <id>https://news.ycombinator.com/item?id=27333772</id>
+        <link href="https://kalk.strct.net"/>
+        <updated>2021-05-30T15:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kalk.strct.net
+Comments URL: https://news.ycombinator.com/item?id=27333772
+Points: 43
+# Comments: 15]]></summary>
+        <author>
+            <name>paddim8</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semi-Solid Casting Enables Net Shape Volume Manufacturing]]></title>
+        <id>https://news.ycombinator.com/item?id=27333629</id>
+        <link href="https://www.engineering.com/story/semi-solid-casting-enables-net-shape-volume-manufacturing"/>
+        <updated>2021-05-30T14:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.engineering.com/story/semi-solid-casting-enables-net-shape-volume-manufacturing
+Comments URL: https://news.ycombinator.com/item?id=27333629
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>baybal2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['I lost millions through cryptocurrency addiction']]></title>
+        <id>https://news.ycombinator.com/item?id=27333608</id>
+        <link href="https://www.bbc.com/news/uk-scotland-57268024"/>
+        <updated>2021-05-30T14:46:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-scotland-57268024
+Comments URL: https://news.ycombinator.com/item?id=27333608
+Points: 29
+# Comments: 21]]></summary>
+        <author>
+            <name>ryan_j_naughton</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +156,8 @@ Points: 84
         <updated>2021-05-30T13:55:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
 Comments URL: https://news.ycombinator.com/item?id=27333260
-Points: 197
-# Comments: 79]]></summary>
+Points: 403
+# Comments: 165]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -39,23 +169,10 @@ Points: 197
         <updated>2021-05-30T13:25:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://creativedesignsguru.com/category/nextjs/
 Comments URL: https://news.ycombinator.com/item?id=27333066
-Points: 5
-# Comments: 0]]></summary>
+Points: 16
+# Comments: 3]]></summary>
         <author>
             <name>creativedg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Muse (YC W12) Is Hiring a Senior Platform Engineer]]></title>
-        <id>https://news.ycombinator.com/item?id=27332626</id>
-        <link href="https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&amp;lever-source%5B%5D=YC"/>
-        <updated>2021-05-30T12:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&lever-source%5B%5D=YC
-Comments URL: https://news.ycombinator.com/item?id=27332626
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>KMinshew</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +182,8 @@ Points: 1
         <updated>2021-05-30T11:36:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/RobertGReeve/status/1397032784703655938
 Comments URL: https://news.ycombinator.com/item?id=27332506
-Points: 122
-# Comments: 101]]></summary>
+Points: 203
+# Comments: 152]]></summary>
         <author>
             <name>deadcoder0904</name>
         </author>
@@ -78,8 +195,8 @@ Points: 122
         <updated>2021-05-30T11:25:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tubenotes.xyz/
 Comments URL: https://news.ycombinator.com/item?id=27332446
-Points: 12
-# Comments: 2]]></summary>
+Points: 17
+# Comments: 3]]></summary>
         <author>
             <name>db1</name>
         </author>
@@ -94,23 +211,10 @@ The interviews are over, right now it is not guaranteed they will go with me. Bu
 The question is, when they offer me with a lower rate how should I deal with the situation so that I don't loose the position and get away with the best deal?
 P.S The company is US-based with a development team spread all across the globe. I am from South Asia and even $30/h is a very big deal.
 Comments URL: https://news.ycombinator.com/item?id=27332305
-Points: 44
-# Comments: 62]]></summary>
+Points: 99
+# Comments: 95]]></summary>
         <author>
             <name>2bor-2n</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SunBook – Sunlight Readable Netbook (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=27332290</id>
-        <link href="https://cloversystems.designscience.info/products/legacy-products/sunbook/"/>
-        <updated>2021-05-30T10:57:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cloversystems.designscience.info/products/legacy-products/sunbook/
-Comments URL: https://news.ycombinator.com/item?id=27332290
-Points: 54
-# Comments: 40]]></summary>
-        <author>
-            <name>iagovar</name>
         </author>
     </entry>
     <entry>
@@ -120,8 +224,8 @@ Points: 54
         <updated>2021-05-30T09:15:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/
 Comments URL: https://news.ycombinator.com/item?id=27331807
-Points: 360
-# Comments: 221]]></summary>
+Points: 415
+# Comments: 264]]></summary>
         <author>
             <name>EvgeniyZh</name>
         </author>
@@ -133,8 +237,8 @@ Points: 360
         <updated>2021-05-30T07:22:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://paperd.ink
 Comments URL: https://news.ycombinator.com/item?id=27331311
-Points: 149
-# Comments: 46]]></summary>
+Points: 168
+# Comments: 52]]></summary>
         <author>
             <name>robertlangdon</name>
         </author>
@@ -146,8 +250,8 @@ Points: 149
         <updated>2021-05-30T07:16:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nostarch.com/algorithmic-thinking
 Comments URL: https://news.ycombinator.com/item?id=27331285
-Points: 31
-# Comments: 2]]></summary>
+Points: 49
+# Comments: 4]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -159,114 +263,10 @@ Points: 31
         <updated>2021-05-30T06:32:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fstoppers.com/news/amazon-refused-refund-7000-after-shipping-empty-box-instead-sony-a1-564979
 Comments URL: https://news.ycombinator.com/item?id=27331075
-Points: 809
-# Comments: 465]]></summary>
+Points: 893
+# Comments: 517]]></summary>
         <author>
             <name>luu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offload Mental Simulation]]></title>
-        <id>https://news.ycombinator.com/item?id=27330740</id>
-        <link href="https://shalabh.com/programmable-systems/offload-mental-simulation.html"/>
-        <updated>2021-05-30T05:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://shalabh.com/programmable-systems/offload-mental-simulation.html
-Comments URL: https://news.ycombinator.com/item?id=27330740
-Points: 61
-# Comments: 14]]></summary>
-        <author>
-            <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Remarkable Life of Eugène-François Vidocq, Inventor of Modern Detective Work]]></title>
-        <id>https://news.ycombinator.com/item?id=27330466</id>
-        <link href="https://allthatsinteresting.com/eugene-francois-vidocq"/>
-        <updated>2021-05-30T03:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://allthatsinteresting.com/eugene-francois-vidocq
-Comments URL: https://news.ycombinator.com/item?id=27330466
-Points: 48
-# Comments: 5]]></summary>
-        <author>
-            <name>intellaughs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Computer science is not about computers”]]></title>
-        <id>https://news.ycombinator.com/item?id=27330400</id>
-        <link href="https://quoteinvestigator.com/2021/04/02/computer-science/"/>
-        <updated>2021-05-30T03:39:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://quoteinvestigator.com/2021/04/02/computer-science/
-Comments URL: https://news.ycombinator.com/item?id=27330400
-Points: 210
-# Comments: 236]]></summary>
-        <author>
-            <name>akakievich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PolarDB, yet another open source database system based on PostgreSQL]]></title>
-        <id>https://news.ycombinator.com/item?id=27330342</id>
-        <link href="https://github.com/alibaba/PolarDB-for-PostgreSQL"/>
-        <updated>2021-05-30T03:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/alibaba/PolarDB-for-PostgreSQL
-Comments URL: https://news.ycombinator.com/item?id=27330342
-Points: 122
-# Comments: 67]]></summary>
-        <author>
-            <name>jinqueeny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All the best engineering advice I stole from non-technical people (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27330031</id>
-        <link href="https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f"/>
-        <updated>2021-05-30T02:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f
-Comments URL: https://news.ycombinator.com/item?id=27330031
-Points: 252
-# Comments: 60]]></summary>
-        <author>
-            <name>techplex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: DarkHN – Dark Mode Mirror for Hacker News]]></title>
-        <id>https://news.ycombinator.com/item?id=27329809</id>
-        <link href="https://darkhn.herokuapp.com/"/>
-        <updated>2021-05-30T01:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://darkhn.herokuapp.com/
-Comments URL: https://news.ycombinator.com/item?id=27329809
-Points: 95
-# Comments: 56]]></summary>
-        <author>
-            <name>xtrp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trials begin on lozenge that rebuilds tooth enamel]]></title>
-        <id>https://news.ycombinator.com/item?id=27328663</id>
-        <link href="https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/"/>
-        <updated>2021-05-29T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/
-Comments URL: https://news.ycombinator.com/item?id=27328663
-Points: 860
-# Comments: 287]]></summary>
-        <author>
-            <name>beefman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New York’s Hyphenated History]]></title>
-        <id>https://news.ycombinator.com/item?id=27326270</id>
-        <link href="https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/"/>
-        <updated>2021-05-29T16:25:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/
-Comments URL: https://news.ycombinator.com/item?id=27326270
-Points: 34
-# Comments: 2]]></summary>
-        <author>
-            <name>overwhelm</name>
         </author>
     </entry>
     <entry>
