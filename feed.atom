@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T05:27:47.743Z</updated>
+    <updated>2021-06-01T07:44:51.672Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deepnote (YC S19) Is Hiring (SF, Prague)]]></title>
+        <id>https://news.ycombinator.com/item?id=27351420</id>
+        <link href="https://deepnote.com/join-us"/>
+        <updated>2021-06-01T07:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://deepnote.com/join-us
+Comments URL: https://news.ycombinator.com/item?id=27351420
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>Equiet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.10.2]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
@@ -27,27 +40,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[California's math overhaul focuses on equity]]></title>
-        <id>https://news.ycombinator.com/item?id=27350693</id>
-        <link href="https://www.latimes.com/california/story/2021-05-20/california-controversial-math-overhaul-focuses-on-equity"/>
-        <updated>2021-06-01T04:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.latimes.com/california/story/2021-05-20/california-controversial-math-overhaul-focuses-on-equity
-Comments URL: https://news.ycombinator.com/item?id=27350693
-Points: 13
-# Comments: 3]]></summary>
-        <author>
-            <name>rsj_hn</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC]]></title>
         <id>https://news.ycombinator.com/item?id=27350632</id>
         <link href="https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming"/>
         <updated>2021-06-01T04:03:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming
 Comments URL: https://news.ycombinator.com/item?id=27350632
-Points: 69
-# Comments: 12]]></summary>
+Points: 169
+# Comments: 54]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -59,34 +59,34 @@ Points: 69
         <updated>2021-06-01T03:42:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sagacioussuricata.com/posts/openwrt-serial-bridge/
 Comments URL: https://news.ycombinator.com/item?id=27350523
-Points: 4
+Points: 24
 # Comments: 0]]></summary>
         <author>
             <name>zdw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pynguin – Allow developers to generate Python unit tests automatically]]></title>
+        <title type="html"><![CDATA[Pynguin – Generate Python unit tests automatically]]></title>
         <id>https://news.ycombinator.com/item?id=27350264</id>
         <link href="https://github.com/se2p/pynguin"/>
         <updated>2021-06-01T02:47:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/se2p/pynguin
 Comments URL: https://news.ycombinator.com/item?id=27350264
-Points: 27
-# Comments: 12]]></summary>
+Points: 61
+# Comments: 28]]></summary>
         <author>
             <name>JNRowe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NVMe over Fabrics (NVMe-oF) Explained]]></title>
+        <title type="html"><![CDATA[NVMe over Fabrics Explained]]></title>
         <id>https://news.ycombinator.com/item?id=27350134</id>
         <link href="https://blog.westerndigital.com/nvme-of-explained/"/>
         <updated>2021-06-01T02:23:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.westerndigital.com/nvme-of-explained/
 Comments URL: https://news.ycombinator.com/item?id=27350134
-Points: 17
-# Comments: 3]]></summary>
+Points: 40
+# Comments: 6]]></summary>
         <author>
             <name>nickysielicki</name>
         </author>
@@ -98,23 +98,10 @@ Points: 17
         <updated>2021-06-01T02:17:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/oceanbase/oceanbase
 Comments URL: https://news.ycombinator.com/item?id=27350108
-Points: 10
-# Comments: 1]]></summary>
+Points: 21
+# Comments: 4]]></summary>
         <author>
             <name>jinqueeny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New report details Beijing’s foreign influence operations in Canada]]></title>
-        <id>https://news.ycombinator.com/item?id=27350073</id>
-        <link href="https://www.theglobeandmail.com/politics/article-new-report-details-beijings-foreign-influence-operations-in-canada/"/>
-        <updated>2021-06-01T02:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theglobeandmail.com/politics/article-new-report-details-beijings-foreign-influence-operations-in-canada/
-Comments URL: https://news.ycombinator.com/item?id=27350073
-Points: 25
-# Comments: 1]]></summary>
-        <author>
-            <name>ilamont</name>
         </author>
     </entry>
     <entry>
@@ -124,8 +111,8 @@ Points: 25
         <updated>2021-06-01T01:41:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://support.sevenhugs.com/t/35hfcvg
 Comments URL: https://news.ycombinator.com/item?id=27349947
-Points: 12
-# Comments: 5]]></summary>
+Points: 27
+# Comments: 22]]></summary>
         <author>
             <name>jsjohnst</name>
         </author>
@@ -137,23 +124,10 @@ Points: 12
         <updated>2021-06-01T00:11:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time
 Comments URL: https://news.ycombinator.com/item?id=27349469
-Points: 49
-# Comments: 31]]></summary>
+Points: 78
+# Comments: 47]]></summary>
         <author>
             <name>pier25</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Principal Engineer]]></title>
-        <id>https://news.ycombinator.com/item?id=27347983</id>
-        <link href="https://jobs.lever.co/buildzoom"/>
-        <updated>2021-05-31T21:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
-Comments URL: https://news.ycombinator.com/item?id=27347983
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>the_economist</name>
         </author>
     </entry>
     <entry>
@@ -163,10 +137,23 @@ Points: 1
         <updated>2021-05-31T20:52:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.insidescience.org/news/how-speak-cicada
 Comments URL: https://news.ycombinator.com/item?id=27347931
-Points: 5
-# Comments: 0]]></summary>
+Points: 20
+# Comments: 1]]></summary>
         <author>
             <name>redeemed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“There ain't no such thing as a free lunch”]]></title>
+        <id>https://news.ycombinator.com/item?id=27347920</id>
+        <link href="https://en.wikipedia.org/wiki/There_ain%27t_no_such_thing_as_a_free_lunch"/>
+        <updated>2021-05-31T20:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/There_ain%27t_no_such_thing_as_a_free_lunch
+Comments URL: https://news.ycombinator.com/item?id=27347920
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -176,8 +163,8 @@ Points: 5
         <updated>2021-05-31T20:35:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pubmed.ncbi.nlm.nih.gov/33555034/
 Comments URL: https://news.ycombinator.com/item?id=27347818
-Points: 131
-# Comments: 87]]></summary>
+Points: 141
+# Comments: 95]]></summary>
         <author>
             <name>ve55</name>
         </author>
@@ -189,8 +176,8 @@ Points: 131
         <updated>2021-05-31T18:50:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1
 Comments URL: https://news.ycombinator.com/item?id=27347039
-Points: 174
-# Comments: 67]]></summary>
+Points: 184
+# Comments: 69]]></summary>
         <author>
             <name>exolymph</name>
         </author>
@@ -202,8 +189,8 @@ Points: 174
         <updated>2021-05-31T18:50:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://annagat.substack.com/p/on-smoking
 Comments URL: https://news.ycombinator.com/item?id=27347035
-Points: 236
-# Comments: 225]]></summary>
+Points: 265
+# Comments: 257]]></summary>
         <author>
             <name>exolymph</name>
         </author>
@@ -215,8 +202,8 @@ Points: 236
         <updated>2021-05-31T18:49:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://every.to/cybernaut/caught-in-the-study-web
 Comments URL: https://news.ycombinator.com/item?id=27347028
-Points: 21
-# Comments: 1]]></summary>
+Points: 37
+# Comments: 5]]></summary>
         <author>
             <name>exolymph</name>
         </author>
@@ -228,8 +215,8 @@ Points: 21
         <updated>2021-05-31T18:49:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tomcritchlow.com/2018/02/23/small-b-blogging/
 Comments URL: https://news.ycombinator.com/item?id=27347026
-Points: 60
-# Comments: 10]]></summary>
+Points: 71
+# Comments: 21]]></summary>
         <author>
             <name>exolymph</name>
         </author>
@@ -241,8 +228,8 @@ Points: 60
         <updated>2021-05-31T18:02:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://andersource.dev/2021/04/29/faulty_digital_clock.html
 Comments URL: https://news.ycombinator.com/item?id=27346655
-Points: 74
-# Comments: 7]]></summary>
+Points: 81
+# Comments: 11]]></summary>
         <author>
             <name>andersource</name>
         </author>
@@ -254,7 +241,7 @@ Points: 74
         <updated>2021-05-31T17:42:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dragongoserver.net/
 Comments URL: https://news.ycombinator.com/item?id=27346464
-Points: 78
+Points: 80
 # Comments: 31]]></summary>
         <author>
             <name>Tomte</name>
@@ -289,14 +276,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UUID, serial or identity columns for PostgreSQL auto-generated primary keys?]]></title>
+        <id>https://news.ycombinator.com/item?id=27345837</id>
+        <link href="https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/"/>
+        <updated>2021-05-31T16:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/
+Comments URL: https://news.ycombinator.com/item?id=27345837
+Points: 188
+# Comments: 138]]></summary>
+        <author>
+            <name>lhenk</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The most expensive number in engineering]]></title>
         <id>https://news.ycombinator.com/item?id=27345784</id>
         <link href="https://surjan.substack.com/p/the-most-expensive-number-in-engineering"/>
         <updated>2021-05-31T16:34:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://surjan.substack.com/p/the-most-expensive-number-in-engineering
 Comments URL: https://news.ycombinator.com/item?id=27345784
-Points: 385
-# Comments: 132]]></summary>
+Points: 414
+# Comments: 139]]></summary>
         <author>
             <name>as89</name>
         </author>
@@ -308,8 +308,8 @@ Points: 385
         <updated>2021-05-31T16:04:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.elopezr.com/a-macro-view-of-nanite/
 Comments URL: https://news.ycombinator.com/item?id=27345411
-Points: 105
-# Comments: 20]]></summary>
+Points: 114
+# Comments: 22]]></summary>
         <author>
             <name>haxiomic</name>
         </author>
