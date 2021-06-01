@@ -2,21 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T15:40:26.100Z</updated>
+    <updated>2021-06-01T17:40:18.581Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[The US military is starting to get interested in Starship]]></title>
-        <id>https://news.ycombinator.com/item?id=27355979</id>
-        <link href="https://arstechnica.com/science/2021/06/the-us-military-is-starting-to-get-really-interested-in-starship/"/>
-        <updated>2021-06-01T15:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/06/the-us-military-is-starting-to-get-really-interested-in-starship/
-Comments URL: https://news.ycombinator.com/item?id=27355979
-Points: 3
+        <title type="html"><![CDATA[Porting the Oberon system to the RISC-V [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=27357785</id>
+        <link href="https://www.youtube.com/watch?v=gpGgeXHZr0M&amp;t=21420s"/>
+        <updated>2021-06-01T17:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=gpGgeXHZr0M&t=21420s
+Comments URL: https://news.ycombinator.com/item?id=27357785
+Points: 6
 # Comments: 0]]></summary>
         <author>
-            <name>rbanffy</name>
+            <name>pjmlp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneSignal (Messaging and Push Notification APIs) is hiring product engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27357687</id>
+        <link href="https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96"/>
+        <updated>2021-06-01T17:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96
+Comments URL: https://news.ycombinator.com/item?id=27357687
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>gdeglin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Libdill: Structured Concurrency for C (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27357295</id>
+        <link href="http://libdill.org/structured-concurrency.html"/>
+        <updated>2021-06-01T16:39:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://libdill.org/structured-concurrency.html
+Comments URL: https://news.ycombinator.com/item?id=27357295
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>ibraheemdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source]]></title>
+        <id>60acf28e11ffb70827ef6dd9</id>
+        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/"/>
+        <updated>2021-06-01T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Cybersecurity Job in 2021]]></title>
+        <id>60aff2d711ffb70827ef8829</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/"/>
+        <updated>2021-06-01T16:34:00.000Z</updated>
+        <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon changes TOS to let customers sue, after facing 75K+ arbitration demands]]></title>
+        <id>https://news.ycombinator.com/item?id=27356550</id>
+        <link href="https://www.wsj.com/articles/amazon-faced-75-000-arbitration-demands-now-it-says-fine-sue-us-11622547000"/>
+        <updated>2021-06-01T15:58:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/amazon-faced-75-000-arbitration-demands-now-it-says-fine-sue-us-11622547000
+Comments URL: https://news.ycombinator.com/item?id=27356550
+Points: 37
+# Comments: 4]]></summary>
+        <author>
+            <name>nickthegreek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freenode Exodus: A List]]></title>
+        <id>https://news.ycombinator.com/item?id=27356465</id>
+        <link href="https://github.com/siraben/freenode-exodus"/>
+        <updated>2021-06-01T15:53:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/siraben/freenode-exodus
+Comments URL: https://news.ycombinator.com/item?id=27356465
+Points: 65
+# Comments: 7]]></summary>
+        <author>
+            <name>zatertip</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy and Complex Systems (2020) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27355961</id>
+        <link href="https://ocw.smithw.org/bus497a/complex-systems.pdf"/>
+        <updated>2021-06-01T15:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ocw.smithw.org/bus497a/complex-systems.pdf
+Comments URL: https://news.ycombinator.com/item?id=27355961
+Points: 25
+# Comments: 2]]></summary>
+        <author>
+            <name>zeeshanqureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon US customers given one week to opt out of mass wireless sharing]]></title>
+        <id>https://news.ycombinator.com/item?id=27355789</id>
+        <link href="https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing"/>
+        <updated>2021-06-01T15:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing
+Comments URL: https://news.ycombinator.com/item?id=27355789
+Points: 87
+# Comments: 22]]></summary>
+        <author>
+            <name>haasted</name>
         </author>
     </entry>
     <entry>
@@ -32,27 +130,53 @@ The post Looking fine with Firefox 89 appeared first on Mozilla Hacks - the Web 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tangle data-structure – The lesser known blockchain alternative]]></title>
+        <id>https://news.ycombinator.com/item?id=27355714</id>
+        <link href="https://blog.iota.org/the-tangle-an-illustrated-introduction-c0a86f994445/"/>
+        <updated>2021-06-01T15:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.iota.org/the-tangle-an-illustrated-introduction-c0a86f994445/
+Comments URL: https://news.ycombinator.com/item?id=27355714
+Points: 14
+# Comments: 6]]></summary>
+        <author>
+            <name>cvs268</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Virtual deck of cards using just a browser]]></title>
         <id>https://news.ycombinator.com/item?id=27355690</id>
         <link href="https://playingcards.io/"/>
         <updated>2021-06-01T15:16:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://playingcards.io/
 Comments URL: https://news.ycombinator.com/item?id=27355690
-Points: 22
-# Comments: 6]]></summary>
+Points: 106
+# Comments: 19]]></summary>
         <author>
             <name>beermonster</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Website Obesity Crisis (2015)]]></title>
+        <title type="html"><![CDATA[Cloudera taken private for $5.3b, acquires Datacoral and Cazena]]></title>
+        <id>https://news.ycombinator.com/item?id=27355604</id>
+        <link href="https://blog.cloudera.com/turning-the-page/"/>
+        <updated>2021-06-01T15:12:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.cloudera.com/turning-the-page/
+Comments URL: https://news.ycombinator.com/item?id=27355604
+Points: 16
+# Comments: 0]]></summary>
+        <author>
+            <name>swyx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The website obesity crisis (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=27355556</id>
         <link href="https://idlewords.com/talks/website_obesity.htm"/>
         <updated>2021-06-01T15:09:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://idlewords.com/talks/website_obesity.htm
 Comments URL: https://news.ycombinator.com/item?id=27355556
-Points: 36
-# Comments: 7]]></summary>
+Points: 95
+# Comments: 62]]></summary>
         <author>
             <name>wilsonzlin</name>
         </author>
@@ -77,8 +201,8 @@ Don't miss these other fine threads:
 Who wants to be hired? https://news.ycombinator.com/item?id=27355390
 Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=27355391
 Comments URL: https://news.ycombinator.com/item?id=27355392
-Points: 15
-# Comments: 54]]></summary>
+Points: 130
+# Comments: 260]]></summary>
         <author>
             <name>whoishiring</name>
         </author>
@@ -90,7 +214,7 @@ Points: 15
         <updated>2021-06-01T14:32:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vt100.net/dec/vt220/glyphs
 Comments URL: https://news.ycombinator.com/item?id=27355056
-Points: 5
+Points: 22
 # Comments: 0]]></summary>
         <author>
             <name>rbanffy</name>
@@ -109,19 +233,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ten Kilograms of Chocolate (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27354859</id>
-        <link href="https://medium.com/@florian_32814/ten-kilograms-of-chocolate-75c4fa3492b6"/>
-        <updated>2021-06-01T14:17:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medium.com/@florian_32814/ten-kilograms-of-chocolate-75c4fa3492b6
-Comments URL: https://news.ycombinator.com/item?id=27354859
-Points: 21
-# Comments: 5]]></summary>
-        <author>
-            <name>floitsch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jetpack Boost Handles Critical CSS For You]]></title>
         <id>https://css-tricks.com/?p=341296</id>
         <link href="https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/"/>
@@ -134,42 +245,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digging into Quebec's electronic proof of vaccination]]></title>
-        <id>https://news.ycombinator.com/item?id=27354815</id>
-        <link href="https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/"/>
-        <updated>2021-06-01T14:14:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/
-Comments URL: https://news.ycombinator.com/item?id=27354815
-Points: 32
-# Comments: 10]]></summary>
-        <author>
-            <name>gozmike</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Driving with D]]></title>
         <id>https://news.ycombinator.com/item?id=27354761</id>
         <link href="https://dlang.org/blog/2021/06/01/driving-with-d/"/>
         <updated>2021-06-01T14:10:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dlang.org/blog/2021/06/01/driving-with-d/
 Comments URL: https://news.ycombinator.com/item?id=27354761
-Points: 68
-# Comments: 30]]></summary>
+Points: 183
+# Comments: 85]]></summary>
         <author>
             <name>pjmlp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should Perl Die Gracefully?]]></title>
-        <id>https://news.ycombinator.com/item?id=27354725</id>
-        <link href="https://phoenixtrap.com/2021/06/01/should-perl-die-gracefully/"/>
-        <updated>2021-06-01T14:08:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://phoenixtrap.com/2021/06/01/should-perl-die-gracefully/
-Comments URL: https://news.ycombinator.com/item?id=27354725
-Points: 10
-# Comments: 5]]></summary>
-        <author>
-            <name>mjgardner</name>
         </author>
     </entry>
     <entry>
@@ -183,16 +268,16 @@ Points: 10
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I’m Not Scared to Reenter Society. I’m Just Not Sure I Want To]]></title>
-        <id>https://news.ycombinator.com/item?id=27353982</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2021/05/post-pandemic-dont-want-to-reenter-society/619045/"/>
-        <updated>2021-06-01T13:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/ideas/archive/2021/05/post-pandemic-dont-want-to-reenter-society/619045/
-Comments URL: https://news.ycombinator.com/item?id=27353982
-Points: 106
-# Comments: 115]]></summary>
+        <title type="html"><![CDATA[RAUC: Safe and Secure Updating]]></title>
+        <id>https://news.ycombinator.com/item?id=27354223</id>
+        <link href="https://www.rauc.io/"/>
+        <updated>2021-06-01T13:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.rauc.io/
+Comments URL: https://news.ycombinator.com/item?id=27354223
+Points: 10
+# Comments: 1]]></summary>
         <author>
-            <name>one2three4</name>
+            <name>Tomte</name>
         </author>
     </entry>
     <entry>
@@ -202,8 +287,8 @@ Points: 106
         <updated>2021-06-01T13:17:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://faq.whatsapp.com/general/security-and-privacy/what-is-traceability-and-why-does-whatsapp-oppose-it/?_fb_noscript=1#
 Comments URL: https://news.ycombinator.com/item?id=27353932
-Points: 30
-# Comments: 13]]></summary>
+Points: 91
+# Comments: 60]]></summary>
         <author>
             <name>lavios</name>
         </author>
@@ -215,23 +300,10 @@ Points: 30
         <updated>2021-06-01T13:15:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ytdl-org/youtube-dl/issues/28578
 Comments URL: https://news.ycombinator.com/item?id=27353917
-Points: 246
-# Comments: 140]]></summary>
+Points: 355
+# Comments: 245]]></summary>
         <author>
             <name>makeworld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reclaim Windows10]]></title>
-        <id>https://news.ycombinator.com/item?id=27353810</id>
-        <link href="https://gist.github.com/alirobe/7f3b34ad89a159e6daa1"/>
-        <updated>2021-06-01T13:08:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gist.github.com/alirobe/7f3b34ad89a159e6daa1
-Comments URL: https://news.ycombinator.com/item?id=27353810
-Points: 99
-# Comments: 66]]></summary>
-        <author>
-            <name>manjana</name>
         </author>
     </entry>
     <entry>
@@ -241,8 +313,8 @@ Points: 99
         <updated>2021-06-01T12:55:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.mozilla.org/en-US/firefox/89.0/releasenotes/
 Comments URL: https://news.ycombinator.com/item?id=27353684
-Points: 269
-# Comments: 216]]></summary>
+Points: 366
+# Comments: 302]]></summary>
         <author>
             <name>looperhacks</name>
         </author>
@@ -254,8 +326,8 @@ Points: 269
         <updated>2021-06-01T12:54:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home
 Comments URL: https://news.ycombinator.com/item?id=27353672
-Points: 411
-# Comments: 360]]></summary>
+Points: 613
+# Comments: 550]]></summary>
         <author>
             <name>mancerayder</name>
         </author>
@@ -267,62 +339,10 @@ Points: 411
         <updated>2021-06-01T12:48:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.politico.eu/article/europe-to-us-pass-new-laws-if-you-want-data-transfer-deal-privacy-regulation/
 Comments URL: https://news.ycombinator.com/item?id=27353606
-Points: 90
-# Comments: 17]]></summary>
+Points: 125
+# Comments: 38]]></summary>
         <author>
             <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rotations with quaternions]]></title>
-        <id>https://news.ycombinator.com/item?id=27353263</id>
-        <link href="https://imadr.github.io/rotations-with-quaternions/"/>
-        <updated>2021-06-01T12:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://imadr.github.io/rotations-with-quaternions/
-Comments URL: https://news.ycombinator.com/item?id=27353263
-Points: 76
-# Comments: 43]]></summary>
-        <author>
-            <name>imadr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A virtual machine for microcontrollers]]></title>
-        <id>https://news.ycombinator.com/item?id=27353255</id>
-        <link href="https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c"/>
-        <updated>2021-06-01T12:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c
-Comments URL: https://news.ycombinator.com/item?id=27353255
-Points: 101
-# Comments: 53]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuestDB – Open-Source Time-Series Database – Is Hiring]]></title>
-        <id>https://news.ycombinator.com/item?id=27353229</id>
-        <link href="https://questdb.io/careers/"/>
-        <updated>2021-06-01T12:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://questdb.io/careers/
-Comments URL: https://news.ycombinator.com/item?id=27353229
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>nhourcard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chip Scale Atomic Clock (CSAC)]]></title>
-        <id>https://news.ycombinator.com/item?id=27353163</id>
-        <link href="https://www.microsemi.com/product-directory/clocks-frequency-references/3824-chip-scale-atomic-clock-csac#overview"/>
-        <updated>2021-06-01T11:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.microsemi.com/product-directory/clocks-frequency-references/3824-chip-scale-atomic-clock-csac#overview
-Comments URL: https://news.ycombinator.com/item?id=27353163
-Points: 42
-# Comments: 24]]></summary>
-        <author>
-            <name>moh_maya</name>
         </author>
     </entry>
     <entry>
@@ -567,26 +587,6 @@ The post Links on Web Components appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
-        <id>60abc59d11ffb70827ef6304</id>
-        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
-        <updated>2021-05-26T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js]]></title>
-        <id>60aced0011ffb70827ef6d96</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/"/>
-        <updated>2021-05-26T14:12:27.000Z</updated>
-        <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
