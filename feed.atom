@@ -2,34 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T20:24:52.390Z</updated>
+    <updated>2021-06-01T22:12:00.664Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[The largest meat processor has been hit with a cyberattack]]></title>
-        <id>https://news.ycombinator.com/item?id=27360088</id>
-        <link href="https://thecounter.org/largest-us-meat-processor-jbs-cyberattack-food-supply-chain/"/>
-        <updated>2021-06-01T19:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thecounter.org/largest-us-meat-processor-jbs-cyberattack-food-supply-chain/
-Comments URL: https://news.ycombinator.com/item?id=27360088
-Points: 35
-# Comments: 22]]></summary>
+        <title type="html"><![CDATA[Code blocks, but better]]></title>
+        <id>https://css-tricks.com/?p=341720</id>
+        <link href="https://ped.ro/blog/code-blocks-but-better"/>
+        <updated>2021-06-01T22:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …
+The post Code blocks, but better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>bonefishgrill</name>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[William Byrd on Logic and Relational Programming, MiniKanren (2014)]]></title>
+        <title type="html"><![CDATA[DIY Book Scanner]]></title>
+        <id>https://news.ycombinator.com/item?id=27361815</id>
+        <link href="https://www.diybookscanner.org/"/>
+        <updated>2021-06-01T21:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.diybookscanner.org/
+Comments URL: https://news.ycombinator.com/item?id=27361815
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>bcaa7f3a8bbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Level up your poker game with Floptimal. Preflop ranges reimagined]]></title>
+        <id>https://news.ycombinator.com/item?id=27361584</id>
+        <link href="https://floptimal.com"/>
+        <updated>2021-06-01T21:28:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://floptimal.com
+Comments URL: https://news.ycombinator.com/item?id=27361584
+Points: 22
+# Comments: 1]]></summary>
+        <author>
+            <name>theshirin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signadot (YC W20) Is Hiring Founding Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27361225</id>
+        <link href="https://www.workatastartup.com/jobs/42298"/>
+        <updated>2021-06-01T21:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/42298
+Comments URL: https://news.ycombinator.com/item?id=27361225
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>jaguar75</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe]]></title>
+        <id>60b1eed311ffb70827ef9504</id>
+        <link href="https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/"/>
+        <updated>2021-06-01T20:47:43.000Z</updated>
+        <summary type="html"><![CDATA[A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Secure and Formally Verified Linux KVM Hypervisor [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27360600</id>
+        <link href="http://nieh.net/pubs/ieeesp2021_kvm.pdf"/>
+        <updated>2021-06-01T20:10:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://nieh.net/pubs/ieeesp2021_kvm.pdf
+Comments URL: https://news.ycombinator.com/item?id=27360600
+Points: 16
+# Comments: 1]]></summary>
+        <author>
+            <name>tmfi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBS Studio 27.0]]></title>
+        <id>https://news.ycombinator.com/item?id=27360141</id>
+        <link href="https://github.com/obsproject/obs-studio/releases/tag/27.0.0"/>
+        <updated>2021-06-01T19:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/obsproject/obs-studio/releases/tag/27.0.0
+Comments URL: https://news.ycombinator.com/item?id=27360141
+Points: 131
+# Comments: 12]]></summary>
+        <author>
+            <name>TangerineDream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[William Byrd on logic and relational programming, miniKanren (2014)]]></title>
         <id>https://news.ycombinator.com/item?id=27359963</id>
         <link href="https://www.infoq.com/interviews/byrd-relational-programming-minikanren/"/>
         <updated>2021-06-01T19:25:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.infoq.com/interviews/byrd-relational-programming-minikanren/
 Comments URL: https://news.ycombinator.com/item?id=27359963
-Points: 8
+Points: 28
 # Comments: 0]]></summary>
         <author>
             <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apple M1 compiles Linux 30% faster than my Intel i9]]></title>
+        <id>https://news.ycombinator.com/item?id=27359783</id>
+        <link href="https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9"/>
+        <updated>2021-06-01T19:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9
+Comments URL: https://news.ycombinator.com/item?id=27359783
+Points: 58
+# Comments: 35]]></summary>
+        <author>
+            <name>geerlingguy</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +126,8 @@ Points: 8
         <updated>2021-06-01T18:53:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs
 Comments URL: https://news.ycombinator.com/item?id=27359515
-Points: 67
-# Comments: 36]]></summary>
+Points: 135
+# Comments: 130]]></summary>
         <author>
             <name>davidw</name>
         </author>
@@ -52,23 +139,10 @@ Points: 67
         <updated>2021-06-01T18:37:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop
 Comments URL: https://news.ycombinator.com/item?id=27359269
-Points: 173
-# Comments: 36]]></summary>
+Points: 216
+# Comments: 46]]></summary>
         <author>
             <name>1915cb1f</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Big Alien Theory]]></title>
-        <id>https://news.ycombinator.com/item?id=27359203</id>
-        <link href="http://thebigalientheory.com/"/>
-        <updated>2021-06-01T18:33:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://thebigalientheory.com/
-Comments URL: https://news.ycombinator.com/item?id=27359203
-Points: 20
-# Comments: 1]]></summary>
-        <author>
-            <name>lisper</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +152,8 @@ Points: 20
         <updated>2021-06-01T18:25:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
 Comments URL: https://news.ycombinator.com/item?id=27359081
-Points: 59
-# Comments: 7]]></summary>
+Points: 148
+# Comments: 33]]></summary>
         <author>
             <name>nickjj</name>
         </author>
@@ -91,23 +165,10 @@ Points: 59
         <updated>2021-06-01T18:01:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html
 Comments URL: https://news.ycombinator.com/item?id=27358692
-Points: 49
-# Comments: 9]]></summary>
+Points: 76
+# Comments: 15]]></summary>
         <author>
             <name>thedday</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple, FedEx and the cookie apocalypse]]></title>
-        <id>https://news.ycombinator.com/item?id=27358679</id>
-        <link href="https://www.ben-evans.com/benedictevans/2021/5/25/apple-fedex-and-the-cookie-apocalypse"/>
-        <updated>2021-06-01T18:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ben-evans.com/benedictevans/2021/5/25/apple-fedex-and-the-cookie-apocalypse
-Comments URL: https://news.ycombinator.com/item?id=27358679
-Points: 120
-# Comments: 99]]></summary>
-        <author>
-            <name>tmfi</name>
         </author>
     </entry>
     <entry>
@@ -117,8 +178,8 @@ Points: 120
         <updated>2021-06-01T17:48:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://helix-editor.com/
 Comments URL: https://news.ycombinator.com/item?id=27358479
-Points: 180
-# Comments: 74]]></summary>
+Points: 323
+# Comments: 146]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -140,23 +201,10 @@ Points: 180
         <updated>2021-06-01T17:05:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=gpGgeXHZr0M&t=21420s
 Comments URL: https://news.ycombinator.com/item?id=27357785
-Points: 36
+Points: 42
 # Comments: 3]]></summary>
         <author>
             <name>pjmlp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneSignal (Messaging and Push Notification APIs) is hiring product engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27357687</id>
-        <link href="https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96"/>
-        <updated>2021-06-01T17:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96
-Comments URL: https://news.ycombinator.com/item?id=27357687
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>gdeglin</name>
         </author>
     </entry>
     <entry>
@@ -166,8 +214,8 @@ Points: 1
         <updated>2021-06-01T16:57:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl
 Comments URL: https://news.ycombinator.com/item?id=27357646
-Points: 53
-# Comments: 11]]></summary>
+Points: 102
+# Comments: 20]]></summary>
         <author>
             <name>evo_9</name>
         </author>
@@ -179,8 +227,8 @@ Points: 53
         <updated>2021-06-01T16:54:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/
 Comments URL: https://news.ycombinator.com/item?id=27357592
-Points: 61
-# Comments: 69]]></summary>
+Points: 162
+# Comments: 228]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -192,8 +240,8 @@ Points: 61
         <updated>2021-06-01T16:39:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://libdill.org/structured-concurrency.html
 Comments URL: https://news.ycombinator.com/item?id=27357295
-Points: 30
-# Comments: 7]]></summary>
+Points: 40
+# Comments: 11]]></summary>
         <author>
             <name>ibraheemdev</name>
         </author>
@@ -219,27 +267,14 @@ Points: 30
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon changes TOS to let customers sue, after facing 75K+ arbitration demands]]></title>
-        <id>https://news.ycombinator.com/item?id=27356550</id>
-        <link href="https://www.wsj.com/articles/amazon-faced-75-000-arbitration-demands-now-it-says-fine-sue-us-11622547000"/>
-        <updated>2021-06-01T15:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/amazon-faced-75-000-arbitration-demands-now-it-says-fine-sue-us-11622547000
-Comments URL: https://news.ycombinator.com/item?id=27356550
-Points: 145
-# Comments: 28]]></summary>
-        <author>
-            <name>nickthegreek</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon US customers given one week to opt out of mass wireless sharing]]></title>
         <id>https://news.ycombinator.com/item?id=27355789</id>
         <link href="https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing"/>
         <updated>2021-06-01T15:20:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing
 Comments URL: https://news.ycombinator.com/item?id=27355789
-Points: 284
-# Comments: 152]]></summary>
+Points: 341
+# Comments: 186]]></summary>
         <author>
             <name>haasted</name>
         </author>
@@ -263,8 +298,8 @@ The post Looking fine with Firefox 89 appeared first on Mozilla Hacks - the Web 
         <updated>2021-06-01T15:16:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://playingcards.io/
 Comments URL: https://news.ycombinator.com/item?id=27355690
-Points: 173
-# Comments: 36]]></summary>
+Points: 198
+# Comments: 45]]></summary>
         <author>
             <name>beermonster</name>
         </author>
@@ -276,8 +311,8 @@ Points: 173
         <updated>2021-06-01T15:12:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.cloudera.com/turning-the-page/
 Comments URL: https://news.ycombinator.com/item?id=27355604
-Points: 94
-# Comments: 42]]></summary>
+Points: 118
+# Comments: 62]]></summary>
         <author>
             <name>swyx</name>
         </author>
@@ -302,23 +337,8 @@ Don't miss these other fine threads:
 Who wants to be hired? https://news.ycombinator.com/item?id=27355390
 Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=27355391
 Comments URL: https://news.ycombinator.com/item?id=27355392
-Points: 226
-# Comments: 518]]></summary>
-        <author>
-            <name>whoishiring</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Freelancer? Seeking freelancer? (June 2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=27355391</id>
-        <link href="https://news.ycombinator.com/item?id=27355391"/>
-        <updated>2021-06-01T15:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Please lead with either SEEKING WORK or SEEKING FREELANCER,
-your location, and whether remote work is a possibility.
-Bonsai (YC W16) (https://www.hellobonsai.com) offers freelance contracts, proposals, invoices, etc.
-Comments URL: https://news.ycombinator.com/item?id=27355391
-Points: 53
-# Comments: 56]]></summary>
+Points: 251
+# Comments: 587]]></summary>
         <author>
             <name>whoishiring</name>
         </author>
@@ -557,16 +577,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide]]></title>
-        <id>60abe7fb11ffb70827ef63a6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"/>
-        <updated>2021-05-26T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, you've probably come across the term "open source." If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
         <id>https://css-tricks.com/?p=339759</id>
         <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
@@ -686,22 +696,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, 
 …
 The post Links on Performance appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[proxy-www]]></title>
-        <id>https://css-tricks.com/?p=341153</id>
-        <link href="https://github.com/justjavac/proxy-www"/>
-        <updated>2021-05-24T19:09:59.000Z</updated>
-        <summary type="html"><![CDATA[I like a good trick. What if… a URL was…  a promise… that fetched said URL?
-www.codepen.io.then((response) ={
-  console.log(response);
-});
-That’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…
-The post proxy-www appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
