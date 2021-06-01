@@ -6,9 +6,90 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27354815",
+          "author": "gozmike",
+          "description": "Article URL: https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/\nComments URL: https://news.ycombinator.com/item?id=27354815\nPoints: 6\n# Comments: 0",
+          "link": "https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/",
+          "publishedOn": "2021-06-01T14:14:20.000Z",
+          "wordCount": 1480,
+          "title": "Digging into Quebec's electronic proof of vaccination"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27354761",
+          "author": "pjmlp",
+          "description": "Article URL: https://dlang.org/blog/2021/06/01/driving-with-d/\nComments URL: https://news.ycombinator.com/item?id=27354761\nPoints: 5\n# Comments: 0",
+          "link": "https://dlang.org/blog/2021/06/01/driving-with-d/",
+          "publishedOn": "2021-06-01T14:10:41.000Z",
+          "wordCount": 1287,
+          "title": "Driving with D"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27353982",
+          "author": "one2three4",
+          "description": "Article URL: https://www.theatlantic.com/ideas/archive/2021/05/post-pandemic-dont-want-to-reenter-society/619045/\nComments URL: https://news.ycombinator.com/item?id=27353982\nPoints: 42\n# Comments: 23",
+          "link": "https://www.theatlantic.com/ideas/archive/2021/05/post-pandemic-dont-want-to-reenter-society/619045/",
+          "publishedOn": "2021-06-01T13:21:54.000Z",
+          "wordCount": 1561,
+          "title": "I’m Not Scared to Reenter Society. I’m Just Not Sure I Want To"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27353917",
+          "author": "makeworld",
+          "description": "Article URL: https://github.com/ytdl-org/youtube-dl/issues/28578\nComments URL: https://news.ycombinator.com/item?id=27353917\nPoints: 121\n# Comments: 44",
+          "link": "https://github.com/ytdl-org/youtube-dl/issues/28578",
+          "publishedOn": "2021-06-01T13:15:58.000Z",
+          "wordCount": 1719,
+          "title": "YouTube-dl can no longer download age-restricted videos"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27353810",
+          "author": "manjana",
+          "description": "Article URL: https://gist.github.com/alirobe/7f3b34ad89a159e6daa1\nComments URL: https://news.ycombinator.com/item?id=27353810\nPoints: 45\n# Comments: 22",
+          "link": "https://gist.github.com/alirobe/7f3b34ad89a159e6daa1",
+          "publishedOn": "2021-06-01T13:08:32.000Z",
+          "wordCount": 15455,
+          "title": "reclaimWindows10.ps1"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27353684",
+          "author": "looperhacks",
+          "description": "Article URL: https://www.mozilla.org/en-US/firefox/89.0/releasenotes/\nComments URL: https://news.ycombinator.com/item?id=27353684\nPoints: 160\n# Comments: 130",
+          "link": "https://www.mozilla.org/en-US/firefox/89.0/releasenotes/",
+          "publishedOn": "2021-06-01T12:55:57.000Z",
+          "wordCount": 1273,
+          "title": "Firefox Release 89.0"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27353672",
+          "author": "mancerayder",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home\nComments URL: https://news.ycombinator.com/item?id=27353672\nPoints: 262\n# Comments: 222",
+          "link": "https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home",
+          "publishedOn": "2021-06-01T12:54:50.000Z",
+          "wordCount": 93,
+          "title": "Employees Are Quitting Instead of Giving Up Working from Home"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27353606",
+          "author": "Tomte",
+          "description": "Article URL: https://www.politico.eu/article/europe-to-us-pass-new-laws-if-you-want-data-transfer-deal-privacy-regulation/\nComments URL: https://news.ycombinator.com/item?id=27353606\nPoints: 63\n# Comments: 10",
+          "link": "https://www.politico.eu/article/europe-to-us-pass-new-laws-if-you-want-data-transfer-deal-privacy-regulation/",
+          "publishedOn": "2021-06-01T12:48:10.000Z",
+          "wordCount": 1611,
+          "title": "Europe to US: Pass new laws if you want a data-transfer deal"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27353486",
+          "author": "mhb",
+          "description": "Article URL: https://www.nytimes.com/interactive/2021/05/31/climate/wildlife-crossings-animals.html\nComments URL: https://news.ycombinator.com/item?id=27353486\nPoints: 12\n# Comments: 1",
+          "link": "https://www.nytimes.com/interactive/2021/05/31/climate/wildlife-crossings-animals.html",
+          "publishedOn": "2021-06-01T12:34:12.000Z",
+          "wordCount": 1892,
+          "title": "How Do Animals Safely Cross a Highway? Take a Look"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27353263",
           "author": "imadr",
-          "description": "Article URL: https://imadr.github.io/rotations-with-quaternions/\nComments URL: https://news.ycombinator.com/item?id=27353263\nPoints: 7\n# Comments: 1",
+          "description": "Article URL: https://imadr.github.io/rotations-with-quaternions/\nComments URL: https://news.ycombinator.com/item?id=27353263\nPoints: 43\n# Comments: 23",
           "link": "https://imadr.github.io/rotations-with-quaternions/",
           "publishedOn": "2021-06-01T12:03:59.000Z",
           "wordCount": 1271,
@@ -17,10 +98,10 @@
         {
           "id": "https://news.ycombinator.com/item?id=27353255",
           "author": "tosh",
-          "description": "Article URL: https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c\nComments URL: https://news.ycombinator.com/item?id=27353255\nPoints: 37\n# Comments: 2",
+          "description": "Article URL: https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c\nComments URL: https://news.ycombinator.com/item?id=27353255\nPoints: 88\n# Comments: 41",
           "link": "https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c",
           "publishedOn": "2021-06-01T12:03:17.000Z",
-          "wordCount": 3069,
+          "wordCount": 3071,
           "title": "Why doesn’t V8 fit on my microcontroller?"
         },
         {
@@ -35,16 +116,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27353163",
           "author": "moh_maya",
-          "description": "Article URL: https://www.microsemi.com/product-directory/clocks-frequency-references/3824-chip-scale-atomic-clock-csac#overview\nComments URL: https://news.ycombinator.com/item?id=27353163\nPoints: 10\n# Comments: 1",
+          "description": "Article URL: https://www.microsemi.com/product-directory/clocks-frequency-references/3824-chip-scale-atomic-clock-csac#overview\nComments URL: https://news.ycombinator.com/item?id=27353163\nPoints: 36\n# Comments: 12",
           "link": "https://www.microsemi.com/product-directory/clocks-frequency-references/3824-chip-scale-atomic-clock-csac#overview",
           "publishedOn": "2021-06-01T11:52:52.000Z",
-          "wordCount": null,
+          "wordCount": 1405,
           "title": "Chip Scale Atomic Clock (CSAC)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27353046",
           "author": "SirLJ",
-          "description": "Article URL: https://www.nytimes.com/2021/05/30/opinion/ufo-sightings-report.html\nComments URL: https://news.ycombinator.com/item?id=27353046\nPoints: 7\n# Comments: 1",
+          "description": "Article URL: https://www.nytimes.com/2021/05/30/opinion/ufo-sightings-report.html\nComments URL: https://news.ycombinator.com/item?id=27353046\nPoints: 68\n# Comments: 76",
           "link": "https://www.nytimes.com/2021/05/30/opinion/ufo-sightings-report.html",
           "publishedOn": "2021-06-01T11:38:42.000Z",
           "wordCount": 1038,
@@ -53,43 +134,34 @@
         {
           "id": "https://news.ycombinator.com/item?id=27352738",
           "author": "rwmj",
-          "description": "Article URL: https://www.bbc.co.uk/news/in-pictures-57233756\nComments URL: https://news.ycombinator.com/item?id=27352738\nPoints: 60\n# Comments: 15",
+          "description": "Article URL: https://www.bbc.co.uk/news/in-pictures-57233756\nComments URL: https://news.ycombinator.com/item?id=27352738\nPoints: 79\n# Comments: 21",
           "link": "https://www.bbc.co.uk/news/in-pictures-57233756",
           "publishedOn": "2021-06-01T10:53:10.000Z",
           "wordCount": 1334,
           "title": "Mars: NASA's Perseverance rover's first 100 days in pictures"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27352700",
-          "author": "Kaibeezy",
-          "description": "Article URL: https://www.bbc.co.uk/news/business-57253947\nComments URL: https://news.ycombinator.com/item?id=27352700\nPoints: 86\n# Comments: 189",
-          "link": "https://www.bbc.co.uk/news/business-57253947",
-          "publishedOn": "2021-06-01T10:47:21.000Z",
-          "wordCount": 2415,
-          "title": "Why electric cars will take over sooner than you think"
+          "id": "https://news.ycombinator.com/item?id=27352405",
+          "author": "theFluke",
+          "description": "Article URL: https://auxl.io\nComments URL: https://news.ycombinator.com/item?id=27352405\nPoints: 27\n# Comments: 11",
+          "link": "https://auxl.io",
+          "publishedOn": "2021-06-01T10:00:40.000Z",
+          "wordCount": 346,
+          "title": "Show HN: Auxl – Modular API Client for macOS"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27352325",
           "author": "networked",
-          "description": "Article URL: https://groups.google.com/g/comp.lang.tcl\nComments URL: https://news.ycombinator.com/item?id=27352325\nPoints: 107\n# Comments: 87",
+          "description": "Article URL: https://groups.google.com/g/comp.lang.tcl\nComments URL: https://news.ycombinator.com/item?id=27352325\nPoints: 144\n# Comments: 107",
           "link": "https://groups.google.com/g/comp.lang.tcl",
           "publishedOn": "2021-06-01T09:49:37.000Z",
           "wordCount": 81,
           "title": "Google Groups has banned comp.lang.tcl"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27352284",
-          "author": "bookofjoe",
-          "description": "Article URL: https://www.nytimes.com/2021/05/31/well/mind/sleep-apnea-treatment-mouth-guard.html\nComments URL: https://news.ycombinator.com/item?id=27352284\nPoints: 34\n# Comments: 19",
-          "link": "https://www.nytimes.com/2021/05/31/well/mind/sleep-apnea-treatment-mouth-guard.html",
-          "publishedOn": "2021-06-01T09:41:56.000Z",
-          "wordCount": 1130,
-          "title": "For Sleep Apnea, a Mouth Guard May Be a Good Alternative to CPAP"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27351970",
           "author": "shashasha2",
-          "description": "Article URL: https://github.com/admin-ch/CovidCertificate-Documents\nComments URL: https://news.ycombinator.com/item?id=27351970\nPoints: 85\n# Comments: 46",
+          "description": "Article URL: https://github.com/admin-ch/CovidCertificate-Documents\nComments URL: https://news.ycombinator.com/item?id=27351970\nPoints: 105\n# Comments: 81",
           "link": "https://github.com/admin-ch/CovidCertificate-Documents",
           "publishedOn": "2021-06-01T08:45:41.000Z",
           "wordCount": 573,
@@ -98,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27351862",
           "author": "jassra",
-          "description": "Article URL: https://www.pastenow.me/create\nComments URL: https://news.ycombinator.com/item?id=27351862\nPoints: 32\n# Comments: 52",
+          "description": "Article URL: https://www.pastenow.me/create\nComments URL: https://news.ycombinator.com/item?id=27351862\nPoints: 36\n# Comments: 52",
           "link": "https://www.pastenow.me/create",
           "publishedOn": "2021-06-01T08:23:24.000Z",
           "wordCount": 3,
@@ -107,83 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27351769",
           "author": "giuliomagnifico",
-          "description": "Article URL: https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/\nComments URL: https://news.ycombinator.com/item?id=27351769\nPoints: 95\n# Comments: 144",
+          "description": "Article URL: https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/\nComments URL: https://news.ycombinator.com/item?id=27351769\nPoints: 121\n# Comments: 174",
           "link": "https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/",
           "publishedOn": "2021-06-01T08:05:01.000Z",
-          "wordCount": 605,
+          "wordCount": 595,
           "title": "EU set to unveil plans for bloc-wide digital wallet for various services"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27351454",
-          "author": "crispinh",
-          "description": "Article URL: https://www.raspberrypi.org/blog/raspberry-pi-rp2040-on-sale/\nComments URL: https://news.ycombinator.com/item?id=27351454\nPoints: 92\n# Comments: 40",
-          "link": "https://www.raspberrypi.org/blog/raspberry-pi-rp2040-on-sale/",
-          "publishedOn": "2021-06-01T07:06:56.000Z",
-          "wordCount": 1431,
-          "title": "Raspberry Silicon update: RP2040 on sale now at $1"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27350632",
-          "author": "zdw",
-          "description": "Article URL: https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming\nComments URL: https://news.ycombinator.com/item?id=27350632\nPoints: 311\n# Comments: 116",
-          "link": "https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming",
-          "publishedOn": "2021-06-01T04:03:52.000Z",
-          "wordCount": 3374,
-          "title": "AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27350523",
-          "author": "zdw",
-          "description": "Article URL: https://sagacioussuricata.com/posts/openwrt-serial-bridge/\nComments URL: https://news.ycombinator.com/item?id=27350523\nPoints: 50\n# Comments: 11",
-          "link": "https://sagacioussuricata.com/posts/openwrt-serial-bridge/",
-          "publishedOn": "2021-06-01T03:42:37.000Z",
-          "wordCount": 4084,
-          "title": "Making Wi-Fi serial console adapters with old portable routers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27350264",
-          "author": "JNRowe",
-          "description": "Article URL: https://github.com/se2p/pynguin\nComments URL: https://news.ycombinator.com/item?id=27350264\nPoints: 110\n# Comments: 55",
-          "link": "https://github.com/se2p/pynguin",
-          "publishedOn": "2021-06-01T02:47:00.000Z",
-          "wordCount": 1268,
-          "title": "Pynguin – Generate Python unit tests automatically"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27350134",
-          "author": "nickysielicki",
-          "description": "Article URL: https://blog.westerndigital.com/nvme-of-explained/\nComments URL: https://news.ycombinator.com/item?id=27350134\nPoints: 68\n# Comments: 16",
-          "link": "https://blog.westerndigital.com/nvme-of-explained/",
-          "publishedOn": "2021-06-01T02:23:08.000Z",
-          "wordCount": 1357,
-          "title": "NVMe over Fabrics Explained"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27350108",
-          "author": "jinqueeny",
-          "description": "Article URL: https://github.com/oceanbase/oceanbase\nComments URL: https://news.ycombinator.com/item?id=27350108\nPoints: 43\n# Comments: 9",
-          "link": "https://github.com/oceanbase/oceanbase",
-          "publishedOn": "2021-06-01T02:17:08.000Z",
-          "wordCount": 1032,
-          "title": "Oceanbase, yet another open source HTAP database"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27349755",
-          "author": "acabal",
-          "description": "Article URL: https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/\nComments URL: https://news.ycombinator.com/item?id=27349755\nPoints: 124\n# Comments: 111",
-          "link": "https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/",
-          "publishedOn": "2021-06-01T01:03:43.000Z",
-          "wordCount": 8836,
-          "title": "The Anxiety of Influencers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27349327",
-          "author": "amingilani",
-          "description": "Article URL: https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1\nComments URL: https://news.ycombinator.com/item?id=27349327\nPoints: 40\n# Comments: 5",
-          "link": "https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1",
-          "publishedOn": "2021-05-31T23:44:06.000Z",
-          "wordCount": 4338,
-          "title": "The complete sequence of a human genome"
         }
       ]
     },
@@ -326,7 +326,7 @@
           "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
           "publishedOn": "2021-05-31T17:16:22.000Z",
-          "wordCount": 1790,
+          "wordCount": 1852,
           "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
         },
         {
@@ -335,7 +335,7 @@
           "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/local-always-getting-better/",
           "publishedOn": "2021-05-31T17:13:02.000Z",
-          "wordCount": 981,
+          "wordCount": 999,
           "title": "Local: Always Getting Better"
         },
         {
@@ -398,7 +398,7 @@
           "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-thorough-analysis-of-css-in-js/",
           "publishedOn": "2021-05-26T14:08:49.000Z",
-          "wordCount": 3850,
+          "wordCount": 3914,
           "title": "A Thorough Analysis of CSS-in-JS"
         },
         {
@@ -407,7 +407,7 @@
           "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
           "publishedOn": "2021-05-25T14:25:06.000Z",
-          "wordCount": 7705,
+          "wordCount": 7769,
           "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
         },
         {
@@ -463,6 +463,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
+          "publishedOn": "2021-06-01T14:00:00.000Z",
+          "wordCount": 7130,
+          "title": "Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6db8029d-7039-4beb-b787-f3a0df852f12/smashing-podcast-episode-38.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
           "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
           "description": "Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.",
@@ -482,7 +496,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2496,
+          "wordCount": 2487,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -496,7 +510,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10175,
+          "wordCount": 10226,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -510,7 +524,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3738,
+          "wordCount": 3741,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -552,7 +566,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2121,
+          "wordCount": 2126,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -594,7 +608,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9436,
+          "wordCount": 9394,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -622,7 +636,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1956,
+          "wordCount": 1958,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -678,7 +692,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2953,
+          "wordCount": 2943,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -692,7 +706,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2444,
+          "wordCount": 2440,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -762,7 +776,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6347,
+          "wordCount": 6310,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -790,7 +804,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
+          "wordCount": 2656,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -804,7 +818,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2338,
+          "wordCount": 2335,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -818,7 +832,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1834,
+          "wordCount": 1842,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -846,7 +860,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2188,
+          "wordCount": 2183,
           "title": "The Evolution Of Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
@@ -867,7 +881,7 @@
           "description": "When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error",
           "link": "https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/",
           "publishedOn": "2021-06-01T04:19:48.000Z",
-          "wordCount": 6170,
+          "wordCount": 6197,
           "title": "Logical Fallacies – Definition and Fallacy Examples"
         },
         {
