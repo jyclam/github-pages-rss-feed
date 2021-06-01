@@ -6,9 +6,90 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27360088",
+          "author": "bonefishgrill",
+          "description": "Article URL: https://thecounter.org/largest-us-meat-processor-jbs-cyberattack-food-supply-chain/\nComments URL: https://news.ycombinator.com/item?id=27360088\nPoints: 35\n# Comments: 22",
+          "link": "https://thecounter.org/largest-us-meat-processor-jbs-cyberattack-food-supply-chain/",
+          "publishedOn": "2021-06-01T19:35:19.000Z",
+          "wordCount": 1631,
+          "title": "The largest meat processor has been hit with a cyberattack"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27359963",
+          "author": "Tomte",
+          "description": "Article URL: https://www.infoq.com/interviews/byrd-relational-programming-minikanren/\nComments URL: https://news.ycombinator.com/item?id=27359963\nPoints: 8\n# Comments: 0",
+          "link": "https://www.infoq.com/interviews/byrd-relational-programming-minikanren/",
+          "publishedOn": "2021-06-01T19:25:36.000Z",
+          "wordCount": 7161,
+          "title": "William Byrd on Logic and Relational Programming, MiniKanren (2014)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27359515",
+          "author": "davidw",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs\nComments URL: https://news.ycombinator.com/item?id=27359515\nPoints: 67\n# Comments: 36",
+          "link": "https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs",
+          "publishedOn": "2021-06-01T18:53:48.000Z",
+          "wordCount": 93,
+          "title": "One-Fifth of U.S. Beef Capacity Wiped Out by JBS Cyberattack"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27359269",
+          "author": "1915cb1f",
+          "description": "Article URL: https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop\nComments URL: https://news.ycombinator.com/item?id=27359269\nPoints: 173\n# Comments: 36",
+          "link": "https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop",
+          "publishedOn": "2021-06-01T18:37:09.000Z",
+          "wordCount": 754,
+          "title": "DARPA Awards Moderna a Grant for Up to $25M to Develop mRNA Therapeutics (2013)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27359203",
+          "author": "lisper",
+          "description": "Article URL: http://thebigalientheory.com/\nComments URL: https://news.ycombinator.com/item?id=27359203\nPoints: 20\n# Comments: 1",
+          "link": "http://thebigalientheory.com/",
+          "publishedOn": "2021-06-01T18:33:19.000Z",
+          "wordCount": 6330,
+          "title": "The Big Alien Theory"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27359081",
+          "author": "nickjj",
+          "description": "Article URL: https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose\nComments URL: https://news.ycombinator.com/item?id=27359081\nPoints: 59\n# Comments: 7",
+          "link": "https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose",
+          "publishedOn": "2021-06-01T18:25:11.000Z",
+          "wordCount": 7003,
+          "title": "Best practices around creating production ready web apps with Docker Compose"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27358692",
+          "author": "thedday",
+          "description": "Article URL: https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html\nComments URL: https://news.ycombinator.com/item?id=27358692\nPoints: 49\n# Comments: 9",
+          "link": "https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html",
+          "publishedOn": "2021-06-01T18:01:41.000Z",
+          "wordCount": 1670,
+          "title": "Light-shrinking material lets ordinary microscope see in super resolution"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27358679",
+          "author": "tmfi",
+          "description": "Article URL: https://www.ben-evans.com/benedictevans/2021/5/25/apple-fedex-and-the-cookie-apocalypse\nComments URL: https://news.ycombinator.com/item?id=27358679\nPoints: 120\n# Comments: 99",
+          "link": "https://www.ben-evans.com/benedictevans/2021/5/25/apple-fedex-and-the-cookie-apocalypse",
+          "publishedOn": "2021-06-01T18:00:49.000Z",
+          "wordCount": 1083,
+          "title": "Apple, FedEx and the cookie apocalypse"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27358479",
+          "author": "bpierre",
+          "description": "Article URL: https://helix-editor.com/\nComments URL: https://news.ycombinator.com/item?id=27358479\nPoints: 180\n# Comments: 74",
+          "link": "https://helix-editor.com/",
+          "publishedOn": "2021-06-01T17:48:20.000Z",
+          "wordCount": 225,
+          "title": "Helix: a post-modern modal text editor"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27357785",
           "author": "pjmlp",
-          "description": "Article URL: https://www.youtube.com/watch?v=gpGgeXHZr0M&t=21420s\nComments URL: https://news.ycombinator.com/item?id=27357785\nPoints: 6\n# Comments: 0",
+          "description": "Article URL: https://www.youtube.com/watch?v=gpGgeXHZr0M&t=21420s\nComments URL: https://news.ycombinator.com/item?id=27357785\nPoints: 36\n# Comments: 3",
           "link": "https://www.youtube.com/watch?v=gpGgeXHZr0M&t=21420s",
           "publishedOn": "2021-06-01T17:05:01.000Z",
           "wordCount": 16,
@@ -24,9 +105,27 @@
           "title": "OneSignal (Messaging and Push Notification APIs) is hiring product engineers"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27357646",
+          "author": "evo_9",
+          "description": "Article URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl\nComments URL: https://news.ycombinator.com/item?id=27357646\nPoints: 53\n# Comments: 11",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl",
+          "publishedOn": "2021-06-01T16:57:42.000Z",
+          "wordCount": 1249,
+          "title": "Intl"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27357592",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/\nComments URL: https://news.ycombinator.com/item?id=27357592\nPoints: 61\n# Comments: 69",
+          "link": "https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/",
+          "publishedOn": "2021-06-01T16:54:27.000Z",
+          "wordCount": 5978,
+          "title": "America has a drinking problem"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27357295",
           "author": "ibraheemdev",
-          "description": "Article URL: http://libdill.org/structured-concurrency.html\nComments URL: https://news.ycombinator.com/item?id=27357295\nPoints: 6\n# Comments: 0",
+          "description": "Article URL: http://libdill.org/structured-concurrency.html\nComments URL: https://news.ycombinator.com/item?id=27357295\nPoints: 30\n# Comments: 7",
           "link": "http://libdill.org/structured-concurrency.html",
           "publishedOn": "2021-06-01T16:39:36.000Z",
           "wordCount": 2088,
@@ -35,52 +134,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27356550",
           "author": "nickthegreek",
-          "description": "Article URL: https://www.wsj.com/articles/amazon-faced-75-000-arbitration-demands-now-it-says-fine-sue-us-11622547000\nComments URL: https://news.ycombinator.com/item?id=27356550\nPoints: 37\n# Comments: 4",
+          "description": "Article URL: https://www.wsj.com/articles/amazon-faced-75-000-arbitration-demands-now-it-says-fine-sue-us-11622547000\nComments URL: https://news.ycombinator.com/item?id=27356550\nPoints: 145\n# Comments: 28",
           "link": "https://www.wsj.com/articles/amazon-faced-75-000-arbitration-demands-now-it-says-fine-sue-us-11622547000",
           "publishedOn": "2021-06-01T15:58:03.000Z",
-          "wordCount": 1125,
+          "wordCount": 1127,
           "title": "Amazon changes TOS to let customers sue, after facing 75K+ arbitration demands"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27356465",
-          "author": "zatertip",
-          "description": "Article URL: https://github.com/siraben/freenode-exodus\nComments URL: https://news.ycombinator.com/item?id=27356465\nPoints: 65\n# Comments: 7",
-          "link": "https://github.com/siraben/freenode-exodus",
-          "publishedOn": "2021-06-01T15:53:29.000Z",
-          "wordCount": 1305,
-          "title": "Freenode Exodus: A List"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27355961",
-          "author": "zeeshanqureshi",
-          "description": "Article URL: https://ocw.smithw.org/bus497a/complex-systems.pdf\nComments URL: https://news.ycombinator.com/item?id=27355961\nPoints: 25\n# Comments: 2",
-          "link": "https://ocw.smithw.org/bus497a/complex-systems.pdf",
-          "publishedOn": "2021-06-01T15:28:52.000Z",
-          "wordCount": 4634,
-          "title": "Strategy and Complex Systems (2020) [pdf]"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27355789",
           "author": "haasted",
-          "description": "Article URL: https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing\nComments URL: https://news.ycombinator.com/item?id=27355789\nPoints: 87\n# Comments: 22",
+          "description": "Article URL: https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing\nComments URL: https://news.ycombinator.com/item?id=27355789\nPoints: 284\n# Comments: 152",
           "link": "https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing",
           "publishedOn": "2021-06-01T15:20:42.000Z",
-          "wordCount": 698,
+          "wordCount": 699,
           "title": "Amazon US customers given one week to opt out of mass wireless sharing"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27355714",
-          "author": "cvs268",
-          "description": "Article URL: https://blog.iota.org/the-tangle-an-illustrated-introduction-c0a86f994445/\nComments URL: https://news.ycombinator.com/item?id=27355714\nPoints: 14\n# Comments: 6",
-          "link": "https://blog.iota.org/the-tangle-an-illustrated-introduction-c0a86f994445/",
-          "publishedOn": "2021-06-01T15:17:07.000Z",
-          "wordCount": 897,
-          "title": "Tangle data-structure – The lesser known blockchain alternative"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27355690",
           "author": "beermonster",
-          "description": "Article URL: https://playingcards.io/\nComments URL: https://news.ycombinator.com/item?id=27355690\nPoints: 106\n# Comments: 19",
+          "description": "Article URL: https://playingcards.io/\nComments URL: https://news.ycombinator.com/item?id=27355690\nPoints: 173\n# Comments: 36",
           "link": "https://playingcards.io/",
           "publishedOn": "2021-06-01T15:16:24.000Z",
           "wordCount": 103,
@@ -89,101 +161,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27355604",
           "author": "swyx",
-          "description": "Article URL: https://blog.cloudera.com/turning-the-page/\nComments URL: https://news.ycombinator.com/item?id=27355604\nPoints: 16\n# Comments: 0",
+          "description": "Article URL: https://blog.cloudera.com/turning-the-page/\nComments URL: https://news.ycombinator.com/item?id=27355604\nPoints: 94\n# Comments: 42",
           "link": "https://blog.cloudera.com/turning-the-page/",
           "publishedOn": "2021-06-01T15:12:36.000Z",
           "wordCount": 2193,
-          "title": "Cloudera taken private for $5.3b, acquires Datacoral and Cazena"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27355556",
-          "author": "wilsonzlin",
-          "description": "Article URL: https://idlewords.com/talks/website_obesity.htm\nComments URL: https://news.ycombinator.com/item?id=27355556\nPoints: 95\n# Comments: 62",
-          "link": "https://idlewords.com/talks/website_obesity.htm",
-          "publishedOn": "2021-06-01T15:09:54.000Z",
-          "wordCount": 7575,
-          "title": "The website obesity crisis (2015)"
+          "title": "Cloudera taken private for $5.3B, acquires Datacoral and Cazena"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27355392",
           "author": "whoishiring",
-          "description": "Please state the location and include REMOTE, INTERNS and/or VISA\nwhen that sort of candidate is welcome. When remote work is not an option,\ninclude ONSITE.\nPlease only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. Only one post per company. If it isn't a household name,\nplease explain what your company does.\nCommenters: please don't reply to job posts to complain about\nsomething. It's off topic here.\nReaders: please only email if you are personally interested in the job.\nSearchers: try https://findwork.dev/?source=hn, https://kennytilton.github.io/whoishiring/,\nhttps://hnhired.com/, https://hnjobs.emilburzo.com, https://news.ycombinator.com/item?id=10313519.\nDon't miss these other fine threads:\nWho wants to be hired? https://news.ycombinator.com/item?id=27355390\nFreelancer? Seeking freelancer? https://news.ycombinator.com/item?id=27355391\nComments URL: https://news.ycombinator.com/item?id=27355392\nPoints: 130\n# Comments: 260",
+          "description": "Please state the location and include REMOTE, INTERNS and/or VISA\nwhen that sort of candidate is welcome. When remote work is not an option,\ninclude ONSITE.\nPlease only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. Only one post per company. If it isn't a household name,\nplease explain what your company does.\nCommenters: please don't reply to job posts to complain about\nsomething. It's off topic here.\nReaders: please only email if you are personally interested in the job.\nSearchers: try https://findwork.dev/?source=hn, https://kennytilton.github.io/whoishiring/,\nhttps://hnhired.com/, https://hnjobs.emilburzo.com, https://news.ycombinator.com/item?id=10313519.\nDon't miss these other fine threads:\nWho wants to be hired? https://news.ycombinator.com/item?id=27355390\nFreelancer? Seeking freelancer? https://news.ycombinator.com/item?id=27355391\nComments URL: https://news.ycombinator.com/item?id=27355392\nPoints: 226\n# Comments: 518",
           "link": "https://news.ycombinator.com/item?id=27355392",
           "publishedOn": "2021-06-01T15:01:25.000Z",
-          "wordCount": 36211,
+          "wordCount": 35656,
           "title": "Ask HN: Who is hiring? (June 2021)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27355056",
-          "author": "rbanffy",
-          "description": "Article URL: https://www.vt100.net/dec/vt220/glyphs\nComments URL: https://news.ycombinator.com/item?id=27355056\nPoints: 22\n# Comments: 0",
-          "link": "https://www.vt100.net/dec/vt220/glyphs",
-          "publishedOn": "2021-06-01T14:32:32.000Z",
-          "wordCount": 83,
-          "title": "VT220 Built-in Glyphs (2006)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27354761",
-          "author": "pjmlp",
-          "description": "Article URL: https://dlang.org/blog/2021/06/01/driving-with-d/\nComments URL: https://news.ycombinator.com/item?id=27354761\nPoints: 183\n# Comments: 85",
-          "link": "https://dlang.org/blog/2021/06/01/driving-with-d/",
-          "publishedOn": "2021-06-01T14:10:41.000Z",
-          "wordCount": 1287,
-          "title": "Driving with D"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27354223",
-          "author": "Tomte",
-          "description": "Article URL: https://www.rauc.io/\nComments URL: https://news.ycombinator.com/item?id=27354223\nPoints: 10\n# Comments: 1",
-          "link": "https://www.rauc.io/",
-          "publishedOn": "2021-06-01T13:37:07.000Z",
-          "wordCount": 292,
-          "title": "RAUC: Safe and Secure Updating"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27353932",
-          "author": "lavios",
-          "description": "Article URL: https://faq.whatsapp.com/general/security-and-privacy/what-is-traceability-and-why-does-whatsapp-oppose-it/?_fb_noscript=1#\nComments URL: https://news.ycombinator.com/item?id=27353932\nPoints: 91\n# Comments: 60",
-          "link": "https://faq.whatsapp.com/general/security-and-privacy/what-is-traceability-and-why-does-whatsapp-oppose-it/?_fb_noscript=1#",
-          "publishedOn": "2021-06-01T13:17:24.000Z",
-          "wordCount": 1437,
-          "title": "What is traceability and why does WhatsApp oppose it?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27353917",
-          "author": "makeworld",
-          "description": "Article URL: https://github.com/ytdl-org/youtube-dl/issues/28578\nComments URL: https://news.ycombinator.com/item?id=27353917\nPoints: 355\n# Comments: 245",
-          "link": "https://github.com/ytdl-org/youtube-dl/issues/28578",
-          "publishedOn": "2021-06-01T13:15:58.000Z",
-          "wordCount": 1739,
-          "title": "YouTube-dl can no longer download age-restricted videos"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27353684",
-          "author": "looperhacks",
-          "description": "Article URL: https://www.mozilla.org/en-US/firefox/89.0/releasenotes/\nComments URL: https://news.ycombinator.com/item?id=27353684\nPoints: 366\n# Comments: 302",
-          "link": "https://www.mozilla.org/en-US/firefox/89.0/releasenotes/",
-          "publishedOn": "2021-06-01T12:55:57.000Z",
-          "wordCount": 1273,
-          "title": "Firefox Release 89.0"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27353672",
-          "author": "mancerayder",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home\nComments URL: https://news.ycombinator.com/item?id=27353672\nPoints: 613\n# Comments: 550",
-          "link": "https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home",
-          "publishedOn": "2021-06-01T12:54:50.000Z",
-          "wordCount": 93,
-          "title": "Employees are quitting instead of giving up working from home"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27353606",
-          "author": "Tomte",
-          "description": "Article URL: https://www.politico.eu/article/europe-to-us-pass-new-laws-if-you-want-data-transfer-deal-privacy-regulation/\nComments URL: https://news.ycombinator.com/item?id=27353606\nPoints: 125\n# Comments: 38",
-          "link": "https://www.politico.eu/article/europe-to-us-pass-new-laws-if-you-want-data-transfer-deal-privacy-regulation/",
-          "publishedOn": "2021-06-01T12:48:10.000Z",
-          "wordCount": 1608,
-          "title": "Europe to US: Pass new laws if you want a data-transfer deal"
+          "id": "https://news.ycombinator.com/item?id=27355391",
+          "author": "whoishiring",
+          "description": "Please lead with either SEEKING WORK or SEEKING FREELANCER,\nyour location, and whether remote work is a possibility.\nBonsai (YC W16) (https://www.hellobonsai.com) offers freelance contracts, proposals, invoices, etc.\nComments URL: https://news.ycombinator.com/item?id=27355391\nPoints: 53\n# Comments: 56",
+          "link": "https://news.ycombinator.com/item?id=27355391",
+          "publishedOn": "2021-06-01T15:01:25.000Z",
+          "wordCount": 6605,
+          "title": "Ask HN: Freelancer? Seeking freelancer? (June 2021)"
         }
       ]
     },
@@ -335,7 +335,7 @@
           "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
           "publishedOn": "2021-06-01T14:17:43.000Z",
-          "wordCount": 3767,
+          "wordCount": 3850,
           "title": "Front-End Testing is For Everyone"
         },
         {
@@ -362,7 +362,7 @@
           "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/local-always-getting-better/",
           "publishedOn": "2021-05-31T17:13:02.000Z",
-          "wordCount": 1094,
+          "wordCount": 1220,
           "title": "Local: Always Getting Better"
         },
         {
@@ -505,7 +505,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2487,
+          "wordCount": 2496,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -533,7 +533,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3743,
+          "wordCount": 3696,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -575,7 +575,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2121,
+          "wordCount": 2124,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -617,7 +617,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9439,
+          "wordCount": 9431,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -645,7 +645,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1966,
+          "wordCount": 1956,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -701,7 +701,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2953,
+          "wordCount": 2948,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -715,7 +715,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2440,
+          "wordCount": 2435,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -785,7 +785,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6349,
+          "wordCount": 6355,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -813,7 +813,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2662,
+          "wordCount": 2668,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -827,7 +827,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2333,
+          "wordCount": 2347,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -841,7 +841,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1840,
+          "wordCount": 1846,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -862,20 +862,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
-          "title": "The Evolution Of Jamstack",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -884,6 +870,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b668c0acb62507dd1d710b",
+          "author": null,
+          "description": "Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed",
+          "link": "https://www.freecodecamp.org/news/learn-next-js/",
+          "publishedOn": "2021-06-01T17:43:56.000Z",
+          "wordCount": 407,
+          "title": "Learn Next.js and Make React Development Simpler"
+        },
         {
           "id": "60acf28e11ffb70827ef6dd9",
           "author": null,
@@ -964,15 +959,6 @@
           "publishedOn": "2021-05-26T18:01:00.000Z",
           "wordCount": 2359,
           "title": "How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide"
-        },
-        {
-          "id": "606f4f5fd5756f080ba96b65",
-          "author": null,
-          "description": "In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without",
-          "link": "https://www.freecodecamp.org/news/terraform-syntax-for-beginners/",
-          "publishedOn": "2021-05-26T18:00:52.000Z",
-          "wordCount": 3782,
-          "title": "Learn Basic Terraform Syntax in 20 minutes"
         }
       ]
     }
