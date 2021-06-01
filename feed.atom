@@ -2,21 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T09:15:34.378Z</updated>
+    <updated>2021-06-01T10:55:59.331Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Share It, Anomymously with Self Destruct Messages]]></title>
-        <id>https://news.ycombinator.com/item?id=27351862</id>
-        <link href="https://www.pastenow.me/create"/>
-        <updated>2021-06-01T08:23:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pastenow.me/create
-Comments URL: https://news.ycombinator.com/item?id=27351862
-Points: 9
-# Comments: 8]]></summary>
+        <title type="html"><![CDATA[Google Groups has banned comp.lang.tcl]]></title>
+        <id>https://news.ycombinator.com/item?id=27352325</id>
+        <link href="https://groups.google.com/g/comp.lang.tcl"/>
+        <updated>2021-06-01T09:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://groups.google.com/g/comp.lang.tcl
+Comments URL: https://news.ycombinator.com/item?id=27352325
+Points: 51
+# Comments: 37]]></summary>
         <author>
-            <name>jassra</name>
+            <name>networked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Sleep Apnea, a Mouth Guard May Be a Good Alternative to CPAP]]></title>
+        <id>https://news.ycombinator.com/item?id=27352284</id>
+        <link href="https://www.nytimes.com/2021/05/31/well/mind/sleep-apnea-treatment-mouth-guard.html"/>
+        <updated>2021-06-01T09:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/31/well/mind/sleep-apnea-treatment-mouth-guard.html
+Comments URL: https://news.ycombinator.com/item?id=27352284
+Points: 9
+# Comments: 3]]></summary>
+        <author>
+            <name>bookofjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Up A Currency Convertor With ExchangeRatesApi.io]]></title>
+        <id>https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/</id>
+        <link href="https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/"/>
+        <updated>2021-06-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swiss Covid Certificate – Technical documentation of the swiss Covid certificate]]></title>
+        <id>https://news.ycombinator.com/item?id=27351970</id>
+        <link href="https://github.com/admin-ch/CovidCertificate-Documents"/>
+        <updated>2021-06-01T08:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/admin-ch/CovidCertificate-Documents
+Comments URL: https://news.ycombinator.com/item?id=27351970
+Points: 15
+# Comments: 1]]></summary>
+        <author>
+            <name>shashasha2</name>
         </author>
     </entry>
     <entry>
@@ -26,23 +62,23 @@ Points: 9
         <updated>2021-06-01T08:05:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/
 Comments URL: https://news.ycombinator.com/item?id=27351769
-Points: 16
-# Comments: 18]]></summary>
+Points: 60
+# Comments: 95]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which Macs will be officially supported by macOS 12?]]></title>
-        <id>https://news.ycombinator.com/item?id=27351457</id>
-        <link href="https://eclecticlight.co/2021/06/01/which-macs-will-be-officially-supported-by-macos-12/"/>
-        <updated>2021-06-01T07:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/06/01/which-macs-will-be-officially-supported-by-macos-12/
-Comments URL: https://news.ycombinator.com/item?id=27351457
-Points: 25
-# Comments: 34]]></summary>
+        <title type="html"><![CDATA[Raspberry Silicon update: RP2040 on sale now at $1]]></title>
+        <id>https://news.ycombinator.com/item?id=27351454</id>
+        <link href="https://www.raspberrypi.org/blog/raspberry-pi-rp2040-on-sale/"/>
+        <updated>2021-06-01T07:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.raspberrypi.org/blog/raspberry-pi-rp2040-on-sale/
+Comments URL: https://news.ycombinator.com/item?id=27351454
+Points: 39
+# Comments: 5]]></summary>
         <author>
-            <name>ingve</name>
+            <name>crispinh</name>
         </author>
     </entry>
     <entry>
@@ -85,8 +121,8 @@ Points: 1
         <updated>2021-06-01T04:03:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming
 Comments URL: https://news.ycombinator.com/item?id=27350632
-Points: 212
-# Comments: 71]]></summary>
+Points: 261
+# Comments: 90]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -98,8 +134,8 @@ Points: 212
         <updated>2021-06-01T03:42:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sagacioussuricata.com/posts/openwrt-serial-bridge/
 Comments URL: https://news.ycombinator.com/item?id=27350523
-Points: 33
-# Comments: 2]]></summary>
+Points: 45
+# Comments: 9]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -111,8 +147,8 @@ Points: 33
         <updated>2021-06-01T02:47:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/se2p/pynguin
 Comments URL: https://news.ycombinator.com/item?id=27350264
-Points: 77
-# Comments: 36]]></summary>
+Points: 94
+# Comments: 45]]></summary>
         <author>
             <name>JNRowe</name>
         </author>
@@ -124,8 +160,8 @@ Points: 77
         <updated>2021-06-01T02:23:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.westerndigital.com/nvme-of-explained/
 Comments URL: https://news.ycombinator.com/item?id=27350134
-Points: 50
-# Comments: 7]]></summary>
+Points: 58
+# Comments: 8]]></summary>
         <author>
             <name>nickysielicki</name>
         </author>
@@ -137,8 +173,8 @@ Points: 50
         <updated>2021-06-01T02:17:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/oceanbase/oceanbase
 Comments URL: https://news.ycombinator.com/item?id=27350108
-Points: 31
-# Comments: 6]]></summary>
+Points: 33
+# Comments: 7]]></summary>
         <author>
             <name>jinqueeny</name>
         </author>
@@ -150,23 +186,10 @@ Points: 31
         <updated>2021-06-01T01:41:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://support.sevenhugs.com/t/35hfcvg
 Comments URL: https://news.ycombinator.com/item?id=27349947
-Points: 36
-# Comments: 27]]></summary>
+Points: 40
+# Comments: 34]]></summary>
         <author>
             <name>jsjohnst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese ‘Artificial Sun’ experimental fusion reactor sets world record]]></title>
-        <id>https://news.ycombinator.com/item?id=27349469</id>
-        <link href="https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time"/>
-        <updated>2021-06-01T00:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time
-Comments URL: https://news.ycombinator.com/item?id=27349469
-Points: 89
-# Comments: 59]]></summary>
-        <author>
-            <name>pier25</name>
         </author>
     </entry>
     <entry>
@@ -176,23 +199,23 @@ Points: 89
         <updated>2021-05-31T23:44:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1
 Comments URL: https://news.ycombinator.com/item?id=27349327
-Points: 16
-# Comments: 2]]></summary>
+Points: 26
+# Comments: 4]]></summary>
         <author>
             <name>amingilani</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Testing in the Twenties]]></title>
-        <id>https://news.ycombinator.com/item?id=27347991</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021"/>
-        <updated>2021-05-31T21:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021
-Comments URL: https://news.ycombinator.com/item?id=27347991
-Points: 21
+        <title type="html"><![CDATA[The Dunce]]></title>
+        <id>https://news.ycombinator.com/item?id=27347935</id>
+        <link href="https://slantbooks.com/close-reading/essays/the-dunce/"/>
+        <updated>2021-05-31T20:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://slantbooks.com/close-reading/essays/the-dunce/
+Comments URL: https://news.ycombinator.com/item?id=27347935
+Points: 6
 # Comments: 0]]></summary>
         <author>
-            <name>TangerineDream</name>
+            <name>savebykilling</name>
         </author>
     </entry>
     <entry>
@@ -202,8 +225,8 @@ Points: 21
         <updated>2021-05-31T20:52:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.insidescience.org/news/how-speak-cicada
 Comments URL: https://news.ycombinator.com/item?id=27347931
-Points: 23
-# Comments: 4]]></summary>
+Points: 24
+# Comments: 5]]></summary>
         <author>
             <name>redeemed</name>
         </author>
@@ -215,10 +238,23 @@ Points: 23
         <updated>2021-05-31T20:35:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pubmed.ncbi.nlm.nih.gov/33555034/
 Comments URL: https://news.ycombinator.com/item?id=27347818
-Points: 149
-# Comments: 101]]></summary>
+Points: 154
+# Comments: 109]]></summary>
         <author>
             <name>ve55</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Digital Wallet of the Future (1996)]]></title>
+        <id>https://news.ycombinator.com/item?id=27347272</id>
+        <link href="https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html"/>
+        <updated>2021-05-31T19:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html
+Comments URL: https://news.ycombinator.com/item?id=27347272
+Points: 54
+# Comments: 41]]></summary>
+        <author>
+            <name>Lammy</name>
         </author>
     </entry>
     <entry>
@@ -228,8 +264,8 @@ Points: 149
         <updated>2021-05-31T18:50:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1
 Comments URL: https://news.ycombinator.com/item?id=27347039
-Points: 188
-# Comments: 73]]></summary>
+Points: 194
+# Comments: 75]]></summary>
         <author>
             <name>exolymph</name>
         </author>
@@ -241,8 +277,8 @@ Points: 188
         <updated>2021-05-31T18:50:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://annagat.substack.com/p/on-smoking
 Comments URL: https://news.ycombinator.com/item?id=27347035
-Points: 281
-# Comments: 286]]></summary>
+Points: 294
+# Comments: 312]]></summary>
         <author>
             <name>exolymph</name>
         </author>
@@ -254,21 +290,8 @@ Points: 281
         <updated>2021-05-31T18:49:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://every.to/cybernaut/caught-in-the-study-web
 Comments URL: https://news.ycombinator.com/item?id=27347028
-Points: 53
-# Comments: 7]]></summary>
-        <author>
-            <name>exolymph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small B Blogging (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=27347026</id>
-        <link href="https://tomcritchlow.com/2018/02/23/small-b-blogging/"/>
-        <updated>2021-05-31T18:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tomcritchlow.com/2018/02/23/small-b-blogging/
-Comments URL: https://news.ycombinator.com/item?id=27347026
-Points: 81
-# Comments: 25]]></summary>
+Points: 71
+# Comments: 10]]></summary>
         <author>
             <name>exolymph</name>
         </author>
@@ -299,19 +322,6 @@ The post Local: Always Getting Better appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The most expensive number in engineering]]></title>
-        <id>https://news.ycombinator.com/item?id=27345784</id>
-        <link href="https://surjan.substack.com/p/the-most-expensive-number-in-engineering"/>
-        <updated>2021-05-31T16:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://surjan.substack.com/p/the-most-expensive-number-in-engineering
-Comments URL: https://news.ycombinator.com/item?id=27345784
-Points: 434
-# Comments: 140]]></summary>
-        <author>
-            <name>as89</name>
         </author>
     </entry>
     <entry>
