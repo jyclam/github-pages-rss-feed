@@ -2,21 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T17:56:45.249Z</updated>
+    <updated>2021-06-02T20:26:56.572Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Amazon warehouse injuries '80% higher' than competitors, report claims]]></title>
-        <id>https://news.ycombinator.com/item?id=27371553</id>
-        <link href="https://www.bbc.com/news/technology-57332390"/>
-        <updated>2021-06-02T17:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57332390
-Comments URL: https://news.ycombinator.com/item?id=27371553
-Points: 25
+        <title type="html"><![CDATA[Raspberry Pi 4 OpenBSD based home computer/gaming console]]></title>
+        <id>https://news.ycombinator.com/item?id=27373088</id>
+        <link href="https://news.ycombinator.com/item?id=27373088"/>
+        <updated>2021-06-02T19:40:31.000Z</updated>
+        <summary type="html"><![CDATA[When I started programming as a kid, I had a Commodore 64 and later an amiga 500. Those machines came with very simple software and expected you to write some, rather than giving you thousands of pre-made packages to learn and play with.
+A lot of existing software was video games. They were much simpler than those people play nowadays but they were still a lot of fun. Part of the fun was low latency.
+I started working on a gaming console based on the raspberry pi that would have the kind of low latency that older home computers and gaming consoles had, and found a way to do that.
+At some point, I realised that users would want to use a keyboard, read and write files, connect to the internet, stuff that is taken for granted with computers today.
+So I wanted not to run on bare metal anymore, I needed an OS. Writing one from scratch would take me years and it probably would not be as good as an existing one.
+But existing desktop operating systems tend not to be good for games, as they introduce latency and are able to stop a game at any time to do some other task, which can result in stuttering that the game developers cannot fully control or avoid.
+I modified the OpenBSD kernel for the raspberry pi with gaming related extensions, in such a way that when the game runs there is no latency and no stuttering.
+A game on my own fork of OpenBSD has the same performance of the bare metal code that I have written previously. And it can do file I/O, connect to the net and all that kind of stuff.
+And when you quit the game it's just like normal OpenBSD so you can program it and make games yourself, browse the web and do all sort of stuff.
+I am thinking that other people may want to have something like that, both for nostalgic reasons and for learning programming, so I thought of asking around and, if enough people like the idea, turn this into a product.
+Comments URL: https://news.ycombinator.com/item?id=27373088
+Points: 11
+# Comments: 2]]></summary>
+        <author>
+            <name>alehyze</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetch API – How to Make a GET Request and POST Request in JavaScript]]></title>
+        <id>60b0f11411ffb70827ef8dbc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/"/>
+        <updated>2021-06-02T19:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Mario Bros: The Human Limit]]></title>
+        <id>https://news.ycombinator.com/item?id=27372930</id>
+        <link href="https://www.youtube.com/watch?v=7rIJNT7dCmE"/>
+        <updated>2021-06-02T19:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=7rIJNT7dCmE
+Comments URL: https://news.ycombinator.com/item?id=27372930
+Points: 16
+# Comments: 2]]></summary>
+        <author>
+            <name>qxga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project]]></title>
+        <id>60b4ff4711ffb70827ef9eb2</id>
+        <link href="https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/"/>
+        <updated>2021-06-02T19:14:53.000Z</updated>
+        <summary type="html"><![CDATA[What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massachusetts Steamship Authority hit by ransomware attack; ferries delayed]]></title>
+        <id>https://news.ycombinator.com/item?id=27372431</id>
+        <link href="https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/"/>
+        <updated>2021-06-02T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/
+Comments URL: https://news.ycombinator.com/item?id=27372431
+Points: 50
+# Comments: 85]]></summary>
+        <author>
+            <name>SocksCanClose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaky Abstractions]]></title>
+        <id>https://news.ycombinator.com/item?id=27372292</id>
+        <link href="https://textslashplain.com/2021/06/02/leaky-abstractions/"/>
+        <updated>2021-06-02T18:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/
+Comments URL: https://news.ycombinator.com/item?id=27372292
+Points: 127
+# Comments: 13]]></summary>
+        <author>
+            <name>jakub_g</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End of an Era: And the beginning of something huge]]></title>
+        <id>https://news.ycombinator.com/item?id=27372285</id>
+        <link href="https://www.blender.org/download/releases/2-93/"/>
+        <updated>2021-06-02T18:34:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.blender.org/download/releases/2-93/
+Comments URL: https://news.ycombinator.com/item?id=27372285
+Points: 19
 # Comments: 3]]></summary>
         <author>
-            <name>mikesabbagh</name>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPal shuts down long-time Tor supporter]]></title>
+        <id>https://news.ycombinator.com/item?id=27371787</id>
+        <link href="https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse"/>
+        <updated>2021-06-02T17:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse
+Comments URL: https://news.ycombinator.com/item?id=27371787
+Points: 113
+# Comments: 32]]></summary>
+        <author>
+            <name>tirz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zerodium offers $100k for a RCE in Pidgin, who received $25k donation this year]]></title>
+        <id>https://news.ycombinator.com/item?id=27371612</id>
+        <link href="https://twitter.com/rw_grim/status/1399817799657218059"/>
+        <updated>2021-06-02T17:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/rw_grim/status/1399817799657218059
+Comments URL: https://news.ycombinator.com/item?id=27371612
+Points: 55
+# Comments: 25]]></summary>
+        <author>
+            <name>phh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pied Piper of SPACs]]></title>
+        <id>https://news.ycombinator.com/item?id=27371463</id>
+        <link href="https://www.newyorker.com/magazine/2021/06/07/the-pied-piper-of-spacs"/>
+        <updated>2021-06-02T17:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/06/07/the-pied-piper-of-spacs
+Comments URL: https://news.ycombinator.com/item?id=27371463
+Points: 23
+# Comments: 17]]></summary>
+        <author>
+            <name>tareqak</name>
         </author>
     </entry>
     <entry>
@@ -39,10 +159,23 @@ Points: 1
         <updated>2021-06-02T16:43:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/
 Comments URL: https://news.ycombinator.com/item?id=27370852
-Points: 22
-# Comments: 4]]></summary>
+Points: 124
+# Comments: 49]]></summary>
         <author>
             <name>nathggns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do wide and deep networks learn the same things?]]></title>
+        <id>https://news.ycombinator.com/item?id=27370646</id>
+        <link href="https://ai.googleblog.com/2021/05/do-wide-and-deep-networks-learn-same.html"/>
+        <updated>2021-06-02T16:27:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ai.googleblog.com/2021/05/do-wide-and-deep-networks-learn-same.html
+Comments URL: https://news.ycombinator.com/item?id=27370646
+Points: 62
+# Comments: 11]]></summary>
+        <author>
+            <name>MindGods</name>
         </author>
     </entry>
     <entry>
@@ -52,21 +185,21 @@ Points: 22
         <updated>2021-06-02T15:53:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
 Comments URL: https://news.ycombinator.com/item?id=27370138
-Points: 11
-# Comments: 0]]></summary>
+Points: 85
+# Comments: 29]]></summary>
         <author>
             <name>0xedb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corpus Clock (Grasshopper Clock)]]></title>
+        <title type="html"><![CDATA[Corpus Clock]]></title>
         <id>https://news.ycombinator.com/item?id=27370030</id>
         <link href="https://en.wikipedia.org/wiki/Corpus_Clock"/>
         <updated>2021-06-02T15:45:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Corpus_Clock
 Comments URL: https://news.ycombinator.com/item?id=27370030
-Points: 28
-# Comments: 12]]></summary>
+Points: 75
+# Comments: 16]]></summary>
         <author>
             <name>Hooke</name>
         </author>
@@ -78,34 +211,21 @@ Points: 28
         <updated>2021-06-02T15:44:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400
 Comments URL: https://news.ycombinator.com/item?id=27370026
-Points: 649
-# Comments: 258]]></summary>
+Points: 1163
+# Comments: 483]]></summary>
         <author>
             <name>DavidWilkinson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon has a quota for the number of employees it would be happy to see leave]]></title>
-        <id>https://news.ycombinator.com/item?id=27369910</id>
-        <link href="https://www.businessinsider.com/amazon-tracks-unregretted-attrition-rate-people-not-sad-to-lose-2021-4"/>
-        <updated>2021-06-02T15:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/amazon-tracks-unregretted-attrition-rate-people-not-sad-to-lose-2021-4
-Comments URL: https://news.ycombinator.com/item?id=27369910
-Points: 240
-# Comments: 218]]></summary>
-        <author>
-            <name>SonOfKyuss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's Low-Code Strategy Paints a Target on UIPath and Other RPA Companies]]></title>
+        <title type="html"><![CDATA[Microsoft's low-code strategy paints a target on UIPath and other RPA companies]]></title>
         <id>https://news.ycombinator.com/item?id=27369752</id>
         <link href="https://www.infoq.com/articles/cloud-vendors-low-code/"/>
         <updated>2021-06-02T15:22:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.infoq.com/articles/cloud-vendors-low-code/
 Comments URL: https://news.ycombinator.com/item?id=27369752
-Points: 68
-# Comments: 53]]></summary>
+Points: 125
+# Comments: 85]]></summary>
         <author>
             <name>tlochhead</name>
         </author>
@@ -117,23 +237,10 @@ Points: 68
         <updated>2021-06-02T15:05:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://puri.sm/posts/manufacturing-the-librem-5-usa-phone-in-the-united-states-of-america/
 Comments URL: https://news.ycombinator.com/item?id=27369548
-Points: 124
-# Comments: 40]]></summary>
+Points: 205
+# Comments: 91]]></summary>
         <author>
             <name>dmytton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSUSE Leap 15.3]]></title>
-        <id>https://news.ycombinator.com/item?id=27369344</id>
-        <link href="https://news.opensuse.org/2021/06/02/opensuse-leap-bridges-path-to-enterprise/"/>
-        <updated>2021-06-02T14:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.opensuse.org/2021/06/02/opensuse-leap-bridges-path-to-enterprise/
-Comments URL: https://news.ycombinator.com/item?id=27369344
-Points: 51
-# Comments: 24]]></summary>
-        <author>
-            <name>nix23</name>
         </author>
     </entry>
     <entry>
@@ -177,8 +284,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-02T13:22:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nixos.org/manual/nixos/stable/release-notes.html#sec-release-21.05
 Comments URL: https://news.ycombinator.com/item?id=27368361
-Points: 209
-# Comments: 95]]></summary>
+Points: 274
+# Comments: 144]]></summary>
         <author>
             <name>jiehong</name>
         </author>
@@ -190,21 +297,21 @@ Points: 209
         <updated>2021-06-02T13:05:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://actu.epfl.ch/news/mass-scale-manipulation-of-twitter-trends-discov-2/
 Comments URL: https://news.ycombinator.com/item?id=27368214
-Points: 274
-# Comments: 126]]></summary>
+Points: 355
+# Comments: 154]]></summary>
         <author>
             <name>FridayoLeary</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Render Jupyter notebooks as interactive articles with Deepnote]]></title>
+        <title type="html"><![CDATA[Show HN: Render Jupyter notebooks as interactive articles]]></title>
         <id>https://news.ycombinator.com/item?id=27367948</id>
         <link href="https://deepnote.com/viewer"/>
         <updated>2021-06-02T12:35:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://deepnote.com/viewer
 Comments URL: https://news.ycombinator.com/item?id=27367948
-Points: 131
-# Comments: 27]]></summary>
+Points: 159
+# Comments: 30]]></summary>
         <author>
             <name>adlha</name>
         </author>
@@ -220,32 +327,6 @@ Points: 131
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Philosophers Think]]></title>
-        <id>https://news.ycombinator.com/item?id=27367632</id>
-        <link href="https://perell.com/essay/how-philosophers-think/"/>
-        <updated>2021-06-02T11:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://perell.com/essay/how-philosophers-think/
-Comments URL: https://news.ycombinator.com/item?id=27367632
-Points: 39
-# Comments: 21]]></summary>
-        <author>
-            <name>imartin2k</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stage 3 Proposal: Array.prototype.at]]></title>
-        <id>https://news.ycombinator.com/item?id=27367378</id>
-        <link href="https://tc39.es/proposal-relative-indexing-method/"/>
-        <updated>2021-06-02T11:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tc39.es/proposal-relative-indexing-method/
-Comments URL: https://news.ycombinator.com/item?id=27367378
-Points: 43
-# Comments: 98]]></summary>
-        <author>
-            <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
         <link href="https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/"/>
@@ -256,68 +337,16 @@ Points: 43
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Etsy to buy fashion reseller Depop for $1.63B in push for younger consumers]]></title>
+        <title type="html"><![CDATA[Etsy to buy fashion reseller Depop for $1.63B]]></title>
         <id>https://news.ycombinator.com/item?id=27367001</id>
         <link href="https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/"/>
         <updated>2021-06-02T10:29:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/
 Comments URL: https://news.ycombinator.com/item?id=27367001
-Points: 162
-# Comments: 144]]></summary>
+Points: 204
+# Comments: 162]]></summary>
         <author>
             <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G7 nations committing billions more to fossil fuel than green energy]]></title>
-        <id>https://news.ycombinator.com/item?id=27366050</id>
-        <link href="https://www.theguardian.com/world/2021/jun/02/g7-nations-committing-billions-more-to-fossil-fuel-than-green-energy"/>
-        <updated>2021-06-02T07:47:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/world/2021/jun/02/g7-nations-committing-billions-more-to-fossil-fuel-than-green-energy
-Comments URL: https://news.ycombinator.com/item?id=27366050
-Points: 254
-# Comments: 236]]></summary>
-        <author>
-            <name>ciconia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Yare.io – game where you control units with JavaScript]]></title>
-        <id>https://news.ycombinator.com/item?id=27365961</id>
-        <link href="https://yare.io"/>
-        <updated>2021-06-02T07:33:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://yare.io
-Comments URL: https://news.ycombinator.com/item?id=27365961
-Points: 178
-# Comments: 48]]></summary>
-        <author>
-            <name>levmiseri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Theft of a Magritte]]></title>
-        <id>https://news.ycombinator.com/item?id=27365714</id>
-        <link href="https://www.vanityfair.com/style/2021/05/did-paying-a-ransom-for-a-stolen-magritte-painting-inadvertently-fund-terrorism"/>
-        <updated>2021-06-02T06:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vanityfair.com/style/2021/05/did-paying-a-ransom-for-a-stolen-magritte-painting-inadvertently-fund-terrorism
-Comments URL: https://news.ycombinator.com/item?id=27365714
-Points: 23
-# Comments: 26]]></summary>
-        <author>
-            <name>onepossibility</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Prefetch Is Broken]]></title>
-        <id>https://news.ycombinator.com/item?id=27365608</id>
-        <link href="https://www.jefftk.com/p/why-prefetch-is-broken"/>
-        <updated>2021-06-02T06:35:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jefftk.com/p/why-prefetch-is-broken
-Comments URL: https://news.ycombinator.com/item?id=27365608
-Points: 194
-# Comments: 76]]></summary>
-        <author>
-            <name>astdb</name>
         </author>
     </entry>
     <entry>
@@ -519,16 +548,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advanced Computer Vision with Python]]></title>
-        <id>60b0de2211ffb70827ef8d7c</id>
-        <link href="https://www.freecodecamp.org/news/advanced-computer-vision-with-python/"/>
-        <updated>2021-05-28T12:26:38.000Z</updated>
-        <summary type="html"><![CDATA[More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding A Commenting System To A WYSIWYG Editor]]></title>
         <id>https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/</id>
         <link href="https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/"/>
@@ -551,16 +570,6 @@ The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on C
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
-        <id>60af931811ffb70827ef85d3</id>
-        <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
-        <updated>2021-05-27T17:55:23.000Z</updated>
-        <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
