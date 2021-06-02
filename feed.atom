@@ -2,58 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T15:53:51.782Z</updated>
+    <updated>2021-06-02T17:56:45.249Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Amazon's Controversial 'Hire to Fire' Practice Reveals a Brutal Truth]]></title>
+        <title type="html"><![CDATA[Amazon warehouse injuries '80% higher' than competitors, report claims]]></title>
+        <id>https://news.ycombinator.com/item?id=27371553</id>
+        <link href="https://www.bbc.com/news/technology-57332390"/>
+        <updated>2021-06-02T17:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57332390
+Comments URL: https://news.ycombinator.com/item?id=27371553
+Points: 25
+# Comments: 3]]></summary>
+        <author>
+            <name>mikesabbagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EasyPost (YC S13) Is Hiring (Remote)]]></title>
+        <id>https://news.ycombinator.com/item?id=27371109</id>
+        <link href="https://www.easypost.com/careers"/>
+        <updated>2021-06-02T17:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.easypost.com/careers
+Comments URL: https://news.ycombinator.com/item?id=27371109
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>jstreebin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kinda a Big Announcement]]></title>
+        <id>https://news.ycombinator.com/item?id=27370852</id>
+        <link href="https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/"/>
+        <updated>2021-06-02T16:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/
+Comments URL: https://news.ycombinator.com/item?id=27370852
+Points: 22
+# Comments: 4]]></summary>
+        <author>
+            <name>nathggns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making JavaScript run fast on WebAssembly]]></title>
+        <id>https://news.ycombinator.com/item?id=27370138</id>
+        <link href="https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly"/>
+        <updated>2021-06-02T15:53:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
+Comments URL: https://news.ycombinator.com/item?id=27370138
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>0xedb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corpus Clock (Grasshopper Clock)]]></title>
+        <id>https://news.ycombinator.com/item?id=27370030</id>
+        <link href="https://en.wikipedia.org/wiki/Corpus_Clock"/>
+        <updated>2021-06-02T15:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Corpus_Clock
+Comments URL: https://news.ycombinator.com/item?id=27370030
+Points: 28
+# Comments: 12]]></summary>
+        <author>
+            <name>Hooke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack Overflow sold to Prosus for $1.8B]]></title>
+        <id>https://news.ycombinator.com/item?id=27370026</id>
+        <link href="https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400"/>
+        <updated>2021-06-02T15:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400
+Comments URL: https://news.ycombinator.com/item?id=27370026
+Points: 649
+# Comments: 258]]></summary>
+        <author>
+            <name>DavidWilkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon has a quota for the number of employees it would be happy to see leave]]></title>
         <id>https://news.ycombinator.com/item?id=27369910</id>
-        <link href="https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html"/>
+        <link href="https://www.businessinsider.com/amazon-tracks-unregretted-attrition-rate-people-not-sad-to-lose-2021-4"/>
         <updated>2021-06-02T15:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/amazon-tracks-unregretted-attrition-rate-people-not-sad-to-lose-2021-4
 Comments URL: https://news.ycombinator.com/item?id=27369910
-Points: 33
-# Comments: 5]]></summary>
+Points: 240
+# Comments: 218]]></summary>
         <author>
             <name>SonOfKyuss</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 10 Enterprise LTSC]]></title>
-        <id>https://news.ycombinator.com/item?id=27369828</id>
-        <link href="https://docs.microsoft.com/en-us/windows/whats-new/ltsc/"/>
-        <updated>2021-06-02T15:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://docs.microsoft.com/en-us/windows/whats-new/ltsc/
-Comments URL: https://news.ycombinator.com/item?id=27369828
-Points: 4
-# Comments: 2]]></summary>
+        <title type="html"><![CDATA[Microsoft's Low-Code Strategy Paints a Target on UIPath and Other RPA Companies]]></title>
+        <id>https://news.ycombinator.com/item?id=27369752</id>
+        <link href="https://www.infoq.com/articles/cloud-vendors-low-code/"/>
+        <updated>2021-06-02T15:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.infoq.com/articles/cloud-vendors-low-code/
+Comments URL: https://news.ycombinator.com/item?id=27369752
+Points: 68
+# Comments: 53]]></summary>
         <author>
-            <name>manjana</name>
+            <name>tlochhead</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AOL Instant Messenger: A Eulogy (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27369542</id>
-        <link href="https://www.nationalreview.com/2017/10/aol-instant-messenger-eulogy-aim-social-media-millennials/"/>
-        <updated>2021-06-02T15:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nationalreview.com/2017/10/aol-instant-messenger-eulogy-aim-social-media-millennials/
-Comments URL: https://news.ycombinator.com/item?id=27369542
-Points: 6
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[Manufacturing the Librem 5 USA Phone in the US]]></title>
+        <id>https://news.ycombinator.com/item?id=27369548</id>
+        <link href="https://puri.sm/posts/manufacturing-the-librem-5-usa-phone-in-the-united-states-of-america/"/>
+        <updated>2021-06-02T15:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://puri.sm/posts/manufacturing-the-librem-5-usa-phone-in-the-united-states-of-america/
+Comments URL: https://news.ycombinator.com/item?id=27369548
+Points: 124
+# Comments: 40]]></summary>
         <author>
-            <name>podiki</name>
+            <name>dmytton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenSUSE Leap 15.3 Released]]></title>
+        <title type="html"><![CDATA[OpenSUSE Leap 15.3]]></title>
         <id>https://news.ycombinator.com/item?id=27369344</id>
         <link href="https://news.opensuse.org/2021/06/02/opensuse-leap-bridges-path-to-enterprise/"/>
         <updated>2021-06-02T14:51:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.opensuse.org/2021/06/02/opensuse-leap-bridges-path-to-enterprise/
 Comments URL: https://news.ycombinator.com/item?id=27369344
-Points: 22
-# Comments: 8]]></summary>
+Points: 51
+# Comments: 24]]></summary>
         <author>
             <name>nix23</name>
         </author>
@@ -93,27 +171,14 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Details Emerge on the “Highly Modified Drone” That Outran Police Helicopters]]></title>
-        <id>https://news.ycombinator.com/item?id=27368499</id>
-        <link href="https://www.thedrive.com/the-war-zone/40756/new-details-emerge-on-the-highly-modified-drone-that-outran-police-helicopters-over-tucson"/>
-        <updated>2021-06-02T13:34:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thedrive.com/the-war-zone/40756/new-details-emerge-on-the-highly-modified-drone-that-outran-police-helicopters-over-tucson
-Comments URL: https://news.ycombinator.com/item?id=27368499
-Points: 57
-# Comments: 40]]></summary>
-        <author>
-            <name>maerek</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NixOS 21.05]]></title>
         <id>https://news.ycombinator.com/item?id=27368361</id>
         <link href="https://nixos.org/manual/nixos/stable/release-notes.html#sec-release-21.05"/>
         <updated>2021-06-02T13:22:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nixos.org/manual/nixos/stable/release-notes.html#sec-release-21.05
 Comments URL: https://news.ycombinator.com/item?id=27368361
-Points: 112
-# Comments: 28]]></summary>
+Points: 209
+# Comments: 95]]></summary>
         <author>
             <name>jiehong</name>
         </author>
@@ -121,27 +186,14 @@ Points: 112
     <entry>
         <title type="html"><![CDATA[Almost half of local Twitter trending topics in Turkey are fake – study]]></title>
         <id>https://news.ycombinator.com/item?id=27368214</id>
-        <link href="https://techxplore.com/news/2021-06-mass-scale-twitter-trends.html"/>
+        <link href="https://actu.epfl.ch/news/mass-scale-manipulation-of-twitter-trends-discov-2/"/>
         <updated>2021-06-02T13:05:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techxplore.com/news/2021-06-mass-scale-twitter-trends.html
+        <summary type="html"><![CDATA[Article URL: https://actu.epfl.ch/news/mass-scale-manipulation-of-twitter-trends-discov-2/
 Comments URL: https://news.ycombinator.com/item?id=27368214
-Points: 196
-# Comments: 108]]></summary>
+Points: 274
+# Comments: 126]]></summary>
         <author>
             <name>FridayoLeary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei HarmonyOS and New Products Launch [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27368180</id>
-        <link href="https://www.youtube.com/watch?v=y2101ics8jc"/>
-        <updated>2021-06-02T13:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=y2101ics8jc
-Comments URL: https://news.ycombinator.com/item?id=27368180
-Points: 27
-# Comments: 33]]></summary>
-        <author>
-            <name>rguiscard</name>
         </author>
     </entry>
     <entry>
@@ -151,8 +203,8 @@ Points: 27
         <updated>2021-06-02T12:35:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://deepnote.com/viewer
 Comments URL: https://news.ycombinator.com/item?id=27367948
-Points: 102
-# Comments: 21]]></summary>
+Points: 131
+# Comments: 27]]></summary>
         <author>
             <name>adlha</name>
         </author>
@@ -168,27 +220,14 @@ Points: 102
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qventus (YC W15) Is Hiring Data Scientists]]></title>
-        <id>https://news.ycombinator.com/item?id=27367653</id>
-        <link href="https://www.ycombinator.com/companies/qventus/jobs/nHDNaun-data-scientist"/>
-        <updated>2021-06-02T12:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/qventus/jobs/nHDNaun-data-scientist
-Comments URL: https://news.ycombinator.com/item?id=27367653
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>ifc</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Philosophers Think]]></title>
         <id>https://news.ycombinator.com/item?id=27367632</id>
         <link href="https://perell.com/essay/how-philosophers-think/"/>
         <updated>2021-06-02T11:56:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://perell.com/essay/how-philosophers-think/
 Comments URL: https://news.ycombinator.com/item?id=27367632
-Points: 5
-# Comments: 0]]></summary>
+Points: 39
+# Comments: 21]]></summary>
         <author>
             <name>imartin2k</name>
         </author>
@@ -200,8 +239,8 @@ Points: 5
         <updated>2021-06-02T11:24:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tc39.es/proposal-relative-indexing-method/
 Comments URL: https://news.ycombinator.com/item?id=27367378
-Points: 30
-# Comments: 58]]></summary>
+Points: 43
+# Comments: 98]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -223,23 +262,10 @@ Points: 30
         <updated>2021-06-02T10:29:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/
 Comments URL: https://news.ycombinator.com/item?id=27367001
-Points: 139
-# Comments: 112]]></summary>
+Points: 162
+# Comments: 144]]></summary>
         <author>
             <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25 Years of CSS]]></title>
-        <id>https://news.ycombinator.com/item?id=27366056</id>
-        <link href="https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/"/>
-        <updated>2021-06-02T07:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/
-Comments URL: https://news.ycombinator.com/item?id=27366056
-Points: 143
-# Comments: 91]]></summary>
-        <author>
-            <name>adrian_mrd</name>
         </author>
     </entry>
     <entry>
@@ -249,8 +275,8 @@ Points: 143
         <updated>2021-06-02T07:47:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/world/2021/jun/02/g7-nations-committing-billions-more-to-fossil-fuel-than-green-energy
 Comments URL: https://news.ycombinator.com/item?id=27366050
-Points: 216
-# Comments: 197]]></summary>
+Points: 254
+# Comments: 236]]></summary>
         <author>
             <name>ciconia</name>
         </author>
@@ -262,8 +288,8 @@ Points: 216
         <updated>2021-06-02T07:33:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://yare.io
 Comments URL: https://news.ycombinator.com/item?id=27365961
-Points: 156
-# Comments: 45]]></summary>
+Points: 178
+# Comments: 48]]></summary>
         <author>
             <name>levmiseri</name>
         </author>
@@ -275,8 +301,8 @@ Points: 156
         <updated>2021-06-02T06:50:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vanityfair.com/style/2021/05/did-paying-a-ransom-for-a-stolen-magritte-painting-inadvertently-fund-terrorism
 Comments URL: https://news.ycombinator.com/item?id=27365714
-Points: 18
-# Comments: 20]]></summary>
+Points: 23
+# Comments: 26]]></summary>
         <author>
             <name>onepossibility</name>
         </author>
@@ -288,36 +314,10 @@ Points: 18
         <updated>2021-06-02T06:35:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jefftk.com/p/why-prefetch-is-broken
 Comments URL: https://news.ycombinator.com/item?id=27365608
-Points: 182
-# Comments: 72]]></summary>
+Points: 194
+# Comments: 76]]></summary>
         <author>
             <name>astdb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bowers and Wilkins’ Nautilus loudspeaker]]></title>
-        <id>https://news.ycombinator.com/item?id=27365352</id>
-        <link href="https://www.bowerswilkins.com/blog/products/history-of-nautilus"/>
-        <updated>2021-06-02T05:56:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bowerswilkins.com/blog/products/history-of-nautilus
-Comments URL: https://news.ycombinator.com/item?id=27365352
-Points: 137
-# Comments: 112]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Producing a trustworthy x86-based Linux appliance]]></title>
-        <id>https://news.ycombinator.com/item?id=27365057</id>
-        <link href="https://mjg59.dreamwidth.org/57199.html"/>
-        <updated>2021-06-02T05:06:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mjg59.dreamwidth.org/57199.html
-Comments URL: https://news.ycombinator.com/item?id=27365057
-Points: 181
-# Comments: 95]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -1001,16 +1001,6 @@ Chore: Excluded testing files from repo.]]></summary>
         <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
