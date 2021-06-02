@@ -2,21 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T22:05:52.569Z</updated>
+    <updated>2021-06-02T23:44:24.742Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[NortonLifeLock Unveils Norton Crypto]]></title>
-        <id>https://news.ycombinator.com/item?id=27374327</id>
-        <link href="https://investor.nortonlifelock.com/About/Investors/press-releases/press-release-details/2021/NortonLifeLock-Unveils-Norton-Crypto/default.aspx"/>
-        <updated>2021-06-02T21:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://investor.nortonlifelock.com/About/Investors/press-releases/press-release-details/2021/NortonLifeLock-Unveils-Norton-Crypto/default.aspx
-Comments URL: https://news.ycombinator.com/item?id=27374327
+        <title type="html"><![CDATA[Apple: Employees Asked to Return to Offices 3 Days a Week Starting in September]]></title>
+        <id>https://news.ycombinator.com/item?id=27375261</id>
+        <link href="https://www.macrumors.com/2021/06/02/apple-employees-returning-to-work/"/>
+        <updated>2021-06-02T23:23:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2021/06/02/apple-employees-returning-to-work/
+Comments URL: https://news.ycombinator.com/item?id=27375261
 Points: 14
-# Comments: 12]]></summary>
+# Comments: 1]]></summary>
         <author>
-            <name>tech234a</name>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
+        <id>60afce3011ffb70827ef869c</id>
+        <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
+        <updated>2021-06-02T23:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When six boys were shipwrecked for 15 months (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27375076</id>
+        <link href="https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months"/>
+        <updated>2021-06-02T23:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months
+Comments URL: https://news.ycombinator.com/item?id=27375076
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>smollett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Environment Variables in VanillaJS]]></title>
+        <id>60b3a25211ffb70827ef9b39</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/"/>
+        <updated>2021-06-02T22:54:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malloc broke Serenity's JPGLoader, or: how to win the lottery]]></title>
+        <id>https://news.ycombinator.com/item?id=27374942</id>
+        <link href="https://sin-ack.github.io/posts/jpg-loader-bork/"/>
+        <updated>2021-06-02T22:43:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/
+Comments URL: https://news.ycombinator.com/item?id=27374942
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>trashburger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Car Design History]]></title>
+        <id>https://news.ycombinator.com/item?id=27374893</id>
+        <link href="https://www.cardesignhistory.com/"/>
+        <updated>2021-06-02T22:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cardesignhistory.com/
+Comments URL: https://news.ycombinator.com/item?id=27374893
+Points: 22
+# Comments: 4]]></summary>
+        <author>
+            <name>spamalot159</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wyoming site of new nuclear power plant from Bill Gates' TerraPower]]></title>
+        <id>https://news.ycombinator.com/item?id=27374840</id>
+        <link href="https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html"/>
+        <updated>2021-06-02T22:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html
+Comments URL: https://news.ycombinator.com/item?id=27374840
+Points: 40
+# Comments: 3]]></summary>
+        <author>
+            <name>spenrose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Transform a CSV into a JSON and vice versa]]></title>
+        <id>https://news.ycombinator.com/item?id=27374632</id>
+        <link href="https://jsonmatic.com/"/>
+        <updated>2021-06-02T22:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jsonmatic.com/
+Comments URL: https://news.ycombinator.com/item?id=27374632
+Points: 5
+# Comments: 1]]></summary>
+        <author>
+            <name>okumurahata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA announces two new missions to Venus]]></title>
+        <id>https://news.ycombinator.com/item?id=27374233</id>
+        <link href="https://twitter.com/NASA/status/1400175950147604482"/>
+        <updated>2021-06-02T21:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/NASA/status/1400175950147604482
+Comments URL: https://news.ycombinator.com/item?id=27374233
+Points: 26
+# Comments: 3]]></summary>
+        <author>
+            <name>anigbrowl</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +124,8 @@ Points: 14
         <updated>2021-06-02T21:21:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://komonews.com/news/local/king-county-is-first-in-the-country-to-ban-facial-recognition-software
 Comments URL: https://news.ycombinator.com/item?id=27374173
-Points: 67
-# Comments: 26]]></summary>
+Points: 223
+# Comments: 141]]></summary>
         <author>
             <name>sharkweek</name>
         </author>
@@ -59,6 +157,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How a Giant Corpse Flower Got to an Abandoned Gas Station]]></title>
+        <id>https://news.ycombinator.com/item?id=27373978</id>
+        <link href="https://www.atlasobscura.com/articles/corpse-flower-california"/>
+        <updated>2021-06-02T21:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/corpse-flower-california
+Comments URL: https://news.ycombinator.com/item?id=27373978
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>turtlegrids</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tesorio (YC S15) Is Hiring a Principal Data Architect and Senior DevOps]]></title>
         <id>https://news.ycombinator.com/item?id=27373969</id>
         <link href="https://www.tesorio.com/careers#job-openings"/>
@@ -78,8 +189,8 @@ Points: 1
         <updated>2021-06-02T20:57:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/02/nyregion/mta-cyber-attack.html
 Comments URL: https://news.ycombinator.com/item?id=27373931
-Points: 20
-# Comments: 17]]></summary>
+Points: 52
+# Comments: 43]]></summary>
         <author>
             <name>perihelions</name>
         </author>
@@ -95,38 +206,16 @@ Points: 20
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fujifilm shuts down network after suspected ransomware attack]]></title>
-        <id>https://news.ycombinator.com/item?id=27373455</id>
-        <link href="https://www.bleepingcomputer.com/news/security/fujifilm-shuts-down-network-after-suspected-ransomware-attack/"/>
-        <updated>2021-06-02T20:09:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bleepingcomputer.com/news/security/fujifilm-shuts-down-network-after-suspected-ransomware-attack/
-Comments URL: https://news.ycombinator.com/item?id=27373455
-Points: 27
-# Comments: 22]]></summary>
+        <title type="html"><![CDATA[Our Favourite Uses of Typography in Watches]]></title>
+        <id>https://news.ycombinator.com/item?id=27373403</id>
+        <link href="https://www.acollectedman.com/blogs/journal/favourite-typography-watches"/>
+        <updated>2021-06-02T20:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.acollectedman.com/blogs/journal/favourite-typography-watches
+Comments URL: https://news.ycombinator.com/item?id=27373403
+Points: 12
+# Comments: 2]]></summary>
         <author>
-            <name>jmull</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi 4 OpenBSD based home computer/gaming console]]></title>
-        <id>https://news.ycombinator.com/item?id=27373088</id>
-        <link href="https://news.ycombinator.com/item?id=27373088"/>
-        <updated>2021-06-02T19:40:31.000Z</updated>
-        <summary type="html"><![CDATA[When I started programming as a kid, I had a Commodore 64 and later an amiga 500. Those machines came with very simple software and expected you to write some, rather than giving you thousands of pre-made packages to learn and play with.
-A lot of existing software was video games. They were much simpler than those people play nowadays but they were still a lot of fun. Part of the fun was low latency.
-I started working on a gaming console based on the raspberry pi that would have the kind of low latency that older home computers and gaming consoles had, and found a way to do that.
-At some point, I realised that users would want to use a keyboard, read and write files, connect to the internet, stuff that is taken for granted with computers today.
-So I wanted not to run on bare metal anymore, I needed an OS. Writing one from scratch would take me years and it probably would not be as good as an existing one.
-But existing desktop operating systems tend not to be good for games, as they introduce latency and are able to stop a game at any time to do some other task, which can result in stuttering that the game developers cannot fully control or avoid.
-I modified the OpenBSD kernel for the raspberry pi with gaming related extensions, in such a way that when the game runs there is no latency and no stuttering.
-A game on my own fork of OpenBSD has the same performance of the bare metal code that I have written previously. And it can do file I/O, connect to the net and all that kind of stuff.
-And when you quit the game it's just like normal OpenBSD so you can program it and make games yourself, browse the web and do all sort of stuff.
-I am thinking that other people may want to have something like that, both for nostalgic reasons and for learning programming, so I thought of asking around and, if enough people like the idea, turn this into a product.
-Comments URL: https://news.ycombinator.com/item?id=27373088
-Points: 44
-# Comments: 16]]></summary>
-        <author>
-            <name>alehyze</name>
+            <name>tmfi</name>
         </author>
     </entry>
     <entry>
@@ -146,8 +235,8 @@ Points: 44
         <updated>2021-06-02T19:28:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=7rIJNT7dCmE
 Comments URL: https://news.ycombinator.com/item?id=27372930
-Points: 75
-# Comments: 13]]></summary>
+Points: 124
+# Comments: 33]]></summary>
         <author>
             <name>qxga</name>
         </author>
@@ -169,8 +258,8 @@ Points: 75
         <updated>2021-06-02T18:47:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/
 Comments URL: https://news.ycombinator.com/item?id=27372431
-Points: 92
-# Comments: 148]]></summary>
+Points: 116
+# Comments: 173]]></summary>
         <author>
             <name>SocksCanClose</name>
         </author>
@@ -182,8 +271,8 @@ Points: 92
         <updated>2021-06-02T18:35:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/
 Comments URL: https://news.ycombinator.com/item?id=27372292
-Points: 198
-# Comments: 27]]></summary>
+Points: 241
+# Comments: 32]]></summary>
         <author>
             <name>jakub_g</name>
         </author>
@@ -195,8 +284,8 @@ Points: 198
         <updated>2021-06-02T18:34:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.blender.org/download/releases/2-93/
 Comments URL: https://news.ycombinator.com/item?id=27372285
-Points: 80
-# Comments: 9]]></summary>
+Points: 136
+# Comments: 16]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -208,62 +297,10 @@ Points: 80
         <updated>2021-06-02T17:51:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse
 Comments URL: https://news.ycombinator.com/item?id=27371787
-Points: 217
-# Comments: 79]]></summary>
+Points: 285
+# Comments: 100]]></summary>
         <author>
             <name>tirz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zerodium offers $100k for a RCE in Pidgin, who received $25k donation this year]]></title>
-        <id>https://news.ycombinator.com/item?id=27371612</id>
-        <link href="https://twitter.com/rw_grim/status/1399817799657218059"/>
-        <updated>2021-06-02T17:36:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/rw_grim/status/1399817799657218059
-Comments URL: https://news.ycombinator.com/item?id=27371612
-Points: 91
-# Comments: 49]]></summary>
-        <author>
-            <name>phh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pied Piper of SPACs]]></title>
-        <id>https://news.ycombinator.com/item?id=27371463</id>
-        <link href="https://www.newyorker.com/magazine/2021/06/07/the-pied-piper-of-spacs"/>
-        <updated>2021-06-02T17:26:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/06/07/the-pied-piper-of-spacs
-Comments URL: https://news.ycombinator.com/item?id=27371463
-Points: 33
-# Comments: 25]]></summary>
-        <author>
-            <name>tareqak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinda a Big Announcement]]></title>
-        <id>https://news.ycombinator.com/item?id=27370852</id>
-        <link href="https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/"/>
-        <updated>2021-06-02T16:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/
-Comments URL: https://news.ycombinator.com/item?id=27370852
-Points: 162
-# Comments: 72]]></summary>
-        <author>
-            <name>nathggns</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do wide and deep networks learn the same things?]]></title>
-        <id>https://news.ycombinator.com/item?id=27370646</id>
-        <link href="https://ai.googleblog.com/2021/05/do-wide-and-deep-networks-learn-same.html"/>
-        <updated>2021-06-02T16:27:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ai.googleblog.com/2021/05/do-wide-and-deep-networks-learn-same.html
-Comments URL: https://news.ycombinator.com/item?id=27370646
-Points: 75
-# Comments: 18]]></summary>
-        <author>
-            <name>MindGods</name>
         </author>
     </entry>
     <entry>
@@ -273,8 +310,8 @@ Points: 75
         <updated>2021-06-02T15:53:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
 Comments URL: https://news.ycombinator.com/item?id=27370138
-Points: 130
-# Comments: 44]]></summary>
+Points: 155
+# Comments: 58]]></summary>
         <author>
             <name>0xedb</name>
         </author>
@@ -286,8 +323,8 @@ Points: 130
         <updated>2021-06-02T15:45:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Corpus_Clock
 Comments URL: https://news.ycombinator.com/item?id=27370030
-Points: 86
-# Comments: 20]]></summary>
+Points: 95
+# Comments: 23]]></summary>
         <author>
             <name>Hooke</name>
         </author>
@@ -299,36 +336,10 @@ Points: 86
         <updated>2021-06-02T15:44:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400
 Comments URL: https://news.ycombinator.com/item?id=27370026
-Points: 1368
-# Comments: 581]]></summary>
+Points: 1484
+# Comments: 627]]></summary>
         <author>
             <name>DavidWilkinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's low-code strategy paints a target on UIPath and other RPA companies]]></title>
-        <id>https://news.ycombinator.com/item?id=27369752</id>
-        <link href="https://www.infoq.com/articles/cloud-vendors-low-code/"/>
-        <updated>2021-06-02T15:22:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.infoq.com/articles/cloud-vendors-low-code/
-Comments URL: https://news.ycombinator.com/item?id=27369752
-Points: 147
-# Comments: 104]]></summary>
-        <author>
-            <name>tlochhead</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manufacturing the Librem 5 USA Phone in the US]]></title>
-        <id>https://news.ycombinator.com/item?id=27369548</id>
-        <link href="https://puri.sm/posts/manufacturing-the-librem-5-usa-phone-in-the-united-states-of-america/"/>
-        <updated>2021-06-02T15:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://puri.sm/posts/manufacturing-the-librem-5-usa-phone-in-the-united-states-of-america/
-Comments URL: https://news.ycombinator.com/item?id=27369548
-Points: 246
-# Comments: 114]]></summary>
-        <author>
-            <name>dmytton</name>
         </author>
     </entry>
     <entry>
@@ -423,26 +434,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/learn-next-js/"/>
         <updated>2021-06-01T17:43:56.000Z</updated>
         <summary type="html"><![CDATA[Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source]]></title>
-        <id>60acf28e11ffb70827ef6dd9</id>
-        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/"/>
-        <updated>2021-06-01T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Cybersecurity Job in 2021]]></title>
-        <id>60aff2d711ffb70827ef8829</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/"/>
-        <updated>2021-06-01T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
