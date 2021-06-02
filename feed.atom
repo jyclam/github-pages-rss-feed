@@ -2,34 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T14:42:30.777Z</updated>
+    <updated>2021-06-02T15:53:51.782Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[University of Oregon will monitor students' social media statements]]></title>
-        <id>https://news.ycombinator.com/item?id=27369072</id>
-        <link href="https://jonathanturley.org/2021/05/30/duck-hunt-university-of-oregon-announces-policy-on-monitoring-student-social-media-and-off-campus-statements/"/>
-        <updated>2021-06-02T14:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jonathanturley.org/2021/05/30/duck-hunt-university-of-oregon-announces-policy-on-monitoring-student-social-media-and-off-campus-statements/
-Comments URL: https://news.ycombinator.com/item?id=27369072
-Points: 18
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[Amazon's Controversial 'Hire to Fire' Practice Reveals a Brutal Truth]]></title>
+        <id>https://news.ycombinator.com/item?id=27369910</id>
+        <link href="https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html"/>
+        <updated>2021-06-02T15:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html
+Comments URL: https://news.ycombinator.com/item?id=27369910
+Points: 33
+# Comments: 5]]></summary>
         <author>
-            <name>rsj_hn</name>
+            <name>SonOfKyuss</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The $15B jet dilemma facing Boeing’s CEO]]></title>
-        <id>https://news.ycombinator.com/item?id=27368890</id>
-        <link href="https://www.reuters.com/business/aerospace-defense/15-billion-jet-dilemma-facing-boeings-ceo-2021-06-02/"/>
-        <updated>2021-06-02T14:11:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/aerospace-defense/15-billion-jet-dilemma-facing-boeings-ceo-2021-06-02/
-Comments URL: https://news.ycombinator.com/item?id=27368890
-Points: 6
-# Comments: 5]]></summary>
+        <title type="html"><![CDATA[Windows 10 Enterprise LTSC]]></title>
+        <id>https://news.ycombinator.com/item?id=27369828</id>
+        <link href="https://docs.microsoft.com/en-us/windows/whats-new/ltsc/"/>
+        <updated>2021-06-02T15:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://docs.microsoft.com/en-us/windows/whats-new/ltsc/
+Comments URL: https://news.ycombinator.com/item?id=27369828
+Points: 4
+# Comments: 2]]></summary>
         <author>
-            <name>samizdis</name>
+            <name>manjana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AOL Instant Messenger: A Eulogy (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27369542</id>
+        <link href="https://www.nationalreview.com/2017/10/aol-instant-messenger-eulogy-aim-social-media-millennials/"/>
+        <updated>2021-06-02T15:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nationalreview.com/2017/10/aol-instant-messenger-eulogy-aim-social-media-millennials/
+Comments URL: https://news.ycombinator.com/item?id=27369542
+Points: 6
+# Comments: 3]]></summary>
+        <author>
+            <name>podiki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSUSE Leap 15.3 Released]]></title>
+        <id>https://news.ycombinator.com/item?id=27369344</id>
+        <link href="https://news.opensuse.org/2021/06/02/opensuse-leap-bridges-path-to-enterprise/"/>
+        <updated>2021-06-02T14:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.opensuse.org/2021/06/02/opensuse-leap-bridges-path-to-enterprise/
+Comments URL: https://news.ycombinator.com/item?id=27369344
+Points: 22
+# Comments: 8]]></summary>
+        <author>
+            <name>nix23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦]]></title>
+        <id>60b51f6e11ffb70827ef9f7c</id>
+        <link href="https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/"/>
+        <updated>2021-06-02T14:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -57,27 +93,53 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mass scale manipulation of Twitter Trends discovered]]></title>
+        <title type="html"><![CDATA[New Details Emerge on the “Highly Modified Drone” That Outran Police Helicopters]]></title>
+        <id>https://news.ycombinator.com/item?id=27368499</id>
+        <link href="https://www.thedrive.com/the-war-zone/40756/new-details-emerge-on-the-highly-modified-drone-that-outran-police-helicopters-over-tucson"/>
+        <updated>2021-06-02T13:34:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thedrive.com/the-war-zone/40756/new-details-emerge-on-the-highly-modified-drone-that-outran-police-helicopters-over-tucson
+Comments URL: https://news.ycombinator.com/item?id=27368499
+Points: 57
+# Comments: 40]]></summary>
+        <author>
+            <name>maerek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NixOS 21.05]]></title>
+        <id>https://news.ycombinator.com/item?id=27368361</id>
+        <link href="https://nixos.org/manual/nixos/stable/release-notes.html#sec-release-21.05"/>
+        <updated>2021-06-02T13:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nixos.org/manual/nixos/stable/release-notes.html#sec-release-21.05
+Comments URL: https://news.ycombinator.com/item?id=27368361
+Points: 112
+# Comments: 28]]></summary>
+        <author>
+            <name>jiehong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Almost half of local Twitter trending topics in Turkey are fake – study]]></title>
         <id>https://news.ycombinator.com/item?id=27368214</id>
         <link href="https://techxplore.com/news/2021-06-mass-scale-twitter-trends.html"/>
         <updated>2021-06-02T13:05:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://techxplore.com/news/2021-06-mass-scale-twitter-trends.html
 Comments URL: https://news.ycombinator.com/item?id=27368214
-Points: 143
-# Comments: 79]]></summary>
+Points: 196
+# Comments: 108]]></summary>
         <author>
             <name>FridayoLeary</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Huawei HarmonyOS and New Products Launch]]></title>
+        <title type="html"><![CDATA[Huawei HarmonyOS and New Products Launch [video]]]></title>
         <id>https://news.ycombinator.com/item?id=27368180</id>
         <link href="https://www.youtube.com/watch?v=y2101ics8jc"/>
         <updated>2021-06-02T13:00:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=y2101ics8jc
 Comments URL: https://news.ycombinator.com/item?id=27368180
-Points: 19
-# Comments: 18]]></summary>
+Points: 27
+# Comments: 33]]></summary>
         <author>
             <name>rguiscard</name>
         </author>
@@ -89,8 +151,8 @@ Points: 19
         <updated>2021-06-02T12:35:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://deepnote.com/viewer
 Comments URL: https://news.ycombinator.com/item?id=27367948
-Points: 74
-# Comments: 13]]></summary>
+Points: 102
+# Comments: 21]]></summary>
         <author>
             <name>adlha</name>
         </author>
@@ -119,6 +181,32 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Philosophers Think]]></title>
+        <id>https://news.ycombinator.com/item?id=27367632</id>
+        <link href="https://perell.com/essay/how-philosophers-think/"/>
+        <updated>2021-06-02T11:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://perell.com/essay/how-philosophers-think/
+Comments URL: https://news.ycombinator.com/item?id=27367632
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>imartin2k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stage 3 Proposal: Array.prototype.at]]></title>
+        <id>https://news.ycombinator.com/item?id=27367378</id>
+        <link href="https://tc39.es/proposal-relative-indexing-method/"/>
+        <updated>2021-06-02T11:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tc39.es/proposal-relative-indexing-method/
+Comments URL: https://news.ycombinator.com/item?id=27367378
+Points: 30
+# Comments: 58]]></summary>
+        <author>
+            <name>bpierre</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
         <link href="https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/"/>
@@ -135,8 +223,8 @@ Points: 1
         <updated>2021-06-02T10:29:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/
 Comments URL: https://news.ycombinator.com/item?id=27367001
-Points: 110
-# Comments: 81]]></summary>
+Points: 139
+# Comments: 112]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -148,8 +236,8 @@ Points: 110
         <updated>2021-06-02T07:48:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/
 Comments URL: https://news.ycombinator.com/item?id=27366056
-Points: 128
-# Comments: 74]]></summary>
+Points: 143
+# Comments: 91]]></summary>
         <author>
             <name>adrian_mrd</name>
         </author>
@@ -161,8 +249,8 @@ Points: 128
         <updated>2021-06-02T07:47:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/world/2021/jun/02/g7-nations-committing-billions-more-to-fossil-fuel-than-green-energy
 Comments URL: https://news.ycombinator.com/item?id=27366050
-Points: 167
-# Comments: 174]]></summary>
+Points: 216
+# Comments: 197]]></summary>
         <author>
             <name>ciconia</name>
         </author>
@@ -174,8 +262,8 @@ Points: 167
         <updated>2021-06-02T07:33:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://yare.io
 Comments URL: https://news.ycombinator.com/item?id=27365961
-Points: 126
-# Comments: 38]]></summary>
+Points: 156
+# Comments: 45]]></summary>
         <author>
             <name>levmiseri</name>
         </author>
@@ -187,8 +275,8 @@ Points: 126
         <updated>2021-06-02T06:50:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vanityfair.com/style/2021/05/did-paying-a-ransom-for-a-stolen-magritte-painting-inadvertently-fund-terrorism
 Comments URL: https://news.ycombinator.com/item?id=27365714
-Points: 14
-# Comments: 12]]></summary>
+Points: 18
+# Comments: 20]]></summary>
         <author>
             <name>onepossibility</name>
         </author>
@@ -200,21 +288,21 @@ Points: 14
         <updated>2021-06-02T06:35:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jefftk.com/p/why-prefetch-is-broken
 Comments URL: https://news.ycombinator.com/item?id=27365608
-Points: 150
-# Comments: 58]]></summary>
+Points: 182
+# Comments: 72]]></summary>
         <author>
             <name>astdb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[B&W Nautilus loudspeaker from the beginning]]></title>
+        <title type="html"><![CDATA[Bowers and Wilkins’ Nautilus loudspeaker]]></title>
         <id>https://news.ycombinator.com/item?id=27365352</id>
         <link href="https://www.bowerswilkins.com/blog/products/history-of-nautilus"/>
         <updated>2021-06-02T05:56:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bowerswilkins.com/blog/products/history-of-nautilus
 Comments URL: https://news.ycombinator.com/item?id=27365352
-Points: 129
-# Comments: 102]]></summary>
+Points: 137
+# Comments: 112]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -226,49 +314,10 @@ Points: 129
         <updated>2021-06-02T05:06:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mjg59.dreamwidth.org/57199.html
 Comments URL: https://news.ycombinator.com/item?id=27365057
-Points: 166
-# Comments: 88]]></summary>
+Points: 181
+# Comments: 95]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flame: A PureScript front-end framework inspired by the Elm architecture]]></title>
-        <id>https://news.ycombinator.com/item?id=27364833</id>
-        <link href="https://github.com/easafe/purescript-flame"/>
-        <updated>2021-06-02T04:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/easafe/purescript-flame
-Comments URL: https://news.ycombinator.com/item?id=27364833
-Points: 110
-# Comments: 36]]></summary>
-        <author>
-            <name>vyuh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event-based backpropagation for exact gradients in spiking neural networks]]></title>
-        <id>https://news.ycombinator.com/item?id=27364777</id>
-        <link href="https://arxiv.org/abs/2009.08378"/>
-        <updated>2021-06-02T04:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2009.08378
-Comments URL: https://news.ycombinator.com/item?id=27364777
-Points: 84
-# Comments: 31]]></summary>
-        <author>
-            <name>berndi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Confluent S-1]]></title>
-        <id>https://news.ycombinator.com/item?id=27363085</id>
-        <link href="https://www.sec.gov/Archives/edgar/data/0001699838/000119312521178773/d63025ds1.htm"/>
-        <updated>2021-06-02T00:04:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sec.gov/Archives/edgar/data/0001699838/000119312521178773/d63025ds1.htm
-Comments URL: https://news.ycombinator.com/item?id=27363085
-Points: 71
-# Comments: 24]]></summary>
-        <author>
-            <name>mattmarcus</name>
         </author>
     </entry>
     <entry>
@@ -294,19 +343,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DIY Book Scanner]]></title>
-        <id>https://news.ycombinator.com/item?id=27361815</id>
-        <link href="https://www.diybookscanner.org/"/>
-        <updated>2021-06-01T21:47:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.diybookscanner.org/
-Comments URL: https://news.ycombinator.com/item?id=27361815
-Points: 299
-# Comments: 106]]></summary>
-        <author>
-            <name>bcaa7f3a8bbc</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe]]></title>
         <id>60b1eed311ffb70827ef9504</id>
         <link href="https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/"/>
@@ -317,19 +353,6 @@ Points: 299
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helix: a post-modern modal text editor]]></title>
-        <id>https://news.ycombinator.com/item?id=27358479</id>
-        <link href="https://helix-editor.com/"/>
-        <updated>2021-06-01T17:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://helix-editor.com/
-Comments URL: https://news.ycombinator.com/item?id=27358479
-Points: 615
-# Comments: 311]]></summary>
-        <author>
-            <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learn Next.js and Make React Development Simpler]]></title>
         <id>60b668c0acb62507dd1d710b</id>
         <link href="https://www.freecodecamp.org/news/learn-next-js/"/>
@@ -337,19 +360,6 @@ Points: 615
         <summary type="html"><![CDATA[Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W.G. Sebald – The Posthumous Sublime (2006)]]></title>
-        <id>https://news.ycombinator.com/item?id=27358330</id>
-        <link href="https://marcelproust.blogspot.com/2006/11/posthumous-sublime.html"/>
-        <updated>2021-06-01T17:38:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://marcelproust.blogspot.com/2006/11/posthumous-sublime.html
-Comments URL: https://news.ycombinator.com/item?id=27358330
-Points: 6
-# Comments: 1]]></summary>
-        <author>
-            <name>pfalafel</name>
         </author>
     </entry>
     <entry>
@@ -549,16 +559,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
         <updated>2021-05-27T17:55:23.000Z</updated>
         <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
-        <id>60a325c6906c5207e3a7da25</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
-        <updated>2021-05-27T15:16:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
