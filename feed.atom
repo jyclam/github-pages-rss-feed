@@ -2,21 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T23:46:31.127Z</updated>
+    <updated>2021-06-02T02:07:59.136Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Covid deaths plunge after 75% of town's adults vaccinated]]></title>
-        <id>https://news.ycombinator.com/item?id=27362415</id>
-        <link href="https://www.bbc.com/news/world-latin-america-57309538"/>
-        <updated>2021-06-01T22:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-latin-america-57309538
-Comments URL: https://news.ycombinator.com/item?id=27362415
-Points: 51
-# Comments: 17]]></summary>
+        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
+        <id>60b5025111ffb70827ef9ebe</id>
+        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
+        <updated>2021-06-01T23:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.]]></summary>
         <author>
-            <name>astdb</name>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DoD Budget Appears to Cut Cyber Offense, Beef Up Defenses]]></title>
+        <id>https://news.ycombinator.com/item?id=27362388</id>
+        <link href="https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/"/>
+        <updated>2021-06-01T22:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/
+Comments URL: https://news.ycombinator.com/item?id=27362388
+Points: 81
+# Comments: 26]]></summary>
+        <author>
+            <name>nomoreplease</name>
         </author>
     </entry>
     <entry>
@@ -38,21 +48,21 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-01T21:47:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.diybookscanner.org/
 Comments URL: https://news.ycombinator.com/item?id=27361815
-Points: 69
-# Comments: 16]]></summary>
+Points: 120
+# Comments: 35]]></summary>
         <author>
             <name>bcaa7f3a8bbc</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Level up your poker game with Floptimal. Preflop ranges reimagined]]></title>
+        <title type="html"><![CDATA[Show HN: Floptimal – Preflop ranges reimagined]]></title>
         <id>https://news.ycombinator.com/item?id=27361584</id>
         <link href="https://floptimal.com"/>
         <updated>2021-06-01T21:28:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://floptimal.com
 Comments URL: https://news.ycombinator.com/item?id=27361584
-Points: 63
-# Comments: 29]]></summary>
+Points: 97
+# Comments: 37]]></summary>
         <author>
             <name>theshirin</name>
         </author>
@@ -87,7 +97,7 @@ Points: 1
         <updated>2021-06-01T20:10:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nieh.net/pubs/ieeesp2021_kvm.pdf
 Comments URL: https://news.ycombinator.com/item?id=27360600
-Points: 29
+Points: 46
 # Comments: 2]]></summary>
         <author>
             <name>tmfi</name>
@@ -100,8 +110,8 @@ Points: 29
         <updated>2021-06-01T19:38:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/obsproject/obs-studio/releases/tag/27.0.0
 Comments URL: https://news.ycombinator.com/item?id=27360141
-Points: 247
-# Comments: 45]]></summary>
+Points: 340
+# Comments: 76]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -113,8 +123,8 @@ Points: 247
         <updated>2021-06-01T19:25:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.infoq.com/interviews/byrd-relational-programming-minikanren/
 Comments URL: https://news.ycombinator.com/item?id=27359963
-Points: 47
-# Comments: 2]]></summary>
+Points: 64
+# Comments: 9]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -126,8 +136,8 @@ Points: 47
         <updated>2021-06-01T19:12:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9
 Comments URL: https://news.ycombinator.com/item?id=27359783
-Points: 172
-# Comments: 149]]></summary>
+Points: 258
+# Comments: 231]]></summary>
         <author>
             <name>geerlingguy</name>
         </author>
@@ -139,10 +149,23 @@ Points: 172
         <updated>2021-06-01T18:53:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs
 Comments URL: https://news.ycombinator.com/item?id=27359515
-Points: 169
-# Comments: 202]]></summary>
+Points: 209
+# Comments: 282]]></summary>
         <author>
             <name>davidw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big Alien Theory]]></title>
+        <id>https://news.ycombinator.com/item?id=27359203</id>
+        <link href="http://thebigalientheory.com/"/>
+        <updated>2021-06-01T18:33:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://thebigalientheory.com/
+Comments URL: https://news.ycombinator.com/item?id=27359203
+Points: 59
+# Comments: 58]]></summary>
+        <author>
+            <name>lisper</name>
         </author>
     </entry>
     <entry>
@@ -152,8 +175,8 @@ Points: 169
         <updated>2021-06-01T18:25:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
 Comments URL: https://news.ycombinator.com/item?id=27359081
-Points: 203
-# Comments: 49]]></summary>
+Points: 242
+# Comments: 60]]></summary>
         <author>
             <name>nickjj</name>
         </author>
@@ -165,8 +188,8 @@ Points: 203
         <updated>2021-06-01T18:01:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html
 Comments URL: https://news.ycombinator.com/item?id=27358692
-Points: 85
-# Comments: 20]]></summary>
+Points: 97
+# Comments: 23]]></summary>
         <author>
             <name>thedday</name>
         </author>
@@ -178,8 +201,8 @@ Points: 85
         <updated>2021-06-01T17:48:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://helix-editor.com/
 Comments URL: https://news.ycombinator.com/item?id=27358479
-Points: 367
-# Comments: 180]]></summary>
+Points: 413
+# Comments: 199]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -201,7 +224,7 @@ Points: 367
         <updated>2021-06-01T17:05:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=gpGgeXHZr0M&t=21420s
 Comments URL: https://news.ycombinator.com/item?id=27357785
-Points: 47
+Points: 53
 # Comments: 3]]></summary>
         <author>
             <name>pjmlp</name>
@@ -214,8 +237,8 @@ Points: 47
         <updated>2021-06-01T16:57:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl
 Comments URL: https://news.ycombinator.com/item?id=27357646
-Points: 131
-# Comments: 24]]></summary>
+Points: 159
+# Comments: 31]]></summary>
         <author>
             <name>evo_9</name>
         </author>
@@ -227,23 +250,10 @@ Points: 131
         <updated>2021-06-01T16:54:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/
 Comments URL: https://news.ycombinator.com/item?id=27357592
-Points: 212
-# Comments: 355]]></summary>
+Points: 270
+# Comments: 439]]></summary>
         <author>
             <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libdill: Structured Concurrency for C (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=27357295</id>
-        <link href="http://libdill.org/structured-concurrency.html"/>
-        <updated>2021-06-01T16:39:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://libdill.org/structured-concurrency.html
-Comments URL: https://news.ycombinator.com/item?id=27357295
-Points: 46
-# Comments: 13]]></summary>
-        <author>
-            <name>ibraheemdev</name>
         </author>
     </entry>
     <entry>
@@ -273,8 +283,8 @@ Points: 46
         <updated>2021-06-01T15:20:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing
 Comments URL: https://news.ycombinator.com/item?id=27355789
-Points: 379
-# Comments: 211]]></summary>
+Points: 417
+# Comments: 237]]></summary>
         <author>
             <name>haasted</name>
         </author>
@@ -298,8 +308,8 @@ The post Looking fine with Firefox 89 appeared first on Mozilla Hacks - the Web 
         <updated>2021-06-01T15:16:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://playingcards.io/
 Comments URL: https://news.ycombinator.com/item?id=27355690
-Points: 216
-# Comments: 54]]></summary>
+Points: 235
+# Comments: 58]]></summary>
         <author>
             <name>beermonster</name>
         </author>
@@ -311,8 +321,8 @@ Points: 216
         <updated>2021-06-01T15:12:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.cloudera.com/turning-the-page/
 Comments URL: https://news.ycombinator.com/item?id=27355604
-Points: 128
-# Comments: 72]]></summary>
+Points: 135
+# Comments: 78]]></summary>
         <author>
             <name>swyx</name>
         </author>
@@ -337,8 +347,8 @@ Don't miss these other fine threads:
 Who wants to be hired? https://news.ycombinator.com/item?id=27355390
 Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=27355391
 Comments URL: https://news.ycombinator.com/item?id=27355392
-Points: 270
-# Comments: 632]]></summary>
+Points: 286
+# Comments: 665]]></summary>
         <author>
             <name>whoishiring</name>
         </author>
@@ -564,16 +574,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
-        <id>60a44b9f906c5207e3a7e098</id>
-        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
-        <updated>2021-05-26T21:44:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
