@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T11:20:26.205Z</updated>
+    <updated>2021-06-02T12:59:22.311Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Fix Cumulative Layout Shift (CLS) Issues]]></title>
+        <id>https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</id>
+        <link href="https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/"/>
+        <updated>2021-06-02T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qventus (YC W15) Is Hiring Data Scientists]]></title>
+        <id>https://news.ycombinator.com/item?id=27367653</id>
+        <link href="https://www.ycombinator.com/companies/qventus/jobs/nHDNaun-data-scientist"/>
+        <updated>2021-06-02T12:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/qventus/jobs/nHDNaun-data-scientist
+Comments URL: https://news.ycombinator.com/item?id=27367653
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>ifc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sad Truth About Traditional Environmentalism]]></title>
+        <id>https://news.ycombinator.com/item?id=27367552</id>
+        <link href="https://quillette.com/2021/05/31/the-sad-truth-about-traditional-environmentalism/"/>
+        <updated>2021-06-02T11:47:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://quillette.com/2021/05/31/the-sad-truth-about-traditional-environmentalism/
+Comments URL: https://news.ycombinator.com/item?id=27367552
+Points: 25
+# Comments: 12]]></summary>
+        <author>
+            <name>RickJWagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stage 3 Proposal: Array.prototype.at]]></title>
+        <id>https://news.ycombinator.com/item?id=27367378</id>
+        <link href="https://tc39.es/proposal-relative-indexing-method/"/>
+        <updated>2021-06-02T11:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tc39.es/proposal-relative-indexing-method/
+Comments URL: https://news.ycombinator.com/item?id=27367378
+Points: 14
+# Comments: 11]]></summary>
+        <author>
+            <name>bpierre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
@@ -23,8 +72,8 @@
         <updated>2021-06-02T10:29:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/
 Comments URL: https://news.ycombinator.com/item?id=27367001
-Points: 11
-# Comments: 4]]></summary>
+Points: 66
+# Comments: 42]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -36,23 +85,10 @@ Points: 11
         <updated>2021-06-02T09:59:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/artanddesign/2021/feb/02/penthouses-poor-doors-nine-elms-battersea-london-luxury-housing-development
 Comments URL: https://news.ycombinator.com/item?id=27366844
-Points: 16
-# Comments: 3]]></summary>
+Points: 38
+# Comments: 27]]></summary>
         <author>
             <name>hownottowrite</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX launching an Ethereum node to the ISS]]></title>
-        <id>https://news.ycombinator.com/item?id=27366723</id>
-        <link href="https://www.sciencetimes.com/articles/31489/20210601/spacex-to-deploy-first-ethereum-node-to-iss-in-collaboration-with-spacechain.htm"/>
-        <updated>2021-06-02T09:39:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sciencetimes.com/articles/31489/20210601/spacex-to-deploy-first-ethereum-node-to-iss-in-collaboration-with-spacechain.htm
-Comments URL: https://news.ycombinator.com/item?id=27366723
-Points: 18
-# Comments: 11]]></summary>
-        <author>
-            <name>social_quotient</name>
         </author>
     </entry>
     <entry>
@@ -62,8 +98,8 @@ Points: 18
         <updated>2021-06-02T08:36:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.githubstatus.com/incidents/76nv9h8pmkv4
 Comments URL: https://news.ycombinator.com/item?id=27366351
-Points: 103
-# Comments: 51]]></summary>
+Points: 111
+# Comments: 70]]></summary>
         <author>
             <name>Kiro</name>
         </author>
@@ -75,8 +111,8 @@ Points: 103
         <updated>2021-06-02T07:48:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/
 Comments URL: https://news.ycombinator.com/item?id=27366056
-Points: 57
-# Comments: 31]]></summary>
+Points: 85
+# Comments: 51]]></summary>
         <author>
             <name>adrian_mrd</name>
         </author>
@@ -88,8 +124,8 @@ Points: 57
         <updated>2021-06-02T07:47:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/world/2021/jun/02/g7-nations-committing-billions-more-to-fossil-fuel-than-green-energy
 Comments URL: https://news.ycombinator.com/item?id=27366050
-Points: 70
-# Comments: 53]]></summary>
+Points: 114
+# Comments: 92]]></summary>
         <author>
             <name>ciconia</name>
         </author>
@@ -101,23 +137,10 @@ Points: 70
         <updated>2021-06-02T07:33:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://yare.io
 Comments URL: https://news.ycombinator.com/item?id=27365961
-Points: 53
-# Comments: 18]]></summary>
+Points: 87
+# Comments: 29]]></summary>
         <author>
             <name>levmiseri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitmovin (YC S15) Is Hiring a Marketing Operations Manager]]></title>
-        <id>https://news.ycombinator.com/item?id=27365789</id>
-        <link href="https://bitmovin.com/careers/5260518002/?gh_jid=5260518002"/>
-        <updated>2021-06-02T07:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bitmovin.com/careers/5260518002/?gh_jid=5260518002
-Comments URL: https://news.ycombinator.com/item?id=27365789
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>slederer</name>
         </author>
     </entry>
     <entry>
@@ -127,8 +150,8 @@ Points: 1
         <updated>2021-06-02T06:50:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vanityfair.com/style/2021/05/did-paying-a-ransom-for-a-stolen-magritte-painting-inadvertently-fund-terrorism
 Comments URL: https://news.ycombinator.com/item?id=27365714
-Points: 3
-# Comments: 1]]></summary>
+Points: 8
+# Comments: 6]]></summary>
         <author>
             <name>onepossibility</name>
         </author>
@@ -140,8 +163,8 @@ Points: 3
         <updated>2021-06-02T06:35:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jefftk.com/p/why-prefetch-is-broken
 Comments URL: https://news.ycombinator.com/item?id=27365608
-Points: 85
-# Comments: 27]]></summary>
+Points: 113
+# Comments: 40]]></summary>
         <author>
             <name>astdb</name>
         </author>
@@ -153,8 +176,8 @@ Points: 85
         <updated>2021-06-02T05:56:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bowerswilkins.com/blog/products/history-of-nautilus
 Comments URL: https://news.ycombinator.com/item?id=27365352
-Points: 94
-# Comments: 62]]></summary>
+Points: 123
+# Comments: 83]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -166,8 +189,8 @@ Points: 94
         <updated>2021-06-02T05:06:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mjg59.dreamwidth.org/57199.html
 Comments URL: https://news.ycombinator.com/item?id=27365057
-Points: 124
-# Comments: 56]]></summary>
+Points: 141
+# Comments: 69]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -179,8 +202,8 @@ Points: 124
         <updated>2021-06-02T04:25:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/easafe/purescript-flame
 Comments URL: https://news.ycombinator.com/item?id=27364833
-Points: 80
-# Comments: 27]]></summary>
+Points: 95
+# Comments: 29]]></summary>
         <author>
             <name>vyuh</name>
         </author>
@@ -192,8 +215,8 @@ Points: 80
         <updated>2021-06-02T04:17:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2009.08378
 Comments URL: https://news.ycombinator.com/item?id=27364777
-Points: 53
-# Comments: 22]]></summary>
+Points: 65
+# Comments: 24]]></summary>
         <author>
             <name>berndi</name>
         </author>
@@ -205,8 +228,8 @@ Points: 53
         <updated>2021-06-02T00:04:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sec.gov/Archives/edgar/data/0001699838/000119312521178773/d63025ds1.htm
 Comments URL: https://news.ycombinator.com/item?id=27363085
-Points: 35
-# Comments: 4]]></summary>
+Points: 43
+# Comments: 9]]></summary>
         <author>
             <name>mattmarcus</name>
         </author>
@@ -240,23 +263,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-01T21:47:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.diybookscanner.org/
 Comments URL: https://news.ycombinator.com/item?id=27361815
-Points: 268
-# Comments: 91]]></summary>
+Points: 288
+# Comments: 99]]></summary>
         <author>
             <name>bcaa7f3a8bbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Floptimal – Preflop ranges reimagined]]></title>
-        <id>https://news.ycombinator.com/item?id=27361584</id>
-        <link href="https://floptimal.com"/>
-        <updated>2021-06-01T21:28:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://floptimal.com
-Comments URL: https://news.ycombinator.com/item?id=27361584
-Points: 121
-# Comments: 52]]></summary>
-        <author>
-            <name>theshirin</name>
         </author>
     </entry>
     <entry>
@@ -276,8 +286,8 @@ Points: 121
         <updated>2021-06-01T18:25:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
 Comments URL: https://news.ycombinator.com/item?id=27359081
-Points: 404
-# Comments: 105]]></summary>
+Points: 426
+# Comments: 118]]></summary>
         <author>
             <name>nickjj</name>
         </author>
@@ -289,8 +299,8 @@ Points: 404
         <updated>2021-06-01T17:48:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://helix-editor.com/
 Comments URL: https://news.ycombinator.com/item?id=27358479
-Points: 582
-# Comments: 293]]></summary>
+Points: 600
+# Comments: 297]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -312,8 +322,8 @@ Points: 582
         <updated>2021-06-01T16:54:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/
 Comments URL: https://news.ycombinator.com/item?id=27357592
-Points: 437
-# Comments: 635]]></summary>
+Points: 457
+# Comments: 675]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
