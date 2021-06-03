@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T08:25:35.446Z</updated>
+    <updated>2021-06-03T09:56:11.242Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cores that don’t count [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27378624</id>
+        <link href="https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf"/>
+        <updated>2021-06-03T08:46:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf
+Comments URL: https://news.ycombinator.com/item?id=27378624
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>rajeevk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Lighthouse V8 – Improved CLS metrics]]></title>
+        <id>https://news.ycombinator.com/item?id=27378172</id>
+        <link href="https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0"/>
+        <updated>2021-06-03T07:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0
+Comments URL: https://news.ycombinator.com/item?id=27378172
+Points: 22
+# Comments: 10]]></summary>
+        <author>
+            <name>manojvivek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jiga (YC W21) Is Hiring a Full Stack Developer (Remote)]]></title>
         <id>https://news.ycombinator.com/item?id=27378013</id>
@@ -20,14 +46,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The NFT market bubble has popped?]]></title>
+        <id>https://news.ycombinator.com/item?id=27378011</id>
+        <link href="https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/"/>
+        <updated>2021-06-03T07:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/
+Comments URL: https://news.ycombinator.com/item?id=27378011
+Points: 80
+# Comments: 36]]></summary>
+        <author>
+            <name>dantondwa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Next Steps for the GNOME Foundation]]></title>
         <id>https://news.ycombinator.com/item?id=27377703</id>
         <link href="https://ramcq.net/2021/06/01/next-steps-for-the-gnome-foundation/"/>
         <updated>2021-06-03T06:00:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ramcq.net/2021/06/01/next-steps-for-the-gnome-foundation/
 Comments URL: https://news.ycombinator.com/item?id=27377703
-Points: 55
-# Comments: 30]]></summary>
+Points: 69
+# Comments: 49]]></summary>
         <author>
             <name>JNRowe</name>
         </author>
@@ -39,8 +78,8 @@ Points: 55
         <updated>2021-06-03T05:55:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/
 Comments URL: https://news.ycombinator.com/item?id=27377685
-Points: 28
-# Comments: 44]]></summary>
+Points: 54
+# Comments: 74]]></summary>
         <author>
             <name>tvvocold</name>
         </author>
@@ -52,10 +91,23 @@ Points: 28
         <updated>2021-06-03T05:44:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home
 Comments URL: https://news.ycombinator.com/item?id=27377620
-Points: 37
-# Comments: 54]]></summary>
+Points: 49
+# Comments: 60]]></summary>
         <author>
             <name>chunkyslink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Need for Slimmer Containers]]></title>
+        <id>https://news.ycombinator.com/item?id=27377560</id>
+        <link href="https://iximiuz.com/en/posts/thick-container-vulnerabilities/"/>
+        <updated>2021-06-03T05:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://iximiuz.com/en/posts/thick-container-vulnerabilities/
+Comments URL: https://news.ycombinator.com/item?id=27377560
+Points: 21
+# Comments: 3]]></summary>
+        <author>
+            <name>r4um</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +117,8 @@ Points: 37
         <updated>2021-06-03T02:43:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/XboxSeriesX/comments/nqk3nb/copilot_mode_changed_my_disabled_sisters_life/
 Comments URL: https://news.ycombinator.com/item?id=27376677
-Points: 118
-# Comments: 14]]></summary>
+Points: 150
+# Comments: 31]]></summary>
         <author>
             <name>mansarip</name>
         </author>
@@ -78,36 +130,10 @@ Points: 118
         <updated>2021-06-03T02:01:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html
 Comments URL: https://news.ycombinator.com/item?id=27376383
-Points: 219
-# Comments: 91]]></summary>
+Points: 239
+# Comments: 103]]></summary>
         <author>
             <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine]]></title>
-        <id>https://news.ycombinator.com/item?id=27375856</id>
-        <link href="https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1"/>
-        <updated>2021-06-03T00:48:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1
-Comments URL: https://news.ycombinator.com/item?id=27375856
-Points: 76
-# Comments: 40]]></summary>
-        <author>
-            <name>femto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware – Unauthorized access to Fujifilm servers]]></title>
-        <id>https://news.ycombinator.com/item?id=27375401</id>
-        <link href="https://www.fujifilm.com/jp/en/news/hq/6642#"/>
-        <updated>2021-06-02T23:44:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fujifilm.com/jp/en/news/hq/6642#
-Comments URL: https://news.ycombinator.com/item?id=27375401
-Points: 49
-# Comments: 21]]></summary>
-        <author>
-            <name>zaitanz</name>
         </author>
     </entry>
     <entry>
@@ -127,8 +153,8 @@ Points: 49
         <updated>2021-06-02T23:00:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months
 Comments URL: https://news.ycombinator.com/item?id=27375076
-Points: 245
-# Comments: 99]]></summary>
+Points: 285
+# Comments: 118]]></summary>
         <author>
             <name>smollett</name>
         </author>
@@ -140,8 +166,8 @@ Points: 245
         <updated>2021-06-02T22:59:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september
 Comments URL: https://news.ycombinator.com/item?id=27375067
-Points: 378
-# Comments: 73]]></summary>
+Points: 425
+# Comments: 84]]></summary>
         <author>
             <name>coloneltcb</name>
         </author>
@@ -163,8 +189,8 @@ Points: 378
         <updated>2021-06-02T22:43:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/
 Comments URL: https://news.ycombinator.com/item?id=27374942
-Points: 231
-# Comments: 83]]></summary>
+Points: 253
+# Comments: 94]]></summary>
         <author>
             <name>trashburger</name>
         </author>
@@ -176,8 +202,8 @@ Points: 231
         <updated>2021-06-02T22:35:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cardesignhistory.com/
 Comments URL: https://news.ycombinator.com/item?id=27374893
-Points: 76
-# Comments: 12]]></summary>
+Points: 85
+# Comments: 13]]></summary>
         <author>
             <name>spamalot159</name>
         </author>
@@ -189,8 +215,8 @@ Points: 76
         <updated>2021-06-02T22:11:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/domesticNews/idUKL129052420080731
 Comments URL: https://news.ycombinator.com/item?id=27374675
-Points: 37
-# Comments: 42]]></summary>
+Points: 51
+# Comments: 54]]></summary>
         <author>
             <name>actually_a_dog</name>
         </author>
@@ -202,8 +228,8 @@ Points: 37
         <updated>2021-06-02T22:07:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jsonmatic.com/
 Comments URL: https://news.ycombinator.com/item?id=27374632
-Points: 88
-# Comments: 57]]></summary>
+Points: 100
+# Comments: 69]]></summary>
         <author>
             <name>okumurahata</name>
         </author>
@@ -241,8 +267,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-02T21:01:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/corpse-flower-california
 Comments URL: https://news.ycombinator.com/item?id=27373978
-Points: 52
-# Comments: 16]]></summary>
+Points: 62
+# Comments: 18]]></summary>
         <author>
             <name>turtlegrids</name>
         </author>
@@ -255,19 +281,6 @@ Points: 52
         <summary type="html"><![CDATA[Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upside decay (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27373486</id>
-        <link href="https://brianlui.dog/2020/10/06/upside-decay/"/>
-        <updated>2021-06-02T20:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brianlui.dog/2020/10/06/upside-decay/
-Comments URL: https://news.ycombinator.com/item?id=27373486
-Points: 47
-# Comments: 25]]></summary>
-        <author>
-            <name>skmurphy</name>
         </author>
     </entry>
     <entry>
@@ -291,27 +304,14 @@ Points: 47
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Massachusetts Steamship Authority hit by ransomware attack; ferries delayed]]></title>
-        <id>https://news.ycombinator.com/item?id=27372431</id>
-        <link href="https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/"/>
-        <updated>2021-06-02T18:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/
-Comments URL: https://news.ycombinator.com/item?id=27372431
-Points: 175
-# Comments: 230]]></summary>
-        <author>
-            <name>SocksCanClose</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Leaky Abstractions]]></title>
         <id>https://news.ycombinator.com/item?id=27372292</id>
         <link href="https://textslashplain.com/2021/06/02/leaky-abstractions/"/>
         <updated>2021-06-02T18:35:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/
 Comments URL: https://news.ycombinator.com/item?id=27372292
-Points: 341
-# Comments: 63]]></summary>
+Points: 355
+# Comments: 78]]></summary>
         <author>
             <name>jakub_g</name>
         </author>
@@ -323,23 +323,23 @@ Points: 341
         <updated>2021-06-02T18:34:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.blender.org/download/releases/2-93/
 Comments URL: https://news.ycombinator.com/item?id=27372285
-Points: 284
-# Comments: 52]]></summary>
+Points: 314
+# Comments: 57]]></summary>
         <author>
             <name>Tomte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PayPal shuts down long-time Tor supporter]]></title>
-        <id>https://news.ycombinator.com/item?id=27371787</id>
-        <link href="https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse"/>
-        <updated>2021-06-02T17:51:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse
-Comments URL: https://news.ycombinator.com/item?id=27371787
-Points: 472
-# Comments: 150]]></summary>
+        <title type="html"><![CDATA[Stack Overflow sold to Prosus for $1.8B]]></title>
+        <id>https://news.ycombinator.com/item?id=27370026</id>
+        <link href="https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400"/>
+        <updated>2021-06-02T15:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400
+Comments URL: https://news.ycombinator.com/item?id=27370026
+Points: 1976
+# Comments: 753]]></summary>
         <author>
-            <name>tirz</name>
+            <name>DavidWilkinson</name>
         </author>
     </entry>
     <entry>
