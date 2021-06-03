@@ -2,21 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T19:46:33.557Z</updated>
+    <updated>2021-06-03T21:12:10.674Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Why workers are calling BS on leaders about returning to the office]]></title>
-        <id>https://news.ycombinator.com/item?id=27385910</id>
-        <link href="https://www.fastcompany.com/90639348/why-workers-are-calling-bs-on-leaders-about-returning-to-the-office"/>
-        <updated>2021-06-03T19:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fastcompany.com/90639348/why-workers-are-calling-bs-on-leaders-about-returning-to-the-office
-Comments URL: https://news.ycombinator.com/item?id=27385910
-Points: 14
+        <title type="html"><![CDATA[Compound (YC S19) is hiring to build financial products for startup employees]]></title>
+        <id>https://news.ycombinator.com/item?id=27387237</id>
+        <link href="https://jobs.lever.co/compound"/>
+        <updated>2021-06-03T21:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/compound
+Comments URL: https://news.ycombinator.com/item?id=27387237
+Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>aseerdbnarng</name>
+            <name>jrdngonen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake CEO Says Worker Merit Should Outweigh Diversity Goals]]></title>
+        <id>https://news.ycombinator.com/item?id=27386944</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-06-03/snowflake-ceo-says-worker-merit-should-outweigh-diversity-goals"/>
+        <updated>2021-06-03T20:35:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-03/snowflake-ceo-says-worker-merit-should-outweigh-diversity-goals
+Comments URL: https://news.ycombinator.com/item?id=27386944
+Points: 42
+# Comments: 29]]></summary>
+        <author>
+            <name>htrp</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +39,8 @@ Points: 14
         <updated>2021-06-03T18:57:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.nelhage.com/post/distributed-builds-for-everyone/
 Comments URL: https://news.ycombinator.com/item?id=27385796
-Points: 4
-# Comments: 0]]></summary>
+Points: 20
+# Comments: 4]]></summary>
         <author>
             <name>nsm</name>
         </author>
@@ -43,6 +56,19 @@ Points: 4
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[It's a truck full of traffic lights [Tesla Autopilot]]]></title>
+        <id>https://news.ycombinator.com/item?id=27385572</id>
+        <link href="https://twitter.com/FSD_in_6m/status/1400207129479352323"/>
+        <updated>2021-06-03T18:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/FSD_in_6m/status/1400207129479352323
+Comments URL: https://news.ycombinator.com/item?id=27385572
+Points: 95
+# Comments: 51]]></summary>
+        <author>
+            <name>detaro</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lists in Python – A Comprehensive Guide]]></title>
         <id>60b7c02cacb62507dd1d7b80</id>
         <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
@@ -53,27 +79,27 @@ Points: 4
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Toyota launches groundbreaking 10-year warranty]]></title>
+        <title type="html"><![CDATA[Toyota launches groundbreaking 10-year warranty (in UK)]]></title>
         <id>https://news.ycombinator.com/item?id=27385535</id>
         <link href="https://www.autoexpress.co.uk/toyota/355133/toyota-launches-groundbreaking-10-year-warranty"/>
         <updated>2021-06-03T18:39:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.autoexpress.co.uk/toyota/355133/toyota-launches-groundbreaking-10-year-warranty
 Comments URL: https://news.ycombinator.com/item?id=27385535
-Points: 52
-# Comments: 29]]></summary>
+Points: 95
+# Comments: 89]]></summary>
         <author>
             <name>vanburen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple: Developer Relations]]></title>
+        <title type="html"><![CDATA[Apple-Developer Relations]]></title>
         <id>https://news.ycombinator.com/item?id=27385314</id>
         <link href="https://marco.org/2021/06/03/developer-relations"/>
         <updated>2021-06-03T18:21:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://marco.org/2021/06/03/developer-relations
 Comments URL: https://news.ycombinator.com/item?id=27385314
-Points: 97
-# Comments: 35]]></summary>
+Points: 199
+# Comments: 126]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -85,8 +111,8 @@ Points: 97
         <updated>2021-06-03T18:12:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/
 Comments URL: https://news.ycombinator.com/item?id=27385208
-Points: 83
-# Comments: 10]]></summary>
+Points: 161
+# Comments: 46]]></summary>
         <author>
             <name>grzm</name>
         </author>
@@ -98,8 +124,8 @@ Points: 83
         <updated>2021-06-03T18:09:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://google.github.io/opencasebook/patents/
 Comments URL: https://news.ycombinator.com/item?id=27385153
-Points: 31
-# Comments: 0]]></summary>
+Points: 53
+# Comments: 5]]></summary>
         <author>
             <name>tgamblin</name>
         </author>
@@ -121,8 +147,8 @@ Points: 31
         <updated>2021-06-03T17:52:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.spot.xyz
 Comments URL: https://news.ycombinator.com/item?id=27384949
-Points: 60
-# Comments: 34]]></summary>
+Points: 86
+# Comments: 50]]></summary>
         <author>
             <name>ghempton</name>
         </author>
@@ -134,36 +160,23 @@ Points: 60
         <updated>2021-06-03T17:50:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/
 Comments URL: https://news.ycombinator.com/item?id=27384911
-Points: 112
-# Comments: 31]]></summary>
+Points: 166
+# Comments: 47]]></summary>
         <author>
             <name>tanoku</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slack Engineering: How a Jenkins Job Broke Our Jenkins UI]]></title>
+        <title type="html"><![CDATA[How a Jenkins Job Broke our Jenkins UI]]></title>
         <id>https://news.ycombinator.com/item?id=27384701</id>
         <link href="https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/"/>
         <updated>2021-06-03T17:36:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/
 Comments URL: https://news.ycombinator.com/item?id=27384701
-Points: 54
-# Comments: 38]]></summary>
+Points: 63
+# Comments: 62]]></summary>
         <author>
             <name>FraBle90</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmooshGate FAQ (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=27384466</id>
-        <link href="https://developers.google.com/web/updates/2018/03/smooshgate"/>
-        <updated>2021-06-03T17:21:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developers.google.com/web/updates/2018/03/smooshgate
-Comments URL: https://news.ycombinator.com/item?id=27384466
-Points: 9
-# Comments: 2]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -173,49 +186,23 @@ Points: 9
         <updated>2021-06-03T17:19:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://deps.dev/
 Comments URL: https://news.ycombinator.com/item?id=27384445
-Points: 21
-# Comments: 4]]></summary>
+Points: 27
+# Comments: 6]]></summary>
         <author>
             <name>hasheddan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Camera Calibration from Scratch Using Rust (Computer Vision Tutorial)]]></title>
+        <title type="html"><![CDATA[Camera Calibration from Scratch Using Rust]]></title>
         <id>https://news.ycombinator.com/item?id=27384207</id>
         <link href="https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3"/>
         <updated>2021-06-03T17:03:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3
 Comments URL: https://news.ycombinator.com/item?id=27384207
-Points: 35
-# Comments: 1]]></summary>
+Points: 55
+# Comments: 2]]></summary>
         <author>
             <name>reteltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla files trademark paperwork for restuarant concept]]></title>
-        <id>https://news.ycombinator.com/item?id=27384201</id>
-        <link href="https://www.autonews.com/automakers-suppliers/tesla-files-trademark-paperwork-restaurant-concept"/>
-        <updated>2021-06-03T17:02:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.autonews.com/automakers-suppliers/tesla-files-trademark-paperwork-restaurant-concept
-Comments URL: https://news.ycombinator.com/item?id=27384201
-Points: 26
-# Comments: 34]]></summary>
-        <author>
-            <name>rsj_hn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make School (YC W12) is hiring a President to lead our non-profit college]]></title>
-        <id>https://news.ycombinator.com/item?id=27384168</id>
-        <link href="https://www.make.sc/president"/>
-        <updated>2021-06-03T17:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.make.sc/president
-Comments URL: https://news.ycombinator.com/item?id=27384168
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>DesaiAshu</name>
         </author>
     </entry>
     <entry>
@@ -235,8 +222,8 @@ Points: 1
         <updated>2021-06-03T16:43:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.elcomsoft.com/2021/06/breaking-veracrypt-obtaining-and-extracting-on-the-fly-encryption-keys/
 Comments URL: https://news.ycombinator.com/item?id=27383918
-Points: 34
-# Comments: 11]]></summary>
+Points: 45
+# Comments: 14]]></summary>
         <author>
             <name>polar</name>
         </author>
@@ -258,8 +245,8 @@ Points: 34
         <updated>2021-06-03T15:56:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/techemails/status/1400270458608664577
 Comments URL: https://news.ycombinator.com/item?id=27383257
-Points: 111
-# Comments: 34]]></summary>
+Points: 126
+# Comments: 41]]></summary>
         <author>
             <name>tomhoward</name>
         </author>
@@ -271,8 +258,8 @@ Points: 111
         <updated>2021-06-03T15:25:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf
 Comments URL: https://news.ycombinator.com/item?id=27382752
-Points: 111
-# Comments: 60]]></summary>
+Points: 192
+# Comments: 126]]></summary>
         <author>
             <name>panarky</name>
         </author>
@@ -284,7 +271,7 @@ Points: 111
         <updated>2021-06-03T15:20:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://assetroulette.com/
 Comments URL: https://news.ycombinator.com/item?id=27382653
-Points: 43
+Points: 50
 # Comments: 16]]></summary>
         <author>
             <name>ilovefood</name>
@@ -297,7 +284,7 @@ Points: 43
         <updated>2021-06-03T14:56:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/858023/1caabaef50d4946b/
 Comments URL: https://news.ycombinator.com/item?id=27382299
-Points: 36
+Points: 49
 # Comments: 4]]></summary>
         <author>
             <name>lukastyrychtr</name>
@@ -335,10 +322,23 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-03T13:12:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html
 Comments URL: https://news.ycombinator.com/item?id=27380752
-Points: 471
-# Comments: 380]]></summary>
+Points: 515
+# Comments: 403]]></summary>
         <author>
             <name>throw0101a</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithmic Botany]]></title>
+        <id>https://news.ycombinator.com/item?id=27379780</id>
+        <link href="http://algorithmicbotany.org/"/>
+        <updated>2021-06-03T11:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://algorithmicbotany.org/
+Comments URL: https://news.ycombinator.com/item?id=27379780
+Points: 144
+# Comments: 18]]></summary>
+        <author>
+            <name>the-mitr</name>
         </author>
     </entry>
     <entry>
