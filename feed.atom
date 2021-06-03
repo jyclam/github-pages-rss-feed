@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T09:56:11.242Z</updated>
+    <updated>2021-06-03T10:57:15.477Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Managing Shared State In Vue 3]]></title>
+        <id>https://smashingmagazine.com/2021/06/managing-shared-state-vue3/</id>
+        <link href="https://smashingmagazine.com/2021/06/managing-shared-state-vue3/"/>
+        <updated>2021-06-03T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cores that don’t count [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=27378624</id>
@@ -13,8 +23,8 @@
         <updated>2021-06-03T08:46:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf
 Comments URL: https://news.ycombinator.com/item?id=27378624
-Points: 7
-# Comments: 0]]></summary>
+Points: 25
+# Comments: 2]]></summary>
         <author>
             <name>rajeevk</name>
         </author>
@@ -26,8 +36,8 @@ Points: 7
         <updated>2021-06-03T07:28:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0
 Comments URL: https://news.ycombinator.com/item?id=27378172
-Points: 22
-# Comments: 10]]></summary>
+Points: 32
+# Comments: 16]]></summary>
         <author>
             <name>manojvivek</name>
         </author>
@@ -52,8 +62,8 @@ Points: 1
         <updated>2021-06-03T07:00:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/
 Comments URL: https://news.ycombinator.com/item?id=27378011
-Points: 80
-# Comments: 36]]></summary>
+Points: 92
+# Comments: 82]]></summary>
         <author>
             <name>dantondwa</name>
         </author>
@@ -65,8 +75,8 @@ Points: 80
         <updated>2021-06-03T06:00:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ramcq.net/2021/06/01/next-steps-for-the-gnome-foundation/
 Comments URL: https://news.ycombinator.com/item?id=27377703
-Points: 69
-# Comments: 49]]></summary>
+Points: 72
+# Comments: 55]]></summary>
         <author>
             <name>JNRowe</name>
         </author>
@@ -78,8 +88,8 @@ Points: 69
         <updated>2021-06-03T05:55:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/
 Comments URL: https://news.ycombinator.com/item?id=27377685
-Points: 54
-# Comments: 74]]></summary>
+Points: 68
+# Comments: 93]]></summary>
         <author>
             <name>tvvocold</name>
         </author>
@@ -91,8 +101,8 @@ Points: 54
         <updated>2021-06-03T05:44:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home
 Comments URL: https://news.ycombinator.com/item?id=27377620
-Points: 49
-# Comments: 60]]></summary>
+Points: 54
+# Comments: 61]]></summary>
         <author>
             <name>chunkyslink</name>
         </author>
@@ -104,10 +114,23 @@ Points: 49
         <updated>2021-06-03T05:31:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 Comments URL: https://news.ycombinator.com/item?id=27377560
-Points: 21
-# Comments: 3]]></summary>
+Points: 31
+# Comments: 10]]></summary>
         <author>
             <name>r4um</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Deserves Better Than This]]></title>
+        <id>https://news.ycombinator.com/item?id=27376839</id>
+        <link href="https://blogs.sciencemag.org/pipeline/archives/2021/06/02/machine-learning-deserves-better-than-this"/>
+        <updated>2021-06-03T03:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/02/machine-learning-deserves-better-than-this
+Comments URL: https://news.ycombinator.com/item?id=27376839
+Points: 14
+# Comments: 4]]></summary>
+        <author>
+            <name>jasonhansel</name>
         </author>
     </entry>
     <entry>
@@ -117,8 +140,8 @@ Points: 21
         <updated>2021-06-03T02:43:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/XboxSeriesX/comments/nqk3nb/copilot_mode_changed_my_disabled_sisters_life/
 Comments URL: https://news.ycombinator.com/item?id=27376677
-Points: 150
-# Comments: 31]]></summary>
+Points: 174
+# Comments: 34]]></summary>
         <author>
             <name>mansarip</name>
         </author>
@@ -130,8 +153,8 @@ Points: 150
         <updated>2021-06-03T02:01:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html
 Comments URL: https://news.ycombinator.com/item?id=27376383
-Points: 239
-# Comments: 103]]></summary>
+Points: 251
+# Comments: 114]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -153,8 +176,8 @@ Points: 239
         <updated>2021-06-02T23:00:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months
 Comments URL: https://news.ycombinator.com/item?id=27375076
-Points: 285
-# Comments: 118]]></summary>
+Points: 309
+# Comments: 123]]></summary>
         <author>
             <name>smollett</name>
         </author>
@@ -166,8 +189,8 @@ Points: 285
         <updated>2021-06-02T22:59:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september
 Comments URL: https://news.ycombinator.com/item?id=27375067
-Points: 425
-# Comments: 84]]></summary>
+Points: 448
+# Comments: 86]]></summary>
         <author>
             <name>coloneltcb</name>
         </author>
@@ -189,8 +212,8 @@ Points: 425
         <updated>2021-06-02T22:43:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/
 Comments URL: https://news.ycombinator.com/item?id=27374942
-Points: 253
-# Comments: 94]]></summary>
+Points: 260
+# Comments: 100]]></summary>
         <author>
             <name>trashburger</name>
         </author>
@@ -202,8 +225,8 @@ Points: 253
         <updated>2021-06-02T22:35:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cardesignhistory.com/
 Comments URL: https://news.ycombinator.com/item?id=27374893
-Points: 85
-# Comments: 13]]></summary>
+Points: 91
+# Comments: 16]]></summary>
         <author>
             <name>spamalot159</name>
         </author>
@@ -215,8 +238,8 @@ Points: 85
         <updated>2021-06-02T22:11:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/domesticNews/idUKL129052420080731
 Comments URL: https://news.ycombinator.com/item?id=27374675
-Points: 51
-# Comments: 54]]></summary>
+Points: 56
+# Comments: 58]]></summary>
         <author>
             <name>actually_a_dog</name>
         </author>
@@ -228,8 +251,8 @@ Points: 51
         <updated>2021-06-02T22:07:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jsonmatic.com/
 Comments URL: https://news.ycombinator.com/item?id=27374632
-Points: 100
-# Comments: 69]]></summary>
+Points: 107
+# Comments: 75]]></summary>
         <author>
             <name>okumurahata</name>
         </author>
@@ -267,8 +290,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-02T21:01:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/corpse-flower-california
 Comments URL: https://news.ycombinator.com/item?id=27373978
-Points: 62
-# Comments: 18]]></summary>
+Points: 65
+# Comments: 19]]></summary>
         <author>
             <name>turtlegrids</name>
         </author>
@@ -310,23 +333,10 @@ Points: 62
         <updated>2021-06-02T18:35:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/
 Comments URL: https://news.ycombinator.com/item?id=27372292
-Points: 355
-# Comments: 78]]></summary>
+Points: 368
+# Comments: 80]]></summary>
         <author>
             <name>jakub_g</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 2.93 LTS]]></title>
-        <id>https://news.ycombinator.com/item?id=27372285</id>
-        <link href="https://www.blender.org/download/releases/2-93/"/>
-        <updated>2021-06-02T18:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.blender.org/download/releases/2-93/
-Comments URL: https://news.ycombinator.com/item?id=27372285
-Points: 314
-# Comments: 57]]></summary>
-        <author>
-            <name>Tomte</name>
         </author>
     </entry>
     <entry>
@@ -336,8 +346,8 @@ Points: 314
         <updated>2021-06-02T15:44:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400
 Comments URL: https://news.ycombinator.com/item?id=27370026
-Points: 1976
-# Comments: 753]]></summary>
+Points: 2000
+# Comments: 761]]></summary>
         <author>
             <name>DavidWilkinson</name>
         </author>
