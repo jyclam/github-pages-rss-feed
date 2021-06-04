@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T14:20:38.904Z</updated>
+    <updated>2021-06-04T15:43:02.291Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A virtual machine and Pascal compiler in Berkeley LOGO]]></title>
+        <id>https://news.ycombinator.com/item?id=27394421</id>
+        <link href="https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html"/>
+        <updated>2021-06-04T15:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html
+Comments URL: https://news.ycombinator.com/item?id=27394421
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>buescher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ivermectin]]></title>
+        <id>https://news.ycombinator.com/item?id=27394364</id>
+        <link href="https://covid19criticalcare.com/ivermectin-in-covid-19/epidemiologic-analyses-on-covid19-and-ivermectin/"/>
+        <updated>2021-06-04T15:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://covid19criticalcare.com/ivermectin-in-covid-19/epidemiologic-analyses-on-covid19-and-ivermectin/
+Comments URL: https://news.ycombinator.com/item?id=27394364
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>stdlib2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computing the number of digits of an integer even faster]]></title>
+        <id>https://news.ycombinator.com/item?id=27394153</id>
+        <link href="https://lemire.me/blog/2021/06/03/computing-the-number-of-digits-of-an-integer-even-faster/"/>
+        <updated>2021-06-04T14:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lemire.me/blog/2021/06/03/computing-the-number-of-digits-of-an-integer-even-faster/
+Comments URL: https://news.ycombinator.com/item?id=27394153
+Points: 14
+# Comments: 1]]></summary>
+        <author>
+            <name>vitaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can I :has()]]></title>
+        <id>https://css-tricks.com/?p=341968</id>
+        <link href="https://bkardell.com/blog/canihas.html"/>
+        <updated>2021-06-04T14:37:59.000Z</updated>
+        <summary type="html"><![CDATA[I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …
+The post Can I :has() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The rise of remote work may reshape college towns]]></title>
+        <id>https://news.ycombinator.com/item?id=27393363</id>
+        <link href="https://www.chronicle.com/article/the-rise-of-remote-work-may-reshape-college-towns-heres-how-these-campuses-are-wooing-transplants"/>
+        <updated>2021-06-04T13:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chronicle.com/article/the-rise-of-remote-work-may-reshape-college-towns-heres-how-these-campuses-are-wooing-transplants
+Comments URL: https://news.ycombinator.com/item?id=27393363
+Points: 71
+# Comments: 45]]></summary>
+        <author>
+            <name>remt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control]]></title>
         <id>https://news.ycombinator.com/item?id=27393047</id>
@@ -13,10 +77,23 @@
         <updated>2021-06-04T12:48:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://gvv.mpi-inf.mpg.de/projects/NeuralActor/
 Comments URL: https://news.ycombinator.com/item?id=27393047
-Points: 44
-# Comments: 17]]></summary>
+Points: 75
+# Comments: 23]]></summary>
         <author>
             <name>Hard_Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions to Ask Before Adopting Usage Based Pricing]]></title>
+        <id>https://news.ycombinator.com/item?id=27392962</id>
+        <link href="https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309"/>
+        <updated>2021-06-04T12:36:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309
+Comments URL: https://news.ycombinator.com/item?id=27392962
+Points: 19
+# Comments: 4]]></summary>
+        <author>
+            <name>lamflam</name>
         </author>
     </entry>
     <entry>
@@ -59,14 +136,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Firefox 89 Tab Appearance]]></title>
+        <id>https://news.ycombinator.com/item?id=27392685</id>
+        <link href="https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html"/>
+        <updated>2021-06-04T11:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html
+Comments URL: https://news.ycombinator.com/item?id=27392685
+Points: 60
+# Comments: 32]]></summary>
+        <author>
+            <name>ibobev</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UK and EU launch antitrust probes into Facebook]]></title>
         <id>https://news.ycombinator.com/item?id=27392607</id>
         <link href="https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667"/>
         <updated>2021-06-04T11:44:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667
 Comments URL: https://news.ycombinator.com/item?id=27392607
-Points: 51
-# Comments: 10]]></summary>
+Points: 78
+# Comments: 14]]></summary>
         <author>
             <name>helsinkiandrew</name>
         </author>
@@ -78,8 +168,8 @@ Points: 51
         <updated>2021-06-04T11:35:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-slowik-pandemic-garden-project-st-0530-20210528-2kklpxumlrfnhecwr2ljx7e2qe-story.html
 Comments URL: https://news.ycombinator.com/item?id=27392558
-Points: 46
-# Comments: 34]]></summary>
+Points: 99
+# Comments: 94]]></summary>
         <author>
             <name>gennarro</name>
         </author>
@@ -91,8 +181,8 @@ Points: 46
         <updated>2021-06-04T11:13:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.iafrikan.com/2021/06/04/iafrikan-daily-brief-166-time-bomb/
 Comments URL: https://news.ycombinator.com/item?id=27392440
-Points: 72
-# Comments: 40]]></summary>
+Points: 161
+# Comments: 112]]></summary>
         <author>
             <name>iafrikan</name>
         </author>
@@ -114,8 +204,8 @@ Points: 72
         <updated>2021-06-04T09:38:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Adam_Hosker/status/1400748390355456002
 Comments URL: https://news.ycombinator.com/item?id=27392037
-Points: 277
-# Comments: 75]]></summary>
+Points: 334
+# Comments: 94]]></summary>
         <author>
             <name>funshed</name>
         </author>
@@ -127,8 +217,8 @@ Points: 277
         <updated>2021-06-04T06:02:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.golang.org/fuzz-beta
 Comments URL: https://news.ycombinator.com/item?id=27391048
-Points: 202
-# Comments: 31]]></summary>
+Points: 231
+# Comments: 36]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -140,8 +230,8 @@ Points: 202
         <updated>2021-06-04T04:21:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html
 Comments URL: https://news.ycombinator.com/item?id=27390512
-Points: 1388
-# Comments: 276]]></summary>
+Points: 1612
+# Comments: 321]]></summary>
         <author>
             <name>SerCe</name>
         </author>
@@ -153,8 +243,8 @@ Points: 1388
         <updated>2021-06-04T04:11:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/
 Comments URL: https://news.ycombinator.com/item?id=27390457
-Points: 89
-# Comments: 26]]></summary>
+Points: 97
+# Comments: 28]]></summary>
         <author>
             <name>dpeck</name>
         </author>
@@ -176,8 +266,8 @@ Points: 89
         <updated>2021-06-04T00:29:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nitros9.sourceforge.io/wiki/index.php/Main_Page
 Comments URL: https://news.ycombinator.com/item?id=27389103
-Points: 68
-# Comments: 25]]></summary>
+Points: 77
+# Comments: 27]]></summary>
         <author>
             <name>bilegeek</name>
         </author>
@@ -189,23 +279,10 @@ Points: 68
         <updated>2021-06-04T00:16:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings
 Comments URL: https://news.ycombinator.com/item?id=27389024
-Points: 252
-# Comments: 44]]></summary>
+Points: 291
+# Comments: 47]]></summary>
         <author>
             <name>sohkamyung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Facebook deals with PCIe faults to keep its data centers running reliably]]></title>
-        <id>https://news.ycombinator.com/item?id=27388832</id>
-        <link href="https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/"/>
-        <updated>2021-06-03T23:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/
-Comments URL: https://news.ycombinator.com/item?id=27388832
-Points: 110
-# Comments: 41]]></summary>
-        <author>
-            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -215,8 +292,8 @@ Points: 110
         <updated>2021-06-03T23:20:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/
 Comments URL: https://news.ycombinator.com/item?id=27388691
-Points: 459
-# Comments: 99]]></summary>
+Points: 481
+# Comments: 104]]></summary>
         <author>
             <name>______-</name>
         </author>
@@ -228,23 +305,10 @@ Points: 459
         <updated>2021-06-03T23:07:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins
 Comments URL: https://news.ycombinator.com/item?id=27388587
-Points: 1094
-# Comments: 802]]></summary>
+Points: 1178
+# Comments: 864]]></summary>
         <author>
             <name>camjohnson26</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stanford CS Curriculum 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27388391</id>
-        <link href="https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview"/>
-        <updated>2021-06-03T22:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview
-Comments URL: https://news.ycombinator.com/item?id=27388391
-Points: 344
-# Comments: 121]]></summary>
-        <author>
-            <name>mauriziocalo</name>
         </author>
     </entry>
     <entry>
@@ -264,8 +328,8 @@ Points: 344
         <updated>2021-06-03T20:50:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD
 Comments URL: https://news.ycombinator.com/item?id=27387110
-Points: 723
-# Comments: 475]]></summary>
+Points: 743
+# Comments: 482]]></summary>
         <author>
             <name>mjreacher</name>
         </author>
@@ -321,19 +385,6 @@ Points: 723
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Euler’s Identity Beautiful? and If So, How?]]></title>
-        <id>https://news.ycombinator.com/item?id=27383075</id>
-        <link href="https://www.mathvalues.org/masterblog/is-eulers-identity-beautiful-and-if-so-how"/>
-        <updated>2021-06-03T15:44:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.mathvalues.org/masterblog/is-eulers-identity-beautiful-and-if-so-how
-Comments URL: https://news.ycombinator.com/item?id=27383075
-Points: 34
-# Comments: 34]]></summary>
-        <author>
-            <name>vo2maxer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
         <id>https://css-tricks.com/?p=341584</id>
         <link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
@@ -356,45 +407,6 @@ The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeare
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[United Airlines will buy 15 planes from Boom Supersonic]]></title>
-        <id>https://news.ycombinator.com/item?id=27380752</id>
-        <link href="https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html"/>
-        <updated>2021-06-03T13:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html
-Comments URL: https://news.ycombinator.com/item?id=27380752
-Points: 661
-# Comments: 478]]></summary>
-        <author>
-            <name>throw0101a</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Competitive Programming to APL]]></title>
-        <id>https://news.ycombinator.com/item?id=27380431</id>
-        <link href="https://corecursive.com/065-competitive-coding-with-conor-hoekstra/"/>
-        <updated>2021-06-03T12:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://corecursive.com/065-competitive-coding-with-conor-hoekstra/
-Comments URL: https://news.ycombinator.com/item?id=27380431
-Points: 59
-# Comments: 16]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physicists unlock multispectral secrets of earliest color photographs]]></title>
-        <id>https://news.ycombinator.com/item?id=27379625</id>
-        <link href="https://arstechnica.com/science/2021/06/physicists-unlock-multispectral-secrets-of-earliest-color-photographs/"/>
-        <updated>2021-06-03T11:29:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/06/physicists-unlock-multispectral-secrets-of-earliest-color-photographs/
-Comments URL: https://news.ycombinator.com/item?id=27379625
-Points: 37
-# Comments: 8]]></summary>
-        <author>
-            <name>samizdis</name>
         </author>
     </entry>
     <entry>
@@ -692,18 +704,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
-        <id>https://css-tricks.com/?p=339759</id>
-        <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
-        <updated>2021-05-26T17:56:34.000Z</updated>
-        <summary type="html"><![CDATA[In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …
-The post Awesome Standalone (Web Components) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
