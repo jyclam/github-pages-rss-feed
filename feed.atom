@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T21:04:20.560Z</updated>
+    <updated>2021-06-04T22:37:08.525Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator kicks out Paul Biggar over a tweet]]></title>
+        <id>https://news.ycombinator.com/item?id=27399581</id>
+        <link href="https://twitter.com/paulbiggar/status/1400904600421535744"/>
+        <updated>2021-06-04T22:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/paulbiggar/status/1400904600421535744
+Comments URL: https://news.ycombinator.com/item?id=27399581
+Points: 144
+# Comments: 12]]></summary>
+        <author>
+            <name>bqe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Carmack on JPEG]]></title>
+        <id>https://news.ycombinator.com/item?id=27399416</id>
+        <link href="https://twitter.com/ID_AA_Carmack/status/1400930510671601666"/>
+        <updated>2021-06-04T21:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1400930510671601666
+Comments URL: https://news.ycombinator.com/item?id=27399416
+Points: 54
+# Comments: 16]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
+        <id>60b3480c11ffb70827ef9a88</id>
+        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
+        <updated>2021-06-04T21:34:33.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bonzi Buddy]]></title>
+        <id>https://news.ycombinator.com/item?id=27399065</id>
+        <link href="https://bonzi.link/"/>
+        <updated>2021-06-04T21:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bonzi.link/
+Comments URL: https://news.ycombinator.com/item?id=27399065
+Points: 43
+# Comments: 37]]></summary>
+        <author>
+            <name>legerdemain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8088ify: Intel 8080 CP/M 2.2 to Intel 8086/8088 IBM PC DOS assembly translator]]></title>
+        <id>https://news.ycombinator.com/item?id=27399039</id>
+        <link href="https://github.com/ibara/8088ify"/>
+        <updated>2021-06-04T21:01:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ibara/8088ify
+Comments URL: https://news.ycombinator.com/item?id=27399039
+Points: 19
+# Comments: 4]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clerky (YC S11) Is Hiring Senior Software Engineers (Remote)]]></title>
+        <id>https://news.ycombinator.com/item?id=27399018</id>
+        <link href="https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&amp;lever-source%5B%5D=HN"/>
+        <updated>2021-06-04T21:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN
+Comments URL: https://news.ycombinator.com/item?id=27399018
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>swampthing</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
         <id>60ba33d7acb62507dd1d9050</id>
@@ -14,6 +89,19 @@
         <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyCon US 2021 Recordings are Available]]></title>
+        <id>https://news.ycombinator.com/item?id=27398986</id>
+        <link href="https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1"/>
+        <updated>2021-06-04T20:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1
+Comments URL: https://news.ycombinator.com/item?id=27398986
+Points: 45
+# Comments: 13]]></summary>
+        <author>
+            <name>precern_harlan</name>
         </author>
     </entry>
     <entry>
@@ -48,10 +136,23 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-04T19:47:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/
 Comments URL: https://news.ycombinator.com/item?id=27398267
-Points: 8
-# Comments: 0]]></summary>
+Points: 23
+# Comments: 2]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The original XSS advisory (2000)]]></title>
+        <id>https://news.ycombinator.com/item?id=27398130</id>
+        <link href="https://web.archive.org/web/20120805162121/http://www.cert.org/advisories/CA-2000-02.html"/>
+        <updated>2021-06-04T19:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/20120805162121/http://www.cert.org/advisories/CA-2000-02.html
+Comments URL: https://news.ycombinator.com/item?id=27398130
+Points: 15
+# Comments: 3]]></summary>
+        <author>
+            <name>bawolff</name>
         </author>
     </entry>
     <entry>
@@ -61,8 +162,8 @@ Points: 8
         <updated>2021-06-04T18:31:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://binji.github.io/posts/pokegb/
 Comments URL: https://news.ycombinator.com/item?id=27397208
-Points: 211
-# Comments: 20]]></summary>
+Points: 304
+# Comments: 34]]></summary>
         <author>
             <name>brundolf</name>
         </author>
@@ -74,8 +175,8 @@ Points: 211
         <updated>2021-06-04T18:11:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41413-020-00127-9
 Comments URL: https://news.ycombinator.com/item?id=27396873
-Points: 69
-# Comments: 46]]></summary>
+Points: 96
+# Comments: 70]]></summary>
         <author>
             <name>myth_drannon</name>
         </author>
@@ -87,8 +188,8 @@ Points: 69
         <updated>2021-06-04T18:10:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eejournal.com/article/we-interrupt-this-program/
 Comments URL: https://news.ycombinator.com/item?id=27396848
-Points: 100
-# Comments: 39]]></summary>
+Points: 137
+# Comments: 68]]></summary>
         <author>
             <name>eklitzke</name>
         </author>
@@ -100,8 +201,8 @@ Points: 100
         <updated>2021-06-04T18:08:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer
 Comments URL: https://news.ycombinator.com/item?id=27396803
-Points: 48
-# Comments: 21]]></summary>
+Points: 81
+# Comments: 51]]></summary>
         <author>
             <name>packet_nerd</name>
         </author>
@@ -113,8 +214,8 @@ Points: 48
         <updated>2021-06-04T18:07:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.jeffwidener.com/stories/2016/09/tankman/
 Comments URL: https://news.ycombinator.com/item?id=27396783
-Points: 411
-# Comments: 71]]></summary>
+Points: 508
+# Comments: 109]]></summary>
         <author>
             <name>js2</name>
         </author>
@@ -130,27 +231,14 @@ Points: 411
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS hired 66 former US gov officials since 2018; half are from Dept of Defense]]></title>
-        <id>https://news.ycombinator.com/item?id=27396284</id>
-        <link href="https://www.politico.com/news/2021/06/04/amazon-hiring-former-government-officials-491878"/>
-        <updated>2021-06-04T17:34:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.politico.com/news/2021/06/04/amazon-hiring-former-government-officials-491878
-Comments URL: https://news.ycombinator.com/item?id=27396284
-Points: 88
-# Comments: 29]]></summary>
-        <author>
-            <name>fireball_blaze</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anatomy of a Linux DNS Lookup]]></title>
         <id>https://news.ycombinator.com/item?id=27396208</id>
         <link href="https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/"/>
         <updated>2021-06-04T17:28:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
 Comments URL: https://news.ycombinator.com/item?id=27396208
-Points: 65
-# Comments: 12]]></summary>
+Points: 95
+# Comments: 25]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -162,23 +250,10 @@ Points: 65
         <updated>2021-06-04T17:06:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/
 Comments URL: https://news.ycombinator.com/item?id=27395861
-Points: 127
-# Comments: 25]]></summary>
+Points: 159
+# Comments: 41]]></summary>
         <author>
             <name>thibaut_barrere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TrueVault (YC W14) Is Hiring an Engineering Lead on a Data Privacy Product]]></title>
-        <id>https://news.ycombinator.com/item?id=27395762</id>
-        <link href="https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead"/>
-        <updated>2021-06-04T17:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead
-Comments URL: https://news.ycombinator.com/item?id=27395762
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>jason_wang</name>
         </author>
     </entry>
     <entry>
@@ -188,8 +263,8 @@ Points: 1
         <updated>2021-06-04T16:53:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/
 Comments URL: https://news.ycombinator.com/item?id=27395663
-Points: 138
-# Comments: 91]]></summary>
+Points: 172
+# Comments: 120]]></summary>
         <author>
             <name>crackercrews</name>
         </author>
@@ -201,23 +276,10 @@ Points: 138
         <updated>2021-06-04T16:51:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bing.com/images/search?q=tank+man
 Comments URL: https://news.ycombinator.com/item?id=27395635
-Points: 1192
-# Comments: 213]]></summary>
+Points: 1491
+# Comments: 337]]></summary>
         <author>
             <name>rcoveson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Cascades in Machine Learning]]></title>
-        <id>https://news.ycombinator.com/item?id=27395623</id>
-        <link href="https://ai.googleblog.com/2021/06/data-cascades-in-machine-learning.html"/>
-        <updated>2021-06-04T16:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ai.googleblog.com/2021/06/data-cascades-in-machine-learning.html
-Comments URL: https://news.ycombinator.com/item?id=27395623
-Points: 38
-# Comments: 1]]></summary>
-        <author>
-            <name>theafh</name>
         </author>
     </entry>
     <entry>
@@ -227,8 +289,8 @@ Points: 38
         <updated>2021-06-04T16:43:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/
 Comments URL: https://news.ycombinator.com/item?id=27395511
-Points: 57
-# Comments: 7]]></summary>
+Points: 74
+# Comments: 12]]></summary>
         <author>
             <name>bitigchi</name>
         </author>
@@ -240,75 +302,29 @@ Points: 57
         <updated>2021-06-04T16:37:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api
 Comments URL: https://news.ycombinator.com/item?id=27395442
-Points: 31
+Points: 50
 # Comments: 2]]></summary>
         <author>
             <name>homarp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Booking.com to repay €65M Dutch State aid after €28M in bonuses for 3 US execs]]></title>
-        <id>https://news.ycombinator.com/item?id=27395172</id>
-        <link href="https://nltimes.nl/2021/06/04/bookingcom-repay-eu65-million-state-aid-giving-eu28-million-bonuses-3-execs"/>
-        <updated>2021-06-04T16:17:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nltimes.nl/2021/06/04/bookingcom-repay-eu65-million-state-aid-giving-eu28-million-bonuses-3-execs
-Comments URL: https://news.ycombinator.com/item?id=27395172
-Points: 243
-# Comments: 94]]></summary>
+        <title type="html"><![CDATA[Launch HN: InBalance (YC W21) – Short-term energy market forecasting]]></title>
+        <id>https://news.ycombinator.com/item?id=27395238</id>
+        <link href="https://news.ycombinator.com/item?id=27395238"/>
+        <updated>2021-06-04T16:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, we’re Thomas and Raj, cofounders of inBalance (inbalanceresearch.com).
+inBalance forecasts electricity price, demand, and generation by source up to 72 hours
+ahead, helping utilities and independent power producers utilize their responsive assets
+such as energy storage, backup generators, flexible demand, etc more efficiently.
+We met playing ultimate frisbee in Cambridge, UK, and quickly found common interests in
+statistics and optimization. Thomas had previously worked on wind turbine placement
+problems, providing experience with power markets, and we discussed them but didn't see
+an immediate entry point, so Thomas continued his statistics PhD and Rajan worked in ML
+research and GPU algorithm design at a startup.
+A year ago we heard of a need for better wind power forecasts…]]></summary>
         <author>
-            <name>the-dude</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why We Should End the Data Economy]]></title>
-        <id>https://news.ycombinator.com/item?id=27394983</id>
-        <link href="https://thereboot.com/why-we-should-end-the-data-economy/"/>
-        <updated>2021-06-04T16:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thereboot.com/why-we-should-end-the-data-economy/
-Comments URL: https://news.ycombinator.com/item?id=27394983
-Points: 330
-# Comments: 267]]></summary>
-        <author>
-            <name>oppodeldoc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing a LLVM Micro C compiler in Haskell]]></title>
-        <id>https://news.ycombinator.com/item?id=27394857</id>
-        <link href="https://blog.josephmorag.com/posts/mcc0/"/>
-        <updated>2021-06-04T15:50:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.josephmorag.com/posts/mcc0/
-Comments URL: https://news.ycombinator.com/item?id=27394857
-Points: 92
-# Comments: 10]]></summary>
-        <author>
-            <name>pcr910303</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Science Logo Style: Programming Language Implementation (1997)]]></title>
-        <id>https://news.ycombinator.com/item?id=27394421</id>
-        <link href="https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html"/>
-        <updated>2021-06-04T15:15:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html
-Comments URL: https://news.ycombinator.com/item?id=27394421
-Points: 50
-# Comments: 22]]></summary>
-        <author>
-            <name>buescher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reimagining video infrastructure to empower YouTube]]></title>
-        <id>https://news.ycombinator.com/item?id=27394362</id>
-        <link href="https://blog.youtube/inside-youtube/new-era-video-infrastructure/"/>
-        <updated>2021-06-04T15:10:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.youtube/inside-youtube/new-era-video-infrastructure/
-Comments URL: https://news.ycombinator.com/item?id=27394362
-Points: 37
-# Comments: 5]]></summary>
-        <author>
-            <name>prostoalex</name>
+            <name>Straw</name>
         </author>
     </entry>
     <entry>
@@ -389,16 +405,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
         <updated>2021-06-03T16:51:37.000Z</updated>
         <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?]]></title>
-        <id>5fff3d3098be260817e495bd</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-block-cipher/"/>
-        <updated>2021-06-03T16:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
