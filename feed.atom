@@ -2,21 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T01:28:39.701Z</updated>
+    <updated>2021-06-04T04:07:57.711Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Genetic study finds the brain is most similar to – testicles?]]></title>
-        <id>https://news.ycombinator.com/item?id=27389012</id>
-        <link href="https://www.studyfinds.org/brain-most-similar-to-testicles/"/>
-        <updated>2021-06-04T00:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.studyfinds.org/brain-most-similar-to-testicles/
-Comments URL: https://news.ycombinator.com/item?id=27389012
-Points: 32
-# Comments: 10]]></summary>
+        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
+        <id>60b98ebfacb62507dd1d8ec4</id>
+        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
+        <updated>2021-06-04T02:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
         <author>
-            <name>davesailer</name>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NitrOS-9, Unix-like operating system for the 6809]]></title>
+        <id>https://news.ycombinator.com/item?id=27389103</id>
+        <link href="https://nitros9.sourceforge.io/wiki/index.php/Main_Page"/>
+        <updated>2021-06-04T00:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nitros9.sourceforge.io/wiki/index.php/Main_Page
+Comments URL: https://news.ycombinator.com/item?id=27389103
+Points: 25
+# Comments: 6]]></summary>
+        <author>
+            <name>bilegeek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Sticks to Ceilings by Vibrating a Flexible Disc]]></title>
+        <id>https://news.ycombinator.com/item?id=27389024</id>
+        <link href="https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings"/>
+        <updated>2021-06-04T00:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings
+Comments URL: https://news.ycombinator.com/item?id=27389024
+Points: 42
+# Comments: 7]]></summary>
+        <author>
+            <name>sohkamyung</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +49,8 @@ Points: 32
         <updated>2021-06-03T23:43:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/
 Comments URL: https://news.ycombinator.com/item?id=27388832
-Points: 16
-# Comments: 1]]></summary>
+Points: 51
+# Comments: 7]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -39,8 +62,8 @@ Points: 16
         <updated>2021-06-03T23:20:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/
 Comments URL: https://news.ycombinator.com/item?id=27388691
-Points: 64
-# Comments: 10]]></summary>
+Points: 166
+# Comments: 47]]></summary>
         <author>
             <name>______-</name>
         </author>
@@ -52,8 +75,8 @@ Points: 64
         <updated>2021-06-03T23:12:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.geoffreylandis.com/ebullism.html
 Comments URL: https://news.ycombinator.com/item?id=27388639
-Points: 8
-# Comments: 2]]></summary>
+Points: 18
+# Comments: 4]]></summary>
         <author>
             <name>Hooke</name>
         </author>
@@ -65,23 +88,10 @@ Points: 8
         <updated>2021-06-03T23:07:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins
 Comments URL: https://news.ycombinator.com/item?id=27388587
-Points: 147
-# Comments: 113]]></summary>
+Points: 381
+# Comments: 369]]></summary>
         <author>
             <name>camjohnson26</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘I Had Never Faced the Reality of Death’: A Surgeon Becomes a Patient]]></title>
-        <id>https://news.ycombinator.com/item?id=27388513</id>
-        <link href="https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html"/>
-        <updated>2021-06-03T22:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html
-Comments URL: https://news.ycombinator.com/item?id=27388513
-Points: 39
-# Comments: 17]]></summary>
-        <author>
-            <name>bookofjoe</name>
         </author>
     </entry>
     <entry>
@@ -91,10 +101,23 @@ Points: 39
         <updated>2021-06-03T22:42:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview
 Comments URL: https://news.ycombinator.com/item?id=27388391
-Points: 48
-# Comments: 19]]></summary>
+Points: 140
+# Comments: 59]]></summary>
         <author>
             <name>mauriziocalo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elixir at Ramp]]></title>
+        <id>https://news.ycombinator.com/item?id=27388134</id>
+        <link href="https://engineering.ramp.com/elixir-at-ramp/"/>
+        <updated>2021-06-03T22:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://engineering.ramp.com/elixir-at-ramp/
+Comments URL: https://news.ycombinator.com/item?id=27388134
+Points: 46
+# Comments: 7]]></summary>
+        <author>
+            <name>clessg</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +127,8 @@ Points: 48
         <updated>2021-06-03T22:01:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mtlynch.io/retrospectives/2021/06/
 Comments URL: https://news.ycombinator.com/item?id=27387978
-Points: 58
-# Comments: 34]]></summary>
+Points: 74
+# Comments: 35]]></summary>
         <author>
             <name>tnorthcutt</name>
         </author>
@@ -127,8 +150,8 @@ Points: 58
         <updated>2021-06-03T21:28:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://mapscii.me
 Comments URL: https://news.ycombinator.com/item?id=27387585
-Points: 56
-# Comments: 16]]></summary>
+Points: 77
+# Comments: 21]]></summary>
         <author>
             <name>dTal</name>
         </author>
@@ -140,8 +163,8 @@ Points: 56
         <updated>2021-06-03T21:19:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/
 Comments URL: https://news.ycombinator.com/item?id=27387482
-Points: 105
-# Comments: 62]]></summary>
+Points: 138
+# Comments: 76]]></summary>
         <author>
             <name>evo_9</name>
         </author>
@@ -166,7 +189,7 @@ Points: 1
         <updated>2021-06-03T20:53:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2103.04689
 Comments URL: https://news.ycombinator.com/item?id=27387156
-Points: 57
+Points: 73
 # Comments: 5]]></summary>
         <author>
             <name>MindGods</name>
@@ -179,8 +202,8 @@ Points: 57
         <updated>2021-06-03T20:53:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://atcold.github.io/NYU-DLSP21/
 Comments URL: https://news.ycombinator.com/item?id=27387154
-Points: 16
-# Comments: 0]]></summary>
+Points: 71
+# Comments: 3]]></summary>
         <author>
             <name>g42gregory</name>
         </author>
@@ -192,8 +215,8 @@ Points: 16
         <updated>2021-06-03T20:50:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD
 Comments URL: https://news.ycombinator.com/item?id=27387110
-Points: 392
-# Comments: 300]]></summary>
+Points: 519
+# Comments: 364]]></summary>
         <author>
             <name>mjreacher</name>
         </author>
@@ -205,8 +228,8 @@ Points: 392
         <updated>2021-06-03T18:57:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.nelhage.com/post/distributed-builds-for-everyone/
 Comments URL: https://news.ycombinator.com/item?id=27385796
-Points: 53
-# Comments: 9]]></summary>
+Points: 67
+# Comments: 12]]></summary>
         <author>
             <name>nsm</name>
         </author>
@@ -238,8 +261,8 @@ Points: 53
         <updated>2021-06-03T18:12:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/
 Comments URL: https://news.ycombinator.com/item?id=27385208
-Points: 251
-# Comments: 131]]></summary>
+Points: 276
+# Comments: 159]]></summary>
         <author>
             <name>grzm</name>
         </author>
@@ -251,8 +274,8 @@ Points: 251
         <updated>2021-06-03T18:09:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://google.github.io/opencasebook/patents/
 Comments URL: https://news.ycombinator.com/item?id=27385153
-Points: 85
-# Comments: 28]]></summary>
+Points: 96
+# Comments: 29]]></summary>
         <author>
             <name>tgamblin</name>
         </author>
@@ -274,8 +297,8 @@ Points: 85
         <updated>2021-06-03T17:50:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/
 Comments URL: https://news.ycombinator.com/item?id=27384911
-Points: 233
-# Comments: 61]]></summary>
+Points: 257
+# Comments: 64]]></summary>
         <author>
             <name>tanoku</name>
         </author>
@@ -287,23 +310,10 @@ Points: 233
         <updated>2021-06-03T17:36:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/
 Comments URL: https://news.ycombinator.com/item?id=27384701
-Points: 97
-# Comments: 108]]></summary>
+Points: 113
+# Comments: 118]]></summary>
         <author>
             <name>FraBle90</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Camera Calibration from Scratch Using Rust]]></title>
-        <id>https://news.ycombinator.com/item?id=27384207</id>
-        <link href="https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3"/>
-        <updated>2021-06-03T17:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3
-Comments URL: https://news.ycombinator.com/item?id=27384207
-Points: 88
-# Comments: 2]]></summary>
-        <author>
-            <name>reteltech</name>
         </author>
     </entry>
     <entry>
@@ -405,16 +415,6 @@ The post Debugging iOS Safari appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More]]></title>
-        <id>60a699b0906c5207e3a7f5ab</id>
-        <link href="https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"/>
-        <updated>2021-06-02T20:44:22.000Z</updated>
-        <summary type="html"><![CDATA[Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
