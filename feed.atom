@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T08:49:50.932Z</updated>
+    <updated>2021-06-04T10:19:07.136Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
+        <id>https://smashingmagazine.com/2021/06/getting-started-webpack/</id>
+        <link href="https://smashingmagazine.com/2021/06/getting-started-webpack/"/>
+        <updated>2021-06-04T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nwani Victory)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s newest euphemism for overworked employees is ‘industrial athlete’]]></title>
+        <id>https://news.ycombinator.com/item?id=27391461</id>
+        <link href="https://www.theverge.com/2021/6/2/22465357/amazon-industrial-athlete-warehouse-worker-wellness-pamphlet"/>
+        <updated>2021-06-04T07:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/2/22465357/amazon-industrial-athlete-warehouse-worker-wellness-pamphlet
+Comments URL: https://news.ycombinator.com/item?id=27391461
+Points: 34
+# Comments: 13]]></summary>
+        <author>
+            <name>sidcool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go: Fuzzing Is Beta Ready]]></title>
         <id>https://news.ycombinator.com/item?id=27391048</id>
@@ -13,8 +36,8 @@
         <updated>2021-06-04T06:02:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.golang.org/fuzz-beta
 Comments URL: https://news.ycombinator.com/item?id=27391048
-Points: 97
-# Comments: 6]]></summary>
+Points: 121
+# Comments: 16]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -26,8 +49,8 @@ Points: 97
         <updated>2021-06-04T04:21:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html
 Comments URL: https://news.ycombinator.com/item?id=27390512
-Points: 626
-# Comments: 151]]></summary>
+Points: 770
+# Comments: 192]]></summary>
         <author>
             <name>SerCe</name>
         </author>
@@ -39,8 +62,8 @@ Points: 626
         <updated>2021-06-04T04:11:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/
 Comments URL: https://news.ycombinator.com/item?id=27390457
-Points: 54
-# Comments: 14]]></summary>
+Points: 64
+# Comments: 15]]></summary>
         <author>
             <name>dpeck</name>
         </author>
@@ -62,8 +85,8 @@ Points: 54
         <updated>2021-06-04T00:29:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nitros9.sourceforge.io/wiki/index.php/Main_Page
 Comments URL: https://news.ycombinator.com/item?id=27389103
-Points: 52
-# Comments: 15]]></summary>
+Points: 59
+# Comments: 17]]></summary>
         <author>
             <name>bilegeek</name>
         </author>
@@ -75,8 +98,8 @@ Points: 52
         <updated>2021-06-04T00:16:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings
 Comments URL: https://news.ycombinator.com/item?id=27389024
-Points: 144
-# Comments: 24]]></summary>
+Points: 172
+# Comments: 30]]></summary>
         <author>
             <name>sohkamyung</name>
         </author>
@@ -88,8 +111,8 @@ Points: 144
         <updated>2021-06-03T23:43:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/
 Comments URL: https://news.ycombinator.com/item?id=27388832
-Points: 82
-# Comments: 24]]></summary>
+Points: 87
+# Comments: 27]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -101,8 +124,8 @@ Points: 82
         <updated>2021-06-03T23:20:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/
 Comments URL: https://news.ycombinator.com/item?id=27388691
-Points: 305
-# Comments: 79]]></summary>
+Points: 344
+# Comments: 84]]></summary>
         <author>
             <name>______-</name>
         </author>
@@ -114,8 +137,8 @@ Points: 305
         <updated>2021-06-03T23:07:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins
 Comments URL: https://news.ycombinator.com/item?id=27388587
-Points: 719
-# Comments: 556]]></summary>
+Points: 812
+# Comments: 615]]></summary>
         <author>
             <name>camjohnson26</name>
         </author>
@@ -127,8 +150,8 @@ Points: 719
         <updated>2021-06-03T22:42:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview
 Comments URL: https://news.ycombinator.com/item?id=27388391
-Points: 250
-# Comments: 85]]></summary>
+Points: 277
+# Comments: 94]]></summary>
         <author>
             <name>mauriziocalo</name>
         </author>
@@ -140,8 +163,8 @@ Points: 250
         <updated>2021-06-03T22:15:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.ramp.com/elixir-at-ramp/
 Comments URL: https://news.ycombinator.com/item?id=27388134
-Points: 78
-# Comments: 13]]></summary>
+Points: 88
+# Comments: 18]]></summary>
         <author>
             <name>clessg</name>
         </author>
@@ -153,7 +176,7 @@ Points: 78
         <updated>2021-06-03T22:01:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mtlynch.io/retrospectives/2021/06/
 Comments URL: https://news.ycombinator.com/item?id=27387978
-Points: 100
+Points: 104
 # Comments: 40]]></summary>
         <author>
             <name>tnorthcutt</name>
@@ -189,7 +212,7 @@ Points: 1
         <updated>2021-06-03T20:53:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2103.04689
 Comments URL: https://news.ycombinator.com/item?id=27387156
-Points: 95
+Points: 98
 # Comments: 9]]></summary>
         <author>
             <name>MindGods</name>
@@ -202,8 +225,8 @@ Points: 95
         <updated>2021-06-03T20:53:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://atcold.github.io/NYU-DLSP21/
 Comments URL: https://news.ycombinator.com/item?id=27387154
-Points: 163
-# Comments: 12]]></summary>
+Points: 189
+# Comments: 16]]></summary>
         <author>
             <name>g42gregory</name>
         </author>
@@ -215,8 +238,8 @@ Points: 163
         <updated>2021-06-03T20:50:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD
 Comments URL: https://news.ycombinator.com/item?id=27387110
-Points: 639
-# Comments: 435]]></summary>
+Points: 660
+# Comments: 441]]></summary>
         <author>
             <name>mjreacher</name>
         </author>
@@ -248,8 +271,8 @@ Points: 639
         <updated>2021-06-03T18:12:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/
 Comments URL: https://news.ycombinator.com/item?id=27385208
-Points: 320
-# Comments: 176]]></summary>
+Points: 326
+# Comments: 180]]></summary>
         <author>
             <name>grzm</name>
         </author>
@@ -261,7 +284,7 @@ Points: 320
         <updated>2021-06-03T18:09:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://google.github.io/opencasebook/patents/
 Comments URL: https://news.ycombinator.com/item?id=27385153
-Points: 106
+Points: 112
 # Comments: 40]]></summary>
         <author>
             <name>tgamblin</name>
@@ -275,45 +298,6 @@ Points: 106
         <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Free 3D virtual office in the browser]]></title>
-        <id>https://news.ycombinator.com/item?id=27384949</id>
-        <link href="https://www.spot.xyz"/>
-        <updated>2021-06-03T17:52:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.spot.xyz
-Comments URL: https://news.ycombinator.com/item?id=27384949
-Points: 112
-# Comments: 92]]></summary>
-        <author>
-            <name>ghempton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new ProtoBuf generator for Go]]></title>
-        <id>https://news.ycombinator.com/item?id=27384911</id>
-        <link href="https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/"/>
-        <updated>2021-06-03T17:50:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/
-Comments URL: https://news.ycombinator.com/item?id=27384911
-Points: 281
-# Comments: 69]]></summary>
-        <author>
-            <name>tanoku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a Jenkins Job Broke our Jenkins UI]]></title>
-        <id>https://news.ycombinator.com/item?id=27384701</id>
-        <link href="https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/"/>
-        <updated>2021-06-03T17:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/
-Comments URL: https://news.ycombinator.com/item?id=27384701
-Points: 127
-# Comments: 130]]></summary>
-        <author>
-            <name>FraBle90</name>
         </author>
     </entry>
     <entry>
@@ -359,6 +343,32 @@ The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeare
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[United Airlines will buy 15 planes from Boom Supersonic]]></title>
+        <id>https://news.ycombinator.com/item?id=27380752</id>
+        <link href="https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html"/>
+        <updated>2021-06-03T13:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html
+Comments URL: https://news.ycombinator.com/item?id=27380752
+Points: 639
+# Comments: 468]]></summary>
+        <author>
+            <name>throw0101a</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Competitive Programming to APL]]></title>
+        <id>https://news.ycombinator.com/item?id=27380431</id>
+        <link href="https://corecursive.com/065-competitive-coding-with-conor-hoekstra/"/>
+        <updated>2021-06-03T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://corecursive.com/065-competitive-coding-with-conor-hoekstra/
+Comments URL: https://news.ycombinator.com/item?id=27380431
+Points: 40
+# Comments: 5]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
