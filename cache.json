@@ -6,36 +6,135 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27395762",
+          "author": "jason_wang",
+          "description": "Article URL: https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead\nComments URL: https://news.ycombinator.com/item?id=27395762\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead",
+          "publishedOn": "2021-06-04T17:00:09.000Z",
+          "wordCount": 667,
+          "title": "TrueVault (YC W14) Is Hiring an Engineering Lead on a Data Privacy Product"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27395663",
+          "author": "crackercrews",
+          "description": "Article URL: https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/\nComments URL: https://news.ycombinator.com/item?id=27395663\nPoints: 14\n# Comments: 6",
+          "link": "https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/",
+          "publishedOn": "2021-06-04T16:53:17.000Z",
+          "wordCount": 766,
+          "title": "Using a magnetic string to fish for a lost iPhone 12 in a Berlin canal"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27395623",
+          "author": "theafh",
+          "description": "Article URL: https://ai.googleblog.com/2021/06/data-cascades-in-machine-learning.html\nComments URL: https://news.ycombinator.com/item?id=27395623\nPoints: 6\n# Comments: 0",
+          "link": "https://ai.googleblog.com/2021/06/data-cascades-in-machine-learning.html",
+          "publishedOn": "2021-06-04T16:50:57.000Z",
+          "wordCount": 1955,
+          "title": "Data Cascades in Machine Learning"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27395511",
+          "author": "bitigchi",
+          "description": "Article URL: https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/\nComments URL: https://news.ycombinator.com/item?id=27395511\nPoints: 12\n# Comments: 0",
+          "link": "https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/",
+          "publishedOn": "2021-06-04T16:43:43.000Z",
+          "wordCount": 1402,
+          "title": "Haiku Monthly Activity Report – May 2021"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27395238",
+          "author": "Straw",
+          "description": "Hey everyone, we’re Thomas and Raj, cofounders of inBalance (inbalanceresearch.com).\ninBalance forecasts electricity price, demand, and generation by source up to 72 hours\nahead, helping utilities and independent power producers utilize their responsive assets\nsuch as energy storage, backup generators, flexible demand, etc more efficiently.\nWe met playing ultimate frisbee in Cambridge, UK, and quickly found common interests in\nstatistics and optimization. Thomas had previously worked on wind turbine placement\nproblems, providing experience with power markets, and we discussed them but didn't see\nan immediate entry point, so Thomas continued his statistics PhD and Rajan worked in ML\nresearch and GPU algorithm design at a startup.\nA year ago we heard of a need for better wind power forecasts…",
+          "link": "https://news.ycombinator.com/item?id=27395238",
+          "publishedOn": "2021-06-04T16:22:16.000Z",
+          "wordCount": 1099,
+          "title": "Launch HN: InBalance (YC W21) – Short-term energy market forecasting"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27395172",
+          "author": "the-dude",
+          "description": "Article URL: https://nltimes.nl/2021/06/04/bookingcom-repay-eu65-million-state-aid-giving-eu28-million-bonuses-3-execs\nComments URL: https://news.ycombinator.com/item?id=27395172\nPoints: 78\n# Comments: 36",
+          "link": "https://nltimes.nl/2021/06/04/bookingcom-repay-eu65-million-state-aid-giving-eu28-million-bonuses-3-execs",
+          "publishedOn": "2021-06-04T16:17:32.000Z",
+          "wordCount": 606,
+          "title": "Booking.com to repay €65M Dutch State aid after €28M in bonuses for 3 US execs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27395121",
+          "author": "st_goliath",
+          "description": "Article URL: https://gdpr.eu/companies-outside-of-europe/\nComments URL: https://news.ycombinator.com/item?id=27395121\nPoints: 18\n# Comments: 7",
+          "link": "https://gdpr.eu/companies-outside-of-europe/",
+          "publishedOn": "2021-06-04T16:13:19.000Z",
+          "wordCount": 1290,
+          "title": "Does the GDPR apply to companies outside of the EU?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27394983",
+          "author": "oppodeldoc",
+          "description": "Article URL: https://thereboot.com/why-we-should-end-the-data-economy/\nComments URL: https://news.ycombinator.com/item?id=27394983\nPoints: 77\n# Comments: 45",
+          "link": "https://thereboot.com/why-we-should-end-the-data-economy/",
+          "publishedOn": "2021-06-04T16:02:21.000Z",
+          "wordCount": 1784,
+          "title": "Why We Should End the Data Economy"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27394974",
+          "author": "samizdis",
+          "description": "Article URL: https://pluralistic.net/2021/06/04/aaronsw/#cfaa\nComments URL: https://news.ycombinator.com/item?id=27394974\nPoints: 194\n# Comments: 39",
+          "link": "https://pluralistic.net/2021/06/04/aaronsw/#cfaa",
+          "publishedOn": "2021-06-04T16:01:41.000Z",
+          "wordCount": 2975,
+          "title": "Aaron Swartz, Vindicated"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27394857",
+          "author": "pcr910303",
+          "description": "Article URL: https://blog.josephmorag.com/posts/mcc0/\nComments URL: https://news.ycombinator.com/item?id=27394857\nPoints: 24\n# Comments: 1",
+          "link": "https://blog.josephmorag.com/posts/mcc0/",
+          "publishedOn": "2021-06-04T15:50:40.000Z",
+          "wordCount": 997,
+          "title": "Implementing a LLVM Micro C compiler in Haskell"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27394421",
           "author": "buescher",
-          "description": "Article URL: https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html\nComments URL: https://news.ycombinator.com/item?id=27394421\nPoints: 7\n# Comments: 0",
+          "description": "Article URL: https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html\nComments URL: https://news.ycombinator.com/item?id=27394421\nPoints: 30\n# Comments: 11",
           "link": "https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html",
           "publishedOn": "2021-06-04T15:15:31.000Z",
           "wordCount": 18733,
           "title": "A virtual machine and Pascal compiler in Berkeley LOGO"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27394364",
-          "author": "stdlib2",
-          "description": "Article URL: https://covid19criticalcare.com/ivermectin-in-covid-19/epidemiologic-analyses-on-covid19-and-ivermectin/\nComments URL: https://news.ycombinator.com/item?id=27394364\nPoints: 9\n# Comments: 0",
-          "link": "https://covid19criticalcare.com/ivermectin-in-covid-19/epidemiologic-analyses-on-covid19-and-ivermectin/",
-          "publishedOn": "2021-06-04T15:10:49.000Z",
-          "wordCount": 2577,
-          "title": "Ivermectin"
+          "id": "https://news.ycombinator.com/item?id=27394374",
+          "author": "prostoalex",
+          "description": "Article URL: https://www.vox.com/recode/22423706/walmart-memo-retail-amazon-target-instacart\nComments URL: https://news.ycombinator.com/item?id=27394374\nPoints: 20\n# Comments: 30",
+          "link": "https://www.vox.com/recode/22423706/walmart-memo-retail-amazon-target-instacart",
+          "publishedOn": "2021-06-04T15:11:35.000Z",
+          "wordCount": 1552,
+          "title": "Leaked Walmart memo reveals competitive threats"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27394153",
           "author": "vitaut",
-          "description": "Article URL: https://lemire.me/blog/2021/06/03/computing-the-number-of-digits-of-an-integer-even-faster/\nComments URL: https://news.ycombinator.com/item?id=27394153\nPoints: 14\n# Comments: 1",
+          "description": "Article URL: https://lemire.me/blog/2021/06/03/computing-the-number-of-digits-of-an-integer-even-faster/\nComments URL: https://news.ycombinator.com/item?id=27394153\nPoints: 49\n# Comments: 17",
           "link": "https://lemire.me/blog/2021/06/03/computing-the-number-of-digits-of-an-integer-even-faster/",
           "publishedOn": "2021-06-04T14:50:25.000Z",
-          "wordCount": 1791,
+          "wordCount": 1802,
           "title": "Computing the number of digits of an integer even faster"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27393854",
+          "author": "pcr910303",
+          "description": "Article URL: https://pijul.org/posts/2021-06-03-on-fires/\nComments URL: https://news.ycombinator.com/item?id=27393854\nPoints: 14\n# Comments: 1",
+          "link": "https://pijul.org/posts/2021-06-03-on-fires/",
+          "publishedOn": "2021-06-04T14:19:06.000Z",
+          "wordCount": 2707,
+          "title": "Pijul – Datacenter on Fires"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27393363",
           "author": "remt",
-          "description": "Article URL: https://www.chronicle.com/article/the-rise-of-remote-work-may-reshape-college-towns-heres-how-these-campuses-are-wooing-transplants\nComments URL: https://news.ycombinator.com/item?id=27393363\nPoints: 71\n# Comments: 45",
+          "description": "Article URL: https://www.chronicle.com/article/the-rise-of-remote-work-may-reshape-college-towns-heres-how-these-campuses-are-wooing-transplants\nComments URL: https://news.ycombinator.com/item?id=27393363\nPoints: 122\n# Comments: 138",
           "link": "https://www.chronicle.com/article/the-rise-of-remote-work-may-reshape-college-towns-heres-how-these-campuses-are-wooing-transplants",
           "publishedOn": "2021-06-04T13:26:26.000Z",
           "wordCount": null,
@@ -44,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27393047",
           "author": "Hard_Space",
-          "description": "Article URL: http://gvv.mpi-inf.mpg.de/projects/NeuralActor/\nComments URL: https://news.ycombinator.com/item?id=27393047\nPoints: 75\n# Comments: 23",
+          "description": "Article URL: http://gvv.mpi-inf.mpg.de/projects/NeuralActor/\nComments URL: https://news.ycombinator.com/item?id=27393047\nPoints: 96\n# Comments: 27",
           "link": "http://gvv.mpi-inf.mpg.de/projects/NeuralActor/",
           "publishedOn": "2021-06-04T12:48:22.000Z",
           "wordCount": 608,
@@ -53,137 +152,38 @@
         {
           "id": "https://news.ycombinator.com/item?id=27392962",
           "author": "lamflam",
-          "description": "Article URL: https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309\nComments URL: https://news.ycombinator.com/item?id=27392962\nPoints: 19\n# Comments: 4",
+          "description": "Article URL: https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309\nComments URL: https://news.ycombinator.com/item?id=27392962\nPoints: 49\n# Comments: 25",
           "link": "https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309",
           "publishedOn": "2021-06-04T12:36:09.000Z",
           "wordCount": 1429,
           "title": "Questions to Ask Before Adopting Usage Based Pricing"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27392728",
-          "author": "pfduke02",
-          "description": "Mozart Data (YC S20) is hiring a growth marketer -- someone who can think creatively, shape & execute our marketing strategy, and help build the team & culture at a fast-paced startup.\nPlease apply to jobs@mozartdata.com -- Share the following 1) a story (or stories) of a time you were able to bring to market, attention grab, or game a system to make money on a side hustle; 2) send a resume or link to a LinkedIn profile.\nMozart Data automates most of the work data engineers and data scientists traditionally do to spin up and run a modern data stack. For each of our customers, we manage a (Snowflake) data warehouse, build and maintain ETL pipelines, and provide an easy-to-use interface for building and scheduling data transformations, monitoring and visualizing pipelines, and cataloging and organizing their data.\nWe recently went through YC (Summer 2020) and have raised a 4 million dollar seed round. Your role will directly impact the success of the company and shape our company strategy. This role will include:\nSEO and SEM\nPR/media relations\nEvents and partnership management\nContent creation\nLead generation\nQualifications: \n2-7 years of marketing experience\nStrong SEO knowledge with proven results\nAbility to tell a story and write compelling content for social channels\nAnalyze success of content to drive marketing strategy\nExperience working with SaaS products in the tech space\nExtremely organized and able to work independently, managing multiple projects\nComfortable working in a fast-paced environment\nProven track record for collaborating with and working across multiple teams while taking constructive feedback and adjusting project needs accordingly\nBenefits:\nCompetitive salary\nStock options\nHealthcare Benefits: Medical, Dental, Vision\n401K (with employer matching)\nGenerous vacation policy\nRemote friendly work environment\nSupportive and friendly team\nhttps://www.mozartdata.com/head-of-marketing\nComments URL: https://news.ycombinator.com/item?id=27392728\nPoints: 1\n# Comments: 0",
-          "link": "https://news.ycombinator.com/item?id=27392728",
-          "publishedOn": "2021-06-04T12:01:03.000Z",
-          "wordCount": 343,
-          "title": "Mozart Data (YC S20) Is Hiring a Growth Marketer"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27392685",
           "author": "ibobev",
-          "description": "Article URL: https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html\nComments URL: https://news.ycombinator.com/item?id=27392685\nPoints: 60\n# Comments: 32",
+          "description": "Article URL: https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html\nComments URL: https://news.ycombinator.com/item?id=27392685\nPoints: 165\n# Comments: 120",
           "link": "https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html",
           "publishedOn": "2021-06-04T11:55:16.000Z",
-          "wordCount": 903,
+          "wordCount": 1021,
           "title": "Firefox 89 Tab Appearance"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27392607",
           "author": "helsinkiandrew",
-          "description": "Article URL: https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667\nComments URL: https://news.ycombinator.com/item?id=27392607\nPoints: 78\n# Comments: 14",
+          "description": "Article URL: https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667\nComments URL: https://news.ycombinator.com/item?id=27392607\nPoints: 97\n# Comments: 25",
           "link": "https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667",
           "publishedOn": "2021-06-04T11:44:15.000Z",
-          "wordCount": 992,
+          "wordCount": 987,
           "title": "UK and EU launch antitrust probes into Facebook"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27392558",
-          "author": "gennarro",
-          "description": "Article URL: https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-slowik-pandemic-garden-project-st-0530-20210528-2kklpxumlrfnhecwr2ljx7e2qe-story.html\nComments URL: https://news.ycombinator.com/item?id=27392558\nPoints: 99\n# Comments: 94",
-          "link": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-slowik-pandemic-garden-project-st-0530-20210528-2kklpxumlrfnhecwr2ljx7e2qe-story.html",
-          "publishedOn": "2021-06-04T11:35:50.000Z",
-          "wordCount": 1660,
-          "title": "Replacing grass lawns with native plants"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27392440",
-          "author": "iafrikan",
-          "description": "Article URL: https://www.iafrikan.com/2021/06/04/iafrikan-daily-brief-166-time-bomb/\nComments URL: https://news.ycombinator.com/item?id=27392440\nPoints: 161\n# Comments: 112",
-          "link": "https://www.iafrikan.com/2021/06/04/iafrikan-daily-brief-166-time-bomb/",
-          "publishedOn": "2021-06-04T11:13:29.000Z",
-          "wordCount": 1111,
-          "title": "43% of South African youths are not in employment, education or training"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27392037",
-          "author": "funshed",
-          "description": "Article URL: https://twitter.com/Adam_Hosker/status/1400748390355456002\nComments URL: https://news.ycombinator.com/item?id=27392037\nPoints: 334\n# Comments: 94",
-          "link": "https://twitter.com/Adam_Hosker/status/1400748390355456002",
-          "publishedOn": "2021-06-04T09:38:02.000Z",
-          "wordCount": 196,
-          "title": "You can not advertise on Google if you use Google Analytics Competitors"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27391048",
           "author": "ingve",
-          "description": "Article URL: https://blog.golang.org/fuzz-beta\nComments URL: https://news.ycombinator.com/item?id=27391048\nPoints: 231\n# Comments: 36",
+          "description": "Article URL: https://blog.golang.org/fuzz-beta\nComments URL: https://news.ycombinator.com/item?id=27391048\nPoints: 254\n# Comments: 38",
           "link": "https://blog.golang.org/fuzz-beta",
           "publishedOn": "2021-06-04T06:02:48.000Z",
           "wordCount": 747,
           "title": "Go: Fuzzing Is Beta Ready"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27390512",
-          "author": "SerCe",
-          "description": "Article URL: https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html\nComments URL: https://news.ycombinator.com/item?id=27390512\nPoints: 1612\n# Comments: 321",
-          "link": "https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html",
-          "publishedOn": "2021-06-04T04:21:31.000Z",
-          "wordCount": 2557,
-          "title": "An Unbelievable Demo"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27390457",
-          "author": "dpeck",
-          "description": "Article URL: https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/\nComments URL: https://news.ycombinator.com/item?id=27390457\nPoints: 97\n# Comments: 28",
-          "link": "https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/",
-          "publishedOn": "2021-06-04T04:11:32.000Z",
-          "wordCount": 2602,
-          "title": "PM and EM Rules of Engagement"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27389103",
-          "author": "bilegeek",
-          "description": "Article URL: https://nitros9.sourceforge.io/wiki/index.php/Main_Page\nComments URL: https://news.ycombinator.com/item?id=27389103\nPoints: 77\n# Comments: 27",
-          "link": "https://nitros9.sourceforge.io/wiki/index.php/Main_Page",
-          "publishedOn": "2021-06-04T00:29:16.000Z",
-          "wordCount": 1061,
-          "title": "NitrOS-9, Unix-like operating system for the 6809"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27389024",
-          "author": "sohkamyung",
-          "description": "Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings\nComments URL: https://news.ycombinator.com/item?id=27389024\nPoints: 291\n# Comments: 47",
-          "link": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings",
-          "publishedOn": "2021-06-04T00:16:56.000Z",
-          "wordCount": 44,
-          "title": "Robot Sticks to Ceilings by Vibrating a Flexible Disc"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27388691",
-          "author": "______-",
-          "description": "Article URL: https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/\nComments URL: https://news.ycombinator.com/item?id=27388691\nPoints: 481\n# Comments: 104",
-          "link": "https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/",
-          "publishedOn": "2021-06-03T23:20:05.000Z",
-          "wordCount": 2490,
-          "title": "HTML and CSS techniques to reduce your JavaScript"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27388587",
-          "author": "camjohnson26",
-          "description": "Article URL: https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins\nComments URL: https://news.ycombinator.com/item?id=27388587\nPoints: 1178\n# Comments: 864",
-          "link": "https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins",
-          "publishedOn": "2021-06-03T23:07:39.000Z",
-          "wordCount": 12246,
-          "title": "The lab-leak theory: inside the fight to uncover Covid-19’s origins"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27387110",
-          "author": "mjreacher",
-          "description": "Article URL: https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD\nComments URL: https://news.ycombinator.com/item?id=27387110\nPoints: 743\n# Comments: 482",
-          "link": "https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD",
-          "publishedOn": "2021-06-03T20:50:26.000Z",
-          "wordCount": 598,
-          "title": "U.S. to give ransomware hacks similar priority as terrorism, official says"
         }
       ]
     },
@@ -477,7 +477,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4136,
+          "wordCount": 4130,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -491,7 +491,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3501,
+          "wordCount": 3504,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -575,7 +575,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10175,
+          "wordCount": 10222,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -589,7 +589,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3735,
+          "wordCount": 3696,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -673,7 +673,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9441,
+          "wordCount": 9445,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -701,7 +701,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1964,
+          "wordCount": 1970,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -757,7 +757,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2945,
+          "wordCount": 2951,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -771,7 +771,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2440,
+          "wordCount": 2430,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -841,7 +841,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
+          "wordCount": 6355,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -855,7 +855,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4172,
+          "wordCount": 4169,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -869,7 +869,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2664,
+          "wordCount": 2656,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -905,10 +905,10 @@
         {
           "id": "60afd68611ffb70827ef86d8",
           "author": null,
-          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called \"Schofield's Laws of Computing\". Jack didn't create these",
+          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a prolific journalist who wrote for The Guardian and covered technology for nearly four decades. During that time, he wrote three particular articles called \"Schofield's",
           "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
           "publishedOn": "2021-06-03T18:46:12.000Z",
-          "wordCount": 1588,
+          "wordCount": 1595,
           "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
         },
         {
