@@ -2,21 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T19:35:15.012Z</updated>
+    <updated>2021-06-04T21:04:20.560Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[“Tank Man”]]></title>
-        <id>https://news.ycombinator.com/item?id=27397486</id>
-        <link href="https://duckduckgo.com/?q=tank+man&amp;iax=images&amp;ia=images"/>
-        <updated>2021-06-04T18:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://duckduckgo.com/?q=tank+man&iax=images&ia=images
-Comments URL: https://news.ycombinator.com/item?id=27397486
-Points: 121
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
+        <id>60ba33d7acb62507dd1d9050</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/"/>
+        <updated>2021-06-04T20:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
         <author>
-            <name>Turukawa</name>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server]]></title>
+        <id>60b8f5c7acb62507dd1d8500</id>
+        <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
+        <updated>2021-06-04T20:41:29.000Z</updated>
+        <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
+        <id>https://css-tricks.com/?p=341793</id>
+        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
+        <updated>2021-06-04T20:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Colin Oakley:
+• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
+• Agnostic — Build 
+…
+The post Principles for user-centered front-end development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elijah Miller’s NEC v30 on a Pi hat]]></title>
+        <id>https://news.ycombinator.com/item?id=27398267</id>
+        <link href="https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/"/>
+        <updated>2021-06-04T19:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/
+Comments URL: https://news.ycombinator.com/item?id=27398267
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +61,8 @@ Points: 121
         <updated>2021-06-04T18:31:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://binji.github.io/posts/pokegb/
 Comments URL: https://news.ycombinator.com/item?id=27397208
-Points: 88
-# Comments: 0]]></summary>
+Points: 211
+# Comments: 20]]></summary>
         <author>
             <name>brundolf</name>
         </author>
@@ -39,8 +74,8 @@ Points: 88
         <updated>2021-06-04T18:11:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41413-020-00127-9
 Comments URL: https://news.ycombinator.com/item?id=27396873
-Points: 33
-# Comments: 14]]></summary>
+Points: 69
+# Comments: 46]]></summary>
         <author>
             <name>myth_drannon</name>
         </author>
@@ -52,8 +87,8 @@ Points: 33
         <updated>2021-06-04T18:10:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eejournal.com/article/we-interrupt-this-program/
 Comments URL: https://news.ycombinator.com/item?id=27396848
-Points: 62
-# Comments: 8]]></summary>
+Points: 100
+# Comments: 39]]></summary>
         <author>
             <name>eklitzke</name>
         </author>
@@ -65,21 +100,21 @@ Points: 62
         <updated>2021-06-04T18:08:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer
 Comments URL: https://news.ycombinator.com/item?id=27396803
-Points: 15
-# Comments: 0]]></summary>
+Points: 48
+# Comments: 21]]></summary>
         <author>
             <name>packet_nerd</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The story of the Tank Man photo by its photographer, Jeff Widener]]></title>
+        <title type="html"><![CDATA[The story of the Tank Man photo by its photographer]]></title>
         <id>https://news.ycombinator.com/item?id=27396783</id>
         <link href="http://www.jeffwidener.com/stories/2016/09/tankman/"/>
         <updated>2021-06-04T18:07:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.jeffwidener.com/stories/2016/09/tankman/
 Comments URL: https://news.ycombinator.com/item?id=27396783
-Points: 205
-# Comments: 0]]></summary>
+Points: 411
+# Comments: 71]]></summary>
         <author>
             <name>js2</name>
         </author>
@@ -101,8 +136,8 @@ Points: 205
         <updated>2021-06-04T17:34:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.politico.com/news/2021/06/04/amazon-hiring-former-government-officials-491878
 Comments URL: https://news.ycombinator.com/item?id=27396284
-Points: 50
-# Comments: 12]]></summary>
+Points: 88
+# Comments: 29]]></summary>
         <author>
             <name>fireball_blaze</name>
         </author>
@@ -114,8 +149,8 @@ Points: 50
         <updated>2021-06-04T17:28:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
 Comments URL: https://news.ycombinator.com/item?id=27396208
-Points: 42
-# Comments: 5]]></summary>
+Points: 65
+# Comments: 12]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -127,8 +162,8 @@ Points: 42
         <updated>2021-06-04T17:06:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/
 Comments URL: https://news.ycombinator.com/item?id=27395861
-Points: 88
-# Comments: 12]]></summary>
+Points: 127
+# Comments: 25]]></summary>
         <author>
             <name>thibaut_barrere</name>
         </author>
@@ -153,8 +188,8 @@ Points: 1
         <updated>2021-06-04T16:53:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/
 Comments URL: https://news.ycombinator.com/item?id=27395663
-Points: 115
-# Comments: 74]]></summary>
+Points: 138
+# Comments: 91]]></summary>
         <author>
             <name>crackercrews</name>
         </author>
@@ -166,8 +201,8 @@ Points: 115
         <updated>2021-06-04T16:51:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bing.com/images/search?q=tank+man
 Comments URL: https://news.ycombinator.com/item?id=27395635
-Points: 755
-# Comments: 97]]></summary>
+Points: 1192
+# Comments: 213]]></summary>
         <author>
             <name>rcoveson</name>
         </author>
@@ -179,8 +214,8 @@ Points: 755
         <updated>2021-06-04T16:50:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ai.googleblog.com/2021/06/data-cascades-in-machine-learning.html
 Comments URL: https://news.ycombinator.com/item?id=27395623
-Points: 29
-# Comments: 0]]></summary>
+Points: 38
+# Comments: 1]]></summary>
         <author>
             <name>theafh</name>
         </author>
@@ -192,8 +227,8 @@ Points: 29
         <updated>2021-06-04T16:43:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/
 Comments URL: https://news.ycombinator.com/item?id=27395511
-Points: 49
-# Comments: 4]]></summary>
+Points: 57
+# Comments: 7]]></summary>
         <author>
             <name>bitigchi</name>
         </author>
@@ -205,29 +240,10 @@ Points: 49
         <updated>2021-06-04T16:37:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api
 Comments URL: https://news.ycombinator.com/item?id=27395442
-Points: 19
-# Comments: 0]]></summary>
+Points: 31
+# Comments: 2]]></summary>
         <author>
             <name>homarp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: InBalance (YC W21) – Short-term energy market forecasting]]></title>
-        <id>https://news.ycombinator.com/item?id=27395238</id>
-        <link href="https://news.ycombinator.com/item?id=27395238"/>
-        <updated>2021-06-04T16:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, we’re Thomas and Raj, cofounders of inBalance (inbalanceresearch.com).
-inBalance forecasts electricity price, demand, and generation by source up to 72 hours
-ahead, helping utilities and independent power producers utilize their responsive assets
-such as energy storage, backup generators, flexible demand, etc more efficiently.
-We met playing ultimate frisbee in Cambridge, UK, and quickly found common interests in
-statistics and optimization. Thomas had previously worked on wind turbine placement
-problems, providing experience with power markets, and we discussed them but didn't see
-an immediate entry point, so Thomas continued his statistics PhD and Rajan worked in ML
-research and GPU algorithm design at a startup.
-A year ago we heard of a need for better wind power forecasts…]]></summary>
-        <author>
-            <name>Straw</name>
         </author>
     </entry>
     <entry>
@@ -237,8 +253,8 @@ A year ago we heard of a need for better wind power forecasts…]]></summary>
         <updated>2021-06-04T16:17:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nltimes.nl/2021/06/04/bookingcom-repay-eu65-million-state-aid-giving-eu28-million-bonuses-3-execs
 Comments URL: https://news.ycombinator.com/item?id=27395172
-Points: 205
-# Comments: 80]]></summary>
+Points: 243
+# Comments: 94]]></summary>
         <author>
             <name>the-dude</name>
         </author>
@@ -250,8 +266,8 @@ Points: 205
         <updated>2021-06-04T16:02:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thereboot.com/why-we-should-end-the-data-economy/
 Comments URL: https://news.ycombinator.com/item?id=27394983
-Points: 278
-# Comments: 195]]></summary>
+Points: 330
+# Comments: 267]]></summary>
         <author>
             <name>oppodeldoc</name>
         </author>
@@ -263,8 +279,8 @@ Points: 278
         <updated>2021-06-04T15:50:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.josephmorag.com/posts/mcc0/
 Comments URL: https://news.ycombinator.com/item?id=27394857
-Points: 69
-# Comments: 6]]></summary>
+Points: 92
+# Comments: 10]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -276,10 +292,23 @@ Points: 69
         <updated>2021-06-04T15:15:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html
 Comments URL: https://news.ycombinator.com/item?id=27394421
-Points: 44
-# Comments: 20]]></summary>
+Points: 50
+# Comments: 22]]></summary>
         <author>
             <name>buescher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reimagining video infrastructure to empower YouTube]]></title>
+        <id>https://news.ycombinator.com/item?id=27394362</id>
+        <link href="https://blog.youtube/inside-youtube/new-era-video-infrastructure/"/>
+        <updated>2021-06-04T15:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.youtube/inside-youtube/new-era-video-infrastructure/
+Comments URL: https://news.ycombinator.com/item?id=27394362
+Points: 37
+# Comments: 5]]></summary>
+        <author>
+            <name>prostoalex</name>
         </author>
     </entry>
     <entry>
@@ -407,26 +436,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
-        <id>60afce3011ffb70827ef869c</id>
-        <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
-        <updated>2021-06-02T23:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Environment Variables in VanillaJS]]></title>
-        <id>60b3a25211ffb70827ef9b39</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/"/>
-        <updated>2021-06-02T22:54:18.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -652,18 +661,6 @@ The post How to Show Images on Click appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
-        <id>https://css-tricks.com/?p=340910</id>
-        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
-        <updated>2021-05-27T14:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
-The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Michael Rispoli</name>
         </author>
     </entry>
     <entry>
