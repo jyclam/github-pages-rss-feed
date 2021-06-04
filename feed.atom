@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T04:07:57.711Z</updated>
+    <updated>2021-06-04T06:48:40.620Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Go: Fuzzing Is Beta Ready]]></title>
+        <id>https://news.ycombinator.com/item?id=27391048</id>
+        <link href="https://blog.golang.org/fuzz-beta"/>
+        <updated>2021-06-04T06:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.golang.org/fuzz-beta
+Comments URL: https://news.ycombinator.com/item?id=27391048
+Points: 16
+# Comments: 0]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Unbelievable Demo]]></title>
+        <id>https://news.ycombinator.com/item?id=27390512</id>
+        <link href="https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html"/>
+        <updated>2021-06-04T04:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html
+Comments URL: https://news.ycombinator.com/item?id=27390512
+Points: 338
+# Comments: 55]]></summary>
+        <author>
+            <name>SerCe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PM and EM Rules of Engagement]]></title>
+        <id>https://news.ycombinator.com/item?id=27390457</id>
+        <link href="https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/"/>
+        <updated>2021-06-04T04:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/
+Comments URL: https://news.ycombinator.com/item?id=27390457
+Points: 30
+# Comments: 5]]></summary>
+        <author>
+            <name>dpeck</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
         <id>60b98ebfacb62507dd1d8ec4</id>
@@ -23,8 +62,8 @@
         <updated>2021-06-04T00:29:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nitros9.sourceforge.io/wiki/index.php/Main_Page
 Comments URL: https://news.ycombinator.com/item?id=27389103
-Points: 25
-# Comments: 6]]></summary>
+Points: 43
+# Comments: 12]]></summary>
         <author>
             <name>bilegeek</name>
         </author>
@@ -36,8 +75,8 @@ Points: 25
         <updated>2021-06-04T00:16:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings
 Comments URL: https://news.ycombinator.com/item?id=27389024
-Points: 42
-# Comments: 7]]></summary>
+Points: 98
+# Comments: 15]]></summary>
         <author>
             <name>sohkamyung</name>
         </author>
@@ -49,8 +88,8 @@ Points: 42
         <updated>2021-06-03T23:43:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/
 Comments URL: https://news.ycombinator.com/item?id=27388832
-Points: 51
-# Comments: 7]]></summary>
+Points: 73
+# Comments: 16]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -62,23 +101,10 @@ Points: 51
         <updated>2021-06-03T23:20:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/
 Comments URL: https://news.ycombinator.com/item?id=27388691
-Points: 166
-# Comments: 47]]></summary>
+Points: 255
+# Comments: 65]]></summary>
         <author>
             <name>______-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ebullism at 1M Feet: Surviving Rapid/Explosive Decompression (2000)]]></title>
-        <id>https://news.ycombinator.com/item?id=27388639</id>
-        <link href="http://www.geoffreylandis.com/ebullism.html"/>
-        <updated>2021-06-03T23:12:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.geoffreylandis.com/ebullism.html
-Comments URL: https://news.ycombinator.com/item?id=27388639
-Points: 18
-# Comments: 4]]></summary>
-        <author>
-            <name>Hooke</name>
         </author>
     </entry>
     <entry>
@@ -88,8 +114,8 @@ Points: 18
         <updated>2021-06-03T23:07:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins
 Comments URL: https://news.ycombinator.com/item?id=27388587
-Points: 381
-# Comments: 369]]></summary>
+Points: 593
+# Comments: 490]]></summary>
         <author>
             <name>camjohnson26</name>
         </author>
@@ -101,8 +127,8 @@ Points: 381
         <updated>2021-06-03T22:42:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview
 Comments URL: https://news.ycombinator.com/item?id=27388391
-Points: 140
-# Comments: 59]]></summary>
+Points: 214
+# Comments: 79]]></summary>
         <author>
             <name>mauriziocalo</name>
         </author>
@@ -114,8 +140,8 @@ Points: 140
         <updated>2021-06-03T22:15:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.ramp.com/elixir-at-ramp/
 Comments URL: https://news.ycombinator.com/item?id=27388134
-Points: 46
-# Comments: 7]]></summary>
+Points: 70
+# Comments: 12]]></summary>
         <author>
             <name>clessg</name>
         </author>
@@ -127,8 +153,8 @@ Points: 46
         <updated>2021-06-03T22:01:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mtlynch.io/retrospectives/2021/06/
 Comments URL: https://news.ycombinator.com/item?id=27387978
-Points: 74
-# Comments: 35]]></summary>
+Points: 92
+# Comments: 40]]></summary>
         <author>
             <name>tnorthcutt</name>
         </author>
@@ -141,32 +167,6 @@ Points: 74
         <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telnet Mapscii.me]]></title>
-        <id>https://news.ycombinator.com/item?id=27387585</id>
-        <link href="http://mapscii.me"/>
-        <updated>2021-06-03T21:28:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://mapscii.me
-Comments URL: https://news.ycombinator.com/item?id=27387585
-Points: 77
-# Comments: 21]]></summary>
-        <author>
-            <name>dTal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7-11 is opening 500 EV charging stations by the end of 2022]]></title>
-        <id>https://news.ycombinator.com/item?id=27387482</id>
-        <link href="https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/"/>
-        <updated>2021-06-03T21:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/
-Comments URL: https://news.ycombinator.com/item?id=27387482
-Points: 138
-# Comments: 76]]></summary>
-        <author>
-            <name>evo_9</name>
         </author>
     </entry>
     <entry>
@@ -189,8 +189,8 @@ Points: 1
         <updated>2021-06-03T20:53:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2103.04689
 Comments URL: https://news.ycombinator.com/item?id=27387156
-Points: 73
-# Comments: 5]]></summary>
+Points: 87
+# Comments: 8]]></summary>
         <author>
             <name>MindGods</name>
         </author>
@@ -202,8 +202,8 @@ Points: 73
         <updated>2021-06-03T20:53:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://atcold.github.io/NYU-DLSP21/
 Comments URL: https://news.ycombinator.com/item?id=27387154
-Points: 71
-# Comments: 3]]></summary>
+Points: 123
+# Comments: 8]]></summary>
         <author>
             <name>g42gregory</name>
         </author>
@@ -215,23 +215,10 @@ Points: 71
         <updated>2021-06-03T20:50:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD
 Comments URL: https://news.ycombinator.com/item?id=27387110
-Points: 519
-# Comments: 364]]></summary>
+Points: 601
+# Comments: 410]]></summary>
         <author>
             <name>mjreacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distributed Cloud Builds for Everyone]]></title>
-        <id>https://news.ycombinator.com/item?id=27385796</id>
-        <link href="https://blog.nelhage.com/post/distributed-builds-for-everyone/"/>
-        <updated>2021-06-03T18:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.nelhage.com/post/distributed-builds-for-everyone/
-Comments URL: https://news.ycombinator.com/item?id=27385796
-Points: 67
-# Comments: 12]]></summary>
-        <author>
-            <name>nsm</name>
         </author>
     </entry>
     <entry>
@@ -261,8 +248,8 @@ Points: 67
         <updated>2021-06-03T18:12:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/
 Comments URL: https://news.ycombinator.com/item?id=27385208
-Points: 276
-# Comments: 159]]></summary>
+Points: 302
+# Comments: 170]]></summary>
         <author>
             <name>grzm</name>
         </author>
@@ -274,8 +261,8 @@ Points: 276
         <updated>2021-06-03T18:09:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://google.github.io/opencasebook/patents/
 Comments URL: https://news.ycombinator.com/item?id=27385153
-Points: 96
-# Comments: 29]]></summary>
+Points: 102
+# Comments: 35]]></summary>
         <author>
             <name>tgamblin</name>
         </author>
@@ -297,8 +284,8 @@ Points: 96
         <updated>2021-06-03T17:50:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/
 Comments URL: https://news.ycombinator.com/item?id=27384911
-Points: 257
-# Comments: 64]]></summary>
+Points: 272
+# Comments: 67]]></summary>
         <author>
             <name>tanoku</name>
         </author>
@@ -310,10 +297,23 @@ Points: 257
         <updated>2021-06-03T17:36:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/
 Comments URL: https://news.ycombinator.com/item?id=27384701
-Points: 113
-# Comments: 118]]></summary>
+Points: 124
+# Comments: 123]]></summary>
         <author>
             <name>FraBle90</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Camera Calibration from Scratch Using Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27384207</id>
+        <link href="https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3"/>
+        <updated>2021-06-03T17:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3
+Comments URL: https://news.ycombinator.com/item?id=27384207
+Points: 109
+# Comments: 2]]></summary>
+        <author>
+            <name>reteltech</name>
         </author>
     </entry>
     <entry>

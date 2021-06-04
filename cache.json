@@ -6,9 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27391048",
+          "author": "ingve",
+          "description": "Article URL: https://blog.golang.org/fuzz-beta\nComments URL: https://news.ycombinator.com/item?id=27391048\nPoints: 16\n# Comments: 0",
+          "link": "https://blog.golang.org/fuzz-beta",
+          "publishedOn": "2021-06-04T06:02:48.000Z",
+          "wordCount": 747,
+          "title": "Go: Fuzzing Is Beta Ready"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27390512",
+          "author": "SerCe",
+          "description": "Article URL: https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html\nComments URL: https://news.ycombinator.com/item?id=27390512\nPoints: 338\n# Comments: 55",
+          "link": "https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html",
+          "publishedOn": "2021-06-04T04:21:31.000Z",
+          "wordCount": 2557,
+          "title": "An Unbelievable Demo"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27390457",
+          "author": "dpeck",
+          "description": "Article URL: https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/\nComments URL: https://news.ycombinator.com/item?id=27390457\nPoints: 30\n# Comments: 5",
+          "link": "https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/",
+          "publishedOn": "2021-06-04T04:11:32.000Z",
+          "wordCount": 2602,
+          "title": "PM and EM Rules of Engagement"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27389103",
           "author": "bilegeek",
-          "description": "Article URL: https://nitros9.sourceforge.io/wiki/index.php/Main_Page\nComments URL: https://news.ycombinator.com/item?id=27389103\nPoints: 25\n# Comments: 6",
+          "description": "Article URL: https://nitros9.sourceforge.io/wiki/index.php/Main_Page\nComments URL: https://news.ycombinator.com/item?id=27389103\nPoints: 43\n# Comments: 12",
           "link": "https://nitros9.sourceforge.io/wiki/index.php/Main_Page",
           "publishedOn": "2021-06-04T00:29:16.000Z",
           "wordCount": 1061,
@@ -17,7 +44,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27389024",
           "author": "sohkamyung",
-          "description": "Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings\nComments URL: https://news.ycombinator.com/item?id=27389024\nPoints: 42\n# Comments: 7",
+          "description": "Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings\nComments URL: https://news.ycombinator.com/item?id=27389024\nPoints: 98\n# Comments: 15",
           "link": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings",
           "publishedOn": "2021-06-04T00:16:56.000Z",
           "wordCount": 44,
@@ -26,7 +53,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27388832",
           "author": "rbanffy",
-          "description": "Article URL: https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/\nComments URL: https://news.ycombinator.com/item?id=27388832\nPoints: 51\n# Comments: 7",
+          "description": "Article URL: https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/\nComments URL: https://news.ycombinator.com/item?id=27388832\nPoints: 73\n# Comments: 16",
           "link": "https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/",
           "publishedOn": "2021-06-03T23:43:07.000Z",
           "wordCount": 2371,
@@ -35,25 +62,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27388691",
           "author": "______-",
-          "description": "Article URL: https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/\nComments URL: https://news.ycombinator.com/item?id=27388691\nPoints: 166\n# Comments: 47",
+          "description": "Article URL: https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/\nComments URL: https://news.ycombinator.com/item?id=27388691\nPoints: 255\n# Comments: 65",
           "link": "https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/",
           "publishedOn": "2021-06-03T23:20:05.000Z",
-          "wordCount": 2459,
+          "wordCount": 2490,
           "title": "HTML and CSS techniques to reduce your JavaScript"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27388639",
-          "author": "Hooke",
-          "description": "Article URL: http://www.geoffreylandis.com/ebullism.html\nComments URL: https://news.ycombinator.com/item?id=27388639\nPoints: 18\n# Comments: 4",
-          "link": "http://www.geoffreylandis.com/ebullism.html",
-          "publishedOn": "2021-06-03T23:12:50.000Z",
-          "wordCount": 3444,
-          "title": "Ebullism at 1M Feet: Surviving Rapid/Explosive Decompression (2000)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27388587",
           "author": "camjohnson26",
-          "description": "Article URL: https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins\nComments URL: https://news.ycombinator.com/item?id=27388587\nPoints: 381\n# Comments: 369",
+          "description": "Article URL: https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins\nComments URL: https://news.ycombinator.com/item?id=27388587\nPoints: 593\n# Comments: 490",
           "link": "https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins",
           "publishedOn": "2021-06-03T23:07:39.000Z",
           "wordCount": 12246,
@@ -62,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27388391",
           "author": "mauriziocalo",
-          "description": "Article URL: https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview\nComments URL: https://news.ycombinator.com/item?id=27388391\nPoints: 140\n# Comments: 59",
+          "description": "Article URL: https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview\nComments URL: https://news.ycombinator.com/item?id=27388391\nPoints: 214\n# Comments: 79",
           "link": "https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview",
           "publishedOn": "2021-06-03T22:42:53.000Z",
           "wordCount": 279,
@@ -71,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27388134",
           "author": "clessg",
-          "description": "Article URL: https://engineering.ramp.com/elixir-at-ramp/\nComments URL: https://news.ycombinator.com/item?id=27388134\nPoints: 46\n# Comments: 7",
+          "description": "Article URL: https://engineering.ramp.com/elixir-at-ramp/\nComments URL: https://news.ycombinator.com/item?id=27388134\nPoints: 70\n# Comments: 12",
           "link": "https://engineering.ramp.com/elixir-at-ramp/",
           "publishedOn": "2021-06-03T22:15:24.000Z",
           "wordCount": 2059,
@@ -80,29 +98,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27387978",
           "author": "tnorthcutt",
-          "description": "Article URL: https://mtlynch.io/retrospectives/2021/06/\nComments URL: https://news.ycombinator.com/item?id=27387978\nPoints: 74\n# Comments: 35",
+          "description": "Article URL: https://mtlynch.io/retrospectives/2021/06/\nComments URL: https://news.ycombinator.com/item?id=27387978\nPoints: 92\n# Comments: 40",
           "link": "https://mtlynch.io/retrospectives/2021/06/",
           "publishedOn": "2021-06-03T22:01:44.000Z",
-          "wordCount": 2992,
+          "wordCount": 2994,
           "title": "TinyPilot: Month 11"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27387585",
-          "author": "dTal",
-          "description": "Article URL: http://mapscii.me\nComments URL: https://news.ycombinator.com/item?id=27387585\nPoints: 77\n# Comments: 21",
-          "link": "http://mapscii.me",
-          "publishedOn": "2021-06-03T21:28:58.000Z",
-          "wordCount": 1291,
-          "title": "Telnet Mapscii.me"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27387482",
-          "author": "evo_9",
-          "description": "Article URL: https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/\nComments URL: https://news.ycombinator.com/item?id=27387482\nPoints: 138\n# Comments: 76",
-          "link": "https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/",
-          "publishedOn": "2021-06-03T21:19:54.000Z",
-          "wordCount": 643,
-          "title": "7-11 is opening 500 EV charging stations by the end of 2022"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27387237",
@@ -116,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27387156",
           "author": "MindGods",
-          "description": "Article URL: https://arxiv.org/abs/2103.04689\nComments URL: https://news.ycombinator.com/item?id=27387156\nPoints: 73\n# Comments: 5",
+          "description": "Article URL: https://arxiv.org/abs/2103.04689\nComments URL: https://news.ycombinator.com/item?id=27387156\nPoints: 87\n# Comments: 8",
           "link": "https://arxiv.org/abs/2103.04689",
           "publishedOn": "2021-06-03T20:53:31.000Z",
           "wordCount": 673,
@@ -125,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27387154",
           "author": "g42gregory",
-          "description": "Article URL: https://atcold.github.io/NYU-DLSP21/\nComments URL: https://news.ycombinator.com/item?id=27387154\nPoints: 71\n# Comments: 3",
+          "description": "Article URL: https://atcold.github.io/NYU-DLSP21/\nComments URL: https://news.ycombinator.com/item?id=27387154\nPoints: 123\n# Comments: 8",
           "link": "https://atcold.github.io/NYU-DLSP21/",
           "publishedOn": "2021-06-03T20:53:30.000Z",
           "wordCount": 220,
@@ -134,25 +134,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27387110",
           "author": "mjreacher",
-          "description": "Article URL: https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD\nComments URL: https://news.ycombinator.com/item?id=27387110\nPoints: 519\n# Comments: 364",
+          "description": "Article URL: https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD\nComments URL: https://news.ycombinator.com/item?id=27387110\nPoints: 601\n# Comments: 410",
           "link": "https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD",
           "publishedOn": "2021-06-03T20:50:26.000Z",
           "wordCount": 598,
           "title": "U.S. to give ransomware hacks similar priority as terrorism, official says"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27385796",
-          "author": "nsm",
-          "description": "Article URL: https://blog.nelhage.com/post/distributed-builds-for-everyone/\nComments URL: https://news.ycombinator.com/item?id=27385796\nPoints: 67\n# Comments: 12",
-          "link": "https://blog.nelhage.com/post/distributed-builds-for-everyone/",
-          "publishedOn": "2021-06-03T18:57:52.000Z",
-          "wordCount": 1707,
-          "title": "Distributed Cloud Builds for Everyone"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27385208",
           "author": "grzm",
-          "description": "Article URL: https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/\nComments URL: https://news.ycombinator.com/item?id=27385208\nPoints: 276\n# Comments: 159",
+          "description": "Article URL: https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/\nComments URL: https://news.ycombinator.com/item?id=27385208\nPoints: 302\n# Comments: 170",
           "link": "https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/",
           "publishedOn": "2021-06-03T18:12:18.000Z",
           "wordCount": 3229,
@@ -161,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27385153",
           "author": "tgamblin",
-          "description": "Article URL: https://google.github.io/opencasebook/patents/\nComments URL: https://news.ycombinator.com/item?id=27385153\nPoints: 96\n# Comments: 29",
+          "description": "Article URL: https://google.github.io/opencasebook/patents/\nComments URL: https://news.ycombinator.com/item?id=27385153\nPoints: 102\n# Comments: 35",
           "link": "https://google.github.io/opencasebook/patents/",
           "publishedOn": "2021-06-03T18:09:07.000Z",
           "wordCount": 34335,
@@ -170,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27384911",
           "author": "tanoku",
-          "description": "Article URL: https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/\nComments URL: https://news.ycombinator.com/item?id=27384911\nPoints: 257\n# Comments: 64",
+          "description": "Article URL: https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/\nComments URL: https://news.ycombinator.com/item?id=27384911\nPoints: 272\n# Comments: 67",
           "link": "https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/",
           "publishedOn": "2021-06-03T17:50:15.000Z",
           "wordCount": 2736,
@@ -179,11 +170,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27384701",
           "author": "FraBle90",
-          "description": "Article URL: https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/\nComments URL: https://news.ycombinator.com/item?id=27384701\nPoints: 113\n# Comments: 118",
+          "description": "Article URL: https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/\nComments URL: https://news.ycombinator.com/item?id=27384701\nPoints: 124\n# Comments: 123",
           "link": "https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/",
           "publishedOn": "2021-06-03T17:36:08.000Z",
           "wordCount": 1383,
           "title": "How a Jenkins Job Broke our Jenkins UI"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27384207",
+          "author": "reteltech",
+          "description": "Article URL: https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3\nComments URL: https://news.ycombinator.com/item?id=27384207\nPoints: 109\n# Comments: 2",
+          "link": "https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3",
+          "publishedOn": "2021-06-03T17:03:15.000Z",
+          "wordCount": 1331,
+          "title": "Camera Calibration from Scratch Using Rust"
         }
       ]
     },
@@ -477,7 +477,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3496,
+          "wordCount": 3506,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -491,7 +491,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4327,
+          "wordCount": 4337,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -505,7 +505,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5389,
+          "wordCount": 5393,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -547,7 +547,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2490,
+          "wordCount": 2496,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -561,7 +561,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10212,
+          "wordCount": 10217,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -575,7 +575,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3747,
+          "wordCount": 3733,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -659,7 +659,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9436,
+          "wordCount": 9433,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -687,7 +687,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1961,
+          "wordCount": 1919,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -743,7 +743,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2943,
+          "wordCount": 2948,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -827,7 +827,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6352,
+          "wordCount": 6310,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -841,7 +841,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4169,
+          "wordCount": 4178,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -855,7 +855,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2656,
+          "wordCount": 2668,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
