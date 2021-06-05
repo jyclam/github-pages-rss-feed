@@ -2,34 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T14:01:44.304Z</updated>
+    <updated>2021-06-05T15:21:16.290Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Read and think for yourself. Don’t let others think for you]]></title>
-        <id>https://news.ycombinator.com/item?id=27404750</id>
-        <link href="https://leonarth.medium.com/read-and-think-by-yourself-dont-let-others-think-for-you-bd095a9c2b94"/>
-        <updated>2021-06-05T13:21:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://leonarth.medium.com/read-and-think-by-yourself-dont-let-others-think-for-you-bd095a9c2b94
-Comments URL: https://news.ycombinator.com/item?id=27404750
+        <title type="html"><![CDATA[Catalog of viruses from human metagenomes reveals chronic disease associations]]></title>
+        <id>https://news.ycombinator.com/item?id=27405597</id>
+        <link href="https://www.pnas.org/content/118/23/e2023202118"/>
+        <updated>2021-06-05T14:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pnas.org/content/118/23/e2023202118
+Comments URL: https://news.ycombinator.com/item?id=27405597
 Points: 5
-# Comments: 4]]></summary>
+# Comments: 0]]></summary>
         <author>
-            <name>lfaoro</name>
+            <name>rch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Y Combinator entrepreneurs say they were kicked out of the accelerator]]></title>
-        <id>https://news.ycombinator.com/item?id=27404727</id>
-        <link href="https://www.businessinsider.com/ycombinator-katia-damer-paul-biggar-criticized-founders-vaccine-line-skipping-2021-6"/>
-        <updated>2021-06-05T13:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/ycombinator-katia-damer-paul-biggar-criticized-founders-vaccine-line-skipping-2021-6
-Comments URL: https://news.ycombinator.com/item?id=27404727
-Points: 40
-# Comments: 8]]></summary>
+        <title type="html"><![CDATA[The Mandelbrot Monk]]></title>
+        <id>https://news.ycombinator.com/item?id=27405450</id>
+        <link href="https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html"/>
+        <updated>2021-06-05T14:40:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html
+Comments URL: https://news.ycombinator.com/item?id=27405450
+Points: 6
+# Comments: 0]]></summary>
         <author>
-            <name>kordlessagain</name>
+            <name>rfreytag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero to Production in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27405395</id>
+        <link href="https://www.zero2prod.com/"/>
+        <updated>2021-06-05T14:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.zero2prod.com/
+Comments URL: https://news.ycombinator.com/item?id=27405395
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘We Eat Roti and Salt’: Delhi’s Most Vulnerable Still Wait for Food]]></title>
+        <id>https://news.ycombinator.com/item?id=27404982</id>
+        <link href="https://www.thequint.com/news/india/delhi-non-ration-card-holders-still-wait-for-food-arvind-kejriwal-manish-sisodia"/>
+        <updated>2021-06-05T13:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thequint.com/news/india/delhi-non-ration-card-holders-still-wait-for-food-arvind-kejriwal-manish-sisodia
+Comments URL: https://news.ycombinator.com/item?id=27404982
+Points: 59
+# Comments: 18]]></summary>
+        <author>
+            <name>akbarnama</name>
         </author>
     </entry>
     <entry>
@@ -39,36 +65,49 @@ Points: 40
         <updated>2021-06-05T12:50:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/coastal-arctic-sea-ice-is-thinning-faster-than-previously-thought1/
 Comments URL: https://news.ycombinator.com/item?id=27404523
-Points: 20
-# Comments: 0]]></summary>
+Points: 77
+# Comments: 9]]></summary>
         <author>
             <name>LinuxBender</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50% reduction in krill in past 6 decades]]></title>
+        <title type="html"><![CDATA[North Atlantic warming over six decades drives decreases in krill abundance]]></title>
         <id>https://news.ycombinator.com/item?id=27404512</id>
         <link href="https://www.nature.com/articles/s42003-021-02159-1"/>
         <updated>2021-06-05T12:49:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s42003-021-02159-1
 Comments URL: https://news.ycombinator.com/item?id=27404512
-Points: 42
-# Comments: 5]]></summary>
+Points: 155
+# Comments: 27]]></summary>
         <author>
             <name>aseerdbnarng</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quell Der Weisheit (German)]]></title>
-        <id>https://news.ycombinator.com/item?id=27404360</id>
-        <link href="http://members.chello.at/karl.bednarik/"/>
-        <updated>2021-06-05T12:29:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://members.chello.at/karl.bednarik/
-Comments URL: https://news.ycombinator.com/item?id=27404360
-Points: 8
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[If Not Overturned, Bad Copyright Decision Will Lead Many to Lose Internet Access]]></title>
+        <id>https://news.ycombinator.com/item?id=27404442</id>
+        <link href="https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet"/>
+        <updated>2021-06-05T12:41:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet
+Comments URL: https://news.ycombinator.com/item?id=27404442
+Points: 55
+# Comments: 4]]></summary>
         <author>
-            <name>v4vvdq</name>
+            <name>ystad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explainer: What is a global minimum tax and what will it mean?]]></title>
+        <id>https://news.ycombinator.com/item?id=27404405</id>
+        <link href="https://www.reuters.com/business/finance/what-is-global-minimum-tax-what-will-it-mean-2021-06-05/"/>
+        <updated>2021-06-05T12:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/finance/what-is-global-minimum-tax-what-will-it-mean-2021-06-05/
+Comments URL: https://news.ycombinator.com/item?id=27404405
+Points: 28
+# Comments: 23]]></summary>
+        <author>
+            <name>ourmandave</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +117,8 @@ Points: 8
         <updated>2021-06-05T12:21:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/google/iconvg
 Comments URL: https://news.ycombinator.com/item?id=27404301
-Points: 8
-# Comments: 0]]></summary>
+Points: 33
+# Comments: 7]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -91,8 +130,8 @@ Points: 8
         <updated>2021-06-05T12:10:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blurweb.app
 Comments URL: https://news.ycombinator.com/item?id=27404228
-Points: 6
-# Comments: 3]]></summary>
+Points: 12
+# Comments: 5]]></summary>
         <author>
             <name>theindianappguy</name>
         </author>
@@ -104,8 +143,8 @@ Points: 6
         <updated>2021-06-05T12:04:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/midiblocks/handsfree
 Comments URL: https://news.ycombinator.com/item?id=27404196
-Points: 4
-# Comments: 1]]></summary>
+Points: 16
+# Comments: 4]]></summary>
         <author>
             <name>detaro</name>
         </author>
@@ -124,40 +163,40 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter Ban in Nigeria]]></title>
-        <id>https://news.ycombinator.com/item?id=27404125</id>
-        <link href="https://www.bbc.com/news/world-africa-57363779"/>
-        <updated>2021-06-05T11:47:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-africa-57363779
-Comments URL: https://news.ycombinator.com/item?id=27404125
-Points: 44
-# Comments: 39]]></summary>
+        <title type="html"><![CDATA[Show HN: Hammerkit – Build Tool]]></title>
+        <id>https://news.ycombinator.com/item?id=27404123</id>
+        <link href="https://github.com/no0dles/hammerkit"/>
+        <updated>2021-06-05T11:47:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/no0dles/hammerkit
+Comments URL: https://news.ycombinator.com/item?id=27404123
+Points: 10
+# Comments: 2]]></summary>
         <author>
-            <name>kaladin_1</name>
+            <name>no0dles</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn R Through Examples]]></title>
+        <title type="html"><![CDATA[Learn R Through Examples (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27404103</id>
         <link href="https://gexijin.github.io/learnR/index.html"/>
         <updated>2021-06-05T11:43:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gexijin.github.io/learnR/index.html
 Comments URL: https://news.ycombinator.com/item?id=27404103
-Points: 43
-# Comments: 14]]></summary>
+Points: 75
+# Comments: 32]]></summary>
         <author>
             <name>diplodocusaur</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rich nations back deal to tax multinationals]]></title>
+        <title type="html"><![CDATA[The G7 has reached a deal on taxing multinational companies]]></title>
         <id>https://news.ycombinator.com/item?id=27404018</id>
         <link href="https://www.bbc.co.uk/news/world-57368247"/>
         <updated>2021-06-05T11:24:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-57368247
 Comments URL: https://news.ycombinator.com/item?id=27404018
-Points: 181
-# Comments: 196]]></summary>
+Points: 257
+# Comments: 291]]></summary>
         <author>
             <name>ddek</name>
         </author>
@@ -169,8 +208,8 @@ Points: 181
         <updated>2021-06-05T11:24:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://appleinsider.com/articles/21/06/04/apple-mozilla-google-microsoft-form-group-to-standardize-browser-plug-ins
 Comments URL: https://news.ycombinator.com/item?id=27404017
-Points: 130
-# Comments: 53]]></summary>
+Points: 192
+# Comments: 74]]></summary>
         <author>
             <name>Black101</name>
         </author>
@@ -182,8 +221,8 @@ Points: 130
         <updated>2021-06-05T10:50:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ArthurSonzogni/FTXUI
 Comments URL: https://news.ycombinator.com/item?id=27403877
-Points: 62
-# Comments: 16]]></summary>
+Points: 74
+# Comments: 34]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -195,21 +234,21 @@ Points: 62
         <updated>2021-06-05T10:41:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.aboutamazon.com/news/job-creation-and-investment/study-shows-amazons-wage-increase-to-15-an-hour-also-upped-pay-for-non-amazon-workers
 Comments URL: https://news.ycombinator.com/item?id=27403824
-Points: 40
-# Comments: 22]]></summary>
+Points: 73
+# Comments: 40]]></summary>
         <author>
             <name>rustoo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3k eggs abandoned after drone scares birds in California]]></title>
+        <title type="html"><![CDATA[3,000 eggs abandoned after drone scares birds in California]]></title>
         <id>https://news.ycombinator.com/item?id=27403804</id>
         <link href="https://abcnews.go.com/US/wireStory/3000-eggs-abandoned-drone-scares-birds-california-78090817"/>
         <updated>2021-06-05T10:34:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://abcnews.go.com/US/wireStory/3000-eggs-abandoned-drone-scares-birds-california-78090817
 Comments URL: https://news.ycombinator.com/item?id=27403804
-Points: 77
-# Comments: 17]]></summary>
+Points: 121
+# Comments: 45]]></summary>
         <author>
             <name>erentz</name>
         </author>
@@ -221,49 +260,10 @@ Points: 77
         <updated>2021-06-05T10:19:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://queue.acm.org/detail.cfm?id=3469121
 Comments URL: https://news.ycombinator.com/item?id=27403735
-Points: 19
-# Comments: 3]]></summary>
+Points: 29
+# Comments: 5]]></summary>
         <author>
             <name>MindGods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Scheme to Find the Median of Two Sorted Integer Lists]]></title>
-        <id>https://news.ycombinator.com/item?id=27403666</id>
-        <link href="https://www.erichgrunewald.com/posts/using-scheme-to-find-the-median-of-two-sorted-integer-lists/"/>
-        <updated>2021-06-05T10:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.erichgrunewald.com/posts/using-scheme-to-find-the-median-of-two-sorted-integer-lists/
-Comments URL: https://news.ycombinator.com/item?id=27403666
-Points: 12
-# Comments: 9]]></summary>
-        <author>
-            <name>erwald</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google can't pass its own page speed test]]></title>
-        <id>https://news.ycombinator.com/item?id=27403352</id>
-        <link href="https://www.reddit.com/r/dataisbeautiful/comments/ns4t1z/oc_google_cant_pass_its_own_page_speed_test/"/>
-        <updated>2021-06-05T08:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/dataisbeautiful/comments/ns4t1z/oc_google_cant_pass_its_own_page_speed_test/
-Comments URL: https://news.ycombinator.com/item?id=27403352
-Points: 135
-# Comments: 53]]></summary>
-        <author>
-            <name>EvgeniyZh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Poe the most influential American writer? A new book offers evidence]]></title>
-        <id>https://news.ycombinator.com/item?id=27401264</id>
-        <link href="https://www.washingtonpost.com/entertainment/books/is-poe-really-the-most-influential-american-writer-a-new-book-offers-evidence/2021/06/02/4311f280-c2ec-11eb-93f5-ee9558eecf4b_story.html"/>
-        <updated>2021-06-05T02:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/entertainment/books/is-poe-really-the-most-influential-american-writer-a-new-book-offers-evidence/2021/06/02/4311f280-c2ec-11eb-93f5-ee9558eecf4b_story.html
-Comments URL: https://news.ycombinator.com/item?id=27401264
-Points: 5
-# Comments: 0]]></summary>
-        <author>
-            <name>lermontov</name>
         </author>
     </entry>
     <entry>
