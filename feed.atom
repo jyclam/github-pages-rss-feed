@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T18:21:22.405Z</updated>
+    <updated>2021-06-05T19:52:52.820Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Implementing strict three-point perspective]]></title>
+        <id>https://news.ycombinator.com/item?id=27407691</id>
+        <link href="https://pomax.github.io/three-point-perspective/"/>
+        <updated>2021-06-05T19:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pomax.github.io/three-point-perspective/
+Comments URL: https://news.ycombinator.com/item?id=27407691
+Points: 8
+# Comments: 1]]></summary>
+        <author>
+            <name>TheRealPomax</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cory Doctorow on aaronsw and Computer Fraud and Abuse Act (CFAA)]]></title>
+        <id>https://news.ycombinator.com/item?id=27407433</id>
+        <link href="https://twitter.com/doctorow/status/1400839223654060037"/>
+        <updated>2021-06-05T18:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/doctorow/status/1400839223654060037
+Comments URL: https://news.ycombinator.com/item?id=27407433
+Points: 15
+# Comments: 0]]></summary>
+        <author>
+            <name>asimjalis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ET-Jekyll: Edward Tufte Inspired Jekyll Theme]]></title>
+        <id>https://news.ycombinator.com/item?id=27407264</id>
+        <link href="https://et-jekyll.netlify.app/"/>
+        <updated>2021-06-05T18:05:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://et-jekyll.netlify.app/
+Comments URL: https://news.ycombinator.com/item?id=27407264
+Points: 29
+# Comments: 1]]></summary>
+        <author>
+            <name>bradley_taunt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Clang LibFuzzer coverage-guided fuzzing engine with Nim]]></title>
         <id>https://news.ycombinator.com/item?id=27407086</id>
@@ -13,8 +52,8 @@
         <updated>2021-06-05T17:44:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/planetis-m/libfuzzer
 Comments URL: https://news.ycombinator.com/item?id=27407086
-Points: 8
-# Comments: 0]]></summary>
+Points: 32
+# Comments: 1]]></summary>
         <author>
             <name>planetis</name>
         </author>
@@ -26,8 +65,8 @@ Points: 8
         <updated>2021-06-05T17:22:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html
 Comments URL: https://news.ycombinator.com/item?id=27406888
-Points: 10
-# Comments: 1]]></summary>
+Points: 41
+# Comments: 7]]></summary>
         <author>
             <name>aleks224</name>
         </author>
@@ -52,23 +91,10 @@ Points: 1
         <updated>2021-06-05T16:49:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql
 Comments URL: https://news.ycombinator.com/item?id=27406589
-Points: 25
-# Comments: 8]]></summary>
+Points: 43
+# Comments: 12]]></summary>
         <author>
             <name>wdb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valid Signal privacy issues shrugged off while patches quietly rolled out]]></title>
-        <id>https://news.ycombinator.com/item?id=27406497</id>
-        <link href="https://403forbiddenblog.blogspot.com/2021/06/signal-safety-numbers.html?m=1"/>
-        <updated>2021-06-05T16:39:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://403forbiddenblog.blogspot.com/2021/06/signal-safety-numbers.html?m=1
-Comments URL: https://news.ycombinator.com/item?id=27406497
-Points: 54
-# Comments: 21]]></summary>
-        <author>
-            <name>Nevor</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +104,8 @@ Points: 54
         <updated>2021-06-05T16:13:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/
 Comments URL: https://news.ycombinator.com/item?id=27406243
-Points: 82
-# Comments: 17]]></summary>
+Points: 126
+# Comments: 40]]></summary>
         <author>
             <name>chetangoti</name>
         </author>
@@ -91,8 +117,8 @@ Points: 82
         <updated>2021-06-05T16:01:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://danluu.com/web-bloat/
 Comments URL: https://news.ycombinator.com/item?id=27406132
-Points: 65
-# Comments: 33]]></summary>
+Points: 110
+# Comments: 75]]></summary>
         <author>
             <name>x14km2d</name>
         </author>
@@ -104,8 +130,8 @@ Points: 65
         <updated>2021-06-05T15:18:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nationalpost.com/news/canada/ancient-indigenous-forest-gardens-still-yield-bounty-150-years-later-study
 Comments URL: https://news.ycombinator.com/item?id=27405764
-Points: 47
-# Comments: 5]]></summary>
+Points: 62
+# Comments: 12]]></summary>
         <author>
             <name>voisin</name>
         </author>
@@ -117,8 +143,8 @@ Points: 47
         <updated>2021-06-05T14:58:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pnas.org/content/118/23/e2023202118
 Comments URL: https://news.ycombinator.com/item?id=27405597
-Points: 88
-# Comments: 4]]></summary>
+Points: 106
+# Comments: 5]]></summary>
         <author>
             <name>rch</name>
         </author>
@@ -130,8 +156,8 @@ Points: 88
         <updated>2021-06-05T14:40:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html
 Comments URL: https://news.ycombinator.com/item?id=27405450
-Points: 88
-# Comments: 34]]></summary>
+Points: 112
+# Comments: 37]]></summary>
         <author>
             <name>rfreytag</name>
         </author>
@@ -143,8 +169,8 @@ Points: 88
         <updated>2021-06-05T14:35:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.zero2prod.com/
 Comments URL: https://news.ycombinator.com/item?id=27405395
-Points: 169
-# Comments: 111]]></summary>
+Points: 209
+# Comments: 147]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -156,8 +182,8 @@ Points: 169
         <updated>2021-06-05T12:41:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet
 Comments URL: https://news.ycombinator.com/item?id=27404442
-Points: 145
-# Comments: 26]]></summary>
+Points: 184
+# Comments: 33]]></summary>
         <author>
             <name>ystad</name>
         </author>
@@ -169,8 +195,8 @@ Points: 145
         <updated>2021-06-05T12:21:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/google/iconvg
 Comments URL: https://news.ycombinator.com/item?id=27404301
-Points: 80
-# Comments: 31]]></summary>
+Points: 90
+# Comments: 41]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -182,8 +208,8 @@ Points: 80
         <updated>2021-06-05T12:10:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blurweb.app
 Comments URL: https://news.ycombinator.com/item?id=27404228
-Points: 30
-# Comments: 9]]></summary>
+Points: 36
+# Comments: 15]]></summary>
         <author>
             <name>theindianappguy</name>
         </author>
@@ -195,8 +221,8 @@ Points: 30
         <updated>2021-06-05T12:04:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/midiblocks/handsfree
 Comments URL: https://news.ycombinator.com/item?id=27404196
-Points: 82
-# Comments: 6]]></summary>
+Points: 101
+# Comments: 8]]></summary>
         <author>
             <name>detaro</name>
         </author>
@@ -208,8 +234,8 @@ Points: 82
         <updated>2021-06-05T11:43:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gexijin.github.io/learnR/index.html
 Comments URL: https://news.ycombinator.com/item?id=27404103
-Points: 113
-# Comments: 47]]></summary>
+Points: 120
+# Comments: 55]]></summary>
         <author>
             <name>diplodocusaur</name>
         </author>
@@ -221,8 +247,8 @@ Points: 113
         <updated>2021-06-05T11:24:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-57368247
 Comments URL: https://news.ycombinator.com/item?id=27404018
-Points: 566
-# Comments: 537]]></summary>
+Points: 660
+# Comments: 597]]></summary>
         <author>
             <name>ddek</name>
         </author>
@@ -234,36 +260,10 @@ Points: 566
         <updated>2021-06-05T11:24:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://appleinsider.com/articles/21/06/04/apple-mozilla-google-microsoft-form-group-to-standardize-browser-plug-ins
 Comments URL: https://news.ycombinator.com/item?id=27404017
-Points: 299
-# Comments: 111]]></summary>
+Points: 339
+# Comments: 124]]></summary>
         <author>
             <name>Black101</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ftxui: C++ Functional Terminal User Interface]]></title>
-        <id>https://news.ycombinator.com/item?id=27403877</id>
-        <link href="https://github.com/ArthurSonzogni/FTXUI"/>
-        <updated>2021-06-05T10:50:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ArthurSonzogni/FTXUI
-Comments URL: https://news.ycombinator.com/item?id=27403877
-Points: 106
-# Comments: 43]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon’s wage increase to $15 an hour also upped pay for non-Amazon workers]]></title>
-        <id>https://news.ycombinator.com/item?id=27403824</id>
-        <link href="https://www.aboutamazon.com/news/job-creation-and-investment/study-shows-amazons-wage-increase-to-15-an-hour-also-upped-pay-for-non-amazon-workers"/>
-        <updated>2021-06-05T10:41:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.aboutamazon.com/news/job-creation-and-investment/study-shows-amazons-wage-increase-to-15-an-hour-also-upped-pay-for-non-amazon-workers
-Comments URL: https://news.ycombinator.com/item?id=27403824
-Points: 135
-# Comments: 92]]></summary>
-        <author>
-            <name>rustoo</name>
         </author>
     </entry>
     <entry>
