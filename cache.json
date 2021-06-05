@@ -6,18 +6,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27408420",
+          "author": "jairajs89",
+          "description": "Article URL: https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81\nComments URL: https://news.ycombinator.com/item?id=27408420\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81",
+          "publishedOn": "2021-06-05T21:00:10.000Z",
+          "wordCount": 742,
+          "title": "Substack (YC W18) is hiring engineers to build the future of writing"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27408326",
+          "author": "ekzhang",
+          "description": "Article URL: https://github.com/ekzhang/rustpad\nComments URL: https://news.ycombinator.com/item?id=27408326\nPoints: 18\n# Comments: 2",
+          "link": "https://github.com/ekzhang/rustpad",
+          "publishedOn": "2021-06-05T20:44:45.000Z",
+          "wordCount": 993,
+          "title": "Show HN: Rustpad, a self-hosted online collaborative text editor in Rust"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27407691",
           "author": "TheRealPomax",
-          "description": "Article URL: https://pomax.github.io/three-point-perspective/\nComments URL: https://news.ycombinator.com/item?id=27407691\nPoints: 21\n# Comments: 8",
+          "description": "Article URL: https://pomax.github.io/three-point-perspective/\nComments URL: https://news.ycombinator.com/item?id=27407691\nPoints: 40\n# Comments: 13",
           "link": "https://pomax.github.io/three-point-perspective/",
           "publishedOn": "2021-06-05T19:04:36.000Z",
-          "wordCount": 3105,
+          "wordCount": 3119,
           "title": "Implementing strict three-point perspective"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27407603",
+          "author": "arthurmorgan",
+          "description": "Article URL: https://lock.cmpxchg8b.com/passmgrs.html\nComments URL: https://news.ycombinator.com/item?id=27407603\nPoints: 48\n# Comments: 16",
+          "link": "https://lock.cmpxchg8b.com/passmgrs.html",
+          "publishedOn": "2021-06-05T18:52:23.000Z",
+          "wordCount": 1691,
+          "title": "Password Managers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27407268",
+          "author": "miguelraz",
+          "description": "Article URL: https://miguelraz.github.io/blog/juliatorust/\nComments URL: https://news.ycombinator.com/item?id=27407268\nPoints: 15\n# Comments: 0",
+          "link": "https://miguelraz.github.io/blog/juliatorust/",
+          "publishedOn": "2021-06-05T18:05:47.000Z",
+          "wordCount": 4848,
+          "title": "From Julia to Rust"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27407264",
           "author": "bradley_taunt",
-          "description": "Article URL: https://et-jekyll.netlify.app/\nComments URL: https://news.ycombinator.com/item?id=27407264\nPoints: 43\n# Comments: 5",
+          "description": "Article URL: https://et-jekyll.netlify.app/\nComments URL: https://news.ycombinator.com/item?id=27407264\nPoints: 63\n# Comments: 10",
           "link": "https://et-jekyll.netlify.app/",
           "publishedOn": "2021-06-05T18:05:09.000Z",
           "wordCount": 91,
@@ -26,7 +62,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27407086",
           "author": "planetis",
-          "description": "Article URL: https://github.com/planetis-m/libfuzzer\nComments URL: https://news.ycombinator.com/item?id=27407086\nPoints: 40\n# Comments: 2",
+          "description": "Article URL: https://github.com/planetis-m/libfuzzer\nComments URL: https://news.ycombinator.com/item?id=27407086\nPoints: 44\n# Comments: 2",
           "link": "https://github.com/planetis-m/libfuzzer",
           "publishedOn": "2021-06-05T17:44:10.000Z",
           "wordCount": 869,
@@ -35,25 +71,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27406888",
           "author": "aleks224",
-          "description": "Article URL: https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html\nComments URL: https://news.ycombinator.com/item?id=27406888\nPoints: 55\n# Comments: 11",
+          "description": "Article URL: https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html\nComments URL: https://news.ycombinator.com/item?id=27406888\nPoints: 71\n# Comments: 20",
           "link": "https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html",
           "publishedOn": "2021-06-05T17:22:29.000Z",
           "wordCount": 1839,
           "title": "How I Learned Symmetric-Key Cryptanalysis"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27406680",
-          "author": "sangwen",
-          "description": "Article URL: https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567\nComments URL: https://news.ycombinator.com/item?id=27406680\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567",
-          "publishedOn": "2021-06-05T17:01:07.000Z",
-          "wordCount": 505,
-          "title": "Smarking (YC W15) Is Hiring a Head of Engineering to Digitize Parking"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27406589",
           "author": "wdb",
-          "description": "Article URL: https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql\nComments URL: https://news.ycombinator.com/item?id=27406589\nPoints: 47\n# Comments: 13",
+          "description": "Article URL: https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql\nComments URL: https://news.ycombinator.com/item?id=27406589\nPoints: 49\n# Comments: 17",
           "link": "https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql",
           "publishedOn": "2021-06-05T16:49:48.000Z",
           "wordCount": 665,
@@ -62,34 +89,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27406243",
           "author": "chetangoti",
-          "description": "Article URL: https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/\nComments URL: https://news.ycombinator.com/item?id=27406243\nPoints: 139\n# Comments: 45",
+          "description": "Article URL: https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/\nComments URL: https://news.ycombinator.com/item?id=27406243\nPoints: 159\n# Comments: 52",
           "link": "https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/",
           "publishedOn": "2021-06-05T16:13:15.000Z",
-          "wordCount": 1737,
+          "wordCount": 1682,
           "title": "All controversial trades by Senators in the 2020 Congressional insider trading"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27406132",
           "author": "x14km2d",
-          "description": "Article URL: https://danluu.com/web-bloat/\nComments URL: https://news.ycombinator.com/item?id=27406132\nPoints: 127\n# Comments: 76",
+          "description": "Article URL: https://danluu.com/web-bloat/\nComments URL: https://news.ycombinator.com/item?id=27406132\nPoints: 144\n# Comments: 94",
           "link": "https://danluu.com/web-bloat/",
           "publishedOn": "2021-06-05T16:01:44.000Z",
           "wordCount": 4346,
           "title": "The modern web on a slow connection (2017)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27405764",
-          "author": "voisin",
-          "description": "Article URL: https://nationalpost.com/news/canada/ancient-indigenous-forest-gardens-still-yield-bounty-150-years-later-study\nComments URL: https://news.ycombinator.com/item?id=27405764\nPoints: 71\n# Comments: 14",
-          "link": "https://nationalpost.com/news/canada/ancient-indigenous-forest-gardens-still-yield-bounty-150-years-later-study",
-          "publishedOn": "2021-06-05T15:18:44.000Z",
-          "wordCount": 1598,
-          "title": "Ancient Indigenous forest gardens still yield bounty 150 years later"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27405597",
           "author": "rch",
-          "description": "Article URL: https://www.pnas.org/content/118/23/e2023202118\nComments URL: https://news.ycombinator.com/item?id=27405597\nPoints: 110\n# Comments: 6",
+          "description": "Article URL: https://www.pnas.org/content/118/23/e2023202118\nComments URL: https://news.ycombinator.com/item?id=27405597\nPoints: 119\n# Comments: 7",
           "link": "https://www.pnas.org/content/118/23/e2023202118",
           "publishedOn": "2021-06-05T14:58:28.000Z",
           "wordCount": 9686,
@@ -98,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27405450",
           "author": "rfreytag",
-          "description": "Article URL: https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html\nComments URL: https://news.ycombinator.com/item?id=27405450\nPoints: 117\n# Comments: 38",
+          "description": "Article URL: https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html\nComments URL: https://news.ycombinator.com/item?id=27405450\nPoints: 122\n# Comments: 40",
           "link": "https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html",
           "publishedOn": "2021-06-05T14:40:52.000Z",
           "wordCount": 1836,
@@ -107,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27405395",
           "author": "belter",
-          "description": "Article URL: https://www.zero2prod.com/\nComments URL: https://news.ycombinator.com/item?id=27405395\nPoints: 217\n# Comments: 152",
+          "description": "Article URL: https://www.zero2prod.com/\nComments URL: https://news.ycombinator.com/item?id=27405395\nPoints: 227\n# Comments: 169",
           "link": "https://www.zero2prod.com/",
           "publishedOn": "2021-06-05T14:35:27.000Z",
           "wordCount": 1200,
@@ -116,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27404442",
           "author": "ystad",
-          "description": "Article URL: https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet\nComments URL: https://news.ycombinator.com/item?id=27404442\nPoints: 191\n# Comments: 36",
+          "description": "Article URL: https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet\nComments URL: https://news.ycombinator.com/item?id=27404442\nPoints: 203\n# Comments: 41",
           "link": "https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet",
           "publishedOn": "2021-06-05T12:41:22.000Z",
           "wordCount": 2407,
@@ -125,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27404301",
           "author": "bpierre",
-          "description": "Article URL: https://github.com/google/iconvg\nComments URL: https://news.ycombinator.com/item?id=27404301\nPoints: 97\n# Comments: 44",
+          "description": "Article URL: https://github.com/google/iconvg\nComments URL: https://news.ycombinator.com/item?id=27404301\nPoints: 98\n# Comments: 47",
           "link": "https://github.com/google/iconvg",
           "publishedOn": "2021-06-05T12:21:57.000Z",
           "wordCount": 915,
@@ -134,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27404228",
           "author": "theindianappguy",
-          "description": "Article URL: https://blurweb.app\nComments URL: https://news.ycombinator.com/item?id=27404228\nPoints: 42\n# Comments: 16",
+          "description": "Article URL: https://blurweb.app\nComments URL: https://news.ycombinator.com/item?id=27404228\nPoints: 47\n# Comments: 19",
           "link": "https://blurweb.app",
           "publishedOn": "2021-06-05T12:10:24.000Z",
           "wordCount": 1661,
@@ -143,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27404196",
           "author": "detaro",
-          "description": "Article URL: https://github.com/midiblocks/handsfree\nComments URL: https://news.ycombinator.com/item?id=27404196\nPoints: 111\n# Comments: 10",
+          "description": "Article URL: https://github.com/midiblocks/handsfree\nComments URL: https://news.ycombinator.com/item?id=27404196\nPoints: 123\n# Comments: 12",
           "link": "https://github.com/midiblocks/handsfree",
           "publishedOn": "2021-06-05T12:04:40.000Z",
           "wordCount": 2084,
@@ -152,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27404103",
           "author": "diplodocusaur",
-          "description": "Article URL: https://gexijin.github.io/learnR/index.html\nComments URL: https://news.ycombinator.com/item?id=27404103\nPoints: 121\n# Comments: 55",
+          "description": "Article URL: https://gexijin.github.io/learnR/index.html\nComments URL: https://news.ycombinator.com/item?id=27404103\nPoints: 126\n# Comments: 56",
           "link": "https://gexijin.github.io/learnR/index.html",
           "publishedOn": "2021-06-05T11:43:05.000Z",
           "wordCount": 1001,
@@ -161,29 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27404018",
           "author": "ddek",
-          "description": "Article URL: https://www.bbc.co.uk/news/world-57368247\nComments URL: https://news.ycombinator.com/item?id=27404018\nPoints: 702\n# Comments: 625",
+          "description": "Article URL: https://www.bbc.co.uk/news/world-57368247\nComments URL: https://news.ycombinator.com/item?id=27404018\nPoints: 745\n# Comments: 670",
           "link": "https://www.bbc.co.uk/news/world-57368247",
           "publishedOn": "2021-06-05T11:24:19.000Z",
           "wordCount": 1741,
           "title": "The G7 has reached a deal on taxing multinational companies"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27404017",
-          "author": "Black101",
-          "description": "Article URL: https://appleinsider.com/articles/21/06/04/apple-mozilla-google-microsoft-form-group-to-standardize-browser-plug-ins\nComments URL: https://news.ycombinator.com/item?id=27404017\nPoints: 355\n# Comments: 127",
-          "link": "https://appleinsider.com/articles/21/06/04/apple-mozilla-google-microsoft-form-group-to-standardize-browser-plug-ins",
-          "publishedOn": "2021-06-05T11:24:05.000Z",
-          "wordCount": 2096,
-          "title": "Apple, Mozilla, Google, Microsoft form group to standardize browser plug-ins"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27403877",
-          "author": "ingve",
-          "description": "Article URL: https://github.com/ArthurSonzogni/FTXUI\nComments URL: https://news.ycombinator.com/item?id=27403877\nPoints: 118\n# Comments: 52",
-          "link": "https://github.com/ArthurSonzogni/FTXUI",
-          "publishedOn": "2021-06-05T10:50:03.000Z",
-          "wordCount": 716,
-          "title": "Ftxui: C++ Functional Terminal User Interface"
         }
       ]
     },
@@ -335,7 +335,7 @@
           "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
           "publishedOn": "2021-06-04T20:36:46.000Z",
-          "wordCount": 1039,
+          "wordCount": 1031,
           "title": "Principles for user-centered front-end development"
         },
         {
@@ -477,7 +477,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4133,
+          "wordCount": 4138,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -491,7 +491,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3504,
+          "wordCount": 3501,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -575,7 +575,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10220,
+          "wordCount": 10212,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -589,7 +589,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3747,
+          "wordCount": 3738,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -631,7 +631,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2079,
+          "wordCount": 2124,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -673,7 +673,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9441,
+          "wordCount": 9394,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -701,7 +701,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1964,
+          "wordCount": 1966,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -757,7 +757,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2951,
+          "wordCount": 2943,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -771,7 +771,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2435,
+          "wordCount": 2430,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -841,7 +841,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
+          "wordCount": 6357,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -855,7 +855,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4169,
+          "wordCount": 4127,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
