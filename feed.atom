@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T22:22:45.714Z</updated>
+    <updated>2021-06-05T23:25:18.183Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,21 +13,34 @@
         <updated>2021-06-05T21:43:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html
 Comments URL: https://news.ycombinator.com/item?id=27408683
-Points: 9
-# Comments: 2]]></summary>
+Points: 70
+# Comments: 43]]></summary>
         <author>
             <name>ncpa-cpl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FBI withdraws USA TODAY subpoena seeking reader identity]]></title>
+        <title type="html"><![CDATA[Trans-Pacific Cable Chaos, Shifting Asian Hubs]]></title>
+        <id>https://news.ycombinator.com/item?id=27408679</id>
+        <link href="https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status"/>
+        <updated>2021-06-05T21:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status
+Comments URL: https://news.ycombinator.com/item?id=27408679
+Points: 4
+# Comments: 1]]></summary>
+        <author>
+            <name>walterbell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justice Department withdraws FBI subpoena for USA Today records ID'ing readers]]></title>
         <id>https://news.ycombinator.com/item?id=27408647</id>
         <link href="https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/"/>
         <updated>2021-06-05T21:37:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/
 Comments URL: https://news.ycombinator.com/item?id=27408647
-Points: 5
-# Comments: 1]]></summary>
+Points: 72
+# Comments: 31]]></summary>
         <author>
             <name>prostoalex</name>
         </author>
@@ -52,8 +65,8 @@ Points: 1
         <updated>2021-06-05T20:56:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/04/google_chip_flaws/
 Comments URL: https://news.ycombinator.com/item?id=27408398
-Points: 27
-# Comments: 2]]></summary>
+Points: 35
+# Comments: 5]]></summary>
         <author>
             <name>pasttense01</name>
         </author>
@@ -65,8 +78,8 @@ Points: 27
         <updated>2021-06-05T20:44:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ekzhang/rustpad
 Comments URL: https://news.ycombinator.com/item?id=27408326
-Points: 57
-# Comments: 8]]></summary>
+Points: 65
+# Comments: 11]]></summary>
         <author>
             <name>ekzhang</name>
         </author>
@@ -80,8 +93,8 @@ Points: 57
 What books have you read or want to recommend to enhance these skills?
 Any specific book that changed how you articulate your ideas and thoughts?
 Comments URL: https://news.ycombinator.com/item?id=27408120
-Points: 35
-# Comments: 12]]></summary>
+Points: 50
+# Comments: 20]]></summary>
         <author>
             <name>2bor-2n</name>
         </author>
@@ -93,8 +106,8 @@ Points: 35
         <updated>2021-06-05T19:04:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pomax.github.io/three-point-perspective/
 Comments URL: https://news.ycombinator.com/item?id=27407691
-Points: 62
-# Comments: 23]]></summary>
+Points: 76
+# Comments: 33]]></summary>
         <author>
             <name>TheRealPomax</name>
         </author>
@@ -106,8 +119,8 @@ Points: 62
         <updated>2021-06-05T18:52:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lock.cmpxchg8b.com/passmgrs.html
 Comments URL: https://news.ycombinator.com/item?id=27407603
-Points: 117
-# Comments: 62]]></summary>
+Points: 150
+# Comments: 100]]></summary>
         <author>
             <name>arthurmorgan</name>
         </author>
@@ -119,20 +132,20 @@ Points: 117
         <updated>2021-06-05T18:05:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://miguelraz.github.io/blog/juliatorust/
 Comments URL: https://news.ycombinator.com/item?id=27407268
-Points: 45
-# Comments: 4]]></summary>
+Points: 66
+# Comments: 14]]></summary>
         <author>
             <name>miguelraz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ET-Jekyll: Edward Tufte Inspired Jekyll Theme]]></title>
+        <title type="html"><![CDATA[ET-Jekyll: Edward Tufte-inspired Jekyll theme]]></title>
         <id>https://news.ycombinator.com/item?id=27407264</id>
         <link href="https://et-jekyll.netlify.app/"/>
         <updated>2021-06-05T18:05:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://et-jekyll.netlify.app/
 Comments URL: https://news.ycombinator.com/item?id=27407264
-Points: 73
+Points: 82
 # Comments: 16]]></summary>
         <author>
             <name>bradley_taunt</name>
@@ -145,7 +158,7 @@ Points: 73
         <updated>2021-06-05T17:44:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/planetis-m/libfuzzer
 Comments URL: https://news.ycombinator.com/item?id=27407086
-Points: 48
+Points: 51
 # Comments: 2]]></summary>
         <author>
             <name>planetis</name>
@@ -158,7 +171,7 @@ Points: 48
         <updated>2021-06-05T17:22:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html
 Comments URL: https://news.ycombinator.com/item?id=27406888
-Points: 90
+Points: 103
 # Comments: 21]]></summary>
         <author>
             <name>aleks224</name>
@@ -171,8 +184,8 @@ Points: 90
         <updated>2021-06-05T16:49:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql
 Comments URL: https://news.ycombinator.com/item?id=27406589
-Points: 54
-# Comments: 21]]></summary>
+Points: 57
+# Comments: 27]]></summary>
         <author>
             <name>wdb</name>
         </author>
@@ -184,7 +197,7 @@ Points: 54
         <updated>2021-06-05T16:13:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/
 Comments URL: https://news.ycombinator.com/item?id=27406243
-Points: 172
+Points: 187
 # Comments: 60]]></summary>
         <author>
             <name>chetangoti</name>
@@ -197,10 +210,23 @@ Points: 172
         <updated>2021-06-05T16:01:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://danluu.com/web-bloat/
 Comments URL: https://news.ycombinator.com/item?id=27406132
-Points: 159
-# Comments: 103]]></summary>
+Points: 169
+# Comments: 108]]></summary>
         <author>
             <name>x14km2d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for Interviewing over Zoom]]></title>
+        <id>https://news.ycombinator.com/item?id=27405951</id>
+        <link href="https://dev.jimgrey.net/2021/06/03/nine-tips-for-interviewing-over-zoom/"/>
+        <updated>2021-06-05T15:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dev.jimgrey.net/2021/06/03/nine-tips-for-interviewing-over-zoom/
+Comments URL: https://news.ycombinator.com/item?id=27405951
+Points: 45
+# Comments: 59]]></summary>
+        <author>
+            <name>mooreds</name>
         </author>
     </entry>
     <entry>
@@ -210,7 +236,7 @@ Points: 159
         <updated>2021-06-05T14:58:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pnas.org/content/118/23/e2023202118
 Comments URL: https://news.ycombinator.com/item?id=27405597
-Points: 130
+Points: 133
 # Comments: 8]]></summary>
         <author>
             <name>rch</name>
@@ -223,8 +249,8 @@ Points: 130
         <updated>2021-06-05T14:40:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html
 Comments URL: https://news.ycombinator.com/item?id=27405450
-Points: 131
-# Comments: 41]]></summary>
+Points: 135
+# Comments: 43]]></summary>
         <author>
             <name>rfreytag</name>
         </author>
@@ -236,36 +262,10 @@ Points: 131
         <updated>2021-06-05T12:21:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/google/iconvg
 Comments URL: https://news.ycombinator.com/item?id=27404301
-Points: 101
-# Comments: 49]]></summary>
+Points: 105
+# Comments: 52]]></summary>
         <author>
             <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Secure sensitive info while recording videos live or screen sharing]]></title>
-        <id>https://news.ycombinator.com/item?id=27404228</id>
-        <link href="https://blurweb.app"/>
-        <updated>2021-06-05T12:10:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blurweb.app
-Comments URL: https://news.ycombinator.com/item?id=27404228
-Points: 53
-# Comments: 20]]></summary>
-        <author>
-            <name>theindianappguy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handsfree.js – integrate face, hand, and/or pose tracking to front end projects]]></title>
-        <id>https://news.ycombinator.com/item?id=27404196</id>
-        <link href="https://github.com/midiblocks/handsfree"/>
-        <updated>2021-06-05T12:04:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/midiblocks/handsfree
-Comments URL: https://news.ycombinator.com/item?id=27404196
-Points: 134
-# Comments: 20]]></summary>
-        <author>
-            <name>detaro</name>
         </author>
     </entry>
     <entry>
