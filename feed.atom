@@ -2,21 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T15:21:32.309Z</updated>
+    <updated>2021-06-06T16:46:46.859Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Judge Rules Star Wars The Last Jedi, Rise of Skywalker Are Mediocre and Schlocky]]></title>
-        <id>https://news.ycombinator.com/item?id=27413592</id>
-        <link href="https://movieweb.com/star-wars-judge-ruling-mediocre-schlocky/"/>
-        <updated>2021-06-06T14:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://movieweb.com/star-wars-judge-ruling-mediocre-schlocky/
-Comments URL: https://news.ycombinator.com/item?id=27413592
-Points: 5
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[In Praise of Open Source Textbooks]]></title>
+        <id>https://news.ycombinator.com/item?id=27414145</id>
+        <link href="https://news.ycombinator.com/item?id=27414145"/>
+        <updated>2021-06-06T16:19:57.000Z</updated>
+        <summary type="html"><![CDATA[I have recently been using the Linear Algebra book by Jim Hefferon to study the subject. This is because I'm taking a linear algebra course in college, I am visually impaired, and the books I get from college are literally unusable.
+As a person who has to use a Screen Reader, math in PDFs is almost impossible to read for me. The problem is almost insurmountable if the PDF is a collection of images, but even if it is a LaTeX-generated PDF, reading anything but the simplest of equations is very, very hard. In these cases, having the LaTeX source to read is a godsend.
+To the authors who publish the source of their books: thank you, thank you. I cannot express how grateful I am. To anyone who is related to /working in the publisher space: it would be incredibly useful if there was a process to get the LaTeX source of books upon request, although I understand how copyrights/etc might make this difficult.
+Some other books I would like to point out for being open source: Apex Calculus, Open Data Structures.
+Comments URL: https://news.ycombinator.com/item?id=27414145
+Points: 8
+# Comments: 2]]></summary>
         <author>
-            <name>ricc</name>
+            <name>lightveil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s tightly controlled App Store is teeming with scams]]></title>
+        <id>https://news.ycombinator.com/item?id=27413934</id>
+        <link href="https://www.washingtonpost.com/technology/2021/06/06/apple-app-store-scams-fraud/"/>
+        <updated>2021-06-06T15:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/technology/2021/06/06/apple-app-store-scams-fraud/
+Comments URL: https://news.ycombinator.com/item?id=27413934
+Points: 46
+# Comments: 19]]></summary>
+        <author>
+            <name>amaBasics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s Kate Crawford: ‘AI is neither artificial nor intelligent’]]></title>
+        <id>https://news.ycombinator.com/item?id=27413706</id>
+        <link href="https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent"/>
+        <updated>2021-06-06T15:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent
+Comments URL: https://news.ycombinator.com/item?id=27413706
+Points: 42
+# Comments: 12]]></summary>
+        <author>
+            <name>9wzYQbTYsAIc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Publications – LaTeX Style – HTML View]]></title>
+        <id>https://news.ycombinator.com/item?id=27413665</id>
+        <link href="https://goessner.github.io/mdmath/publication.html"/>
+        <updated>2021-06-06T15:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://goessner.github.io/mdmath/publication.html
+Comments URL: https://news.ycombinator.com/item?id=27413665
+Points: 30
+# Comments: 5]]></summary>
+        <author>
+            <name>fango</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +68,8 @@ Points: 5
         <updated>2021-06-06T13:42:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/stateright/stateright
 Comments URL: https://news.ycombinator.com/item?id=27413084
-Points: 29
-# Comments: 0]]></summary>
+Points: 54
+# Comments: 4]]></summary>
         <author>
             <name>yagizdegirmenci</name>
         </author>
@@ -39,8 +81,8 @@ Points: 29
         <updated>2021-06-06T12:47:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Merkle_tree
 Comments URL: https://news.ycombinator.com/item?id=27412782
-Points: 23
-# Comments: 0]]></summary>
+Points: 39
+# Comments: 4]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -52,8 +94,8 @@ Points: 23
         <updated>2021-06-06T12:39:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thesystemsthinker.com/a-lifetime-of-systems-thinking/
 Comments URL: https://news.ycombinator.com/item?id=27412750
-Points: 25
-# Comments: 0]]></summary>
+Points: 79
+# Comments: 11]]></summary>
         <author>
             <name>gorm</name>
         </author>
@@ -65,10 +107,23 @@ Points: 25
         <updated>2021-06-06T12:28:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://usa.oceana.org/publications/reports/oceana-finds-hundreds-vessels-vanishing-along-argentinas-waters#
 Comments URL: https://news.ycombinator.com/item?id=27412691
-Points: 228
-# Comments: 86]]></summary>
+Points: 390
+# Comments: 152]]></summary>
         <author>
             <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Norvig: Singularity is in the eye of the beholder]]></title>
+        <id>https://news.ycombinator.com/item?id=27412629</id>
+        <link href="https://wandb.ai/wandb_fc/gradient-dissent/reports/Peter-Norvig-Google-s-Director-of-Research-Singularity-is-in-the-eye-of-the-beholder--Vmlldzo2MTYwNjk?galleryTag=gradient-dissent"/>
+        <updated>2021-06-06T12:16:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wandb.ai/wandb_fc/gradient-dissent/reports/Peter-Norvig-Google-s-Director-of-Research-Singularity-is-in-the-eye-of-the-beholder--Vmlldzo2MTYwNjk?galleryTag=gradient-dissent
+Comments URL: https://news.ycombinator.com/item?id=27412629
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>astdb</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +133,8 @@ Points: 228
         <updated>2021-06-06T12:06:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://theconversation.com/sick-of-dangerous-city-traffic-remove-left-turns-161397
 Comments URL: https://news.ycombinator.com/item?id=27412587
-Points: 55
-# Comments: 41]]></summary>
+Points: 89
+# Comments: 79]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -104,8 +159,8 @@ Points: 1
         <updated>2021-06-06T11:42:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://prestigemad.com
 Comments URL: https://news.ycombinator.com/item?id=27412445
-Points: 38
-# Comments: 18]]></summary>
+Points: 58
+# Comments: 25]]></summary>
         <author>
             <name>sharat87</name>
         </author>
@@ -117,8 +172,8 @@ Points: 38
         <updated>2021-06-06T10:33:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://erikhoel.substack.com/p/publish-and-perish
 Comments URL: https://news.ycombinator.com/item?id=27412122
-Points: 175
-# Comments: 59]]></summary>
+Points: 221
+# Comments: 104]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -130,8 +185,8 @@ Points: 175
         <updated>2021-06-06T09:48:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://metarationality.com/bongard-meta-rationality
 Comments URL: https://news.ycombinator.com/item?id=27411960
-Points: 78
-# Comments: 47]]></summary>
+Points: 100
+# Comments: 58]]></summary>
         <author>
             <name>alboaie</name>
         </author>
@@ -143,8 +198,8 @@ Points: 78
         <updated>2021-06-06T09:41:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/commentisfree/2021/jun/03/gp-nhs-digital-data-patients-records-england
 Comments URL: https://news.ycombinator.com/item?id=27411929
-Points: 117
-# Comments: 48]]></summary>
+Points: 147
+# Comments: 61]]></summary>
         <author>
             <name>Symbiote</name>
         </author>
@@ -156,8 +211,8 @@ Points: 117
         <updated>2021-06-06T09:39:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dolphin-emu.org/blog/2021/06/06/dolphin-progress-report-april-and-may-2021/
 Comments URL: https://news.ycombinator.com/item?id=27411922
-Points: 117
-# Comments: 23]]></summary>
+Points: 145
+# Comments: 30]]></summary>
         <author>
             <name>Parseus</name>
         </author>
@@ -169,23 +224,10 @@ Points: 117
         <updated>2021-06-06T08:20:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.mining.com/scientists-develop-cheap-and-easy-method-to-extract-lithium-from-seawater/
 Comments URL: https://news.ycombinator.com/item?id=27411631
-Points: 280
-# Comments: 132]]></summary>
+Points: 322
+# Comments: 142]]></summary>
         <author>
             <name>sambeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is uncoupled documentation bad?]]></title>
-        <id>https://news.ycombinator.com/item?id=27411574</id>
-        <link href="https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/"/>
-        <updated>2021-06-06T08:06:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/
-Comments URL: https://news.ycombinator.com/item?id=27411574
-Points: 55
-# Comments: 37]]></summary>
-        <author>
-            <name>morchen</name>
         </author>
     </entry>
     <entry>
@@ -195,8 +237,8 @@ Points: 55
         <updated>2021-06-06T06:45:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://norvig.com/21-days.html
 Comments URL: https://news.ycombinator.com/item?id=27411276
-Points: 164
-# Comments: 76]]></summary>
+Points: 192
+# Comments: 84]]></summary>
         <author>
             <name>MindGods</name>
         </author>
@@ -208,8 +250,8 @@ Points: 164
         <updated>2021-06-06T06:22:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://onlinelibrary.wiley.com/doi/10.1002/bies.202100041
 Comments URL: https://news.ycombinator.com/item?id=27411182
-Points: 107
-# Comments: 34]]></summary>
+Points: 114
+# Comments: 40]]></summary>
         <author>
             <name>XzetaU8</name>
         </author>
@@ -221,49 +263,10 @@ Points: 107
         <updated>2021-06-06T05:56:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://loup-vaillant.fr/articles/deaths-of-oop
 Comments URL: https://news.ycombinator.com/item?id=27411106
-Points: 77
-# Comments: 76]]></summary>
+Points: 95
+# Comments: 95]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[City roads – This website renders every single road within a city]]></title>
-        <id>https://news.ycombinator.com/item?id=27410317</id>
-        <link href="https://anvaka.github.io/city-roads/"/>
-        <updated>2021-06-06T02:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://anvaka.github.io/city-roads/
-Comments URL: https://news.ycombinator.com/item?id=27410317
-Points: 104
-# Comments: 28]]></summary>
-        <author>
-            <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OS X/Hydromac: New Mac adware, leaked from a flashcards app]]></title>
-        <id>https://news.ycombinator.com/item?id=27410149</id>
-        <link href="https://objective-see.com/blog/blog_0x65.html"/>
-        <updated>2021-06-06T02:16:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://objective-see.com/blog/blog_0x65.html
-Comments URL: https://news.ycombinator.com/item?id=27410149
-Points: 76
-# Comments: 8]]></summary>
-        <author>
-            <name>iscmt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Submarine Cable Map 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27410133</id>
-        <link href="https://submarine-cable-map-2021.telegeography.com/"/>
-        <updated>2021-06-06T02:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://submarine-cable-map-2021.telegeography.com/
-Comments URL: https://news.ycombinator.com/item?id=27410133
-Points: 159
-# Comments: 66]]></summary>
-        <author>
-            <name>jonbaer</name>
         </author>
     </entry>
     <entry>
