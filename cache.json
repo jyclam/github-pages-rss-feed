@@ -6,18 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27419237",
+          "author": "sidcool",
+          "description": "Article URL: https://engineering.soroco.com/abstract-syntax-tree-for-patching-code-and-assessing-code-quality/\nComments URL: https://news.ycombinator.com/item?id=27419237\nPoints: 33\n# Comments: 10",
+          "link": "https://engineering.soroco.com/abstract-syntax-tree-for-patching-code-and-assessing-code-quality/",
+          "publishedOn": "2021-06-07T05:19:08.000Z",
+          "wordCount": 2561,
+          "title": "Our Engineering Team Used Python's AST to Patch 100,000s of Lines of Code"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27419213",
+          "author": "pajtai",
+          "description": "Article URL: https://www.merriam-webster.com/words-at-play/on-biweekly-and-bimonthly\nComments URL: https://news.ycombinator.com/item?id=27419213\nPoints: 81\n# Comments: 76",
+          "link": "https://www.merriam-webster.com/words-at-play/on-biweekly-and-bimonthly",
+          "publishedOn": "2021-06-07T05:14:45.000Z",
+          "wordCount": 1064,
+          "title": "On 'Biweekly' and 'Bimonthly'"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27419072",
           "author": "userbinator",
-          "description": "Article URL: https://en.wikipedia.org/wiki/ST3000DM001\nComments URL: https://news.ycombinator.com/item?id=27419072\nPoints: 31\n# Comments: 12",
+          "description": "Article URL: https://en.wikipedia.org/wiki/ST3000DM001\nComments URL: https://news.ycombinator.com/item?id=27419072\nPoints: 90\n# Comments: 68",
           "link": "https://en.wikipedia.org/wiki/ST3000DM001",
           "publishedOn": "2021-06-07T04:43:45.000Z",
-          "wordCount": 1162,
+          "wordCount": 1170,
           "title": "ST3000DM001"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27418577",
           "author": "cercatrova",
-          "description": "Article URL: https://justsimply.dev\nComments URL: https://news.ycombinator.com/item?id=27418577\nPoints: 97\n# Comments: 52",
+          "description": "Article URL: https://justsimply.dev\nComments URL: https://news.ycombinator.com/item?id=27418577\nPoints: 137\n# Comments: 84",
           "link": "https://justsimply.dev",
           "publishedOn": "2021-06-07T03:04:06.000Z",
           "wordCount": 625,
@@ -26,34 +44,34 @@
         {
           "id": "https://news.ycombinator.com/item?id=27418296",
           "author": "pcr910303",
-          "description": "Article URL: https://www.hillelwayne.com/post/cleverness/\nComments URL: https://news.ycombinator.com/item?id=27418296\nPoints: 25\n# Comments: 6",
+          "description": "Article URL: https://www.hillelwayne.com/post/cleverness/\nComments URL: https://news.ycombinator.com/item?id=27418296\nPoints: 55\n# Comments: 23",
           "link": "https://www.hillelwayne.com/post/cleverness/",
           "publishedOn": "2021-06-07T02:16:35.000Z",
           "wordCount": 1882,
           "title": "Clever vs. Insightful Code"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27418286",
-          "author": "brightly-salty",
-          "description": "Article URL: https://github.com/brightly-salty/mlatu\nComments URL: https://news.ycombinator.com/item?id=27418286\nPoints: 11\n# Comments: 8",
-          "link": "https://github.com/brightly-salty/mlatu",
-          "publishedOn": "2021-06-07T02:14:37.000Z",
-          "wordCount": 1007,
-          "title": "Show HN: Mlatu, a Concatenative Programming Language"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27418179",
           "author": "asxd",
-          "description": "Article URL: https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117\nComments URL: https://news.ycombinator.com/item?id=27418179\nPoints: 14\n# Comments: 5",
+          "description": "Article URL: https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117\nComments URL: https://news.ycombinator.com/item?id=27418179\nPoints: 22\n# Comments: 5",
           "link": "https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117",
           "publishedOn": "2021-06-07T01:57:52.000Z",
           "wordCount": 89,
           "title": "Capsule Challenges Vacuum Tube (1948)"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27418171",
+          "author": "tech234a",
+          "description": "Article URL: https://notepad-plus-plus.org/news/v8-dark-mode/\nComments URL: https://news.ycombinator.com/item?id=27418171\nPoints: 29\n# Comments: 8",
+          "link": "https://notepad-plus-plus.org/news/v8-dark-mode/",
+          "publishedOn": "2021-06-07T01:56:52.000Z",
+          "wordCount": 162,
+          "title": "The Dark Side of Notepad++: V8"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27417992",
           "author": "mooreds",
-          "description": "Article URL: http://www.paulgraham.com/identity.html\nComments URL: https://news.ycombinator.com/item?id=27417992\nPoints: 132\n# Comments: 130",
+          "description": "Article URL: http://www.paulgraham.com/identity.html\nComments URL: https://news.ycombinator.com/item?id=27417992\nPoints: 164\n# Comments: 144",
           "link": "http://www.paulgraham.com/identity.html",
           "publishedOn": "2021-06-07T01:19:14.000Z",
           "wordCount": 859,
@@ -62,16 +80,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27417576",
           "author": "pmoriarty",
-          "description": "Article URL: https://www.bbc.co.uk/news/world-us-canada-57341592\nComments URL: https://news.ycombinator.com/item?id=27417576\nPoints: 78\n# Comments: 22",
+          "description": "Article URL: https://www.bbc.co.uk/news/world-us-canada-57341592\nComments URL: https://news.ycombinator.com/item?id=27417576\nPoints: 100\n# Comments: 37",
           "link": "https://www.bbc.co.uk/news/world-us-canada-57341592",
           "publishedOn": "2021-06-07T00:12:33.000Z",
-          "wordCount": 2119,
+          "wordCount": 2110,
           "title": "Daniel Ellsberg: The 90-year-old whistleblower tempting prosecution"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27417425",
           "author": "ergodiclife",
-          "description": "Article URL: https://datarecipes.io/posts/brier_score/\nComments URL: https://news.ycombinator.com/item?id=27417425\nPoints: 31\n# Comments: 6",
+          "description": "Article URL: https://datarecipes.io/posts/brier_score/\nComments URL: https://news.ycombinator.com/item?id=27417425\nPoints: 38\n# Comments: 7",
           "link": "https://datarecipes.io/posts/brier_score/",
           "publishedOn": "2021-06-06T23:40:31.000Z",
           "wordCount": 730,
@@ -80,25 +98,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27417206",
           "author": "paulpauper",
-          "description": "Article URL: https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams\nComments URL: https://news.ycombinator.com/item?id=27417206\nPoints: 140\n# Comments: 50",
+          "description": "Article URL: https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams\nComments URL: https://news.ycombinator.com/item?id=27417206\nPoints: 163\n# Comments: 64",
           "link": "https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams",
           "publishedOn": "2021-06-06T23:08:30.000Z",
           "wordCount": 1310,
           "title": "The Dangers of Low Head Dams (2019)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27416849",
-          "author": "cwan",
-          "description": "Article URL: https://avc.com/2021/06/the-globalization-of-venture-capital-investing/\nComments URL: https://news.ycombinator.com/item?id=27416849\nPoints: 43\n# Comments: 17",
-          "link": "https://avc.com/2021/06/the-globalization-of-venture-capital-investing/",
-          "publishedOn": "2021-06-06T22:13:53.000Z",
-          "wordCount": 358,
-          "title": "The Globalization of Venture Capital Investing"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27416736",
           "author": "vikrum",
-          "description": "Article URL: https://www.goldfiglabs.com/guide/saas-cto-security-checklist/\nComments URL: https://news.ycombinator.com/item?id=27416736\nPoints: 238\n# Comments: 49",
+          "description": "Article URL: https://www.goldfiglabs.com/guide/saas-cto-security-checklist/\nComments URL: https://news.ycombinator.com/item?id=27416736\nPoints: 293\n# Comments: 56",
           "link": "https://www.goldfiglabs.com/guide/saas-cto-security-checklist/",
           "publishedOn": "2021-06-06T21:58:18.000Z",
           "wordCount": 4445,
@@ -107,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27416727",
           "author": "carlsborg",
-          "description": "Article URL: https://www.wired.com/story/malware-dna-hack/\nComments URL: https://news.ycombinator.com/item?id=27416727\nPoints: 44\n# Comments: 19",
+          "description": "Article URL: https://www.wired.com/story/malware-dna-hack/\nComments URL: https://news.ycombinator.com/item?id=27416727\nPoints: 46\n# Comments: 20",
           "link": "https://www.wired.com/story/malware-dna-hack/",
           "publishedOn": "2021-06-06T21:57:13.000Z",
           "wordCount": 1707,
@@ -116,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27416546",
           "author": "edward",
-          "description": "Article URL: https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa\nComments URL: https://news.ycombinator.com/item?id=27416546\nPoints: 74\n# Comments: 45",
+          "description": "Article URL: https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa\nComments URL: https://news.ycombinator.com/item?id=27416546\nPoints: 82\n# Comments: 46",
           "link": "https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa",
           "publishedOn": "2021-06-06T21:35:00.000Z",
           "wordCount": 1632,
@@ -125,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27416217",
           "author": "pgrote",
-          "description": "Article URL: https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823\nComments URL: https://news.ycombinator.com/item?id=27416217\nPoints: 201\n# Comments: 52",
+          "description": "Article URL: https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823\nComments URL: https://news.ycombinator.com/item?id=27416217\nPoints: 227\n# Comments: 64",
           "link": "https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823",
           "publishedOn": "2021-06-06T20:51:51.000Z",
           "wordCount": 922,
@@ -134,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27415776",
           "author": "jaredwiener",
-          "description": "Article URL: https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find\nComments URL: https://news.ycombinator.com/item?id=27415776\nPoints: 102\n# Comments: 319",
+          "description": "Article URL: https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find\nComments URL: https://news.ycombinator.com/item?id=27415776\nPoints: 120\n# Comments: 387",
           "link": "https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find",
           "publishedOn": "2021-06-06T19:54:08.000Z",
           "wordCount": 960,
@@ -143,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27415725",
           "author": "jgrahamc",
-          "description": "Article URL: https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment\nComments URL: https://news.ycombinator.com/item?id=27415725\nPoints: 142\n# Comments: 75",
+          "description": "Article URL: https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment\nComments URL: https://news.ycombinator.com/item?id=27415725\nPoints: 164\n# Comments: 90",
           "link": "https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment",
           "publishedOn": "2021-06-06T19:46:41.000Z",
           "wordCount": 15,
@@ -152,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27415537",
           "author": "nkcmr",
-          "description": "Article URL: https://major.io/2021/06/06/a-new-future-for-icanhazip/\nComments URL: https://news.ycombinator.com/item?id=27415537\nPoints: 731\n# Comments: 213",
+          "description": "Article URL: https://major.io/2021/06/06/a-new-future-for-icanhazip/\nComments URL: https://news.ycombinator.com/item?id=27415537\nPoints: 793\n# Comments: 222",
           "link": "https://major.io/2021/06/06/a-new-future-for-icanhazip/",
           "publishedOn": "2021-06-06T19:21:43.000Z",
           "wordCount": 1531,
@@ -161,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27415089",
           "author": "thunderbong",
-          "description": "Article URL: https://mastershot.app\nComments URL: https://news.ycombinator.com/item?id=27415089\nPoints: 159\n# Comments: 44",
+          "description": "Article URL: https://mastershot.app\nComments URL: https://news.ycombinator.com/item?id=27415089\nPoints: 174\n# Comments: 55",
           "link": "https://mastershot.app",
           "publishedOn": "2021-06-06T18:23:43.000Z",
           "wordCount": 10,
@@ -170,20 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27415070",
           "author": "jayp1418",
-          "description": "Article URL: https://washbear.neocities.org/freebsd-netbsd-user.html\nComments URL: https://news.ycombinator.com/item?id=27415070\nPoints: 149\n# Comments: 52",
+          "description": "Article URL: https://washbear.neocities.org/freebsd-netbsd-user.html\nComments URL: https://news.ycombinator.com/item?id=27415070\nPoints: 155\n# Comments: 53",
           "link": "https://washbear.neocities.org/freebsd-netbsd-user.html",
           "publishedOn": "2021-06-06T18:21:11.000Z",
           "wordCount": 1490,
           "title": "FreeBSD from a NetBSD developer’s perspective"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27414470",
-          "author": "yiggydyang",
-          "description": "Article URL: https://www.ycombinator.com/companies/pocketsuite\nComments URL: https://news.ycombinator.com/item?id=27414470\nPoints: 1\n# Comments: 0",
-          "link": "https://www.ycombinator.com/companies/pocketsuite",
-          "publishedOn": "2021-06-06T17:00:36.000Z",
-          "wordCount": 166,
-          "title": "PocketSuite Is hiring Lead Engineers, Product Designers to enrich small business"
         }
       ]
     },
@@ -468,7 +468,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4136,
+          "wordCount": 4128,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -482,7 +482,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3498,
+          "wordCount": 3504,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -510,7 +510,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5389,
+          "wordCount": 5379,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -552,7 +552,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2445,
+          "wordCount": 2492,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -566,7 +566,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10175,
+          "wordCount": 10226,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -580,7 +580,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3733,
+          "wordCount": 3735,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -622,7 +622,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2116,
+          "wordCount": 2118,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -664,7 +664,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9436,
+          "wordCount": 9441,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -692,7 +692,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1919,
+          "wordCount": 1964,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -762,7 +762,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2430,
+          "wordCount": 2432,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -832,7 +832,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
+          "wordCount": 6355,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",

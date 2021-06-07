@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T05:35:02.649Z</updated>
+    <updated>2021-06-07T07:31:02.887Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Our Engineering Team Used Python's AST to Patch 100,000s of Lines of Code]]></title>
+        <id>https://news.ycombinator.com/item?id=27419237</id>
+        <link href="https://engineering.soroco.com/abstract-syntax-tree-for-patching-code-and-assessing-code-quality/"/>
+        <updated>2021-06-07T05:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://engineering.soroco.com/abstract-syntax-tree-for-patching-code-and-assessing-code-quality/
+Comments URL: https://news.ycombinator.com/item?id=27419237
+Points: 33
+# Comments: 10]]></summary>
+        <author>
+            <name>sidcool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On 'Biweekly' and 'Bimonthly']]></title>
+        <id>https://news.ycombinator.com/item?id=27419213</id>
+        <link href="https://www.merriam-webster.com/words-at-play/on-biweekly-and-bimonthly"/>
+        <updated>2021-06-07T05:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.merriam-webster.com/words-at-play/on-biweekly-and-bimonthly
+Comments URL: https://news.ycombinator.com/item?id=27419213
+Points: 81
+# Comments: 76]]></summary>
+        <author>
+            <name>pajtai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ST3000DM001]]></title>
         <id>https://news.ycombinator.com/item?id=27419072</id>
@@ -13,8 +39,8 @@
         <updated>2021-06-07T04:43:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/ST3000DM001
 Comments URL: https://news.ycombinator.com/item?id=27419072
-Points: 31
-# Comments: 12]]></summary>
+Points: 90
+# Comments: 68]]></summary>
         <author>
             <name>userbinator</name>
         </author>
@@ -26,8 +52,8 @@ Points: 31
         <updated>2021-06-07T03:04:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://justsimply.dev
 Comments URL: https://news.ycombinator.com/item?id=27418577
-Points: 97
-# Comments: 52]]></summary>
+Points: 137
+# Comments: 84]]></summary>
         <author>
             <name>cercatrova</name>
         </author>
@@ -39,23 +65,10 @@ Points: 97
         <updated>2021-06-07T02:16:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hillelwayne.com/post/cleverness/
 Comments URL: https://news.ycombinator.com/item?id=27418296
-Points: 25
-# Comments: 6]]></summary>
+Points: 55
+# Comments: 23]]></summary>
         <author>
             <name>pcr910303</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Mlatu, a Concatenative Programming Language]]></title>
-        <id>https://news.ycombinator.com/item?id=27418286</id>
-        <link href="https://github.com/brightly-salty/mlatu"/>
-        <updated>2021-06-07T02:14:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/brightly-salty/mlatu
-Comments URL: https://news.ycombinator.com/item?id=27418286
-Points: 11
-# Comments: 8]]></summary>
-        <author>
-            <name>brightly-salty</name>
         </author>
     </entry>
     <entry>
@@ -65,10 +78,23 @@ Points: 11
         <updated>2021-06-07T01:57:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117
 Comments URL: https://news.ycombinator.com/item?id=27418179
-Points: 14
+Points: 22
 # Comments: 5]]></summary>
         <author>
             <name>asxd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dark Side of Notepad++: V8]]></title>
+        <id>https://news.ycombinator.com/item?id=27418171</id>
+        <link href="https://notepad-plus-plus.org/news/v8-dark-mode/"/>
+        <updated>2021-06-07T01:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://notepad-plus-plus.org/news/v8-dark-mode/
+Comments URL: https://news.ycombinator.com/item?id=27418171
+Points: 29
+# Comments: 8]]></summary>
+        <author>
+            <name>tech234a</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +104,8 @@ Points: 14
         <updated>2021-06-07T01:19:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.paulgraham.com/identity.html
 Comments URL: https://news.ycombinator.com/item?id=27417992
-Points: 132
-# Comments: 130]]></summary>
+Points: 164
+# Comments: 144]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -91,8 +117,8 @@ Points: 132
         <updated>2021-06-07T00:12:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-us-canada-57341592
 Comments URL: https://news.ycombinator.com/item?id=27417576
-Points: 78
-# Comments: 22]]></summary>
+Points: 100
+# Comments: 37]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -104,8 +130,8 @@ Points: 78
         <updated>2021-06-06T23:40:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://datarecipes.io/posts/brier_score/
 Comments URL: https://news.ycombinator.com/item?id=27417425
-Points: 31
-# Comments: 6]]></summary>
+Points: 38
+# Comments: 7]]></summary>
         <author>
             <name>ergodiclife</name>
         </author>
@@ -117,23 +143,10 @@ Points: 31
         <updated>2021-06-06T23:08:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams
 Comments URL: https://news.ycombinator.com/item?id=27417206
-Points: 140
-# Comments: 50]]></summary>
+Points: 163
+# Comments: 64]]></summary>
         <author>
             <name>paulpauper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Globalization of Venture Capital Investing]]></title>
-        <id>https://news.ycombinator.com/item?id=27416849</id>
-        <link href="https://avc.com/2021/06/the-globalization-of-venture-capital-investing/"/>
-        <updated>2021-06-06T22:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://avc.com/2021/06/the-globalization-of-venture-capital-investing/
-Comments URL: https://news.ycombinator.com/item?id=27416849
-Points: 43
-# Comments: 17]]></summary>
-        <author>
-            <name>cwan</name>
         </author>
     </entry>
     <entry>
@@ -143,8 +156,8 @@ Points: 43
         <updated>2021-06-06T21:58:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
 Comments URL: https://news.ycombinator.com/item?id=27416736
-Points: 238
-# Comments: 49]]></summary>
+Points: 293
+# Comments: 56]]></summary>
         <author>
             <name>vikrum</name>
         </author>
@@ -156,8 +169,8 @@ Points: 238
         <updated>2021-06-06T21:57:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/malware-dna-hack/
 Comments URL: https://news.ycombinator.com/item?id=27416727
-Points: 44
-# Comments: 19]]></summary>
+Points: 46
+# Comments: 20]]></summary>
         <author>
             <name>carlsborg</name>
         </author>
@@ -169,8 +182,8 @@ Points: 44
         <updated>2021-06-06T21:35:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa
 Comments URL: https://news.ycombinator.com/item?id=27416546
-Points: 74
-# Comments: 45]]></summary>
+Points: 82
+# Comments: 46]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -182,8 +195,8 @@ Points: 74
         <updated>2021-06-06T20:51:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823
 Comments URL: https://news.ycombinator.com/item?id=27416217
-Points: 201
-# Comments: 52]]></summary>
+Points: 227
+# Comments: 64]]></summary>
         <author>
             <name>pgrote</name>
         </author>
@@ -195,8 +208,8 @@ Points: 201
         <updated>2021-06-06T19:54:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find
 Comments URL: https://news.ycombinator.com/item?id=27415776
-Points: 102
-# Comments: 319]]></summary>
+Points: 120
+# Comments: 387]]></summary>
         <author>
             <name>jaredwiener</name>
         </author>
@@ -208,8 +221,8 @@ Points: 102
         <updated>2021-06-06T19:46:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment
 Comments URL: https://news.ycombinator.com/item?id=27415725
-Points: 142
-# Comments: 75]]></summary>
+Points: 164
+# Comments: 90]]></summary>
         <author>
             <name>jgrahamc</name>
         </author>
@@ -221,8 +234,8 @@ Points: 142
         <updated>2021-06-06T19:21:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://major.io/2021/06/06/a-new-future-for-icanhazip/
 Comments URL: https://news.ycombinator.com/item?id=27415537
-Points: 731
-# Comments: 213]]></summary>
+Points: 793
+# Comments: 222]]></summary>
         <author>
             <name>nkcmr</name>
         </author>
@@ -234,8 +247,8 @@ Points: 731
         <updated>2021-06-06T18:23:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mastershot.app
 Comments URL: https://news.ycombinator.com/item?id=27415089
-Points: 159
-# Comments: 44]]></summary>
+Points: 174
+# Comments: 55]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -247,23 +260,10 @@ Points: 159
         <updated>2021-06-06T18:21:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://washbear.neocities.org/freebsd-netbsd-user.html
 Comments URL: https://news.ycombinator.com/item?id=27415070
-Points: 149
-# Comments: 52]]></summary>
+Points: 155
+# Comments: 53]]></summary>
         <author>
             <name>jayp1418</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PocketSuite Is hiring Lead Engineers, Product Designers to enrich small business]]></title>
-        <id>https://news.ycombinator.com/item?id=27414470</id>
-        <link href="https://www.ycombinator.com/companies/pocketsuite"/>
-        <updated>2021-06-06T17:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/pocketsuite
-Comments URL: https://news.ycombinator.com/item?id=27414470
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>yiggydyang</name>
         </author>
     </entry>
     <entry>
