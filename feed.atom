@@ -2,19 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T11:00:48.132Z</updated>
+    <updated>2021-06-07T12:51:48.467Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Notepad++ V8 Release]]></title>
+        <title type="html"><![CDATA[Qventus (YC W15) Is Hiring Data Platform Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27421523</id>
+        <link href="https://jobs.lever.co/qventus/c0d604cf-ec1c-48ea-847d-5ffc7a67698d"/>
+        <updated>2021-06-07T12:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/qventus/c0d604cf-ec1c-48ea-847d-5ffc7a67698d
+Comments URL: https://news.ycombinator.com/item?id=27421523
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>ifc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Open-source alternative to Retool, Internal.io, etc.]]></title>
+        <id>https://news.ycombinator.com/item?id=27421408</id>
+        <link href="https://github.com/ToolJet/ToolJet/"/>
+        <updated>2021-06-07T11:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ToolJet/ToolJet/
+Comments URL: https://news.ycombinator.com/item?id=27421408
+Points: 81
+# Comments: 7]]></summary>
+        <author>
+            <name>navaneethpk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeff Bezos will fly on the first passenger spaceflight of Blue Origin in July]]></title>
+        <id>https://news.ycombinator.com/item?id=27421202</id>
+        <link href="https://www.cnbc.com/2021/06/07/jeff-bezos-to-fly-on-blue-origin-first-passenger-flight-in-july.html"/>
+        <updated>2021-06-07T11:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/07/jeff-bezos-to-fly-on-blue-origin-first-passenger-flight-in-july.html
+Comments URL: https://news.ycombinator.com/item?id=27421202
+Points: 91
+# Comments: 86]]></summary>
+        <author>
+            <name>MKais</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We’re All Paying for Someone Else’s 4-Hour Work Week, Not Ours]]></title>
+        <id>https://news.ycombinator.com/item?id=27421194</id>
+        <link href="https://aninjusticemag.com/were-all-paying-for-someone-else-s-4-hour-work-week-not-ours-68b2168af55?gi=f8725c21cb1b"/>
+        <updated>2021-06-07T11:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aninjusticemag.com/were-all-paying-for-someone-else-s-4-hour-work-week-not-ours-68b2168af55?gi=f8725c21cb1b
+Comments URL: https://news.ycombinator.com/item?id=27421194
+Points: 92
+# Comments: 20]]></summary>
+        <author>
+            <name>JBiserkov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
+        <id>https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
+        <link href="https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/"/>
+        <updated>2021-06-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google fined €220m by French competition watchdog over online advertising market]]></title>
+        <id>https://news.ycombinator.com/item?id=27420864</id>
+        <link href="https://www.euronews.com/2021/06/07/google-fined-220m-by-french-competition-watchdog-over-online-advertising-market"/>
+        <updated>2021-06-07T10:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.euronews.com/2021/06/07/google-fined-220m-by-french-competition-watchdog-over-online-advertising-market
+Comments URL: https://news.ycombinator.com/item?id=27420864
+Points: 87
+# Comments: 10]]></summary>
+        <author>
+            <name>hadrien01</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notepad++ v8 release]]></title>
         <id>https://news.ycombinator.com/item?id=27420726</id>
         <link href="https://notepad-plus-plus.org/downloads/v8/"/>
         <updated>2021-06-07T09:49:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://notepad-plus-plus.org/downloads/v8/
 Comments URL: https://news.ycombinator.com/item?id=27420726
-Points: 9
-# Comments: 2]]></summary>
+Points: 89
+# Comments: 46]]></summary>
         <author>
             <name>gainsurier</name>
         </author>
@@ -26,8 +101,8 @@ Points: 9
         <updated>2021-06-07T09:36:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://httpstatusdogs.com/
 Comments URL: https://news.ycombinator.com/item?id=27420667
-Points: 45
-# Comments: 17]]></summary>
+Points: 107
+# Comments: 27]]></summary>
         <author>
             <name>leonvonblut</name>
         </author>
@@ -39,8 +114,8 @@ Points: 45
         <updated>2021-06-07T09:17:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/pedronauck/docz/issues/1634
 Comments URL: https://news.ycombinator.com/item?id=27420554
-Points: 101
-# Comments: 50]]></summary>
+Points: 261
+# Comments: 123]]></summary>
         <author>
             <name>rinesh</name>
         </author>
@@ -52,7 +127,7 @@ Points: 101
         <updated>2021-06-07T08:21:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://solnic.codes/2021/06/04/10-years-of-open-source/
 Comments URL: https://news.ycombinator.com/item?id=27420282
-Points: 11
+Points: 21
 # Comments: 0]]></summary>
         <author>
             <name>Doctor_Fegg</name>
@@ -65,8 +140,8 @@ Points: 11
         <updated>2021-06-07T07:27:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.experian.com/assets/decision-analytics/white-papers/bust-out-fraud-white-paper.pdf
 Comments URL: https://news.ycombinator.com/item?id=27419984
-Points: 9
-# Comments: 4]]></summary>
+Points: 11
+# Comments: 8]]></summary>
         <author>
             <name>dataflow</name>
         </author>
@@ -78,21 +153,21 @@ Points: 9
         <updated>2021-06-07T07:23:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.farms.com/news/farmers-deserve-the-right-to-repair-their-tractors-168298.aspx
 Comments URL: https://news.ycombinator.com/item?id=27419954
-Points: 211
-# Comments: 79]]></summary>
+Points: 302
+# Comments: 125]]></summary>
         <author>
             <name>anandaverma18</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our Engineering Team Used Python's AST to Patch 100,000s of Lines of Code]]></title>
+        <title type="html"><![CDATA[Abstract Syntax Tree for Patching Code and Assessing Code Quality]]></title>
         <id>https://news.ycombinator.com/item?id=27419237</id>
         <link href="https://engineering.soroco.com/abstract-syntax-tree-for-patching-code-and-assessing-code-quality/"/>
         <updated>2021-06-07T05:19:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.soroco.com/abstract-syntax-tree-for-patching-code-and-assessing-code-quality/
 Comments URL: https://news.ycombinator.com/item?id=27419237
-Points: 110
-# Comments: 35]]></summary>
+Points: 129
+# Comments: 43]]></summary>
         <author>
             <name>sidcool</name>
         </author>
@@ -104,8 +179,8 @@ Points: 110
         <updated>2021-06-07T04:43:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/ST3000DM001
 Comments URL: https://news.ycombinator.com/item?id=27419072
-Points: 167
-# Comments: 131]]></summary>
+Points: 197
+# Comments: 144]]></summary>
         <author>
             <name>userbinator</name>
         </author>
@@ -117,8 +192,8 @@ Points: 167
         <updated>2021-06-07T03:04:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://justsimply.dev
 Comments URL: https://news.ycombinator.com/item?id=27418577
-Points: 178
-# Comments: 97]]></summary>
+Points: 200
+# Comments: 106]]></summary>
         <author>
             <name>cercatrova</name>
         </author>
@@ -130,10 +205,23 @@ Points: 178
         <updated>2021-06-07T02:16:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hillelwayne.com/post/cleverness/
 Comments URL: https://news.ycombinator.com/item?id=27418296
-Points: 96
-# Comments: 57]]></summary>
+Points: 107
+# Comments: 73]]></summary>
         <author>
             <name>pcr910303</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capsule Challenges Vacuum Tube (1948)]]></title>
+        <id>https://news.ycombinator.com/item?id=27418179</id>
+        <link href="https://books.google.com/books?id=YCcDAAAAMBAJ&amp;pg=PA117"/>
+        <updated>2021-06-07T01:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117
+Comments URL: https://news.ycombinator.com/item?id=27418179
+Points: 34
+# Comments: 10]]></summary>
+        <author>
+            <name>asxd</name>
         </author>
     </entry>
     <entry>
@@ -143,8 +231,8 @@ Points: 96
         <updated>2021-06-07T01:19:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.paulgraham.com/identity.html
 Comments URL: https://news.ycombinator.com/item?id=27417992
-Points: 238
-# Comments: 200]]></summary>
+Points: 275
+# Comments: 214]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -156,8 +244,8 @@ Points: 238
         <updated>2021-06-07T00:12:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-us-canada-57341592
 Comments URL: https://news.ycombinator.com/item?id=27417576
-Points: 142
-# Comments: 50]]></summary>
+Points: 155
+# Comments: 56]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -169,8 +257,8 @@ Points: 142
         <updated>2021-06-06T23:08:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams
 Comments URL: https://news.ycombinator.com/item?id=27417206
-Points: 190
-# Comments: 79]]></summary>
+Points: 204
+# Comments: 88]]></summary>
         <author>
             <name>paulpauper</name>
         </author>
@@ -182,88 +270,10 @@ Points: 190
         <updated>2021-06-06T21:58:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
 Comments URL: https://news.ycombinator.com/item?id=27416736
-Points: 333
-# Comments: 64]]></summary>
+Points: 355
+# Comments: 69]]></summary>
         <author>
             <name>vikrum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A growing number of governments hope to clone DARPA]]></title>
-        <id>https://news.ycombinator.com/item?id=27416546</id>
-        <link href="https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa"/>
-        <updated>2021-06-06T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa
-Comments URL: https://news.ycombinator.com/item?id=27416546
-Points: 92
-# Comments: 48]]></summary>
-        <author>
-            <name>edward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photographer captures 'odd but exciting' crow behaviour known as anting]]></title>
-        <id>https://news.ycombinator.com/item?id=27416217</id>
-        <link href="https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823"/>
-        <updated>2021-06-06T20:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823
-Comments URL: https://news.ycombinator.com/item?id=27416217
-Points: 262
-# Comments: 91]]></summary>
-        <author>
-            <name>pgrote</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why are American workers becoming harder to find?]]></title>
-        <id>https://news.ycombinator.com/item?id=27415776</id>
-        <link href="https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find"/>
-        <updated>2021-06-06T19:54:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find
-Comments URL: https://news.ycombinator.com/item?id=27415776
-Points: 148
-# Comments: 482]]></summary>
-        <author>
-            <name>jaredwiener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN “Why Not Simply”]]></title>
-        <id>https://news.ycombinator.com/item?id=27415725</id>
-        <link href="https://hn.algolia.com/?dateRange=all&amp;page=0&amp;prefix=true&amp;query=%22why%20not%20simply%22&amp;sort=byPopularity&amp;type=comment"/>
-        <updated>2021-06-06T19:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment
-Comments URL: https://news.ycombinator.com/item?id=27415725
-Points: 202
-# Comments: 104]]></summary>
-        <author>
-            <name>jgrahamc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Future for Icanhazip]]></title>
-        <id>https://news.ycombinator.com/item?id=27415537</id>
-        <link href="https://major.io/2021/06/06/a-new-future-for-icanhazip/"/>
-        <updated>2021-06-06T19:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://major.io/2021/06/06/a-new-future-for-icanhazip/
-Comments URL: https://news.ycombinator.com/item?id=27415537
-Points: 861
-# Comments: 231]]></summary>
-        <author>
-            <name>nkcmr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start a Novel]]></title>
-        <id>https://news.ycombinator.com/item?id=27415122</id>
-        <link href="https://granta.com/notes-on-craft-jonathan-lee/"/>
-        <updated>2021-06-06T18:28:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://granta.com/notes-on-craft-jonathan-lee/
-Comments URL: https://news.ycombinator.com/item?id=27415122
-Points: 16
-# Comments: 6]]></summary>
-        <author>
-            <name>see-also</name>
         </author>
     </entry>
     <entry>
