@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T09:16:10.154Z</updated>
+    <updated>2021-06-07T11:00:48.132Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Notepad++ V8 Release]]></title>
+        <id>https://news.ycombinator.com/item?id=27420726</id>
+        <link href="https://notepad-plus-plus.org/downloads/v8/"/>
+        <updated>2021-06-07T09:49:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://notepad-plus-plus.org/downloads/v8/
+Comments URL: https://news.ycombinator.com/item?id=27420726
+Points: 9
+# Comments: 2]]></summary>
+        <author>
+            <name>gainsurier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP Status Dogs]]></title>
+        <id>https://news.ycombinator.com/item?id=27420667</id>
+        <link href="https://httpstatusdogs.com/"/>
+        <updated>2021-06-07T09:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://httpstatusdogs.com/
+Comments URL: https://news.ycombinator.com/item?id=27420667
+Points: 45
+# Comments: 17]]></summary>
+        <author>
+            <name>leonvonblut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorry everybody, I failed with you]]></title>
+        <id>https://news.ycombinator.com/item?id=27420554</id>
+        <link href="https://github.com/pedronauck/docz/issues/1634"/>
+        <updated>2021-06-07T09:17:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/pedronauck/docz/issues/1634
+Comments URL: https://news.ycombinator.com/item?id=27420554
+Points: 101
+# Comments: 50]]></summary>
+        <author>
+            <name>rinesh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Years of Open Source]]></title>
         <id>https://news.ycombinator.com/item?id=27420282</id>
@@ -13,10 +52,23 @@
         <updated>2021-06-07T08:21:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://solnic.codes/2021/06/04/10-years-of-open-source/
 Comments URL: https://news.ycombinator.com/item?id=27420282
-Points: 4
+Points: 11
 # Comments: 0]]></summary>
         <author>
             <name>Doctor_Fegg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bust-Out Fraud [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27419984</id>
+        <link href="https://www.experian.com/assets/decision-analytics/white-papers/bust-out-fraud-white-paper.pdf"/>
+        <updated>2021-06-07T07:27:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.experian.com/assets/decision-analytics/white-papers/bust-out-fraud-white-paper.pdf
+Comments URL: https://news.ycombinator.com/item?id=27419984
+Points: 9
+# Comments: 4]]></summary>
+        <author>
+            <name>dataflow</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +78,8 @@ Points: 4
         <updated>2021-06-07T07:23:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.farms.com/news/farmers-deserve-the-right-to-repair-their-tractors-168298.aspx
 Comments URL: https://news.ycombinator.com/item?id=27419954
-Points: 37
-# Comments: 2]]></summary>
+Points: 211
+# Comments: 79]]></summary>
         <author>
             <name>anandaverma18</name>
         </author>
@@ -39,8 +91,8 @@ Points: 37
         <updated>2021-06-07T05:19:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.soroco.com/abstract-syntax-tree-for-patching-code-and-assessing-code-quality/
 Comments URL: https://news.ycombinator.com/item?id=27419237
-Points: 86
-# Comments: 26]]></summary>
+Points: 110
+# Comments: 35]]></summary>
         <author>
             <name>sidcool</name>
         </author>
@@ -52,8 +104,8 @@ Points: 86
         <updated>2021-06-07T04:43:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/ST3000DM001
 Comments URL: https://news.ycombinator.com/item?id=27419072
-Points: 150
-# Comments: 114]]></summary>
+Points: 167
+# Comments: 131]]></summary>
         <author>
             <name>userbinator</name>
         </author>
@@ -65,8 +117,8 @@ Points: 150
         <updated>2021-06-07T03:04:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://justsimply.dev
 Comments URL: https://news.ycombinator.com/item?id=27418577
-Points: 161
-# Comments: 89]]></summary>
+Points: 178
+# Comments: 97]]></summary>
         <author>
             <name>cercatrova</name>
         </author>
@@ -78,23 +130,10 @@ Points: 161
         <updated>2021-06-07T02:16:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hillelwayne.com/post/cleverness/
 Comments URL: https://news.ycombinator.com/item?id=27418296
-Points: 77
-# Comments: 36]]></summary>
+Points: 96
+# Comments: 57]]></summary>
         <author>
             <name>pcr910303</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capsule Challenges Vacuum Tube (1948)]]></title>
-        <id>https://news.ycombinator.com/item?id=27418179</id>
-        <link href="https://books.google.com/books?id=YCcDAAAAMBAJ&amp;pg=PA117"/>
-        <updated>2021-06-07T01:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117
-Comments URL: https://news.ycombinator.com/item?id=27418179
-Points: 27
-# Comments: 6]]></summary>
-        <author>
-            <name>asxd</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +143,8 @@ Points: 27
         <updated>2021-06-07T01:19:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.paulgraham.com/identity.html
 Comments URL: https://news.ycombinator.com/item?id=27417992
-Points: 207
-# Comments: 179]]></summary>
+Points: 238
+# Comments: 200]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -117,8 +156,8 @@ Points: 207
         <updated>2021-06-07T00:12:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-us-canada-57341592
 Comments URL: https://news.ycombinator.com/item?id=27417576
-Points: 122
-# Comments: 41]]></summary>
+Points: 142
+# Comments: 50]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -130,8 +169,8 @@ Points: 122
         <updated>2021-06-06T23:08:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams
 Comments URL: https://news.ycombinator.com/item?id=27417206
-Points: 177
-# Comments: 74]]></summary>
+Points: 190
+# Comments: 79]]></summary>
         <author>
             <name>paulpauper</name>
         </author>
@@ -143,23 +182,10 @@ Points: 177
         <updated>2021-06-06T21:58:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
 Comments URL: https://news.ycombinator.com/item?id=27416736
-Points: 320
-# Comments: 61]]></summary>
+Points: 333
+# Comments: 64]]></summary>
         <author>
             <name>vikrum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gene sequencer malware injection via encoded DNA (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27416727</id>
-        <link href="https://www.wired.com/story/malware-dna-hack/"/>
-        <updated>2021-06-06T21:57:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/malware-dna-hack/
-Comments URL: https://news.ycombinator.com/item?id=27416727
-Points: 50
-# Comments: 25]]></summary>
-        <author>
-            <name>carlsborg</name>
         </author>
     </entry>
     <entry>
@@ -169,8 +195,8 @@ Points: 50
         <updated>2021-06-06T21:35:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa
 Comments URL: https://news.ycombinator.com/item?id=27416546
-Points: 84
-# Comments: 46]]></summary>
+Points: 92
+# Comments: 48]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -182,8 +208,8 @@ Points: 84
         <updated>2021-06-06T20:51:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823
 Comments URL: https://news.ycombinator.com/item?id=27416217
-Points: 247
-# Comments: 85]]></summary>
+Points: 262
+# Comments: 91]]></summary>
         <author>
             <name>pgrote</name>
         </author>
@@ -195,8 +221,8 @@ Points: 247
         <updated>2021-06-06T19:54:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find
 Comments URL: https://news.ycombinator.com/item?id=27415776
-Points: 137
-# Comments: 433]]></summary>
+Points: 148
+# Comments: 482]]></summary>
         <author>
             <name>jaredwiener</name>
         </author>
@@ -208,8 +234,8 @@ Points: 137
         <updated>2021-06-06T19:46:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment
 Comments URL: https://news.ycombinator.com/item?id=27415725
-Points: 185
-# Comments: 95]]></summary>
+Points: 202
+# Comments: 104]]></summary>
         <author>
             <name>jgrahamc</name>
         </author>
@@ -221,49 +247,23 @@ Points: 185
         <updated>2021-06-06T19:21:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://major.io/2021/06/06/a-new-future-for-icanhazip/
 Comments URL: https://news.ycombinator.com/item?id=27415537
-Points: 838
-# Comments: 230]]></summary>
+Points: 861
+# Comments: 231]]></summary>
         <author>
             <name>nkcmr</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastershot – Web based video editor]]></title>
-        <id>https://news.ycombinator.com/item?id=27415089</id>
-        <link href="https://mastershot.app"/>
-        <updated>2021-06-06T18:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mastershot.app
-Comments URL: https://news.ycombinator.com/item?id=27415089
-Points: 186
-# Comments: 59]]></summary>
+        <title type="html"><![CDATA[How to Start a Novel]]></title>
+        <id>https://news.ycombinator.com/item?id=27415122</id>
+        <link href="https://granta.com/notes-on-craft-jonathan-lee/"/>
+        <updated>2021-06-06T18:28:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://granta.com/notes-on-craft-jonathan-lee/
+Comments URL: https://news.ycombinator.com/item?id=27415122
+Points: 16
+# Comments: 6]]></summary>
         <author>
-            <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD from a NetBSD developer’s perspective]]></title>
-        <id>https://news.ycombinator.com/item?id=27415070</id>
-        <link href="https://washbear.neocities.org/freebsd-netbsd-user.html"/>
-        <updated>2021-06-06T18:21:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://washbear.neocities.org/freebsd-netbsd-user.html
-Comments URL: https://news.ycombinator.com/item?id=27415070
-Points: 161
-# Comments: 61]]></summary>
-        <author>
-            <name>jayp1418</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An incomplete list of skills senior engineers need, beyond coding]]></title>
-        <id>https://news.ycombinator.com/item?id=27414443</id>
-        <link href="https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f"/>
-        <updated>2021-06-06T16:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
-Comments URL: https://news.ycombinator.com/item?id=27414443
-Points: 642
-# Comments: 189]]></summary>
-        <author>
-            <name>kungfudoi</name>
+            <name>see-also</name>
         </author>
     </entry>
     <entry>
