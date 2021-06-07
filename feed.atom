@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T23:25:08.684Z</updated>
+    <updated>2021-06-07T01:04:24.460Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making better decisions with the Brier score]]></title>
+        <id>https://news.ycombinator.com/item?id=27417425</id>
+        <link href="https://datarecipes.io/posts/brier_score/"/>
+        <updated>2021-06-06T23:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://datarecipes.io/posts/brier_score/
+Comments URL: https://news.ycombinator.com/item?id=27417425
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>ergodiclife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drowning Machine: The Dangers of Low Head Dams]]></title>
+        <id>https://news.ycombinator.com/item?id=27417206</id>
+        <link href="https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams"/>
+        <updated>2021-06-06T23:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams
+Comments URL: https://news.ycombinator.com/item?id=27417206
+Points: 60
+# Comments: 14]]></summary>
+        <author>
+            <name>paulpauper</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Globalization of Venture Capital Investing]]></title>
         <id>https://news.ycombinator.com/item?id=27416849</id>
@@ -13,8 +39,8 @@
         <updated>2021-06-06T22:13:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://avc.com/2021/06/the-globalization-of-venture-capital-investing/
 Comments URL: https://news.ycombinator.com/item?id=27416849
-Points: 13
-# Comments: 3]]></summary>
+Points: 28
+# Comments: 9]]></summary>
         <author>
             <name>cwan</name>
         </author>
@@ -26,8 +52,8 @@ Points: 13
         <updated>2021-06-06T22:08:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://optics.org/article/8562
 Comments URL: https://news.ycombinator.com/item?id=27416821
-Points: 17
-# Comments: 17]]></summary>
+Points: 28
+# Comments: 25]]></summary>
         <author>
             <name>nixass</name>
         </author>
@@ -39,21 +65,21 @@ Points: 17
         <updated>2021-06-06T21:58:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
 Comments URL: https://news.ycombinator.com/item?id=27416736
-Points: 49
-# Comments: 2]]></summary>
+Points: 105
+# Comments: 17]]></summary>
         <author>
             <name>vikrum</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gene sequencer malware injection via encoded DNA]]></title>
+        <title type="html"><![CDATA[Gene sequencer malware injection via encoded DNA (2017)]]></title>
         <id>https://news.ycombinator.com/item?id=27416727</id>
         <link href="https://www.wired.com/story/malware-dna-hack/"/>
         <updated>2021-06-06T21:57:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/malware-dna-hack/
 Comments URL: https://news.ycombinator.com/item?id=27416727
-Points: 19
-# Comments: 7]]></summary>
+Points: 34
+# Comments: 12]]></summary>
         <author>
             <name>carlsborg</name>
         </author>
@@ -65,23 +91,10 @@ Points: 19
         <updated>2021-06-06T21:35:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa
 Comments URL: https://news.ycombinator.com/item?id=27416546
-Points: 17
-# Comments: 11]]></summary>
+Points: 36
+# Comments: 25]]></summary>
         <author>
             <name>edward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Absurdity of Peer Review: What the Pandemic Revealed]]></title>
-        <id>https://news.ycombinator.com/item?id=27416423</id>
-        <link href="https://elemental.medium.com/the-absurdity-of-peer-review-1d58e5d9e661"/>
-        <updated>2021-06-06T21:18:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elemental.medium.com/the-absurdity-of-peer-review-1d58e5d9e661
-Comments URL: https://news.ycombinator.com/item?id=27416423
-Points: 19
-# Comments: 18]]></summary>
-        <author>
-            <name>akvadrako</name>
         </author>
     </entry>
     <entry>
@@ -91,10 +104,23 @@ Points: 19
         <updated>2021-06-06T20:51:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823
 Comments URL: https://news.ycombinator.com/item?id=27416217
-Points: 75
-# Comments: 19]]></summary>
+Points: 138
+# Comments: 34]]></summary>
         <author>
             <name>pgrote</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why are American workers becoming harder to find?]]></title>
+        <id>https://news.ycombinator.com/item?id=27415776</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find"/>
+        <updated>2021-06-06T19:54:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find
+Comments URL: https://news.ycombinator.com/item?id=27415776
+Points: 31
+# Comments: 91]]></summary>
+        <author>
+            <name>jaredwiener</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +130,8 @@ Points: 75
         <updated>2021-06-06T19:46:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment
 Comments URL: https://news.ycombinator.com/item?id=27415725
-Points: 74
-# Comments: 46]]></summary>
+Points: 91
+# Comments: 51]]></summary>
         <author>
             <name>jgrahamc</name>
         </author>
@@ -117,8 +143,8 @@ Points: 74
         <updated>2021-06-06T19:21:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://major.io/2021/06/06/a-new-future-for-icanhazip/
 Comments URL: https://news.ycombinator.com/item?id=27415537
-Points: 405
-# Comments: 123]]></summary>
+Points: 509
+# Comments: 156]]></summary>
         <author>
             <name>nkcmr</name>
         </author>
@@ -130,8 +156,8 @@ Points: 405
         <updated>2021-06-06T18:23:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mastershot.app
 Comments URL: https://news.ycombinator.com/item?id=27415089
-Points: 111
-# Comments: 29]]></summary>
+Points: 124
+# Comments: 38]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -143,8 +169,8 @@ Points: 111
         <updated>2021-06-06T18:21:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://washbear.neocities.org/freebsd-netbsd-user.html
 Comments URL: https://news.ycombinator.com/item?id=27415070
-Points: 104
-# Comments: 32]]></summary>
+Points: 126
+# Comments: 44]]></summary>
         <author>
             <name>jayp1418</name>
         </author>
@@ -156,8 +182,8 @@ Points: 104
         <updated>2021-06-06T18:00:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html
 Comments URL: https://news.ycombinator.com/item?id=27414920
-Points: 215
-# Comments: 205]]></summary>
+Points: 262
+# Comments: 265]]></summary>
         <author>
             <name>mful</name>
         </author>
@@ -169,23 +195,10 @@ Points: 215
         <updated>2021-06-06T17:58:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://destevez.net/2021/06/rain-backscatter-on-10-ghz/
 Comments URL: https://news.ycombinator.com/item?id=27414912
-Points: 62
-# Comments: 28]]></summary>
+Points: 70
+# Comments: 31]]></summary>
         <author>
             <name>parsecs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I discovered a trading algorithm that returns ~24.85% annually]]></title>
-        <id>https://news.ycombinator.com/item?id=27414677</id>
-        <link href="https://github.com/KibaeKim/SectorTradingAlgorithm"/>
-        <updated>2021-06-06T17:29:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/KibaeKim/SectorTradingAlgorithm
-Comments URL: https://news.ycombinator.com/item?id=27414677
-Points: 167
-# Comments: 100]]></summary>
-        <author>
-            <name>Kibae</name>
         </author>
     </entry>
     <entry>
@@ -208,8 +221,8 @@ Points: 1
         <updated>2021-06-06T16:57:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
 Comments URL: https://news.ycombinator.com/item?id=27414443
-Points: 309
-# Comments: 118]]></summary>
+Points: 369
+# Comments: 137]]></summary>
         <author>
             <name>kungfudoi</name>
         </author>
@@ -221,8 +234,8 @@ Points: 309
         <updated>2021-06-06T16:26:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://repeller.com/trap-of-turning-hobbies-into-hustles/
 Comments URL: https://news.ycombinator.com/item?id=27414184
-Points: 231
-# Comments: 121]]></summary>
+Points: 243
+# Comments: 124]]></summary>
         <author>
             <name>sdenton4</name>
         </author>
@@ -234,8 +247,8 @@ Points: 231
         <updated>2021-06-06T16:26:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
 Comments URL: https://news.ycombinator.com/item?id=27414183
-Points: 111
-# Comments: 41]]></summary>
+Points: 126
+# Comments: 48]]></summary>
         <author>
             <name>tmfi</name>
         </author>
@@ -250,23 +263,10 @@ As a person who has to use a Screen Reader, math in PDFs is almost impossible to
 To the authors who publish the source of their books: thank you, thank you. I cannot express how grateful I am. To anyone who is related to /working in the publisher space: it would be incredibly useful if there was a process to get the LaTeX source of books upon request, although I understand how copyrights/etc might make this difficult.
 Some other books I would like to point out for being open source: Apex Calculus, Open Data Structures.
 Comments URL: https://news.ycombinator.com/item?id=27414145
-Points: 297
-# Comments: 70]]></summary>
+Points: 329
+# Comments: 79]]></summary>
         <author>
             <name>lightveil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stateright: A model checker for implementing distributed systems]]></title>
-        <id>https://news.ycombinator.com/item?id=27413084</id>
-        <link href="https://github.com/stateright/stateright"/>
-        <updated>2021-06-06T13:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/stateright/stateright
-Comments URL: https://news.ycombinator.com/item?id=27413084
-Points: 111
-# Comments: 20]]></summary>
-        <author>
-            <name>yagizdegirmenci</name>
         </author>
     </entry>
     <entry>
