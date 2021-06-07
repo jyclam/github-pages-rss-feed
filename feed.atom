@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T14:21:03.181Z</updated>
+    <updated>2021-06-07T15:36:05.869Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Angular NgClass Example – How to Add Conditional CSS Classes]]></title>
+        <id>60b136d911ffb70827ef912b</id>
+        <link href="https://www.freecodecamp.org/news/angular-ngclass-example/"/>
+        <updated>2021-06-07T15:01:26.000Z</updated>
+        <summary type="html"><![CDATA[ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK's Labour Party calls for delay to NHS Digital's GP data slurp]]></title>
+        <id>https://news.ycombinator.com/item?id=27423334</id>
+        <link href="https://www.theregister.com/2021/06/07/gpdpr_labour/"/>
+        <updated>2021-06-07T14:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/07/gpdpr_labour/
+Comments URL: https://news.ycombinator.com/item?id=27423334
+Points: 12
+# Comments: 1]]></summary>
+        <author>
+            <name>jjgreen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Campaign launches to try to force Palantir out of Britain’s NHS]]></title>
+        <id>https://news.ycombinator.com/item?id=27423236</id>
+        <link href="https://www.cnbc.com/2021/06/04/campaign-launched-to-get-palantir-out-of-nhs.html"/>
+        <updated>2021-06-07T14:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/04/campaign-launched-to-get-palantir-out-of-nhs.html
+Comments URL: https://news.ycombinator.com/item?id=27423236
+Points: 17
+# Comments: 0]]></summary>
+        <author>
+            <name>alexrustic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VS Code Extensions for HTML]]></title>
         <id>https://css-tricks.com/?p=340390</id>
@@ -19,14 +55,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“AI-promised-to-revolutionize-radiology-but-so-far-its-failing”]]></title>
+        <title type="html"><![CDATA[How to sequence your genome at home]]></title>
+        <id>https://news.ycombinator.com/item?id=27422719</id>
+        <link href="http://blog.booleanbiotech.com/human-genome-at-home.html"/>
+        <updated>2021-06-07T14:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://blog.booleanbiotech.com/human-genome-at-home.html
+Comments URL: https://news.ycombinator.com/item?id=27422719
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>sprague</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“AI promised to revolutionize radiology but so far its failing”]]></title>
         <id>https://news.ycombinator.com/item?id=27422610</id>
         <link href="https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/"/>
         <updated>2021-06-07T13:53:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/
 Comments URL: https://news.ycombinator.com/item?id=27422610
-Points: 16
-# Comments: 2]]></summary>
+Points: 137
+# Comments: 80]]></summary>
         <author>
             <name>macleginn</name>
         </author>
@@ -38,8 +87,8 @@ Points: 16
         <updated>2021-06-07T13:38:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://9to5mac.com/2021/06/07/apple-pays-out-millions-in-compensation-to-student-after-iphone-repair-facility-shared-her-explicit-personal-images-online/
 Comments URL: https://news.ycombinator.com/item?id=27422449
-Points: 48
-# Comments: 21]]></summary>
+Points: 172
+# Comments: 99]]></summary>
         <author>
             <name>hownottowrite</name>
         </author>
@@ -51,8 +100,8 @@ Points: 48
         <updated>2021-06-07T13:34:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/the-human-os/biomedical/devices/braincomputer-interface-smashes-previous-record-for-typing-speed
 Comments URL: https://news.ycombinator.com/item?id=27422396
-Points: 12
-# Comments: 10]]></summary>
+Points: 55
+# Comments: 37]]></summary>
         <author>
             <name>5rest</name>
         </author>
@@ -64,7 +113,7 @@ Points: 12
         <updated>2021-06-07T12:26:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bakkenbaeck.github.io/a-random-walk-through-git/
 Comments URL: https://news.ycombinator.com/item?id=27421731
-Points: 19
+Points: 45
 # Comments: 0]]></summary>
         <author>
             <name>ingve</name>
@@ -77,8 +126,8 @@ Points: 19
         <updated>2021-06-07T12:25:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.chromium.org/2021/05/chrome-is-faster-in-m91.html
 Comments URL: https://news.ycombinator.com/item?id=27421724
-Points: 52
-# Comments: 39]]></summary>
+Points: 76
+# Comments: 76]]></summary>
         <author>
             <name>SerCe</name>
         </author>
@@ -90,8 +139,8 @@ Points: 52
         <updated>2021-06-07T12:24:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ryanbanderson.com/a-martians-review-of-the-martian-book
 Comments URL: https://news.ycombinator.com/item?id=27421718
-Points: 19
-# Comments: 14]]></summary>
+Points: 35
+# Comments: 31]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -103,8 +152,8 @@ Points: 19
         <updated>2021-06-07T12:01:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57379704
 Comments URL: https://news.ycombinator.com/item?id=27421527
-Points: 69
-# Comments: 2]]></summary>
+Points: 143
+# Comments: 33]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -129,8 +178,8 @@ Points: 1
         <updated>2021-06-07T11:44:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ToolJet/ToolJet/
 Comments URL: https://news.ycombinator.com/item?id=27421408
-Points: 187
-# Comments: 26]]></summary>
+Points: 249
+# Comments: 36]]></summary>
         <author>
             <name>navaneethpk</name>
         </author>
@@ -142,8 +191,8 @@ Points: 187
         <updated>2021-06-07T11:23:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/mattsse/cargo-memex
 Comments URL: https://news.ycombinator.com/item?id=27421277
-Points: 14
-# Comments: 2]]></summary>
+Points: 23
+# Comments: 4]]></summary>
         <author>
             <name>matsche</name>
         </author>
@@ -155,23 +204,10 @@ Points: 14
         <updated>2021-06-07T11:19:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/asx-listed-altium-rejects-39-bln-buyout-offer-us-peer-autodesk-2021-06-07/
 Comments URL: https://news.ycombinator.com/item?id=27421255
-Points: 31
-# Comments: 22]]></summary>
+Points: 68
+# Comments: 40]]></summary>
         <author>
             <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We’re all paying for someone else’s 4-hour work week, not ours]]></title>
-        <id>https://news.ycombinator.com/item?id=27421194</id>
-        <link href="https://aninjusticemag.com/were-all-paying-for-someone-else-s-4-hour-work-week-not-ours-68b2168af55?gi=f8725c21cb1b"/>
-        <updated>2021-06-07T11:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aninjusticemag.com/were-all-paying-for-someone-else-s-4-hour-work-week-not-ours-68b2168af55?gi=f8725c21cb1b
-Comments URL: https://news.ycombinator.com/item?id=27421194
-Points: 301
-# Comments: 155]]></summary>
-        <author>
-            <name>JBiserkov</name>
         </author>
     </entry>
     <entry>
@@ -191,8 +227,8 @@ Points: 301
         <updated>2021-06-07T10:16:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.euronews.com/2021/06/07/google-fined-220m-by-french-competition-watchdog-over-online-advertising-market
 Comments URL: https://news.ycombinator.com/item?id=27420864
-Points: 125
-# Comments: 18]]></summary>
+Points: 156
+# Comments: 20]]></summary>
         <author>
             <name>hadrien01</name>
         </author>
@@ -204,23 +240,10 @@ Points: 125
         <updated>2021-06-07T09:49:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://notepad-plus-plus.org/downloads/v8/
 Comments URL: https://news.ycombinator.com/item?id=27420726
-Points: 145
-# Comments: 87]]></summary>
+Points: 185
+# Comments: 116]]></summary>
         <author>
             <name>gainsurier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP Status Dogs]]></title>
-        <id>https://news.ycombinator.com/item?id=27420667</id>
-        <link href="https://httpstatusdogs.com/"/>
-        <updated>2021-06-07T09:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://httpstatusdogs.com/
-Comments URL: https://news.ycombinator.com/item?id=27420667
-Points: 132
-# Comments: 33]]></summary>
-        <author>
-            <name>leonvonblut</name>
         </author>
     </entry>
     <entry>
@@ -230,8 +253,8 @@ Points: 132
         <updated>2021-06-07T09:17:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/pedronauck/docz/issues/1634
 Comments URL: https://news.ycombinator.com/item?id=27420554
-Points: 371
-# Comments: 186]]></summary>
+Points: 466
+# Comments: 215]]></summary>
         <author>
             <name>rinesh</name>
         </author>
@@ -243,8 +266,8 @@ Points: 371
         <updated>2021-06-07T07:23:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.farms.com/news/farmers-deserve-the-right-to-repair-their-tractors-168298.aspx
 Comments URL: https://news.ycombinator.com/item?id=27419954
-Points: 361
-# Comments: 155]]></summary>
+Points: 425
+# Comments: 176]]></summary>
         <author>
             <name>anandaverma18</name>
         </author>
@@ -256,8 +279,8 @@ Points: 361
         <updated>2021-06-07T05:19:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.soroco.com/abstract-syntax-tree-for-patching-code-and-assessing-code-quality/
 Comments URL: https://news.ycombinator.com/item?id=27419237
-Points: 138
-# Comments: 48]]></summary>
+Points: 145
+# Comments: 51]]></summary>
         <author>
             <name>sidcool</name>
         </author>
@@ -269,23 +292,10 @@ Points: 138
         <updated>2021-06-07T04:43:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/ST3000DM001
 Comments URL: https://news.ycombinator.com/item?id=27419072
-Points: 220
-# Comments: 182]]></summary>
+Points: 240
+# Comments: 202]]></summary>
         <author>
             <name>userbinator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capsule Challenges Vacuum Tube (1948)]]></title>
-        <id>https://news.ycombinator.com/item?id=27418179</id>
-        <link href="https://books.google.com/books?id=YCcDAAAAMBAJ&amp;pg=PA117"/>
-        <updated>2021-06-07T01:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117
-Comments URL: https://news.ycombinator.com/item?id=27418179
-Points: 43
-# Comments: 9]]></summary>
-        <author>
-            <name>asxd</name>
         </author>
     </entry>
     <entry>
@@ -411,16 +421,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
         <updated>2021-06-03T18:07:17.000Z</updated>
         <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless vs Fully Managed Services: What&#x27;s the Difference?]]></title>
-        <id>60aa708711ffb70827ef5f4b</id>
-        <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
-        <updated>2021-06-03T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
