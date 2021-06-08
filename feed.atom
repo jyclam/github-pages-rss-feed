@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T14:18:25.295Z</updated>
+    <updated>2021-06-08T15:13:22.552Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS-Trickz: An Experiment with Netlify’s On-Demand Builders]]></title>
+        <id>https://css-tricks.com/?p=341884</id>
+        <link href="https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/"/>
+        <updated>2021-06-08T14:16:07.000Z</updated>
+        <summary type="html"><![CDATA[WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.
+At first, the site …
+The post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams]]></title>
+        <id>https://news.ycombinator.com/item?id=27435377</id>
+        <link href="https://news.ycombinator.com/item?id=27435377"/>
+        <updated>2021-06-08T14:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN!
+I’m Gabriel, one of the co-founders of Runway (https://runway.team). We’re building a SaaS platform that makes it easier to coordinate your team’s mobile app releases. Runway is an integration layer that sits on top of mobile app teams’ existing project management and development tools, making it possible to understand at-a-glance the status and progress of release cycles and to communicate tasks and blockers — allowing teams to spend their time on improving their product instead of managing releases and tooling.
+When I was an iOS engineer, my team rotated everyone through the release manager role for each release cycle. I remember dreading the weeks I was assigned this role - I’d get stuck spending a few hours with multiple Chrome tabs open checking on the status of different tools…]]></summary>
+        <author>
+            <name>gsavit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ProtonMail v4 Is Out]]></title>
+        <id>https://news.ycombinator.com/item?id=27435321</id>
+        <link href="https://protonmail.com/blog/new-protonmail-announcement/"/>
+        <updated>2021-06-08T14:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://protonmail.com/blog/new-protonmail-announcement/
+Comments URL: https://news.ycombinator.com/item?id=27435321
+Points: 33
+# Comments: 5]]></summary>
+        <author>
+            <name>BafS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Netflix uses eBPF flow logs at scale for network insight]]></title>
         <id>https://news.ycombinator.com/item?id=27435081</id>
@@ -13,10 +51,36 @@
         <updated>2021-06-08T13:42:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
 Comments URL: https://news.ycombinator.com/item?id=27435081
-Points: 8
-# Comments: 0]]></summary>
+Points: 36
+# Comments: 8]]></summary>
         <author>
             <name>el_duderino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Aducanumab Approval]]></title>
+        <id>https://news.ycombinator.com/item?id=27434468</id>
+        <link href="https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval"/>
+        <updated>2021-06-08T12:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval
+Comments URL: https://news.ycombinator.com/item?id=27434468
+Points: 28
+# Comments: 7]]></summary>
+        <author>
+            <name>hprotagonist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Are Publishing the Tax Secrets of the .001%]]></title>
+        <id>https://news.ycombinator.com/item?id=27434307</id>
+        <link href="https://www.propublica.org/article/why-we-are-publishing-the-tax-secrets-of-the-001"/>
+        <updated>2021-06-08T12:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.propublica.org/article/why-we-are-publishing-the-tax-secrets-of-the-001
+Comments URL: https://news.ycombinator.com/item?id=27434307
+Points: 104
+# Comments: 71]]></summary>
+        <author>
+            <name>jbegley</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +90,8 @@ Points: 8
         <updated>2021-06-08T12:31:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/fmeringdal/nettu-meet
 Comments URL: https://news.ycombinator.com/item?id=27434254
-Points: 36
-# Comments: 10]]></summary>
+Points: 61
+# Comments: 20]]></summary>
         <author>
             <name>fmeringdal</name>
         </author>
@@ -39,8 +103,8 @@ Points: 36
         <updated>2021-06-08T12:29:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money
 Comments URL: https://news.ycombinator.com/item?id=27434243
-Points: 45
-# Comments: 10]]></summary>
+Points: 73
+# Comments: 18]]></summary>
         <author>
             <name>mdeck_</name>
         </author>
@@ -52,8 +116,8 @@ Points: 45
         <updated>2021-06-08T12:28:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41598-020-77611-z
 Comments URL: https://news.ycombinator.com/item?id=27434229
-Points: 12
-# Comments: 0]]></summary>
+Points: 17
+# Comments: 1]]></summary>
         <author>
             <name>tokai</name>
         </author>
@@ -65,8 +129,8 @@ Points: 12
         <updated>2021-06-08T12:21:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.playphrase.me
 Comments URL: https://news.ycombinator.com/item?id=27434159
-Points: 20
-# Comments: 5]]></summary>
+Points: 42
+# Comments: 14]]></summary>
         <author>
             <name>NKosmatos</name>
         </author>
@@ -78,8 +142,8 @@ Points: 20
         <updated>2021-06-08T12:19:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607
 Comments URL: https://news.ycombinator.com/item?id=27434139
-Points: 19
-# Comments: 6]]></summary>
+Points: 27
+# Comments: 9]]></summary>
         <author>
             <name>mardiyah</name>
         </author>
@@ -91,8 +155,8 @@ Points: 19
         <updated>2021-06-08T12:13:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor
 Comments URL: https://news.ycombinator.com/item?id=27434073
-Points: 26
-# Comments: 5]]></summary>
+Points: 32
+# Comments: 8]]></summary>
         <author>
             <name>cvwright</name>
         </author>
@@ -104,8 +168,8 @@ Points: 26
         <updated>2021-06-08T12:06:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.docker.com/blog/changes-to-docker-hub-autobuilds/
 Comments URL: https://news.ycombinator.com/item?id=27434009
-Points: 40
-# Comments: 31]]></summary>
+Points: 48
+# Comments: 34]]></summary>
         <author>
             <name>bnr</name>
         </author>
@@ -124,14 +188,24 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
+        <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
+        <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
+        <updated>2021-06-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Terraform 1.0]]></title>
         <id>https://news.ycombinator.com/item?id=27433863</id>
         <link href="https://github.com/hashicorp/terraform/releases/tag/v1.0.0"/>
         <updated>2021-06-08T11:49:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0
 Comments URL: https://news.ycombinator.com/item?id=27433863
-Points: 213
-# Comments: 94]]></summary>
+Points: 311
+# Comments: 134]]></summary>
         <author>
             <name>cube2222</name>
         </author>
@@ -143,23 +217,10 @@ Points: 213
         <updated>2021-06-08T11:13:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/grafana/grafana/releases/tag/v8.0.0
 Comments URL: https://news.ycombinator.com/item?id=27433552
-Points: 52
-# Comments: 6]]></summary>
+Points: 83
+# Comments: 8]]></summary>
         <author>
             <name>botayhard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple brings Safari web browser extensions to iPhone and iPad with iOS 15]]></title>
-        <id>https://news.ycombinator.com/item?id=27433535</id>
-        <link href="https://9to5mac.com/2021/06/07/apple-brings-safari-web-browser-extensions-to-iphone-and-ipad-with-ios-15/"/>
-        <updated>2021-06-08T11:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://9to5mac.com/2021/06/07/apple-brings-safari-web-browser-extensions-to-iphone-and-ipad-with-ios-15/
-Comments URL: https://news.ycombinator.com/item?id=27433535
-Points: 81
-# Comments: 36]]></summary>
-        <author>
-            <name>laktak</name>
         </author>
     </entry>
     <entry>
@@ -169,8 +230,8 @@ Points: 81
         <updated>2021-06-08T10:36:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://paulgraham.com/own.html
 Comments URL: https://news.ycombinator.com/item?id=27433040
-Points: 168
-# Comments: 77]]></summary>
+Points: 219
+# Comments: 106]]></summary>
         <author>
             <name>prtkgpt</name>
         </author>
@@ -182,8 +243,8 @@ Points: 168
         <updated>2021-06-08T10:17:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://webcache.googleusercontent.com/search?q=cache:bP-g6VgD1JcJ:https://anomexposed.wordpress.com/2021/03/29/anom-encrpted-scam-exposed/+&cd=1&hl=en&ct=clnk&gl=au
 Comments URL: https://news.ycombinator.com/item?id=27432750
-Points: 56
-# Comments: 29]]></summary>
+Points: 64
+# Comments: 40]]></summary>
         <author>
             <name>CPAhem</name>
         </author>
@@ -195,8 +256,8 @@ Points: 56
         <updated>2021-06-08T10:11:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/
 Comments URL: https://news.ycombinator.com/item?id=27432666
-Points: 87
-# Comments: 5]]></summary>
+Points: 101
+# Comments: 7]]></summary>
         <author>
             <name>teythoon</name>
         </author>
@@ -208,8 +269,8 @@ Points: 87
         <updated>2021-06-08T09:57:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fastly.com/
 Comments URL: https://news.ycombinator.com/item?id=27432408
-Points: 1088
-# Comments: 608]]></summary>
+Points: 1133
+# Comments: 623]]></summary>
         <author>
             <name>pcr0</name>
         </author>
@@ -221,49 +282,10 @@ Points: 1088
         <updated>2021-06-08T09:53:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you
 Comments URL: https://news.ycombinator.com/item?id=27432355
-Points: 121
-# Comments: 54]]></summary>
+Points: 164
+# Comments: 74]]></summary>
         <author>
             <name>hnthrowaway2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trove of Never-Before-Seen Records Reveal How the Wealthiest Avoid Income Tax]]></title>
-        <id>https://news.ycombinator.com/item?id=27432326</id>
-        <link href="https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax"/>
-        <updated>2021-06-08T09:49:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax
-Comments URL: https://news.ycombinator.com/item?id=27432326
-Points: 427
-# Comments: 404]]></summary>
-        <author>
-            <name>danso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snowtrack – a new version control software for graphic designers and 3D artists]]></title>
-        <id>https://news.ycombinator.com/item?id=27432101</id>
-        <link href="http://snowtrack.io/"/>
-        <updated>2021-06-08T09:06:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://snowtrack.io/
-Comments URL: https://news.ycombinator.com/item?id=27432101
-Points: 70
-# Comments: 30]]></summary>
-        <author>
-            <name>sebastian_io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Radio Bursts from Extragalactic Light Sails (2017) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27431999</id>
-        <link href="https://lweb.cfa.harvard.edu/~loeb/LL.pdf"/>
-        <updated>2021-06-08T08:50:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lweb.cfa.harvard.edu/~loeb/LL.pdf
-Comments URL: https://news.ycombinator.com/item?id=27431999
-Points: 41
-# Comments: 3]]></summary>
-        <author>
-            <name>mpweiher</name>
         </author>
     </entry>
     <entry>
@@ -647,18 +669,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
-        <id>https://css-tricks.com/?p=341163</id>
-        <link href="https://css-tricks.com/dynamic-favicons-for-wordpress/"/>
-        <updated>2021-05-28T14:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …
-The post Dynamic Favicons for WordPress appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Thomas Park</name>
         </author>
     </entry>
     <entry>
