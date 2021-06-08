@@ -2,21 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T18:39:02.800Z</updated>
+    <updated>2021-06-08T19:35:32.728Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Why Can't Computing at the Heart of Bitcoin Be More Useful?]]></title>
-        <id>https://news.ycombinator.com/item?id=27438401</id>
-        <link href="https://spectrum.ieee.org/energywise/computing/networks/making-blockchain-bitcoin-computing-more-useful"/>
-        <updated>2021-06-08T17:43:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/energywise/computing/networks/making-blockchain-bitcoin-computing-more-useful
-Comments URL: https://news.ycombinator.com/item?id=27438401
-Points: 47
-# Comments: 37]]></summary>
+        <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
+        <id>https://css-tricks.com/?p=341982</id>
+        <link href="https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/"/>
+        <updated>2021-06-08T18:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …
+The post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>tmfi</name>
+            <name>Todd Libby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-world CSS vs. CSS-in-JS performance comparison]]></title>
+        <id>https://news.ycombinator.com/item?id=27438913</id>
+        <link href="https://pustelto.com/blog/css-vs-css-in-js-perf/"/>
+        <updated>2021-06-08T18:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pustelto.com/blog/css-vs-css-in-js-perf/
+Comments URL: https://news.ycombinator.com/item?id=27438913
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>______-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Deno Land with Ryan Dahl [audio]]]></title>
+        <id>https://news.ycombinator.com/item?id=27438478</id>
+        <link href="http://changelog.com/podcast/443"/>
+        <updated>2021-06-08T17:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://changelog.com/podcast/443
+Comments URL: https://news.ycombinator.com/item?id=27438478
+Points: 19
+# Comments: 4]]></summary>
+        <author>
+            <name>binarynate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bafflement Fires]]></title>
+        <id>https://news.ycombinator.com/item?id=27438413</id>
+        <link href="http://www.dpoetry.com/fires/"/>
+        <updated>2021-06-08T17:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.dpoetry.com/fires/
+Comments URL: https://news.ycombinator.com/item?id=27438413
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>dearwell</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +64,8 @@ Points: 47
         <updated>2021-06-08T17:43:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html
 Comments URL: https://news.ycombinator.com/item?id=27438400
-Points: 67
-# Comments: 8]]></summary>
+Points: 93
+# Comments: 29]]></summary>
         <author>
             <name>joeyespo</name>
         </author>
@@ -39,8 +77,8 @@ Points: 67
         <updated>2021-06-08T17:38:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://syntheticmessenger.labr.io/#about
 Comments URL: https://news.ycombinator.com/item?id=27438318
-Points: 11
-# Comments: 4]]></summary>
+Points: 18
+# Comments: 7]]></summary>
         <author>
             <name>collate</name>
         </author>
@@ -59,14 +97,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Consciousness of Invertebrates]]></title>
+        <id>https://news.ycombinator.com/item?id=27437772</id>
+        <link href="https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates"/>
+        <updated>2021-06-08T17:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates
+Comments URL: https://news.ycombinator.com/item?id=27437772
+Points: 9
+# Comments: 4]]></summary>
+        <author>
+            <name>quercusa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Seasteading Creates RPG]]></title>
         <id>https://news.ycombinator.com/item?id=27437766</id>
         <link href="https://www.seasteading.org/rpg/"/>
         <updated>2021-06-08T17:00:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seasteading.org/rpg/
 Comments URL: https://news.ycombinator.com/item?id=27437766
-Points: 19
-# Comments: 8]]></summary>
+Points: 27
+# Comments: 26]]></summary>
         <author>
             <name>keiferski</name>
         </author>
@@ -78,8 +129,8 @@ Points: 19
         <updated>2021-06-08T16:50:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ftc.gov/news-events/press-releases/2021/06/operators-moviepass-subscription-service-agree-settle-ftc
 Comments URL: https://news.ycombinator.com/item?id=27437641
-Points: 253
-# Comments: 115]]></summary>
+Points: 271
+# Comments: 130]]></summary>
         <author>
             <name>aarestad</name>
         </author>
@@ -91,8 +142,8 @@ Points: 253
         <updated>2021-06-08T16:47:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://play.date/
 Comments URL: https://news.ycombinator.com/item?id=27437600
-Points: 185
-# Comments: 81]]></summary>
+Points: 244
+# Comments: 129]]></summary>
         <author>
             <name>cepp</name>
         </author>
@@ -124,8 +175,8 @@ Points: 185
         <updated>2021-06-08T15:57:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.atomist.com/keeping-up-with-docker-official-images/
 Comments URL: https://news.ycombinator.com/item?id=27436850
-Points: 24
-# Comments: 4]]></summary>
+Points: 30
+# Comments: 6]]></summary>
         <author>
             <name>slimslenders</name>
         </author>
@@ -139,19 +190,6 @@ Points: 24
 The post Implementing Private Fields for JavaScript appeared first on Mozilla Hacks - the Web developer blog.]]></summary>
         <author>
             <name>Matthew Gaudet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A walk in nature is better than microdosing]]></title>
-        <id>https://news.ycombinator.com/item?id=27435972</id>
-        <link href="https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/"/>
-        <updated>2021-06-08T14:53:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/
-Comments URL: https://news.ycombinator.com/item?id=27435972
-Points: 197
-# Comments: 145]]></summary>
-        <author>
-            <name>unifiedtheory</name>
         </author>
     </entry>
     <entry>
@@ -185,8 +223,8 @@ When I was an iOS engineer, my team rotated everyone through the release manager
         <updated>2021-06-08T13:42:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
 Comments URL: https://news.ycombinator.com/item?id=27435081
-Points: 171
-# Comments: 17]]></summary>
+Points: 195
+# Comments: 19]]></summary>
         <author>
             <name>el_duderino</name>
         </author>
@@ -198,23 +236,10 @@ Points: 171
         <updated>2021-06-08T12:51:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval
 Comments URL: https://news.ycombinator.com/item?id=27434468
-Points: 94
-# Comments: 48]]></summary>
+Points: 99
+# Comments: 56]]></summary>
         <author>
             <name>hprotagonist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Are Publishing the Tax Secrets of the .001%]]></title>
-        <id>https://news.ycombinator.com/item?id=27434307</id>
-        <link href="https://www.propublica.org/article/why-we-are-publishing-the-tax-secrets-of-the-001"/>
-        <updated>2021-06-08T12:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.propublica.org/article/why-we-are-publishing-the-tax-secrets-of-the-001
-Comments URL: https://news.ycombinator.com/item?id=27434307
-Points: 440
-# Comments: 328]]></summary>
-        <author>
-            <name>jbegley</name>
         </author>
     </entry>
     <entry>
@@ -224,8 +249,8 @@ Points: 440
         <updated>2021-06-08T12:31:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/fmeringdal/nettu-meet
 Comments URL: https://news.ycombinator.com/item?id=27434254
-Points: 99
-# Comments: 29]]></summary>
+Points: 105
+# Comments: 35]]></summary>
         <author>
             <name>fmeringdal</name>
         </author>
@@ -237,8 +262,8 @@ Points: 99
         <updated>2021-06-08T12:29:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money
 Comments URL: https://news.ycombinator.com/item?id=27434243
-Points: 137
-# Comments: 49]]></summary>
+Points: 147
+# Comments: 61]]></summary>
         <author>
             <name>mdeck_</name>
         </author>
@@ -250,8 +275,8 @@ Points: 137
         <updated>2021-06-08T12:21:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.playphrase.me
 Comments URL: https://news.ycombinator.com/item?id=27434159
-Points: 76
-# Comments: 26]]></summary>
+Points: 79
+# Comments: 28]]></summary>
         <author>
             <name>NKosmatos</name>
         </author>
@@ -263,8 +288,8 @@ Points: 76
         <updated>2021-06-08T12:13:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor
 Comments URL: https://news.ycombinator.com/item?id=27434073
-Points: 52
-# Comments: 33]]></summary>
+Points: 54
+# Comments: 34]]></summary>
         <author>
             <name>cvwright</name>
         </author>
@@ -286,8 +311,8 @@ Points: 52
         <updated>2021-06-08T11:49:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0
 Comments URL: https://news.ycombinator.com/item?id=27433863
-Points: 508
-# Comments: 215]]></summary>
+Points: 535
+# Comments: 224]]></summary>
         <author>
             <name>cube2222</name>
         </author>
@@ -299,23 +324,10 @@ Points: 508
         <updated>2021-06-08T11:13:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/grafana/grafana/releases/tag/v8.0.0
 Comments URL: https://news.ycombinator.com/item?id=27433552
-Points: 254
+Points: 276
 # Comments: 28]]></summary>
         <author>
             <name>botayhard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Project of One’s Own]]></title>
-        <id>https://news.ycombinator.com/item?id=27433040</id>
-        <link href="http://paulgraham.com/own.html"/>
-        <updated>2021-06-08T10:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://paulgraham.com/own.html
-Comments URL: https://news.ycombinator.com/item?id=27433040
-Points: 365
-# Comments: 193]]></summary>
-        <author>
-            <name>prtkgpt</name>
         </author>
     </entry>
     <entry>
@@ -657,18 +669,6 @@ The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams ap
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Jason Lengstorf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local: Always Getting Better]]></title>
-        <id>https://css-tricks.com/?p=341482</id>
-        <link href="https://css-tricks.com/local-always-getting-better/"/>
-        <updated>2021-05-31T17:13:02.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …
-The post Local: Always Getting Better appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
