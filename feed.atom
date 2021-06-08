@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T19:35:32.728Z</updated>
+    <updated>2021-06-08T20:18:44.223Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scientific Computing with Perl]]></title>
+        <id>https://news.ycombinator.com/item?id=27439638</id>
+        <link href="http://pdl.perl.org/"/>
+        <updated>2021-06-08T19:24:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://pdl.perl.org/
+Comments URL: https://news.ycombinator.com/item?id=27439638
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>smartmic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
         <id>https://css-tricks.com/?p=341982</id>
@@ -19,14 +32,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ohio sues Google, seeks to declare the internet company a public utility]]></title>
+        <id>https://news.ycombinator.com/item?id=27439010</id>
+        <link href="https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/"/>
+        <updated>2021-06-08T18:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/
+Comments URL: https://news.ycombinator.com/item?id=27439010
+Points: 54
+# Comments: 12]]></summary>
+        <author>
+            <name>infodocket</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Real-world CSS vs. CSS-in-JS performance comparison]]></title>
         <id>https://news.ycombinator.com/item?id=27438913</id>
         <link href="https://pustelto.com/blog/css-vs-css-in-js-perf/"/>
         <updated>2021-06-08T18:24:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pustelto.com/blog/css-vs-css-in-js-perf/
 Comments URL: https://news.ycombinator.com/item?id=27438913
-Points: 10
-# Comments: 0]]></summary>
+Points: 51
+# Comments: 13]]></summary>
         <author>
             <name>______-</name>
         </author>
@@ -38,8 +64,8 @@ Points: 10
         <updated>2021-06-08T17:48:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://changelog.com/podcast/443
 Comments URL: https://news.ycombinator.com/item?id=27438478
-Points: 19
-# Comments: 4]]></summary>
+Points: 31
+# Comments: 7]]></summary>
         <author>
             <name>binarynate</name>
         </author>
@@ -51,40 +77,14 @@ Points: 19
         <updated>2021-06-08T17:44:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.dpoetry.com/fires/
 Comments URL: https://news.ycombinator.com/item?id=27438413
-Points: 4
+Points: 8
 # Comments: 0]]></summary>
         <author>
             <name>dearwell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Plan for React 18]]></title>
-        <id>https://news.ycombinator.com/item?id=27438400</id>
-        <link href="https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html"/>
-        <updated>2021-06-08T17:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html
-Comments URL: https://news.ycombinator.com/item?id=27438400
-Points: 93
-# Comments: 29]]></summary>
-        <author>
-            <name>joeyespo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthetic Messenger: A botnet scheme for climate news]]></title>
-        <id>https://news.ycombinator.com/item?id=27438318</id>
-        <link href="https://syntheticmessenger.labr.io/#about"/>
-        <updated>2021-06-08T17:38:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://syntheticmessenger.labr.io/#about
-Comments URL: https://news.ycombinator.com/item?id=27438318
-Points: 18
-# Comments: 7]]></summary>
-        <author>
-            <name>collate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthetic Minds (YC S18) Is Hiring a compilers engineer for program synthesis]]></title>
+        <title type="html"><![CDATA[Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis]]></title>
         <id>https://news.ycombinator.com/item?id=27437775</id>
         <link href="https://www.workatastartup.com/jobs/44386"/>
         <updated>2021-06-08T17:01:13.000Z</updated>
@@ -103,8 +103,8 @@ Points: 1
         <updated>2021-06-08T17:00:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates
 Comments URL: https://news.ycombinator.com/item?id=27437772
-Points: 9
-# Comments: 4]]></summary>
+Points: 23
+# Comments: 7]]></summary>
         <author>
             <name>quercusa</name>
         </author>
@@ -116,8 +116,8 @@ Points: 9
         <updated>2021-06-08T17:00:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seasteading.org/rpg/
 Comments URL: https://news.ycombinator.com/item?id=27437766
-Points: 27
-# Comments: 26]]></summary>
+Points: 29
+# Comments: 47]]></summary>
         <author>
             <name>keiferski</name>
         </author>
@@ -129,8 +129,8 @@ Points: 27
         <updated>2021-06-08T16:50:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ftc.gov/news-events/press-releases/2021/06/operators-moviepass-subscription-service-agree-settle-ftc
 Comments URL: https://news.ycombinator.com/item?id=27437641
-Points: 271
-# Comments: 130]]></summary>
+Points: 281
+# Comments: 136]]></summary>
         <author>
             <name>aarestad</name>
         </author>
@@ -142,8 +142,8 @@ Points: 271
         <updated>2021-06-08T16:47:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://play.date/
 Comments URL: https://news.ycombinator.com/item?id=27437600
-Points: 244
-# Comments: 129]]></summary>
+Points: 268
+# Comments: 143]]></summary>
         <author>
             <name>cepp</name>
         </author>
@@ -156,6 +156,19 @@ Points: 244
         <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To protect against weaponized drones, we must understand their key strengths]]></title>
+        <id>https://news.ycombinator.com/item?id=27437092</id>
+        <link href="https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths"/>
+        <updated>2021-06-08T16:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths
+Comments URL: https://news.ycombinator.com/item?id=27437092
+Points: 36
+# Comments: 65]]></summary>
+        <author>
+            <name>jonbaer</name>
         </author>
     </entry>
     <entry>
@@ -175,8 +188,8 @@ Points: 244
         <updated>2021-06-08T15:57:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.atomist.com/keeping-up-with-docker-official-images/
 Comments URL: https://news.ycombinator.com/item?id=27436850
-Points: 30
-# Comments: 6]]></summary>
+Points: 33
+# Comments: 13]]></summary>
         <author>
             <name>slimslenders</name>
         </author>
@@ -223,8 +236,8 @@ When I was an iOS engineer, my team rotated everyone through the release manager
         <updated>2021-06-08T13:42:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
 Comments URL: https://news.ycombinator.com/item?id=27435081
-Points: 195
-# Comments: 19]]></summary>
+Points: 205
+# Comments: 25]]></summary>
         <author>
             <name>el_duderino</name>
         </author>
@@ -236,8 +249,8 @@ Points: 195
         <updated>2021-06-08T12:51:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval
 Comments URL: https://news.ycombinator.com/item?id=27434468
-Points: 99
-# Comments: 56]]></summary>
+Points: 106
+# Comments: 64]]></summary>
         <author>
             <name>hprotagonist</name>
         </author>
@@ -249,21 +262,21 @@ Points: 99
         <updated>2021-06-08T12:31:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/fmeringdal/nettu-meet
 Comments URL: https://news.ycombinator.com/item?id=27434254
-Points: 105
+Points: 111
 # Comments: 35]]></summary>
         <author>
             <name>fmeringdal</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the Government Set Up a Fake Bank to Launder Drug Money (2012)]]></title>
+        <title type="html"><![CDATA[How the government set up a fake bank to launder drug money (2012)]]></title>
         <id>https://news.ycombinator.com/item?id=27434243</id>
         <link href="https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money"/>
         <updated>2021-06-08T12:29:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money
 Comments URL: https://news.ycombinator.com/item?id=27434243
-Points: 147
-# Comments: 61]]></summary>
+Points: 153
+# Comments: 64]]></summary>
         <author>
             <name>mdeck_</name>
         </author>
@@ -275,8 +288,8 @@ Points: 147
         <updated>2021-06-08T12:21:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.playphrase.me
 Comments URL: https://news.ycombinator.com/item?id=27434159
-Points: 79
-# Comments: 28]]></summary>
+Points: 85
+# Comments: 30]]></summary>
         <author>
             <name>NKosmatos</name>
         </author>
@@ -288,7 +301,7 @@ Points: 79
         <updated>2021-06-08T12:13:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor
 Comments URL: https://news.ycombinator.com/item?id=27434073
-Points: 54
+Points: 56
 # Comments: 34]]></summary>
         <author>
             <name>cvwright</name>
@@ -311,23 +324,10 @@ Points: 54
         <updated>2021-06-08T11:49:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0
 Comments URL: https://news.ycombinator.com/item?id=27433863
-Points: 535
-# Comments: 224]]></summary>
+Points: 553
+# Comments: 234]]></summary>
         <author>
             <name>cube2222</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana 8.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27433552</id>
-        <link href="https://github.com/grafana/grafana/releases/tag/v8.0.0"/>
-        <updated>2021-06-08T11:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/grafana/grafana/releases/tag/v8.0.0
-Comments URL: https://news.ycombinator.com/item?id=27433552
-Points: 276
-# Comments: 28]]></summary>
-        <author>
-            <name>botayhard</name>
         </author>
     </entry>
     <entry>
@@ -980,22 +980,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
         <updated>2021-05-10T08:55:42.000Z</updated>
         <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.6.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
-        <updated>2021-05-10T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
-Added: Store feedUrl and siteUrl for each source in cache.
-Added: Semantic element (<time>) for timestamp on the UI.
-Added: Semantic API for theming the default template. Demo | Source | Docs
-Changed: Moved feed metadata from article level to feed level in cache.
-Fixed: Any html-like text was stripped from title. Fixed with encoded text.
-Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
