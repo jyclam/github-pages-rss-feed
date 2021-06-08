@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T16:33:41.505Z</updated>
+    <updated>2021-06-08T17:51:34.812Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Synthetic Messenger: A botnet scheme for climate news]]></title>
+        <id>https://news.ycombinator.com/item?id=27438318</id>
+        <link href="https://syntheticmessenger.labr.io/#about"/>
+        <updated>2021-06-08T17:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://syntheticmessenger.labr.io/#about
+Comments URL: https://news.ycombinator.com/item?id=27438318
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>collate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synthetic Minds (YC S18) Is Hiring a compilers engineer for program synthesis]]></title>
+        <id>https://news.ycombinator.com/item?id=27437775</id>
+        <link href="https://www.workatastartup.com/jobs/44386"/>
+        <updated>2021-06-08T17:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/44386
+Comments URL: https://news.ycombinator.com/item?id=27437775
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>saurabh20n</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seasteading Creates RPG]]></title>
+        <id>https://news.ycombinator.com/item?id=27437766</id>
+        <link href="https://www.seasteading.org/rpg/"/>
+        <updated>2021-06-08T17:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.seasteading.org/rpg/
+Comments URL: https://news.ycombinator.com/item?id=27437766
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>keiferski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MoviePass changed some users' passwords so they couldn't use the service]]></title>
+        <id>https://news.ycombinator.com/item?id=27437641</id>
+        <link href="https://www.ftc.gov/news-events/press-releases/2021/06/operators-moviepass-subscription-service-agree-settle-ftc"/>
+        <updated>2021-06-08T16:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ftc.gov/news-events/press-releases/2021/06/operators-moviepass-subscription-service-agree-settle-ftc
+Comments URL: https://news.ycombinator.com/item?id=27437641
+Points: 201
+# Comments: 69]]></summary>
+        <author>
+            <name>aarestad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playdate. Pre-orders begin in July]]></title>
+        <id>https://news.ycombinator.com/item?id=27437600</id>
+        <link href="https://play.date/"/>
+        <updated>2021-06-08T16:47:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://play.date/
+Comments URL: https://news.ycombinator.com/item?id=27437600
+Points: 127
+# Comments: 45]]></summary>
+        <author>
+            <name>cepp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
         <id>60b23b8911ffb70827ef954e</id>
@@ -14,6 +79,19 @@
         <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To Protect Against Weaponized Drones, We Must Understand Their Key Strengths]]></title>
+        <id>https://news.ycombinator.com/item?id=27437092</id>
+        <link href="https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths"/>
+        <updated>2021-06-08T16:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths
+Comments URL: https://news.ycombinator.com/item?id=27437092
+Points: 28
+# Comments: 35]]></summary>
+        <author>
+            <name>jonbaer</name>
         </author>
     </entry>
     <entry>
@@ -33,23 +111,10 @@
         <updated>2021-06-08T15:57:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.atomist.com/keeping-up-with-docker-official-images/
 Comments URL: https://news.ycombinator.com/item?id=27436850
-Points: 4
-# Comments: 0]]></summary>
+Points: 19
+# Comments: 2]]></summary>
         <author>
             <name>slimslenders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How California Homelessness Became a Crisis]]></title>
-        <id>https://news.ycombinator.com/item?id=27436516</id>
-        <link href="https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis"/>
-        <updated>2021-06-08T15:32:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis
-Comments URL: https://news.ycombinator.com/item?id=27436516
-Points: 41
-# Comments: 29]]></summary>
-        <author>
-            <name>ike77</name>
         </author>
     </entry>
     <entry>
@@ -70,8 +135,8 @@ The post Implementing Private Fields for JavaScript appeared first on Mozilla Ha
         <updated>2021-06-08T14:53:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/
 Comments URL: https://news.ycombinator.com/item?id=27435972
-Points: 88
-# Comments: 66]]></summary>
+Points: 172
+# Comments: 116]]></summary>
         <author>
             <name>unifiedtheory</name>
         </author>
@@ -108,8 +173,8 @@ When I was an iOS engineer, my team rotated everyone through the release manager
         <updated>2021-06-08T13:42:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
 Comments URL: https://news.ycombinator.com/item?id=27435081
-Points: 100
-# Comments: 11]]></summary>
+Points: 149
+# Comments: 15]]></summary>
         <author>
             <name>el_duderino</name>
         </author>
@@ -121,8 +186,8 @@ Points: 100
         <updated>2021-06-08T12:51:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval
 Comments URL: https://news.ycombinator.com/item?id=27434468
-Points: 64
-# Comments: 34]]></summary>
+Points: 84
+# Comments: 45]]></summary>
         <author>
             <name>hprotagonist</name>
         </author>
@@ -134,8 +199,8 @@ Points: 64
         <updated>2021-06-08T12:36:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.propublica.org/article/why-we-are-publishing-the-tax-secrets-of-the-001
 Comments URL: https://news.ycombinator.com/item?id=27434307
-Points: 261
-# Comments: 176]]></summary>
+Points: 394
+# Comments: 282]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -147,8 +212,8 @@ Points: 261
         <updated>2021-06-08T12:31:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/fmeringdal/nettu-meet
 Comments URL: https://news.ycombinator.com/item?id=27434254
-Points: 79
-# Comments: 23]]></summary>
+Points: 93
+# Comments: 28]]></summary>
         <author>
             <name>fmeringdal</name>
         </author>
@@ -160,23 +225,10 @@ Points: 79
         <updated>2021-06-08T12:29:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money
 Comments URL: https://news.ycombinator.com/item?id=27434243
-Points: 105
-# Comments: 31]]></summary>
+Points: 131
+# Comments: 47]]></summary>
         <author>
             <name>mdeck_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evidence for burial for the La Ferrassie 8 Neandertal child (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27434229</id>
-        <link href="https://www.nature.com/articles/s41598-020-77611-z"/>
-        <updated>2021-06-08T12:28:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41598-020-77611-z
-Comments URL: https://news.ycombinator.com/item?id=27434229
-Points: 20
-# Comments: 1]]></summary>
-        <author>
-            <name>tokai</name>
         </author>
     </entry>
     <entry>
@@ -186,8 +238,8 @@ Points: 20
         <updated>2021-06-08T12:21:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.playphrase.me
 Comments URL: https://news.ycombinator.com/item?id=27434159
-Points: 57
-# Comments: 21]]></summary>
+Points: 70
+# Comments: 23]]></summary>
         <author>
             <name>NKosmatos</name>
         </author>
@@ -199,7 +251,7 @@ Points: 57
         <updated>2021-06-08T12:19:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607
 Comments URL: https://news.ycombinator.com/item?id=27434139
-Points: 39
+Points: 44
 # Comments: 9]]></summary>
         <author>
             <name>mardiyah</name>
@@ -212,23 +264,10 @@ Points: 39
         <updated>2021-06-08T12:13:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor
 Comments URL: https://news.ycombinator.com/item?id=27434073
-Points: 43
-# Comments: 20]]></summary>
+Points: 49
+# Comments: 28]]></summary>
         <author>
             <name>cvwright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pachyderm Is Hiring for Product Marketing and Developer Productivity Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27433958</id>
-        <link href="https://www.pachyderm.com/careers/#positions"/>
-        <updated>2021-06-08T12:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pachyderm.com/careers/#positions
-Comments URL: https://news.ycombinator.com/item?id=27433958
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>jaz46</name>
         </author>
     </entry>
     <entry>
@@ -248,8 +287,8 @@ Points: 1
         <updated>2021-06-08T11:49:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0
 Comments URL: https://news.ycombinator.com/item?id=27433863
-Points: 411
-# Comments: 171]]></summary>
+Points: 475
+# Comments: 194]]></summary>
         <author>
             <name>cube2222</name>
         </author>
@@ -261,8 +300,8 @@ Points: 411
         <updated>2021-06-08T11:13:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/grafana/grafana/releases/tag/v8.0.0
 Comments URL: https://news.ycombinator.com/item?id=27433552
-Points: 186
-# Comments: 16]]></summary>
+Points: 231
+# Comments: 27]]></summary>
         <author>
             <name>botayhard</name>
         </author>
@@ -274,49 +313,10 @@ Points: 186
         <updated>2021-06-08T10:36:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://paulgraham.com/own.html
 Comments URL: https://news.ycombinator.com/item?id=27433040
-Points: 290
-# Comments: 142]]></summary>
+Points: 338
+# Comments: 176]]></summary>
         <author>
             <name>prtkgpt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anom Encrypted App Analysis]]></title>
-        <id>https://news.ycombinator.com/item?id=27432750</id>
-        <link href="https://webcache.googleusercontent.com/search?q=cache:bP-g6VgD1JcJ:https://anomexposed.wordpress.com/2021/03/29/anom-encrpted-scam-exposed/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=au"/>
-        <updated>2021-06-08T10:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://webcache.googleusercontent.com/search?q=cache:bP-g6VgD1JcJ:https://anomexposed.wordpress.com/2021/03/29/anom-encrpted-scam-exposed/+&cd=1&hl=en&ct=clnk&gl=au
-Comments URL: https://news.ycombinator.com/item?id=27432750
-Points: 72
-# Comments: 50]]></summary>
-        <author>
-            <name>CPAhem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequoia 1.3]]></title>
-        <id>https://news.ycombinator.com/item?id=27432666</id>
-        <link href="https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/"/>
-        <updated>2021-06-08T10:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/
-Comments URL: https://news.ycombinator.com/item?id=27432666
-Points: 114
-# Comments: 8]]></summary>
-        <author>
-            <name>teythoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastly Outage]]></title>
-        <id>https://news.ycombinator.com/item?id=27432408</id>
-        <link href="https://fastly.com/"/>
-        <updated>2021-06-08T09:57:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fastly.com/
-Comments URL: https://news.ycombinator.com/item?id=27432408
-Points: 1177
-# Comments: 647]]></summary>
-        <author>
-            <name>pcr0</name>
         </author>
     </entry>
     <entry>
