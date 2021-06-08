@@ -6,9 +6,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27440726",
+          "author": "grabowss",
+          "description": "Article URL: https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22\nComments URL: https://news.ycombinator.com/item?id=27440726\nPoints: 1\n# Comments: 0",
+          "link": "https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22",
+          "publishedOn": "2021-06-08T21:00:19.000Z",
+          "wordCount": 15,
+          "title": "Gordian Software (YC W19, Airline API Platform) Is Hiring Back End Engineers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27440553",
+          "author": "feross",
+          "description": "Article URL: https://astro.build/blog/introducing-astro\nComments URL: https://news.ycombinator.com/item?id=27440553\nPoints: 19\n# Comments: 0",
+          "link": "https://astro.build/blog/introducing-astro",
+          "publishedOn": "2021-06-08T20:46:02.000Z",
+          "wordCount": 952,
+          "title": "Astro: Ship Less JavaScript"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27440516",
+          "author": "nomoreplease",
+          "description": "Article URL: https://github.com/hendotcat/ppl\nComments URL: https://news.ycombinator.com/item?id=27440516\nPoints: 6\n# Comments: 0",
+          "link": "https://github.com/hendotcat/ppl",
+          "publishedOn": "2021-06-08T20:43:43.000Z",
+          "wordCount": 849,
+          "title": "Ppl: The command line address book"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27440143",
+          "author": "gmays",
+          "description": "Article URL: https://research.noaa.gov/article/ArtMID/587/ArticleID/2764/Coronavirus-response-barely-slows-rising-carbon-dioxide\nComments URL: https://news.ycombinator.com/item?id=27440143\nPoints: 61\n# Comments: 19",
+          "link": "https://research.noaa.gov/article/ArtMID/587/ArticleID/2764/Coronavirus-response-barely-slows-rising-carbon-dioxide",
+          "publishedOn": "2021-06-08T20:12:51.000Z",
+          "wordCount": 1216,
+          "title": "Carbon dioxide peaks near 420 parts per million at Mauna Loa observatory"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27439959",
+          "author": "enigmadev",
+          "description": "Article URL: https://milc.xyz/iron-dome/\nComments URL: https://news.ycombinator.com/item?id=27439959\nPoints: 6\n# Comments: 1",
+          "link": "https://milc.xyz/iron-dome/",
+          "publishedOn": "2021-06-08T19:54:56.000Z",
+          "wordCount": 530,
+          "title": "The insane developement history of the Israeli AD system"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27439638",
           "author": "smartmic",
-          "description": "Article URL: http://pdl.perl.org/\nComments URL: https://news.ycombinator.com/item?id=27439638\nPoints: 9\n# Comments: 0",
+          "description": "Article URL: http://pdl.perl.org/\nComments URL: https://news.ycombinator.com/item?id=27439638\nPoints: 43\n# Comments: 7",
           "link": "http://pdl.perl.org/",
           "publishedOn": "2021-06-08T19:24:11.000Z",
           "wordCount": 350,
@@ -17,7 +62,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27439010",
           "author": "infodocket",
-          "description": "Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/\nComments URL: https://news.ycombinator.com/item?id=27439010\nPoints: 54\n# Comments: 12",
+          "description": "Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/\nComments URL: https://news.ycombinator.com/item?id=27439010\nPoints: 203\n# Comments: 144",
           "link": "https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/",
           "publishedOn": "2021-06-08T18:31:07.000Z",
           "wordCount": 475,
@@ -26,43 +71,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27438913",
           "author": "______-",
-          "description": "Article URL: https://pustelto.com/blog/css-vs-css-in-js-perf/\nComments URL: https://news.ycombinator.com/item?id=27438913\nPoints: 51\n# Comments: 13",
+          "description": "Article URL: https://pustelto.com/blog/css-vs-css-in-js-perf/\nComments URL: https://news.ycombinator.com/item?id=27438913\nPoints: 83\n# Comments: 39",
           "link": "https://pustelto.com/blog/css-vs-css-in-js-perf/",
           "publishedOn": "2021-06-08T18:24:39.000Z",
-          "wordCount": 1492,
+          "wordCount": null,
           "title": "Real-world CSS vs. CSS-in-JS performance comparison"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27438478",
-          "author": "binarynate",
-          "description": "Article URL: http://changelog.com/podcast/443\nComments URL: https://news.ycombinator.com/item?id=27438478\nPoints: 31\n# Comments: 7",
-          "link": "http://changelog.com/podcast/443",
-          "publishedOn": "2021-06-08T17:48:25.000Z",
-          "wordCount": 486,
-          "title": "Exploring Deno Land with Ryan Dahl [audio]"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27438413",
           "author": "dearwell",
-          "description": "Article URL: http://www.dpoetry.com/fires/\nComments URL: https://news.ycombinator.com/item?id=27438413\nPoints: 8\n# Comments: 0",
+          "description": "Article URL: http://www.dpoetry.com/fires/\nComments URL: https://news.ycombinator.com/item?id=27438413\nPoints: 10\n# Comments: 1",
           "link": "http://www.dpoetry.com/fires/",
           "publishedOn": "2021-06-08T17:44:00.000Z",
           "wordCount": 5,
           "title": "The Bafflement Fires"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27437775",
-          "author": "saurabh20n",
-          "description": "Article URL: https://www.workatastartup.com/jobs/44386\nComments URL: https://news.ycombinator.com/item?id=27437775\nPoints: 1\n# Comments: 0",
-          "link": "https://www.workatastartup.com/jobs/44386",
-          "publishedOn": "2021-06-08T17:01:13.000Z",
-          "wordCount": 677,
-          "title": "Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27437772",
           "author": "quercusa",
-          "description": "Article URL: https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates\nComments URL: https://news.ycombinator.com/item?id=27437772\nPoints: 23\n# Comments: 7",
+          "description": "Article URL: https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates\nComments URL: https://news.ycombinator.com/item?id=27437772\nPoints: 30\n# Comments: 14",
           "link": "https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates",
           "publishedOn": "2021-06-08T17:00:59.000Z",
           "wordCount": 8471,
@@ -71,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27437766",
           "author": "keiferski",
-          "description": "Article URL: https://www.seasteading.org/rpg/\nComments URL: https://news.ycombinator.com/item?id=27437766\nPoints: 29\n# Comments: 47",
+          "description": "Article URL: https://www.seasteading.org/rpg/\nComments URL: https://news.ycombinator.com/item?id=27437766\nPoints: 33\n# Comments: 71",
           "link": "https://www.seasteading.org/rpg/",
           "publishedOn": "2021-06-08T17:00:26.000Z",
           "wordCount": 1015,
@@ -80,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27437641",
           "author": "aarestad",
-          "description": "Article URL: https://www.ftc.gov/news-events/press-releases/2021/06/operators-moviepass-subscription-service-agree-settle-ftc\nComments URL: https://news.ycombinator.com/item?id=27437641\nPoints: 281\n# Comments: 136",
+          "description": "Article URL: https://www.ftc.gov/news-events/press-releases/2021/06/operators-moviepass-subscription-service-agree-settle-ftc\nComments URL: https://news.ycombinator.com/item?id=27437641\nPoints: 286\n# Comments: 142",
           "link": "https://www.ftc.gov/news-events/press-releases/2021/06/operators-moviepass-subscription-service-agree-settle-ftc",
           "publishedOn": "2021-06-08T16:50:45.000Z",
           "wordCount": 2011,
@@ -89,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27437600",
           "author": "cepp",
-          "description": "Article URL: https://play.date/\nComments URL: https://news.ycombinator.com/item?id=27437600\nPoints: 268\n# Comments: 143",
+          "description": "Article URL: https://play.date/\nComments URL: https://news.ycombinator.com/item?id=27437600\nPoints: 285\n# Comments: 160",
           "link": "https://play.date/",
           "publishedOn": "2021-06-08T16:47:41.000Z",
           "wordCount": 870,
@@ -98,20 +125,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27437092",
           "author": "jonbaer",
-          "description": "Article URL: https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths\nComments URL: https://news.ycombinator.com/item?id=27437092\nPoints: 36\n# Comments: 65",
+          "description": "Article URL: https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths\nComments URL: https://news.ycombinator.com/item?id=27437092\nPoints: 44\n# Comments: 80",
           "link": "https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths",
           "publishedOn": "2021-06-08T16:12:23.000Z",
           "wordCount": 44,
           "title": "To protect against weaponized drones, we must understand their key strengths"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27436850",
-          "author": "slimslenders",
-          "description": "Article URL: https://blog.atomist.com/keeping-up-with-docker-official-images/\nComments URL: https://news.ycombinator.com/item?id=27436850\nPoints: 33\n# Comments: 13",
-          "link": "https://blog.atomist.com/keeping-up-with-docker-official-images/",
-          "publishedOn": "2021-06-08T15:57:04.000Z",
-          "wordCount": 1727,
-          "title": "Keeping Up with Docker Official Images"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27435377",
@@ -125,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27435081",
           "author": "el_duderino",
-          "description": "Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96\nComments URL: https://news.ycombinator.com/item?id=27435081\nPoints: 205\n# Comments: 25",
+          "description": "Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96\nComments URL: https://news.ycombinator.com/item?id=27435081\nPoints: 222\n# Comments: 26",
           "link": "https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96",
           "publishedOn": "2021-06-08T13:42:14.000Z",
           "wordCount": 1231,
@@ -134,25 +152,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27434468",
           "author": "hprotagonist",
-          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval\nComments URL: https://news.ycombinator.com/item?id=27434468\nPoints: 106\n# Comments: 64",
+          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval\nComments URL: https://news.ycombinator.com/item?id=27434468\nPoints: 112\n# Comments: 75",
           "link": "https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval",
           "publishedOn": "2021-06-08T12:51:57.000Z",
-          "wordCount": 5618,
+          "wordCount": 6199,
           "title": "The Aducanumab Approval"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27434254",
-          "author": "fmeringdal",
-          "description": "Article URL: https://github.com/fmeringdal/nettu-meet\nComments URL: https://news.ycombinator.com/item?id=27434254\nPoints: 111\n# Comments: 35",
-          "link": "https://github.com/fmeringdal/nettu-meet",
-          "publishedOn": "2021-06-08T12:31:02.000Z",
-          "wordCount": 707,
-          "title": "Show HN: Zoom / Teams Open Source alternative for online learning"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27434243",
           "author": "mdeck_",
-          "description": "Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money\nComments URL: https://news.ycombinator.com/item?id=27434243\nPoints: 153\n# Comments: 64",
+          "description": "Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money\nComments URL: https://news.ycombinator.com/item?id=27434243\nPoints: 164\n# Comments: 72",
           "link": "https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money",
           "publishedOn": "2021-06-08T12:29:53.000Z",
           "wordCount": 616,
@@ -161,25 +170,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27434159",
           "author": "NKosmatos",
-          "description": "Article URL: https://www.playphrase.me\nComments URL: https://news.ycombinator.com/item?id=27434159\nPoints: 85\n# Comments: 30",
+          "description": "Article URL: https://www.playphrase.me\nComments URL: https://news.ycombinator.com/item?id=27434159\nPoints: 90\n# Comments: 31",
           "link": "https://www.playphrase.me",
           "publishedOn": "2021-06-08T12:21:44.000Z",
           "wordCount": 442,
           "title": "PlayPhrase: Site for Searching Cinema Phrases"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27434073",
-          "author": "cvwright",
-          "description": "Article URL: https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor\nComments URL: https://news.ycombinator.com/item?id=27434073\nPoints: 56\n# Comments: 34",
-          "link": "https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor",
-          "publishedOn": "2021-06-08T12:13:34.000Z",
-          "wordCount": 44,
-          "title": "SeKVM verified hypervisor based on KVM"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27433863",
           "author": "cube2222",
-          "description": "Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=27433863\nPoints: 553\n# Comments: 234",
+          "description": "Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=27433863\nPoints: 574\n# Comments: 248",
           "link": "https://github.com/hashicorp/terraform/releases/tag/v1.0.0",
           "publishedOn": "2021-06-08T11:49:06.000Z",
           "wordCount": 439,
@@ -303,15 +303,6 @@
           "publishedOn": "2021-05-16T01:42:24.000Z",
           "wordCount": 286,
           "title": "v1.7.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "author": null,
-          "description": "Added: Basic theme customization: Demo | Source | Docs.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-10T08:55:42.000Z",
-          "wordCount": 276,
-          "title": "v1.4.0"
         }
       ]
     },
@@ -353,7 +344,7 @@
           "description": "Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …\nThe post VS Code Extensions for HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/vs-code-extensions-for-html/",
           "publishedOn": "2021-06-07T14:13:50.000Z",
-          "wordCount": 1725,
+          "wordCount": 1673,
           "title": "VS Code Extensions for HTML"
         },
         {
@@ -496,7 +487,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4126,
+          "wordCount": 4165,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -524,7 +515,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4379,
+          "wordCount": 4381,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -538,7 +529,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5428,
+          "wordCount": 5421,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -580,7 +571,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2522,
+          "wordCount": 2527,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -594,7 +585,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10259,
+          "wordCount": 10209,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -608,7 +599,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3770,
+          "wordCount": 3773,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -678,7 +669,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2742,
+          "wordCount": 2739,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
@@ -692,7 +683,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9475,
+          "wordCount": 9465,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -720,7 +711,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1995,
+          "wordCount": 2004,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -776,7 +767,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2941,
+          "wordCount": 2977,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -790,7 +781,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2478,
+          "wordCount": 2425,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -832,7 +823,7 @@
           "description": "A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.",
           "link": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
           "publishedOn": "2021-05-11T13:30:00.000Z",
-          "wordCount": 4907,
+          "wordCount": 4906,
           "title": "A Primer On CSS Container Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2c88b2c-ef73-44e3-885c-2c5c322fb781/smashing-articles-original.png",
@@ -860,7 +851,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6395,
+          "wordCount": 6389,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -875,6 +866,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60bfd986d3126007592d53a1",
+          "author": null,
+          "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something",
+          "link": "https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/",
+          "publishedOn": "2021-06-08T21:05:13.000Z",
+          "wordCount": 639,
+          "title": "Create Your Own Electronics With Arduino - Full Course"
+        },
         {
           "id": "60b23b8911ffb70827ef954e",
           "author": null,
@@ -955,15 +955,6 @@
           "publishedOn": "2021-06-04T20:41:29.000Z",
           "wordCount": 2166,
           "title": "How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server"
-        },
-        {
-          "id": "60b2a4c611ffb70827ef9842",
-          "author": null,
-          "description": "TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the",
-          "link": "https://www.freecodecamp.org/news/learn-typescript-basics/",
-          "publishedOn": "2021-06-04T18:01:00.000Z",
-          "wordCount": 2225,
-          "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
         }
       ]
     }
