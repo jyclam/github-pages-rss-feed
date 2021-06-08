@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T08:17:44.043Z</updated>
+    <updated>2021-06-08T09:15:43.166Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Althttpd: Simple webserver in a single C-code file by the author of SQLite]]></title>
+        <id>https://news.ycombinator.com/item?id=27431910</id>
+        <link href="https://sqlite.org/althttpd/doc/trunk/althttpd.md"/>
+        <updated>2021-06-08T08:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sqlite.org/althttpd/doc/trunk/althttpd.md
+Comments URL: https://news.ycombinator.com/item?id=27431910
+Points: 59
+# Comments: 15]]></summary>
+        <author>
+            <name>miles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A trailblazing archeologist who faked his own death]]></title>
         <id>https://news.ycombinator.com/item?id=27431257</id>
@@ -13,7 +26,7 @@
         <updated>2021-06-08T06:29:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2021/may/27/alexandria-by-edmund-richardson-review-the-quest-for-the-lost-city
 Comments URL: https://news.ycombinator.com/item?id=27431257
-Points: 4
+Points: 5
 # Comments: 0]]></summary>
         <author>
             <name>if-curious</name>
@@ -26,7 +39,7 @@ Points: 4
         <updated>2021-06-08T06:20:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thelondonmagazine.org/essay-the-madman-and-the-dwarf-van-gogh-and-lautrec-by-jeffrey-meyer/
 Comments URL: https://news.ycombinator.com/item?id=27431219
-Points: 5
+Points: 8
 # Comments: 0]]></summary>
         <author>
             <name>swarmy</name>
@@ -39,10 +52,23 @@ Points: 5
         <updated>2021-06-08T06:20:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/06/02/machine-learning-ai-methodology-research-flaws/
 Comments URL: https://news.ycombinator.com/item?id=27431217
-Points: 27
-# Comments: 19]]></summary>
+Points: 38
+# Comments: 35]]></summary>
         <author>
             <name>Ice_cream_suit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalyn: A self hosting Lisp compiler for x86-64]]></title>
+        <id>https://news.ycombinator.com/item?id=27431029</id>
+        <link href="https://intuitiveexplanations.com/tech/kalyn"/>
+        <updated>2021-06-08T05:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://intuitiveexplanations.com/tech/kalyn
+Comments URL: https://news.ycombinator.com/item?id=27431029
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>isaacimagine</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +78,8 @@ Points: 27
         <updated>2021-06-08T03:56:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.abc.net.au/news/2021-06-08/fbi-afp-underworld-crime-bust-an0m-cash-drugs-murder/100197246
 Comments URL: https://news.ycombinator.com/item?id=27430508
-Points: 140
-# Comments: 101]]></summary>
+Points: 184
+# Comments: 116]]></summary>
         <author>
             <name>ferros</name>
         </author>
@@ -65,8 +91,8 @@ Points: 140
         <updated>2021-06-08T02:36:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://philzimmermann.com/EN/essays/PGP_30th/
 Comments URL: https://news.ycombinator.com/item?id=27430050
-Points: 103
-# Comments: 25]]></summary>
+Points: 116
+# Comments: 28]]></summary>
         <author>
             <name>throw0101a</name>
         </author>
@@ -78,7 +104,7 @@ Points: 103
         <updated>2021-06-08T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/simulation-reveals-how-magnetism-helps-form-planets-20210607/
 Comments URL: https://news.ycombinator.com/item?id=27429414
-Points: 66
+Points: 70
 # Comments: 10]]></summary>
         <author>
             <name>pseudolus</name>
@@ -91,8 +117,8 @@ Points: 66
         <updated>2021-06-08T00:08:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.apple.com/macos/monterey-preview/features/#footnote-3
 Comments URL: https://news.ycombinator.com/item?id=27429008
-Points: 74
-# Comments: 10]]></summary>
+Points: 95
+# Comments: 15]]></summary>
         <author>
             <name>latexr</name>
         </author>
@@ -104,8 +130,8 @@ Points: 74
         <updated>2021-06-07T23:43:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.infoq.com/news/2021/06/microsoft-drops-azure-blockchain/?itm_source=infoq&itm_medium=popular_content_link&itm_campaign=popularContent_news_clk
 Comments URL: https://news.ycombinator.com/item?id=27428812
-Points: 33
-# Comments: 12]]></summary>
+Points: 40
+# Comments: 16]]></summary>
         <author>
             <name>galaxyLogic</name>
         </author>
@@ -127,8 +153,8 @@ Points: 33
         <updated>2021-06-07T22:57:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.pizzabox.computer/random/videolines/
 Comments URL: https://news.ycombinator.com/item?id=27428380
-Points: 59
-# Comments: 13]]></summary>
+Points: 64
+# Comments: 14]]></summary>
         <author>
             <name>andyjpb</name>
         </author>
@@ -140,7 +166,7 @@ Points: 59
         <updated>2021-06-07T21:54:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://logicmag.io/nature/lab-cultures-an-interview-with-an-anonymous-biologist/
 Comments URL: https://news.ycombinator.com/item?id=27427593
-Points: 14
+Points: 22
 # Comments: 0]]></summary>
         <author>
             <name>smarm</name>
@@ -153,8 +179,8 @@ Points: 14
         <updated>2021-06-07T21:46:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside
 Comments URL: https://news.ycombinator.com/item?id=27427485
-Points: 281
-# Comments: 214]]></summary>
+Points: 293
+# Comments: 216]]></summary>
         <author>
             <name>nthitz</name>
         </author>
@@ -166,8 +192,8 @@ Points: 281
         <updated>2021-06-07T21:35:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://casparwre.de/blog/seo-scam/
 Comments URL: https://news.ycombinator.com/item?id=27427330
-Points: 1206
-# Comments: 293]]></summary>
+Points: 1301
+# Comments: 314]]></summary>
         <author>
             <name>caspii</name>
         </author>
@@ -179,8 +205,8 @@ Points: 1206
         <updated>2021-06-07T21:19:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.infoq.com/news/2021/04/intel-hidden-instructions/
 Comments URL: https://news.ycombinator.com/item?id=27427096
-Points: 341
-# Comments: 88]]></summary>
+Points: 363
+# Comments: 93]]></summary>
         <author>
             <name>andrewnicolalde</name>
         </author>
@@ -192,8 +218,8 @@ Points: 341
         <updated>2021-06-07T21:10:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://codeperfect95.com
 Comments URL: https://news.ycombinator.com/item?id=27426981
-Points: 170
-# Comments: 113]]></summary>
+Points: 179
+# Comments: 119]]></summary>
         <author>
             <name>brhsagain</name>
         </author>
@@ -205,8 +231,8 @@ Points: 170
         <updated>2021-06-07T21:06:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ourworldindata.org/battery-price-decline
 Comments URL: https://news.ycombinator.com/item?id=27426922
-Points: 379
-# Comments: 218]]></summary>
+Points: 397
+# Comments: 234]]></summary>
         <author>
             <name>infodocket</name>
         </author>
@@ -222,19 +248,6 @@ Points: 1
 # Comments: 0]]></summary>
         <author>
             <name>the_economist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highlights of new technologies introduced at WWDC 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27426796</id>
-        <link href="https://developer.apple.com/documentation/New-Technologies-WWDC-2021"/>
-        <updated>2021-06-07T20:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/documentation/New-Technologies-WWDC-2021
-Comments URL: https://news.ycombinator.com/item?id=27426796
-Points: 149
-# Comments: 85]]></summary>
-        <author>
-            <name>Austin_Conlon</name>
         </author>
     </entry>
     <entry>
@@ -254,8 +267,8 @@ Points: 149
         <updated>2021-06-07T20:44:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Foone/status/1058676834940776450
 Comments URL: https://news.ycombinator.com/item?id=27426775
-Points: 299
-# Comments: 118]]></summary>
+Points: 316
+# Comments: 129]]></summary>
         <author>
             <name>mmastrac</name>
         </author>
@@ -290,23 +303,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-07T17:46:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc
 Comments URL: https://news.ycombinator.com/item?id=27425622
-Points: 566
-# Comments: 263]]></summary>
+Points: 582
+# Comments: 274]]></summary>
         <author>
             <name>jbredeche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FoundationDB: A distributed, unbundled, transactional key value store [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27424605</id>
-        <link href="https://www.foundationdb.org/files/fdb-paper.pdf"/>
-        <updated>2021-06-07T16:37:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.foundationdb.org/files/fdb-paper.pdf
-Comments URL: https://news.ycombinator.com/item?id=27424605
-Points: 208
-# Comments: 62]]></summary>
-        <author>
-            <name>wwilson</name>
         </author>
     </entry>
     <entry>
