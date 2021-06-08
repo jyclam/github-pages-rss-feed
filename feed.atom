@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T15:13:22.552Z</updated>
+    <updated>2021-06-08T16:33:41.505Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
+        <id>60b23b8911ffb70827ef954e</id>
+        <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
+        <updated>2021-06-08T16:17:32.000Z</updated>
+        <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete CSS Grid Tutorial with Cheat Sheet 🎖️]]></title>
+        <id>60be6a3cd3126007592d4a03</id>
+        <link href="https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/"/>
+        <updated>2021-06-08T16:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping Up with Docker Official Images]]></title>
+        <id>https://news.ycombinator.com/item?id=27436850</id>
+        <link href="https://blog.atomist.com/keeping-up-with-docker-official-images/"/>
+        <updated>2021-06-08T15:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.atomist.com/keeping-up-with-docker-official-images/
+Comments URL: https://news.ycombinator.com/item?id=27436850
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>slimslenders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How California Homelessness Became a Crisis]]></title>
+        <id>https://news.ycombinator.com/item?id=27436516</id>
+        <link href="https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis"/>
+        <updated>2021-06-08T15:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis
+Comments URL: https://news.ycombinator.com/item?id=27436516
+Points: 41
+# Comments: 29]]></summary>
+        <author>
+            <name>ike77</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing Private Fields for JavaScript]]></title>
+        <id>https://hacks.mozilla.org/?p=47312</id>
+        <link href="https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/"/>
+        <updated>2021-06-08T15:26:19.000Z</updated>
+        <summary type="html"><![CDATA[When implementing a language feature for JavaScript, an implementer must make decisions about how the language in the specification maps to the implementation. Private fields is an example of where the specification language and implementation reality diverge, at least in SpiderMonkey– the JavaScript engine which powers Firefox. To understand more, I’ll explain what private fields are, a couple of models for thinking about them, and explain why our implementation diverges from the specification language.
+The post Implementing Private Fields for JavaScript appeared first on Mozilla Hacks - the Web developer blog.]]></summary>
+        <author>
+            <name>Matthew Gaudet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A walk in nature is better than microdosing]]></title>
+        <id>https://news.ycombinator.com/item?id=27435972</id>
+        <link href="https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/"/>
+        <updated>2021-06-08T14:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/
+Comments URL: https://news.ycombinator.com/item?id=27435972
+Points: 88
+# Comments: 66]]></summary>
+        <author>
+            <name>unifiedtheory</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS-Trickz: An Experiment with Netlify’s On-Demand Builders]]></title>
         <id>https://css-tricks.com/?p=341884</id>
@@ -32,27 +102,14 @@ When I was an iOS engineer, my team rotated everyone through the release manager
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ProtonMail v4 Is Out]]></title>
-        <id>https://news.ycombinator.com/item?id=27435321</id>
-        <link href="https://protonmail.com/blog/new-protonmail-announcement/"/>
-        <updated>2021-06-08T14:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://protonmail.com/blog/new-protonmail-announcement/
-Comments URL: https://news.ycombinator.com/item?id=27435321
-Points: 33
-# Comments: 5]]></summary>
-        <author>
-            <name>BafS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Netflix uses eBPF flow logs at scale for network insight]]></title>
         <id>https://news.ycombinator.com/item?id=27435081</id>
         <link href="https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96"/>
         <updated>2021-06-08T13:42:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
 Comments URL: https://news.ycombinator.com/item?id=27435081
-Points: 36
-# Comments: 8]]></summary>
+Points: 100
+# Comments: 11]]></summary>
         <author>
             <name>el_duderino</name>
         </author>
@@ -64,8 +121,8 @@ Points: 36
         <updated>2021-06-08T12:51:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval
 Comments URL: https://news.ycombinator.com/item?id=27434468
-Points: 28
-# Comments: 7]]></summary>
+Points: 64
+# Comments: 34]]></summary>
         <author>
             <name>hprotagonist</name>
         </author>
@@ -77,8 +134,8 @@ Points: 28
         <updated>2021-06-08T12:36:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.propublica.org/article/why-we-are-publishing-the-tax-secrets-of-the-001
 Comments URL: https://news.ycombinator.com/item?id=27434307
-Points: 104
-# Comments: 71]]></summary>
+Points: 261
+# Comments: 176]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -90,8 +147,8 @@ Points: 104
         <updated>2021-06-08T12:31:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/fmeringdal/nettu-meet
 Comments URL: https://news.ycombinator.com/item?id=27434254
-Points: 61
-# Comments: 20]]></summary>
+Points: 79
+# Comments: 23]]></summary>
         <author>
             <name>fmeringdal</name>
         </author>
@@ -103,20 +160,20 @@ Points: 61
         <updated>2021-06-08T12:29:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money
 Comments URL: https://news.ycombinator.com/item?id=27434243
-Points: 73
-# Comments: 18]]></summary>
+Points: 105
+# Comments: 31]]></summary>
         <author>
             <name>mdeck_</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pluridisciplinary evidence for burial for the La Ferrassie 8 Neandertal child]]></title>
+        <title type="html"><![CDATA[Evidence for burial for the La Ferrassie 8 Neandertal child (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27434229</id>
         <link href="https://www.nature.com/articles/s41598-020-77611-z"/>
         <updated>2021-06-08T12:28:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41598-020-77611-z
 Comments URL: https://news.ycombinator.com/item?id=27434229
-Points: 17
+Points: 20
 # Comments: 1]]></summary>
         <author>
             <name>tokai</name>
@@ -129,8 +186,8 @@ Points: 17
         <updated>2021-06-08T12:21:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.playphrase.me
 Comments URL: https://news.ycombinator.com/item?id=27434159
-Points: 42
-# Comments: 14]]></summary>
+Points: 57
+# Comments: 21]]></summary>
         <author>
             <name>NKosmatos</name>
         </author>
@@ -142,7 +199,7 @@ Points: 42
         <updated>2021-06-08T12:19:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607
 Comments URL: https://news.ycombinator.com/item?id=27434139
-Points: 27
+Points: 39
 # Comments: 9]]></summary>
         <author>
             <name>mardiyah</name>
@@ -155,23 +212,10 @@ Points: 27
         <updated>2021-06-08T12:13:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor
 Comments URL: https://news.ycombinator.com/item?id=27434073
-Points: 32
-# Comments: 8]]></summary>
+Points: 43
+# Comments: 20]]></summary>
         <author>
             <name>cvwright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changes to Docker Hub Autobuilds]]></title>
-        <id>https://news.ycombinator.com/item?id=27434009</id>
-        <link href="https://www.docker.com/blog/changes-to-docker-hub-autobuilds/"/>
-        <updated>2021-06-08T12:06:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.docker.com/blog/changes-to-docker-hub-autobuilds/
-Comments URL: https://news.ycombinator.com/item?id=27434009
-Points: 48
-# Comments: 34]]></summary>
-        <author>
-            <name>bnr</name>
         </author>
     </entry>
     <entry>
@@ -204,21 +248,21 @@ Points: 1
         <updated>2021-06-08T11:49:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0
 Comments URL: https://news.ycombinator.com/item?id=27433863
-Points: 311
-# Comments: 134]]></summary>
+Points: 411
+# Comments: 171]]></summary>
         <author>
             <name>cube2222</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grafana v8.0 Released]]></title>
+        <title type="html"><![CDATA[Grafana 8.0]]></title>
         <id>https://news.ycombinator.com/item?id=27433552</id>
         <link href="https://github.com/grafana/grafana/releases/tag/v8.0.0"/>
         <updated>2021-06-08T11:13:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/grafana/grafana/releases/tag/v8.0.0
 Comments URL: https://news.ycombinator.com/item?id=27433552
-Points: 83
-# Comments: 8]]></summary>
+Points: 186
+# Comments: 16]]></summary>
         <author>
             <name>botayhard</name>
         </author>
@@ -230,8 +274,8 @@ Points: 83
         <updated>2021-06-08T10:36:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://paulgraham.com/own.html
 Comments URL: https://news.ycombinator.com/item?id=27433040
-Points: 219
-# Comments: 106]]></summary>
+Points: 290
+# Comments: 142]]></summary>
         <author>
             <name>prtkgpt</name>
         </author>
@@ -243,8 +287,8 @@ Points: 219
         <updated>2021-06-08T10:17:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://webcache.googleusercontent.com/search?q=cache:bP-g6VgD1JcJ:https://anomexposed.wordpress.com/2021/03/29/anom-encrpted-scam-exposed/+&cd=1&hl=en&ct=clnk&gl=au
 Comments URL: https://news.ycombinator.com/item?id=27432750
-Points: 64
-# Comments: 40]]></summary>
+Points: 72
+# Comments: 50]]></summary>
         <author>
             <name>CPAhem</name>
         </author>
@@ -256,8 +300,8 @@ Points: 64
         <updated>2021-06-08T10:11:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/
 Comments URL: https://news.ycombinator.com/item?id=27432666
-Points: 101
-# Comments: 7]]></summary>
+Points: 114
+# Comments: 8]]></summary>
         <author>
             <name>teythoon</name>
         </author>
@@ -269,23 +313,10 @@ Points: 101
         <updated>2021-06-08T09:57:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fastly.com/
 Comments URL: https://news.ycombinator.com/item?id=27432408
-Points: 1133
-# Comments: 623]]></summary>
+Points: 1177
+# Comments: 647]]></summary>
         <author>
             <name>pcr0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Let Social Media Think for You]]></title>
-        <id>https://news.ycombinator.com/item?id=27432355</id>
-        <link href="https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you"/>
-        <updated>2021-06-08T09:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you
-Comments URL: https://news.ycombinator.com/item?id=27432355
-Points: 164
-# Comments: 74]]></summary>
-        <author>
-            <name>hnthrowaway2</name>
         </author>
     </entry>
     <entry>
@@ -438,26 +469,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nwani Victory)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
-        <id>60b98ebfacb62507dd1d8ec4</id>
-        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
-        <updated>2021-06-04T02:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
-        <id>60b11ff811ffb70827ef8f94</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
-        <updated>2021-06-03T21:44:03.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

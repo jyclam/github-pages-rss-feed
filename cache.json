@@ -6,54 +6,72 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27436850",
+          "author": "slimslenders",
+          "description": "Article URL: https://blog.atomist.com/keeping-up-with-docker-official-images/\nComments URL: https://news.ycombinator.com/item?id=27436850\nPoints: 4\n# Comments: 0",
+          "link": "https://blog.atomist.com/keeping-up-with-docker-official-images/",
+          "publishedOn": "2021-06-08T15:57:04.000Z",
+          "wordCount": 1727,
+          "title": "Keeping Up with Docker Official Images"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27436516",
+          "author": "ike77",
+          "description": "Article URL: https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis\nComments URL: https://news.ycombinator.com/item?id=27436516\nPoints: 41\n# Comments: 29",
+          "link": "https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis",
+          "publishedOn": "2021-06-08T15:32:18.000Z",
+          "wordCount": 1745,
+          "title": "How California Homelessness Became a Crisis"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27435972",
+          "author": "unifiedtheory",
+          "description": "Article URL: https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/\nComments URL: https://news.ycombinator.com/item?id=27435972\nPoints: 88\n# Comments: 66",
+          "link": "https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/",
+          "publishedOn": "2021-06-08T14:53:31.000Z",
+          "wordCount": 868,
+          "title": "A walk in nature is better than microdosing"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27435377",
           "author": "gsavit",
           "description": "Hi HN!\nI’m Gabriel, one of the co-founders of Runway (https://runway.team). We’re building a SaaS platform that makes it easier to coordinate your team’s mobile app releases. Runway is an integration layer that sits on top of mobile app teams’ existing project management and development tools, making it possible to understand at-a-glance the status and progress of release cycles and to communicate tasks and blockers — allowing teams to spend their time on improving their product instead of managing releases and tooling.\nWhen I was an iOS engineer, my team rotated everyone through the release manager role for each release cycle. I remember dreading the weeks I was assigned this role - I’d get stuck spending a few hours with multiple Chrome tabs open checking on the status of different tools…",
           "link": "https://news.ycombinator.com/item?id=27435377",
           "publishedOn": "2021-06-08T14:06:47.000Z",
-          "wordCount": 867,
+          "wordCount": 1085,
           "title": "Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27435321",
-          "author": "BafS",
-          "description": "Article URL: https://protonmail.com/blog/new-protonmail-announcement/\nComments URL: https://news.ycombinator.com/item?id=27435321\nPoints: 33\n# Comments: 5",
-          "link": "https://protonmail.com/blog/new-protonmail-announcement/",
-          "publishedOn": "2021-06-08T14:01:19.000Z",
-          "wordCount": 824,
-          "title": "ProtonMail v4 Is Out"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27435081",
           "author": "el_duderino",
-          "description": "Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96\nComments URL: https://news.ycombinator.com/item?id=27435081\nPoints: 36\n# Comments: 8",
+          "description": "Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96\nComments URL: https://news.ycombinator.com/item?id=27435081\nPoints: 100\n# Comments: 11",
           "link": "https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96",
           "publishedOn": "2021-06-08T13:42:14.000Z",
-          "wordCount": 1240,
+          "wordCount": 1231,
           "title": "How Netflix uses eBPF flow logs at scale for network insight"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27434468",
           "author": "hprotagonist",
-          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval\nComments URL: https://news.ycombinator.com/item?id=27434468\nPoints: 28\n# Comments: 7",
+          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval\nComments URL: https://news.ycombinator.com/item?id=27434468\nPoints: 64\n# Comments: 34",
           "link": "https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval",
           "publishedOn": "2021-06-08T12:51:57.000Z",
-          "wordCount": 4004,
+          "wordCount": 4657,
           "title": "The Aducanumab Approval"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27434307",
           "author": "jbegley",
-          "description": "Article URL: https://www.propublica.org/article/why-we-are-publishing-the-tax-secrets-of-the-001\nComments URL: https://news.ycombinator.com/item?id=27434307\nPoints: 104\n# Comments: 71",
+          "description": "Article URL: https://www.propublica.org/article/why-we-are-publishing-the-tax-secrets-of-the-001\nComments URL: https://news.ycombinator.com/item?id=27434307\nPoints: 261\n# Comments: 176",
           "link": "https://www.propublica.org/article/why-we-are-publishing-the-tax-secrets-of-the-001",
           "publishedOn": "2021-06-08T12:36:46.000Z",
-          "wordCount": 2195,
+          "wordCount": 2197,
           "title": "We Are Publishing the Tax Secrets of the .001%"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27434254",
           "author": "fmeringdal",
-          "description": "Article URL: https://github.com/fmeringdal/nettu-meet\nComments URL: https://news.ycombinator.com/item?id=27434254\nPoints: 61\n# Comments: 20",
+          "description": "Article URL: https://github.com/fmeringdal/nettu-meet\nComments URL: https://news.ycombinator.com/item?id=27434254\nPoints: 79\n# Comments: 23",
           "link": "https://github.com/fmeringdal/nettu-meet",
           "publishedOn": "2021-06-08T12:31:02.000Z",
           "wordCount": 709,
@@ -62,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27434243",
           "author": "mdeck_",
-          "description": "Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money\nComments URL: https://news.ycombinator.com/item?id=27434243\nPoints: 73\n# Comments: 18",
+          "description": "Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money\nComments URL: https://news.ycombinator.com/item?id=27434243\nPoints: 105\n# Comments: 31",
           "link": "https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money",
           "publishedOn": "2021-06-08T12:29:53.000Z",
           "wordCount": 616,
@@ -71,16 +89,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27434229",
           "author": "tokai",
-          "description": "Article URL: https://www.nature.com/articles/s41598-020-77611-z\nComments URL: https://news.ycombinator.com/item?id=27434229\nPoints: 17\n# Comments: 1",
+          "description": "Article URL: https://www.nature.com/articles/s41598-020-77611-z\nComments URL: https://news.ycombinator.com/item?id=27434229\nPoints: 20\n# Comments: 1",
           "link": "https://www.nature.com/articles/s41598-020-77611-z",
           "publishedOn": "2021-06-08T12:28:35.000Z",
           "wordCount": 8971,
-          "title": "Pluridisciplinary evidence for burial for the La Ferrassie 8 Neandertal child"
+          "title": "Evidence for burial for the La Ferrassie 8 Neandertal child (2020)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27434159",
           "author": "NKosmatos",
-          "description": "Article URL: https://www.playphrase.me\nComments URL: https://news.ycombinator.com/item?id=27434159\nPoints: 42\n# Comments: 14",
+          "description": "Article URL: https://www.playphrase.me\nComments URL: https://news.ycombinator.com/item?id=27434159\nPoints: 57\n# Comments: 21",
           "link": "https://www.playphrase.me",
           "publishedOn": "2021-06-08T12:21:44.000Z",
           "wordCount": 442,
@@ -89,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27434139",
           "author": "mardiyah",
-          "description": "Article URL: https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607\nComments URL: https://news.ycombinator.com/item?id=27434139\nPoints: 27\n# Comments: 9",
+          "description": "Article URL: https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607\nComments URL: https://news.ycombinator.com/item?id=27434139\nPoints: 39\n# Comments: 9",
           "link": "https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607",
           "publishedOn": "2021-06-08T12:19:50.000Z",
           "wordCount": 1741,
@@ -98,20 +116,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27434073",
           "author": "cvwright",
-          "description": "Article URL: https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor\nComments URL: https://news.ycombinator.com/item?id=27434073\nPoints: 32\n# Comments: 8",
+          "description": "Article URL: https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor\nComments URL: https://news.ycombinator.com/item?id=27434073\nPoints: 43\n# Comments: 20",
           "link": "https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor",
           "publishedOn": "2021-06-08T12:13:34.000Z",
           "wordCount": 44,
           "title": "SeKVM verified hypervisor based on KVM"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27434009",
-          "author": "bnr",
-          "description": "Article URL: https://www.docker.com/blog/changes-to-docker-hub-autobuilds/\nComments URL: https://news.ycombinator.com/item?id=27434009\nPoints: 48\n# Comments: 34",
-          "link": "https://www.docker.com/blog/changes-to-docker-hub-autobuilds/",
-          "publishedOn": "2021-06-08T12:06:32.000Z",
-          "wordCount": 635,
-          "title": "Changes to Docker Hub Autobuilds"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27433958",
@@ -125,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27433863",
           "author": "cube2222",
-          "description": "Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=27433863\nPoints: 311\n# Comments: 134",
+          "description": "Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=27433863\nPoints: 411\n# Comments: 171",
           "link": "https://github.com/hashicorp/terraform/releases/tag/v1.0.0",
           "publishedOn": "2021-06-08T11:49:06.000Z",
           "wordCount": 439,
@@ -134,16 +143,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27433552",
           "author": "botayhard",
-          "description": "Article URL: https://github.com/grafana/grafana/releases/tag/v8.0.0\nComments URL: https://news.ycombinator.com/item?id=27433552\nPoints: 83\n# Comments: 8",
+          "description": "Article URL: https://github.com/grafana/grafana/releases/tag/v8.0.0\nComments URL: https://news.ycombinator.com/item?id=27433552\nPoints: 186\n# Comments: 16",
           "link": "https://github.com/grafana/grafana/releases/tag/v8.0.0",
           "publishedOn": "2021-06-08T11:13:02.000Z",
           "wordCount": 514,
-          "title": "Grafana v8.0 Released"
+          "title": "Grafana 8.0"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27433040",
           "author": "prtkgpt",
-          "description": "Article URL: http://paulgraham.com/own.html\nComments URL: https://news.ycombinator.com/item?id=27433040\nPoints: 219\n# Comments: 106",
+          "description": "Article URL: http://paulgraham.com/own.html\nComments URL: https://news.ycombinator.com/item?id=27433040\nPoints: 290\n# Comments: 142",
           "link": "http://paulgraham.com/own.html",
           "publishedOn": "2021-06-08T10:36:03.000Z",
           "wordCount": 2485,
@@ -152,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27432750",
           "author": "CPAhem",
-          "description": "Article URL: https://webcache.googleusercontent.com/search?q=cache:bP-g6VgD1JcJ:https://anomexposed.wordpress.com/2021/03/29/anom-encrpted-scam-exposed/+&cd=1&hl=en&ct=clnk&gl=au\nComments URL: https://news.ycombinator.com/item?id=27432750\nPoints: 64\n# Comments: 40",
+          "description": "Article URL: https://webcache.googleusercontent.com/search?q=cache:bP-g6VgD1JcJ:https://anomexposed.wordpress.com/2021/03/29/anom-encrpted-scam-exposed/+&cd=1&hl=en&ct=clnk&gl=au\nComments URL: https://news.ycombinator.com/item?id=27432750\nPoints: 72\n# Comments: 50",
           "link": "https://webcache.googleusercontent.com/search?q=cache:bP-g6VgD1JcJ:https://anomexposed.wordpress.com/2021/03/29/anom-encrpted-scam-exposed/+&cd=1&hl=en&ct=clnk&gl=au",
           "publishedOn": "2021-06-08T10:17:04.000Z",
           "wordCount": 1998,
@@ -161,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27432666",
           "author": "teythoon",
-          "description": "Article URL: https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/\nComments URL: https://news.ycombinator.com/item?id=27432666\nPoints: 101\n# Comments: 7",
+          "description": "Article URL: https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/\nComments URL: https://news.ycombinator.com/item?id=27432666\nPoints: 114\n# Comments: 8",
           "link": "https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/",
           "publishedOn": "2021-06-08T10:11:19.000Z",
           "wordCount": 715,
@@ -170,20 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27432408",
           "author": "pcr0",
-          "description": "Article URL: https://fastly.com/\nComments URL: https://news.ycombinator.com/item?id=27432408\nPoints: 1133\n# Comments: 623",
+          "description": "Article URL: https://fastly.com/\nComments URL: https://news.ycombinator.com/item?id=27432408\nPoints: 1177\n# Comments: 647",
           "link": "https://fastly.com/",
           "publishedOn": "2021-06-08T09:57:37.000Z",
           "wordCount": 623,
           "title": "Fastly Outage"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27432355",
-          "author": "hnthrowaway2",
-          "description": "Article URL: https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you\nComments URL: https://news.ycombinator.com/item?id=27432355\nPoints: 164\n# Comments: 74",
-          "link": "https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you",
-          "publishedOn": "2021-06-08T09:53:26.000Z",
-          "wordCount": 1411,
-          "title": "Don't Let Social Media Think for You"
         }
       ]
     },
@@ -192,6 +192,15 @@
       "feedUrl": "https://hacks.mozilla.org/feed/",
       "siteUrl": "https://hacks.mozilla.org",
       "articles": [
+        {
+          "id": "https://hacks.mozilla.org/?p=47312",
+          "author": "Matthew Gaudet",
+          "description": "When implementing a language feature for JavaScript, an implementer must make decisions about how the language in the specification maps to the implementation. Private fields is an example of where the specification language and implementation reality diverge, at least in SpiderMonkey– the JavaScript engine which powers Firefox. To understand more, I’ll explain what private fields are, a couple of models for thinking about them, and explain why our implementation diverges from the specification language.\nThe post Implementing Private Fields for JavaScript appeared first on Mozilla Hacks - the Web developer blog.",
+          "link": "https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/",
+          "publishedOn": "2021-06-08T15:26:19.000Z",
+          "wordCount": 2659,
+          "title": "Implementing Private Fields for JavaScript"
+        },
         {
           "id": "https://hacks.mozilla.org/?p=47303",
           "author": "Chris Mills",
@@ -371,7 +380,7 @@
           "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
           "publishedOn": "2021-06-03T14:25:57.000Z",
-          "wordCount": 5096,
+          "wordCount": 5114,
           "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
         },
         {
@@ -482,7 +491,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2249,
+          "wordCount": 2250,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -496,7 +505,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4164,
+          "wordCount": 4166,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -538,7 +547,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5418,
+          "wordCount": 5419,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -580,7 +589,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2530,
+          "wordCount": 2524,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -594,7 +603,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10248,
+          "wordCount": 10207,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -608,7 +617,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3773,
+          "wordCount": 3769,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -636,7 +645,7 @@
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
           "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1581,
+          "wordCount": 1582,
           "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
@@ -650,7 +659,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2158,
+          "wordCount": 2157,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -664,7 +673,7 @@
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
           "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 2109,
+          "wordCount": 2111,
           "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f0c69413-365e-4c39-9ee8-ad1d2b44e56b/reduce-font-loading-impact-css-descriptors.jpg",
@@ -678,7 +687,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2739,
+          "wordCount": 2741,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
@@ -692,7 +701,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9468,
+          "wordCount": 9428,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -720,7 +729,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1993,
+          "wordCount": 1952,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -790,7 +799,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2472,
+          "wordCount": 2476,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -804,7 +813,7 @@
           "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3518,
+          "wordCount": 3517,
           "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f773d7bb-df56-409f-a3fb-aa1e6e0eea09/4-birthday-picker.jpg",
@@ -832,7 +841,7 @@
           "description": "A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.",
           "link": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
           "publishedOn": "2021-05-11T13:30:00.000Z",
-          "wordCount": 4908,
+          "wordCount": 4909,
           "title": "A Primer On CSS Container Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2c88b2c-ef73-44e3-885c-2c5c322fb781/smashing-articles-original.png",
@@ -860,7 +869,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6386,
+          "wordCount": 6381,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -875,6 +884,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b23b8911ffb70827ef954e",
+          "author": null,
+          "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
+          "link": "https://www.freecodecamp.org/news/pass-data-between-components-in-react/",
+          "publishedOn": "2021-06-08T16:17:32.000Z",
+          "wordCount": 1205,
+          "title": "How to Pass Data and Events Between Components in React"
+        },
+        {
+          "id": "60be6a3cd3126007592d4a03",
+          "author": null,
+          "description": "Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent",
+          "link": "https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/",
+          "publishedOn": "2021-06-08T16:02:45.000Z",
+          "wordCount": 2548,
+          "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
+        },
         {
           "id": "60bbd28eacb62507dd1d99fb",
           "author": null,
@@ -946,24 +973,6 @@
           "publishedOn": "2021-06-04T18:01:00.000Z",
           "wordCount": 2225,
           "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
-        },
-        {
-          "id": "60b98ebfacb62507dd1d8ec4",
-          "author": null,
-          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
-          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
-          "publishedOn": "2021-06-04T02:32:22.000Z",
-          "wordCount": 390,
-          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
-        },
-        {
-          "id": "60b11ff811ffb70827ef8f94",
-          "author": null,
-          "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
-          "publishedOn": "2021-06-03T21:44:03.000Z",
-          "wordCount": 3978,
-          "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
         }
       ]
     }
