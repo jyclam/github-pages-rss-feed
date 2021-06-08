@@ -2,21 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T22:12:42.459Z</updated>
+    <updated>2021-06-08T23:13:13.451Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[ProPublica's Bombshell, Bullshit Tax Story]]></title>
-        <id>https://news.ycombinator.com/item?id=27441277</id>
-        <link href="https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax"/>
-        <updated>2021-06-08T21:41:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax
-Comments URL: https://news.ycombinator.com/item?id=27441277
-Points: 17
+        <title type="html"><![CDATA[Introducing chrome.scripting]]></title>
+        <id>https://news.ycombinator.com/item?id=27441898</id>
+        <link href="https://developer.chrome.com/en/blog/crx-scripting-api/"/>
+        <updated>2021-06-08T22:28:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/en/blog/crx-scripting-api/
+Comments URL: https://news.ycombinator.com/item?id=27441898
+Points: 8
 # Comments: 1]]></summary>
         <author>
-            <name>imgabe</name>
+            <name>pentagrama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bosch opens German chip plant]]></title>
+        <id>https://news.ycombinator.com/item?id=27441545</id>
+        <link href="https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/"/>
+        <updated>2021-06-08T22:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/
+Comments URL: https://news.ycombinator.com/item?id=27441545
+Points: 63
+# Comments: 9]]></summary>
+        <author>
+            <name>nixass</name>
         </author>
     </entry>
     <entry>
@@ -26,36 +39,10 @@ Points: 17
         <updated>2021-06-08T21:34:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains
 Comments URL: https://news.ycombinator.com/item?id=27441175
-Points: 26
-# Comments: 2]]></summary>
+Points: 61
+# Comments: 15]]></summary>
         <author>
             <name>hhs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Expensive Drugs in the U.S.]]></title>
-        <id>https://news.ycombinator.com/item?id=27440977</id>
-        <link href="https://www.goodrx.com/blog/most-expensive-drugs-period/"/>
-        <updated>2021-06-08T21:18:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.goodrx.com/blog/most-expensive-drugs-period/
-Comments URL: https://news.ycombinator.com/item?id=27440977
-Points: 12
-# Comments: 6]]></summary>
-        <author>
-            <name>avonmach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tax details of US super-rich allegedly leaked]]></title>
-        <id>https://news.ycombinator.com/item?id=27440881</id>
-        <link href="https://www.bbc.com/news/business-57383869"/>
-        <updated>2021-06-08T21:12:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57383869
-Comments URL: https://news.ycombinator.com/item?id=27440881
-Points: 63
-# Comments: 78]]></summary>
-        <author>
-            <name>boto3</name>
         </author>
     </entry>
     <entry>
@@ -88,8 +75,8 @@ Points: 1
         <updated>2021-06-08T20:55:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/
 Comments URL: https://news.ycombinator.com/item?id=27440675
-Points: 53
-# Comments: 4]]></summary>
+Points: 90
+# Comments: 19]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -101,8 +88,8 @@ Points: 53
         <updated>2021-06-08T20:46:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://astro.build/blog/introducing-astro
 Comments URL: https://news.ycombinator.com/item?id=27440553
-Points: 99
-# Comments: 32]]></summary>
+Points: 140
+# Comments: 46]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -114,23 +101,10 @@ Points: 99
         <updated>2021-06-08T20:43:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hendotcat/ppl
 Comments URL: https://news.ycombinator.com/item?id=27440516
-Points: 23
-# Comments: 2]]></summary>
+Points: 42
+# Comments: 8]]></summary>
         <author>
             <name>nomoreplease</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carbon dioxide peaks near 420 parts per million at Mauna Loa observatory]]></title>
-        <id>https://news.ycombinator.com/item?id=27440143</id>
-        <link href="https://research.noaa.gov/article/ArtMID/587/ArticleID/2764/Coronavirus-response-barely-slows-rising-carbon-dioxide"/>
-        <updated>2021-06-08T20:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://research.noaa.gov/article/ArtMID/587/ArticleID/2764/Coronavirus-response-barely-slows-rising-carbon-dioxide
-Comments URL: https://news.ycombinator.com/item?id=27440143
-Points: 129
-# Comments: 122]]></summary>
-        <author>
-            <name>gmays</name>
         </author>
     </entry>
     <entry>
@@ -140,10 +114,23 @@ Points: 129
         <updated>2021-06-08T20:08:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://maxhalford.github.io/blog/text-classification-by-compression/
 Comments URL: https://news.ycombinator.com/item?id=27440093
-Points: 10
-# Comments: 1]]></summary>
+Points: 35
+# Comments: 6]]></summary>
         <author>
             <name>Lemaxoxo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Superset 1.1]]></title>
+        <id>https://news.ycombinator.com/item?id=27439939</id>
+        <link href="https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1"/>
+        <updated>2021-06-08T19:53:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1
+Comments URL: https://news.ycombinator.com/item?id=27439939
+Points: 24
+# Comments: 4]]></summary>
+        <author>
+            <name>skadamat</name>
         </author>
     </entry>
     <entry>
@@ -153,8 +140,8 @@ Points: 10
         <updated>2021-06-08T19:24:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://pdl.perl.org/
 Comments URL: https://news.ycombinator.com/item?id=27439638
-Points: 58
-# Comments: 23]]></summary>
+Points: 70
+# Comments: 35]]></summary>
         <author>
             <name>smartmic</name>
         </author>
@@ -178,8 +165,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-08T18:31:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/
 Comments URL: https://news.ycombinator.com/item?id=27439010
-Points: 356
-# Comments: 290]]></summary>
+Points: 444
+# Comments: 356]]></summary>
         <author>
             <name>infodocket</name>
         </author>
@@ -191,8 +178,8 @@ Points: 356
         <updated>2021-06-08T18:24:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pustelto.com/blog/css-vs-css-in-js-perf/
 Comments URL: https://news.ycombinator.com/item?id=27438913
-Points: 101
-# Comments: 76]]></summary>
+Points: 112
+# Comments: 94]]></summary>
         <author>
             <name>______-</name>
         </author>
@@ -204,8 +191,8 @@ Points: 101
         <updated>2021-06-08T17:00:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates
 Comments URL: https://news.ycombinator.com/item?id=27437772
-Points: 40
-# Comments: 22]]></summary>
+Points: 50
+# Comments: 28]]></summary>
         <author>
             <name>quercusa</name>
         </author>
@@ -227,8 +214,8 @@ Points: 40
         <updated>2021-06-08T16:12:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths
 Comments URL: https://news.ycombinator.com/item?id=27437092
-Points: 54
-# Comments: 104]]></summary>
+Points: 66
+# Comments: 116]]></summary>
         <author>
             <name>jonbaer</name>
         </author>
@@ -285,8 +272,8 @@ When I was an iOS engineer, my team rotated everyone through the release manager
         <updated>2021-06-08T13:42:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
 Comments URL: https://news.ycombinator.com/item?id=27435081
-Points: 234
-# Comments: 28]]></summary>
+Points: 246
+# Comments: 31]]></summary>
         <author>
             <name>el_duderino</name>
         </author>
@@ -298,8 +285,8 @@ Points: 234
         <updated>2021-06-08T12:51:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval
 Comments URL: https://news.ycombinator.com/item?id=27434468
-Points: 118
-# Comments: 86]]></summary>
+Points: 123
+# Comments: 90]]></summary>
         <author>
             <name>hprotagonist</name>
         </author>
@@ -311,8 +298,8 @@ Points: 118
         <updated>2021-06-08T12:29:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money
 Comments URL: https://news.ycombinator.com/item?id=27434243
-Points: 173
-# Comments: 75]]></summary>
+Points: 183
+# Comments: 77]]></summary>
         <author>
             <name>mdeck_</name>
         </author>
@@ -334,10 +321,23 @@ Points: 173
         <updated>2021-06-08T11:49:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0
 Comments URL: https://news.ycombinator.com/item?id=27433863
-Points: 592
-# Comments: 253]]></summary>
+Points: 610
+# Comments: 257]]></summary>
         <author>
             <name>cube2222</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana 8.0]]></title>
+        <id>https://news.ycombinator.com/item?id=27433552</id>
+        <link href="https://github.com/grafana/grafana/releases/tag/v8.0.0"/>
+        <updated>2021-06-08T11:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/grafana/grafana/releases/tag/v8.0.0
+Comments URL: https://news.ycombinator.com/item?id=27433552
+Points: 349
+# Comments: 34]]></summary>
+        <author>
+            <name>botayhard</name>
         </author>
     </entry>
     <entry>
@@ -962,16 +962,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
         </author>
     </entry>
 </feed>
