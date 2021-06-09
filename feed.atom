@@ -2,19 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T20:11:23.235Z</updated>
+    <updated>2021-06-09T21:11:05.456Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Hacker News Source Code]]></title>
+        <title type="html"><![CDATA[LayerCI (YC S20) Is Hiring Interns in Canada]]></title>
+        <id>https://news.ycombinator.com/item?id=27453164</id>
+        <link href="https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021"/>
+        <updated>2021-06-09T21:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/layerci/jobs/wyUcmvS-software-developer-intern-sep-dec-2021
+Comments URL: https://news.ycombinator.com/item?id=27453164
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>colinchartier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
+        <id>https://css-tricks.com/?p=340967</id>
+        <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
+        <updated>2021-06-09T20:37:00.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …
+The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Original Hacker News Source Code (2009)]]></title>
         <id>https://news.ycombinator.com/item?id=27452276</id>
         <link href="https://github.com/wting/hackernews"/>
         <updated>2021-06-09T19:49:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wting/hackernews
 Comments URL: https://news.ycombinator.com/item?id=27452276
-Points: 8
-# Comments: 0]]></summary>
+Points: 56
+# Comments: 11]]></summary>
         <author>
             <name>Maksadbek</name>
         </author>
@@ -30,14 +55,40 @@ Points: 8
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rechanneling Beliefs: How information flows hinder or help democracy [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27452158</id>
+        <link href="https://snfagora.jhu.edu/wp-content/uploads/2021/05/Rechanneling-Beliefs.pdf"/>
+        <updated>2021-06-09T19:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://snfagora.jhu.edu/wp-content/uploads/2021/05/Rechanneling-Beliefs.pdf
+Comments URL: https://news.ycombinator.com/item?id=27452158
+Points: 10
+# Comments: 2]]></summary>
+        <author>
+            <name>curmudgeon22</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You use more open source software than you think]]></title>
+        <id>https://news.ycombinator.com/item?id=27452151</id>
+        <link href="https://github.com/readme/unseen-oss"/>
+        <updated>2021-06-09T19:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/readme/unseen-oss
+Comments URL: https://news.ycombinator.com/item?id=27452151
+Points: 31
+# Comments: 14]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Drug Users Use a Lot of Drugs]]></title>
         <id>https://news.ycombinator.com/item?id=27451914</id>
         <link href="https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs"/>
         <updated>2021-06-09T19:17:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs
 Comments URL: https://news.ycombinator.com/item?id=27451914
-Points: 17
-# Comments: 1]]></summary>
+Points: 62
+# Comments: 38]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -49,8 +100,8 @@ Points: 17
         <updated>2021-06-09T19:12:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fragile-credences.github.io/scihub-proxy/
 Comments URL: https://news.ycombinator.com/item?id=27451844
-Points: 43
-# Comments: 11]]></summary>
+Points: 136
+# Comments: 55]]></summary>
         <author>
             <name>tmkadamcz</name>
         </author>
@@ -62,8 +113,8 @@ Points: 43
         <updated>2021-06-09T18:58:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/jasminericegirl/status/1402691047940100100
 Comments URL: https://news.ycombinator.com/item?id=27451689
-Points: 49
-# Comments: 22]]></summary>
+Points: 117
+# Comments: 165]]></summary>
         <author>
             <name>amrrs</name>
         </author>
@@ -85,8 +136,8 @@ Points: 49
         <updated>2021-06-09T18:34:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad
 Comments URL: https://news.ycombinator.com/item?id=27451413
-Points: 47
-# Comments: 43]]></summary>
+Points: 67
+# Comments: 71]]></summary>
         <author>
             <name>gumby</name>
         </author>
@@ -98,8 +149,8 @@ Points: 47
         <updated>2021-06-09T18:03:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.independent.co.uk/news/world/europe/brexit-france-eu-french-english-b1861087.html
 Comments URL: https://news.ycombinator.com/item?id=27451065
-Points: 62
-# Comments: 91]]></summary>
+Points: 113
+# Comments: 137]]></summary>
         <author>
             <name>nomoreplease</name>
         </author>
@@ -111,8 +162,8 @@ Points: 62
         <updated>2021-06-09T17:30:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://review.chicagobooth.edu/economics/2021/article/how-1-percent-s-savings-buried-middle-class-debt
 Comments URL: https://news.ycombinator.com/item?id=27450670
-Points: 129
-# Comments: 105]]></summary>
+Points: 140
+# Comments: 126]]></summary>
         <author>
             <name>gamechangr</name>
         </author>
@@ -124,8 +175,8 @@ Points: 129
         <updated>2021-06-09T17:05:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://rephial.org/
 Comments URL: https://news.ycombinator.com/item?id=27450373
-Points: 61
-# Comments: 10]]></summary>
+Points: 80
+# Comments: 34]]></summary>
         <author>
             <name>throwawaybutwhy</name>
         </author>
@@ -137,23 +188,10 @@ Points: 61
         <updated>2021-06-09T17:04:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426
 Comments URL: https://news.ycombinator.com/item?id=27450364
-Points: 228
-# Comments: 91]]></summary>
+Points: 270
+# Comments: 105]]></summary>
         <author>
             <name>Arnavion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SwiftSku (YC W21) Is Hiring a Founding Back End Python Engineer (Remote)]]></title>
-        <id>https://news.ycombinator.com/item?id=27450305</id>
-        <link href="https://www.workatastartup.com/jobs/41421"/>
-        <updated>2021-06-09T17:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/41421
-Comments URL: https://news.ycombinator.com/item?id=27450305
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>danielmazur</name>
         </author>
     </entry>
     <entry>
@@ -163,8 +201,8 @@ Points: 1
         <updated>2021-06-09T16:34:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/
 Comments URL: https://news.ycombinator.com/item?id=27449931
-Points: 139
-# Comments: 43]]></summary>
+Points: 153
+# Comments: 49]]></summary>
         <author>
             <name>cpach</name>
         </author>
@@ -176,23 +214,10 @@ Points: 139
         <updated>2021-06-09T16:31:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://playit.gg/
 Comments URL: https://news.ycombinator.com/item?id=27449888
-Points: 29
-# Comments: 21]]></summary>
+Points: 39
+# Comments: 22]]></summary>
         <author>
             <name>patricklorio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human Memory]]></title>
-        <id>https://news.ycombinator.com/item?id=27448966</id>
-        <link href="https://github.com/ContextLab/human-memory"/>
-        <updated>2021-06-09T15:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ContextLab/human-memory
-Comments URL: https://news.ycombinator.com/item?id=27448966
-Points: 51
-# Comments: 6]]></summary>
-        <author>
-            <name>andyxor</name>
         </author>
     </entry>
     <entry>
@@ -217,8 +242,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-09T14:20:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801
 Comments URL: https://news.ycombinator.com/item?id=27448175
-Points: 484
-# Comments: 746]]></summary>
+Points: 515
+# Comments: 803]]></summary>
         <author>
             <name>zpeti</name>
         </author>
@@ -230,8 +255,8 @@ Points: 484
         <updated>2021-06-09T13:47:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html
 Comments URL: https://news.ycombinator.com/item?id=27447766
-Points: 191
-# Comments: 76]]></summary>
+Points: 197
+# Comments: 83]]></summary>
         <author>
             <name>bcaa7f3a8bbc</name>
         </author>
@@ -243,8 +268,8 @@ Points: 191
         <updated>2021-06-09T12:58:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alpaca-attack.com/
 Comments URL: https://news.ycombinator.com/item?id=27447348
-Points: 101
-# Comments: 33]]></summary>
+Points: 104
+# Comments: 35]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -269,8 +294,8 @@ When account settings were changed, Coinbase gave me a link to lock my account, 
 Unlike competitors, which allow pins from 6 to 15 characters and for accounts to be administrative locked, Boost offers none of these options. The last Boost operator suggested I pick a more secure PIN.
 I am calculating my losses and documenting all interactions.
 Comments URL: https://news.ycombinator.com/item?id=27447206
-Points: 432
-# Comments: 204]]></summary>
+Points: 457
+# Comments: 225]]></summary>
         <author>
             <name>Zolt</name>
         </author>
@@ -282,7 +307,7 @@ Points: 432
         <updated>2021-06-09T12:23:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.explo.co/
 Comments URL: https://news.ycombinator.com/item?id=27447086
-Points: 71
+Points: 73
 # Comments: 42]]></summary>
         <author>
             <name>rnvarma</name>
@@ -295,23 +320,10 @@ Points: 71
         <updated>2021-06-09T12:01:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts
 Comments URL: https://news.ycombinator.com/item?id=27446910
-Points: 288
-# Comments: 56]]></summary>
+Points: 303
+# Comments: 58]]></summary>
         <author>
             <name>destructuredObj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's in email tracking links and pixels?]]></title>
-        <id>https://news.ycombinator.com/item?id=27446907</id>
-        <link href="https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/"/>
-        <updated>2021-06-09T12:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/
-Comments URL: https://news.ycombinator.com/item?id=27446907
-Points: 71
-# Comments: 35]]></summary>
-        <author>
-            <name>bengtan</name>
         </author>
     </entry>
     <entry>
@@ -651,18 +663,6 @@ The post Front-End Testing is For Everyone appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Evgeny Klimenchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetpack Boost Handles Critical CSS For You]]></title>
-        <id>https://css-tricks.com/?p=341296</id>
-        <link href="https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/"/>
-        <updated>2021-06-01T14:16:55.000Z</updated>
-        <summary type="html"><![CDATA[Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…
-The post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
