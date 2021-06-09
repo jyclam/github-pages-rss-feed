@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T00:42:28.750Z</updated>
+    <updated>2021-06-09T02:18:50.236Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,8 +13,8 @@
         <updated>2021-06-08T23:38:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.apple.com/metal/tensorflow-plugin/
 Comments URL: https://news.ycombinator.com/item?id=27442475
-Points: 41
-# Comments: 9]]></summary>
+Points: 86
+# Comments: 28]]></summary>
         <author>
             <name>dandiep</name>
         </author>
@@ -26,8 +26,8 @@ Points: 41
         <updated>2021-06-08T22:28:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/en/blog/crx-scripting-api/
 Comments URL: https://news.ycombinator.com/item?id=27441898
-Points: 46
-# Comments: 24]]></summary>
+Points: 73
+# Comments: 41]]></summary>
         <author>
             <name>pentagrama</name>
         </author>
@@ -39,10 +39,23 @@ Points: 46
         <updated>2021-06-08T22:01:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/
 Comments URL: https://news.ycombinator.com/item?id=27441545
-Points: 147
-# Comments: 40]]></summary>
+Points: 207
+# Comments: 71]]></summary>
         <author>
             <name>nixass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ProPublica's Tax Story is Misleading]]></title>
+        <id>https://news.ycombinator.com/item?id=27441277</id>
+        <link href="https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax"/>
+        <updated>2021-06-08T21:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax
+Comments URL: https://news.ycombinator.com/item?id=27441277
+Points: 92
+# Comments: 101]]></summary>
+        <author>
+            <name>imgabe</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +65,8 @@ Points: 147
         <updated>2021-06-08T21:34:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains
 Comments URL: https://news.ycombinator.com/item?id=27441175
-Points: 84
-# Comments: 25]]></summary>
+Points: 115
+# Comments: 30]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -88,8 +101,8 @@ Points: 1
         <updated>2021-06-08T20:55:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/
 Comments URL: https://news.ycombinator.com/item?id=27440675
-Points: 119
-# Comments: 20]]></summary>
+Points: 140
+# Comments: 29]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -101,8 +114,8 @@ Points: 119
         <updated>2021-06-08T20:46:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://astro.build/blog/introducing-astro
 Comments URL: https://news.ycombinator.com/item?id=27440553
-Points: 187
-# Comments: 52]]></summary>
+Points: 225
+# Comments: 65]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -114,8 +127,8 @@ Points: 187
         <updated>2021-06-08T20:43:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hendotcat/ppl
 Comments URL: https://news.ycombinator.com/item?id=27440516
-Points: 55
-# Comments: 14]]></summary>
+Points: 62
+# Comments: 19]]></summary>
         <author>
             <name>nomoreplease</name>
         </author>
@@ -127,8 +140,8 @@ Points: 55
         <updated>2021-06-08T20:08:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://maxhalford.github.io/blog/text-classification-by-compression/
 Comments URL: https://news.ycombinator.com/item?id=27440093
-Points: 43
-# Comments: 10]]></summary>
+Points: 59
+# Comments: 19]]></summary>
         <author>
             <name>Lemaxoxo</name>
         </author>
@@ -140,8 +153,8 @@ Points: 43
         <updated>2021-06-08T19:53:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1
 Comments URL: https://news.ycombinator.com/item?id=27439939
-Points: 38
-# Comments: 9]]></summary>
+Points: 53
+# Comments: 13]]></summary>
         <author>
             <name>skadamat</name>
         </author>
@@ -153,8 +166,8 @@ Points: 38
         <updated>2021-06-08T19:24:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://pdl.perl.org/
 Comments URL: https://news.ycombinator.com/item?id=27439638
-Points: 82
-# Comments: 46]]></summary>
+Points: 100
+# Comments: 54]]></summary>
         <author>
             <name>smartmic</name>
         </author>
@@ -178,8 +191,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-08T18:31:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/
 Comments URL: https://news.ycombinator.com/item?id=27439010
-Points: 522
-# Comments: 440]]></summary>
+Points: 583
+# Comments: 487]]></summary>
         <author>
             <name>infodocket</name>
         </author>
@@ -191,8 +204,8 @@ Points: 522
         <updated>2021-06-08T18:24:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pustelto.com/blog/css-vs-css-in-js-perf/
 Comments URL: https://news.ycombinator.com/item?id=27438913
-Points: 125
-# Comments: 104]]></summary>
+Points: 138
+# Comments: 113]]></summary>
         <author>
             <name>______-</name>
         </author>
@@ -204,8 +217,8 @@ Points: 125
         <updated>2021-06-08T17:00:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates
 Comments URL: https://news.ycombinator.com/item?id=27437772
-Points: 63
-# Comments: 35]]></summary>
+Points: 77
+# Comments: 44]]></summary>
         <author>
             <name>quercusa</name>
         </author>
@@ -227,8 +240,8 @@ Points: 63
         <updated>2021-06-08T16:12:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths
 Comments URL: https://news.ycombinator.com/item?id=27437092
-Points: 74
-# Comments: 141]]></summary>
+Points: 81
+# Comments: 152]]></summary>
         <author>
             <name>jonbaer</name>
         </author>
@@ -285,23 +298,10 @@ When I was an iOS engineer, my team rotated everyone through the release manager
         <updated>2021-06-08T13:42:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
 Comments URL: https://news.ycombinator.com/item?id=27435081
-Points: 257
-# Comments: 31]]></summary>
+Points: 270
+# Comments: 32]]></summary>
         <author>
             <name>el_duderino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Aducanumab Approval]]></title>
-        <id>https://news.ycombinator.com/item?id=27434468</id>
-        <link href="https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval"/>
-        <updated>2021-06-08T12:51:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval
-Comments URL: https://news.ycombinator.com/item?id=27434468
-Points: 130
-# Comments: 98]]></summary>
-        <author>
-            <name>hprotagonist</name>
         </author>
     </entry>
     <entry>
@@ -311,8 +311,8 @@ Points: 130
         <updated>2021-06-08T12:29:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money
 Comments URL: https://news.ycombinator.com/item?id=27434243
-Points: 194
-# Comments: 80]]></summary>
+Points: 199
+# Comments: 89]]></summary>
         <author>
             <name>mdeck_</name>
         </author>
@@ -334,8 +334,8 @@ Points: 194
         <updated>2021-06-08T11:49:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0
 Comments URL: https://news.ycombinator.com/item?id=27433863
-Points: 622
-# Comments: 262]]></summary>
+Points: 650
+# Comments: 270]]></summary>
         <author>
             <name>cube2222</name>
         </author>
