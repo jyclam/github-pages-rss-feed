@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T14:15:02.525Z</updated>
+    <updated>2021-06-09T15:13:44.616Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[target=”blank”]]></title>
+        <id>https://css-tricks.com/?p=341916</id>
+        <link href="https://css-tricks.com/targetblank/"/>
+        <updated>2021-06-09T14:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Does that make your eye twitch a little bit? Like… it’s a typo. It should be target="_blank" with an underscore to start the value. As in…
+<a target="_blank" href="https://codepen.io"Open CodePen in a New Tab
+</a
+Welp, that’s correct syntax!…
+The post target=”blank” appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start Disrupting Cryptocurrencies: “Mining” Is Money Transmission]]></title>
+        <id>https://news.ycombinator.com/item?id=27448349</id>
+        <link href="https://www.lawfareblog.com/how-start-disrupting-cryptocurrencies-mining-money-transmission"/>
+        <updated>2021-06-09T14:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.lawfareblog.com/how-start-disrupting-cryptocurrencies-mining-money-transmission
+Comments URL: https://news.ycombinator.com/item?id=27448349
+Points: 14
+# Comments: 0]]></summary>
+        <author>
+            <name>slowhand09</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sophie Zhang: I saw millions compromise their FB accounts for fake engagement]]></title>
+        <id>https://news.ycombinator.com/item?id=27448218</id>
+        <link href="https://restofworld.org/2021/sophie-zhang-facebook-autolikers/"/>
+        <updated>2021-06-09T14:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://restofworld.org/2021/sophie-zhang-facebook-autolikers/
+Comments URL: https://news.ycombinator.com/item?id=27448218
+Points: 87
+# Comments: 14]]></summary>
+        <author>
+            <name>leoschwartz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resistor Noise Can Be Deafening, and Hard to Reduce]]></title>
+        <id>https://news.ycombinator.com/item?id=27447766</id>
+        <link href="https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html"/>
+        <updated>2021-06-09T13:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html
+Comments URL: https://news.ycombinator.com/item?id=27447766
+Points: 44
+# Comments: 11]]></summary>
+        <author>
+            <name>bcaa7f3a8bbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[El Salvador makes Bitcoin legal tender]]></title>
         <id>https://news.ycombinator.com/item?id=27447757</id>
@@ -13,8 +67,8 @@
         <updated>2021-06-09T13:45:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-latin-america-57398274
 Comments URL: https://news.ycombinator.com/item?id=27447757
-Points: 79
-# Comments: 34]]></summary>
+Points: 254
+# Comments: 202]]></summary>
         <author>
             <name>aazaa</name>
         </author>
@@ -26,23 +80,10 @@ Points: 79
         <updated>2021-06-09T13:38:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/nayibbukele/status/1402507224916836352
 Comments URL: https://news.ycombinator.com/item?id=27447698
-Points: 8
-# Comments: 1]]></summary>
+Points: 28
+# Comments: 2]]></summary>
         <author>
             <name>pgirard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The drought in the western U.S. is getting bad]]></title>
-        <id>https://news.ycombinator.com/item?id=27447634</id>
-        <link href="https://www.npr.org/2021/06/09/1003424717/the-drought-in-the-western-u-s-is-getting-bad-climate-change-is-making-it-worse"/>
-        <updated>2021-06-09T13:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/09/1003424717/the-drought-in-the-western-u-s-is-getting-bad-climate-change-is-making-it-worse
-Comments URL: https://news.ycombinator.com/item?id=27447634
-Points: 39
-# Comments: 34]]></summary>
-        <author>
-            <name>vegetablepotpie</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +93,8 @@ Points: 39
         <updated>2021-06-09T12:58:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alpaca-attack.com/
 Comments URL: https://news.ycombinator.com/item?id=27447348
-Points: 12
-# Comments: 0]]></summary>
+Points: 34
+# Comments: 11]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -78,8 +119,8 @@ When account settings were changed, Coinbase gave me a link to lock my account, 
 Unlike competitors, which allow pins from 6 to 15 characters and for accounts to be administrative locked, Boost offers none of these options. The last Boost operator suggested I pick a more secure PIN.
 I am calculating my losses and documenting all interactions.
 Comments URL: https://news.ycombinator.com/item?id=27447206
-Points: 94
-# Comments: 50]]></summary>
+Points: 163
+# Comments: 75]]></summary>
         <author>
             <name>Zolt</name>
         </author>
@@ -91,8 +132,8 @@ Points: 94
         <updated>2021-06-09T12:23:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.explo.co/
 Comments URL: https://news.ycombinator.com/item?id=27447086
-Points: 28
-# Comments: 12]]></summary>
+Points: 36
+# Comments: 17]]></summary>
         <author>
             <name>rnvarma</name>
         </author>
@@ -104,8 +145,8 @@ Points: 28
         <updated>2021-06-09T12:01:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts
 Comments URL: https://news.ycombinator.com/item?id=27446910
-Points: 112
-# Comments: 5]]></summary>
+Points: 153
+# Comments: 16]]></summary>
         <author>
             <name>destructuredObj</name>
         </author>
@@ -130,8 +171,8 @@ Points: 1
         <updated>2021-06-09T11:14:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57413224
 Comments URL: https://news.ycombinator.com/item?id=27446574
-Points: 148
-# Comments: 112]]></summary>
+Points: 177
+# Comments: 127]]></summary>
         <author>
             <name>JulianMorrison</name>
         </author>
@@ -143,8 +184,8 @@ Points: 148
         <updated>2021-06-09T10:38:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/whitecatboard/Lua-RTOS-ESP32
 Comments URL: https://news.ycombinator.com/item?id=27446371
-Points: 81
-# Comments: 28]]></summary>
+Points: 95
+# Comments: 36]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -160,27 +201,14 @@ Points: 81
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[National Geographic now recognizes The Southern Ocean]]></title>
-        <id>https://news.ycombinator.com/item?id=27446242</id>
-        <link href="https://www.nationalgeographic.com/environment/article/theres-a-new-ocean-now-can-you-name-all-five-southern-ocean"/>
-        <updated>2021-06-09T10:16:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/environment/article/theres-a-new-ocean-now-can-you-name-all-five-southern-ocean
-Comments URL: https://news.ycombinator.com/item?id=27446242
-Points: 66
-# Comments: 67]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The myth of the driverless tube train]]></title>
         <id>https://news.ycombinator.com/item?id=27446220</id>
         <link href="https://www.londonreconnections.com/2021/the-political-myth-of-the-driverless-tube-train/"/>
         <updated>2021-06-09T10:12:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.londonreconnections.com/2021/the-political-myth-of-the-driverless-tube-train/
 Comments URL: https://news.ycombinator.com/item?id=27446220
-Points: 45
-# Comments: 77]]></summary>
+Points: 52
+# Comments: 97]]></summary>
         <author>
             <name>rwmj</name>
         </author>
@@ -192,8 +220,8 @@ Points: 45
         <updated>2021-06-09T10:09:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://airy.co/hn
 Comments URL: https://news.ycombinator.com/item?id=27446200
-Points: 54
-# Comments: 10]]></summary>
+Points: 64
+# Comments: 13]]></summary>
         <author>
             <name>skandergarroum</name>
         </author>
@@ -205,8 +233,8 @@ Points: 54
         <updated>2021-06-09T09:59:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fastmail.blog/legal-policy/russia-blocking-fastmail-to-customers-living-in-russia/
 Comments URL: https://news.ycombinator.com/item?id=27446156
-Points: 155
-# Comments: 73]]></summary>
+Points: 190
+# Comments: 97]]></summary>
         <author>
             <name>andrewshadura</name>
         </author>
@@ -218,7 +246,7 @@ Points: 155
         <updated>2021-06-09T09:32:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/276782/
 Comments URL: https://news.ycombinator.com/item?id=27445981
-Points: 44
+Points: 56
 # Comments: 2]]></summary>
         <author>
             <name>noch</name>
@@ -231,8 +259,8 @@ Points: 44
         <updated>2021-06-09T07:41:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vivaldi.com/blog/vivaldi-4-0/
 Comments URL: https://news.ycombinator.com/item?id=27445282
-Points: 277
-# Comments: 177]]></summary>
+Points: 304
+# Comments: 194]]></summary>
         <author>
             <name>0x49d1</name>
         </author>
@@ -244,8 +272,8 @@ Points: 277
         <updated>2021-06-09T06:23:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.abandonedberlin.com/tempelhof/
 Comments URL: https://news.ycombinator.com/item?id=27444832
-Points: 71
-# Comments: 16]]></summary>
+Points: 86
+# Comments: 19]]></summary>
         <author>
             <name>postpawl</name>
         </author>
@@ -257,8 +285,8 @@ Points: 71
         <updated>2021-06-09T05:50:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://briancallahan.net/blog/20210609.html
 Comments URL: https://news.ycombinator.com/item?id=27444647
-Points: 130
-# Comments: 34]]></summary>
+Points: 140
+# Comments: 38]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -270,23 +298,10 @@ Points: 130
         <updated>2021-06-09T02:55:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://steveblank.com/2021/06/04/you-dont-need-permission/
 Comments URL: https://news.ycombinator.com/item?id=27443711
-Points: 173
-# Comments: 45]]></summary>
+Points: 184
+# Comments: 53]]></summary>
         <author>
             <name>rognjen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-J-6B: 6B JAX-Based Transformer]]></title>
-        <id>https://news.ycombinator.com/item?id=27443528</id>
-        <link href="https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/"/>
-        <updated>2021-06-09T02:20:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
-Comments URL: https://news.ycombinator.com/item?id=27443528
-Points: 117
-# Comments: 66]]></summary>
-        <author>
-            <name>kindiana</name>
         </author>
     </entry>
     <entry>
@@ -678,22 +693,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
-        <id>https://css-tricks.com/?p=340465</id>
-        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
-        <updated>2021-05-31T17:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
-building modern, accessible user interfaces
-creating interactive elements and complex animations
-managing complex application state
-…
-The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jason Lengstorf</name>
         </author>
     </entry>
     <entry>
