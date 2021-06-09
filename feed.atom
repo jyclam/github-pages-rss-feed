@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T02:18:50.236Z</updated>
+    <updated>2021-06-09T03:36:35.342Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You Don’t Need Permission]]></title>
+        <id>https://news.ycombinator.com/item?id=27443711</id>
+        <link href="https://steveblank.com/2021/06/04/you-dont-need-permission/"/>
+        <updated>2021-06-09T02:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://steveblank.com/2021/06/04/you-dont-need-permission/
+Comments URL: https://news.ycombinator.com/item?id=27443711
+Points: 16
+# Comments: 1]]></summary>
+        <author>
+            <name>rognjen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-J-6B, a 6B Parameter Text Generation Model]]></title>
+        <id>https://news.ycombinator.com/item?id=27443528</id>
+        <link href="https://github.com/kingoflolz/mesh-transformer-jax"/>
+        <updated>2021-06-09T02:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/kingoflolz/mesh-transformer-jax
+Comments URL: https://news.ycombinator.com/item?id=27443528
+Points: 18
+# Comments: 6]]></summary>
+        <author>
+            <name>kindiana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Fastly outage can teach us about writing error messages]]></title>
+        <id>https://news.ycombinator.com/item?id=27443519</id>
+        <link href="https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages"/>
+        <updated>2021-06-09T02:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages
+Comments URL: https://news.ycombinator.com/item?id=27443519
+Points: 40
+# Comments: 17]]></summary>
+        <author>
+            <name>rozenmd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senate approves $250B bill to boost tech research]]></title>
+        <id>https://news.ycombinator.com/item?id=27443248</id>
+        <link href="https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584"/>
+        <updated>2021-06-09T01:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584
+Comments URL: https://news.ycombinator.com/item?id=27443248
+Points: 54
+# Comments: 10]]></summary>
+        <author>
+            <name>julienchastang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple M1 support for TensorFlow 2.5 pluggable device API]]></title>
         <id>https://news.ycombinator.com/item?id=27442475</id>
@@ -13,8 +65,8 @@
         <updated>2021-06-08T23:38:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.apple.com/metal/tensorflow-plugin/
 Comments URL: https://news.ycombinator.com/item?id=27442475
-Points: 86
-# Comments: 28]]></summary>
+Points: 106
+# Comments: 33]]></summary>
         <author>
             <name>dandiep</name>
         </author>
@@ -26,8 +78,8 @@ Points: 86
         <updated>2021-06-08T22:28:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/en/blog/crx-scripting-api/
 Comments URL: https://news.ycombinator.com/item?id=27441898
-Points: 73
-# Comments: 41]]></summary>
+Points: 93
+# Comments: 60]]></summary>
         <author>
             <name>pentagrama</name>
         </author>
@@ -39,21 +91,21 @@ Points: 73
         <updated>2021-06-08T22:01:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/
 Comments URL: https://news.ycombinator.com/item?id=27441545
-Points: 207
-# Comments: 71]]></summary>
+Points: 233
+# Comments: 86]]></summary>
         <author>
             <name>nixass</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ProPublica's Tax Story is Misleading]]></title>
+        <title type="html"><![CDATA[ProPublica's tax story]]></title>
         <id>https://news.ycombinator.com/item?id=27441277</id>
         <link href="https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax"/>
         <updated>2021-06-08T21:41:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax
 Comments URL: https://news.ycombinator.com/item?id=27441277
-Points: 92
-# Comments: 101]]></summary>
+Points: 123
+# Comments: 161]]></summary>
         <author>
             <name>imgabe</name>
         </author>
@@ -65,8 +117,8 @@ Points: 92
         <updated>2021-06-08T21:34:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains
 Comments URL: https://news.ycombinator.com/item?id=27441175
-Points: 115
-# Comments: 30]]></summary>
+Points: 142
+# Comments: 35]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -101,8 +153,8 @@ Points: 1
         <updated>2021-06-08T20:55:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/
 Comments URL: https://news.ycombinator.com/item?id=27440675
-Points: 140
-# Comments: 29]]></summary>
+Points: 159
+# Comments: 33]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -114,8 +166,8 @@ Points: 140
         <updated>2021-06-08T20:46:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://astro.build/blog/introducing-astro
 Comments URL: https://news.ycombinator.com/item?id=27440553
-Points: 225
-# Comments: 65]]></summary>
+Points: 245
+# Comments: 76]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -127,8 +179,8 @@ Points: 225
         <updated>2021-06-08T20:43:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hendotcat/ppl
 Comments URL: https://news.ycombinator.com/item?id=27440516
-Points: 62
-# Comments: 19]]></summary>
+Points: 72
+# Comments: 21]]></summary>
         <author>
             <name>nomoreplease</name>
         </author>
@@ -140,8 +192,8 @@ Points: 62
         <updated>2021-06-08T20:08:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://maxhalford.github.io/blog/text-classification-by-compression/
 Comments URL: https://news.ycombinator.com/item?id=27440093
-Points: 59
-# Comments: 19]]></summary>
+Points: 67
+# Comments: 26]]></summary>
         <author>
             <name>Lemaxoxo</name>
         </author>
@@ -153,8 +205,8 @@ Points: 59
         <updated>2021-06-08T19:53:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1
 Comments URL: https://news.ycombinator.com/item?id=27439939
-Points: 53
-# Comments: 13]]></summary>
+Points: 61
+# Comments: 15]]></summary>
         <author>
             <name>skadamat</name>
         </author>
@@ -166,8 +218,8 @@ Points: 53
         <updated>2021-06-08T19:24:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://pdl.perl.org/
 Comments URL: https://news.ycombinator.com/item?id=27439638
-Points: 100
-# Comments: 54]]></summary>
+Points: 109
+# Comments: 62]]></summary>
         <author>
             <name>smartmic</name>
         </author>
@@ -191,8 +243,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-08T18:31:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/
 Comments URL: https://news.ycombinator.com/item?id=27439010
-Points: 583
-# Comments: 487]]></summary>
+Points: 628
+# Comments: 513]]></summary>
         <author>
             <name>infodocket</name>
         </author>
@@ -204,23 +256,10 @@ Points: 583
         <updated>2021-06-08T18:24:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pustelto.com/blog/css-vs-css-in-js-perf/
 Comments URL: https://news.ycombinator.com/item?id=27438913
-Points: 138
-# Comments: 113]]></summary>
+Points: 145
+# Comments: 119]]></summary>
         <author>
             <name>______-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Consciousness of Invertebrates]]></title>
-        <id>https://news.ycombinator.com/item?id=27437772</id>
-        <link href="https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates"/>
-        <updated>2021-06-08T17:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates
-Comments URL: https://news.ycombinator.com/item?id=27437772
-Points: 77
-# Comments: 44]]></summary>
-        <author>
-            <name>quercusa</name>
         </author>
     </entry>
     <entry>
@@ -240,8 +279,8 @@ Points: 77
         <updated>2021-06-08T16:12:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths
 Comments URL: https://news.ycombinator.com/item?id=27437092
-Points: 81
-# Comments: 152]]></summary>
+Points: 85
+# Comments: 156]]></summary>
         <author>
             <name>jonbaer</name>
         </author>
@@ -292,32 +331,6 @@ When I was an iOS engineer, my team rotated everyone through the release manager
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Netflix uses eBPF flow logs at scale for network insight]]></title>
-        <id>https://news.ycombinator.com/item?id=27435081</id>
-        <link href="https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96"/>
-        <updated>2021-06-08T13:42:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
-Comments URL: https://news.ycombinator.com/item?id=27435081
-Points: 270
-# Comments: 32]]></summary>
-        <author>
-            <name>el_duderino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the government set up a fake bank to launder drug money (2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=27434243</id>
-        <link href="https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money"/>
-        <updated>2021-06-08T12:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money
-Comments URL: https://news.ycombinator.com/item?id=27434243
-Points: 199
-# Comments: 89]]></summary>
-        <author>
-            <name>mdeck_</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
         <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
         <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
@@ -325,19 +338,6 @@ Points: 199
         <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terraform 1.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27433863</id>
-        <link href="https://github.com/hashicorp/terraform/releases/tag/v1.0.0"/>
-        <updated>2021-06-08T11:49:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/hashicorp/terraform/releases/tag/v1.0.0
-Comments URL: https://news.ycombinator.com/item?id=27433863
-Points: 650
-# Comments: 270]]></summary>
-        <author>
-            <name>cube2222</name>
         </author>
     </entry>
     <entry>
