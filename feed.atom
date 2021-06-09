@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T06:23:43.715Z</updated>
+    <updated>2021-06-09T07:24:34.743Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[AppStore: Apps supporting account creation must also offer account deletion]]></title>
+        <title type="html"><![CDATA[Find software roles 30 startups (including YC) at YC's Job Expo this Thursday]]></title>
+        <id>https://news.ycombinator.com/item?id=27445070</id>
+        <link href="https://www.workatastartup.com/events/startup-tech-expo-summer-2021"/>
+        <updated>2021-06-09T07:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/events/startup-tech-expo-summer-2021
+Comments URL: https://news.ycombinator.com/item?id=27445070
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>ryankicks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apps supporting account creation must also offer account deletion]]></title>
         <id>https://news.ycombinator.com/item?id=27444656</id>
         <link href="https://developer.apple.com/app-store/review/guidelines/#data-collection-and-storage"/>
         <updated>2021-06-09T05:52:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.apple.com/app-store/review/guidelines/#data-collection-and-storage
 Comments URL: https://news.ycombinator.com/item?id=27444656
-Points: 18
-# Comments: 8]]></summary>
+Points: 119
+# Comments: 63]]></summary>
         <author>
             <name>kfdm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I wrote a linker everyone can understand]]></title>
+        <id>https://news.ycombinator.com/item?id=27444647</id>
+        <link href="https://briancallahan.net/blog/20210609.html"/>
+        <updated>2021-06-09T05:50:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://briancallahan.net/blog/20210609.html
+Comments URL: https://news.ycombinator.com/item?id=27444647
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>ingve</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +52,8 @@ Points: 18
         <updated>2021-06-09T05:50:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.d7xtech.com/lockdown/
 Comments URL: https://news.ycombinator.com/item?id=27444646
-Points: 5
-# Comments: 1]]></summary>
+Points: 23
+# Comments: 5]]></summary>
         <author>
             <name>miles</name>
         </author>
@@ -39,41 +65,10 @@ Points: 5
         <updated>2021-06-09T05:00:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/timcwinkler/javascript-notebook
 Comments URL: https://news.ycombinator.com/item?id=27444378
-Points: 4
-# Comments: 3]]></summary>
+Points: 9
+# Comments: 5]]></summary>
         <author>
             <name>timcwinkler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShowHN: ghissue, a CLI to bulk-upload GitHub issues]]></title>
-        <id>https://news.ycombinator.com/item?id=27444336</id>
-        <link href="https://github.com/hcgatewood/ghissue"/>
-        <updated>2021-06-09T04:52:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/hcgatewood/ghissue
-Comments URL: https://news.ycombinator.com/item?id=27444336
-Points: 3
-# Comments: 1]]></summary>
-        <author>
-            <name>hcgatewood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Are We in a Mega Bubble?]]></title>
-        <id>https://news.ycombinator.com/item?id=27443944</id>
-        <link href="https://news.ycombinator.com/item?id=27443944"/>
-        <updated>2021-06-09T03:36:02.000Z</updated>
-        <summary type="html"><![CDATA[I don't know why but I cant help but feel that domino pieces are in place and whole thing is about to crumble.
-Stock prices feel weirdly high, when thousands of people were dying they were rising fastest.
-Crypto/NFT/Coins feel like graph of a chaotic equation that starts going crazy the longer it goes on.
-The housing market seems to be on steroids too, house prices have doubled in last few years.
-I feel either very bad inflation is about to happen to or huge correction, or both
-Am I just imaging it?
-Comments URL: https://news.ycombinator.com/item?id=27443944
-Points: 69
-# Comments: 32]]></summary>
-        <author>
-            <name>techsin101</name>
         </author>
     </entry>
     <entry>
@@ -83,8 +78,8 @@ Points: 69
         <updated>2021-06-09T02:55:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://steveblank.com/2021/06/04/you-dont-need-permission/
 Comments URL: https://news.ycombinator.com/item?id=27443711
-Points: 64
-# Comments: 14]]></summary>
+Points: 78
+# Comments: 17]]></summary>
         <author>
             <name>rognjen</name>
         </author>
@@ -96,8 +91,8 @@ Points: 64
         <updated>2021-06-09T02:20:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/kingoflolz/mesh-transformer-jax
 Comments URL: https://news.ycombinator.com/item?id=27443528
-Points: 60
-# Comments: 28]]></summary>
+Points: 76
+# Comments: 38]]></summary>
         <author>
             <name>kindiana</name>
         </author>
@@ -109,23 +104,10 @@ Points: 60
         <updated>2021-06-09T02:19:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages
 Comments URL: https://news.ycombinator.com/item?id=27443519
-Points: 173
-# Comments: 77]]></summary>
+Points: 207
+# Comments: 89]]></summary>
         <author>
             <name>rozenmd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senate approves $250B bill to boost tech research]]></title>
-        <id>https://news.ycombinator.com/item?id=27443248</id>
-        <link href="https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584"/>
-        <updated>2021-06-09T01:34:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/senate-approves-250-billion-bill-to-boost-tech-research-11623192584
-Comments URL: https://news.ycombinator.com/item?id=27443248
-Points: 94
-# Comments: 28]]></summary>
-        <author>
-            <name>julienchastang</name>
         </author>
     </entry>
     <entry>
@@ -135,8 +117,8 @@ Points: 94
         <updated>2021-06-08T23:38:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.apple.com/metal/tensorflow-plugin/
 Comments URL: https://news.ycombinator.com/item?id=27442475
-Points: 142
-# Comments: 46]]></summary>
+Points: 161
+# Comments: 51]]></summary>
         <author>
             <name>dandiep</name>
         </author>
@@ -148,8 +130,8 @@ Points: 142
         <updated>2021-06-08T22:28:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/en/blog/crx-scripting-api/
 Comments URL: https://news.ycombinator.com/item?id=27441898
-Points: 116
-# Comments: 98]]></summary>
+Points: 127
+# Comments: 104]]></summary>
         <author>
             <name>pentagrama</name>
         </author>
@@ -161,8 +143,8 @@ Points: 116
         <updated>2021-06-08T22:01:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/
 Comments URL: https://news.ycombinator.com/item?id=27441545
-Points: 310
-# Comments: 117]]></summary>
+Points: 365
+# Comments: 124]]></summary>
         <author>
             <name>nixass</name>
         </author>
@@ -174,8 +156,8 @@ Points: 310
         <updated>2021-06-08T21:41:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax
 Comments URL: https://news.ycombinator.com/item?id=27441277
-Points: 184
-# Comments: 244]]></summary>
+Points: 199
+# Comments: 270]]></summary>
         <author>
             <name>imgabe</name>
         </author>
@@ -187,8 +169,8 @@ Points: 184
         <updated>2021-06-08T21:34:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains
 Comments URL: https://news.ycombinator.com/item?id=27441175
-Points: 194
-# Comments: 43]]></summary>
+Points: 212
+# Comments: 48]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -204,27 +186,14 @@ Points: 194
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gordian Software (YC W19, Airline API Platform) Is Hiring Back End Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27440726</id>
-        <link href="https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22"/>
-        <updated>2021-06-08T21:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22
-Comments URL: https://news.ycombinator.com/item?id=27440726
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>grabowss</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Patches Six Zero-Day Security Holes]]></title>
         <id>https://news.ycombinator.com/item?id=27440675</id>
         <link href="https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/"/>
         <updated>2021-06-08T20:55:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/
 Comments URL: https://news.ycombinator.com/item?id=27440675
-Points: 191
-# Comments: 45]]></summary>
+Points: 203
+# Comments: 47]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -236,8 +205,8 @@ Points: 191
         <updated>2021-06-08T20:46:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://astro.build/blog/introducing-astro
 Comments URL: https://news.ycombinator.com/item?id=27440553
-Points: 279
-# Comments: 97]]></summary>
+Points: 287
+# Comments: 109]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -249,8 +218,8 @@ Points: 279
         <updated>2021-06-08T20:43:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hendotcat/ppl
 Comments URL: https://news.ycombinator.com/item?id=27440516
-Points: 83
-# Comments: 30]]></summary>
+Points: 90
+# Comments: 32]]></summary>
         <author>
             <name>nomoreplease</name>
         </author>
@@ -262,10 +231,23 @@ Points: 83
         <updated>2021-06-08T20:08:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://maxhalford.github.io/blog/text-classification-by-compression/
 Comments URL: https://news.ycombinator.com/item?id=27440093
-Points: 83
-# Comments: 32]]></summary>
+Points: 91
+# Comments: 34]]></summary>
         <author>
             <name>Lemaxoxo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perl Data Language: Scientific Computing with Perl]]></title>
+        <id>https://news.ycombinator.com/item?id=27439638</id>
+        <link href="http://pdl.perl.org/"/>
+        <updated>2021-06-08T19:24:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://pdl.perl.org/
+Comments URL: https://news.ycombinator.com/item?id=27439638
+Points: 122
+# Comments: 75]]></summary>
+        <author>
+            <name>smartmic</name>
         </author>
     </entry>
     <entry>
@@ -287,10 +269,23 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-08T18:31:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/
 Comments URL: https://news.ycombinator.com/item?id=27439010
-Points: 715
-# Comments: 559]]></summary>
+Points: 742
+# Comments: 575]]></summary>
         <author>
             <name>infodocket</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-world CSS vs. CSS-in-JS performance comparison]]></title>
+        <id>https://news.ycombinator.com/item?id=27438913</id>
+        <link href="https://pustelto.com/blog/css-vs-css-in-js-perf/"/>
+        <updated>2021-06-08T18:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pustelto.com/blog/css-vs-css-in-js-perf/
+Comments URL: https://news.ycombinator.com/item?id=27438913
+Points: 159
+# Comments: 129]]></summary>
+        <author>
+            <name>______-</name>
         </author>
     </entry>
     <entry>
