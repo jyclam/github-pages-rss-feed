@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T12:18:39.952Z</updated>
+    <updated>2021-06-09T13:28:01.869Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SMS-based Two-Factor Authentication is not Secure]]></title>
+        <id>https://news.ycombinator.com/item?id=27447206</id>
+        <link href="https://news.ycombinator.com/item?id=27447206"/>
+        <updated>2021-06-09T12:40:08.000Z</updated>
+        <summary type="html"><![CDATA[SMS-based Two-Factor Authentication is not Secure. I’ve read this before but brushed it off. It wouldn’t happen to me. It did.
+I am with Boost Mobile. On Sunday night I received a text message that my PIN was changed. Within minutes I confirmed this to be true on my PC. I used the Boost application on my phone to change the PIN and received a confirmation text.
+A few minute later I received a text message welcoming me to Metro PCS.
+A few minute later I received emails to my business email that my account security information was deleted from my person email account. They used SMS authentication to my mobile number, that they now have control of to gain access.
+A few minutes later I received an email there was an account recovery attempt on my coinbase.com account.
+It took less than 30 minutes for these events to transpire.
+I've spent about 15 hours trying to get my phone number and my email address back to my control.
+I've accumulated a list of eight other people in the Boost Mobile Reddit.com forum where the exact same thing happened to them.
+I filed a police report and filed a report with the FCC. I received a response from the FCC that they have started the inquiry and contacted Boost.
+I finally did get my cell phone number ported back to Boost. I have not gained control of my Microsoft email address.
+I didn’t realize I could only have messages of 2,000 characters.  So I will wrap this up.
+When account settings were changed, Coinbase gave me a link to lock my account, Microsoft gave me a link to log in to my account, which I no longer have control of.
+Unlike competitors, which allow pins from 6 to 15 characters and for accounts to be administrative locked, Boost offers none of these options. The last Boost operator suggested I pick a more secure PIN.
+I am calculating my losses and documenting all interactions.
+Comments URL: https://news.ycombinator.com/item?id=27447206
+Points: 28
+# Comments: 9]]></summary>
+        <author>
+            <name>Zolt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Explo (YC W20) – Customer-facing dashboards and reports]]></title>
+        <id>https://news.ycombinator.com/item?id=27447086</id>
+        <link href="https://www.explo.co/"/>
+        <updated>2021-06-09T12:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.explo.co/
+Comments URL: https://news.ycombinator.com/item?id=27447086
+Points: 21
+# Comments: 6]]></summary>
+        <author>
+            <name>rnvarma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven Years of Factorio Friday Facts (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27446910</id>
+        <link href="https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts"/>
+        <updated>2021-06-09T12:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts
+Comments URL: https://news.ycombinator.com/item?id=27446910
+Points: 37
+# Comments: 1]]></summary>
+        <author>
+            <name>destructuredObj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zentail (YC S12) Is Hiring a Director of Growth Marketing in Columbia, MD]]></title>
         <id>https://news.ycombinator.com/item?id=27446900</id>
@@ -26,8 +78,8 @@ Points: 1
         <updated>2021-06-09T11:14:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57413224
 Comments URL: https://news.ycombinator.com/item?id=27446574
-Points: 5
-# Comments: 0]]></summary>
+Points: 122
+# Comments: 81]]></summary>
         <author>
             <name>JulianMorrison</name>
         </author>
@@ -39,8 +91,8 @@ Points: 5
         <updated>2021-06-09T10:38:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/whitecatboard/Lua-RTOS-ESP32
 Comments URL: https://news.ycombinator.com/item?id=27446371
-Points: 37
-# Comments: 11]]></summary>
+Points: 64
+# Comments: 21]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -62,23 +114,10 @@ Points: 37
         <updated>2021-06-09T10:16:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/environment/article/theres-a-new-ocean-now-can-you-name-all-five-southern-ocean
 Comments URL: https://news.ycombinator.com/item?id=27446242
-Points: 21
-# Comments: 20]]></summary>
+Points: 56
+# Comments: 46]]></summary>
         <author>
             <name>giuliomagnifico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The myth of the driverless tube train]]></title>
-        <id>https://news.ycombinator.com/item?id=27446220</id>
-        <link href="https://www.londonreconnections.com/2021/the-political-myth-of-the-driverless-tube-train/"/>
-        <updated>2021-06-09T10:12:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.londonreconnections.com/2021/the-political-myth-of-the-driverless-tube-train/
-Comments URL: https://news.ycombinator.com/item?id=27446220
-Points: 36
-# Comments: 48]]></summary>
-        <author>
-            <name>rwmj</name>
         </author>
     </entry>
     <entry>
@@ -88,8 +127,8 @@ Points: 36
         <updated>2021-06-09T10:09:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://airy.co/hn
 Comments URL: https://news.ycombinator.com/item?id=27446200
-Points: 29
-# Comments: 6]]></summary>
+Points: 45
+# Comments: 8]]></summary>
         <author>
             <name>skandergarroum</name>
         </author>
@@ -101,10 +140,23 @@ Points: 29
         <updated>2021-06-09T09:59:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fastmail.blog/legal-policy/russia-blocking-fastmail-to-customers-living-in-russia/
 Comments URL: https://news.ycombinator.com/item?id=27446156
-Points: 78
-# Comments: 26]]></summary>
+Points: 125
+# Comments: 48]]></summary>
         <author>
             <name>andrewshadura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A ToC of Ian Lance Taylor’s 20-part Linkers essay (2008)]]></title>
+        <id>https://news.ycombinator.com/item?id=27445981</id>
+        <link href="https://lwn.net/Articles/276782/"/>
+        <updated>2021-06-09T09:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/276782/
+Comments URL: https://news.ycombinator.com/item?id=27445981
+Points: 28
+# Comments: 1]]></summary>
+        <author>
+            <name>noch</name>
         </author>
     </entry>
     <entry>
@@ -114,8 +166,8 @@ Points: 78
         <updated>2021-06-09T07:41:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vivaldi.com/blog/vivaldi-4-0/
 Comments URL: https://news.ycombinator.com/item?id=27445282
-Points: 201
-# Comments: 128]]></summary>
+Points: 243
+# Comments: 157]]></summary>
         <author>
             <name>0x49d1</name>
         </author>
@@ -127,8 +179,8 @@ Points: 201
         <updated>2021-06-09T06:23:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.abandonedberlin.com/tempelhof/
 Comments URL: https://news.ycombinator.com/item?id=27444832
-Points: 34
-# Comments: 7]]></summary>
+Points: 55
+# Comments: 12]]></summary>
         <author>
             <name>postpawl</name>
         </author>
@@ -140,8 +192,8 @@ Points: 34
         <updated>2021-06-09T05:50:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://briancallahan.net/blog/20210609.html
 Comments URL: https://news.ycombinator.com/item?id=27444647
-Points: 98
-# Comments: 23]]></summary>
+Points: 111
+# Comments: 31]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -153,8 +205,8 @@ Points: 98
         <updated>2021-06-09T02:55:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://steveblank.com/2021/06/04/you-dont-need-permission/
 Comments URL: https://news.ycombinator.com/item?id=27443711
-Points: 142
-# Comments: 38]]></summary>
+Points: 153
+# Comments: 42]]></summary>
         <author>
             <name>rognjen</name>
         </author>
@@ -166,23 +218,10 @@ Points: 142
         <updated>2021-06-09T02:20:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
 Comments URL: https://news.ycombinator.com/item?id=27443528
-Points: 101
-# Comments: 61]]></summary>
+Points: 112
+# Comments: 64]]></summary>
         <author>
             <name>kindiana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Fastly outage can teach us about writing error messages]]></title>
-        <id>https://news.ycombinator.com/item?id=27443519</id>
-        <link href="https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages"/>
-        <updated>2021-06-09T02:19:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages
-Comments URL: https://news.ycombinator.com/item?id=27443519
-Points: 239
-# Comments: 109]]></summary>
-        <author>
-            <name>rozenmd</name>
         </author>
     </entry>
     <entry>
@@ -192,8 +231,8 @@ Points: 239
         <updated>2021-06-08T23:38:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.apple.com/metal/tensorflow-plugin/
 Comments URL: https://news.ycombinator.com/item?id=27442475
-Points: 209
-# Comments: 78]]></summary>
+Points: 220
+# Comments: 83]]></summary>
         <author>
             <name>dandiep</name>
         </author>
@@ -205,8 +244,8 @@ Points: 209
         <updated>2021-06-08T22:28:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/en/blog/crx-scripting-api/
 Comments URL: https://news.ycombinator.com/item?id=27441898
-Points: 152
-# Comments: 126]]></summary>
+Points: 159
+# Comments: 129]]></summary>
         <author>
             <name>pentagrama</name>
         </author>
@@ -218,36 +257,10 @@ Points: 152
         <updated>2021-06-08T22:01:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/
 Comments URL: https://news.ycombinator.com/item?id=27441545
-Points: 558
-# Comments: 216]]></summary>
+Points: 589
+# Comments: 225]]></summary>
         <author>
             <name>nixass</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ProPublica's tax story]]></title>
-        <id>https://news.ycombinator.com/item?id=27441277</id>
-        <link href="https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax"/>
-        <updated>2021-06-08T21:41:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax
-Comments URL: https://news.ycombinator.com/item?id=27441277
-Points: 240
-# Comments: 329]]></summary>
-        <author>
-            <name>imgabe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Study shows how taking short breaks may help our brains learn new skills]]></title>
-        <id>https://news.ycombinator.com/item?id=27441175</id>
-        <link href="https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains"/>
-        <updated>2021-06-08T21:34:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains
-Comments URL: https://news.ycombinator.com/item?id=27441175
-Points: 278
-# Comments: 73]]></summary>
-        <author>
-            <name>hhs</name>
         </author>
     </entry>
     <entry>
@@ -279,8 +292,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-08T18:31:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/
 Comments URL: https://news.ycombinator.com/item?id=27439010
-Points: 827
-# Comments: 633]]></summary>
+Points: 846
+# Comments: 639]]></summary>
         <author>
             <name>infodocket</name>
         </author>
@@ -292,8 +305,8 @@ Points: 827
         <updated>2021-06-08T17:38:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://syntheticmessenger.labr.io/#about
 Comments URL: https://news.ycombinator.com/item?id=27438318
-Points: 38
-# Comments: 13]]></summary>
+Points: 44
+# Comments: 21]]></summary>
         <author>
             <name>collate</name>
         </author>
