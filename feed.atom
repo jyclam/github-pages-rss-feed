@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T11:11:33.207Z</updated>
+    <updated>2021-06-09T12:18:39.952Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zentail (YC S12) Is Hiring a Director of Growth Marketing in Columbia, MD]]></title>
+        <id>https://news.ycombinator.com/item?id=27446900</id>
+        <link href="https://www.ycombinator.com/companies/zentail/jobs/oHaVmJq-director-of-growth-marketing"/>
+        <updated>2021-06-09T12:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/zentail/jobs/oHaVmJq-director-of-growth-marketing
+Comments URL: https://news.ycombinator.com/item?id=27446900
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>dsugarman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Fastly customer triggered internet meltdown]]></title>
+        <id>https://news.ycombinator.com/item?id=27446574</id>
+        <link href="https://www.bbc.co.uk/news/technology-57413224"/>
+        <updated>2021-06-09T11:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57413224
+Comments URL: https://news.ycombinator.com/item?id=27446574
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>JulianMorrison</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lua-RTOS: a real-time operating system for ESP32]]></title>
         <id>https://news.ycombinator.com/item?id=27446371</id>
@@ -13,10 +39,20 @@
         <updated>2021-06-09T10:38:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/whitecatboard/Lua-RTOS-ESP32
 Comments URL: https://news.ycombinator.com/item?id=27446371
-Points: 8
-# Comments: 0]]></summary>
+Points: 37
+# Comments: 11]]></summary>
         <author>
             <name>lnyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
+        <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
+        <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
+        <updated>2021-06-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +62,8 @@ Points: 8
         <updated>2021-06-09T10:16:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/environment/article/theres-a-new-ocean-now-can-you-name-all-five-southern-ocean
 Comments URL: https://news.ycombinator.com/item?id=27446242
-Points: 8
-# Comments: 2]]></summary>
+Points: 21
+# Comments: 20]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -39,8 +75,8 @@ Points: 8
         <updated>2021-06-09T10:12:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.londonreconnections.com/2021/the-political-myth-of-the-driverless-tube-train/
 Comments URL: https://news.ycombinator.com/item?id=27446220
-Points: 11
-# Comments: 1]]></summary>
+Points: 36
+# Comments: 48]]></summary>
         <author>
             <name>rwmj</name>
         </author>
@@ -52,21 +88,21 @@ Points: 11
         <updated>2021-06-09T10:09:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://airy.co/hn
 Comments URL: https://news.ycombinator.com/item?id=27446200
-Points: 15
-# Comments: 2]]></summary>
+Points: 29
+# Comments: 6]]></summary>
         <author>
             <name>skandergarroum</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fastmail loses data law appeal and to be blocked in Russia]]></title>
+        <title type="html"><![CDATA[Fastmail accounts blocked in Russia, here's what we know]]></title>
         <id>https://news.ycombinator.com/item?id=27446156</id>
         <link href="https://fastmail.blog/legal-policy/russia-blocking-fastmail-to-customers-living-in-russia/"/>
         <updated>2021-06-09T09:59:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fastmail.blog/legal-policy/russia-blocking-fastmail-to-customers-living-in-russia/
 Comments URL: https://news.ycombinator.com/item?id=27446156
-Points: 30
-# Comments: 2]]></summary>
+Points: 78
+# Comments: 26]]></summary>
         <author>
             <name>andrewshadura</name>
         </author>
@@ -78,23 +114,10 @@ Points: 30
         <updated>2021-06-09T07:41:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vivaldi.com/blog/vivaldi-4-0/
 Comments URL: https://news.ycombinator.com/item?id=27445282
-Points: 141
-# Comments: 95]]></summary>
+Points: 201
+# Comments: 128]]></summary>
         <author>
             <name>0x49d1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find software roles 30 startups (including YC) at YC's Job Expo this Thursday]]></title>
-        <id>https://news.ycombinator.com/item?id=27445070</id>
-        <link href="https://www.workatastartup.com/events/startup-tech-expo-summer-2021"/>
-        <updated>2021-06-09T07:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/events/startup-tech-expo-summer-2021
-Comments URL: https://news.ycombinator.com/item?id=27445070
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>ryankicks</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +127,8 @@ Points: 1
         <updated>2021-06-09T06:23:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.abandonedberlin.com/tempelhof/
 Comments URL: https://news.ycombinator.com/item?id=27444832
-Points: 12
-# Comments: 0]]></summary>
+Points: 34
+# Comments: 7]]></summary>
         <author>
             <name>postpawl</name>
         </author>
@@ -117,23 +140,10 @@ Points: 12
         <updated>2021-06-09T05:50:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://briancallahan.net/blog/20210609.html
 Comments URL: https://news.ycombinator.com/item?id=27444647
-Points: 81
-# Comments: 18]]></summary>
+Points: 98
+# Comments: 23]]></summary>
         <author>
             <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lockdown.exe: Block unknown apps via Windows software restriction policy]]></title>
-        <id>https://news.ycombinator.com/item?id=27444646</id>
-        <link href="https://www.d7xtech.com/lockdown/"/>
-        <updated>2021-06-09T05:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.d7xtech.com/lockdown/
-Comments URL: https://news.ycombinator.com/item?id=27444646
-Points: 56
-# Comments: 45]]></summary>
-        <author>
-            <name>miles</name>
         </author>
     </entry>
     <entry>
@@ -143,10 +153,23 @@ Points: 56
         <updated>2021-06-09T02:55:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://steveblank.com/2021/06/04/you-dont-need-permission/
 Comments URL: https://news.ycombinator.com/item?id=27443711
-Points: 129
-# Comments: 33]]></summary>
+Points: 142
+# Comments: 38]]></summary>
         <author>
             <name>rognjen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-J-6B: 6B JAX-Based Transformer]]></title>
+        <id>https://news.ycombinator.com/item?id=27443528</id>
+        <link href="https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/"/>
+        <updated>2021-06-09T02:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
+Comments URL: https://news.ycombinator.com/item?id=27443528
+Points: 101
+# Comments: 61]]></summary>
+        <author>
+            <name>kindiana</name>
         </author>
     </entry>
     <entry>
@@ -156,8 +179,8 @@ Points: 129
         <updated>2021-06-09T02:19:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages
 Comments URL: https://news.ycombinator.com/item?id=27443519
-Points: 231
-# Comments: 104]]></summary>
+Points: 239
+# Comments: 109]]></summary>
         <author>
             <name>rozenmd</name>
         </author>
@@ -169,8 +192,8 @@ Points: 231
         <updated>2021-06-08T23:38:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.apple.com/metal/tensorflow-plugin/
 Comments URL: https://news.ycombinator.com/item?id=27442475
-Points: 200
-# Comments: 71]]></summary>
+Points: 209
+# Comments: 78]]></summary>
         <author>
             <name>dandiep</name>
         </author>
@@ -182,8 +205,8 @@ Points: 200
         <updated>2021-06-08T22:28:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/en/blog/crx-scripting-api/
 Comments URL: https://news.ycombinator.com/item?id=27441898
-Points: 145
-# Comments: 124]]></summary>
+Points: 152
+# Comments: 126]]></summary>
         <author>
             <name>pentagrama</name>
         </author>
@@ -195,10 +218,23 @@ Points: 145
         <updated>2021-06-08T22:01:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/
 Comments URL: https://news.ycombinator.com/item?id=27441545
-Points: 530
-# Comments: 207]]></summary>
+Points: 558
+# Comments: 216]]></summary>
         <author>
             <name>nixass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ProPublica's tax story]]></title>
+        <id>https://news.ycombinator.com/item?id=27441277</id>
+        <link href="https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax"/>
+        <updated>2021-06-08T21:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax
+Comments URL: https://news.ycombinator.com/item?id=27441277
+Points: 240
+# Comments: 329]]></summary>
+        <author>
+            <name>imgabe</name>
         </author>
     </entry>
     <entry>
@@ -208,8 +244,8 @@ Points: 530
         <updated>2021-06-08T21:34:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains
 Comments URL: https://news.ycombinator.com/item?id=27441175
-Points: 267
-# Comments: 67]]></summary>
+Points: 278
+# Comments: 73]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -222,32 +258,6 @@ Points: 267
         <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Patches Six Zero-Day Security Holes]]></title>
-        <id>https://news.ycombinator.com/item?id=27440675</id>
-        <link href="https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/"/>
-        <updated>2021-06-08T20:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/
-Comments URL: https://news.ycombinator.com/item?id=27440675
-Points: 222
-# Comments: 53]]></summary>
-        <author>
-            <name>parsecs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro: Ship Less JavaScript]]></title>
-        <id>https://news.ycombinator.com/item?id=27440553</id>
-        <link href="https://astro.build/blog/introducing-astro"/>
-        <updated>2021-06-08T20:46:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://astro.build/blog/introducing-astro
-Comments URL: https://news.ycombinator.com/item?id=27440553
-Points: 331
-# Comments: 137]]></summary>
-        <author>
-            <name>feross</name>
         </author>
     </entry>
     <entry>
@@ -269,10 +279,23 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-08T18:31:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/
 Comments URL: https://news.ycombinator.com/item?id=27439010
-Points: 810
-# Comments: 625]]></summary>
+Points: 827
+# Comments: 633]]></summary>
         <author>
             <name>infodocket</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synthetic Messenger: A botnet scheme for climate news]]></title>
+        <id>https://news.ycombinator.com/item?id=27438318</id>
+        <link href="https://syntheticmessenger.labr.io/#about"/>
+        <updated>2021-06-08T17:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://syntheticmessenger.labr.io/#about
+Comments URL: https://news.ycombinator.com/item?id=27438318
+Points: 38
+# Comments: 13]]></summary>
+        <author>
+            <name>collate</name>
         </author>
     </entry>
     <entry>
@@ -327,19 +350,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Project of One’s Own]]></title>
-        <id>https://news.ycombinator.com/item?id=27433040</id>
-        <link href="http://paulgraham.com/own.html"/>
-        <updated>2021-06-08T10:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://paulgraham.com/own.html
-Comments URL: https://news.ycombinator.com/item?id=27433040
-Points: 626
-# Comments: 324]]></summary>
-        <author>
-            <name>prtkgpt</name>
         </author>
     </entry>
     <entry>
