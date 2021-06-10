@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T14:32:54.422Z</updated>
+    <updated>2021-06-10T15:32:10.203Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Okay (YC W20) – Analytics for engineering teams]]></title>
+        <id>https://news.ycombinator.com/item?id=27461564</id>
+        <link href="https://news.ycombinator.com/item?id=27461564"/>
+        <updated>2021-06-10T15:04:10.000Z</updated>
+        <summary type="html"><![CDATA[Antoine and Tomas here - we are excited to share Okay (https://www.okayhq.com) with you! Okay is an engineering analytics platform focused on detecting bottlenecks and annoyances that prevent engineering teams from being fully productive. We connect with all the devtools in your company and give you a query and alerting engine to find and solve common bottlenecks like long review cycles, after-hours on-call pages, heavy interview load, etc. Think Datadog or Grafana, but for team analytics.
+For the past 12 years, we’ve been engineers and then managers of teams of 5 to 150 in several types of companies - startups and big tech. We’ve seen the dev experience being affected by the same problems everywhere: maybe it’s a slow build on your local machine, too many meetings and interviews, or ineff…]]></summary>
+        <author>
+            <name>tonioab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Purchasing power of one US dollar (USD) in every year from 1635 to 2020]]></title>
+        <id>https://news.ycombinator.com/item?id=27461272</id>
+        <link href="https://www.statista.com/statistics/1032048/value-us-dollar-since-1640/"/>
+        <updated>2021-06-10T14:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.statista.com/statistics/1032048/value-us-dollar-since-1640/
+Comments URL: https://news.ycombinator.com/item?id=27461272
+Points: 8
+# Comments: 1]]></summary>
+        <author>
+            <name>throwkeep</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Try APL]]></title>
         <id>https://news.ycombinator.com/item?id=27460887</id>
@@ -13,10 +37,23 @@
         <updated>2021-06-10T14:02:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tryapl.org
 Comments URL: https://news.ycombinator.com/item?id=27460887
-Points: 5
-# Comments: 0]]></summary>
+Points: 68
+# Comments: 42]]></summary>
         <author>
             <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wiretrustee SATA Pi Board Is a True SATA NAS]]></title>
+        <id>https://news.ycombinator.com/item?id=27460885</id>
+        <link href="https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas"/>
+        <updated>2021-06-10T14:02:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
+Comments URL: https://news.ycombinator.com/item?id=27460885
+Points: 23
+# Comments: 10]]></summary>
+        <author>
+            <name>geerlingguy</name>
         </author>
     </entry>
     <entry>
@@ -26,36 +63,10 @@ Points: 5
         <updated>2021-06-10T13:31:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pv-tech.org/built-solar-assets-are-chronically-underperforming-and-modules-degrading-faster-than-expected-research-finds/
 Comments URL: https://news.ycombinator.com/item?id=27460504
-Points: 56
-# Comments: 16]]></summary>
+Points: 90
+# Comments: 50]]></summary>
         <author>
             <name>lando2319</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoover Dam reservoir hits record low, in sign of extreme western U.S. drought]]></title>
-        <id>https://news.ycombinator.com/item?id=27460195</id>
-        <link href="https://www.reuters.com/world/us/hoover-dam-reservoir-hits-record-low-sign-extreme-western-us-drought-2021-06-10/"/>
-        <updated>2021-06-10T13:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/hoover-dam-reservoir-hits-record-low-sign-extreme-western-us-drought-2021-06-10/
-Comments URL: https://news.ycombinator.com/item?id=27460195
-Points: 73
-# Comments: 47]]></summary>
-        <author>
-            <name>everybodyknows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Consumer Prices Rose Strongly Again in May]]></title>
-        <id>https://news.ycombinator.com/item?id=27460074</id>
-        <link href="https://www.wsj.com/articles/us-inflation-consumer-price-index-may-2021-11623288303"/>
-        <updated>2021-06-10T12:49:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/us-inflation-consumer-price-index-may-2021-11623288303
-Comments URL: https://news.ycombinator.com/item?id=27460074
-Points: 47
-# Comments: 48]]></summary>
-        <author>
-            <name>mariojv</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +76,8 @@ Points: 47
         <updated>2021-06-10T12:45:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/
 Comments URL: https://news.ycombinator.com/item?id=27460022
-Points: 26
-# Comments: 10]]></summary>
+Points: 55
+# Comments: 18]]></summary>
         <author>
             <name>otoolep</name>
         </author>
@@ -78,8 +89,8 @@ Points: 26
         <updated>2021-06-10T12:42:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://community.osarch.org/discussion/609/monthly-meetup-15-12th-of-june-20-00-utc
 Comments URL: https://news.ycombinator.com/item?id=27459979
-Points: 21
-# Comments: 7]]></summary>
+Points: 33
+# Comments: 11]]></summary>
         <author>
             <name>app4soft</name>
         </author>
@@ -91,8 +102,8 @@ Points: 21
         <updated>2021-06-10T12:25:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thefrailestthing.com/2014/03/30/10-points-of-unsolicited-advice-for-technology-writers/
 Comments URL: https://news.ycombinator.com/item?id=27459824
-Points: 6
-# Comments: 4]]></summary>
+Points: 14
+# Comments: 9]]></summary>
         <author>
             <name>thomasjbevan</name>
         </author>
@@ -104,8 +115,8 @@ Points: 6
         <updated>2021-06-10T12:09:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stripe.com/tax
 Comments URL: https://news.ycombinator.com/item?id=27459712
-Points: 275
-# Comments: 122]]></summary>
+Points: 406
+# Comments: 160]]></summary>
         <author>
             <name>sirodoht</name>
         </author>
@@ -117,8 +128,8 @@ Points: 275
         <updated>2021-06-10T12:05:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lore.kernel.org/lkml/20210608115254.11930-1-sj38.park@gmail.com/
 Comments URL: https://news.ycombinator.com/item?id=27459675
-Points: 16
-# Comments: 2]]></summary>
+Points: 21
+# Comments: 5]]></summary>
         <author>
             <name>marcodiego</name>
         </author>
@@ -150,10 +161,24 @@ Points: 1
         <updated>2021-06-10T11:40:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s42254-021-00322-5
 Comments URL: https://news.ycombinator.com/item?id=27459515
-Points: 31
-# Comments: 5]]></summary>
+Points: 48
+# Comments: 10]]></summary>
         <author>
             <name>Anon84</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Handling customers that want feature previewing?]]></title>
+        <id>https://news.ycombinator.com/item?id=27459474</id>
+        <link href="https://news.ycombinator.com/item?id=27459474"/>
+        <updated>2021-06-10T11:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Curious how you folks manage the release process with larger customers that ask for advance notice (ex: 2 weeks) or previewing of any features before release or general availability?
+We have a single sandbox environment currently, but different customers are asking for varying amounts of delay before feature release. How do you manage bug fix deploys in these cases as well?
+Comments URL: https://news.ycombinator.com/item?id=27459474
+Points: 5
+# Comments: 9]]></summary>
+        <author>
+            <name>cbono1</name>
         </author>
     </entry>
     <entry>
@@ -167,27 +192,14 @@ Points: 31
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Artificial spider silk provides sustainable alternative to single-use plastics]]></title>
-        <id>https://news.ycombinator.com/item?id=27459470</id>
-        <link href="https://phys.org/news/2021-06-vegan-spider-silk-sustainable-alternative.html"/>
-        <updated>2021-06-10T11:34:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-06-vegan-spider-silk-sustainable-alternative.html
-Comments URL: https://news.ycombinator.com/item?id=27459470
-Points: 48
-# Comments: 16]]></summary>
-        <author>
-            <name>piercebot</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Cerebras CS-2 wafer-scale engine (850k cores, 40 GB SRAM)]]></title>
         <id>https://news.ycombinator.com/item?id=27459466</id>
         <link href="https://cerebras.net/product/"/>
         <updated>2021-06-10T11:34:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cerebras.net/product/
 Comments URL: https://news.ycombinator.com/item?id=27459466
-Points: 37
-# Comments: 21]]></summary>
+Points: 61
+# Comments: 33]]></summary>
         <author>
             <name>unwind</name>
         </author>
@@ -209,23 +221,10 @@ Points: 37
         <updated>2021-06-10T10:58:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://digiday.com/marketing/as-ad-tech-firms-test-ways-to-connect-googles-floc-to-other-data-privacy-watchers-see-fears-coming-true/
 Comments URL: https://news.ycombinator.com/item?id=27459247
-Points: 178
-# Comments: 97]]></summary>
+Points: 206
+# Comments: 113]]></summary>
         <author>
             <name>EdwinHoksberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring the Algorithmic Efficiency of Neural Networks]]></title>
-        <id>https://news.ycombinator.com/item?id=27458975</id>
-        <link href="https://arxiv.org/abs/2005.04305"/>
-        <updated>2021-06-10T10:12:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2005.04305
-Comments URL: https://news.ycombinator.com/item?id=27458975
-Points: 19
-# Comments: 3]]></summary>
-        <author>
-            <name>grlass</name>
         </author>
     </entry>
     <entry>
@@ -235,8 +234,8 @@ Points: 19
         <updated>2021-06-10T09:58:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://slack.engineering/load-testing-with-koi-pond/
 Comments URL: https://news.ycombinator.com/item?id=27458909
-Points: 30
-# Comments: 5]]></summary>
+Points: 35
+# Comments: 6]]></summary>
         <author>
             <name>uaas</name>
         </author>
@@ -248,8 +247,8 @@ Points: 30
         <updated>2021-06-10T09:39:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://iism.org/article/developers-can-t-fix-bad-management-57
 Comments URL: https://news.ycombinator.com/item?id=27458785
-Points: 112
-# Comments: 77]]></summary>
+Points: 148
+# Comments: 129]]></summary>
         <author>
             <name>sidcool</name>
         </author>
@@ -261,8 +260,8 @@ Points: 112
         <updated>2021-06-10T09:32:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/microsoft/playwright-dotnet/releases/tag/v1.12.1
 Comments URL: https://news.ycombinator.com/item?id=27458735
-Points: 75
-# Comments: 33]]></summary>
+Points: 95
+# Comments: 40]]></summary>
         <author>
             <name>Xen0byte</name>
         </author>
@@ -274,8 +273,8 @@ Points: 75
         <updated>2021-06-10T09:30:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 Comments URL: https://news.ycombinator.com/item?id=27458721
-Points: 33
-# Comments: 8]]></summary>
+Points: 45
+# Comments: 11]]></summary>
         <author>
             <name>zeeshanqureshi</name>
         </author>
@@ -287,8 +286,8 @@ Points: 33
         <updated>2021-06-10T09:03:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/dna-jumps-between-animal-species-no-one-knows-how-often-20210609/
 Comments URL: https://news.ycombinator.com/item?id=27458555
-Points: 65
-# Comments: 39]]></summary>
+Points: 93
+# Comments: 48]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
