@@ -2,21 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T10:14:00.118Z</updated>
+    <updated>2021-06-10T11:11:39.452Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Germany′s Namibian genocide apology could miss the mark]]></title>
-        <id>https://news.ycombinator.com/item?id=27458774</id>
-        <link href="https://www.dw.com/en/opinion-germanys-namibian-genocide-apology-could-miss-the-mark/a-57829103"/>
-        <updated>2021-06-10T09:37:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/opinion-germanys-namibian-genocide-apology-could-miss-the-mark/a-57829103
-Comments URL: https://news.ycombinator.com/item?id=27458774
-Points: 4
+        <title type="html"><![CDATA[Advertisers are already combining Google's FLoC IDs with personal data]]></title>
+        <id>https://news.ycombinator.com/item?id=27459247</id>
+        <link href="https://digiday.com/marketing/as-ad-tech-firms-test-ways-to-connect-googles-floc-to-other-data-privacy-watchers-see-fears-coming-true/"/>
+        <updated>2021-06-10T10:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://digiday.com/marketing/as-ad-tech-firms-test-ways-to-connect-googles-floc-to-other-data-privacy-watchers-see-fears-coming-true/
+Comments URL: https://news.ycombinator.com/item?id=27459247
+Points: 25
+# Comments: 1]]></summary>
+        <author>
+            <name>EdwinHoksberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Load Testing with Koi Pond]]></title>
+        <id>https://news.ycombinator.com/item?id=27458909</id>
+        <link href="https://slack.engineering/load-testing-with-koi-pond/"/>
+        <updated>2021-06-10T09:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://slack.engineering/load-testing-with-koi-pond/
+Comments URL: https://news.ycombinator.com/item?id=27458909
+Points: 7
 # Comments: 0]]></summary>
         <author>
-            <name>Tomte</name>
+            <name>uaas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playwright (Test Automation Library) For .NET Is Now Stable]]></title>
+        <id>https://news.ycombinator.com/item?id=27458735</id>
+        <link href="https://github.com/microsoft/playwright-dotnet/releases/tag/v1.12.1"/>
+        <updated>2021-06-10T09:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/microsoft/playwright-dotnet/releases/tag/v1.12.1
+Comments URL: https://news.ycombinator.com/item?id=27458735
+Points: 24
+# Comments: 8]]></summary>
+        <author>
+            <name>Xen0byte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Pattern Language [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27458721</id>
+        <link href="https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf"/>
+        <updated>2021-06-10T09:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
+Comments URL: https://news.ycombinator.com/item?id=27458721
+Points: 11
+# Comments: 3]]></summary>
+        <author>
+            <name>zeeshanqureshi</name>
         </author>
     </entry>
     <entry>
@@ -26,10 +65,23 @@ Points: 4
         <updated>2021-06-10T09:28:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://edge.network/en/
 Comments URL: https://news.ycombinator.com/item?id=27458708
-Points: 12
-# Comments: 14]]></summary>
+Points: 19
+# Comments: 22]]></summary>
         <author>
             <name>bigjump</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNA Jumps Between Animal Species. No One Knows How Often]]></title>
+        <id>https://news.ycombinator.com/item?id=27458555</id>
+        <link href="https://www.quantamagazine.org/dna-jumps-between-animal-species-no-one-knows-how-often-20210609/"/>
+        <updated>2021-06-10T09:03:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/dna-jumps-between-animal-species-no-one-knows-how-often-20210609/
+Comments URL: https://news.ycombinator.com/item?id=27458555
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +91,8 @@ Points: 12
         <updated>2021-06-10T05:43:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249
 Comments URL: https://news.ycombinator.com/item?id=27457150
-Points: 73
-# Comments: 27]]></summary>
+Points: 83
+# Comments: 34]]></summary>
         <author>
             <name>samdung</name>
         </author>
@@ -52,7 +104,7 @@ Points: 73
         <updated>2021-06-10T05:09:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/perplex-city-satoshi
 Comments URL: https://news.ycombinator.com/item?id=27456881
-Points: 46
+Points: 53
 # Comments: 7]]></summary>
         <author>
             <name>nhf</name>
@@ -65,8 +117,8 @@ Points: 46
         <updated>2021-06-10T04:58:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/science/archive/2021/06/the-brain-isnt-supposed-to-change-this-much/619145/
 Comments URL: https://news.ycombinator.com/item?id=27456817
-Points: 94
-# Comments: 79]]></summary>
+Points: 100
+# Comments: 85]]></summary>
         <author>
             <name>tardismechanic</name>
         </author>
@@ -78,8 +130,8 @@ Points: 94
         <updated>2021-06-10T04:43:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/cars/2021/06/volkswagen-plans-to-offer-subscriptions-for-autonomous-driving-extra-ev-range/
 Comments URL: https://news.ycombinator.com/item?id=27456737
-Points: 74
-# Comments: 237]]></summary>
+Points: 92
+# Comments: 289]]></summary>
         <author>
             <name>panda88888</name>
         </author>
@@ -91,8 +143,8 @@ Points: 74
         <updated>2021-06-10T03:56:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://potential.app/ios-15-humane
 Comments URL: https://news.ycombinator.com/item?id=27456500
-Points: 534
-# Comments: 222]]></summary>
+Points: 613
+# Comments: 246]]></summary>
         <author>
             <name>uffo</name>
         </author>
@@ -104,8 +156,8 @@ Points: 534
         <updated>2021-06-10T03:47:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/hackers-stole-650-000-from-nonprofit-and-got-away-showing-limits-to-law-enforcements-reach-11623058201
 Comments URL: https://news.ycombinator.com/item?id=27456451
-Points: 74
-# Comments: 42]]></summary>
+Points: 79
+# Comments: 45]]></summary>
         <author>
             <name>nabilhat</name>
         </author>
@@ -117,8 +169,8 @@ Points: 74
         <updated>2021-06-10T03:38:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/science/2021/jun/07/24000-year-old-organisms-found-frozen-in-siberia-can-still-reproduce
 Comments URL: https://news.ycombinator.com/item?id=27456405
-Points: 87
-# Comments: 26]]></summary>
+Points: 96
+# Comments: 27]]></summary>
         <author>
             <name>thedday</name>
         </author>
@@ -130,8 +182,8 @@ Points: 87
         <updated>2021-06-10T03:18:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/
 Comments URL: https://news.ycombinator.com/item?id=27456315
-Points: 108
-# Comments: 126]]></summary>
+Points: 110
+# Comments: 134]]></summary>
         <author>
             <name>webmaven</name>
         </author>
@@ -143,8 +195,8 @@ Points: 108
         <updated>2021-06-10T03:00:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jmmv.dev/2021/04/always-be-quitting.html
 Comments URL: https://news.ycombinator.com/item?id=27456222
-Points: 326
-# Comments: 192]]></summary>
+Points: 347
+# Comments: 204]]></summary>
         <author>
             <name>bluedino</name>
         </author>
@@ -156,8 +208,8 @@ Points: 326
         <updated>2021-06-10T01:01:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://canonical.org/~kragen/memory-models/
 Comments URL: https://news.ycombinator.com/item?id=27455509
-Points: 224
-# Comments: 37]]></summary>
+Points: 236
+# Comments: 44]]></summary>
         <author>
             <name>signa11</name>
         </author>
@@ -169,8 +221,8 @@ Points: 224
         <updated>2021-06-10T00:38:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/health-57417219
 Comments URL: https://news.ycombinator.com/item?id=27455341
-Points: 197
-# Comments: 50]]></summary>
+Points: 207
+# Comments: 53]]></summary>
         <author>
             <name>Zenst</name>
         </author>
@@ -182,8 +234,8 @@ Points: 197
         <updated>2021-06-10T00:24:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/zzanehip/The-OldOS-Project
 Comments URL: https://news.ycombinator.com/item?id=27455230
-Points: 99
-# Comments: 33]]></summary>
+Points: 102
+# Comments: 34]]></summary>
         <author>
             <name>mattei</name>
         </author>
@@ -195,23 +247,10 @@ Points: 99
         <updated>2021-06-10T00:08:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.maritime-executive.com/editorials/the-risk-of-cargo-liquefaction
 Comments URL: https://news.ycombinator.com/item?id=27455087
-Points: 102
+Points: 104
 # Comments: 38]]></summary>
         <author>
             <name>cwwc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Your Landing Pages Look Like a Design Team Was Behind It]]></title>
-        <id>https://news.ycombinator.com/item?id=27454587</id>
-        <link href="https://inonesnap.medium.com/unprofessional-landing-pages-how-to-make-your-pages-look-like-a-design-team-was-behind-it-50868ed524fb"/>
-        <updated>2021-06-09T23:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://inonesnap.medium.com/unprofessional-landing-pages-how-to-make-your-pages-look-like-a-design-team-was-behind-it-50868ed524fb
-Comments URL: https://news.ycombinator.com/item?id=27454587
-Points: 61
-# Comments: 14]]></summary>
-        <author>
-            <name>MauroAccorinti</name>
         </author>
     </entry>
     <entry>
@@ -221,23 +260,10 @@ Points: 61
         <updated>2021-06-09T22:56:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/
 Comments URL: https://news.ycombinator.com/item?id=27454418
-Points: 86
-# Comments: 82]]></summary>
+Points: 90
+# Comments: 94]]></summary>
         <author>
             <name>flankstaek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook extends its work-at-home policy to most employees]]></title>
-        <id>https://news.ycombinator.com/item?id=27453909</id>
-        <link href="https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html"/>
-        <updated>2021-06-09T22:07:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html
-Comments URL: https://news.ycombinator.com/item?id=27453909
-Points: 510
-# Comments: 385]]></summary>
-        <author>
-            <name>prostoalex</name>
         </author>
     </entry>
     <entry>
@@ -248,32 +274,6 @@ Points: 510
         <summary type="html"><![CDATA[Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluating necessity of Covid-19 vaccination in previously infected individuals]]></title>
-        <id>https://news.ycombinator.com/item?id=27453721</id>
-        <link href="https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2"/>
-        <updated>2021-06-09T21:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2
-Comments URL: https://news.ycombinator.com/item?id=27453721
-Points: 219
-# Comments: 268]]></summary>
-        <author>
-            <name>bananapizza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TC Energy scraps Keystone XL pipeline project after Biden revokes key permit]]></title>
-        <id>https://news.ycombinator.com/item?id=27453226</id>
-        <link href="https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/"/>
-        <updated>2021-06-09T21:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/
-Comments URL: https://news.ycombinator.com/item?id=27453226
-Points: 266
-# Comments: 323]]></summary>
-        <author>
-            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
