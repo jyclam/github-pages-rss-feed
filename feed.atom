@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T19:21:51.384Z</updated>
+    <updated>2021-06-10T20:11:46.117Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Someone has to foot the bill for empty offices]]></title>
-        <id>https://news.ycombinator.com/item?id=27463957</id>
-        <link href="https://www.economist.com/leaders/2021/06/05/someone-has-to-foot-the-bill-for-empty-offices"/>
-        <updated>2021-06-10T18:39:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/leaders/2021/06/05/someone-has-to-foot-the-bill-for-empty-offices
-Comments URL: https://news.ycombinator.com/item?id=27463957
-Points: 13
-# Comments: 10]]></summary>
+        <title type="html"><![CDATA[FundOSS Democratic Funding to sustain open source]]></title>
+        <id>https://news.ycombinator.com/item?id=27464526</id>
+        <link href="https://fundoss.org/"/>
+        <updated>2021-06-10T19:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fundoss.org/
+Comments URL: https://news.ycombinator.com/item?id=27464526
+Points: 4
+# Comments: 0]]></summary>
         <author>
-            <name>JumpCrisscross</name>
+            <name>casi18</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Argo to Train Predictive Models at FlightAware]]></title>
+        <id>https://news.ycombinator.com/item?id=27464445</id>
+        <link href="https://flightaware.engineering/using-argo-to-train-predictive-models/"/>
+        <updated>2021-06-10T19:16:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://flightaware.engineering/using-argo-to-train-predictive-models/
+Comments URL: https://news.ycombinator.com/item?id=27464445
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>rainingdeerbox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Postal Service Releases Dog Attack National Rankings]]></title>
+        <id>https://news.ycombinator.com/item?id=27464225</id>
+        <link href="https://about.usps.com/newsroom/national-releases/2021/0610-usps-releases-dog-attack-national-rankings.htm"/>
+        <updated>2021-06-10T18:57:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://about.usps.com/newsroom/national-releases/2021/0610-usps-releases-dog-attack-national-rankings.htm
+Comments URL: https://news.ycombinator.com/item?id=27464225
+Points: 26
+# Comments: 41]]></summary>
+        <author>
+            <name>infodocket</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +52,8 @@ Points: 13
         <updated>2021-06-10T18:25:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/
 Comments URL: https://news.ycombinator.com/item?id=27463794
-Points: 22
-# Comments: 4]]></summary>
+Points: 51
+# Comments: 13]]></summary>
         <author>
             <name>jonchang</name>
         </author>
@@ -39,8 +65,8 @@ Points: 22
         <updated>2021-06-10T18:19:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/
 Comments URL: https://news.ycombinator.com/item?id=27463732
-Points: 112
-# Comments: 68]]></summary>
+Points: 165
+# Comments: 109]]></summary>
         <author>
             <name>smaili</name>
         </author>
@@ -52,8 +78,8 @@ Points: 112
         <updated>2021-06-10T18:18:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://keathley.io/blog/good-and-bad-elixir.html
 Comments URL: https://news.ycombinator.com/item?id=27463725
-Points: 41
-# Comments: 5]]></summary>
+Points: 80
+# Comments: 35]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -78,8 +104,8 @@ Points: 1
         <updated>2021-06-10T16:59:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tip.golang.org/doc/go1.17
 Comments URL: https://news.ycombinator.com/item?id=27462884
-Points: 10
-# Comments: 1]]></summary>
+Points: 43
+# Comments: 23]]></summary>
         <author>
             <name>0xedb</name>
         </author>
@@ -91,8 +117,8 @@ Points: 10
         <updated>2021-06-10T16:48:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse
 Comments URL: https://news.ycombinator.com/item?id=27462767
-Points: 84
-# Comments: 76]]></summary>
+Points: 98
+# Comments: 94]]></summary>
         <author>
             <name>geerlingguy</name>
         </author>
@@ -104,7 +130,7 @@ Points: 84
         <updated>2021-06-10T16:38:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.gamesthatwerent.com/2020/10/virtua-hamster/
 Comments URL: https://news.ycombinator.com/item?id=27462655
-Points: 52
+Points: 55
 # Comments: 2]]></summary>
         <author>
             <name>deadcast</name>
@@ -117,8 +143,8 @@ Points: 52
         <updated>2021-06-10T16:02:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car
 Comments URL: https://news.ycombinator.com/item?id=27462263
-Points: 77
-# Comments: 161]]></summary>
+Points: 104
+# Comments: 216]]></summary>
         <author>
             <name>avonmach</name>
         </author>
@@ -130,8 +156,8 @@ Points: 77
         <updated>2021-06-10T16:02:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/
 Comments URL: https://news.ycombinator.com/item?id=27462261
-Points: 135
-# Comments: 94]]></summary>
+Points: 148
+# Comments: 102]]></summary>
         <author>
             <name>edent</name>
         </author>
@@ -143,7 +169,7 @@ Points: 135
         <updated>2021-06-10T16:01:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 Comments URL: https://news.ycombinator.com/item?id=27462247
-Points: 21
+Points: 30
 # Comments: 1]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -156,8 +182,8 @@ Points: 21
         <updated>2021-06-10T15:58:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.agweb.com/news/business/technology/robot-replace-need-farmers-go-inside-grain-bin
 Comments URL: https://news.ycombinator.com/item?id=27462200
-Points: 66
-# Comments: 35]]></summary>
+Points: 84
+# Comments: 48]]></summary>
         <author>
             <name>ryansouza</name>
         </author>
@@ -169,7 +195,7 @@ Points: 66
         <updated>2021-06-10T15:57:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johnjianwang.medium.com/my-startup-journey-dcf86a38676d
 Comments URL: https://news.ycombinator.com/item?id=27462194
-Points: 82
+Points: 93
 # Comments: 10]]></summary>
         <author>
             <name>mkx</name>
@@ -182,8 +208,8 @@ Points: 82
         <updated>2021-06-10T15:38:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ez.substack.com/p/the-work-from-home-future-is-destroying
 Comments URL: https://news.ycombinator.com/item?id=27461970
-Points: 45
-# Comments: 21]]></summary>
+Points: 83
+# Comments: 63]]></summary>
         <author>
             <name>zikduruqe</name>
         </author>
@@ -216,8 +242,8 @@ For the past 12 years, we’ve been engineers and then managers of teams of 5 to
         <updated>2021-06-10T14:37:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.statista.com/statistics/1032048/value-us-dollar-since-1640/
 Comments URL: https://news.ycombinator.com/item?id=27461272
-Points: 143
-# Comments: 143]]></summary>
+Points: 157
+# Comments: 156]]></summary>
         <author>
             <name>throwkeep</name>
         </author>
@@ -254,8 +280,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-10T14:02:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tryapl.org
 Comments URL: https://news.ycombinator.com/item?id=27460887
-Points: 240
-# Comments: 117]]></summary>
+Points: 259
+# Comments: 130]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -267,36 +293,10 @@ Points: 240
         <updated>2021-06-10T12:45:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/
 Comments URL: https://news.ycombinator.com/item?id=27460022
-Points: 125
-# Comments: 25]]></summary>
+Points: 129
+# Comments: 26]]></summary>
         <author>
             <name>otoolep</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe Tax]]></title>
-        <id>https://news.ycombinator.com/item?id=27459712</id>
-        <link href="https://stripe.com/tax"/>
-        <updated>2021-06-10T12:09:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stripe.com/tax
-Comments URL: https://news.ycombinator.com/item?id=27459712
-Points: 679
-# Comments: 282]]></summary>
-        <author>
-            <name>sirodoht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The physics of financial networks]]></title>
-        <id>https://news.ycombinator.com/item?id=27459515</id>
-        <link href="https://www.nature.com/articles/s42254-021-00322-5"/>
-        <updated>2021-06-10T11:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s42254-021-00322-5
-Comments URL: https://news.ycombinator.com/item?id=27459515
-Points: 93
-# Comments: 23]]></summary>
-        <author>
-            <name>Anon84</name>
         </author>
     </entry>
     <entry>
@@ -960,16 +960,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
         <updated>2021-05-12T12:42:00.000Z</updated>
         <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
