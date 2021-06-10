@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T13:47:30.207Z</updated>
+    <updated>2021-06-10T14:32:54.422Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Try APL]]></title>
+        <id>https://news.ycombinator.com/item?id=27460887</id>
+        <link href="https://tryapl.org"/>
+        <updated>2021-06-10T14:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tryapl.org
+Comments URL: https://news.ycombinator.com/item?id=27460887
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solar assets are underperforming and modules degrading faster than expected]]></title>
+        <id>https://news.ycombinator.com/item?id=27460504</id>
+        <link href="https://www.pv-tech.org/built-solar-assets-are-chronically-underperforming-and-modules-degrading-faster-than-expected-research-finds/"/>
+        <updated>2021-06-10T13:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pv-tech.org/built-solar-assets-are-chronically-underperforming-and-modules-degrading-faster-than-expected-research-finds/
+Comments URL: https://news.ycombinator.com/item?id=27460504
+Points: 56
+# Comments: 16]]></summary>
+        <author>
+            <name>lando2319</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hoover Dam reservoir hits record low, in sign of extreme western U.S. drought]]></title>
         <id>https://news.ycombinator.com/item?id=27460195</id>
@@ -13,34 +39,34 @@
         <updated>2021-06-10T13:03:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/hoover-dam-reservoir-hits-record-low-sign-extreme-western-us-drought-2021-06-10/
 Comments URL: https://news.ycombinator.com/item?id=27460195
-Points: 17
-# Comments: 1]]></summary>
+Points: 73
+# Comments: 47]]></summary>
         <author>
             <name>everybodyknows</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Consumer Prices Rose 5% in May]]></title>
+        <title type="html"><![CDATA[U.S. Consumer Prices Rose Strongly Again in May]]></title>
         <id>https://news.ycombinator.com/item?id=27460074</id>
         <link href="https://www.wsj.com/articles/us-inflation-consumer-price-index-may-2021-11623288303"/>
         <updated>2021-06-10T12:49:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/us-inflation-consumer-price-index-may-2021-11623288303
 Comments URL: https://news.ycombinator.com/item?id=27460074
-Points: 23
-# Comments: 4]]></summary>
+Points: 47
+# Comments: 48]]></summary>
         <author>
             <name>mariojv</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rqlite 6.0: the evolution of a distributed database design]]></title>
+        <title type="html"><![CDATA[Rqlite 6.0]]></title>
         <id>https://news.ycombinator.com/item?id=27460022</id>
         <link href="https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/"/>
         <updated>2021-06-10T12:45:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/
 Comments URL: https://news.ycombinator.com/item?id=27460022
-Points: 9
-# Comments: 4]]></summary>
+Points: 26
+# Comments: 10]]></summary>
         <author>
             <name>otoolep</name>
         </author>
@@ -52,34 +78,21 @@ Points: 9
         <updated>2021-06-10T12:42:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://community.osarch.org/discussion/609/monthly-meetup-15-12th-of-june-20-00-utc
 Comments URL: https://news.ycombinator.com/item?id=27459979
-Points: 11
-# Comments: 3]]></summary>
+Points: 21
+# Comments: 7]]></summary>
         <author>
             <name>app4soft</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automate taxes on your Stripe transactions]]></title>
-        <id>https://news.ycombinator.com/item?id=27459933</id>
-        <link href="https://stripe.com/in/tax"/>
-        <updated>2021-06-10T12:36:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stripe.com/in/tax
-Comments URL: https://news.ycombinator.com/item?id=27459933
-Points: 5
-# Comments: 1]]></summary>
-        <author>
-            <name>dsr12</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Points of Unsolicited Advice for Tech Writers]]></title>
+        <title type="html"><![CDATA[Advice for Tech Writers (2014)]]></title>
         <id>https://news.ycombinator.com/item?id=27459824</id>
         <link href="https://thefrailestthing.com/2014/03/30/10-points-of-unsolicited-advice-for-technology-writers/"/>
         <updated>2021-06-10T12:25:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thefrailestthing.com/2014/03/30/10-points-of-unsolicited-advice-for-technology-writers/
 Comments URL: https://news.ycombinator.com/item?id=27459824
-Points: 3
-# Comments: 1]]></summary>
+Points: 6
+# Comments: 4]]></summary>
         <author>
             <name>thomasjbevan</name>
         </author>
@@ -91,23 +104,10 @@ Points: 3
         <updated>2021-06-10T12:09:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stripe.com/tax
 Comments URL: https://news.ycombinator.com/item?id=27459712
-Points: 185
-# Comments: 82]]></summary>
+Points: 275
+# Comments: 122]]></summary>
         <author>
             <name>sirodoht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libc – Choudhary Algorithm]]></title>
-        <id>https://news.ycombinator.com/item?id=27459689</id>
-        <link href="https://sourceware.org/pipermail/libc-alpha/2021-June/127471.html"/>
-        <updated>2021-06-10T12:07:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sourceware.org/pipermail/libc-alpha/2021-June/127471.html
-Comments URL: https://news.ycombinator.com/item?id=27459689
-Points: 5
-# Comments: 1]]></summary>
-        <author>
-            <name>timetosleep</name>
         </author>
     </entry>
     <entry>
@@ -117,8 +117,8 @@ Points: 5
         <updated>2021-06-10T12:05:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lore.kernel.org/lkml/20210608115254.11930-1-sj38.park@gmail.com/
 Comments URL: https://news.ycombinator.com/item?id=27459675
-Points: 14
-# Comments: 1]]></summary>
+Points: 16
+# Comments: 2]]></summary>
         <author>
             <name>marcodiego</name>
         </author>
@@ -150,8 +150,8 @@ Points: 1
         <updated>2021-06-10T11:40:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s42254-021-00322-5
 Comments URL: https://news.ycombinator.com/item?id=27459515
-Points: 13
-# Comments: 3]]></summary>
+Points: 31
+# Comments: 5]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -173,8 +173,8 @@ Points: 13
         <updated>2021-06-10T11:34:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-06-vegan-spider-silk-sustainable-alternative.html
 Comments URL: https://news.ycombinator.com/item?id=27459470
-Points: 31
-# Comments: 10]]></summary>
+Points: 48
+# Comments: 16]]></summary>
         <author>
             <name>piercebot</name>
         </author>
@@ -186,8 +186,8 @@ Points: 31
         <updated>2021-06-10T11:34:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cerebras.net/product/
 Comments URL: https://news.ycombinator.com/item?id=27459466
-Points: 14
-# Comments: 5]]></summary>
+Points: 37
+# Comments: 21]]></summary>
         <author>
             <name>unwind</name>
         </author>
@@ -209,8 +209,8 @@ Points: 14
         <updated>2021-06-10T10:58:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://digiday.com/marketing/as-ad-tech-firms-test-ways-to-connect-googles-floc-to-other-data-privacy-watchers-see-fears-coming-true/
 Comments URL: https://news.ycombinator.com/item?id=27459247
-Points: 160
-# Comments: 87]]></summary>
+Points: 178
+# Comments: 97]]></summary>
         <author>
             <name>EdwinHoksberg</name>
         </author>
@@ -222,7 +222,7 @@ Points: 160
         <updated>2021-06-10T10:12:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2005.04305
 Comments URL: https://news.ycombinator.com/item?id=27458975
-Points: 13
+Points: 19
 # Comments: 3]]></summary>
         <author>
             <name>grlass</name>
@@ -235,8 +235,8 @@ Points: 13
         <updated>2021-06-10T09:58:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://slack.engineering/load-testing-with-koi-pond/
 Comments URL: https://news.ycombinator.com/item?id=27458909
-Points: 26
-# Comments: 4]]></summary>
+Points: 30
+# Comments: 5]]></summary>
         <author>
             <name>uaas</name>
         </author>
@@ -248,8 +248,8 @@ Points: 26
         <updated>2021-06-10T09:39:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://iism.org/article/developers-can-t-fix-bad-management-57
 Comments URL: https://news.ycombinator.com/item?id=27458785
-Points: 81
-# Comments: 46]]></summary>
+Points: 112
+# Comments: 77]]></summary>
         <author>
             <name>sidcool</name>
         </author>
@@ -261,8 +261,8 @@ Points: 81
         <updated>2021-06-10T09:32:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/microsoft/playwright-dotnet/releases/tag/v1.12.1
 Comments URL: https://news.ycombinator.com/item?id=27458735
-Points: 56
-# Comments: 25]]></summary>
+Points: 75
+# Comments: 33]]></summary>
         <author>
             <name>Xen0byte</name>
         </author>
@@ -274,7 +274,7 @@ Points: 56
         <updated>2021-06-10T09:30:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 Comments URL: https://news.ycombinator.com/item?id=27458721
-Points: 26
+Points: 33
 # Comments: 8]]></summary>
         <author>
             <name>zeeshanqureshi</name>
@@ -287,8 +287,8 @@ Points: 26
         <updated>2021-06-10T09:03:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/dna-jumps-between-animal-species-no-one-knows-how-often-20210609/
 Comments URL: https://news.ycombinator.com/item?id=27458555
-Points: 49
-# Comments: 26]]></summary>
+Points: 65
+# Comments: 39]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
