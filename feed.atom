@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T20:11:46.117Z</updated>
+    <updated>2021-06-10T21:11:29.056Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[FundOSS Democratic Funding to sustain open source]]></title>
-        <id>https://news.ycombinator.com/item?id=27464526</id>
-        <link href="https://fundoss.org/"/>
-        <updated>2021-06-10T19:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fundoss.org/
-Comments URL: https://news.ycombinator.com/item?id=27464526
-Points: 4
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Biggest health insurer plans to deny ER bills if it doubts you had an emergency]]></title>
+        <id>https://news.ycombinator.com/item?id=27465294</id>
+        <link href="https://arstechnica.com/science/2021/06/biggest-health-insurer-plans-to-deny-er-bills-if-it-doubts-you-had-an-emergency/"/>
+        <updated>2021-06-10T20:22:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/06/biggest-health-insurer-plans-to-deny-er-bills-if-it-doubts-you-had-an-emergency/
+Comments URL: https://news.ycombinator.com/item?id=27465294
+Points: 37
+# Comments: 18]]></summary>
         <author>
-            <name>casi18</name>
+            <name>peanutbutter_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Aligned Word Vectors for Instant Translations with Python and Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27465287</id>
+        <link href="https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations"/>
+        <updated>2021-06-10T20:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations
+Comments URL: https://news.ycombinator.com/item?id=27465287
+Points: 13
+# Comments: 2]]></summary>
+        <author>
+            <name>beau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi WiFi to ethernet bridge]]></title>
+        <id>https://news.ycombinator.com/item?id=27464907</id>
+        <link href="https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/"/>
+        <updated>2021-06-10T19:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/
+Comments URL: https://news.ycombinator.com/item?id=27464907
+Points: 25
+# Comments: 3]]></summary>
+        <author>
+            <name>dasl</name>
         </author>
     </entry>
     <entry>
@@ -26,23 +52,10 @@ Points: 4
         <updated>2021-06-10T19:16:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flightaware.engineering/using-argo-to-train-predictive-models/
 Comments URL: https://news.ycombinator.com/item?id=27464445
-Points: 3
-# Comments: 0]]></summary>
+Points: 12
+# Comments: 1]]></summary>
         <author>
             <name>rainingdeerbox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Postal Service Releases Dog Attack National Rankings]]></title>
-        <id>https://news.ycombinator.com/item?id=27464225</id>
-        <link href="https://about.usps.com/newsroom/national-releases/2021/0610-usps-releases-dog-attack-national-rankings.htm"/>
-        <updated>2021-06-10T18:57:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://about.usps.com/newsroom/national-releases/2021/0610-usps-releases-dog-attack-national-rankings.htm
-Comments URL: https://news.ycombinator.com/item?id=27464225
-Points: 26
-# Comments: 41]]></summary>
-        <author>
-            <name>infodocket</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +65,8 @@ Points: 26
         <updated>2021-06-10T18:25:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/
 Comments URL: https://news.ycombinator.com/item?id=27463794
-Points: 51
-# Comments: 13]]></summary>
+Points: 85
+# Comments: 39]]></summary>
         <author>
             <name>jonchang</name>
         </author>
@@ -65,8 +78,8 @@ Points: 51
         <updated>2021-06-10T18:19:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/
 Comments URL: https://news.ycombinator.com/item?id=27463732
-Points: 165
-# Comments: 109]]></summary>
+Points: 230
+# Comments: 165]]></summary>
         <author>
             <name>smaili</name>
         </author>
@@ -78,23 +91,10 @@ Points: 165
         <updated>2021-06-10T18:18:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://keathley.io/blog/good-and-bad-elixir.html
 Comments URL: https://news.ycombinator.com/item?id=27463725
-Points: 80
-# Comments: 35]]></summary>
+Points: 140
+# Comments: 58]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go GiveCampus (YC S15) is hiring US remote senior engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27462911</id>
-        <link href="https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"/>
-        <updated>2021-06-10T17:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915
-Comments URL: https://news.ycombinator.com/item?id=27462911
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>mkong1</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +104,8 @@ Points: 1
         <updated>2021-06-10T16:59:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tip.golang.org/doc/go1.17
 Comments URL: https://news.ycombinator.com/item?id=27462884
-Points: 43
-# Comments: 23]]></summary>
+Points: 90
+# Comments: 54]]></summary>
         <author>
             <name>0xedb</name>
         </author>
@@ -117,23 +117,10 @@ Points: 43
         <updated>2021-06-10T16:48:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse
 Comments URL: https://news.ycombinator.com/item?id=27462767
-Points: 98
-# Comments: 94]]></summary>
+Points: 113
+# Comments: 107]]></summary>
         <author>
             <name>geerlingguy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtua Hamster (Sega 32X/Saturn)]]></title>
-        <id>https://news.ycombinator.com/item?id=27462655</id>
-        <link href="https://www.gamesthatwerent.com/2020/10/virtua-hamster/"/>
-        <updated>2021-06-10T16:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.gamesthatwerent.com/2020/10/virtua-hamster/
-Comments URL: https://news.ycombinator.com/item?id=27462655
-Points: 55
-# Comments: 2]]></summary>
-        <author>
-            <name>deadcast</name>
         </author>
     </entry>
     <entry>
@@ -143,8 +130,8 @@ Points: 55
         <updated>2021-06-10T16:02:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car
 Comments URL: https://news.ycombinator.com/item?id=27462263
-Points: 104
-# Comments: 216]]></summary>
+Points: 129
+# Comments: 280]]></summary>
         <author>
             <name>avonmach</name>
         </author>
@@ -156,8 +143,8 @@ Points: 104
         <updated>2021-06-10T16:02:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/
 Comments URL: https://news.ycombinator.com/item?id=27462261
-Points: 148
-# Comments: 102]]></summary>
+Points: 167
+# Comments: 114]]></summary>
         <author>
             <name>edent</name>
         </author>
@@ -169,8 +156,8 @@ Points: 148
         <updated>2021-06-10T16:01:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 Comments URL: https://news.ycombinator.com/item?id=27462247
-Points: 30
-# Comments: 1]]></summary>
+Points: 43
+# Comments: 3]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -182,8 +169,8 @@ Points: 30
         <updated>2021-06-10T15:58:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.agweb.com/news/business/technology/robot-replace-need-farmers-go-inside-grain-bin
 Comments URL: https://news.ycombinator.com/item?id=27462200
-Points: 84
-# Comments: 48]]></summary>
+Points: 96
+# Comments: 59]]></summary>
         <author>
             <name>ryansouza</name>
         </author>
@@ -195,23 +182,10 @@ Points: 84
         <updated>2021-06-10T15:57:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johnjianwang.medium.com/my-startup-journey-dcf86a38676d
 Comments URL: https://news.ycombinator.com/item?id=27462194
-Points: 93
-# Comments: 10]]></summary>
+Points: 108
+# Comments: 11]]></summary>
         <author>
             <name>mkx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The work-from-home future is destroying bosses' brains]]></title>
-        <id>https://news.ycombinator.com/item?id=27461970</id>
-        <link href="https://ez.substack.com/p/the-work-from-home-future-is-destroying"/>
-        <updated>2021-06-10T15:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ez.substack.com/p/the-work-from-home-future-is-destroying
-Comments URL: https://news.ycombinator.com/item?id=27461970
-Points: 83
-# Comments: 63]]></summary>
-        <author>
-            <name>zikduruqe</name>
         </author>
     </entry>
     <entry>
@@ -242,8 +216,8 @@ For the past 12 years, we’ve been engineers and then managers of teams of 5 to
         <updated>2021-06-10T14:37:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.statista.com/statistics/1032048/value-us-dollar-since-1640/
 Comments URL: https://news.ycombinator.com/item?id=27461272
-Points: 157
-# Comments: 156]]></summary>
+Points: 165
+# Comments: 169]]></summary>
         <author>
             <name>throwkeep</name>
         </author>
@@ -280,8 +254,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-10T14:02:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tryapl.org
 Comments URL: https://news.ycombinator.com/item?id=27460887
-Points: 259
-# Comments: 130]]></summary>
+Points: 275
+# Comments: 134]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -293,10 +267,36 @@ Points: 259
         <updated>2021-06-10T12:45:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/
 Comments URL: https://news.ycombinator.com/item?id=27460022
-Points: 129
-# Comments: 26]]></summary>
+Points: 136
+# Comments: 28]]></summary>
         <author>
             <name>otoolep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe Tax]]></title>
+        <id>https://news.ycombinator.com/item?id=27459712</id>
+        <link href="https://stripe.com/tax"/>
+        <updated>2021-06-10T12:09:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stripe.com/tax
+Comments URL: https://news.ycombinator.com/item?id=27459712
+Points: 737
+# Comments: 299]]></summary>
+        <author>
+            <name>sirodoht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The physics of financial networks]]></title>
+        <id>https://news.ycombinator.com/item?id=27459515</id>
+        <link href="https://www.nature.com/articles/s42254-021-00322-5"/>
+        <updated>2021-06-10T11:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s42254-021-00322-5
+Comments URL: https://news.ycombinator.com/item?id=27459515
+Points: 111
+# Comments: 25]]></summary>
+        <author>
+            <name>Anon84</name>
         </author>
     </entry>
     <entry>
@@ -356,7 +356,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>60c10a1dd3126007592d5988</id>
         <link href="https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/"/>
         <updated>2021-06-09T18:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
+        <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just published a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
