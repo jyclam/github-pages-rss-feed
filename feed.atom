@@ -2,34 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T20:11:19.896Z</updated>
+    <updated>2021-06-11T21:10:35.916Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Ethereum community has solved a major problem of the Internet: Single Sign-On]]></title>
-        <id>https://news.ycombinator.com/item?id=27477022</id>
-        <link href="https://twitter.com/BrantlyMillegan/status/1402388133086367751"/>
-        <updated>2021-06-11T18:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/BrantlyMillegan/status/1402388133086367751
-Comments URL: https://news.ycombinator.com/item?id=27477022
-Points: 39
-# Comments: 16]]></summary>
+        <title type="html"><![CDATA[Rescale (YC W12) Is Hiring Software Engineers and Product Managers]]></title>
+        <id>https://news.ycombinator.com/item?id=27478429</id>
+        <link href="https://jobs.lever.co/rescale"/>
+        <updated>2021-06-11T21:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/rescale
+Comments URL: https://news.ycombinator.com/item?id=27478429
+Points: 1
+# Comments: 0]]></summary>
         <author>
-            <name>throwkeep</name>
+            <name>gpoort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Toward Vagrant 3.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27476676</id>
-        <link href="https://www.hashicorp.com/blog/toward-vagrant-3-0"/>
-        <updated>2021-06-11T18:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.hashicorp.com/blog/toward-vagrant-3-0
-Comments URL: https://news.ycombinator.com/item?id=27476676
-Points: 77
-# Comments: 26]]></summary>
+        <title type="html"><![CDATA[How to Center Anything in CSS Using Flexbox and Grid ✨]]></title>
+        <id>6063b9189618b008528a9d81</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-objects-using-css/"/>
+        <updated>2021-06-11T20:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How]]></summary>
         <author>
-            <name>WalterSobchak</name>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Few people know that Google voluntarily removes some search results]]></title>
+        <id>https://news.ycombinator.com/item?id=27477797</id>
+        <link href="https://twitter.com/kashhill/status/1402986015107653647"/>
+        <updated>2021-06-11T20:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/kashhill/status/1402986015107653647
+Comments URL: https://news.ycombinator.com/item?id=27477797
+Points: 138
+# Comments: 47]]></summary>
+        <author>
+            <name>danso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fitting a Forth in 512 Bytes]]></title>
+        <id>https://news.ycombinator.com/item?id=27477599</id>
+        <link href="https://niedzejkob.p4.team/bootstrap/miniforth/"/>
+        <updated>2021-06-11T19:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://niedzejkob.p4.team/bootstrap/miniforth/
+Comments URL: https://news.ycombinator.com/item?id=27477599
+Points: 42
+# Comments: 3]]></summary>
+        <author>
+            <name>stevekemp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Keyboard Accessibility for Complex React Experiences]]></title>
+        <id>5f9c97e9740569d1a4ca1768</id>
+        <link href="https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/"/>
+        <updated>2021-06-11T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA[How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -43,27 +76,14 @@ Points: 77
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ReadMe (YC W15) is hiring a Product Marketer who loves developers]]></title>
-        <id>https://news.ycombinator.com/item?id=27475788</id>
-        <link href="https://readme.com/careers#product-marketing-manager"/>
-        <updated>2021-06-11T17:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://readme.com/careers#product-marketing-manager
-Comments URL: https://news.ycombinator.com/item?id=27475788
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>gkoberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Legislation would unmask third-party sellers, but Amazon is fighting it]]></title>
         <id>https://news.ycombinator.com/item?id=27475291</id>
         <link href="https://arstechnica.com/tech-policy/2021/06/amazon-ebay-fight-legislation-that-would-unmask-third-party-sellers/"/>
         <updated>2021-06-11T16:22:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/amazon-ebay-fight-legislation-that-would-unmask-third-party-sellers/
 Comments URL: https://news.ycombinator.com/item?id=27475291
-Points: 91
-# Comments: 45]]></summary>
+Points: 113
+# Comments: 54]]></summary>
         <author>
             <name>ProAm</name>
         </author>
@@ -75,8 +95,8 @@ Points: 91
         <updated>2021-06-11T16:15:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.danielde.dev/blog/surprising-shared-word-etymologies/
 Comments URL: https://news.ycombinator.com/item?id=27475193
-Points: 85
-# Comments: 32]]></summary>
+Points: 114
+# Comments: 49]]></summary>
         <author>
             <name>DanielDe</name>
         </author>
@@ -110,8 +130,8 @@ D…]]></summary>
         <updated>2021-06-11T15:04:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.chromium.org/2021/06/changes-to-chrome-oss-release-cycle.html
 Comments URL: https://news.ycombinator.com/item?id=27474354
-Points: 29
-# Comments: 4]]></summary>
+Points: 32
+# Comments: 7]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -133,8 +153,8 @@ Points: 29
         <updated>2021-06-11T14:45:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html
 Comments URL: https://news.ycombinator.com/item?id=27474082
-Points: 162
-# Comments: 137]]></summary>
+Points: 175
+# Comments: 152]]></summary>
         <author>
             <name>omnibrain</name>
         </author>
@@ -146,8 +166,8 @@ Points: 162
         <updated>2021-06-11T14:33:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bigtechnology.substack.com/p/congress-is-going-to-throw-the-kitchen
 Comments URL: https://news.ycombinator.com/item?id=27473907
-Points: 86
-# Comments: 109]]></summary>
+Points: 119
+# Comments: 159]]></summary>
         <author>
             <name>kantrowitz</name>
         </author>
@@ -173,8 +193,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-11T14:25:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/
 Comments URL: https://news.ycombinator.com/item?id=27473788
-Points: 202
-# Comments: 76]]></summary>
+Points: 237
+# Comments: 84]]></summary>
         <author>
             <name>rigaspapas</name>
         </author>
@@ -186,8 +206,8 @@ Points: 202
         <updated>2021-06-11T13:42:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-11/fewer-young-men-are-in-the-labor-force-more-are-living-at-home
 Comments URL: https://news.ycombinator.com/item?id=27473199
-Points: 63
-# Comments: 115]]></summary>
+Points: 109
+# Comments: 203]]></summary>
         <author>
             <name>harambae</name>
         </author>
@@ -199,8 +219,8 @@ Points: 63
         <updated>2021-06-11T13:41:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wildland.io/
 Comments URL: https://news.ycombinator.com/item?id=27473180
-Points: 105
-# Comments: 31]]></summary>
+Points: 111
+# Comments: 36]]></summary>
         <author>
             <name>omnibrain</name>
         </author>
@@ -212,8 +232,8 @@ Points: 105
         <updated>2021-06-11T13:29:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack
 Comments URL: https://news.ycombinator.com/item?id=27473038
-Points: 114
-# Comments: 72]]></summary>
+Points: 156
+# Comments: 101]]></summary>
         <author>
             <name>danso</name>
         </author>
@@ -225,8 +245,8 @@ Points: 114
         <updated>2021-06-11T13:12:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wyclif.substack.com/p/incentives-in-economics-are-wrong
 Comments URL: https://news.ycombinator.com/item?id=27472840
-Points: 61
-# Comments: 92]]></summary>
+Points: 67
+# Comments: 104]]></summary>
         <author>
             <name>dash2</name>
         </author>
@@ -238,8 +258,8 @@ Points: 61
         <updated>2021-06-11T12:39:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/history/free-silver-movements-failed-attempt-forge-unity-through-currency-180977966/
 Comments URL: https://news.ycombinator.com/item?id=27472475
-Points: 39
-# Comments: 78]]></summary>
+Points: 44
+# Comments: 86]]></summary>
         <author>
             <name>samizdis</name>
         </author>
@@ -251,8 +271,8 @@ Points: 39
         <updated>2021-06-11T12:38:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wapp.tcl.tk/home/doc/trunk/README.md
 Comments URL: https://news.ycombinator.com/item?id=27472473
-Points: 66
-# Comments: 41]]></summary>
+Points: 71
+# Comments: 44]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -264,21 +284,21 @@ Points: 66
         <updated>2021-06-11T12:12:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alien-project.org/
 Comments URL: https://news.ycombinator.com/item?id=27472224
-Points: 632
-# Comments: 131]]></summary>
+Points: 661
+# Comments: 141]]></summary>
         <author>
             <name>tosh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New York Senate Passes Right to Repair Bill]]></title>
+        <title type="html"><![CDATA[New York Senate passes Right to Repair bill]]></title>
         <id>https://news.ycombinator.com/item?id=27472083</id>
         <link href="https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-to-repair-bill"/>
         <updated>2021-06-11T11:55:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-to-repair-bill
 Comments URL: https://news.ycombinator.com/item?id=27472083
-Points: 480
-# Comments: 145]]></summary>
+Points: 507
+# Comments: 164]]></summary>
         <author>
             <name>tk75x</name>
         </author>
@@ -290,8 +310,8 @@ Points: 480
         <updated>2021-06-11T11:40:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kopia.io/
 Comments URL: https://news.ycombinator.com/item?id=27471945
-Points: 87
-# Comments: 43]]></summary>
+Points: 107
+# Comments: 47]]></summary>
         <author>
             <name>chetangoti</name>
         </author>
@@ -303,8 +323,8 @@ Points: 87
         <updated>2021-06-11T08:06:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaibhavsagar.com/blog/2019/09/08/popcount/
 Comments URL: https://news.ycombinator.com/item?id=27470529
-Points: 206
-# Comments: 59]]></summary>
+Points: 218
+# Comments: 64]]></summary>
         <author>
             <name>cjg</name>
         </author>
@@ -473,26 +493,6 @@ The post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tri
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Todd Libby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
-        <id>60b23b8911ffb70827ef954e</id>
-        <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
-        <updated>2021-06-08T16:17:32.000Z</updated>
-        <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete CSS Grid Tutorial with Cheat Sheet 🎖️]]></title>
-        <id>60be6a3cd3126007592d4a03</id>
-        <link href="https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/"/>
-        <updated>2021-06-08T16:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
