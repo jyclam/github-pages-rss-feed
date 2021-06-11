@@ -2,34 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T23:11:55.487Z</updated>
+    <updated>2021-06-11T00:37:56.000Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Physicists Measure the Gravitational Force Between the Smallest Masses Yet]]></title>
+        <title type="html"><![CDATA[Chrome abandons 'simplified domain experiment' in omnibar]]></title>
+        <id>https://news.ycombinator.com/item?id=27467215</id>
+        <link href="https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75"/>
+        <updated>2021-06-10T23:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75
+Comments URL: https://news.ycombinator.com/item?id=27467215
+Points: 84
+# Comments: 38]]></summary>
+        <author>
+            <name>uncertainrhymes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chime has detected 535 fast radio bursts, quadrupling the known tally]]></title>
+        <id>https://news.ycombinator.com/item?id=27466887</id>
+        <link href="https://www.nature.com/articles/d41586-021-01560-4"/>
+        <updated>2021-06-10T22:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01560-4
+Comments URL: https://news.ycombinator.com/item?id=27466887
+Points: 42
+# Comments: 3]]></summary>
+        <author>
+            <name>bryan0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA approves drug to treat smallpox]]></title>
+        <id>https://news.ycombinator.com/item?id=27466709</id>
+        <link href="https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox"/>
+        <updated>2021-06-10T22:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox
+Comments URL: https://news.ycombinator.com/item?id=27466709
+Points: 26
+# Comments: 10]]></summary>
+        <author>
+            <name>nacc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Frankfurt Status: Engineers are still not able to enter the affected part]]></title>
+        <id>https://news.ycombinator.com/item?id=27466678</id>
+        <link href="https://status.aws.amazon.com/#EU_block"/>
+        <updated>2021-06-10T22:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://status.aws.amazon.com/#EU_block
+Comments URL: https://news.ycombinator.com/item?id=27466678
+Points: 19
+# Comments: 9]]></summary>
+        <author>
+            <name>jabo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds: Get vaccinated. Stop believing the anti-vax lies]]></title>
+        <id>https://news.ycombinator.com/item?id=27466344</id>
+        <link href="https://lkml.org/lkml/2021/6/10/957"/>
+        <updated>2021-06-10T21:57:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lkml.org/lkml/2021/6/10/957
+Comments URL: https://news.ycombinator.com/item?id=27466344
+Points: 85
+# Comments: 31]]></summary>
+        <author>
+            <name>yawaramin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physicists measure the gravitational force between the smallest masses yet]]></title>
         <id>https://news.ycombinator.com/item?id=27466151</id>
         <link href="https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/"/>
         <updated>2021-06-10T21:35:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/
 Comments URL: https://news.ycombinator.com/item?id=27466151
-Points: 15
-# Comments: 2]]></summary>
+Points: 46
+# Comments: 9]]></summary>
         <author>
             <name>alok-g</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitClout collapses everything into money]]></title>
-        <id>https://news.ycombinator.com/item?id=27466134</id>
-        <link href="https://www.newyorker.com/tech/annals-of-technology/the-dark-democratizing-power-of-the-social-media-stock-market"/>
-        <updated>2021-06-10T21:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/tech/annals-of-technology/the-dark-democratizing-power-of-the-social-media-stock-market
-Comments URL: https://news.ycombinator.com/item?id=27466134
-Points: 19
-# Comments: 7]]></summary>
-        <author>
-            <name>hhs</name>
         </author>
     </entry>
     <entry>
@@ -39,7 +91,7 @@ Points: 19
         <updated>2021-06-10T21:05:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html
 Comments URL: https://news.ycombinator.com/item?id=27465837
-Points: 11
+Points: 16
 # Comments: 2]]></summary>
         <author>
             <name>Anon84</name>
@@ -59,40 +111,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[U.S. Senate to probe whether legislation needed to combat cyber attacks]]></title>
-        <id>https://news.ycombinator.com/item?id=27465572</id>
-        <link href="https://www.reuters.com/world/us/us-senate-probe-whether-legislation-needed-combat-cyber-attacks-2021-06-10/"/>
-        <updated>2021-06-10T20:45:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/us-senate-probe-whether-legislation-needed-combat-cyber-attacks-2021-06-10/
-Comments URL: https://news.ycombinator.com/item?id=27465572
-Points: 29
-# Comments: 31]]></summary>
-        <author>
-            <name>ArkanExplorer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Processed foods became so unhealthy]]></title>
-        <id>https://news.ycombinator.com/item?id=27465481</id>
-        <link href="https://www.bbc.com/future/article/20210608-what-were-the-first-processed-foods"/>
-        <updated>2021-06-10T20:38:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20210608-what-were-the-first-processed-foods
-Comments URL: https://news.ycombinator.com/item?id=27465481
-Points: 26
-# Comments: 32]]></summary>
-        <author>
-            <name>HiroProtagonist</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using aligned word vectors for instant translations with Python and Rust]]></title>
         <id>https://news.ycombinator.com/item?id=27465287</id>
         <link href="https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations"/>
         <updated>2021-06-10T20:22:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations
 Comments URL: https://news.ycombinator.com/item?id=27465287
-Points: 54
-# Comments: 11]]></summary>
+Points: 69
+# Comments: 18]]></summary>
         <author>
             <name>beau</name>
         </author>
@@ -104,8 +130,8 @@ Points: 54
         <updated>2021-06-10T19:51:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/
 Comments URL: https://news.ycombinator.com/item?id=27464907
-Points: 71
-# Comments: 27]]></summary>
+Points: 99
+# Comments: 46]]></summary>
         <author>
             <name>dasl</name>
         </author>
@@ -117,8 +143,8 @@ Points: 71
         <updated>2021-06-10T19:16:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flightaware.engineering/using-argo-to-train-predictive-models/
 Comments URL: https://news.ycombinator.com/item?id=27464445
-Points: 25
-# Comments: 3]]></summary>
+Points: 32
+# Comments: 4]]></summary>
         <author>
             <name>rainingdeerbox</name>
         </author>
@@ -130,8 +156,8 @@ Points: 25
         <updated>2021-06-10T18:25:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/
 Comments URL: https://news.ycombinator.com/item?id=27463794
-Points: 142
-# Comments: 77]]></summary>
+Points: 163
+# Comments: 90]]></summary>
         <author>
             <name>jonchang</name>
         </author>
@@ -143,8 +169,8 @@ Points: 142
         <updated>2021-06-10T18:19:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/
 Comments URL: https://news.ycombinator.com/item?id=27463732
-Points: 309
-# Comments: 243]]></summary>
+Points: 357
+# Comments: 261]]></summary>
         <author>
             <name>smaili</name>
         </author>
@@ -156,23 +182,10 @@ Points: 309
         <updated>2021-06-10T18:18:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://keathley.io/blog/good-and-bad-elixir.html
 Comments URL: https://news.ycombinator.com/item?id=27463725
-Points: 202
-# Comments: 87]]></summary>
+Points: 239
+# Comments: 102]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving my home media library from iTunes to Jellyfin and Infuse]]></title>
-        <id>https://news.ycombinator.com/item?id=27462767</id>
-        <link href="https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse"/>
-        <updated>2021-06-10T16:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse
-Comments URL: https://news.ycombinator.com/item?id=27462767
-Points: 131
-# Comments: 129]]></summary>
-        <author>
-            <name>geerlingguy</name>
         </author>
     </entry>
     <entry>
@@ -182,8 +195,8 @@ Points: 131
         <updated>2021-06-10T16:02:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car
 Comments URL: https://news.ycombinator.com/item?id=27462263
-Points: 175
-# Comments: 372]]></summary>
+Points: 196
+# Comments: 394]]></summary>
         <author>
             <name>avonmach</name>
         </author>
@@ -195,8 +208,8 @@ Points: 175
         <updated>2021-06-10T16:02:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/
 Comments URL: https://news.ycombinator.com/item?id=27462261
-Points: 187
-# Comments: 125]]></summary>
+Points: 199
+# Comments: 129]]></summary>
         <author>
             <name>edent</name>
         </author>
@@ -208,8 +221,8 @@ Points: 187
         <updated>2021-06-10T16:01:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 Comments URL: https://news.ycombinator.com/item?id=27462247
-Points: 64
-# Comments: 4]]></summary>
+Points: 76
+# Comments: 8]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -221,8 +234,8 @@ Points: 64
         <updated>2021-06-10T15:58:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.agweb.com/news/business/technology/robot-replace-need-farmers-go-inside-grain-bin
 Comments URL: https://news.ycombinator.com/item?id=27462200
-Points: 125
-# Comments: 86]]></summary>
+Points: 138
+# Comments: 94]]></summary>
         <author>
             <name>ryansouza</name>
         </author>
@@ -234,8 +247,8 @@ Points: 125
         <updated>2021-06-10T15:57:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johnjianwang.medium.com/my-startup-journey-dcf86a38676d
 Comments URL: https://news.ycombinator.com/item?id=27462194
-Points: 121
-# Comments: 15]]></summary>
+Points: 125
+# Comments: 17]]></summary>
         <author>
             <name>mkx</name>
         </author>
@@ -247,21 +260,10 @@ Points: 121
         <updated>2021-06-10T15:38:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ez.substack.com/p/the-work-from-home-future-is-destroying
 Comments URL: https://news.ycombinator.com/item?id=27461970
-Points: 171
-# Comments: 162]]></summary>
+Points: 222
+# Comments: 203]]></summary>
         <author>
             <name>zikduruqe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Okay (YC W20) – Analytics for engineering teams]]></title>
-        <id>https://news.ycombinator.com/item?id=27461564</id>
-        <link href="https://news.ycombinator.com/item?id=27461564"/>
-        <updated>2021-06-10T15:04:10.000Z</updated>
-        <summary type="html"><![CDATA[Antoine and Tomas here - we are excited to share Okay (https://www.okayhq.com) with you! Okay is an engineering analytics platform focused on detecting bottlenecks and annoyances that prevent engineering teams from being fully productive. We connect with all the devtools in your company and give you a query and alerting engine to find and solve common bottlenecks like long review cycles, after-hours on-call pages, heavy interview load, etc. Think Datadog or Grafana, but for team analytics.
-For the past 12 years, we’ve been engineers and then managers of teams of 5 to 150 in several types of companies - startups and big tech. We’ve seen the dev experience being affected by the same problems everywhere: maybe it’s a slow build on your local machine, too many meetings and interviews, or ineff…]]></summary>
-        <author>
-            <name>tonioab</name>
         </author>
     </entry>
     <entry>
