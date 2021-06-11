@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T19:10:57.516Z</updated>
+    <updated>2021-06-11T20:11:19.896Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum community has solved a major problem of the Internet: Single Sign-On]]></title>
+        <id>https://news.ycombinator.com/item?id=27477022</id>
+        <link href="https://twitter.com/BrantlyMillegan/status/1402388133086367751"/>
+        <updated>2021-06-11T18:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/BrantlyMillegan/status/1402388133086367751
+Comments URL: https://news.ycombinator.com/item?id=27477022
+Points: 39
+# Comments: 16]]></summary>
+        <author>
+            <name>throwkeep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toward Vagrant 3.0]]></title>
+        <id>https://news.ycombinator.com/item?id=27476676</id>
+        <link href="https://www.hashicorp.com/blog/toward-vagrant-3-0"/>
+        <updated>2021-06-11T18:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hashicorp.com/blog/toward-vagrant-3-0
+Comments URL: https://news.ycombinator.com/item?id=27476676
+Points: 77
+# Comments: 26]]></summary>
+        <author>
+            <name>WalterSobchak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Ask Good Technical Questions – the Ultimate Guide]]></title>
         <id>60bc0444acb62507dd1d9a31</id>
@@ -30,6 +56,32 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Legislation would unmask third-party sellers, but Amazon is fighting it]]></title>
+        <id>https://news.ycombinator.com/item?id=27475291</id>
+        <link href="https://arstechnica.com/tech-policy/2021/06/amazon-ebay-fight-legislation-that-would-unmask-third-party-sellers/"/>
+        <updated>2021-06-11T16:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/amazon-ebay-fight-legislation-that-would-unmask-third-party-sellers/
+Comments URL: https://news.ycombinator.com/item?id=27475291
+Points: 91
+# Comments: 45]]></summary>
+        <author>
+            <name>ProAm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprising Shared Word Etymologies]]></title>
+        <id>https://news.ycombinator.com/item?id=27475193</id>
+        <link href="https://www.danielde.dev/blog/surprising-shared-word-etymologies/"/>
+        <updated>2021-06-11T16:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.danielde.dev/blog/surprising-shared-word-etymologies/
+Comments URL: https://news.ycombinator.com/item?id=27475193
+Points: 85
+# Comments: 32]]></summary>
+        <author>
+            <name>DanielDe</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Level Up Your React Conditionals]]></title>
         <id>60c24cf8d3126007592d61d5</id>
         <link href="https://www.freecodecamp.org/news/learn-react-conditionals/"/>
@@ -40,13 +92,25 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Launch HN: Slingshow (YC W20) – Easily build custom virtual events and webinars]]></title>
+        <id>https://news.ycombinator.com/item?id=27474808</id>
+        <link href="https://news.ycombinator.com/item?id=27474808"/>
+        <updated>2021-06-11T15:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Hello world, my name is Nilay. My cofounder Jorge and I founded Slingshow (https://slingshow.com/) and we're super excited (and nervous!) to finally launch on HN. Slingshow helps you build custom virtual events for your community. Think Zoom, but with a modern and flexible user experience that seamlessly flows between different ways of interacting with larger and smaller groups.
+Last year, we were in YC W20 pivoting through several ideas, but then the pandemic hit. Suddenly, our YC batch was just a series of monotonous Zoom calls. We lost the magic of the social dinners, random conversations, and catching a speaker afterward for a personal chat. We quickly recognized that while Zoom was great for small meetings, the functionality and UI/UX made large group events unorganized and passive.
+D…]]></summary>
+        <author>
+            <name>nilaymodi123</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Changes to Chrome OS’s release cycle]]></title>
         <id>https://news.ycombinator.com/item?id=27474354</id>
         <link href="https://blog.chromium.org/2021/06/changes-to-chrome-oss-release-cycle.html"/>
         <updated>2021-06-11T15:04:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.chromium.org/2021/06/changes-to-chrome-oss-release-cycle.html
 Comments URL: https://news.ycombinator.com/item?id=27474354
-Points: 15
+Points: 29
 # Comments: 4]]></summary>
         <author>
             <name>feross</name>
@@ -60,6 +124,32 @@ Points: 15
         <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVMe is not a hard disk]]></title>
+        <id>https://news.ycombinator.com/item?id=27474082</id>
+        <link href="https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html"/>
+        <updated>2021-06-11T14:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html
+Comments URL: https://news.ycombinator.com/item?id=27474082
+Points: 162
+# Comments: 137]]></summary>
+        <author>
+            <name>omnibrain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress is going to throw the kitchen sink at big tech]]></title>
+        <id>https://news.ycombinator.com/item?id=27473907</id>
+        <link href="https://bigtechnology.substack.com/p/congress-is-going-to-throw-the-kitchen"/>
+        <updated>2021-06-11T14:33:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bigtechnology.substack.com/p/congress-is-going-to-throw-the-kitchen
+Comments URL: https://news.ycombinator.com/item?id=27473907
+Points: 86
+# Comments: 109]]></summary>
+        <author>
+            <name>kantrowitz</name>
         </author>
     </entry>
     <entry>
@@ -77,29 +167,133 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zero downtime Postgres migration, done right]]></title>
+        <id>https://news.ycombinator.com/item?id=27473788</id>
+        <link href="https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/"/>
+        <updated>2021-06-11T14:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/
+Comments URL: https://news.ycombinator.com/item?id=27473788
+Points: 202
+# Comments: 76]]></summary>
+        <author>
+            <name>rigaspapas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fewer young men are in the labor force, more are living at home]]></title>
+        <id>https://news.ycombinator.com/item?id=27473199</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-06-11/fewer-young-men-are-in-the-labor-force-more-are-living-at-home"/>
+        <updated>2021-06-11T13:42:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-11/fewer-young-men-are-in-the-labor-force-more-are-living-at-home
+Comments URL: https://news.ycombinator.com/item?id=27473199
+Points: 63
+# Comments: 115]]></summary>
+        <author>
+            <name>harambae</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildland – open data management protocol]]></title>
+        <id>https://news.ycombinator.com/item?id=27473180</id>
+        <link href="https://wildland.io/"/>
+        <updated>2021-06-11T13:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wildland.io/
+Comments URL: https://news.ycombinator.com/item?id=27473180
+Points: 105
+# Comments: 31]]></summary>
+        <author>
+            <name>omnibrain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers used Slack to break into EA Games]]></title>
+        <id>https://news.ycombinator.com/item?id=27473038</id>
+        <link href="https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack"/>
+        <updated>2021-06-11T13:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack
+Comments URL: https://news.ycombinator.com/item?id=27473038
+Points: 114
+# Comments: 72]]></summary>
+        <author>
+            <name>danso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incentives in economics are wrong, but how?]]></title>
+        <id>https://news.ycombinator.com/item?id=27472840</id>
+        <link href="https://wyclif.substack.com/p/incentives-in-economics-are-wrong"/>
+        <updated>2021-06-11T13:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wyclif.substack.com/p/incentives-in-economics-are-wrong
+Comments URL: https://news.ycombinator.com/item?id=27472840
+Points: 61
+# Comments: 92]]></summary>
+        <author>
+            <name>dash2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The U.S. government’s failed 1890s attempt to forge unity through currency]]></title>
+        <id>https://news.ycombinator.com/item?id=27472475</id>
+        <link href="https://www.smithsonianmag.com/history/free-silver-movements-failed-attempt-forge-unity-through-currency-180977966/"/>
+        <updated>2021-06-11T12:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/history/free-silver-movements-failed-attempt-forge-unity-through-currency-180977966/
+Comments URL: https://news.ycombinator.com/item?id=27472475
+Points: 39
+# Comments: 78]]></summary>
+        <author>
+            <name>samizdis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wapp – A Web-Application Framework for Tcl]]></title>
         <id>https://news.ycombinator.com/item?id=27472473</id>
         <link href="https://wapp.tcl.tk/home/doc/trunk/README.md"/>
         <updated>2021-06-11T12:38:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wapp.tcl.tk/home/doc/trunk/README.md
 Comments URL: https://news.ycombinator.com/item?id=27472473
-Points: 62
-# Comments: 38]]></summary>
+Points: 66
+# Comments: 41]]></summary>
         <author>
             <name>Tomte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux-Kernel: Printk() Indexing]]></title>
-        <id>https://news.ycombinator.com/item?id=27471141</id>
-        <link href="https://lwn.net/Articles/857148/"/>
-        <updated>2021-06-11T09:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/857148/
-Comments URL: https://news.ycombinator.com/item?id=27471141
-Points: 73
-# Comments: 12]]></summary>
+        <title type="html"><![CDATA[ALiEn – a GPU-accelerated artificial life simulation program]]></title>
+        <id>https://news.ycombinator.com/item?id=27472224</id>
+        <link href="https://alien-project.org/"/>
+        <updated>2021-06-11T12:12:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alien-project.org/
+Comments URL: https://news.ycombinator.com/item?id=27472224
+Points: 632
+# Comments: 131]]></summary>
         <author>
-            <name>signa11</name>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York Senate Passes Right to Repair Bill]]></title>
+        <id>https://news.ycombinator.com/item?id=27472083</id>
+        <link href="https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-to-repair-bill"/>
+        <updated>2021-06-11T11:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-to-repair-bill
+Comments URL: https://news.ycombinator.com/item?id=27472083
+Points: 480
+# Comments: 145]]></summary>
+        <author>
+            <name>tk75x</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kopia – Fast and Secure Open-Source Backup]]></title>
+        <id>https://news.ycombinator.com/item?id=27471945</id>
+        <link href="https://kopia.io/"/>
+        <updated>2021-06-11T11:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kopia.io/
+Comments URL: https://news.ycombinator.com/item?id=27471945
+Points: 87
+# Comments: 43]]></summary>
+        <author>
+            <name>chetangoti</name>
         </author>
     </entry>
     <entry>
@@ -109,49 +303,10 @@ Points: 73
         <updated>2021-06-11T08:06:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaibhavsagar.com/blog/2019/09/08/popcount/
 Comments URL: https://news.ycombinator.com/item?id=27470529
-Points: 200
-# Comments: 50]]></summary>
-        <author>
-            <name>cjg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to average floating point numbers (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=27470323</id>
-        <link href="https://www.nu42.com/2015/03/how-you-average-numbers.html"/>
-        <updated>2021-06-11T07:29:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nu42.com/2015/03/how-you-average-numbers.html
-Comments URL: https://news.ycombinator.com/item?id=27470323
-Points: 109
+Points: 206
 # Comments: 59]]></summary>
         <author>
-            <name>dolmen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Queen’s Latin or Who Were the Romans? Part I: Beginnings and Legends]]></title>
-        <id>https://news.ycombinator.com/item?id=27469724</id>
-        <link href="https://acoup.blog/2021/06/11/collections-the-queens-latin-or-who-were-the-romans-part-i-beginnings-and-legends/"/>
-        <updated>2021-06-11T05:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://acoup.blog/2021/06/11/collections-the-queens-latin-or-who-were-the-romans-part-i-beginnings-and-legends/
-Comments URL: https://news.ycombinator.com/item?id=27469724
-Points: 102
-# Comments: 75]]></summary>
-        <author>
-            <name>parsecs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenHistoricalMap]]></title>
-        <id>https://news.ycombinator.com/item?id=27469715</id>
-        <link href="https://www.openhistoricalmap.org/"/>
-        <updated>2021-06-11T05:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.openhistoricalmap.org/
-Comments URL: https://news.ycombinator.com/item?id=27469715
-Points: 302
-# Comments: 82]]></summary>
-        <author>
-            <name>Tijdreiziger</name>
+            <name>cjg</name>
         </author>
     </entry>
     <entry>
@@ -222,45 +377,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Teaching of Arithmetic I: The Story of an experiment (1935)]]></title>
-        <id>https://news.ycombinator.com/item?id=27458135</id>
-        <link href="http://www.inference.org.uk/sanjoy/benezet/1.html"/>
-        <updated>2021-06-10T07:58:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.inference.org.uk/sanjoy/benezet/1.html
-Comments URL: https://news.ycombinator.com/item?id=27458135
-Points: 23
-# Comments: 8]]></summary>
-        <author>
-            <name>barry-cotter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenRGB: Open-source RGB lighting control]]></title>
-        <id>https://news.ycombinator.com/item?id=27457696</id>
-        <link href="https://openrgb.org/"/>
-        <updated>2021-06-10T06:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openrgb.org/
-Comments URL: https://news.ycombinator.com/item?id=27457696
-Points: 151
-# Comments: 43]]></summary>
-        <author>
-            <name>pabs3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Colors We Share [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27456062</id>
-        <link href="https://www.youtube.com/watch?v=xiWWldiUKPw"/>
-        <updated>2021-06-10T02:32:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=xiWWldiUKPw
-Comments URL: https://news.ycombinator.com/item?id=27456062
-Points: 46
-# Comments: 19]]></summary>
-        <author>
-            <name>brudgers</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
         <id>60b357ad11ffb70827ef9a90</id>
         <link href="https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/"/>
@@ -315,19 +431,6 @@ The post target=blank appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fractalrabbit: Simulate realistic trajectory data from sporadic reporting]]></title>
-        <id>https://news.ycombinator.com/item?id=27446524</id>
-        <link href="https://github.com/NationalSecurityAgency/fractalrabbit"/>
-        <updated>2021-06-09T11:03:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/NationalSecurityAgency/fractalrabbit
-Comments URL: https://news.ycombinator.com/item?id=27446524
-Points: 38
-# Comments: 9]]></summary>
-        <author>
-            <name>danso</name>
         </author>
     </entry>
     <entry>
