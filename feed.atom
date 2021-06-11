@@ -2,21 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T15:12:59.590Z</updated>
+    <updated>2021-06-11T16:22:10.688Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Fewer Young Men Are in the Labor Force. More Are Living at Home]]></title>
-        <id>https://news.ycombinator.com/item?id=27473199</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-06-11/fewer-young-men-are-in-the-labor-force-more-are-living-at-home"/>
-        <updated>2021-06-11T13:42:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-11/fewer-young-men-are-in-the-labor-force-more-are-living-at-home
-Comments URL: https://news.ycombinator.com/item?id=27473199
-Points: 44
-# Comments: 41]]></summary>
+        <title type="html"><![CDATA[How to Level Up Your React Conditionals]]></title>
+        <id>60c24cf8d3126007592d61d5</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-conditionals/"/>
+        <updated>2021-06-11T16:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
         <author>
-            <name>harambae</name>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Telegram Billionaire and His Dark Empire]]></title>
+        <id>https://news.ycombinator.com/item?id=27475001</id>
+        <link href="https://www.spiegel.de/international/world/the-telegram-billionaire-and-his-dark-empire-a-f27cb79f-86ae-48de-bdbd-8df604d07cc8"/>
+        <updated>2021-06-11T15:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.spiegel.de/international/world/the-telegram-billionaire-and-his-dark-empire-a-f27cb79f-86ae-48de-bdbd-8df604d07cc8
+Comments URL: https://news.ycombinator.com/item?id=27475001
+Points: 4
+# Comments: 1]]></summary>
+        <author>
+            <name>IfOnlyYouKnew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Slingshow (YC W20) – Easily build custom virtual events and webinars]]></title>
+        <id>https://news.ycombinator.com/item?id=27474808</id>
+        <link href="https://news.ycombinator.com/item?id=27474808"/>
+        <updated>2021-06-11T15:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Hello world, my name is Nilay. My cofounder Jorge and I founded Slingshow (https://slingshow.com/) and we're super excited (and nervous) to launch on HN finally. Slingshow helps you build custom virtual events for your community. Think Zoom, but with a modern & flexible user experience that seamlessly flows between different ways of interacting with larger and smaller groups.
+Last year, we were in YC W20 pivoting through several ideas, but then the pandemic hit. Suddenly, our YC batch was just a series of monotonous Zoom calls. We lost the magic of the social dinners, random conversations, and catching a speaker afterward for a personal chat. We quickly recognized that while Zoom was great for small meetings, the functionality and UI/UX made large group events unorganized and passive.
+Duri…]]></summary>
+        <author>
+            <name>nilaymodi123</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
+        <id>https://smashingmagazine.com/2021/06/web-design-done-well-audio/</id>
+        <link href="https://smashingmagazine.com/2021/06/web-design-done-well-audio/"/>
+        <updated>2021-06-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVMe is not a hard disk]]></title>
+        <id>https://news.ycombinator.com/item?id=27474082</id>
+        <link href="https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html"/>
+        <updated>2021-06-11T14:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html
+Comments URL: https://news.ycombinator.com/item?id=27474082
+Points: 53
+# Comments: 23]]></summary>
+        <author>
+            <name>omnibrain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Shadows to SVG Icons With CSS and SVG Filters]]></title>
+        <id>https://css-tricks.com/?p=342164</id>
+        <link href="https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/"/>
+        <updated>2021-06-11T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Why would we need to apply shadows to SVG?
+Shadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) 
+…
+The post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero downtime Postgres migration, done right]]></title>
+        <id>https://news.ycombinator.com/item?id=27473788</id>
+        <link href="https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/"/>
+        <updated>2021-06-11T14:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/
+Comments URL: https://news.ycombinator.com/item?id=27473788
+Points: 52
+# Comments: 3]]></summary>
+        <author>
+            <name>rigaspapas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[London and Switzerland seeking to dodge G7 global minimum tax]]></title>
+        <id>https://news.ycombinator.com/item?id=27473757</id>
+        <link href="https://www.businessinsider.com/london-switzerland-plans-dodge-g7-global-minimum-tax-reports-2021-6"/>
+        <updated>2021-06-11T14:22:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/london-switzerland-plans-dodge-g7-global-minimum-tax-reports-2021-6
+Comments URL: https://news.ycombinator.com/item?id=27473757
+Points: 49
+# Comments: 28]]></summary>
+        <author>
+            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +111,8 @@ Points: 44
         <updated>2021-06-11T13:41:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wildland.io/
 Comments URL: https://news.ycombinator.com/item?id=27473180
-Points: 47
-# Comments: 13]]></summary>
+Points: 64
+# Comments: 18]]></summary>
         <author>
             <name>omnibrain</name>
         </author>
@@ -39,23 +124,10 @@ Points: 47
         <updated>2021-06-11T13:12:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wyclif.substack.com/p/incentives-in-economics-are-wrong
 Comments URL: https://news.ycombinator.com/item?id=27472840
-Points: 16
-# Comments: 3]]></summary>
+Points: 37
+# Comments: 25]]></summary>
         <author>
             <name>dash2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post Mortem: Incorrect Cache Configuration Exposes Personal Information]]></title>
-        <id>https://news.ycombinator.com/item?id=27472619</id>
-        <link href="https://www.klarna.com/us/blog/detailed-incident-report-incorrect-cache-configuration-leading-to-klarna-app-exposing-personal-information/"/>
-        <updated>2021-06-11T12:54:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.klarna.com/us/blog/detailed-incident-report-incorrect-cache-configuration-leading-to-klarna-app-exposing-personal-information/
-Comments URL: https://news.ycombinator.com/item?id=27472619
-Points: 62
-# Comments: 55]]></summary>
-        <author>
-            <name>dcminter</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +137,8 @@ Points: 62
         <updated>2021-06-11T12:39:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/history/free-silver-movements-failed-attempt-forge-unity-through-currency-180977966/
 Comments URL: https://news.ycombinator.com/item?id=27472475
-Points: 9
-# Comments: 0]]></summary>
+Points: 21
+# Comments: 2]]></summary>
         <author>
             <name>samizdis</name>
         </author>
@@ -78,8 +150,8 @@ Points: 9
         <updated>2021-06-11T12:38:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wapp.tcl.tk/home/doc/trunk/README.md
 Comments URL: https://news.ycombinator.com/item?id=27472473
-Points: 36
-# Comments: 17]]></summary>
+Points: 44
+# Comments: 30]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -91,8 +163,8 @@ Points: 36
         <updated>2021-06-11T12:12:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alien-project.org/
 Comments URL: https://news.ycombinator.com/item?id=27472224
-Points: 370
-# Comments: 58]]></summary>
+Points: 451
+# Comments: 85]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -117,8 +189,8 @@ Points: 1
         <updated>2021-06-11T11:58:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/third-member-us-fda-advisory-panel-resigns-over-alzheimers-drug-approval-2021-06-10/
 Comments URL: https://news.ycombinator.com/item?id=27472107
-Points: 114
-# Comments: 75]]></summary>
+Points: 147
+# Comments: 113]]></summary>
         <author>
             <name>mrfusion</name>
         </author>
@@ -130,8 +202,8 @@ Points: 114
         <updated>2021-06-11T11:55:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-to-repair-bill
 Comments URL: https://news.ycombinator.com/item?id=27472083
-Points: 204
-# Comments: 38]]></summary>
+Points: 303
+# Comments: 64]]></summary>
         <author>
             <name>tk75x</name>
         </author>
@@ -143,10 +215,36 @@ Points: 204
         <updated>2021-06-11T11:52:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/jun/10/global-banking-regulators-cryptocurrencies-bitcoin
 Comments URL: https://news.ycombinator.com/item?id=27472060
-Points: 73
-# Comments: 39]]></summary>
+Points: 92
+# Comments: 52]]></summary>
         <author>
             <name>elorant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kopia – Fast and Secure Open-Source Backup]]></title>
+        <id>https://news.ycombinator.com/item?id=27471945</id>
+        <link href="https://kopia.io/"/>
+        <updated>2021-06-11T11:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kopia.io/
+Comments URL: https://news.ycombinator.com/item?id=27471945
+Points: 22
+# Comments: 9]]></summary>
+        <author>
+            <name>chetangoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El Salvador Plans to Use Electricity Generated from Volcanoes to Mine Bitcoin]]></title>
+        <id>https://news.ycombinator.com/item?id=27471438</id>
+        <link href="https://www.npr.org/2021/06/11/1005231250/el-salvador-plans-to-use-electricity-generated-from-volcanoes-to-mine-bitcoin"/>
+        <updated>2021-06-11T10:26:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/11/1005231250/el-salvador-plans-to-use-electricity-generated-from-volcanoes-to-mine-bitcoin
+Comments URL: https://news.ycombinator.com/item?id=27471438
+Points: 66
+# Comments: 107]]></summary>
+        <author>
+            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
@@ -156,23 +254,10 @@ Points: 73
         <updated>2021-06-11T09:43:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/857148/
 Comments URL: https://news.ycombinator.com/item?id=27471141
-Points: 46
-# Comments: 0]]></summary>
+Points: 53
+# Comments: 3]]></summary>
         <author>
             <name>signa11</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netherlands must ban cryptocurrencies immediately: CPB head]]></title>
-        <id>https://news.ycombinator.com/item?id=27470955</id>
-        <link href="https://nltimes.nl/2021/06/11/netherlands-must-ban-cryptocurrencies-immediately-cpb-head"/>
-        <updated>2021-06-11T09:14:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nltimes.nl/2021/06/11/netherlands-must-ban-cryptocurrencies-immediately-cpb-head
-Comments URL: https://news.ycombinator.com/item?id=27470955
-Points: 115
-# Comments: 123]]></summary>
-        <author>
-            <name>omnibrain</name>
         </author>
     </entry>
     <entry>
@@ -182,8 +267,8 @@ Points: 115
         <updated>2021-06-11T08:06:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaibhavsagar.com/blog/2019/09/08/popcount/
 Comments URL: https://news.ycombinator.com/item?id=27470529
-Points: 145
-# Comments: 32]]></summary>
+Points: 164
+# Comments: 37]]></summary>
         <author>
             <name>cjg</name>
         </author>
@@ -195,8 +280,8 @@ Points: 145
         <updated>2021-06-11T07:29:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nu42.com/2015/03/how-you-average-numbers.html
 Comments URL: https://news.ycombinator.com/item?id=27470323
-Points: 84
-# Comments: 32]]></summary>
+Points: 91
+# Comments: 40]]></summary>
         <author>
             <name>dolmen</name>
         </author>
@@ -208,62 +293,10 @@ Points: 84
         <updated>2021-06-11T06:56:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://3dlg-hcvc.github.io/plan2scene/
 Comments URL: https://news.ycombinator.com/item?id=27470136
-Points: 108
-# Comments: 11]]></summary>
+Points: 120
+# Comments: 14]]></summary>
         <author>
             <name>homarp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Queen’s Latin or Who Were the Romans? Part I: Beginnings and Legends]]></title>
-        <id>https://news.ycombinator.com/item?id=27469724</id>
-        <link href="https://acoup.blog/2021/06/11/collections-the-queens-latin-or-who-were-the-romans-part-i-beginnings-and-legends/"/>
-        <updated>2021-06-11T05:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://acoup.blog/2021/06/11/collections-the-queens-latin-or-who-were-the-romans-part-i-beginnings-and-legends/
-Comments URL: https://news.ycombinator.com/item?id=27469724
-Points: 86
-# Comments: 59]]></summary>
-        <author>
-            <name>parsecs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenHistoricalMap]]></title>
-        <id>https://news.ycombinator.com/item?id=27469715</id>
-        <link href="https://www.openhistoricalmap.org/"/>
-        <updated>2021-06-11T05:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.openhistoricalmap.org/
-Comments URL: https://news.ycombinator.com/item?id=27469715
-Points: 248
-# Comments: 73]]></summary>
-        <author>
-            <name>Tijdreiziger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon reverses course, expands work-from-home options]]></title>
-        <id>https://news.ycombinator.com/item?id=27469174</id>
-        <link href="https://mynorthwest.com/2960761/amazon-offering-flexible-work-from-home-options-seattle-tech-companies/"/>
-        <updated>2021-06-11T04:05:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mynorthwest.com/2960761/amazon-offering-flexible-work-from-home-options-seattle-tech-companies/
-Comments URL: https://news.ycombinator.com/item?id=27469174
-Points: 193
-# Comments: 170]]></summary>
-        <author>
-            <name>SonOfKyuss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematics Cheat Sheet [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27468908</id>
-        <link href="https://ourway.keybase.pub/mathematics_cheat_sheet.pdf"/>
-        <updated>2021-06-11T03:18:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ourway.keybase.pub/mathematics_cheat_sheet.pdf
-Comments URL: https://news.ycombinator.com/item?id=27468908
-Points: 148
-# Comments: 50]]></summary>
-        <author>
-            <name>weatherlight</name>
         </author>
     </entry>
     <entry>
@@ -497,16 +530,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use OpenCV and Python for Computer Vision and AI]]></title>
-        <id>60be863cd3126007592d4c36</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/"/>
-        <updated>2021-06-07T20:54:41.000Z</updated>
-        <summary type="html"><![CDATA[OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Links on Accessibility]]></title>
         <id>https://css-tricks.com/?p=341805</id>
         <link href="https://css-tricks.com/links-on-accessibility/"/>
@@ -627,18 +650,6 @@ The post Debugging iOS Safari appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
-        <id>https://css-tricks.com/?p=341442</id>
-        <link href="https://css-tricks.com/a-crash-course-in-wordpress-block-filters/"/>
-        <updated>2021-06-02T13:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …
-The post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Dmitry Mayorov</name>
         </author>
     </entry>
     <entry>
