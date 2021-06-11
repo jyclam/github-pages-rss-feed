@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T13:24:04.723Z</updated>
+    <updated>2021-06-11T14:11:24.372Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wildland – open data management protocol]]></title>
+        <id>https://news.ycombinator.com/item?id=27473180</id>
+        <link href="https://wildland.io/"/>
+        <updated>2021-06-11T13:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wildland.io/
+Comments URL: https://news.ycombinator.com/item?id=27473180
+Points: 12
+# Comments: 0]]></summary>
+        <author>
+            <name>omnibrain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Post Mortem: Incorrect Cache Configuration Exposes Personal Information]]></title>
         <id>https://news.ycombinator.com/item?id=27472619</id>
@@ -13,8 +26,8 @@
         <updated>2021-06-11T12:54:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.klarna.com/us/blog/detailed-incident-report-incorrect-cache-configuration-leading-to-klarna-app-exposing-personal-information/
 Comments URL: https://news.ycombinator.com/item?id=27472619
-Points: 17
-# Comments: 5]]></summary>
+Points: 44
+# Comments: 27]]></summary>
         <author>
             <name>dcminter</name>
         </author>
@@ -26,8 +39,8 @@ Points: 17
         <updated>2021-06-11T12:38:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wapp.tcl.tk/home/doc/trunk/README.md
 Comments URL: https://news.ycombinator.com/item?id=27472473
-Points: 11
-# Comments: 0]]></summary>
+Points: 20
+# Comments: 4]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -39,21 +52,21 @@ Points: 11
         <updated>2021-06-11T12:27:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/
 Comments URL: https://news.ycombinator.com/item?id=27472360
-Points: 22
-# Comments: 6]]></summary>
+Points: 70
+# Comments: 55]]></summary>
         <author>
             <name>fsflover</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alien]]></title>
+        <title type="html"><![CDATA[ALiEn – a GPU-accelerated artificial life simulation program]]></title>
         <id>https://news.ycombinator.com/item?id=27472224</id>
-        <link href="https://github.com/chrxh/alien"/>
+        <link href="https://alien-project.org/"/>
         <updated>2021-06-11T12:12:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/chrxh/alien
+        <summary type="html"><![CDATA[Article URL: https://alien-project.org/
 Comments URL: https://news.ycombinator.com/item?id=27472224
-Points: 173
-# Comments: 13]]></summary>
+Points: 298
+# Comments: 33]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -72,14 +85,27 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New York Senate Passes Landmark Right to Repair Bill]]></title>
+        <title type="html"><![CDATA[Third member of U.S. FDA advisory panel resigns over Alzheimer’s drug approval]]></title>
+        <id>https://news.ycombinator.com/item?id=27472107</id>
+        <link href="https://www.reuters.com/world/us/third-member-us-fda-advisory-panel-resigns-over-alzheimers-drug-approval-2021-06-10/"/>
+        <updated>2021-06-11T11:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/third-member-us-fda-advisory-panel-resigns-over-alzheimers-drug-approval-2021-06-10/
+Comments URL: https://news.ycombinator.com/item?id=27472107
+Points: 72
+# Comments: 37]]></summary>
+        <author>
+            <name>mrfusion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York Senate Passes Right to Repair Bill]]></title>
         <id>https://news.ycombinator.com/item?id=27472083</id>
         <link href="https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-to-repair-bill"/>
         <updated>2021-06-11T11:55:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-to-repair-bill
 Comments URL: https://news.ycombinator.com/item?id=27472083
-Points: 50
-# Comments: 5]]></summary>
+Points: 94
+# Comments: 18]]></summary>
         <author>
             <name>tk75x</name>
         </author>
@@ -91,23 +117,10 @@ Points: 50
         <updated>2021-06-11T11:52:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/jun/10/global-banking-regulators-cryptocurrencies-bitcoin
 Comments URL: https://news.ycombinator.com/item?id=27472060
-Points: 37
-# Comments: 18]]></summary>
+Points: 53
+# Comments: 23]]></summary>
         <author>
             <name>elorant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dutch official calls for complete ban on Bitcoin]]></title>
-        <id>https://news.ycombinator.com/item?id=27472058</id>
-        <link href="https://cointelegraph.com/news/dutch-official-calls-for-complete-ban-on-bitcoin"/>
-        <updated>2021-06-11T11:52:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cointelegraph.com/news/dutch-official-calls-for-complete-ban-on-bitcoin
-Comments URL: https://news.ycombinator.com/item?id=27472058
-Points: 99
-# Comments: 78]]></summary>
-        <author>
-            <name>ushakov</name>
         </author>
     </entry>
     <entry>
@@ -117,7 +130,7 @@ Points: 99
         <updated>2021-06-11T09:43:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/857148/
 Comments URL: https://news.ycombinator.com/item?id=27471141
-Points: 33
+Points: 38
 # Comments: 0]]></summary>
         <author>
             <name>signa11</name>
@@ -130,8 +143,8 @@ Points: 33
         <updated>2021-06-11T09:14:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nltimes.nl/2021/06/11/netherlands-must-ban-cryptocurrencies-immediately-cpb-head
 Comments URL: https://news.ycombinator.com/item?id=27470955
-Points: 32
-# Comments: 16]]></summary>
+Points: 64
+# Comments: 31]]></summary>
         <author>
             <name>omnibrain</name>
         </author>
@@ -143,8 +156,8 @@ Points: 32
         <updated>2021-06-11T09:01:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.moondaily.com/reports/Queqiao_The_bridge_between_Earth_and_the_far_side_of_the_moon_999.html
 Comments URL: https://news.ycombinator.com/item?id=27470883
-Points: 40
-# Comments: 8]]></summary>
+Points: 43
+# Comments: 10]]></summary>
         <author>
             <name>Arunprasath</name>
         </author>
@@ -156,8 +169,8 @@ Points: 40
         <updated>2021-06-11T08:06:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaibhavsagar.com/blog/2019/09/08/popcount/
 Comments URL: https://news.ycombinator.com/item?id=27470529
-Points: 114
-# Comments: 16]]></summary>
+Points: 125
+# Comments: 22]]></summary>
         <author>
             <name>cjg</name>
         </author>
@@ -169,8 +182,8 @@ Points: 114
         <updated>2021-06-11T07:29:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nu42.com/2015/03/how-you-average-numbers.html
 Comments URL: https://news.ycombinator.com/item?id=27470323
-Points: 65
-# Comments: 24]]></summary>
+Points: 74
+# Comments: 25]]></summary>
         <author>
             <name>dolmen</name>
         </author>
@@ -182,7 +195,7 @@ Points: 65
         <updated>2021-06-11T06:56:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://3dlg-hcvc.github.io/plan2scene/
 Comments URL: https://news.ycombinator.com/item?id=27470136
-Points: 88
+Points: 93
 # Comments: 5]]></summary>
         <author>
             <name>homarp</name>
@@ -195,8 +208,8 @@ Points: 88
         <updated>2021-06-11T05:41:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://acoup.blog/2021/06/11/collections-the-queens-latin-or-who-were-the-romans-part-i-beginnings-and-legends/
 Comments URL: https://news.ycombinator.com/item?id=27469724
-Points: 73
-# Comments: 53]]></summary>
+Points: 79
+# Comments: 55]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -208,10 +221,23 @@ Points: 73
         <updated>2021-06-11T05:40:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.openhistoricalmap.org/
 Comments URL: https://news.ycombinator.com/item?id=27469715
-Points: 203
-# Comments: 74]]></summary>
+Points: 223
+# Comments: 72]]></summary>
         <author>
             <name>Tijdreiziger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bandcamp's app is no longer listed on Google Play]]></title>
+        <id>https://news.ycombinator.com/item?id=27469450</id>
+        <link href="https://play.google.com/store/apps/details?id=com.bandcamp.android&amp;hl=en_US&amp;gl=US"/>
+        <updated>2021-06-11T04:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://play.google.com/store/apps/details?id=com.bandcamp.android&hl=en_US&gl=US
+Comments URL: https://news.ycombinator.com/item?id=27469450
+Points: 160
+# Comments: 80]]></summary>
+        <author>
+            <name>trynewideas</name>
         </author>
     </entry>
     <entry>
@@ -221,8 +247,8 @@ Points: 203
         <updated>2021-06-11T04:05:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mynorthwest.com/2960761/amazon-offering-flexible-work-from-home-options-seattle-tech-companies/
 Comments URL: https://news.ycombinator.com/item?id=27469174
-Points: 136
-# Comments: 101]]></summary>
+Points: 169
+# Comments: 121]]></summary>
         <author>
             <name>SonOfKyuss</name>
         </author>
@@ -234,36 +260,10 @@ Points: 136
         <updated>2021-06-11T03:18:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ourway.keybase.pub/mathematics_cheat_sheet.pdf
 Comments URL: https://news.ycombinator.com/item?id=27468908
-Points: 113
-# Comments: 35]]></summary>
+Points: 129
+# Comments: 40]]></summary>
         <author>
             <name>weatherlight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soggi's BIOS and Firmware Page (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27468594</id>
-        <link href="https://soggi.org/"/>
-        <updated>2021-06-11T02:14:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://soggi.org/
-Comments URL: https://news.ycombinator.com/item?id=27468594
-Points: 66
-# Comments: 8]]></summary>
-        <author>
-            <name>Lammy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Feed the Thought Leaders]]></title>
-        <id>https://news.ycombinator.com/item?id=27467999</id>
-        <link href="https://earthly.dev/blog/thought-leaders/"/>
-        <updated>2021-06-11T00:49:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://earthly.dev/blog/thought-leaders/
-Comments URL: https://news.ycombinator.com/item?id=27467999
-Points: 628
-# Comments: 228]]></summary>
-        <author>
-            <name>crummy</name>
         </author>
     </entry>
     <entry>
