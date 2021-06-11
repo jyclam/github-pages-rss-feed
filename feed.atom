@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T17:28:42.017Z</updated>
+    <updated>2021-06-11T18:15:46.076Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Ask Good Technical Questions – the Ultimate Guide]]></title>
+        <id>60bc0444acb62507dd1d9a31</id>
+        <link href="https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/"/>
+        <updated>2021-06-11T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA hacked because of unauthorized Raspberry Pi connected to its network]]></title>
+        <id>https://news.ycombinator.com/item?id=27476283</id>
+        <link href="https://www.zdnet.com/article/nasa-hacked-because-of-unauthorized-raspberry-pi-connected-to-its-network/"/>
+        <updated>2021-06-11T17:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/nasa-hacked-because-of-unauthorized-raspberry-pi-connected-to-its-network/
+Comments URL: https://news.ycombinator.com/item?id=27476283
+Points: 8
+# Comments: 2]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ReadMe (YC W15) is hiring a Product Marketer who loves developers]]></title>
         <id>https://news.ycombinator.com/item?id=27475788</id>
@@ -26,10 +49,23 @@ Points: 1
         <updated>2021-06-11T16:22:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/amazon-ebay-fight-legislation-that-would-unmask-third-party-sellers/
 Comments URL: https://news.ycombinator.com/item?id=27475291
-Points: 18
-# Comments: 3]]></summary>
+Points: 39
+# Comments: 16]]></summary>
         <author>
             <name>ProAm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprising Shared Word Etymologies]]></title>
+        <id>https://news.ycombinator.com/item?id=27475193</id>
+        <link href="https://www.danielde.dev/blog/surprising-shared-word-etymologies/"/>
+        <updated>2021-06-11T16:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.danielde.dev/blog/surprising-shared-word-etymologies/
+Comments URL: https://news.ycombinator.com/item?id=27475193
+Points: 19
+# Comments: 5]]></summary>
+        <author>
+            <name>DanielDe</name>
         </author>
     </entry>
     <entry>
@@ -41,8 +77,8 @@ Points: 18
 Glowing single cell organisms? Color changing Fungi? Flowers with any #rrggbb as petal color? albino lizards? Jurassic Park?
 Serious question. Looking for a project that teaches me something and has a tangible result.
 Comments URL: https://news.ycombinator.com/item?id=27475080
-Points: 17
-# Comments: 11]]></summary>
+Points: 28
+# Comments: 22]]></summary>
         <author>
             <name>pengwing</name>
         </author>
@@ -76,8 +112,8 @@ D…]]></summary>
         <updated>2021-06-11T15:04:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.chromium.org/2021/06/changes-to-chrome-oss-release-cycle.html
 Comments URL: https://news.ycombinator.com/item?id=27474354
-Points: 9
-# Comments: 1]]></summary>
+Points: 11
+# Comments: 2]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -99,23 +135,10 @@ Points: 9
         <updated>2021-06-11T14:45:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html
 Comments URL: https://news.ycombinator.com/item?id=27474082
-Points: 98
-# Comments: 69]]></summary>
+Points: 119
+# Comments: 98]]></summary>
         <author>
             <name>omnibrain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Congress Is Going to Throw the Kitchen Sink at Big Tech]]></title>
-        <id>https://news.ycombinator.com/item?id=27473907</id>
-        <link href="https://bigtechnology.substack.com/p/congress-is-going-to-throw-the-kitchen"/>
-        <updated>2021-06-11T14:33:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bigtechnology.substack.com/p/congress-is-going-to-throw-the-kitchen
-Comments URL: https://news.ycombinator.com/item?id=27473907
-Points: 52
-# Comments: 28]]></summary>
-        <author>
-            <name>kantrowitz</name>
         </author>
     </entry>
     <entry>
@@ -139,8 +162,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-11T14:25:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/
 Comments URL: https://news.ycombinator.com/item?id=27473788
-Points: 100
-# Comments: 34]]></summary>
+Points: 134
+# Comments: 51]]></summary>
         <author>
             <name>rigaspapas</name>
         </author>
@@ -152,23 +175,23 @@ Points: 100
         <updated>2021-06-11T13:41:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wildland.io/
 Comments URL: https://news.ycombinator.com/item?id=27473180
-Points: 76
-# Comments: 20]]></summary>
+Points: 86
+# Comments: 23]]></summary>
         <author>
             <name>omnibrain</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Incentives in economics are wrong, but how?]]></title>
-        <id>https://news.ycombinator.com/item?id=27472840</id>
-        <link href="https://wyclif.substack.com/p/incentives-in-economics-are-wrong"/>
-        <updated>2021-06-11T13:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wyclif.substack.com/p/incentives-in-economics-are-wrong
-Comments URL: https://news.ycombinator.com/item?id=27472840
-Points: 55
-# Comments: 66]]></summary>
+        <title type="html"><![CDATA[Hackers Used Slack to Break into EA Games]]></title>
+        <id>https://news.ycombinator.com/item?id=27473038</id>
+        <link href="https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack"/>
+        <updated>2021-06-11T13:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack
+Comments URL: https://news.ycombinator.com/item?id=27473038
+Points: 23
+# Comments: 6]]></summary>
         <author>
-            <name>dash2</name>
+            <name>danso</name>
         </author>
     </entry>
     <entry>
@@ -178,8 +201,8 @@ Points: 55
         <updated>2021-06-11T12:39:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/history/free-silver-movements-failed-attempt-forge-unity-through-currency-180977966/
 Comments URL: https://news.ycombinator.com/item?id=27472475
-Points: 29
-# Comments: 14]]></summary>
+Points: 35
+# Comments: 40]]></summary>
         <author>
             <name>samizdis</name>
         </author>
@@ -191,8 +214,8 @@ Points: 29
         <updated>2021-06-11T12:38:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wapp.tcl.tk/home/doc/trunk/README.md
 Comments URL: https://news.ycombinator.com/item?id=27472473
-Points: 57
-# Comments: 31]]></summary>
+Points: 61
+# Comments: 34]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -204,8 +227,8 @@ Points: 57
         <updated>2021-06-11T12:12:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alien-project.org/
 Comments URL: https://news.ycombinator.com/item?id=27472224
-Points: 515
-# Comments: 100]]></summary>
+Points: 564
+# Comments: 109]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -217,8 +240,8 @@ Points: 515
         <updated>2021-06-11T11:58:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/third-member-us-fda-advisory-panel-resigns-over-alzheimers-drug-approval-2021-06-10/
 Comments URL: https://news.ycombinator.com/item?id=27472107
-Points: 173
-# Comments: 134]]></summary>
+Points: 185
+# Comments: 143]]></summary>
         <author>
             <name>mrfusion</name>
         </author>
@@ -230,8 +253,8 @@ Points: 173
         <updated>2021-06-11T11:55:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-to-repair-bill
 Comments URL: https://news.ycombinator.com/item?id=27472083
-Points: 370
-# Comments: 94]]></summary>
+Points: 402
+# Comments: 107]]></summary>
         <author>
             <name>tk75x</name>
         </author>
@@ -243,23 +266,10 @@ Points: 370
         <updated>2021-06-11T11:40:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kopia.io/
 Comments URL: https://news.ycombinator.com/item?id=27471945
-Points: 46
-# Comments: 18]]></summary>
+Points: 65
+# Comments: 31]]></summary>
         <author>
             <name>chetangoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El Salvador Plans to Use Electricity Generated from Volcanoes to Mine Bitcoin]]></title>
-        <id>https://news.ycombinator.com/item?id=27471438</id>
-        <link href="https://www.npr.org/2021/06/11/1005231250/el-salvador-plans-to-use-electricity-generated-from-volcanoes-to-mine-bitcoin"/>
-        <updated>2021-06-11T10:26:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/11/1005231250/el-salvador-plans-to-use-electricity-generated-from-volcanoes-to-mine-bitcoin
-Comments URL: https://news.ycombinator.com/item?id=27471438
-Points: 102
-# Comments: 182]]></summary>
-        <author>
-            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
@@ -269,8 +279,8 @@ Points: 102
         <updated>2021-06-11T09:43:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/857148/
 Comments URL: https://news.ycombinator.com/item?id=27471141
-Points: 62
-# Comments: 6]]></summary>
+Points: 66
+# Comments: 11]]></summary>
         <author>
             <name>signa11</name>
         </author>
@@ -282,8 +292,8 @@ Points: 62
         <updated>2021-06-11T08:06:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaibhavsagar.com/blog/2019/09/08/popcount/
 Comments URL: https://news.ycombinator.com/item?id=27470529
-Points: 179
-# Comments: 41]]></summary>
+Points: 185
+# Comments: 45]]></summary>
         <author>
             <name>cjg</name>
         </author>
@@ -295,8 +305,8 @@ Points: 179
         <updated>2021-06-11T07:29:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nu42.com/2015/03/how-you-average-numbers.html
 Comments URL: https://news.ycombinator.com/item?id=27470323
-Points: 99
-# Comments: 50]]></summary>
+Points: 103
+# Comments: 52]]></summary>
         <author>
             <name>dolmen</name>
         </author>
@@ -519,16 +529,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack Development with Next.js and Supabase – The Complete Guide]]></title>
-        <id>60bbd28eacb62507dd1d99fb</id>
-        <link href="https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/"/>
-        <updated>2021-06-07T23:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Supabase is an open source Firebase alternative that lets you create a real-time backend in less than two minutes. Supabase has continued to gain hype and adoption with developers in my network over the past few months. And a lot of the people I've talked to about it prefer the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
