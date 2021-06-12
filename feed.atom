@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T15:12:50.266Z</updated>
+    <updated>2021-06-12T16:19:57.657Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,7 +13,7 @@
         <updated>2021-06-12T14:26:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.mixpanel.com/evolution-of-code-deployment-tools-at-mixpanel-210b99926cd4
 Comments URL: https://news.ycombinator.com/item?id=27484710
-Points: 7
+Points: 25
 # Comments: 0]]></summary>
         <author>
             <name>i0exception</name>
@@ -26,8 +26,8 @@ Points: 7
         <updated>2021-06-12T13:17:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by
 Comments URL: https://news.ycombinator.com/item?id=27484288
-Points: 94
-# Comments: 42]]></summary>
+Points: 138
+# Comments: 72]]></summary>
         <author>
             <name>AndyMPatton</name>
         </author>
@@ -39,23 +39,23 @@ Points: 94
         <updated>2021-06-12T13:11:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://newatlas.com/materials/thermally-stable-zte-advanced-material/
 Comments URL: https://news.ycombinator.com/item?id=27484250
-Points: 16
-# Comments: 5]]></summary>
+Points: 30
+# Comments: 14]]></summary>
         <author>
             <name>elorant</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everyone Has JavaScript, Right?]]></title>
-        <id>https://news.ycombinator.com/item?id=27484050</id>
-        <link href="https://kryogenix.org/code/browser/everyonehasjs.html"/>
-        <updated>2021-06-12T12:39:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kryogenix.org/code/browser/everyonehasjs.html
-Comments URL: https://news.ycombinator.com/item?id=27484050
-Points: 52
-# Comments: 41]]></summary>
+        <title type="html"><![CDATA[The SO_LINGER page, or: why is my TCP not reliable (2009)]]></title>
+        <id>https://news.ycombinator.com/item?id=27484100</id>
+        <link href="https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable"/>
+        <updated>2021-06-12T12:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable
+Comments URL: https://news.ycombinator.com/item?id=27484100
+Points: 9
+# Comments: 0]]></summary>
         <author>
-            <name>0xedb</name>
+            <name>bluestreak</name>
         </author>
     </entry>
     <entry>
@@ -65,10 +65,23 @@ Points: 52
         <updated>2021-06-12T12:09:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.politico.eu/article/lisbon-portugal-dissidents-personal-data-repressive-regimes/
 Comments URL: https://news.ycombinator.com/item?id=27483895
-Points: 167
-# Comments: 53]]></summary>
+Points: 189
+# Comments: 55]]></summary>
         <author>
             <name>mr_sand_man</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Etymology of the Word “Lord”]]></title>
+        <id>https://news.ycombinator.com/item?id=27483876</id>
+        <link href="https://www.etymonline.com/word/lord"/>
+        <updated>2021-06-12T12:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.etymonline.com/word/lord
+Comments URL: https://news.ycombinator.com/item?id=27483876
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>jasim</name>
         </author>
     </entry>
     <entry>
@@ -91,8 +104,8 @@ Points: 1
         <updated>2021-06-12T10:39:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/
 Comments URL: https://news.ycombinator.com/item?id=27483442
-Points: 74
-# Comments: 15]]></summary>
+Points: 93
+# Comments: 18]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -104,8 +117,8 @@ Points: 74
         <updated>2021-06-12T10:34:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272
 Comments URL: https://news.ycombinator.com/item?id=27483412
-Points: 178
-# Comments: 102]]></summary>
+Points: 204
+# Comments: 122]]></summary>
         <author>
             <name>ushakov</name>
         </author>
@@ -117,8 +130,8 @@ Points: 178
         <updated>2021-06-12T10:00:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://paulskallas.substack.com/p/refinement-culture
 Comments URL: https://news.ycombinator.com/item?id=27483207
-Points: 64
-# Comments: 14]]></summary>
+Points: 73
+# Comments: 17]]></summary>
         <author>
             <name>ptr</name>
         </author>
@@ -130,8 +143,8 @@ Points: 64
         <updated>2021-06-12T09:52:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Telautograph
 Comments URL: https://news.ycombinator.com/item?id=27483165
-Points: 20
-# Comments: 3]]></summary>
+Points: 22
+# Comments: 5]]></summary>
         <author>
             <name>nanna</name>
         </author>
@@ -143,8 +156,8 @@ Points: 20
         <updated>2021-06-12T09:33:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html
 Comments URL: https://news.ycombinator.com/item?id=27483077
-Points: 106
-# Comments: 31]]></summary>
+Points: 127
+# Comments: 37]]></summary>
         <author>
             <name>pabs3</name>
         </author>
@@ -156,21 +169,21 @@ Points: 106
         <updated>2021-06-12T09:00:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel
 Comments URL: https://news.ycombinator.com/item?id=27482910
-Points: 34
-# Comments: 55]]></summary>
+Points: 47
+# Comments: 70]]></summary>
         <author>
             <name>belter</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NymphCast – open-source Chromecast Alternative]]></title>
+        <title type="html"><![CDATA[NymphCast – Open-source Chromecast Alternative]]></title>
         <id>https://news.ycombinator.com/item?id=27482699</id>
         <link href="https://github.com/MayaPosch/NymphCast/"/>
         <updated>2021-06-12T08:23:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/MayaPosch/NymphCast/
 Comments URL: https://news.ycombinator.com/item?id=27482699
-Points: 131
-# Comments: 27]]></summary>
+Points: 148
+# Comments: 33]]></summary>
         <author>
             <name>nedp</name>
         </author>
@@ -182,8 +195,8 @@ Points: 131
         <updated>2021-06-12T06:57:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spin.atomicobject.com/2021/02/04/redis-postgresql/
 Comments URL: https://news.ycombinator.com/item?id=27482243
-Points: 438
-# Comments: 259]]></summary>
+Points: 491
+# Comments: 286]]></summary>
         <author>
             <name>hyzyla</name>
         </author>
@@ -195,8 +208,8 @@ Points: 438
         <updated>2021-06-12T06:55:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://if50.substack.com/p/1992-silverwolf
 Comments URL: https://news.ycombinator.com/item?id=27482235
-Points: 28
-# Comments: 0]]></summary>
+Points: 35
+# Comments: 3]]></summary>
         <author>
             <name>JohnHammersley</name>
         </author>
@@ -208,8 +221,8 @@ Points: 28
         <updated>2021-06-12T06:21:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/
 Comments URL: https://news.ycombinator.com/item?id=27482067
-Points: 62
-# Comments: 28]]></summary>
+Points: 69
+# Comments: 32]]></summary>
         <author>
             <name>ZephyrBlu</name>
         </author>
@@ -221,8 +234,8 @@ Points: 62
         <updated>2021-06-12T05:33:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://glasstire.com/2020/07/11/a-mycological-foray-a-new-look-at-john-cage-and-his-mushroom-obsession/
 Comments URL: https://news.ycombinator.com/item?id=27481830
-Points: 29
-# Comments: 15]]></summary>
+Points: 37
+# Comments: 16]]></summary>
         <author>
             <name>hooboy</name>
         </author>
@@ -234,7 +247,7 @@ Points: 29
         <updated>2021-06-12T05:07:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://psychoslinux.gitlab.io/DOS/INDEX.HTM
 Comments URL: https://news.ycombinator.com/item?id=27481705
-Points: 83
+Points: 96
 # Comments: 25]]></summary>
         <author>
             <name>marttt</name>
@@ -247,23 +260,10 @@ Points: 83
         <updated>2021-06-12T04:11:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://landrop.app/
 Comments URL: https://news.ycombinator.com/item?id=27481465
-Points: 163
-# Comments: 86]]></summary>
+Points: 185
+# Comments: 88]]></summary>
         <author>
             <name>yvbbrjdr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverse Engineering Bumble’s API (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27481272</id>
-        <link href="https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87"/>
-        <updated>2021-06-12T03:34:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87
-Comments URL: https://news.ycombinator.com/item?id=27481272
-Points: 104
-# Comments: 32]]></summary>
-        <author>
-            <name>stevekemp</name>
         </author>
     </entry>
     <entry>
