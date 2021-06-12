@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T17:25:53.722Z</updated>
+    <updated>2021-06-12T18:13:30.617Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Translating Quake 3 into Rust (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27485813</id>
+        <link href="https://immunant.com/blog/2020/01/quake3/"/>
+        <updated>2021-06-12T17:07:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://immunant.com/blog/2020/01/quake3/
+Comments URL: https://news.ycombinator.com/item?id=27485813
+Points: 44
+# Comments: 1]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Universe (YC W18) Is Hiring a DevOps, React, and CSS Engineer]]></title>
         <id>https://news.ycombinator.com/item?id=27485767</id>
@@ -32,8 +45,8 @@ Points: 1
         <updated>2021-06-12T16:38:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://about.fb.com/news/2021/06/may-2021-coordinated-inauthentic-behavior-report/
 Comments URL: https://news.ycombinator.com/item?id=27485580
-Points: 28
-# Comments: 6]]></summary>
+Points: 40
+# Comments: 23]]></summary>
         <author>
             <name>rainhacker</name>
         </author>
@@ -45,10 +58,36 @@ Points: 28
         <updated>2021-06-12T16:37:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.04026
 Comments URL: https://news.ycombinator.com/item?id=27485574
-Points: 5
+Points: 38
 # Comments: 0]]></summary>
         <author>
             <name>tims457</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detectives Just Used DNA to Solve a 1956 Double Homicide]]></title>
+        <id>https://news.ycombinator.com/item?id=27485475</id>
+        <link href="https://www.npr.org/2021/06/12/1005690930/detectives-just-used-dna-to-solve-a-1956-double-homicide-they-may-have-made-hist"/>
+        <updated>2021-06-12T16:22:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/12/1005690930/detectives-just-used-dna-to-solve-a-1956-double-homicide-they-may-have-made-hist
+Comments URL: https://news.ycombinator.com/item?id=27485475
+Points: 7
+# Comments: 3]]></summary>
+        <author>
+            <name>yskchu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Find Second ‘Short Sleep’ Gene (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27485288</id>
+        <link href="https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene"/>
+        <updated>2021-06-12T15:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene
+Comments URL: https://news.ycombinator.com/item?id=27485288
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>fybs</name>
         </author>
     </entry>
     <entry>
@@ -58,8 +97,8 @@ Points: 5
         <updated>2021-06-12T15:52:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ssir.org/articles/entry/burnout_from_an_organizational_perspective
 Comments URL: https://news.ycombinator.com/item?id=27485270
-Points: 29
-# Comments: 3]]></summary>
+Points: 51
+# Comments: 10]]></summary>
         <author>
             <name>rustoo</name>
         </author>
@@ -71,8 +110,8 @@ Points: 29
         <updated>2021-06-12T15:27:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/d3/d3/releases/tag/v7.0.0
 Comments URL: https://news.ycombinator.com/item?id=27485123
-Points: 60
-# Comments: 9]]></summary>
+Points: 80
+# Comments: 14]]></summary>
         <author>
             <name>cltsang</name>
         </author>
@@ -84,8 +123,8 @@ Points: 60
         <updated>2021-06-12T15:16:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://linearmouse.lujjjh.com/
 Comments URL: https://news.ycombinator.com/item?id=27485051
-Points: 20
-# Comments: 8]]></summary>
+Points: 30
+# Comments: 19]]></summary>
         <author>
             <name>lujjjh</name>
         </author>
@@ -97,8 +136,8 @@ Points: 20
         <updated>2021-06-12T14:49:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://muratbuffalo.blogspot.com/2021/06/silent-data-corruptions-at-scale.html
 Comments URL: https://news.ycombinator.com/item?id=27484866
-Points: 21
-# Comments: 0]]></summary>
+Points: 26
+# Comments: 3]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -110,7 +149,7 @@ Points: 21
         <updated>2021-06-12T14:26:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.mixpanel.com/evolution-of-code-deployment-tools-at-mixpanel-210b99926cd4
 Comments URL: https://news.ycombinator.com/item?id=27484710
-Points: 33
+Points: 36
 # Comments: 10]]></summary>
         <author>
             <name>i0exception</name>
@@ -123,8 +162,8 @@ Points: 33
         <updated>2021-06-12T14:25:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://narative.co/articles/the-art-of-frontend-engineering
 Comments URL: https://news.ycombinator.com/item?id=27484706
-Points: 26
-# Comments: 11]]></summary>
+Points: 33
+# Comments: 13]]></summary>
         <author>
             <name>kintalo</name>
         </author>
@@ -136,8 +175,8 @@ Points: 26
         <updated>2021-06-12T13:17:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by
 Comments URL: https://news.ycombinator.com/item?id=27484288
-Points: 195
-# Comments: 109]]></summary>
+Points: 222
+# Comments: 126]]></summary>
         <author>
             <name>AndyMPatton</name>
         </author>
@@ -149,8 +188,8 @@ Points: 195
         <updated>2021-06-12T12:49:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable
 Comments URL: https://news.ycombinator.com/item?id=27484100
-Points: 22
-# Comments: 0]]></summary>
+Points: 33
+# Comments: 1]]></summary>
         <author>
             <name>bluestreak</name>
         </author>
@@ -162,8 +201,8 @@ Points: 22
         <updated>2021-06-12T12:20:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://newatlas.com/physics/charm-meson-particle-matter-antimatter/
 Comments URL: https://news.ycombinator.com/item?id=27483949
-Points: 26
-# Comments: 3]]></summary>
+Points: 39
+# Comments: 16]]></summary>
         <author>
             <name>birriel</name>
         </author>
@@ -175,8 +214,8 @@ Points: 26
         <updated>2021-06-12T12:05:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.etymonline.com/word/lord
 Comments URL: https://news.ycombinator.com/item?id=27483876
-Points: 29
-# Comments: 7]]></summary>
+Points: 37
+# Comments: 8]]></summary>
         <author>
             <name>jasim</name>
         </author>
@@ -188,8 +227,8 @@ Points: 29
         <updated>2021-06-12T11:52:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ssrn.com/abstract=3820449
 Comments URL: https://news.ycombinator.com/item?id=27483833
-Points: 11
-# Comments: 3]]></summary>
+Points: 16
+# Comments: 5]]></summary>
         <author>
             <name>Naa4</name>
         </author>
@@ -201,8 +240,8 @@ Points: 11
         <updated>2021-06-12T10:39:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/
 Comments URL: https://news.ycombinator.com/item?id=27483442
-Points: 108
-# Comments: 23]]></summary>
+Points: 117
+# Comments: 26]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -214,8 +253,8 @@ Points: 108
         <updated>2021-06-12T10:34:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272
 Comments URL: https://news.ycombinator.com/item?id=27483412
-Points: 225
-# Comments: 132]]></summary>
+Points: 246
+# Comments: 140]]></summary>
         <author>
             <name>ushakov</name>
         </author>
@@ -227,50 +266,10 @@ Points: 225
         <updated>2021-06-12T10:00:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://paulskallas.substack.com/p/refinement-culture
 Comments URL: https://news.ycombinator.com/item?id=27483207
-Points: 84
-# Comments: 22]]></summary>
+Points: 92
+# Comments: 28]]></summary>
         <author>
             <name>ptr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSH quoting]]></title>
-        <id>https://news.ycombinator.com/item?id=27483077</id>
-        <link href="https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html"/>
-        <updated>2021-06-12T09:33:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html
-Comments URL: https://news.ycombinator.com/item?id=27483077
-Points: 150
-# Comments: 42]]></summary>
-        <author>
-            <name>pabs3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NymphCast – Open-source Chromecast Alternative]]></title>
-        <id>https://news.ycombinator.com/item?id=27482699</id>
-        <link href="https://github.com/MayaPosch/NymphCast/"/>
-        <updated>2021-06-12T08:23:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/MayaPosch/NymphCast/
-Comments URL: https://news.ycombinator.com/item?id=27482699
-Points: 162
-# Comments: 40]]></summary>
-        <author>
-            <name>nedp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Tools you have made for yourself?]]></title>
-        <id>https://news.ycombinator.com/item?id=27482397</id>
-        <link href="https://news.ycombinator.com/item?id=27482397"/>
-        <updated>2021-06-12T07:29:04.000Z</updated>
-        <summary type="html"><![CDATA[I am looking for tools that you might have built to scratch an itch or quell a regular annoyance. My main motivation for asking is to looking a different things people may have built and a secondary motivation is to learn how they went about it. I'm also interested in tools which are small scripts or a bunch of commands piped into one another that have boosted your quality of life.
-Thank you.
-Comments URL: https://news.ycombinator.com/item?id=27482397
-Points: 57
-# Comments: 64]]></summary>
-        <author>
-            <name>themantri</name>
         </author>
     </entry>
     <entry>
