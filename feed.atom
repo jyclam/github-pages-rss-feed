@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T21:10:39.546Z</updated>
+    <updated>2021-06-12T22:11:44.396Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -20,16 +20,29 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diabetes Drug Metformin Reduces All-Cause Mortality and Diseases of Aging (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27486841</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/28802803/"/>
-        <updated>2021-06-12T19:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pubmed.ncbi.nlm.nih.gov/28802803/
-Comments URL: https://news.ycombinator.com/item?id=27486841
-Points: 42
-# Comments: 8]]></summary>
+        <title type="html"><![CDATA[Elevator Saga – An elevator programming game]]></title>
+        <id>https://news.ycombinator.com/item?id=27487111</id>
+        <link href="https://play.elevatorsaga.com/"/>
+        <updated>2021-06-12T20:08:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://play.elevatorsaga.com/
+Comments URL: https://news.ycombinator.com/item?id=27487111
+Points: 39
+# Comments: 9]]></summary>
         <author>
-            <name>optimalsolver</name>
+            <name>warpech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python is 1.3x faster by just adjusting some compiling options for libpython]]></title>
+        <id>https://news.ycombinator.com/item?id=27487028</id>
+        <link href="https://www.facebook.com/dan.colascione/posts/10107358290728348"/>
+        <updated>2021-06-12T19:52:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.facebook.com/dan.colascione/posts/10107358290728348
+Comments URL: https://news.ycombinator.com/item?id=27487028
+Points: 35
+# Comments: 14]]></summary>
+        <author>
+            <name>chx</name>
         </author>
     </entry>
     <entry>
@@ -39,7 +52,7 @@ Points: 42
         <updated>2021-06-12T19:19:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html
 Comments URL: https://news.ycombinator.com/item?id=27486820
-Points: 17
+Points: 32
 # Comments: 0]]></summary>
         <author>
             <name>rebeccaskinner</name>
@@ -52,8 +65,8 @@ Points: 17
         <updated>2021-06-12T19:02:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html?m=1
 Comments URL: https://news.ycombinator.com/item?id=27486706
-Points: 29
-# Comments: 2]]></summary>
+Points: 44
+# Comments: 6]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -65,23 +78,23 @@ Points: 29
         <updated>2021-06-12T19:01:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cs.ox.ac.uk/people/nicolas.wu/papers/URS.pdf
 Comments URL: https://news.ycombinator.com/item?id=27486694
-Points: 16
-# Comments: 0]]></summary>
+Points: 22
+# Comments: 2]]></summary>
         <author>
             <name>adamnemecek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volkswagen hack: 3M customers have had their information stolen]]></title>
-        <id>https://news.ycombinator.com/item?id=27486162</id>
-        <link href="https://lite.cnn.com/en/article/h_0b65d09a4e574a2abecbc56c6588a55d"/>
-        <updated>2021-06-12T17:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lite.cnn.com/en/article/h_0b65d09a4e574a2abecbc56c6588a55d
-Comments URL: https://news.ycombinator.com/item?id=27486162
-Points: 36
-# Comments: 8]]></summary>
+        <title type="html"><![CDATA[VW says data breach at vendor impacted 3.3M people in North America]]></title>
+        <id>https://news.ycombinator.com/item?id=27486372</id>
+        <link href="https://www.reuters.com/business/autos-transportation/vw-says-data-breach-vendor-impacted-33-million-people-north-america-2021-06-11/"/>
+        <updated>2021-06-12T18:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/autos-transportation/vw-says-data-breach-vendor-impacted-33-million-people-north-america-2021-06-11/
+Comments URL: https://news.ycombinator.com/item?id=27486372
+Points: 14
+# Comments: 2]]></summary>
         <author>
-            <name>LinuxBender</name>
+            <name>ibraheemdev</name>
         </author>
     </entry>
     <entry>
@@ -91,8 +104,8 @@ Points: 36
         <updated>2021-06-12T17:15:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time
 Comments URL: https://news.ycombinator.com/item?id=27485881
-Points: 48
-# Comments: 8]]></summary>
+Points: 57
+# Comments: 9]]></summary>
         <author>
             <name>jdmark</name>
         </author>
@@ -104,8 +117,8 @@ Points: 48
         <updated>2021-06-12T16:37:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.04026
 Comments URL: https://news.ycombinator.com/item?id=27485574
-Points: 111
-# Comments: 21]]></summary>
+Points: 133
+# Comments: 29]]></summary>
         <author>
             <name>tims457</name>
         </author>
@@ -117,8 +130,8 @@ Points: 111
         <updated>2021-06-12T16:22:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/12/1005690930/detectives-just-used-dna-to-solve-a-1956-double-homicide-they-may-have-made-hist
 Comments URL: https://news.ycombinator.com/item?id=27485475
-Points: 23
-# Comments: 22]]></summary>
+Points: 26
+# Comments: 30]]></summary>
         <author>
             <name>yskchu</name>
         </author>
@@ -130,8 +143,8 @@ Points: 23
         <updated>2021-06-12T15:54:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene
 Comments URL: https://news.ycombinator.com/item?id=27485288
-Points: 31
-# Comments: 24]]></summary>
+Points: 37
+# Comments: 31]]></summary>
         <author>
             <name>fybs</name>
         </author>
@@ -143,8 +156,8 @@ Points: 31
         <updated>2021-06-12T15:52:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ssir.org/articles/entry/burnout_from_an_organizational_perspective
 Comments URL: https://news.ycombinator.com/item?id=27485270
-Points: 109
-# Comments: 42]]></summary>
+Points: 124
+# Comments: 51]]></summary>
         <author>
             <name>rustoo</name>
         </author>
@@ -156,8 +169,8 @@ Points: 109
         <updated>2021-06-12T15:27:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/d3/d3/releases/tag/v7.0.0
 Comments URL: https://news.ycombinator.com/item?id=27485123
-Points: 129
-# Comments: 30]]></summary>
+Points: 148
+# Comments: 37]]></summary>
         <author>
             <name>cltsang</name>
         </author>
@@ -169,7 +182,7 @@ Points: 129
         <updated>2021-06-12T14:49:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://muratbuffalo.blogspot.com/2021/06/silent-data-corruptions-at-scale.html
 Comments URL: https://news.ycombinator.com/item?id=27484866
-Points: 47
+Points: 52
 # Comments: 9]]></summary>
         <author>
             <name>zdw</name>
@@ -182,23 +195,10 @@ Points: 47
         <updated>2021-06-12T13:17:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by
 Comments URL: https://news.ycombinator.com/item?id=27484288
-Points: 294
-# Comments: 184]]></summary>
+Points: 318
+# Comments: 195]]></summary>
         <author>
             <name>AndyMPatton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The SO_LINGER page, or: why is my TCP not reliable (2009)]]></title>
-        <id>https://news.ycombinator.com/item?id=27484100</id>
-        <link href="https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable"/>
-        <updated>2021-06-12T12:49:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable
-Comments URL: https://news.ycombinator.com/item?id=27484100
-Points: 52
-# Comments: 3]]></summary>
-        <author>
-            <name>bluestreak</name>
         </author>
     </entry>
     <entry>
@@ -208,23 +208,10 @@ Points: 52
         <updated>2021-06-12T12:20:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://newatlas.com/physics/charm-meson-particle-matter-antimatter/
 Comments URL: https://news.ycombinator.com/item?id=27483949
-Points: 116
-# Comments: 68]]></summary>
+Points: 126
+# Comments: 91]]></summary>
         <author>
             <name>birriel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etymology of the Word “Lord”]]></title>
-        <id>https://news.ycombinator.com/item?id=27483876</id>
-        <link href="https://www.etymonline.com/word/lord"/>
-        <updated>2021-06-12T12:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.etymonline.com/word/lord
-Comments URL: https://news.ycombinator.com/item?id=27483876
-Points: 54
-# Comments: 27]]></summary>
-        <author>
-            <name>jasim</name>
         </author>
     </entry>
     <entry>
@@ -234,8 +221,8 @@ Points: 54
         <updated>2021-06-12T10:39:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/
 Comments URL: https://news.ycombinator.com/item?id=27483442
-Points: 146
-# Comments: 34]]></summary>
+Points: 151
+# Comments: 38]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -247,8 +234,8 @@ Points: 146
         <updated>2021-06-12T10:34:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quora.com/How-does-a-fighter-jet-lock-onto-and-keep-track-of-an-enemy-aircraft-Can-an-aircraft-detect-that-it-has-been-locked-onto-or-is-it-just-a-convenient-plot-device-in-movies?share=1
 Comments URL: https://news.ycombinator.com/item?id=27483412
-Points: 314
-# Comments: 179]]></summary>
+Points: 348
+# Comments: 185]]></summary>
         <author>
             <name>ushakov</name>
         </author>
@@ -260,10 +247,23 @@ Points: 314
         <updated>2021-06-12T10:00:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://paulskallas.substack.com/p/refinement-culture
 Comments URL: https://news.ycombinator.com/item?id=27483207
-Points: 102
-# Comments: 34]]></summary>
+Points: 110
+# Comments: 36]]></summary>
         <author>
             <name>ptr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH quoting]]></title>
+        <id>https://news.ycombinator.com/item?id=27483077</id>
+        <link href="https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html"/>
+        <updated>2021-06-12T09:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html
+Comments URL: https://news.ycombinator.com/item?id=27483077
+Points: 208
+# Comments: 66]]></summary>
+        <author>
+            <name>pabs3</name>
         </author>
     </entry>
     <entry>
