@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T09:11:23.564Z</updated>
+    <updated>2021-06-12T10:12:44.309Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NymphCast – open-source Chromecast Alternative]]></title>
+        <id>https://news.ycombinator.com/item?id=27482699</id>
+        <link href="https://github.com/MayaPosch/NymphCast/"/>
+        <updated>2021-06-12T08:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/MayaPosch/NymphCast/
+Comments URL: https://news.ycombinator.com/item?id=27482699
+Points: 39
+# Comments: 2]]></summary>
+        <author>
+            <name>nedp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do You Really Need Redis? How to Get Away with Just PostgreSQL]]></title>
         <id>https://news.ycombinator.com/item?id=27482243</id>
@@ -13,8 +26,8 @@
         <updated>2021-06-12T06:57:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spin.atomicobject.com/2021/02/04/redis-postgresql/
 Comments URL: https://news.ycombinator.com/item?id=27482243
-Points: 127
-# Comments: 68]]></summary>
+Points: 178
+# Comments: 104]]></summary>
         <author>
             <name>hyzyla</name>
         </author>
@@ -26,10 +39,23 @@ Points: 127
         <updated>2021-06-12T06:21:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/
 Comments URL: https://news.ycombinator.com/item?id=27482067
-Points: 14
-# Comments: 0]]></summary>
+Points: 23
+# Comments: 9]]></summary>
         <author>
             <name>ZephyrBlu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dinomania (1993)]]></title>
+        <id>https://news.ycombinator.com/item?id=27481912</id>
+        <link href="https://www.nybooks.com/articles/1993/08/12/dinomania/"/>
+        <updated>2021-06-12T05:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nybooks.com/articles/1993/08/12/dinomania/
+Comments URL: https://news.ycombinator.com/item?id=27481912
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>howsilly</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +65,8 @@ Points: 14
         <updated>2021-06-12T05:33:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://glasstire.com/2020/07/11/a-mycological-foray-a-new-look-at-john-cage-and-his-mushroom-obsession/
 Comments URL: https://news.ycombinator.com/item?id=27481830
-Points: 18
-# Comments: 6]]></summary>
+Points: 20
+# Comments: 7]]></summary>
         <author>
             <name>hooboy</name>
         </author>
@@ -52,8 +78,8 @@ Points: 18
         <updated>2021-06-12T05:07:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://psychoslinux.gitlab.io/DOS/INDEX.HTM
 Comments URL: https://news.ycombinator.com/item?id=27481705
-Points: 50
-# Comments: 4]]></summary>
+Points: 59
+# Comments: 8]]></summary>
         <author>
             <name>marttt</name>
         </author>
@@ -65,8 +91,8 @@ Points: 50
         <updated>2021-06-12T04:11:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://landrop.app/
 Comments URL: https://news.ycombinator.com/item?id=27481465
-Points: 73
-# Comments: 23]]></summary>
+Points: 92
+# Comments: 32]]></summary>
         <author>
             <name>yvbbrjdr</name>
         </author>
@@ -78,8 +104,8 @@ Points: 73
         <updated>2021-06-12T03:34:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://codeberg.org/CoopCoding/Lesser-Known-Terminal-Editors
 Comments URL: https://news.ycombinator.com/item?id=27481277
-Points: 43
-# Comments: 27]]></summary>
+Points: 46
+# Comments: 30]]></summary>
         <author>
             <name>Fudgel</name>
         </author>
@@ -91,23 +117,10 @@ Points: 43
         <updated>2021-06-12T03:34:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87
 Comments URL: https://news.ycombinator.com/item?id=27481272
-Points: 63
-# Comments: 23]]></summary>
+Points: 73
+# Comments: 25]]></summary>
         <author>
             <name>stevekemp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BuzzFeed News Has Won Its First Pulitzer Prize]]></title>
-        <id>https://news.ycombinator.com/item?id=27480666</id>
-        <link href="https://www.buzzfeednews.com/article/davidmack/pulitzer-prize-buzzfeed-news-won-china-detention-camps"/>
-        <updated>2021-06-12T01:50:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.buzzfeednews.com/article/davidmack/pulitzer-prize-buzzfeed-news-won-china-detention-camps
-Comments URL: https://news.ycombinator.com/item?id=27480666
-Points: 95
-# Comments: 39]]></summary>
-        <author>
-            <name>eganist</name>
         </author>
     </entry>
     <entry>
@@ -117,8 +130,8 @@ Points: 95
         <updated>2021-06-12T01:23:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://increment.com/containers/containers-vs-vms/
 Comments URL: https://news.ycombinator.com/item?id=27480496
-Points: 97
-# Comments: 48]]></summary>
+Points: 110
+# Comments: 49]]></summary>
         <author>
             <name>vmarsy</name>
         </author>
@@ -130,7 +143,7 @@ Points: 97
         <updated>2021-06-12T01:16:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/
 Comments URL: https://news.ycombinator.com/item?id=27480448
-Points: 143
+Points: 152
 # Comments: 19]]></summary>
         <author>
             <name>salgernon</name>
@@ -143,7 +156,7 @@ Points: 143
         <updated>2021-06-11T23:39:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tedgioia.substack.com/p/the-man-who-put-out-fires-with-music
 Comments URL: https://news.ycombinator.com/item?id=27479840
-Points: 31
+Points: 32
 # Comments: 1]]></summary>
         <author>
             <name>newest</name>
@@ -156,8 +169,8 @@ Points: 31
         <updated>2021-06-11T23:35:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tandfonline.com/doi/full/10.1080/03086534.2017.1294256
 Comments URL: https://news.ycombinator.com/item?id=27479809
-Points: 98
-# Comments: 13]]></summary>
+Points: 103
+# Comments: 21]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -169,8 +182,8 @@ Points: 98
         <updated>2021-06-11T23:25:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073723
 Comments URL: https://news.ycombinator.com/item?id=27479731
-Points: 86
-# Comments: 50]]></summary>
+Points: 87
+# Comments: 54]]></summary>
         <author>
             <name>bretpiatt</name>
         </author>
@@ -182,8 +195,8 @@ Points: 86
         <updated>2021-06-11T23:22:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://capecodtimes.com/story/news/2021/06/11/humpback-whale-catches-michael-packard-lobster-driver-mouth-proviencetown-cape-cod/7653838002/
 Comments URL: https://news.ycombinator.com/item?id=27479712
-Points: 312
-# Comments: 97]]></summary>
+Points: 322
+# Comments: 102]]></summary>
         <author>
             <name>tpmx</name>
         </author>
@@ -205,8 +218,8 @@ Points: 312
         <updated>2021-06-11T22:45:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/briefing/2021/06/05/once-a-corporate-heavyweight-europe-is-now-an-also-ran-can-it-recover-its-footing
 Comments URL: https://news.ycombinator.com/item?id=27479428
-Points: 132
-# Comments: 416]]></summary>
+Points: 143
+# Comments: 490]]></summary>
         <author>
             <name>N1H1L</name>
         </author>
@@ -245,8 +258,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-11T21:21:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.geographyrealm.com/desertification-in-romania/
 Comments URL: https://news.ycombinator.com/item?id=27478660
-Points: 78
-# Comments: 15]]></summary>
+Points: 88
+# Comments: 21]]></summary>
         <author>
             <name>jxub</name>
         </author>
@@ -258,8 +271,8 @@ Points: 78
         <updated>2021-06-11T21:20:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education
 Comments URL: https://news.ycombinator.com/item?id=27478647
-Points: 261
-# Comments: 255]]></summary>
+Points: 267
+# Comments: 266]]></summary>
         <author>
             <name>hecubus</name>
         </author>
@@ -271,8 +284,8 @@ Points: 261
         <updated>2021-06-11T21:06:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/
 Comments URL: https://news.ycombinator.com/item?id=27478493
-Points: 247
-# Comments: 136]]></summary>
+Points: 249
+# Comments: 141]]></summary>
         <author>
             <name>unpredict</name>
         </author>
@@ -298,19 +311,6 @@ Points: 1
         <summary type="html"><![CDATA[Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Few people know that Google voluntarily removes some search results]]></title>
-        <id>https://news.ycombinator.com/item?id=27477797</id>
-        <link href="https://twitter.com/kashhill/status/1402986015107653647"/>
-        <updated>2021-06-11T20:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/kashhill/status/1402986015107653647
-Comments URL: https://news.ycombinator.com/item?id=27477797
-Points: 602
-# Comments: 243]]></summary>
-        <author>
-            <name>danso</name>
         </author>
     </entry>
     <entry>
