@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T18:13:30.617Z</updated>
+    <updated>2021-06-12T19:12:18.989Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Subatomic particle seen changing to antiparticle and back for the first time]]></title>
+        <id>https://news.ycombinator.com/item?id=27485881</id>
+        <link href="https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time"/>
+        <updated>2021-06-12T17:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time
+Comments URL: https://news.ycombinator.com/item?id=27485881
+Points: 8
+# Comments: 1]]></summary>
+        <author>
+            <name>jdmark</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Translating Quake 3 into Rust (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27485813</id>
@@ -13,8 +26,8 @@
         <updated>2021-06-12T17:07:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://immunant.com/blog/2020/01/quake3/
 Comments URL: https://news.ycombinator.com/item?id=27485813
-Points: 44
-# Comments: 1]]></summary>
+Points: 95
+# Comments: 10]]></summary>
         <author>
             <name>lukastyrychtr</name>
         </author>
@@ -45,8 +58,8 @@ Points: 1
         <updated>2021-06-12T16:38:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://about.fb.com/news/2021/06/may-2021-coordinated-inauthentic-behavior-report/
 Comments URL: https://news.ycombinator.com/item?id=27485580
-Points: 40
-# Comments: 23]]></summary>
+Points: 50
+# Comments: 30]]></summary>
         <author>
             <name>rainhacker</name>
         </author>
@@ -58,8 +71,8 @@ Points: 40
         <updated>2021-06-12T16:37:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.04026
 Comments URL: https://news.ycombinator.com/item?id=27485574
-Points: 38
-# Comments: 0]]></summary>
+Points: 66
+# Comments: 4]]></summary>
         <author>
             <name>tims457</name>
         </author>
@@ -71,8 +84,8 @@ Points: 38
         <updated>2021-06-12T16:22:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/12/1005690930/detectives-just-used-dna-to-solve-a-1956-double-homicide-they-may-have-made-hist
 Comments URL: https://news.ycombinator.com/item?id=27485475
-Points: 7
-# Comments: 3]]></summary>
+Points: 11
+# Comments: 4]]></summary>
         <author>
             <name>yskchu</name>
         </author>
@@ -84,8 +97,8 @@ Points: 7
         <updated>2021-06-12T15:54:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene
 Comments URL: https://news.ycombinator.com/item?id=27485288
-Points: 11
-# Comments: 0]]></summary>
+Points: 24
+# Comments: 4]]></summary>
         <author>
             <name>fybs</name>
         </author>
@@ -97,36 +110,23 @@ Points: 11
         <updated>2021-06-12T15:52:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ssir.org/articles/entry/burnout_from_an_organizational_perspective
 Comments URL: https://news.ycombinator.com/item?id=27485270
-Points: 51
-# Comments: 10]]></summary>
+Points: 73
+# Comments: 21]]></summary>
         <author>
             <name>rustoo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[D3 v7 Released]]></title>
+        <title type="html"><![CDATA[D3 7.0]]></title>
         <id>https://news.ycombinator.com/item?id=27485123</id>
         <link href="https://github.com/d3/d3/releases/tag/v7.0.0"/>
         <updated>2021-06-12T15:27:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/d3/d3/releases/tag/v7.0.0
 Comments URL: https://news.ycombinator.com/item?id=27485123
-Points: 80
-# Comments: 14]]></summary>
+Points: 101
+# Comments: 23]]></summary>
         <author>
             <name>cltsang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinearMouse – A minimal app to get rid of scrolling acceleration on macOS]]></title>
-        <id>https://news.ycombinator.com/item?id=27485051</id>
-        <link href="https://linearmouse.lujjjh.com/"/>
-        <updated>2021-06-12T15:16:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://linearmouse.lujjjh.com/
-Comments URL: https://news.ycombinator.com/item?id=27485051
-Points: 30
-# Comments: 19]]></summary>
-        <author>
-            <name>lujjjh</name>
         </author>
     </entry>
     <entry>
@@ -136,8 +136,8 @@ Points: 30
         <updated>2021-06-12T14:49:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://muratbuffalo.blogspot.com/2021/06/silent-data-corruptions-at-scale.html
 Comments URL: https://news.ycombinator.com/item?id=27484866
-Points: 26
-# Comments: 3]]></summary>
+Points: 32
+# Comments: 5]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -149,7 +149,7 @@ Points: 26
         <updated>2021-06-12T14:26:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://engineering.mixpanel.com/evolution-of-code-deployment-tools-at-mixpanel-210b99926cd4
 Comments URL: https://news.ycombinator.com/item?id=27484710
-Points: 36
+Points: 37
 # Comments: 10]]></summary>
         <author>
             <name>i0exception</name>
@@ -162,21 +162,21 @@ Points: 36
         <updated>2021-06-12T14:25:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://narative.co/articles/the-art-of-frontend-engineering
 Comments URL: https://news.ycombinator.com/item?id=27484706
-Points: 33
-# Comments: 13]]></summary>
+Points: 38
+# Comments: 22]]></summary>
         <author>
             <name>kintalo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Win at Risk Every Time by Using Systems Thinking]]></title>
+        <title type="html"><![CDATA[Win at Risk by using systems thinking]]></title>
         <id>https://news.ycombinator.com/item?id=27484288</id>
         <link href="https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by"/>
         <updated>2021-06-12T13:17:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by
 Comments URL: https://news.ycombinator.com/item?id=27484288
-Points: 222
-# Comments: 126]]></summary>
+Points: 243
+# Comments: 151]]></summary>
         <author>
             <name>AndyMPatton</name>
         </author>
@@ -188,8 +188,8 @@ Points: 222
         <updated>2021-06-12T12:49:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable
 Comments URL: https://news.ycombinator.com/item?id=27484100
-Points: 33
-# Comments: 1]]></summary>
+Points: 42
+# Comments: 2]]></summary>
         <author>
             <name>bluestreak</name>
         </author>
@@ -201,8 +201,8 @@ Points: 33
         <updated>2021-06-12T12:20:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://newatlas.com/physics/charm-meson-particle-matter-antimatter/
 Comments URL: https://news.ycombinator.com/item?id=27483949
-Points: 39
-# Comments: 16]]></summary>
+Points: 61
+# Comments: 20]]></summary>
         <author>
             <name>birriel</name>
         </author>
@@ -214,8 +214,8 @@ Points: 39
         <updated>2021-06-12T12:05:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.etymonline.com/word/lord
 Comments URL: https://news.ycombinator.com/item?id=27483876
-Points: 37
-# Comments: 8]]></summary>
+Points: 45
+# Comments: 14]]></summary>
         <author>
             <name>jasim</name>
         </author>
@@ -227,8 +227,8 @@ Points: 37
         <updated>2021-06-12T11:52:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ssrn.com/abstract=3820449
 Comments URL: https://news.ycombinator.com/item?id=27483833
-Points: 16
-# Comments: 5]]></summary>
+Points: 18
+# Comments: 6]]></summary>
         <author>
             <name>Naa4</name>
         </author>
@@ -240,8 +240,8 @@ Points: 16
         <updated>2021-06-12T10:39:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/
 Comments URL: https://news.ycombinator.com/item?id=27483442
-Points: 117
-# Comments: 26]]></summary>
+Points: 128
+# Comments: 28]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -253,8 +253,8 @@ Points: 117
         <updated>2021-06-12T10:34:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272
 Comments URL: https://news.ycombinator.com/item?id=27483412
-Points: 246
-# Comments: 140]]></summary>
+Points: 261
+# Comments: 153]]></summary>
         <author>
             <name>ushakov</name>
         </author>
@@ -266,8 +266,8 @@ Points: 246
         <updated>2021-06-12T10:00:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://paulskallas.substack.com/p/refinement-culture
 Comments URL: https://news.ycombinator.com/item?id=27483207
-Points: 92
-# Comments: 28]]></summary>
+Points: 94
+# Comments: 29]]></summary>
         <author>
             <name>ptr</name>
         </author>
