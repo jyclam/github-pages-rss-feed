@@ -2,21 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T08:12:24.437Z</updated>
+    <updated>2021-06-12T09:11:23.564Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Do you need Redis? how to get away with just Postgres]]></title>
+        <title type="html"><![CDATA[Do You Really Need Redis? How to Get Away with Just PostgreSQL]]></title>
         <id>https://news.ycombinator.com/item?id=27482243</id>
         <link href="https://spin.atomicobject.com/2021/02/04/redis-postgresql/"/>
         <updated>2021-06-12T06:57:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spin.atomicobject.com/2021/02/04/redis-postgresql/
 Comments URL: https://news.ycombinator.com/item?id=27482243
-Points: 76
-# Comments: 32]]></summary>
+Points: 127
+# Comments: 68]]></summary>
         <author>
             <name>hyzyla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware of Tight Feedback Loops (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27482067</id>
+        <link href="https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/"/>
+        <updated>2021-06-12T06:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/
+Comments URL: https://news.ycombinator.com/item?id=27482067
+Points: 14
+# Comments: 0]]></summary>
+        <author>
+            <name>ZephyrBlu</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +39,8 @@ Points: 76
         <updated>2021-06-12T05:33:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://glasstire.com/2020/07/11/a-mycological-foray-a-new-look-at-john-cage-and-his-mushroom-obsession/
 Comments URL: https://news.ycombinator.com/item?id=27481830
-Points: 13
-# Comments: 4]]></summary>
+Points: 18
+# Comments: 6]]></summary>
         <author>
             <name>hooboy</name>
         </author>
@@ -39,8 +52,8 @@ Points: 13
         <updated>2021-06-12T05:07:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://psychoslinux.gitlab.io/DOS/INDEX.HTM
 Comments URL: https://news.ycombinator.com/item?id=27481705
-Points: 33
-# Comments: 1]]></summary>
+Points: 50
+# Comments: 4]]></summary>
         <author>
             <name>marttt</name>
         </author>
@@ -52,8 +65,8 @@ Points: 33
         <updated>2021-06-12T04:11:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://landrop.app/
 Comments URL: https://news.ycombinator.com/item?id=27481465
-Points: 54
-# Comments: 20]]></summary>
+Points: 73
+# Comments: 23]]></summary>
         <author>
             <name>yvbbrjdr</name>
         </author>
@@ -65,8 +78,8 @@ Points: 54
         <updated>2021-06-12T03:34:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://codeberg.org/CoopCoding/Lesser-Known-Terminal-Editors
 Comments URL: https://news.ycombinator.com/item?id=27481277
-Points: 39
-# Comments: 25]]></summary>
+Points: 43
+# Comments: 27]]></summary>
         <author>
             <name>Fudgel</name>
         </author>
@@ -78,8 +91,8 @@ Points: 39
         <updated>2021-06-12T03:34:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87
 Comments URL: https://news.ycombinator.com/item?id=27481272
-Points: 58
-# Comments: 20]]></summary>
+Points: 63
+# Comments: 23]]></summary>
         <author>
             <name>stevekemp</name>
         </author>
@@ -91,21 +104,21 @@ Points: 58
         <updated>2021-06-12T01:50:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.buzzfeednews.com/article/davidmack/pulitzer-prize-buzzfeed-news-won-china-detention-camps
 Comments URL: https://news.ycombinator.com/item?id=27480666
-Points: 86
-# Comments: 40]]></summary>
+Points: 95
+# Comments: 39]]></summary>
         <author>
             <name>eganist</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Containers Are Tents]]></title>
+        <title type="html"><![CDATA[Containers are tents]]></title>
         <id>https://news.ycombinator.com/item?id=27480496</id>
         <link href="https://increment.com/containers/containers-vs-vms/"/>
         <updated>2021-06-12T01:23:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://increment.com/containers/containers-vs-vms/
 Comments URL: https://news.ycombinator.com/item?id=27480496
-Points: 90
-# Comments: 43]]></summary>
+Points: 97
+# Comments: 48]]></summary>
         <author>
             <name>vmarsy</name>
         </author>
@@ -117,8 +130,8 @@ Points: 90
         <updated>2021-06-12T01:16:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/
 Comments URL: https://news.ycombinator.com/item?id=27480448
-Points: 133
-# Comments: 18]]></summary>
+Points: 143
+# Comments: 19]]></summary>
         <author>
             <name>salgernon</name>
         </author>
@@ -130,7 +143,7 @@ Points: 133
         <updated>2021-06-11T23:39:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tedgioia.substack.com/p/the-man-who-put-out-fires-with-music
 Comments URL: https://news.ycombinator.com/item?id=27479840
-Points: 30
+Points: 31
 # Comments: 1]]></summary>
         <author>
             <name>newest</name>
@@ -143,21 +156,21 @@ Points: 30
         <updated>2021-06-11T23:35:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tandfonline.com/doi/full/10.1080/03086534.2017.1294256
 Comments URL: https://news.ycombinator.com/item?id=27479809
-Points: 89
-# Comments: 7]]></summary>
+Points: 98
+# Comments: 13]]></summary>
         <author>
             <name>hhs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Death by Pokémon Go: the economic and human cost of using apps while driving]]></title>
+        <title type="html"><![CDATA[Death by Pokémon Go: The costs of using apps while driving (2017)]]></title>
         <id>https://news.ycombinator.com/item?id=27479731</id>
         <link href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073723"/>
         <updated>2021-06-11T23:25:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073723
 Comments URL: https://news.ycombinator.com/item?id=27479731
-Points: 84
-# Comments: 45]]></summary>
+Points: 86
+# Comments: 50]]></summary>
         <author>
             <name>bretpiatt</name>
         </author>
@@ -169,23 +182,10 @@ Points: 84
         <updated>2021-06-11T23:22:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://capecodtimes.com/story/news/2021/06/11/humpback-whale-catches-michael-packard-lobster-driver-mouth-proviencetown-cape-cod/7653838002/
 Comments URL: https://news.ycombinator.com/item?id=27479712
-Points: 296
-# Comments: 90]]></summary>
+Points: 312
+# Comments: 97]]></summary>
         <author>
             <name>tpmx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything but the Stench]]></title>
-        <id>https://news.ycombinator.com/item?id=27479701</id>
-        <link href="https://www.laphamsquarterly.org/roundtable/everything-stench"/>
-        <updated>2021-06-11T23:21:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.laphamsquarterly.org/roundtable/everything-stench
-Comments URL: https://news.ycombinator.com/item?id=27479701
-Points: 18
-# Comments: 1]]></summary>
-        <author>
-            <name>the-archivist</name>
         </author>
     </entry>
     <entry>
@@ -205,8 +205,8 @@ Points: 18
         <updated>2021-06-11T22:45:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/briefing/2021/06/05/once-a-corporate-heavyweight-europe-is-now-an-also-ran-can-it-recover-its-footing
 Comments URL: https://news.ycombinator.com/item?id=27479428
-Points: 121
-# Comments: 340]]></summary>
+Points: 132
+# Comments: 416]]></summary>
         <author>
             <name>N1H1L</name>
         </author>
@@ -239,14 +239,14 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Desertification in Romania]]></title>
+        <title type="html"><![CDATA[Desertification in Romania (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27478660</id>
         <link href="https://www.geographyrealm.com/desertification-in-romania/"/>
         <updated>2021-06-11T21:21:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.geographyrealm.com/desertification-in-romania/
 Comments URL: https://news.ycombinator.com/item?id=27478660
-Points: 68
-# Comments: 14]]></summary>
+Points: 78
+# Comments: 15]]></summary>
         <author>
             <name>jxub</name>
         </author>
@@ -258,8 +258,8 @@ Points: 68
         <updated>2021-06-11T21:20:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education
 Comments URL: https://news.ycombinator.com/item?id=27478647
-Points: 249
-# Comments: 247]]></summary>
+Points: 261
+# Comments: 255]]></summary>
         <author>
             <name>hecubus</name>
         </author>
@@ -271,8 +271,8 @@ Points: 249
         <updated>2021-06-11T21:06:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/
 Comments URL: https://news.ycombinator.com/item?id=27478493
-Points: 242
-# Comments: 133]]></summary>
+Points: 247
+# Comments: 136]]></summary>
         <author>
             <name>unpredict</name>
         </author>
@@ -307,8 +307,8 @@ Points: 1
         <updated>2021-06-11T20:05:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/kashhill/status/1402986015107653647
 Comments URL: https://news.ycombinator.com/item?id=27477797
-Points: 585
-# Comments: 239]]></summary>
+Points: 602
+# Comments: 243]]></summary>
         <author>
             <name>danso</name>
         </author>
