@@ -2,21 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T16:20:02.500Z</updated>
+    <updated>2021-06-13T17:25:56.657Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[The six-year-old iPhone 6S will get iOS 15]]></title>
-        <id>https://news.ycombinator.com/item?id=27493054</id>
-        <link href="https://www.theverge.com/2021/6/8/22523351/ios-15-iphone-6s-plus-se-compatibility"/>
-        <updated>2021-06-13T14:44:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/8/22523351/ios-15-iphone-6s-plus-se-compatibility
-Comments URL: https://news.ycombinator.com/item?id=27493054
-Points: 35
-# Comments: 14]]></summary>
+        <title type="html"><![CDATA[The Muse (YC W12) Is Hiring a Senior Site Reliability Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=27494167</id>
+        <link href="https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer"/>
+        <updated>2021-06-13T17:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.themuse.com/jobs/themuse/senior-site-reliability-engineer
+Comments URL: https://news.ycombinator.com/item?id=27494167
+Points: 1
+# Comments: 0]]></summary>
         <author>
-            <name>defqon</name>
+            <name>KMinshew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $149 Smartphone That Could Bring the Linux Mobile Ecosystem to Life]]></title>
+        <id>https://news.ycombinator.com/item?id=27494006</id>
+        <link href="https://www.vice.com/en/article/v7e77y/the-dollar149-smartphone-that-could-bring-the-linux-mobile-ecosystem-to-life"/>
+        <updated>2021-06-13T16:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/v7e77y/the-dollar149-smartphone-that-could-bring-the-linux-mobile-ecosystem-to-life
+Comments URL: https://news.ycombinator.com/item?id=27494006
+Points: 14
+# Comments: 4]]></summary>
+        <author>
+            <name>ollieparanoid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget Going Back to the Office–People Are Just Quitting Instead]]></title>
+        <id>https://news.ycombinator.com/item?id=27493945</id>
+        <link href="https://www.wsj.com/articles/forget-going-back-to-the-officepeople-are-just-quitting-instead-11623576602"/>
+        <updated>2021-06-13T16:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/forget-going-back-to-the-officepeople-are-just-quitting-instead-11623576602
+Comments URL: https://news.ycombinator.com/item?id=27493945
+Points: 40
+# Comments: 11]]></summary>
+        <author>
+            <name>sologoub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House Lawmakers Release Anti-Monopoly Agenda for “A Stronger Online Economy”]]></title>
+        <id>https://news.ycombinator.com/item?id=27493853</id>
+        <link href="https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity"/>
+        <updated>2021-06-13T16:21:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity
+Comments URL: https://news.ycombinator.com/item?id=27493853
+Points: 34
+# Comments: 21]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Future of Cinnamon in Debian]]></title>
+        <id>https://news.ycombinator.com/item?id=27493651</id>
+        <link href="https://www.preining.info/blog/2021/06/future-of-cinnamon-in-debian/"/>
+        <updated>2021-06-13T15:58:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.preining.info/blog/2021/06/future-of-cinnamon-in-debian/
+Comments URL: https://news.ycombinator.com/item?id=27493651
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +78,8 @@ Points: 35
         <updated>2021-06-13T13:54:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bennettftomlin.com/2021/06/12/why-i-have-zero-faith-in-crypto-venture-capitalists/
 Comments URL: https://news.ycombinator.com/item?id=27492616
-Points: 145
-# Comments: 67]]></summary>
+Points: 171
+# Comments: 115]]></summary>
         <author>
             <name>shoto_io</name>
         </author>
@@ -39,8 +91,8 @@ Points: 145
         <updated>2021-06-13T13:51:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51
 Comments URL: https://news.ycombinator.com/item?id=27492594
-Points: 52
-# Comments: 14]]></summary>
+Points: 66
+# Comments: 24]]></summary>
         <author>
             <name>gregdoesit</name>
         </author>
@@ -52,8 +104,8 @@ Points: 52
         <updated>2021-06-13T13:21:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows
 Comments URL: https://news.ycombinator.com/item?id=27492352
-Points: 64
-# Comments: 35]]></summary>
+Points: 89
+# Comments: 54]]></summary>
         <author>
             <name>looperhacks</name>
         </author>
@@ -65,8 +117,8 @@ Points: 64
         <updated>2021-06-13T13:08:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/
 Comments URL: https://news.ycombinator.com/item?id=27492268
-Points: 167
-# Comments: 71]]></summary>
+Points: 207
+# Comments: 91]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -89,8 +141,8 @@ Thanks for reading!
 [1] https://bengtan.com/interesting-things
 [2] https://bengtan.com/newsletter/sample (redirects to the latest public edition)
 Comments URL: https://news.ycombinator.com/item?id=27492255
-Points: 67
-# Comments: 16]]></summary>
+Points: 85
+# Comments: 18]]></summary>
         <author>
             <name>bengtan</name>
         </author>
@@ -102,23 +154,10 @@ Points: 67
         <updated>2021-06-13T13:05:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tool.graphics/suprematism
 Comments URL: https://news.ycombinator.com/item?id=27492244
-Points: 35
-# Comments: 12]]></summary>
+Points: 37
+# Comments: 20]]></summary>
         <author>
             <name>andronov04</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is lumber so expensive?]]></title>
-        <id>https://news.ycombinator.com/item?id=27492165</id>
-        <link href="https://thehustle.co/why-is-lumber-so-expensive-right-now/"/>
-        <updated>2021-06-13T12:53:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thehustle.co/why-is-lumber-so-expensive-right-now/
-Comments URL: https://news.ycombinator.com/item?id=27492165
-Points: 17
-# Comments: 16]]></summary>
-        <author>
-            <name>Anon84</name>
         </author>
     </entry>
     <entry>
@@ -128,8 +167,8 @@ Points: 17
         <updated>2021-06-13T12:46:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chestergrant.com/never-eat-alone-by-keith-ferrazzi-with-tahl-raz
 Comments URL: https://news.ycombinator.com/item?id=27492119
-Points: 32
-# Comments: 12]]></summary>
+Points: 43
+# Comments: 33]]></summary>
         <author>
             <name>chegra</name>
         </author>
@@ -141,36 +180,10 @@ Points: 32
         <updated>2021-06-13T12:28:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nedbatchelder.com/blog/202106/goodbye_freenode.html
 Comments URL: https://news.ycombinator.com/item?id=27491967
-Points: 141
-# Comments: 52]]></summary>
+Points: 159
+# Comments: 62]]></summary>
         <author>
             <name>Foxboron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prometheus, but Bigger]]></title>
-        <id>https://news.ycombinator.com/item?id=27491955</id>
-        <link href="https://luizrojo.medium.com/prometheus-but-bigger-b678d8d6b29d"/>
-        <updated>2021-06-13T12:25:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://luizrojo.medium.com/prometheus-but-bigger-b678d8d6b29d
-Comments URL: https://news.ycombinator.com/item?id=27491955
-Points: 11
-# Comments: 0]]></summary>
-        <author>
-            <name>kiyanwang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clerky (YC S11) Is Hiring Senior Software Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27491805</id>
-        <link href="https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&amp;lever-source%5B%5D=HN"/>
-        <updated>2021-06-13T12:01:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN
-Comments URL: https://news.ycombinator.com/item?id=27491805
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>swampthing</name>
         </author>
     </entry>
     <entry>
@@ -180,23 +193,23 @@ Points: 1
         <updated>2021-06-13T10:58:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/
 Comments URL: https://news.ycombinator.com/item?id=27491537
-Points: 222
-# Comments: 230]]></summary>
+Points: 263
+# Comments: 255]]></summary>
         <author>
             <name>sanmak</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust 1.x seems to not always be backward compatible in practice]]></title>
-        <id>https://news.ycombinator.com/item?id=27491512</id>
-        <link href="https://utcc.utoronto.ca/~cks/space/blog/programming/Rust1BackwardIncompatibility"/>
-        <updated>2021-06-13T10:52:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/Rust1BackwardIncompatibility
-Comments URL: https://news.ycombinator.com/item?id=27491512
-Points: 101
-# Comments: 89]]></summary>
+        <title type="html"><![CDATA[Infosec Core Competencies]]></title>
+        <id>https://news.ycombinator.com/item?id=27491443</id>
+        <link href="https://www.netmeister.org/blog/infosec-competencies.html"/>
+        <updated>2021-06-13T10:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.netmeister.org/blog/infosec-competencies.html
+Comments URL: https://news.ycombinator.com/item?id=27491443
+Points: 30
+# Comments: 1]]></summary>
         <author>
-            <name>sdht0</name>
+            <name>kiyanwang</name>
         </author>
     </entry>
     <entry>
@@ -206,8 +219,8 @@ Points: 101
         <updated>2021-06-13T10:06:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eagain.net/articles/git-for-computer-scientists/
 Comments URL: https://news.ycombinator.com/item?id=27491286
-Points: 118
-# Comments: 20]]></summary>
+Points: 135
+# Comments: 24]]></summary>
         <author>
             <name>thanato0s</name>
         </author>
@@ -219,34 +232,21 @@ Points: 118
         <updated>2021-06-13T09:42:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html
 Comments URL: https://news.ycombinator.com/item?id=27491190
-Points: 46
-# Comments: 61]]></summary>
+Points: 55
+# Comments: 73]]></summary>
         <author>
             <name>ecliptik</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So You Want to Write a Book?]]></title>
-        <id>https://news.ycombinator.com/item?id=27490988</id>
-        <link href="https://press.ed2592.xyz/author/chapter-1/"/>
-        <updated>2021-06-13T09:03:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://press.ed2592.xyz/author/chapter-1/
-Comments URL: https://news.ycombinator.com/item?id=27490988
-Points: 44
-# Comments: 17]]></summary>
-        <author>
-            <name>ed2592</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I want to learn D3. I don’t want to learn Observable. Is that OK?]]></title>
+        <title type="html"><![CDATA[I want to learn D3. I don’t want to learn Observable. Is that ok?]]></title>
         <id>https://news.ycombinator.com/item?id=27490892</id>
         <link href="https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2"/>
         <updated>2021-06-13T08:39:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2
 Comments URL: https://news.ycombinator.com/item?id=27490892
-Points: 91
-# Comments: 38]]></summary>
+Points: 102
+# Comments: 45]]></summary>
         <author>
             <name>throwawaybutwhy</name>
         </author>
@@ -258,8 +258,8 @@ Points: 91
         <updated>2021-06-13T08:38:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://smallstep.com/blog/command-line-secrets/
 Comments URL: https://news.ycombinator.com/item?id=27490885
-Points: 185
-# Comments: 47]]></summary>
+Points: 209
+# Comments: 52]]></summary>
         <author>
             <name>tempodox</name>
         </author>
@@ -271,8 +271,8 @@ Points: 185
         <updated>2021-06-13T08:11:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alex.flounder.online/gemlog/2021-01-08-useless.gmi
 Comments URL: https://news.ycombinator.com/item?id=27490769
-Points: 136
-# Comments: 113]]></summary>
+Points: 150
+# Comments: 120]]></summary>
         <author>
             <name>Melchizedek</name>
         </author>
