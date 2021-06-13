@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T00:39:46.866Z</updated>
+    <updated>2021-06-13T02:00:47.459Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,23 +13,10 @@
         <updated>2021-06-13T00:03:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/dtinth/comic-mono-font
 Comments URL: https://news.ycombinator.com/item?id=27488524
-Points: 5
-# Comments: 0]]></summary>
+Points: 50
+# Comments: 17]]></summary>
         <author>
             <name>dTal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idiomatic Rust? Implementing binary search (part 2)]]></title>
-        <id>https://news.ycombinator.com/item?id=27488200</id>
-        <link href="https://shane-o.dev/blog/binary-search-rust-part-2"/>
-        <updated>2021-06-12T23:09:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://shane-o.dev/blog/binary-search-rust-part-2
-Comments URL: https://news.ycombinator.com/item?id=27488200
-Points: 4
-# Comments: 0]]></summary>
-        <author>
-            <name>lukastyrychtr</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +26,8 @@ Points: 4
         <updated>2021-06-12T22:33:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Andrew_Taylor/status/1403709080737390592
 Comments URL: https://news.ycombinator.com/item?id=27487958
-Points: 70
-# Comments: 12]]></summary>
+Points: 122
+# Comments: 23]]></summary>
         <author>
             <name>fanf2</name>
         </author>
@@ -52,8 +39,8 @@ Points: 70
         <updated>2021-06-12T21:11:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html
 Comments URL: https://news.ycombinator.com/item?id=27487465
-Points: 20
-# Comments: 1]]></summary>
+Points: 40
+# Comments: 5]]></summary>
         <author>
             <name>steveklabnik</name>
         </author>
@@ -78,8 +65,8 @@ Points: 1
         <updated>2021-06-12T20:08:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://play.elevatorsaga.com/
 Comments URL: https://news.ycombinator.com/item?id=27487111
-Points: 96
-# Comments: 36]]></summary>
+Points: 130
+# Comments: 51]]></summary>
         <author>
             <name>warpech</name>
         </author>
@@ -87,12 +74,12 @@ Points: 96
     <entry>
         <title type="html"><![CDATA[Python is 1.3x faster by just adjusting some compiling options for libpython]]></title>
         <id>https://news.ycombinator.com/item?id=27487028</id>
-        <link href="https://www.facebook.com/dan.colascione/posts/10107358290728348"/>
+        <link href="https://bugs.python.org/issue38980?fbclid=IwAR0cyfahpBywNzbqLCpcfwatOaU6W8UQp7LgVu8KZ8hDc-wKLjLE7wjOs7g"/>
         <updated>2021-06-12T19:52:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.facebook.com/dan.colascione/posts/10107358290728348
+        <summary type="html"><![CDATA[Article URL: https://bugs.python.org/issue38980?fbclid=IwAR0cyfahpBywNzbqLCpcfwatOaU6W8UQp7LgVu8KZ8hDc-wKLjLE7wjOs7g
 Comments URL: https://news.ycombinator.com/item?id=27487028
-Points: 124
-# Comments: 62]]></summary>
+Points: 151
+# Comments: 71]]></summary>
         <author>
             <name>chx</name>
         </author>
@@ -104,8 +91,8 @@ Points: 124
         <updated>2021-06-12T19:19:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html
 Comments URL: https://news.ycombinator.com/item?id=27486820
-Points: 43
-# Comments: 2]]></summary>
+Points: 46
+# Comments: 4]]></summary>
         <author>
             <name>rebeccaskinner</name>
         </author>
@@ -117,7 +104,7 @@ Points: 43
         <updated>2021-06-12T19:02:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html?m=1
 Comments URL: https://news.ycombinator.com/item?id=27486706
-Points: 54
+Points: 59
 # Comments: 14]]></summary>
         <author>
             <name>pcr910303</name>
@@ -130,7 +117,7 @@ Points: 54
         <updated>2021-06-12T19:01:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cs.ox.ac.uk/people/nicolas.wu/papers/URS.pdf
 Comments URL: https://news.ycombinator.com/item?id=27486694
-Points: 28
+Points: 31
 # Comments: 4]]></summary>
         <author>
             <name>adamnemecek</name>
@@ -143,8 +130,8 @@ Points: 28
         <updated>2021-06-12T18:15:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/autos-transportation/vw-says-data-breach-vendor-impacted-33-million-people-north-america-2021-06-11/
 Comments URL: https://news.ycombinator.com/item?id=27486372
-Points: 31
-# Comments: 10]]></summary>
+Points: 39
+# Comments: 14]]></summary>
         <author>
             <name>ibraheemdev</name>
         </author>
@@ -156,8 +143,8 @@ Points: 31
         <updated>2021-06-12T17:15:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time
 Comments URL: https://news.ycombinator.com/item?id=27485881
-Points: 75
-# Comments: 11]]></summary>
+Points: 91
+# Comments: 13]]></summary>
         <author>
             <name>jdmark</name>
         </author>
@@ -169,8 +156,8 @@ Points: 75
         <updated>2021-06-12T16:37:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.04026
 Comments URL: https://news.ycombinator.com/item?id=27485574
-Points: 168
-# Comments: 40]]></summary>
+Points: 189
+# Comments: 42]]></summary>
         <author>
             <name>tims457</name>
         </author>
@@ -182,21 +169,21 @@ Points: 168
         <updated>2021-06-12T16:22:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/12/1005690930/detectives-just-used-dna-to-solve-a-1956-double-homicide-they-may-have-made-hist
 Comments URL: https://news.ycombinator.com/item?id=27485475
-Points: 41
-# Comments: 38]]></summary>
+Points: 48
+# Comments: 41]]></summary>
         <author>
             <name>yskchu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists Find Second ‘Short Sleep’ Gene (2019)]]></title>
+        <title type="html"><![CDATA[Scientists find second ‘short sleep’ gene (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=27485288</id>
         <link href="https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene"/>
         <updated>2021-06-12T15:54:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene
 Comments URL: https://news.ycombinator.com/item?id=27485288
-Points: 46
-# Comments: 36]]></summary>
+Points: 47
+# Comments: 43]]></summary>
         <author>
             <name>fybs</name>
         </author>
@@ -208,8 +195,8 @@ Points: 46
         <updated>2021-06-12T15:52:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ssir.org/articles/entry/burnout_from_an_organizational_perspective
 Comments URL: https://news.ycombinator.com/item?id=27485270
-Points: 146
-# Comments: 66]]></summary>
+Points: 152
+# Comments: 72]]></summary>
         <author>
             <name>rustoo</name>
         </author>
@@ -221,8 +208,8 @@ Points: 146
         <updated>2021-06-12T15:16:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://linearmouse.lujjjh.com/
 Comments URL: https://news.ycombinator.com/item?id=27485051
-Points: 41
-# Comments: 53]]></summary>
+Points: 44
+# Comments: 60]]></summary>
         <author>
             <name>lujjjh</name>
         </author>
@@ -234,8 +221,8 @@ Points: 41
         <updated>2021-06-12T13:17:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by
 Comments URL: https://news.ycombinator.com/item?id=27484288
-Points: 341
-# Comments: 209]]></summary>
+Points: 353
+# Comments: 211]]></summary>
         <author>
             <name>AndyMPatton</name>
         </author>
@@ -247,8 +234,8 @@ Points: 341
         <updated>2021-06-12T12:20:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://newatlas.com/physics/charm-meson-particle-matter-antimatter/
 Comments URL: https://news.ycombinator.com/item?id=27483949
-Points: 141
-# Comments: 111]]></summary>
+Points: 160
+# Comments: 117]]></summary>
         <author>
             <name>birriel</name>
         </author>
@@ -260,10 +247,23 @@ Points: 141
         <updated>2021-06-12T10:39:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/
 Comments URL: https://news.ycombinator.com/item?id=27483442
-Points: 158
+Points: 162
 # Comments: 44]]></summary>
         <author>
             <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How fighter jets lock on, and how the targets know (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=27483412</id>
+        <link href="https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272"/>
+        <updated>2021-06-12T10:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272
+Comments URL: https://news.ycombinator.com/item?id=27483412
+Points: 426
+# Comments: 207]]></summary>
+        <author>
+            <name>ushakov</name>
         </author>
     </entry>
     <entry>
