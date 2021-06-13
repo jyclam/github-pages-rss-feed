@@ -2,37 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T19:11:48.284Z</updated>
+    <updated>2021-06-13T20:11:27.793Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Netanyahu is out as new Israeli government survives confidence vote]]></title>
-        <id>https://news.ycombinator.com/item?id=27494894</id>
-        <link href="https://www.axios.com/netanyahu-out-israel-government-vote-bennett-b1da96f5-0e4f-47f4-863e-7dcf504b7558.html"/>
-        <updated>2021-06-13T18:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.axios.com/netanyahu-out-israel-government-vote-bennett-b1da96f5-0e4f-47f4-863e-7dcf504b7558.html
-Comments URL: https://news.ycombinator.com/item?id=27494894
-Points: 32
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[What the Rich Don’t Want to Admit About the Poor]]></title>
+        <id>https://news.ycombinator.com/item?id=27495707</id>
+        <link href="https://www.nytimes.com/2021/06/13/opinion/stimulus-unemployment-republicans-poverty.html"/>
+        <updated>2021-06-13T19:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/13/opinion/stimulus-unemployment-republicans-poverty.html
+Comments URL: https://news.ycombinator.com/item?id=27495707
+Points: 4
+# Comments: 1]]></summary>
         <author>
-            <name>catchmeifyoucan</name>
+            <name>ciconia</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Are Certifications Useful in Infosec?]]></title>
-        <id>https://news.ycombinator.com/item?id=27494450</id>
-        <link href="https://news.ycombinator.com/item?id=27494450"/>
-        <updated>2021-06-13T17:33:57.000Z</updated>
-        <summary type="html"><![CDATA[So i get that infosec is a very broad term, which could mean anything from more business focused roles that focus on ensuring compliance to things like managing network security and appliances, to actively developing and researching exploits.
-There are a large number of available certifications in the area. CISSP, Sec+, CCNA Security, CEH are just some I can think of off the top of my head, but I've seen many more.
-There always seems to be a mixed response on whether they're useful for entering the industry. Some find them to be bullshit, akin to the programming certs out there. Others seem to think they're useful at least for landing roles in the industry. The most common I've seen requested on job listings has been Sec+, mostly in jobs requiring TS clearance.
-Do you believe one narrative or the other. Do you think that these credentials hold more value in certain areas of the field than others?
-Comments URL: https://news.ycombinator.com/item?id=27494450
-Points: 20
-# Comments: 32]]></summary>
+        <title type="html"><![CDATA[Freenode has blocked all IRCCloud users]]></title>
+        <id>https://news.ycombinator.com/item?id=27495358</id>
+        <link href="https://twitter.com/IRCCloud/status/1404153550159159298"/>
+        <updated>2021-06-13T19:11:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/IRCCloud/status/1404153550159159298
+Comments URL: https://news.ycombinator.com/item?id=27495358
+Points: 95
+# Comments: 30]]></summary>
         <author>
-            <name>the_only_law</name>
+            <name>kemayo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Also leaving Freenode: FSF, GNU, plus Linux and Python support channels]]></title>
+        <id>https://news.ycombinator.com/item?id=27495085</id>
+        <link href="https://tech.slashdot.org/story/21/06/13/184251/also-leaving-freenode-fsf-gnu-plus-linux-and-python-support-channels"/>
+        <updated>2021-06-13T18:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tech.slashdot.org/story/21/06/13/184251/also-leaving-freenode-fsf-gnu-plus-linux-and-python-support-channels
+Comments URL: https://news.ycombinator.com/item?id=27495085
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>MilnerRoute</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mounting Cost of Stale Ad Blocking Rules (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=27494851</id>
+        <link href="https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/"/>
+        <updated>2021-06-13T18:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/
+Comments URL: https://news.ycombinator.com/item?id=27494851
+Points: 8
+# Comments: 3]]></summary>
+        <author>
+            <name>fossislife</name>
         </author>
     </entry>
     <entry>
@@ -42,8 +65,8 @@ Points: 20
         <updated>2021-06-13T17:15:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/10/mcdonalds_ai_lawsuit/
 Comments URL: https://news.ycombinator.com/item?id=27494288
-Points: 19
-# Comments: 16]]></summary>
+Points: 28
+# Comments: 21]]></summary>
         <author>
             <name>donohoe</name>
         </author>
@@ -68,10 +91,23 @@ Points: 1
         <updated>2021-06-13T16:37:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/v7e77y/the-dollar149-smartphone-that-could-bring-the-linux-mobile-ecosystem-to-life
 Comments URL: https://news.ycombinator.com/item?id=27494006
-Points: 88
-# Comments: 69]]></summary>
+Points: 120
+# Comments: 102]]></summary>
         <author>
             <name>ollieparanoid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“YouTube is shutting down dissenting Biology PhDs and MDs”]]></title>
+        <id>https://news.ycombinator.com/item?id=27493994</id>
+        <link href="https://twitter.com/EricRWeinstein/status/1403915244473253893"/>
+        <updated>2021-06-13T16:36:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/EricRWeinstein/status/1403915244473253893
+Comments URL: https://news.ycombinator.com/item?id=27493994
+Points: 87
+# Comments: 22]]></summary>
+        <author>
+            <name>throwkeep</name>
         </author>
     </entry>
     <entry>
@@ -81,36 +117,10 @@ Points: 88
         <updated>2021-06-13T16:21:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity
 Comments URL: https://news.ycombinator.com/item?id=27493853
-Points: 85
-# Comments: 74]]></summary>
+Points: 102
+# Comments: 87]]></summary>
         <author>
             <name>rbanffy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Future of Cinnamon in Debian]]></title>
-        <id>https://news.ycombinator.com/item?id=27493651</id>
-        <link href="https://www.preining.info/blog/2021/06/future-of-cinnamon-in-debian/"/>
-        <updated>2021-06-13T15:58:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.preining.info/blog/2021/06/future-of-cinnamon-in-debian/
-Comments URL: https://news.ycombinator.com/item?id=27493651
-Points: 31
-# Comments: 28]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disasters I've seen in a microservices world]]></title>
-        <id>https://news.ycombinator.com/item?id=27492594</id>
-        <link href="https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51"/>
-        <updated>2021-06-13T13:51:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51
-Comments URL: https://news.ycombinator.com/item?id=27492594
-Points: 98
-# Comments: 37]]></summary>
-        <author>
-            <name>gregdoesit</name>
         </author>
     </entry>
     <entry>
@@ -120,8 +130,8 @@ Points: 98
         <updated>2021-06-13T13:21:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows
 Comments URL: https://news.ycombinator.com/item?id=27492352
-Points: 125
-# Comments: 93]]></summary>
+Points: 154
+# Comments: 104]]></summary>
         <author>
             <name>looperhacks</name>
         </author>
@@ -133,8 +143,8 @@ Points: 125
         <updated>2021-06-13T13:08:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/
 Comments URL: https://news.ycombinator.com/item?id=27492268
-Points: 267
-# Comments: 118]]></summary>
+Points: 297
+# Comments: 131]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -157,7 +167,7 @@ Thanks for reading!
 [1] https://bengtan.com/interesting-things
 [2] https://bengtan.com/newsletter/sample (redirects to the latest public edition)
 Comments URL: https://news.ycombinator.com/item?id=27492255
-Points: 112
+Points: 123
 # Comments: 22]]></summary>
         <author>
             <name>bengtan</name>
@@ -170,8 +180,8 @@ Points: 112
         <updated>2021-06-13T12:46:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chestergrant.com/never-eat-alone-by-keith-ferrazzi-with-tahl-raz
 Comments URL: https://news.ycombinator.com/item?id=27492119
-Points: 62
-# Comments: 46]]></summary>
+Points: 63
+# Comments: 55]]></summary>
         <author>
             <name>chegra</name>
         </author>
@@ -183,8 +193,8 @@ Points: 62
         <updated>2021-06-13T12:36:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.biorxiv.org/content/10.1101/517847v2.full
 Comments URL: https://news.ycombinator.com/item?id=27492024
-Points: 52
-# Comments: 13]]></summary>
+Points: 74
+# Comments: 29]]></summary>
         <author>
             <name>DreamScatter</name>
         </author>
@@ -196,8 +206,8 @@ Points: 52
         <updated>2021-06-13T12:28:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nedbatchelder.com/blog/202106/goodbye_freenode.html
 Comments URL: https://news.ycombinator.com/item?id=27491967
-Points: 197
-# Comments: 76]]></summary>
+Points: 217
+# Comments: 88]]></summary>
         <author>
             <name>Foxboron</name>
         </author>
@@ -209,8 +219,8 @@ Points: 197
         <updated>2021-06-13T12:25:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://luizrojo.medium.com/prometheus-but-bigger-b678d8d6b29d
 Comments URL: https://news.ycombinator.com/item?id=27491955
-Points: 24
-# Comments: 4]]></summary>
+Points: 29
+# Comments: 6]]></summary>
         <author>
             <name>kiyanwang</name>
         </author>
@@ -222,8 +232,8 @@ Points: 24
         <updated>2021-06-13T10:58:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/
 Comments URL: https://news.ycombinator.com/item?id=27491537
-Points: 316
-# Comments: 304]]></summary>
+Points: 358
+# Comments: 319]]></summary>
         <author>
             <name>sanmak</name>
         </author>
@@ -235,8 +245,8 @@ Points: 316
         <updated>2021-06-13T10:48:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.erichgrunewald.com/posts/animal-testing-is-exploitative-and-largely-ineffective/
 Comments URL: https://news.ycombinator.com/item?id=27491498
-Points: 110
-# Comments: 178]]></summary>
+Points: 119
+# Comments: 196]]></summary>
         <author>
             <name>erwald</name>
         </author>
@@ -248,8 +258,8 @@ Points: 110
         <updated>2021-06-13T10:38:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.netmeister.org/blog/infosec-competencies.html
 Comments URL: https://news.ycombinator.com/item?id=27491443
-Points: 48
-# Comments: 13]]></summary>
+Points: 63
+# Comments: 21]]></summary>
         <author>
             <name>kiyanwang</name>
         </author>
@@ -261,23 +271,10 @@ Points: 48
         <updated>2021-06-13T10:06:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eagain.net/articles/git-for-computer-scientists/
 Comments URL: https://news.ycombinator.com/item?id=27491286
-Points: 163
-# Comments: 47]]></summary>
+Points: 176
+# Comments: 60]]></summary>
         <author>
             <name>thanato0s</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Sony's 140MB MiniDisc Drive the Next Betamax? (1996)]]></title>
-        <id>https://news.ycombinator.com/item?id=27491190</id>
-        <link href="https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html"/>
-        <updated>2021-06-13T09:42:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html
-Comments URL: https://news.ycombinator.com/item?id=27491190
-Points: 65
-# Comments: 82]]></summary>
-        <author>
-            <name>ecliptik</name>
         </author>
     </entry>
     <entry>
