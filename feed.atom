@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T13:22:58.414Z</updated>
+    <updated>2021-06-13T14:10:29.847Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Elephant at WWDC]]></title>
+        <id>https://news.ycombinator.com/item?id=27492268</id>
+        <link href="https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/"/>
+        <updated>2021-06-13T13:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/
+Comments URL: https://news.ycombinator.com/item?id=27492268
+Points: 38
+# Comments: 8]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote workers work longer, not more efficiently]]></title>
+        <id>https://news.ycombinator.com/item?id=27492263</id>
+        <link href="https://www.economist.com/business/2021/06/10/remote-workers-work-longer-not-more-efficiently"/>
+        <updated>2021-06-13T13:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/business/2021/06/10/remote-workers-work-longer-not-more-efficiently
+Comments URL: https://news.ycombinator.com/item?id=27492263
+Points: 11
+# Comments: 4]]></summary>
+        <author>
+            <name>Cutlets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: I curate HN stories which didn't reach the front page. Feedback please]]></title>
+        <id>https://news.ycombinator.com/item?id=27492255</id>
+        <link href="https://news.ycombinator.com/item?id=27492255"/>
+        <updated>2021-06-13T13:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+I'd like to introduce, and ask feedback for, my newsletter Interesting Things [1][2].
+It's a response to the notion that many interesting stories posted to HN flies past and are not seen. Maybe they could, and should, be surfaced again somehow. A newsletter seemed like a good way to do it.
+I experimented by trawling through the 'newest' section of HN. The first few times were mind-numbing. Gosh, there's so much noise in there! . But eventually I became more selective and efficient and it became repeatable.
+Then I evolved it and added stories from reddit, newsletters that I subscribe to, and some other places. Whilst a portion of the stories are still from HN, it's no longer only from there.
+The criteria is 'What I find interesting' but, since I'm a typical HN reader, the interest profile ends up being similar. It's mainly tech but with splashes of startups, science, productivity, etc. I omit politics. I also try to omit product/press releases, big corp stuff, and stories that would be covered by the mainstream tech press.
+There is little overlap with other Hacker-News-based newsletters and digests. This is intentional. They cover the top stories from HN. Mine does not. (Maybe there might be one or two 'tier 1' stories, but the majority are not.)
+So anyway ... if you'd like to read interesting stuff (whether or not it was unnoticed by HN) please have a look at Interesting Things. I hope you guys like it and find it ... well ... interesting.
+I'm also looking for criticism, feedback and suggestions for improvement. Some sample questions: Do you like the one-two liner blurbs? Are the blurbs useful? What do you think of the distribution of topics? Are there areas where you'd like to see more (or less) coverage? Please let me know. I'm happy to talk.
+Thanks for reading!
+[1] https://bengtan.com/interesting-things
+[2] https://bengtan.com/newsletter/sample (redirects to the latest public edition)
+Comments URL: https://news.ycombinator.com/item?id=27492255
+Points: 22
+# Comments: 3]]></summary>
+        <author>
+            <name>bengtan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a generator of art – Suprematism]]></title>
+        <id>https://news.ycombinator.com/item?id=27492244</id>
+        <link href="https://tool.graphics/suprematism"/>
+        <updated>2021-06-13T13:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tool.graphics/suprematism
+Comments URL: https://news.ycombinator.com/item?id=27492244
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>andronov04</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye Freenode]]></title>
+        <id>https://news.ycombinator.com/item?id=27491967</id>
+        <link href="https://nedbatchelder.com/blog/202106/goodbye_freenode.html"/>
+        <updated>2021-06-13T12:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nedbatchelder.com/blog/202106/goodbye_freenode.html
+Comments URL: https://news.ycombinator.com/item?id=27491967
+Points: 54
+# Comments: 11]]></summary>
+        <author>
+            <name>Foxboron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clerky (YC S11) Is Hiring Senior Software Engineers]]></title>
         <id>https://news.ycombinator.com/item?id=27491805</id>
@@ -26,8 +102,8 @@ Points: 1
         <updated>2021-06-13T10:58:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/
 Comments URL: https://news.ycombinator.com/item?id=27491537
-Points: 119
-# Comments: 91]]></summary>
+Points: 161
+# Comments: 162]]></summary>
         <author>
             <name>sanmak</name>
         </author>
@@ -39,8 +115,8 @@ Points: 119
         <updated>2021-06-13T10:52:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/Rust1BackwardIncompatibility
 Comments URL: https://news.ycombinator.com/item?id=27491512
-Points: 45
-# Comments: 18]]></summary>
+Points: 70
+# Comments: 45]]></summary>
         <author>
             <name>sdht0</name>
         </author>
@@ -52,8 +128,8 @@ Points: 45
         <updated>2021-06-13T10:48:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.erichgrunewald.com/posts/animal-testing-is-exploitative-and-largely-ineffective/
 Comments URL: https://news.ycombinator.com/item?id=27491498
-Points: 69
-# Comments: 82]]></summary>
+Points: 81
+# Comments: 99]]></summary>
         <author>
             <name>erwald</name>
         </author>
@@ -65,8 +141,8 @@ Points: 69
         <updated>2021-06-13T10:06:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eagain.net/articles/git-for-computer-scientists/
 Comments URL: https://news.ycombinator.com/item?id=27491286
-Points: 58
-# Comments: 4]]></summary>
+Points: 76
+# Comments: 6]]></summary>
         <author>
             <name>thanato0s</name>
         </author>
@@ -78,8 +154,8 @@ Points: 58
         <updated>2021-06-13T09:03:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://press.ed2592.xyz/author/chapter-1/
 Comments URL: https://news.ycombinator.com/item?id=27490988
-Points: 27
-# Comments: 9]]></summary>
+Points: 34
+# Comments: 10]]></summary>
         <author>
             <name>ed2592</name>
         </author>
@@ -91,8 +167,8 @@ Points: 27
         <updated>2021-06-13T08:39:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2
 Comments URL: https://news.ycombinator.com/item?id=27490892
-Points: 47
-# Comments: 12]]></summary>
+Points: 68
+# Comments: 18]]></summary>
         <author>
             <name>throwawaybutwhy</name>
         </author>
@@ -104,8 +180,8 @@ Points: 47
         <updated>2021-06-13T08:38:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://smallstep.com/blog/command-line-secrets/
 Comments URL: https://news.ycombinator.com/item?id=27490885
-Points: 129
-# Comments: 25]]></summary>
+Points: 140
+# Comments: 30]]></summary>
         <author>
             <name>tempodox</name>
         </author>
@@ -117,8 +193,8 @@ Points: 129
         <updated>2021-06-13T08:11:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alex.flounder.online/gemlog/2021-01-08-useless.gmi
 Comments URL: https://news.ycombinator.com/item?id=27490769
-Points: 101
-# Comments: 74]]></summary>
+Points: 111
+# Comments: 85]]></summary>
         <author>
             <name>Melchizedek</name>
         </author>
@@ -130,8 +206,8 @@ Points: 101
         <updated>2021-06-13T04:12:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pycon.switowski.com/
 Comments URL: https://news.ycombinator.com/item?id=27489685
-Points: 24
-# Comments: 4]]></summary>
+Points: 35
+# Comments: 8]]></summary>
         <author>
             <name>grigy</name>
         </author>
@@ -143,8 +219,8 @@ Points: 24
         <updated>2021-06-13T03:16:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jessitron.com/2021/06/12/the-enterprise-eats-software/
 Comments URL: https://news.ycombinator.com/item?id=27489448
-Points: 65
-# Comments: 8]]></summary>
+Points: 69
+# Comments: 9]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -156,8 +232,8 @@ Points: 65
         <updated>2021-06-13T02:10:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/
 Comments URL: https://news.ycombinator.com/item?id=27489187
-Points: 185
-# Comments: 45]]></summary>
+Points: 193
+# Comments: 47]]></summary>
         <author>
             <name>se4u</name>
         </author>
@@ -169,7 +245,7 @@ Points: 185
         <updated>2021-06-13T01:39:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/
 Comments URL: https://news.ycombinator.com/item?id=27489051
-Points: 64
+Points: 68
 # Comments: 4]]></summary>
         <author>
             <name>fortran77</name>
@@ -182,36 +258,10 @@ Points: 64
         <updated>2021-06-12T23:12:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pastes.glitchwrks.com/L88HFhJs
 Comments URL: https://news.ycombinator.com/item?id=27488224
-Points: 223
-# Comments: 73]]></summary>
+Points: 233
+# Comments: 84]]></summary>
         <author>
             <name>systems_glitch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The code on the laptop in the stock photo at developer.bbc.com is user-editable]]></title>
-        <id>https://news.ycombinator.com/item?id=27487958</id>
-        <link href="https://twitter.com/Andrew_Taylor/status/1403709080737390592"/>
-        <updated>2021-06-12T22:33:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/Andrew_Taylor/status/1403709080737390592
-Comments URL: https://news.ycombinator.com/item?id=27487958
-Points: 452
-# Comments: 57]]></summary>
-        <author>
-            <name>fanf2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elevator Saga – An elevator programming game]]></title>
-        <id>https://news.ycombinator.com/item?id=27487111</id>
-        <link href="https://play.elevatorsaga.com/"/>
-        <updated>2021-06-12T20:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://play.elevatorsaga.com/
-Comments URL: https://news.ycombinator.com/item?id=27487111
-Points: 257
-# Comments: 87]]></summary>
-        <author>
-            <name>warpech</name>
         </author>
     </entry>
     <entry>
@@ -221,49 +271,10 @@ Points: 257
         <updated>2021-06-12T12:23:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.harvard.edu/gazette/story/2016/09/a-cinematic-approach-to-drug-resistance/
 Comments URL: https://news.ycombinator.com/item?id=27483954
-Points: 11
+Points: 14
 # Comments: 0]]></summary>
         <author>
             <name>ColinWright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing Private Fields for JavaScript]]></title>
-        <id>https://news.ycombinator.com/item?id=27483755</id>
-        <link href="https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/"/>
-        <updated>2021-06-12T11:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/
-Comments URL: https://news.ycombinator.com/item?id=27483755
-Points: 32
-# Comments: 31]]></summary>
-        <author>
-            <name>kiyanwang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code 'meaning-making' helps creating more nuanced software]]></title>
-        <id>https://news.ycombinator.com/item?id=27483061</id>
-        <link href="https://psytechread.substack.com/p/understanding-the-meaning-we-make"/>
-        <updated>2021-06-12T09:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://psytechread.substack.com/p/understanding-the-meaning-we-make
-Comments URL: https://news.ycombinator.com/item?id=27483061
-Points: 12
-# Comments: 0]]></summary>
-        <author>
-            <name>ricvolpe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hilton's 1967 plan for a space hotel]]></title>
-        <id>https://news.ycombinator.com/item?id=27482846</id>
-        <link href="https://edition.cnn.com/travel/article/hilton-hotel-on-moon-scn-cmd/index.html"/>
-        <updated>2021-06-12T08:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://edition.cnn.com/travel/article/hilton-hotel-on-moon-scn-cmd/index.html
-Comments URL: https://news.ycombinator.com/item?id=27482846
-Points: 69
-# Comments: 55]]></summary>
-        <author>
-            <name>ZeljkoS</name>
         </author>
     </entry>
     <entry>
