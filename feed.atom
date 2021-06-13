@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T12:16:52.802Z</updated>
+    <updated>2021-06-13T13:22:58.414Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -26,10 +26,23 @@ Points: 1
         <updated>2021-06-13T10:58:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/
 Comments URL: https://news.ycombinator.com/item?id=27491537
-Points: 62
-# Comments: 27]]></summary>
+Points: 119
+# Comments: 91]]></summary>
         <author>
             <name>sanmak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.x seems to not always be backward compatible in practice]]></title>
+        <id>https://news.ycombinator.com/item?id=27491512</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/programming/Rust1BackwardIncompatibility"/>
+        <updated>2021-06-13T10:52:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/Rust1BackwardIncompatibility
+Comments URL: https://news.ycombinator.com/item?id=27491512
+Points: 45
+# Comments: 18]]></summary>
+        <author>
+            <name>sdht0</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +52,8 @@ Points: 62
         <updated>2021-06-13T10:48:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.erichgrunewald.com/posts/animal-testing-is-exploitative-and-largely-ineffective/
 Comments URL: https://news.ycombinator.com/item?id=27491498
-Points: 45
-# Comments: 28]]></summary>
+Points: 69
+# Comments: 82]]></summary>
         <author>
             <name>erwald</name>
         </author>
@@ -52,23 +65,10 @@ Points: 45
         <updated>2021-06-13T10:06:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eagain.net/articles/git-for-computer-scientists/
 Comments URL: https://news.ycombinator.com/item?id=27491286
-Points: 37
-# Comments: 0]]></summary>
+Points: 58
+# Comments: 4]]></summary>
         <author>
             <name>thanato0s</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Sony's 140MB MiniDisc Drive the Next Betamax? (1996)]]></title>
-        <id>https://news.ycombinator.com/item?id=27491190</id>
-        <link href="https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html"/>
-        <updated>2021-06-13T09:42:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html
-Comments URL: https://news.ycombinator.com/item?id=27491190
-Points: 40
-# Comments: 38]]></summary>
-        <author>
-            <name>ecliptik</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +78,8 @@ Points: 40
         <updated>2021-06-13T09:03:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://press.ed2592.xyz/author/chapter-1/
 Comments URL: https://news.ycombinator.com/item?id=27490988
-Points: 20
-# Comments: 5]]></summary>
+Points: 27
+# Comments: 9]]></summary>
         <author>
             <name>ed2592</name>
         </author>
@@ -91,8 +91,8 @@ Points: 20
         <updated>2021-06-13T08:39:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2
 Comments URL: https://news.ycombinator.com/item?id=27490892
-Points: 31
-# Comments: 8]]></summary>
+Points: 47
+# Comments: 12]]></summary>
         <author>
             <name>throwawaybutwhy</name>
         </author>
@@ -104,8 +104,8 @@ Points: 31
         <updated>2021-06-13T08:38:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://smallstep.com/blog/command-line-secrets/
 Comments URL: https://news.ycombinator.com/item?id=27490885
-Points: 117
-# Comments: 18]]></summary>
+Points: 129
+# Comments: 25]]></summary>
         <author>
             <name>tempodox</name>
         </author>
@@ -117,8 +117,8 @@ Points: 117
         <updated>2021-06-13T08:11:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alex.flounder.online/gemlog/2021-01-08-useless.gmi
 Comments URL: https://news.ycombinator.com/item?id=27490769
-Points: 85
-# Comments: 54]]></summary>
+Points: 101
+# Comments: 74]]></summary>
         <author>
             <name>Melchizedek</name>
         </author>
@@ -130,8 +130,8 @@ Points: 85
         <updated>2021-06-13T04:12:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pycon.switowski.com/
 Comments URL: https://news.ycombinator.com/item?id=27489685
-Points: 18
-# Comments: 3]]></summary>
+Points: 24
+# Comments: 4]]></summary>
         <author>
             <name>grigy</name>
         </author>
@@ -143,8 +143,8 @@ Points: 18
         <updated>2021-06-13T03:16:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jessitron.com/2021/06/12/the-enterprise-eats-software/
 Comments URL: https://news.ycombinator.com/item?id=27489448
-Points: 57
-# Comments: 6]]></summary>
+Points: 65
+# Comments: 8]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -156,8 +156,8 @@ Points: 57
         <updated>2021-06-13T02:10:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/
 Comments URL: https://news.ycombinator.com/item?id=27489187
-Points: 173
-# Comments: 41]]></summary>
+Points: 185
+# Comments: 45]]></summary>
         <author>
             <name>se4u</name>
         </author>
@@ -169,7 +169,7 @@ Points: 173
         <updated>2021-06-13T01:39:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/
 Comments URL: https://news.ycombinator.com/item?id=27489051
-Points: 60
+Points: 64
 # Comments: 4]]></summary>
         <author>
             <name>fortran77</name>
@@ -182,8 +182,8 @@ Points: 60
         <updated>2021-06-12T23:12:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pastes.glitchwrks.com/L88HFhJs
 Comments URL: https://news.ycombinator.com/item?id=27488224
-Points: 210
-# Comments: 60]]></summary>
+Points: 223
+# Comments: 73]]></summary>
         <author>
             <name>systems_glitch</name>
         </author>
@@ -195,23 +195,23 @@ Points: 210
         <updated>2021-06-12T22:33:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Andrew_Taylor/status/1403709080737390592
 Comments URL: https://news.ycombinator.com/item?id=27487958
-Points: 425
-# Comments: 55]]></summary>
+Points: 452
+# Comments: 57]]></summary>
         <author>
             <name>fanf2</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A few thoughts on Fuchsia security]]></title>
-        <id>https://news.ycombinator.com/item?id=27487465</id>
-        <link href="https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html"/>
-        <updated>2021-06-12T21:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html
-Comments URL: https://news.ycombinator.com/item?id=27487465
-Points: 152
-# Comments: 63]]></summary>
+        <title type="html"><![CDATA[Elevator Saga – An elevator programming game]]></title>
+        <id>https://news.ycombinator.com/item?id=27487111</id>
+        <link href="https://play.elevatorsaga.com/"/>
+        <updated>2021-06-12T20:08:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://play.elevatorsaga.com/
+Comments URL: https://news.ycombinator.com/item?id=27487111
+Points: 257
+# Comments: 87]]></summary>
         <author>
-            <name>steveklabnik</name>
+            <name>warpech</name>
         </author>
     </entry>
     <entry>
@@ -221,7 +221,7 @@ Points: 152
         <updated>2021-06-12T12:23:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.harvard.edu/gazette/story/2016/09/a-cinematic-approach-to-drug-resistance/
 Comments URL: https://news.ycombinator.com/item?id=27483954
-Points: 10
+Points: 11
 # Comments: 0]]></summary>
         <author>
             <name>ColinWright</name>
@@ -235,7 +235,7 @@ Points: 10
         <summary type="html"><![CDATA[Article URL: https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/
 Comments URL: https://news.ycombinator.com/item?id=27483755
 Points: 32
-# Comments: 28]]></summary>
+# Comments: 31]]></summary>
         <author>
             <name>kiyanwang</name>
         </author>
@@ -247,7 +247,7 @@ Points: 32
         <updated>2021-06-12T09:30:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://psytechread.substack.com/p/understanding-the-meaning-we-make
 Comments URL: https://news.ycombinator.com/item?id=27483061
-Points: 9
+Points: 12
 # Comments: 0]]></summary>
         <author>
             <name>ricvolpe</name>
@@ -260,8 +260,8 @@ Points: 9
         <updated>2021-06-12T08:47:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://edition.cnn.com/travel/article/hilton-hotel-on-moon-scn-cmd/index.html
 Comments URL: https://news.ycombinator.com/item?id=27482846
-Points: 63
-# Comments: 48]]></summary>
+Points: 69
+# Comments: 55]]></summary>
         <author>
             <name>ZeljkoS</name>
         </author>
