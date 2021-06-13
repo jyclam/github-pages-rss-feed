@@ -6,22 +6,40 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27497080",
+          "author": "type0",
+          "description": "Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/07/ivermectin-as-a-covid-19-therapy\nComments URL: https://news.ycombinator.com/item?id=27497080\nPoints: 14\n# Comments: 3",
+          "link": "https://blogs.sciencemag.org/pipeline/archives/2021/06/07/ivermectin-as-a-covid-19-therapy",
+          "publishedOn": "2021-06-13T22:19:53.000Z",
+          "wordCount": 13296,
+          "title": "Ivermectin as a Covid-19 Therapy"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27496778",
           "author": "nikita",
-          "description": "Article URL: https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital\nComments URL: https://news.ycombinator.com/item?id=27496778\nPoints: 3\n# Comments: 1",
+          "description": "Article URL: https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital\nComments URL: https://news.ycombinator.com/item?id=27496778\nPoints: 35\n# Comments: 57",
           "link": "https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital",
           "publishedOn": "2021-06-13T21:39:28.000Z",
           "wordCount": 705,
-          "title": "Solana Labs Completes a $314.15M Private Token Sale Led by Andreessen Horowitz"
+          "title": "Solana Labs completes a $314M private token sale led by Andreessen Horowitz"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27496679",
           "author": "ViralBShah",
-          "description": "Article URL: https://juliagpu.org/post/2021-06-10-cuda_3.3/\nComments URL: https://news.ycombinator.com/item?id=27496679\nPoints: 13\n# Comments: 0",
+          "description": "Article URL: https://juliagpu.org/post/2021-06-10-cuda_3.3/\nComments URL: https://news.ycombinator.com/item?id=27496679\nPoints: 38\n# Comments: 2",
           "link": "https://juliagpu.org/post/2021-06-10-cuda_3.3/",
           "publishedOn": "2021-06-13T21:29:13.000Z",
           "wordCount": 985,
           "title": "Cuda.jl v3.3: union types, debug info, graph APIs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27496595",
+          "author": "every",
+          "description": "Article URL: https://www.aboutchromebooks.com/news/linux-on-chromebooks-just-might-get-me-through-a-masters-in-computer-science/\nComments URL: https://news.ycombinator.com/item?id=27496595\nPoints: 19\n# Comments: 10",
+          "link": "https://www.aboutchromebooks.com/news/linux-on-chromebooks-just-might-get-me-through-a-masters-in-computer-science/",
+          "publishedOn": "2021-06-13T21:19:25.000Z",
+          "wordCount": 1963,
+          "title": "Linux on Chromebooks just might get me through a masters in computer science"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27496414",
@@ -35,43 +53,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27496266",
           "author": "manx",
-          "description": "Article URL: http://worrydream.com/ClimateChange/\nComments URL: https://news.ycombinator.com/item?id=27496266\nPoints: 20\n# Comments: 13",
+          "description": "Article URL: http://worrydream.com/ClimateChange/\nComments URL: https://news.ycombinator.com/item?id=27496266\nPoints: 32\n# Comments: 26",
           "link": "http://worrydream.com/ClimateChange/",
           "publishedOn": "2021-06-13T20:44:33.000Z",
           "wordCount": 10461,
           "title": "What can a technologist do about climate change? (2015)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27495977",
-          "author": "st_goliath",
-          "description": "Article URL: https://isfreenodedeadyet.com/\nComments URL: https://news.ycombinator.com/item?id=27495977\nPoints: 182\n# Comments: 41",
-          "link": "https://isfreenodedeadyet.com/",
-          "publishedOn": "2021-06-13T20:16:56.000Z",
-          "wordCount": 3,
-          "title": "Isfreenodedeadyet – Tracking Freenode to Libera.Chat Migration"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27495968",
-          "author": "dTal",
-          "description": "Article URL: https://twitter.com/internetofshit\nComments URL: https://news.ycombinator.com/item?id=27495968\nPoints: 98\n# Comments: 7",
-          "link": "https://twitter.com/internetofshit",
-          "publishedOn": "2021-06-13T20:15:58.000Z",
-          "wordCount": 196,
-          "title": "Internet of Shit"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27495264",
-          "author": "0xedb",
-          "description": "Article URL: https://guardian.ng/news/nigerians-will-lead-bitcoin-says-twitter-ceo-jack-dorsey/\nComments URL: https://news.ycombinator.com/item?id=27495264\nPoints: 9\n# Comments: 1",
-          "link": "https://guardian.ng/news/nigerians-will-lead-bitcoin-says-twitter-ceo-jack-dorsey/",
-          "publishedOn": "2021-06-13T19:00:30.000Z",
-          "wordCount": 1520,
-          "title": "Nigerians will 'lead Bitcoin,' says Twitter CEO Jack Dorsey"
+          "id": "https://news.ycombinator.com/item?id=27496226",
+          "author": "x14km2d",
+          "description": "Article URL: https://pimylifeup.com/raspberry-pi-irc-server/\nComments URL: https://news.ycombinator.com/item?id=27496226\nPoints: 10\n# Comments: 3",
+          "link": "https://pimylifeup.com/raspberry-pi-irc-server/",
+          "publishedOn": "2021-06-13T20:40:23.000Z",
+          "wordCount": 2022,
+          "title": "Raspberry Pi IRC Server: Setup Your Own Chat Network"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27494851",
           "author": "fossislife",
-          "description": "Article URL: https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/\nComments URL: https://news.ycombinator.com/item?id=27494851\nPoints: 18\n# Comments: 5",
+          "description": "Article URL: https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/\nComments URL: https://news.ycombinator.com/item?id=27494851\nPoints: 20\n# Comments: 6",
           "link": "https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/",
           "publishedOn": "2021-06-13T18:13:46.000Z",
           "wordCount": 2341,
@@ -80,25 +80,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27494006",
           "author": "ollieparanoid",
-          "description": "Article URL: https://www.vice.com/en/article/v7e77y/the-dollar149-smartphone-that-could-bring-the-linux-mobile-ecosystem-to-life\nComments URL: https://news.ycombinator.com/item?id=27494006\nPoints: 160\n# Comments: 131",
+          "description": "Article URL: https://www.vice.com/en/article/v7e77y/the-dollar149-smartphone-that-could-bring-the-linux-mobile-ecosystem-to-life\nComments URL: https://news.ycombinator.com/item?id=27494006\nPoints: 184\n# Comments: 135",
           "link": "https://www.vice.com/en/article/v7e77y/the-dollar149-smartphone-that-could-bring-the-linux-mobile-ecosystem-to-life",
           "publishedOn": "2021-06-13T16:37:39.000Z",
           "wordCount": 3295,
           "title": "The $149 Smartphone That Could Bring the Linux Mobile Ecosystem to Life"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27493994",
-          "author": "throwkeep",
-          "description": "Article URL: https://twitter.com/EricRWeinstein/status/1403915244473253893\nComments URL: https://news.ycombinator.com/item?id=27493994\nPoints: 233\n# Comments: 188",
-          "link": "https://twitter.com/EricRWeinstein/status/1403915244473253893",
-          "publishedOn": "2021-06-13T16:36:45.000Z",
-          "wordCount": 196,
-          "title": "“YouTube is shutting down dissenting Biology PhDs and MDs”"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27493853",
           "author": "rbanffy",
-          "description": "Article URL: https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity\nComments URL: https://news.ycombinator.com/item?id=27493853\nPoints: 140\n# Comments: 109",
+          "description": "Article URL: https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity\nComments URL: https://news.ycombinator.com/item?id=27493853\nPoints: 157\n# Comments: 135",
           "link": "https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity",
           "publishedOn": "2021-06-13T16:21:25.000Z",
           "wordCount": 1683,
@@ -107,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27492352",
           "author": "looperhacks",
-          "description": "Article URL: https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows\nComments URL: https://news.ycombinator.com/item?id=27492352\nPoints: 187\n# Comments: 133",
+          "description": "Article URL: https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows\nComments URL: https://news.ycombinator.com/item?id=27492352\nPoints: 204\n# Comments: 145",
           "link": "https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows",
           "publishedOn": "2021-06-13T13:21:49.000Z",
           "wordCount": 1212,
@@ -116,25 +107,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27492268",
           "author": "ingve",
-          "description": "Article URL: https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/\nComments URL: https://news.ycombinator.com/item?id=27492268\nPoints: 332\n# Comments: 145",
+          "description": "Article URL: https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/\nComments URL: https://news.ycombinator.com/item?id=27492268\nPoints: 346\n# Comments: 155",
           "link": "https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/",
           "publishedOn": "2021-06-13T13:08:56.000Z",
-          "wordCount": 2740,
+          "wordCount": 2825,
           "title": "The Elephant at WWDC"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27492255",
-          "author": "bengtan",
-          "description": "Hi,\nI'd like to introduce, and ask feedback for, my newsletter Interesting Things [1][2].\nIt's a response to the notion that many interesting stories posted to HN flies past and are not seen. Maybe they could, and should, be surfaced again somehow. A newsletter seemed like a good way to do it.\nI experimented by trawling through the 'newest' section of HN. The first few times were mind-numbing. Gosh, there's so much noise in there! . But eventually I became more selective and efficient and it became repeatable.\nThen I evolved it and added stories from reddit, newsletters that I subscribe to, and some other places. Whilst a portion of the stories are still from HN, it's no longer only from there.\nThe criteria is 'What I find interesting' but, since I'm a typical HN reader, the interest profile ends up being similar. It's mainly tech but with splashes of startups, science, productivity, etc. I omit politics. I also try to omit product/press releases, big corp stuff, and stories that would be covered by the mainstream tech press.\nThere is little overlap with other Hacker-News-based newsletters and digests. This is intentional. They cover the top stories from HN. Mine does not. (Maybe there might be one or two 'tier 1' stories, but the majority are not.)\nSo anyway ... if you'd like to read interesting stuff (whether or not it was unnoticed by HN) please have a look at Interesting Things. I hope you guys like it and find it ... well ... interesting.\nI'm also looking for criticism, feedback and suggestions for improvement. Some sample questions: Do you like the one-two liner blurbs? Are the blurbs useful? What do you think of the distribution of topics? Are there areas where you'd like to see more (or less) coverage? Please let me know. I'm happy to talk.\nThanks for reading!\n[1] https://bengtan.com/interesting-things\n[2] https://bengtan.com/newsletter/sample (redirects to the latest public edition)\nComments URL: https://news.ycombinator.com/item?id=27492255\nPoints: 149\n# Comments: 27",
-          "link": "https://news.ycombinator.com/item?id=27492255",
-          "publishedOn": "2021-06-13T13:07:48.000Z",
-          "wordCount": 1605,
-          "title": "Show HN: I curate HN stories which didn't reach the front page"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27492024",
           "author": "DreamScatter",
-          "description": "Article URL: https://www.biorxiv.org/content/10.1101/517847v2.full\nComments URL: https://news.ycombinator.com/item?id=27492024\nPoints: 137\n# Comments: 70",
+          "description": "Article URL: https://www.biorxiv.org/content/10.1101/517847v2.full\nComments URL: https://news.ycombinator.com/item?id=27492024\nPoints: 147\n# Comments: 82",
           "link": "https://www.biorxiv.org/content/10.1101/517847v2.full",
           "publishedOn": "2021-06-13T12:36:47.000Z",
           "wordCount": 12234,
@@ -143,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27491955",
           "author": "kiyanwang",
-          "description": "Article URL: https://luizrojo.medium.com/prometheus-but-bigger-b678d8d6b29d\nComments URL: https://news.ycombinator.com/item?id=27491955\nPoints: 38\n# Comments: 8",
+          "description": "Article URL: https://luizrojo.medium.com/prometheus-but-bigger-b678d8d6b29d\nComments URL: https://news.ycombinator.com/item?id=27491955\nPoints: 44\n# Comments: 10",
           "link": "https://luizrojo.medium.com/prometheus-but-bigger-b678d8d6b29d",
           "publishedOn": "2021-06-13T12:25:51.000Z",
           "wordCount": 1521,
@@ -152,16 +134,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27491537",
           "author": "sanmak",
-          "description": "Article URL: https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/\nComments URL: https://news.ycombinator.com/item?id=27491537\nPoints: 416\n# Comments: 360",
+          "description": "Article URL: https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/\nComments URL: https://news.ycombinator.com/item?id=27491537\nPoints: 430\n# Comments: 365",
           "link": "https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/",
           "publishedOn": "2021-06-13T10:58:55.000Z",
           "wordCount": 5400,
           "title": "I Miss the Old Internet (2019)"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27491445",
+          "author": "Bluestein",
+          "description": "Article URL: https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape\nComments URL: https://news.ycombinator.com/item?id=27491445\nPoints: 6\n# Comments: 1",
+          "link": "https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape",
+          "publishedOn": "2021-06-13T10:39:05.000Z",
+          "wordCount": 44,
+          "title": "Why the Future of Data Storage Is (Still) Magnetic Tape"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27491443",
           "author": "kiyanwang",
-          "description": "Article URL: https://www.netmeister.org/blog/infosec-competencies.html\nComments URL: https://news.ycombinator.com/item?id=27491443\nPoints: 79\n# Comments: 27",
+          "description": "Article URL: https://www.netmeister.org/blog/infosec-competencies.html\nComments URL: https://news.ycombinator.com/item?id=27491443\nPoints: 86\n# Comments: 28",
           "link": "https://www.netmeister.org/blog/infosec-competencies.html",
           "publishedOn": "2021-06-13T10:38:25.000Z",
           "wordCount": 1440,
@@ -170,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27491286",
           "author": "thanato0s",
-          "description": "Article URL: https://eagain.net/articles/git-for-computer-scientists/\nComments URL: https://news.ycombinator.com/item?id=27491286\nPoints: 199\n# Comments: 71",
+          "description": "Article URL: https://eagain.net/articles/git-for-computer-scientists/\nComments URL: https://news.ycombinator.com/item?id=27491286\nPoints: 205\n# Comments: 79",
           "link": "https://eagain.net/articles/git-for-computer-scientists/",
           "publishedOn": "2021-06-13T10:06:13.000Z",
           "wordCount": 964,
@@ -179,11 +170,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27491190",
           "author": "ecliptik",
-          "description": "Article URL: https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html\nComments URL: https://news.ycombinator.com/item?id=27491190\nPoints: 81\n# Comments: 103",
+          "description": "Article URL: https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html\nComments URL: https://news.ycombinator.com/item?id=27491190\nPoints: 82\n# Comments: 104",
           "link": "https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html",
           "publishedOn": "2021-06-13T09:42:16.000Z",
           "wordCount": 355,
           "title": "Is Sony's 140MB MiniDisc Drive the Next Betamax? (1996)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27491110",
+          "author": "the-mitr",
+          "description": "Article URL: http://www.tikalon.com/blog/blog.php?article=2021/ENIAC\nComments URL: https://news.ycombinator.com/item?id=27491110\nPoints: 13\n# Comments: 1",
+          "link": "http://www.tikalon.com/blog/blog.php?article=2021/ENIAC",
+          "publishedOn": "2021-06-13T09:26:51.000Z",
+          "wordCount": 1923,
+          "title": "Eniac at 75"
         }
       ]
     },
@@ -459,7 +459,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1590,
+          "wordCount": 1595,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -487,7 +487,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 759,
+          "wordCount": 753,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -529,7 +529,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2241,
+          "wordCount": 2240,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -543,7 +543,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4165,
+          "wordCount": 4173,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -571,7 +571,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4376,
+          "wordCount": 4378,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -585,7 +585,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5421,
+          "wordCount": 5420,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -627,7 +627,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2524,
+          "wordCount": 2516,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -641,7 +641,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10256,
+          "wordCount": 10258,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -655,7 +655,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3769,
+          "wordCount": 3770,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -683,7 +683,7 @@
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
           "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1579,
+          "wordCount": 1581,
           "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
@@ -739,7 +739,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9467,
+          "wordCount": 9476,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -767,7 +767,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1993,
+          "wordCount": 1990,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -781,7 +781,7 @@
           "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 5057,
+          "wordCount": 5059,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7c233470-63c3-4557-93c0-a8cc6709b6dd/13-mega-dropdown-hover-menus.png",
