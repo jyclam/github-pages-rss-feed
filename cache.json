@@ -6,18 +6,27 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27493054",
+          "author": "defqon",
+          "description": "Article URL: https://www.theverge.com/2021/6/8/22523351/ios-15-iphone-6s-plus-se-compatibility\nComments URL: https://news.ycombinator.com/item?id=27493054\nPoints: 35\n# Comments: 14",
+          "link": "https://www.theverge.com/2021/6/8/22523351/ios-15-iphone-6s-plus-se-compatibility",
+          "publishedOn": "2021-06-13T14:44:25.000Z",
+          "wordCount": 856,
+          "title": "The six-year-old iPhone 6S will get iOS 15"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27492616",
           "author": "shoto_io",
-          "description": "Article URL: https://bennettftomlin.com/2021/06/12/why-i-have-zero-faith-in-crypto-venture-capitalists/\nComments URL: https://news.ycombinator.com/item?id=27492616\nPoints: 99\n# Comments: 27",
+          "description": "Article URL: https://bennettftomlin.com/2021/06/12/why-i-have-zero-faith-in-crypto-venture-capitalists/\nComments URL: https://news.ycombinator.com/item?id=27492616\nPoints: 145\n# Comments: 67",
           "link": "https://bennettftomlin.com/2021/06/12/why-i-have-zero-faith-in-crypto-venture-capitalists/",
           "publishedOn": "2021-06-13T13:54:02.000Z",
-          "wordCount": 1196,
+          "wordCount": 1199,
           "title": "Why I have zero faith in crypto venture capitalists"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27492594",
           "author": "gregdoesit",
-          "description": "Article URL: https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51\nComments URL: https://news.ycombinator.com/item?id=27492594\nPoints: 18\n# Comments: 0",
+          "description": "Article URL: https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51\nComments URL: https://news.ycombinator.com/item?id=27492594\nPoints: 52\n# Comments: 14",
           "link": "https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51",
           "publishedOn": "2021-06-13T13:51:46.000Z",
           "wordCount": 2021,
@@ -26,7 +35,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27492352",
           "author": "looperhacks",
-          "description": "Article URL: https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows\nComments URL: https://news.ycombinator.com/item?id=27492352\nPoints: 31\n# Comments: 13",
+          "description": "Article URL: https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows\nComments URL: https://news.ycombinator.com/item?id=27492352\nPoints: 64\n# Comments: 35",
           "link": "https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows",
           "publishedOn": "2021-06-13T13:21:49.000Z",
           "wordCount": 1200,
@@ -35,43 +44,43 @@
         {
           "id": "https://news.ycombinator.com/item?id=27492268",
           "author": "ingve",
-          "description": "Article URL: https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/\nComments URL: https://news.ycombinator.com/item?id=27492268\nPoints: 96\n# Comments: 31",
+          "description": "Article URL: https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/\nComments URL: https://news.ycombinator.com/item?id=27492268\nPoints: 167\n# Comments: 71",
           "link": "https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/",
           "publishedOn": "2021-06-13T13:08:56.000Z",
           "wordCount": 2690,
           "title": "The Elephant at WWDC"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27492263",
-          "author": "Cutlets",
-          "description": "Article URL: https://www.economist.com/business/2021/06/10/remote-workers-work-longer-not-more-efficiently\nComments URL: https://news.ycombinator.com/item?id=27492263\nPoints: 56\n# Comments: 77",
-          "link": "https://www.economist.com/business/2021/06/10/remote-workers-work-longer-not-more-efficiently",
-          "publishedOn": "2021-06-13T13:08:19.000Z",
-          "wordCount": 933,
-          "title": "Remote workers work longer, not more efficiently"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27492255",
           "author": "bengtan",
-          "description": "Hi,\nI'd like to introduce, and ask feedback for, my newsletter Interesting Things [1][2].\nIt's a response to the notion that many interesting stories posted to HN flies past and are not seen. Maybe they could, and should, be surfaced again somehow. A newsletter seemed like a good way to do it.\nI experimented by trawling through the 'newest' section of HN. The first few times were mind-numbing. Gosh, there's so much noise in there! . But eventually I became more selective and efficient and it became repeatable.\nThen I evolved it and added stories from reddit, newsletters that I subscribe to, and some other places. Whilst a portion of the stories are still from HN, it's no longer only from there.\nThe criteria is 'What I find interesting' but, since I'm a typical HN reader, the interest profile ends up being similar. It's mainly tech but with splashes of startups, science, productivity, etc. I omit politics. I also try to omit product/press releases, big corp stuff, and stories that would be covered by the mainstream tech press.\nThere is little overlap with other Hacker-News-based newsletters and digests. This is intentional. They cover the top stories from HN. Mine does not. (Maybe there might be one or two 'tier 1' stories, but the majority are not.)\nSo anyway ... if you'd like to read interesting stuff (whether or not it was unnoticed by HN) please have a look at Interesting Things. I hope you guys like it and find it ... well ... interesting.\nI'm also looking for criticism, feedback and suggestions for improvement. Some sample questions: Do you like the one-two liner blurbs? Are the blurbs useful? What do you think of the distribution of topics? Are there areas where you'd like to see more (or less) coverage? Please let me know. I'm happy to talk.\nThanks for reading!\n[1] https://bengtan.com/interesting-things\n[2] https://bengtan.com/newsletter/sample (redirects to the latest public edition)\nComments URL: https://news.ycombinator.com/item?id=27492255\nPoints: 50\n# Comments: 13",
+          "description": "Hi,\nI'd like to introduce, and ask feedback for, my newsletter Interesting Things [1][2].\nIt's a response to the notion that many interesting stories posted to HN flies past and are not seen. Maybe they could, and should, be surfaced again somehow. A newsletter seemed like a good way to do it.\nI experimented by trawling through the 'newest' section of HN. The first few times were mind-numbing. Gosh, there's so much noise in there! . But eventually I became more selective and efficient and it became repeatable.\nThen I evolved it and added stories from reddit, newsletters that I subscribe to, and some other places. Whilst a portion of the stories are still from HN, it's no longer only from there.\nThe criteria is 'What I find interesting' but, since I'm a typical HN reader, the interest profile ends up being similar. It's mainly tech but with splashes of startups, science, productivity, etc. I omit politics. I also try to omit product/press releases, big corp stuff, and stories that would be covered by the mainstream tech press.\nThere is little overlap with other Hacker-News-based newsletters and digests. This is intentional. They cover the top stories from HN. Mine does not. (Maybe there might be one or two 'tier 1' stories, but the majority are not.)\nSo anyway ... if you'd like to read interesting stuff (whether or not it was unnoticed by HN) please have a look at Interesting Things. I hope you guys like it and find it ... well ... interesting.\nI'm also looking for criticism, feedback and suggestions for improvement. Some sample questions: Do you like the one-two liner blurbs? Are the blurbs useful? What do you think of the distribution of topics? Are there areas where you'd like to see more (or less) coverage? Please let me know. I'm happy to talk.\nThanks for reading!\n[1] https://bengtan.com/interesting-things\n[2] https://bengtan.com/newsletter/sample (redirects to the latest public edition)\nComments URL: https://news.ycombinator.com/item?id=27492255\nPoints: 67\n# Comments: 16",
           "link": "https://news.ycombinator.com/item?id=27492255",
           "publishedOn": "2021-06-13T13:07:48.000Z",
-          "wordCount": 848,
+          "wordCount": 967,
           "title": "Show HN: I curate HN stories which didn't reach the front page"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27492244",
           "author": "andronov04",
-          "description": "Article URL: https://tool.graphics/suprematism\nComments URL: https://news.ycombinator.com/item?id=27492244\nPoints: 25\n# Comments: 8",
+          "description": "Article URL: https://tool.graphics/suprematism\nComments URL: https://news.ycombinator.com/item?id=27492244\nPoints: 35\n# Comments: 12",
           "link": "https://tool.graphics/suprematism",
           "publishedOn": "2021-06-13T13:05:51.000Z",
           "wordCount": 9,
           "title": "Show HN: I made a generator of art – Suprematism"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27492165",
+          "author": "Anon84",
+          "description": "Article URL: https://thehustle.co/why-is-lumber-so-expensive-right-now/\nComments URL: https://news.ycombinator.com/item?id=27492165\nPoints: 17\n# Comments: 16",
+          "link": "https://thehustle.co/why-is-lumber-so-expensive-right-now/",
+          "publishedOn": "2021-06-13T12:53:44.000Z",
+          "wordCount": 1196,
+          "title": "Why is lumber so expensive?"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27492119",
           "author": "chegra",
-          "description": "Article URL: https://www.chestergrant.com/never-eat-alone-by-keith-ferrazzi-with-tahl-raz\nComments URL: https://news.ycombinator.com/item?id=27492119\nPoints: 12\n# Comments: 0",
+          "description": "Article URL: https://www.chestergrant.com/never-eat-alone-by-keith-ferrazzi-with-tahl-raz\nComments URL: https://news.ycombinator.com/item?id=27492119\nPoints: 32\n# Comments: 12",
           "link": "https://www.chestergrant.com/never-eat-alone-by-keith-ferrazzi-with-tahl-raz",
           "publishedOn": "2021-06-13T12:46:54.000Z",
           "wordCount": 4386,
@@ -80,11 +89,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27491967",
           "author": "Foxboron",
-          "description": "Article URL: https://nedbatchelder.com/blog/202106/goodbye_freenode.html\nComments URL: https://news.ycombinator.com/item?id=27491967\nPoints: 107\n# Comments: 32",
+          "description": "Article URL: https://nedbatchelder.com/blog/202106/goodbye_freenode.html\nComments URL: https://news.ycombinator.com/item?id=27491967\nPoints: 141\n# Comments: 52",
           "link": "https://nedbatchelder.com/blog/202106/goodbye_freenode.html",
           "publishedOn": "2021-06-13T12:28:06.000Z",
           "wordCount": 553,
           "title": "Goodbye Freenode"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27491955",
+          "author": "kiyanwang",
+          "description": "Article URL: https://luizrojo.medium.com/prometheus-but-bigger-b678d8d6b29d\nComments URL: https://news.ycombinator.com/item?id=27491955\nPoints: 11\n# Comments: 0",
+          "link": "https://luizrojo.medium.com/prometheus-but-bigger-b678d8d6b29d",
+          "publishedOn": "2021-06-13T12:25:51.000Z",
+          "wordCount": 1521,
+          "title": "Prometheus, but Bigger"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27491805",
@@ -98,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27491537",
           "author": "sanmak",
-          "description": "Article URL: https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/\nComments URL: https://news.ycombinator.com/item?id=27491537\nPoints: 184\n# Comments: 198",
+          "description": "Article URL: https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/\nComments URL: https://news.ycombinator.com/item?id=27491537\nPoints: 222\n# Comments: 230",
           "link": "https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/",
           "publishedOn": "2021-06-13T10:58:55.000Z",
           "wordCount": 5400,
@@ -107,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27491512",
           "author": "sdht0",
-          "description": "Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/Rust1BackwardIncompatibility\nComments URL: https://news.ycombinator.com/item?id=27491512\nPoints: 91\n# Comments: 74",
+          "description": "Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/Rust1BackwardIncompatibility\nComments URL: https://news.ycombinator.com/item?id=27491512\nPoints: 101\n# Comments: 89",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/Rust1BackwardIncompatibility",
           "publishedOn": "2021-06-13T10:52:14.000Z",
           "wordCount": 671,
@@ -116,16 +134,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27491286",
           "author": "thanato0s",
-          "description": "Article URL: https://eagain.net/articles/git-for-computer-scientists/\nComments URL: https://news.ycombinator.com/item?id=27491286\nPoints: 99\n# Comments: 9",
+          "description": "Article URL: https://eagain.net/articles/git-for-computer-scientists/\nComments URL: https://news.ycombinator.com/item?id=27491286\nPoints: 118\n# Comments: 20",
           "link": "https://eagain.net/articles/git-for-computer-scientists/",
           "publishedOn": "2021-06-13T10:06:13.000Z",
           "wordCount": 964,
           "title": "Git for Computer Scientists"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27491190",
+          "author": "ecliptik",
+          "description": "Article URL: https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html\nComments URL: https://news.ycombinator.com/item?id=27491190\nPoints: 46\n# Comments: 61",
+          "link": "https://web.archive.org/web/19990117022714/https://www.pcworld.com/hardware/storage_backup/articles/jan96/jan9621.html",
+          "publishedOn": "2021-06-13T09:42:16.000Z",
+          "wordCount": 355,
+          "title": "Is Sony's 140MB MiniDisc Drive the Next Betamax? (1996)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27490988",
           "author": "ed2592",
-          "description": "Article URL: https://press.ed2592.xyz/author/chapter-1/\nComments URL: https://news.ycombinator.com/item?id=27490988\nPoints: 42\n# Comments: 16",
+          "description": "Article URL: https://press.ed2592.xyz/author/chapter-1/\nComments URL: https://news.ycombinator.com/item?id=27490988\nPoints: 44\n# Comments: 17",
           "link": "https://press.ed2592.xyz/author/chapter-1/",
           "publishedOn": "2021-06-13T09:03:19.000Z",
           "wordCount": 1273,
@@ -134,16 +161,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27490892",
           "author": "throwawaybutwhy",
-          "description": "Article URL: https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2\nComments URL: https://news.ycombinator.com/item?id=27490892\nPoints: 83\n# Comments: 29",
+          "description": "Article URL: https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2\nComments URL: https://news.ycombinator.com/item?id=27490892\nPoints: 91\n# Comments: 38",
           "link": "https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2",
           "publishedOn": "2021-06-13T08:39:56.000Z",
           "wordCount": 3039,
-          "title": "I want to learn D3. I don’t want to learn Observable. Is that ok? (2019-2021)"
+          "title": "I want to learn D3. I don’t want to learn Observable. Is that OK?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27490885",
           "author": "tempodox",
-          "description": "Article URL: https://smallstep.com/blog/command-line-secrets/\nComments URL: https://news.ycombinator.com/item?id=27490885\nPoints: 166\n# Comments: 39",
+          "description": "Article URL: https://smallstep.com/blog/command-line-secrets/\nComments URL: https://news.ycombinator.com/item?id=27490885\nPoints: 185\n# Comments: 47",
           "link": "https://smallstep.com/blog/command-line-secrets/",
           "publishedOn": "2021-06-13T08:38:27.000Z",
           "wordCount": 1476,
@@ -152,38 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27490769",
           "author": "Melchizedek",
-          "description": "Article URL: https://alex.flounder.online/gemlog/2021-01-08-useless.gmi\nComments URL: https://news.ycombinator.com/item?id=27490769\nPoints: 118\n# Comments: 106",
+          "description": "Article URL: https://alex.flounder.online/gemlog/2021-01-08-useless.gmi\nComments URL: https://news.ycombinator.com/item?id=27490769\nPoints: 136\n# Comments: 113",
           "link": "https://alex.flounder.online/gemlog/2021-01-08-useless.gmi",
           "publishedOn": "2021-06-13T08:11:47.000Z",
           "wordCount": 1336,
           "title": "Gemini is Useless"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27489685",
-          "author": "grigy",
-          "description": "Article URL: https://pycon.switowski.com/\nComments URL: https://news.ycombinator.com/item?id=27489685\nPoints: 50\n# Comments: 14",
-          "link": "https://pycon.switowski.com/",
-          "publishedOn": "2021-06-13T04:12:20.000Z",
-          "wordCount": 124,
-          "title": "Modern Python Developer's Toolkit"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27489448",
-          "author": "zdw",
-          "description": "Article URL: https://jessitron.com/2021/06/12/the-enterprise-eats-software/\nComments URL: https://news.ycombinator.com/item?id=27489448\nPoints: 79\n# Comments: 12",
-          "link": "https://jessitron.com/2021/06/12/the-enterprise-eats-software/",
-          "publishedOn": "2021-06-13T03:16:39.000Z",
-          "wordCount": 1368,
-          "title": "The Enterprise Eats Software"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27489187",
-          "author": "se4u",
-          "description": "Article URL: https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/\nComments URL: https://news.ycombinator.com/item?id=27489187\nPoints: 198\n# Comments: 48",
-          "link": "https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/",
-          "publishedOn": "2021-06-13T02:10:51.000Z",
-          "wordCount": 1968,
-          "title": "The Schindler of Japan, Chihune Sugihara"
         }
       ]
     },
@@ -317,7 +317,7 @@
           "description": "There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:\nPerhaps the most noticeable thing there …\nThe post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/",
           "publishedOn": "2021-06-11T21:38:48.000Z",
-          "wordCount": 876,
+          "wordCount": 792,
           "title": "Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!"
         },
         {
@@ -459,7 +459,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1597,
+          "wordCount": 1550,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -473,7 +473,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 4871,
+          "wordCount": 4861,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -487,7 +487,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 747,
+          "wordCount": 708,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -501,7 +501,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2603,
+          "wordCount": 2602,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -529,7 +529,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2201,
+          "wordCount": 2239,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -543,7 +543,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4176,
+          "wordCount": 4127,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -557,7 +557,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3540,
+          "wordCount": 3536,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -585,7 +585,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5422,
+          "wordCount": 5413,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -627,7 +627,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2516,
+          "wordCount": 2517,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -641,7 +641,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10249,
+          "wordCount": 10246,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -697,7 +697,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2160,
+          "wordCount": 2151,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -725,7 +725,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2736,
+          "wordCount": 2737,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
@@ -739,7 +739,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9477,
+          "wordCount": 9467,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -767,7 +767,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1991,
+          "wordCount": 1998,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -781,7 +781,7 @@
           "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 5058,
+          "wordCount": 5057,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7c233470-63c3-4557-93c0-a8cc6709b6dd/13-mega-dropdown-hover-menus.png",
@@ -823,7 +823,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2985,
+          "wordCount": 2977,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
