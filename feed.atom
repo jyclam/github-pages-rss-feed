@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T06:14:11.489Z</updated>
+    <updated>2021-06-13T07:14:09.367Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Ask HN: What things that tech recruiters do, annoy you the most as an engineer?]]></title>
-        <id>https://news.ycombinator.com/item?id=27490018</id>
-        <link href="https://news.ycombinator.com/item?id=27490018"/>
-        <updated>2021-06-13T05:31:03.000Z</updated>
-        <summary type="html"><![CDATA[For me it's definitely their desire for everything to be a call. If I'm even remotely interested, that'll be a 30mins call to setup. I really only have 3 basic things I want to know to see if it's even worth perusing: Salary range, tech stack, team size. And when you ask them about those things: "Oh, well cover all the on the call".
-Comments URL: https://news.ycombinator.com/item?id=27490018
-Points: 5
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[Signadot (YC W20) Is Hiring Founding Back End Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27490431</id>
+        <link href="https://www.workatastartup.com/jobs/42298"/>
+        <updated>2021-06-13T07:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/42298
+Comments URL: https://news.ycombinator.com/item?id=27490431
+Points: 1
+# Comments: 0]]></summary>
         <author>
-            <name>pejrich</name>
+            <name>jaguar75</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What is the SQLite of nosql databases?]]></title>
+        <id>https://news.ycombinator.com/item?id=27490361</id>
+        <link href="https://news.ycombinator.com/item?id=27490361"/>
+        <updated>2021-06-13T06:47:03.000Z</updated>
+        <summary type="html"><![CDATA[I am looking for a simple, file-based nosql database. So basically the sqlite of nosql databases.
+Comments URL: https://news.ycombinator.com/item?id=27490361
+Points: 4
+# Comments: 4]]></summary>
+        <author>
+            <name>rhim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Valley Thought India Was Its Future. Now Everything Has Changed]]></title>
+        <id>https://news.ycombinator.com/item?id=27490169</id>
+        <link href="https://slate.com/technology/2021/06/india-silicon-valley-twitter-google-censorship.html"/>
+        <updated>2021-06-13T06:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://slate.com/technology/2021/06/india-silicon-valley-twitter-google-censorship.html
+Comments URL: https://news.ycombinator.com/item?id=27490169
+Points: 25
+# Comments: 7]]></summary>
+        <author>
+            <name>mraza007</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +52,8 @@ Points: 5
         <updated>2021-06-13T05:13:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ucsdnews.ucsd.edu/pressrelease/how-your-phone-can-predict-depression-and-lead-to-personalized-treatment
 Comments URL: https://news.ycombinator.com/item?id=27489927
-Points: 4
-# Comments: 0]]></summary>
+Points: 9
+# Comments: 4]]></summary>
         <author>
             <name>rustoo</name>
         </author>
@@ -39,8 +65,8 @@ Points: 4
         <updated>2021-06-13T04:43:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-asia-57268691
 Comments URL: https://news.ycombinator.com/item?id=27489807
-Points: 10
-# Comments: 2]]></summary>
+Points: 27
+# Comments: 14]]></summary>
         <author>
             <name>arkj</name>
         </author>
@@ -52,7 +78,7 @@ Points: 10
         <updated>2021-06-13T03:16:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jessitron.com/2021/06/12/the-enterprise-eats-software/
 Comments URL: https://news.ycombinator.com/item?id=27489448
-Points: 21
+Points: 30
 # Comments: 2]]></summary>
         <author>
             <name>zdw</name>
@@ -65,8 +91,8 @@ Points: 21
         <updated>2021-06-13T02:10:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/
 Comments URL: https://news.ycombinator.com/item?id=27489187
-Points: 96
-# Comments: 12]]></summary>
+Points: 112
+# Comments: 17]]></summary>
         <author>
             <name>se4u</name>
         </author>
@@ -78,7 +104,7 @@ Points: 96
         <updated>2021-06-13T01:39:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/
 Comments URL: https://news.ycombinator.com/item?id=27489051
-Points: 37
+Points: 40
 # Comments: 3]]></summary>
         <author>
             <name>fortran77</name>
@@ -91,23 +117,10 @@ Points: 37
         <updated>2021-06-13T01:18:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/international/2021/06/12/social-media-are-turbocharging-the-export-of-americas-political-culture
 Comments URL: https://news.ycombinator.com/item?id=27488950
-Points: 113
-# Comments: 87]]></summary>
+Points: 127
+# Comments: 118]]></summary>
         <author>
             <name>systemvoltage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comic Mono – a legible monospace font]]></title>
-        <id>https://news.ycombinator.com/item?id=27488524</id>
-        <link href="https://github.com/dtinth/comic-mono-font"/>
-        <updated>2021-06-13T00:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/dtinth/comic-mono-font
-Comments URL: https://news.ycombinator.com/item?id=27488524
-Points: 95
-# Comments: 39]]></summary>
-        <author>
-            <name>dTal</name>
         </author>
     </entry>
     <entry>
@@ -117,8 +130,8 @@ Points: 95
         <updated>2021-06-12T23:12:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pastes.glitchwrks.com/L88HFhJs
 Comments URL: https://news.ycombinator.com/item?id=27488224
-Points: 103
-# Comments: 27]]></summary>
+Points: 120
+# Comments: 34]]></summary>
         <author>
             <name>systems_glitch</name>
         </author>
@@ -130,8 +143,8 @@ Points: 103
         <updated>2021-06-12T22:33:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Andrew_Taylor/status/1403709080737390592
 Comments URL: https://news.ycombinator.com/item?id=27487958
-Points: 282
-# Comments: 39]]></summary>
+Points: 311
+# Comments: 41]]></summary>
         <author>
             <name>fanf2</name>
         </author>
@@ -143,23 +156,10 @@ Points: 282
         <updated>2021-06-12T21:11:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html
 Comments URL: https://news.ycombinator.com/item?id=27487465
-Points: 95
-# Comments: 35]]></summary>
+Points: 108
+# Comments: 38]]></summary>
         <author>
             <name>steveklabnik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substack (YC W18) is hiring engineers to build the future of writing]]></title>
-        <id>https://news.ycombinator.com/item?id=27487407</id>
-        <link href="https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81"/>
-        <updated>2021-06-12T21:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81
-Comments URL: https://news.ycombinator.com/item?id=27487407
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>jairajs89</name>
         </author>
     </entry>
     <entry>
@@ -169,8 +169,8 @@ Points: 1
         <updated>2021-06-12T20:08:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://play.elevatorsaga.com/
 Comments URL: https://news.ycombinator.com/item?id=27487111
-Points: 192
-# Comments: 71]]></summary>
+Points: 206
+# Comments: 76]]></summary>
         <author>
             <name>warpech</name>
         </author>
@@ -182,7 +182,7 @@ Points: 192
         <updated>2021-06-12T19:19:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html
 Comments URL: https://news.ycombinator.com/item?id=27486820
-Points: 61
+Points: 63
 # Comments: 7]]></summary>
         <author>
             <name>rebeccaskinner</name>
@@ -195,8 +195,8 @@ Points: 61
         <updated>2021-06-12T18:15:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/autos-transportation/vw-says-data-breach-vendor-impacted-33-million-people-north-america-2021-06-11/
 Comments URL: https://news.ycombinator.com/item?id=27486372
-Points: 61
-# Comments: 17]]></summary>
+Points: 67
+# Comments: 18]]></summary>
         <author>
             <name>ibraheemdev</name>
         </author>
@@ -208,8 +208,8 @@ Points: 61
         <updated>2021-06-12T17:15:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time
 Comments URL: https://news.ycombinator.com/item?id=27485881
-Points: 126
-# Comments: 18]]></summary>
+Points: 127
+# Comments: 19]]></summary>
         <author>
             <name>jdmark</name>
         </author>
@@ -221,7 +221,7 @@ Points: 126
         <updated>2021-06-12T16:37:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.04026
 Comments URL: https://news.ycombinator.com/item?id=27485574
-Points: 226
+Points: 228
 # Comments: 52]]></summary>
         <author>
             <name>tims457</name>
@@ -234,8 +234,8 @@ Points: 226
         <updated>2021-06-12T15:54:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene
 Comments URL: https://news.ycombinator.com/item?id=27485288
-Points: 65
-# Comments: 62]]></summary>
+Points: 71
+# Comments: 64]]></summary>
         <author>
             <name>fybs</name>
         </author>
@@ -247,23 +247,23 @@ Points: 65
         <updated>2021-06-12T15:52:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ssir.org/articles/entry/burnout_from_an_organizational_perspective
 Comments URL: https://news.ycombinator.com/item?id=27485270
-Points: 171
-# Comments: 79]]></summary>
+Points: 177
+# Comments: 80]]></summary>
         <author>
             <name>rustoo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hilton's bizarre 1967 plan for a space hotel]]></title>
-        <id>https://news.ycombinator.com/item?id=27482846</id>
-        <link href="https://edition.cnn.com/travel/article/hilton-hotel-on-moon-scn-cmd/index.html"/>
-        <updated>2021-06-12T08:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://edition.cnn.com/travel/article/hilton-hotel-on-moon-scn-cmd/index.html
-Comments URL: https://news.ycombinator.com/item?id=27482846
-Points: 29
-# Comments: 12]]></summary>
+        <title type="html"><![CDATA[Implementing Private Fields for JavaScript]]></title>
+        <id>https://news.ycombinator.com/item?id=27483755</id>
+        <link href="https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/"/>
+        <updated>2021-06-12T11:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/
+Comments URL: https://news.ycombinator.com/item?id=27483755
+Points: 5
+# Comments: 3]]></summary>
         <author>
-            <name>ZeljkoS</name>
+            <name>kiyanwang</name>
         </author>
     </entry>
     <entry>
