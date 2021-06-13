@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T03:15:18.022Z</updated>
+    <updated>2021-06-13T04:14:20.915Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,10 +13,23 @@
         <updated>2021-06-13T02:10:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/
 Comments URL: https://news.ycombinator.com/item?id=27489187
-Points: 26
-# Comments: 2]]></summary>
+Points: 56
+# Comments: 7]]></summary>
         <author>
             <name>se4u</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Babylon and the Square Root of 2]]></title>
+        <id>https://news.ycombinator.com/item?id=27489051</id>
+        <link href="https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/"/>
+        <updated>2021-06-13T01:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/
+Comments URL: https://news.ycombinator.com/item?id=27489051
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>fortran77</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +39,8 @@ Points: 26
         <updated>2021-06-13T01:18:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/international/2021/06/12/social-media-are-turbocharging-the-export-of-americas-political-culture
 Comments URL: https://news.ycombinator.com/item?id=27488950
-Points: 37
-# Comments: 13]]></summary>
+Points: 67
+# Comments: 37]]></summary>
         <author>
             <name>systemvoltage</name>
         </author>
@@ -39,8 +52,8 @@ Points: 37
         <updated>2021-06-13T00:03:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/dtinth/comic-mono-font
 Comments URL: https://news.ycombinator.com/item?id=27488524
-Points: 64
-# Comments: 25]]></summary>
+Points: 78
+# Comments: 31]]></summary>
         <author>
             <name>dTal</name>
         </author>
@@ -52,8 +65,8 @@ Points: 64
         <updated>2021-06-12T23:12:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pastes.glitchwrks.com/L88HFhJs
 Comments URL: https://news.ycombinator.com/item?id=27488224
-Points: 29
-# Comments: 10]]></summary>
+Points: 49
+# Comments: 15]]></summary>
         <author>
             <name>systems_glitch</name>
         </author>
@@ -65,8 +78,8 @@ Points: 29
         <updated>2021-06-12T22:33:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Andrew_Taylor/status/1403709080737390592
 Comments URL: https://news.ycombinator.com/item?id=27487958
-Points: 163
-# Comments: 26]]></summary>
+Points: 214
+# Comments: 27]]></summary>
         <author>
             <name>fanf2</name>
         </author>
@@ -78,8 +91,8 @@ Points: 163
         <updated>2021-06-12T21:11:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html
 Comments URL: https://news.ycombinator.com/item?id=27487465
-Points: 59
-# Comments: 10]]></summary>
+Points: 73
+# Comments: 22]]></summary>
         <author>
             <name>steveklabnik</name>
         </author>
@@ -104,8 +117,8 @@ Points: 1
         <updated>2021-06-12T20:08:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://play.elevatorsaga.com/
 Comments URL: https://news.ycombinator.com/item?id=27487111
-Points: 152
-# Comments: 58]]></summary>
+Points: 165
+# Comments: 63]]></summary>
         <author>
             <name>warpech</name>
         </author>
@@ -117,8 +130,8 @@ Points: 152
         <updated>2021-06-12T19:52:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bugs.python.org/issue38980?fbclid=IwAR0cyfahpBywNzbqLCpcfwatOaU6W8UQp7LgVu8KZ8hDc-wKLjLE7wjOs7g
 Comments URL: https://news.ycombinator.com/item?id=27487028
-Points: 162
-# Comments: 74]]></summary>
+Points: 177
+# Comments: 78]]></summary>
         <author>
             <name>chx</name>
         </author>
@@ -130,7 +143,7 @@ Points: 162
         <updated>2021-06-12T19:19:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html
 Comments URL: https://news.ycombinator.com/item?id=27486820
-Points: 49
+Points: 56
 # Comments: 5]]></summary>
         <author>
             <name>rebeccaskinner</name>
@@ -143,23 +156,10 @@ Points: 49
         <updated>2021-06-12T19:02:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html?m=1
 Comments URL: https://news.ycombinator.com/item?id=27486706
-Points: 68
+Points: 73
 # Comments: 17]]></summary>
         <author>
             <name>pcr910303</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unifying Structured Recursion Schemes [pdf] (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=27486694</id>
-        <link href="https://www.cs.ox.ac.uk/people/nicolas.wu/papers/URS.pdf"/>
-        <updated>2021-06-12T19:01:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cs.ox.ac.uk/people/nicolas.wu/papers/URS.pdf
-Comments URL: https://news.ycombinator.com/item?id=27486694
-Points: 32
-# Comments: 4]]></summary>
-        <author>
-            <name>adamnemecek</name>
         </author>
     </entry>
     <entry>
@@ -169,8 +169,8 @@ Points: 32
         <updated>2021-06-12T18:15:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/autos-transportation/vw-says-data-breach-vendor-impacted-33-million-people-north-america-2021-06-11/
 Comments URL: https://news.ycombinator.com/item?id=27486372
-Points: 46
-# Comments: 14]]></summary>
+Points: 51
+# Comments: 16]]></summary>
         <author>
             <name>ibraheemdev</name>
         </author>
@@ -182,8 +182,8 @@ Points: 46
         <updated>2021-06-12T17:15:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time
 Comments URL: https://news.ycombinator.com/item?id=27485881
-Points: 98
-# Comments: 14]]></summary>
+Points: 108
+# Comments: 16]]></summary>
         <author>
             <name>jdmark</name>
         </author>
@@ -195,8 +195,8 @@ Points: 98
         <updated>2021-06-12T16:37:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.04026
 Comments URL: https://news.ycombinator.com/item?id=27485574
-Points: 198
-# Comments: 47]]></summary>
+Points: 207
+# Comments: 50]]></summary>
         <author>
             <name>tims457</name>
         </author>
@@ -208,8 +208,8 @@ Points: 198
         <updated>2021-06-12T15:54:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene
 Comments URL: https://news.ycombinator.com/item?id=27485288
-Points: 53
-# Comments: 47]]></summary>
+Points: 57
+# Comments: 54]]></summary>
         <author>
             <name>fybs</name>
         </author>
@@ -221,7 +221,7 @@ Points: 53
         <updated>2021-06-12T15:52:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ssir.org/articles/entry/burnout_from_an_organizational_perspective
 Comments URL: https://news.ycombinator.com/item?id=27485270
-Points: 157
+Points: 162
 # Comments: 73]]></summary>
         <author>
             <name>rustoo</name>
@@ -234,23 +234,10 @@ Points: 157
         <updated>2021-06-12T13:17:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by
 Comments URL: https://news.ycombinator.com/item?id=27484288
-Points: 359
-# Comments: 213]]></summary>
+Points: 366
+# Comments: 215]]></summary>
         <author>
             <name>AndyMPatton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Particle seen switching between matter and antimatter at CERN]]></title>
-        <id>https://news.ycombinator.com/item?id=27483949</id>
-        <link href="https://newatlas.com/physics/charm-meson-particle-matter-antimatter/"/>
-        <updated>2021-06-12T12:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://newatlas.com/physics/charm-meson-particle-matter-antimatter/
-Comments URL: https://news.ycombinator.com/item?id=27483949
-Points: 173
-# Comments: 121]]></summary>
-        <author>
-            <name>birriel</name>
         </author>
     </entry>
     <entry>
@@ -260,10 +247,23 @@ Points: 173
         <updated>2021-06-12T10:34:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272
 Comments URL: https://news.ycombinator.com/item?id=27483412
-Points: 440
-# Comments: 210]]></summary>
+Points: 452
+# Comments: 214]]></summary>
         <author>
             <name>ushakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you really need Redis? How to get away with just PostgreSQL]]></title>
+        <id>https://news.ycombinator.com/item?id=27482243</id>
+        <link href="https://spin.atomicobject.com/2021/02/04/redis-postgresql/"/>
+        <updated>2021-06-12T06:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spin.atomicobject.com/2021/02/04/redis-postgresql/
+Comments URL: https://news.ycombinator.com/item?id=27482243
+Points: 728
+# Comments: 429]]></summary>
+        <author>
+            <name>hyzyla</name>
         </author>
     </entry>
     <entry>
