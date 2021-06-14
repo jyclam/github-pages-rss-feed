@@ -2,21 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T13:23:49.764Z</updated>
+    <updated>2021-06-14T14:11:09.482Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Departures of Police Officers Accelerated During a Year of Protests]]></title>
-        <id>https://news.ycombinator.com/item?id=27501871</id>
-        <link href="https://www.nytimes.com/2021/06/11/us/police-retirements-resignations-recruits.html"/>
-        <updated>2021-06-14T12:42:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/11/us/police-retirements-resignations-recruits.html
-Comments URL: https://news.ycombinator.com/item?id=27501871
-Points: 15
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[Securing Your Website With Subresource Integrity]]></title>
+        <id>https://css-tricks.com/?p=342070</id>
+        <link href="https://css-tricks.com/securing-your-website-with-subresource-integrity/"/>
+        <updated>2021-06-14T13:30:27.000Z</updated>
+        <summary type="html"><![CDATA[When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …
+The post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>koolba</name>
+            <name>Khari McMillian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[National High Magnetic Field Laboratory]]></title>
+        <id>https://news.ycombinator.com/item?id=27502237</id>
+        <link href="https://nationalmaglab.org/"/>
+        <updated>2021-06-14T13:26:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nationalmaglab.org/
+Comments URL: https://news.ycombinator.com/item?id=27502237
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>graderjs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seizing the Middle: Chess Strategy in Business]]></title>
+        <id>https://news.ycombinator.com/item?id=27502020</id>
+        <link href="https://fs.blog/2021/06/seizing-the-middle-chess-strategy-in-business/"/>
+        <updated>2021-06-14T13:02:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fs.blog/2021/06/seizing-the-middle-chess-strategy-in-business/
+Comments URL: https://news.ycombinator.com/item?id=27502020
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>feross</name>
         </author>
     </entry>
     <entry>
@@ -26,10 +51,23 @@ Points: 15
         <updated>2021-06-14T12:23:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.dev/file-handling/
 Comments URL: https://news.ycombinator.com/item?id=27501732
-Points: 13
-# Comments: 1]]></summary>
+Points: 73
+# Comments: 33]]></summary>
         <author>
             <name>mukwevhom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Workspace for Everyone]]></title>
+        <id>https://news.ycombinator.com/item?id=27501659</id>
+        <link href="https://blog.google/products/workspace/google-workspace-everyone/"/>
+        <updated>2021-06-14T12:13:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.google/products/workspace/google-workspace-everyone/
+Comments URL: https://news.ycombinator.com/item?id=27501659
+Points: 38
+# Comments: 34]]></summary>
+        <author>
+            <name>danirod</name>
         </author>
     </entry>
     <entry>
@@ -46,14 +84,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Last remaining 1000 user community channel seized by Freenode staff]]></title>
+        <title type="html"><![CDATA[Last remaining 1000+ user community channel seized by Freenode staff]]></title>
         <id>https://news.ycombinator.com/item?id=27501512</id>
         <link href="https://linux.chat/linux-on-freenode/"/>
         <updated>2021-06-14T11:54:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://linux.chat/linux-on-freenode/
 Comments URL: https://news.ycombinator.com/item?id=27501512
-Points: 59
-# Comments: 25]]></summary>
+Points: 110
+# Comments: 61]]></summary>
         <author>
             <name>rascul</name>
         </author>
@@ -65,8 +103,8 @@ Points: 59
         <updated>2021-06-14T11:45:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/ideas/archive/2021/06/winners-losers-work-home-remote/619181/
 Comments URL: https://news.ycombinator.com/item?id=27501453
-Points: 20
-# Comments: 2]]></summary>
+Points: 34
+# Comments: 19]]></summary>
         <author>
             <name>chrisaycock</name>
         </author>
@@ -79,23 +117,23 @@ Points: 20
         <summary type="html"><![CDATA[As the title says. Visiting either the domain (https://issuetracker.google.com/) or a specific issue (https://issuetracker.google.com/issues/190835083) presents only a sign-in screen.
 This is for merely viewing issues, not submitting or commenting on them, so arguments about limiting abuse do not apply.
 Comments URL: https://news.ycombinator.com/item?id=27501417
-Points: 34
-# Comments: 17]]></summary>
+Points: 47
+# Comments: 20]]></summary>
         <author>
             <name>MikeUt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RISC-V Evolving to Address Supercomputers and AI]]></title>
-        <id>https://news.ycombinator.com/item?id=27501235</id>
-        <link href="https://www.tomshardware.com/news/risc-v-set-to-address-ai-and-supercomputer-workloads"/>
-        <updated>2021-06-14T11:05:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/news/risc-v-set-to-address-ai-and-supercomputer-workloads
-Comments URL: https://news.ycombinator.com/item?id=27501235
-Points: 21
+        <title type="html"><![CDATA[Code Observation: Clojure's Destructuring]]></title>
+        <id>https://news.ycombinator.com/item?id=27501254</id>
+        <link href="https://danielgregoire.dev/posts/2021-06-13-code-observation-clojure-destructuring/"/>
+        <updated>2021-06-14T11:08:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://danielgregoire.dev/posts/2021-06-13-code-observation-clojure-destructuring/
+Comments URL: https://news.ycombinator.com/item?id=27501254
+Points: 11
 # Comments: 0]]></summary>
         <author>
-            <name>rbanffy</name>
+            <name>semperos</name>
         </author>
     </entry>
     <entry>
@@ -105,23 +143,10 @@ Points: 21
         <updated>2021-06-14T11:03:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html
 Comments URL: https://news.ycombinator.com/item?id=27501221
-Points: 98
-# Comments: 124]]></summary>
+Points: 189
+# Comments: 220]]></summary>
         <author>
             <name>samizdis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why IBM Is Suing GlobalFoundries over Chip Roadmap Failures]]></title>
-        <id>https://news.ycombinator.com/item?id=27501054</id>
-        <link href="https://www.nextplatform.com/2021/06/10/why-ibm-is-suing-globalfoundries-over-chip-roadmap-failures/"/>
-        <updated>2021-06-14T10:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nextplatform.com/2021/06/10/why-ibm-is-suing-globalfoundries-over-chip-roadmap-failures/
-Comments URL: https://news.ycombinator.com/item?id=27501054
-Points: 34
-# Comments: 9]]></summary>
-        <author>
-            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -141,8 +166,8 @@ Points: 34
         <updated>2021-06-14T09:51:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/the-global-chip-shortage-is-creating-a-new-problem-more-fake-components-as-fraudsters-cash-in/
 Comments URL: https://news.ycombinator.com/item?id=27500872
-Points: 52
-# Comments: 16]]></summary>
+Points: 66
+# Comments: 25]]></summary>
         <author>
             <name>ageofzfarm</name>
         </author>
@@ -154,8 +179,8 @@ Points: 52
         <updated>2021-06-14T09:34:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://rrbike.freeservers.com/main.htm
 Comments URL: https://news.ycombinator.com/item?id=27500787
-Points: 58
-# Comments: 27]]></summary>
+Points: 69
+# Comments: 37]]></summary>
         <author>
             <name>Kaibeezy</name>
         </author>
@@ -167,7 +192,7 @@ Points: 58
         <updated>2021-06-14T08:30:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fivefilters.org/2021/newsletter-signup-forms/
 Comments URL: https://news.ycombinator.com/item?id=27500502
-Points: 30
+Points: 31
 # Comments: 7]]></summary>
         <author>
             <name>k1m</name>
@@ -180,8 +205,8 @@ Points: 30
         <updated>2021-06-14T07:23:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alternative-a.com/en/blog/v3release
 Comments URL: https://news.ycombinator.com/item?id=27500177
-Points: 50
-# Comments: 18]]></summary>
+Points: 54
+# Comments: 19]]></summary>
         <author>
             <name>D2man</name>
         </author>
@@ -193,8 +218,8 @@ Points: 50
         <updated>2021-06-14T06:38:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://shaunlebron.github.io/t3tr0s-slides
 Comments URL: https://news.ycombinator.com/item?id=27499904
-Points: 118
-# Comments: 7]]></summary>
+Points: 141
+# Comments: 8]]></summary>
         <author>
             <name>simongray</name>
         </author>
@@ -206,8 +231,8 @@ Points: 118
         <updated>2021-06-14T04:32:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://antigonejournal.com/2021/06/greek-accents-ten-rules/
 Comments URL: https://news.ycombinator.com/item?id=27499323
-Points: 80
-# Comments: 29]]></summary>
+Points: 86
+# Comments: 31]]></summary>
         <author>
             <name>amanuensis</name>
         </author>
@@ -219,8 +244,8 @@ Points: 80
         <updated>2021-06-14T04:23:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gru.gq/2020/02/12/forgotten-tricks-of-trench-warfare/
 Comments URL: https://news.ycombinator.com/item?id=27499279
-Points: 86
-# Comments: 33]]></summary>
+Points: 97
+# Comments: 39]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -232,8 +257,8 @@ Points: 86
         <updated>2021-06-14T04:21:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://xiaoyunyang.medium.com/how-playing-the-piano-taught-me-math-8917f84a4326
 Comments URL: https://news.ycombinator.com/item?id=27499271
-Points: 51
-# Comments: 12]]></summary>
+Points: 54
+# Comments: 16]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -245,8 +270,8 @@ Points: 51
         <updated>2021-06-14T04:19:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.collabora.com/news-and-blog/blog/2021/06/11/open-source-opengl-es-3.1-on-mali-gpus-with-panfrost/
 Comments URL: https://news.ycombinator.com/item?id=27499263
-Points: 95
-# Comments: 20]]></summary>
+Points: 97
+# Comments: 22]]></summary>
         <author>
             <name>CameronNemo</name>
         </author>
@@ -258,23 +283,10 @@ Points: 95
         <updated>2021-06-14T03:06:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/worklife/article/20210528-positive-deviants-why-rebellious-workers-spark-gr-ideas
 Comments URL: https://news.ycombinator.com/item?id=27498862
-Points: 202
-# Comments: 77]]></summary>
+Points: 210
+# Comments: 83]]></summary>
         <author>
             <name>sonabinu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doom Running on an IKEA Lamp [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27498789</id>
-        <link href="https://www.youtube.com/watch?v=7ybybf4tJWw"/>
-        <updated>2021-06-14T02:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=7ybybf4tJWw
-Comments URL: https://news.ycombinator.com/item?id=27498789
-Points: 658
-# Comments: 180]]></summary>
-        <author>
-            <name>kregasaurusrex</name>
         </author>
     </entry>
     <entry>
@@ -641,18 +653,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
-        <id>https://css-tricks.com/?p=341584</id>
-        <link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
-        <updated>2021-06-03T14:25:57.000Z</updated>
-        <summary type="html"><![CDATA[A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …
-The post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Managing Shared State In Vue 3]]></title>
         <id>https://smashingmagazine.com/2021/06/managing-shared-state-vue3/</id>
         <link href="https://smashingmagazine.com/2021/06/managing-shared-state-vue3/"/>
@@ -951,18 +951,6 @@ Chore: Reorganize to monorepo with npm workspace.]]></summary>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
         <updated>2021-05-16T02:33:58.000Z</updated>
         <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
