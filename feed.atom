@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T21:10:47.866Z</updated>
+    <updated>2021-06-14T22:12:57.011Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -20,16 +20,29 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[80% of tech could be built outside IT by 2024, thanks to low-code tools]]></title>
-        <id>https://news.ycombinator.com/item?id=27508206</id>
-        <link href="https://venturebeat.com/2021/06/14/80-of-tech-could-be-built-outside-it-by-2024-thanks-to-low-code-tools/"/>
-        <updated>2021-06-14T20:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://venturebeat.com/2021/06/14/80-of-tech-could-be-built-outside-it-by-2024-thanks-to-low-code-tools/
-Comments URL: https://news.ycombinator.com/item?id=27508206
-Points: 5
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Only 6 of the 50 largest companies are in Europe. LVMH is highest at #18]]></title>
+        <id>https://news.ycombinator.com/item?id=27507851</id>
+        <link href="https://companiesmarketcap.com"/>
+        <updated>2021-06-14T20:26:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://companiesmarketcap.com
+Comments URL: https://news.ycombinator.com/item?id=27507851
+Points: 23
+# Comments: 34]]></summary>
         <author>
-            <name>throwaway2016a</name>
+            <name>golfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTDI FT232RL: Real vs. Fake]]></title>
+        <id>https://news.ycombinator.com/item?id=27507723</id>
+        <link href="https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal"/>
+        <updated>2021-06-14T20:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
+Comments URL: https://news.ycombinator.com/item?id=27507723
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>buran77</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +52,8 @@ Points: 5
         <updated>2021-06-14T20:10:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/mattrighetti/HNReaderApp
 Comments URL: https://news.ycombinator.com/item?id=27507645
-Points: 18
-# Comments: 3]]></summary>
+Points: 43
+# Comments: 33]]></summary>
         <author>
             <name>mattrighetti</name>
         </author>
@@ -52,8 +65,8 @@ Points: 18
         <updated>2021-06-14T19:29:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.1password.com/supporting-lets-encrypt/
 Comments URL: https://news.ycombinator.com/item?id=27507088
-Points: 48
-# Comments: 14]]></summary>
+Points: 81
+# Comments: 33]]></summary>
         <author>
             <name>robin_reala</name>
         </author>
@@ -65,8 +78,8 @@ Points: 48
         <updated>2021-06-14T19:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://azartiz.com/?2021-06-13T20:25:16.558Z
 Comments URL: https://news.ycombinator.com/item?id=27507045
-Points: 87
-# Comments: 25]]></summary>
+Points: 132
+# Comments: 41]]></summary>
         <author>
             <name>oblib</name>
         </author>
@@ -88,8 +101,8 @@ Points: 87
         <updated>2021-06-14T18:49:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb
 Comments URL: https://news.ycombinator.com/item?id=27506609
-Points: 86
-# Comments: 48]]></summary>
+Points: 128
+# Comments: 80]]></summary>
         <author>
             <name>SmkyMt</name>
         </author>
@@ -101,8 +114,8 @@ Points: 86
         <updated>2021-06-14T18:45:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/
 Comments URL: https://news.ycombinator.com/item?id=27506550
-Points: 102
-# Comments: 84]]></summary>
+Points: 134
+# Comments: 124]]></summary>
         <author>
             <name>jmilloy</name>
         </author>
@@ -134,14 +147,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Metastable Failures in Distributed Systems]]></title>
+        <id>https://news.ycombinator.com/item?id=27506167</id>
+        <link href="http://charap.co/metastable-failures-in-distributed-systems/"/>
+        <updated>2021-06-14T18:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://charap.co/metastable-failures-in-distributed-systems/
+Comments URL: https://news.ycombinator.com/item?id=27506167
+Points: 12
+# Comments: 1]]></summary>
+        <author>
+            <name>mjb</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Adventures in Fuzzing Matrix’s Encryption]]></title>
         <id>https://news.ycombinator.com/item?id=27505901</id>
         <link href="https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm"/>
         <updated>2021-06-14T18:00:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm
 Comments URL: https://news.ycombinator.com/item?id=27505901
-Points: 47
-# Comments: 4]]></summary>
+Points: 60
+# Comments: 7]]></summary>
         <author>
             <name>Arathorn</name>
         </author>
@@ -153,8 +179,8 @@ Points: 47
         <updated>2021-06-14T16:03:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html
 Comments URL: https://news.ycombinator.com/item?id=27504254
-Points: 121
-# Comments: 42]]></summary>
+Points: 136
+# Comments: 47]]></summary>
         <author>
             <name>ColinWright</name>
         </author>
@@ -177,8 +203,8 @@ The rise of online shopping has posed significant challenges for fashion retaile
         <updated>2021-06-14T15:17:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://routinedb.com/routines
 Comments URL: https://news.ycombinator.com/item?id=27503597
-Points: 229
-# Comments: 134]]></summary>
+Points: 245
+# Comments: 138]]></summary>
         <author>
             <name>sitesuniverse</name>
         </author>
@@ -190,8 +216,8 @@ Points: 229
         <updated>2021-06-14T14:32:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stripe.com/identity
 Comments URL: https://news.ycombinator.com/item?id=27502993
-Points: 725
-# Comments: 400]]></summary>
+Points: 776
+# Comments: 423]]></summary>
         <author>
             <name>thomaspark</name>
         </author>
@@ -209,27 +235,14 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[National High Magnetic Field Laboratory]]></title>
-        <id>https://news.ycombinator.com/item?id=27502237</id>
-        <link href="https://nationalmaglab.org/"/>
-        <updated>2021-06-14T13:26:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nationalmaglab.org/
-Comments URL: https://news.ycombinator.com/item?id=27502237
-Points: 61
-# Comments: 23]]></summary>
-        <author>
-            <name>graderjs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Seizing the Middle: Chess Strategy in Business]]></title>
         <id>https://news.ycombinator.com/item?id=27502020</id>
         <link href="https://fs.blog/2021/06/seizing-the-middle-chess-strategy-in-business/"/>
         <updated>2021-06-14T13:02:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fs.blog/2021/06/seizing-the-middle-chess-strategy-in-business/
 Comments URL: https://news.ycombinator.com/item?id=27502020
-Points: 64
-# Comments: 41]]></summary>
+Points: 69
+# Comments: 44]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -241,8 +254,8 @@ Points: 64
         <updated>2021-06-14T12:33:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57468750
 Comments URL: https://news.ycombinator.com/item?id=27501805
-Points: 267
-# Comments: 187]]></summary>
+Points: 285
+# Comments: 199]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -254,8 +267,8 @@ Points: 267
         <updated>2021-06-14T12:23:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.dev/file-handling/
 Comments URL: https://news.ycombinator.com/item?id=27501732
-Points: 151
-# Comments: 129]]></summary>
+Points: 166
+# Comments: 143]]></summary>
         <author>
             <name>mukwevhom</name>
         </author>
@@ -267,8 +280,8 @@ Points: 151
         <updated>2021-06-14T12:13:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/products/workspace/google-workspace-everyone/
 Comments URL: https://news.ycombinator.com/item?id=27501659
-Points: 167
-# Comments: 208]]></summary>
+Points: 175
+# Comments: 242]]></summary>
         <author>
             <name>danirod</name>
         </author>
@@ -280,8 +293,8 @@ Points: 167
         <updated>2021-06-14T11:03:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html
 Comments URL: https://news.ycombinator.com/item?id=27501221
-Points: 629
-# Comments: 779]]></summary>
+Points: 660
+# Comments: 815]]></summary>
         <author>
             <name>samizdis</name>
         </author>
@@ -303,23 +316,10 @@ Points: 629
         <updated>2021-06-14T09:34:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://rrbike.freeservers.com/main.htm
 Comments URL: https://news.ycombinator.com/item?id=27500787
-Points: 115
-# Comments: 57]]></summary>
+Points: 116
+# Comments: 59]]></summary>
         <author>
             <name>Kaibeezy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tetris in ClojureScript]]></title>
-        <id>https://news.ycombinator.com/item?id=27499904</id>
-        <link href="https://shaunlebron.github.io/t3tr0s-slides"/>
-        <updated>2021-06-14T06:38:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://shaunlebron.github.io/t3tr0s-slides
-Comments URL: https://news.ycombinator.com/item?id=27499904
-Points: 246
-# Comments: 29]]></summary>
-        <author>
-            <name>simongray</name>
         </author>
     </entry>
     <entry>
