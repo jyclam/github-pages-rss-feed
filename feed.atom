@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T02:42:48.538Z</updated>
+    <updated>2021-06-14T03:16:14.999Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scientists remotely controlled the social behavior of mice with light]]></title>
+        <id>https://news.ycombinator.com/item?id=27498711</id>
+        <link href="https://www.sciencenews.org/article/optogenetics-social-behavior-brains-mice-light"/>
+        <updated>2021-06-14T02:38:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sciencenews.org/article/optogenetics-social-behavior-brains-mice-light
+Comments URL: https://news.ycombinator.com/item?id=27498711
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>lnyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Opinion: The secret gag orders must stop]]></title>
         <id>https://news.ycombinator.com/item?id=27498417</id>
@@ -13,8 +26,8 @@
         <updated>2021-06-14T01:38:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/opinions/2021/06/13/microsoft-brad-smith-trump-justice-department-gag-orders/
 Comments URL: https://news.ycombinator.com/item?id=27498417
-Points: 23
-# Comments: 3]]></summary>
+Points: 57
+# Comments: 7]]></summary>
         <author>
             <name>1cvmask</name>
         </author>
@@ -26,8 +39,8 @@ Points: 23
         <updated>2021-06-14T01:28:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/10/long-term-crypto-threat-quantum-computers-hacking-bitcoin-wallets.html
 Comments URL: https://news.ycombinator.com/item?id=27498366
-Points: 7
-# Comments: 4]]></summary>
+Points: 12
+# Comments: 7]]></summary>
         <author>
             <name>StevenSeagull</name>
         </author>
@@ -46,14 +59,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why Gold and Bitcoin Are Popular]]></title>
+        <id>https://news.ycombinator.com/item?id=27498190</id>
+        <link href="https://www.lynalden.com/gold-and-bitcoin/"/>
+        <updated>2021-06-14T01:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.lynalden.com/gold-and-bitcoin/
+Comments URL: https://news.ycombinator.com/item?id=27498190
+Points: 21
+# Comments: 21]]></summary>
+        <author>
+            <name>ca98am79</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Solana Labs completes a $314M private token sale led by Andreessen Horowitz]]></title>
         <id>https://news.ycombinator.com/item?id=27496778</id>
         <link href="https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital"/>
         <updated>2021-06-13T21:39:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://solana.com/news/solana-labs-completes-a-314-15m-private-token-sale-led-by-andreessen-horowitz-and-polychain-capital
 Comments URL: https://news.ycombinator.com/item?id=27496778
-Points: 87
-# Comments: 156]]></summary>
+Points: 91
+# Comments: 164]]></summary>
         <author>
             <name>nikita</name>
         </author>
@@ -65,7 +91,7 @@ Points: 87
         <updated>2021-06-13T21:33:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/
 Comments URL: https://news.ycombinator.com/item?id=27496712
-Points: 62
+Points: 80
 # Comments: 6]]></summary>
         <author>
             <name>elorant</name>
@@ -78,8 +104,8 @@ Points: 62
         <updated>2021-06-13T21:29:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://juliagpu.org/post/2021-06-10-cuda_3.3/
 Comments URL: https://news.ycombinator.com/item?id=27496679
-Points: 93
-# Comments: 11]]></summary>
+Points: 95
+# Comments: 14]]></summary>
         <author>
             <name>ViralBShah</name>
         </author>
@@ -91,8 +117,8 @@ Points: 93
         <updated>2021-06-13T21:19:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.aboutchromebooks.com/news/linux-on-chromebooks-just-might-get-me-through-a-masters-in-computer-science/
 Comments URL: https://news.ycombinator.com/item?id=27496595
-Points: 84
-# Comments: 79]]></summary>
+Points: 88
+# Comments: 83]]></summary>
         <author>
             <name>every</name>
         </author>
@@ -104,8 +130,8 @@ Points: 84
         <updated>2021-06-13T20:28:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.si.com/mlb/2021/06/04/sticky-stuff-is-the-new-steroids-daily-cover
 Comments URL: https://news.ycombinator.com/item?id=27496095
-Points: 95
-# Comments: 91]]></summary>
+Points: 100
+# Comments: 92]]></summary>
         <author>
             <name>SheinhardtWigCo</name>
         </author>
@@ -117,23 +143,10 @@ Points: 95
         <updated>2021-06-13T19:31:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://klim.co.nz/blog/manuka-design-information/
 Comments URL: https://news.ycombinator.com/item?id=27495532
-Points: 17
+Points: 20
 # Comments: 5]]></summary>
         <author>
             <name>firloop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Eulogy for Sidney Morgenbesser (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=27495525</id>
-        <link href="https://www.tabletmag.com/sections/arts-letters/articles/sidney-morgenbesser"/>
-        <updated>2021-06-13T19:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tabletmag.com/sections/arts-letters/articles/sidney-morgenbesser
-Comments URL: https://news.ycombinator.com/item?id=27495525
-Points: 4
-# Comments: 0]]></summary>
-        <author>
-            <name>robbybaron</name>
         </author>
     </entry>
     <entry>
@@ -143,8 +156,8 @@ Points: 4
         <updated>2021-06-13T18:13:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/
 Comments URL: https://news.ycombinator.com/item?id=27494851
-Points: 31
-# Comments: 10]]></summary>
+Points: 33
+# Comments: 11]]></summary>
         <author>
             <name>fossislife</name>
         </author>
@@ -156,8 +169,8 @@ Points: 31
         <updated>2021-06-13T16:37:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/v7e77y/the-dollar149-smartphone-that-could-bring-the-linux-mobile-ecosystem-to-life
 Comments URL: https://news.ycombinator.com/item?id=27494006
-Points: 220
-# Comments: 155]]></summary>
+Points: 226
+# Comments: 157]]></summary>
         <author>
             <name>ollieparanoid</name>
         </author>
@@ -169,8 +182,8 @@ Points: 220
         <updated>2021-06-13T16:32:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/forget-going-back-to-the-officepeople-are-just-quitting-instead-11623576602
 Comments URL: https://news.ycombinator.com/item?id=27493945
-Points: 159
-# Comments: 221]]></summary>
+Points: 173
+# Comments: 233]]></summary>
         <author>
             <name>sologoub</name>
         </author>
@@ -182,8 +195,8 @@ Points: 159
         <updated>2021-06-13T16:21:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity
 Comments URL: https://news.ycombinator.com/item?id=27493853
-Points: 193
-# Comments: 171]]></summary>
+Points: 197
+# Comments: 176]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -195,8 +208,8 @@ Points: 193
         <updated>2021-06-13T13:51:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51
 Comments URL: https://news.ycombinator.com/item?id=27492594
-Points: 156
-# Comments: 82]]></summary>
+Points: 168
+# Comments: 94]]></summary>
         <author>
             <name>gregdoesit</name>
         </author>
@@ -208,8 +221,8 @@ Points: 156
         <updated>2021-06-13T13:21:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows
 Comments URL: https://news.ycombinator.com/item?id=27492352
-Points: 227
-# Comments: 160]]></summary>
+Points: 236
+# Comments: 165]]></summary>
         <author>
             <name>looperhacks</name>
         </author>
@@ -221,8 +234,8 @@ Points: 227
         <updated>2021-06-13T13:08:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/
 Comments URL: https://news.ycombinator.com/item?id=27492268
-Points: 389
-# Comments: 167]]></summary>
+Points: 397
+# Comments: 172]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -234,8 +247,8 @@ Points: 389
         <updated>2021-06-13T11:21:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/radio/spark/could-face-and-voice-recognition-become-the-new-phrenology-1.6046992
 Comments URL: https://news.ycombinator.com/item?id=27491631
-Points: 54
-# Comments: 12]]></summary>
+Points: 59
+# Comments: 13]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -247,23 +260,10 @@ Points: 54
         <updated>2021-06-13T10:39:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape
 Comments URL: https://news.ycombinator.com/item?id=27491445
-Points: 48
-# Comments: 42]]></summary>
+Points: 51
+# Comments: 44]]></summary>
         <author>
             <name>Bluestein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eniac at 75]]></title>
-        <id>https://news.ycombinator.com/item?id=27491110</id>
-        <link href="http://www.tikalon.com/blog/blog.php?article=2021/ENIAC"/>
-        <updated>2021-06-13T09:26:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.tikalon.com/blog/blog.php?article=2021/ENIAC
-Comments URL: https://news.ycombinator.com/item?id=27491110
-Points: 15
-# Comments: 4]]></summary>
-        <author>
-            <name>the-mitr</name>
         </author>
     </entry>
     <entry>
