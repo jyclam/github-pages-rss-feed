@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T22:12:57.011Z</updated>
+    <updated>2021-06-14T23:12:12.714Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
+        <id>60873d1fdd38b9088c2c0842</id>
+        <link href="https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/"/>
+        <updated>2021-06-14T22:46:31.000Z</updated>
+        <summary type="html"><![CDATA[System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Love Lucy Maud]]></title>
+        <id>https://news.ycombinator.com/item?id=27509300</id>
+        <link href="https://www.berfrois.com/2021/06/love-maud/"/>
+        <updated>2021-06-14T22:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.berfrois.com/2021/06/love-maud/
+Comments URL: https://news.ycombinator.com/item?id=27509300
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>portobello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US bans dog imports from more than 100 countries]]></title>
+        <id>https://news.ycombinator.com/item?id=27509023</id>
+        <link href="https://www.bbc.com/news/world-us-canada-57478076"/>
+        <updated>2021-06-14T22:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-us-canada-57478076
+Comments URL: https://news.ycombinator.com/item?id=27509023
+Points: 48
+# Comments: 51]]></summary>
+        <author>
+            <name>Black101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Tables With Sticky Header and Footers Got a Bit Easier]]></title>
+        <id>https://css-tricks.com/?p=342294</id>
+        <link href="https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/"/>
+        <updated>2021-06-14T22:04:41.000Z</updated>
+        <summary type="html"><![CDATA[It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …
+The post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mux (YC W16) is hiring to help build the Stripe for video]]></title>
         <id>https://news.ycombinator.com/item?id=27508240</id>
@@ -20,29 +68,26 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Only 6 of the 50 largest companies are in Europe. LVMH is highest at #18]]></title>
-        <id>https://news.ycombinator.com/item?id=27507851</id>
-        <link href="https://companiesmarketcap.com"/>
-        <updated>2021-06-14T20:26:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://companiesmarketcap.com
-Comments URL: https://news.ycombinator.com/item?id=27507851
-Points: 23
-# Comments: 34]]></summary>
-        <author>
-            <name>golfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTDI FT232RL: Real vs. Fake]]></title>
+        <title type="html"><![CDATA[FTDI FT232RL: Real vs. Fake (2014)]]></title>
         <id>https://news.ycombinator.com/item?id=27507723</id>
         <link href="https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal"/>
         <updated>2021-06-14T20:15:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 Comments URL: https://news.ycombinator.com/item?id=27507723
-Points: 7
-# Comments: 1]]></summary>
+Points: 18
+# Comments: 8]]></summary>
         <author>
             <name>buran77</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Roving tabindex Attribute Explained with Examples]]></title>
+        <id>60c3b862d3126007592d689b</id>
+        <link href="https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/"/>
+        <updated>2021-06-14T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -52,10 +97,23 @@ Points: 7
         <updated>2021-06-14T20:10:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/mattrighetti/HNReaderApp
 Comments URL: https://news.ycombinator.com/item?id=27507645
-Points: 43
-# Comments: 33]]></summary>
+Points: 60
+# Comments: 39]]></summary>
         <author>
             <name>mattrighetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Gelidum – My Python library to freeze objects]]></title>
+        <id>https://news.ycombinator.com/item?id=27507524</id>
+        <link href="https://github.com/diegojromerolopez/gelidum"/>
+        <updated>2021-06-14T20:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/diegojromerolopez/gelidum
+Comments URL: https://news.ycombinator.com/item?id=27507524
+Points: 5
+# Comments: 1]]></summary>
+        <author>
+            <name>diegojromero</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +123,8 @@ Points: 43
         <updated>2021-06-14T19:29:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.1password.com/supporting-lets-encrypt/
 Comments URL: https://news.ycombinator.com/item?id=27507088
-Points: 81
-# Comments: 33]]></summary>
+Points: 95
+# Comments: 49]]></summary>
         <author>
             <name>robin_reala</name>
         </author>
@@ -78,8 +136,8 @@ Points: 81
         <updated>2021-06-14T19:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://azartiz.com/?2021-06-13T20:25:16.558Z
 Comments URL: https://news.ycombinator.com/item?id=27507045
-Points: 132
-# Comments: 41]]></summary>
+Points: 177
+# Comments: 70]]></summary>
         <author>
             <name>oblib</name>
         </author>
@@ -101,8 +159,8 @@ Points: 132
         <updated>2021-06-14T18:49:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb
 Comments URL: https://news.ycombinator.com/item?id=27506609
-Points: 128
-# Comments: 80]]></summary>
+Points: 156
+# Comments: 100]]></summary>
         <author>
             <name>SmkyMt</name>
         </author>
@@ -114,8 +172,8 @@ Points: 128
         <updated>2021-06-14T18:45:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/
 Comments URL: https://news.ycombinator.com/item?id=27506550
-Points: 134
-# Comments: 124]]></summary>
+Points: 166
+# Comments: 158]]></summary>
         <author>
             <name>jmilloy</name>
         </author>
@@ -147,26 +205,13 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metastable Failures in Distributed Systems]]></title>
-        <id>https://news.ycombinator.com/item?id=27506167</id>
-        <link href="http://charap.co/metastable-failures-in-distributed-systems/"/>
-        <updated>2021-06-14T18:19:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://charap.co/metastable-failures-in-distributed-systems/
-Comments URL: https://news.ycombinator.com/item?id=27506167
-Points: 12
-# Comments: 1]]></summary>
-        <author>
-            <name>mjb</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adventures in Fuzzing Matrix’s Encryption]]></title>
         <id>https://news.ycombinator.com/item?id=27505901</id>
         <link href="https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm"/>
         <updated>2021-06-14T18:00:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm
 Comments URL: https://news.ycombinator.com/item?id=27505901
-Points: 60
+Points: 64
 # Comments: 7]]></summary>
         <author>
             <name>Arathorn</name>
@@ -179,8 +224,8 @@ Points: 60
         <updated>2021-06-14T16:03:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html
 Comments URL: https://news.ycombinator.com/item?id=27504254
-Points: 136
-# Comments: 47]]></summary>
+Points: 151
+# Comments: 50]]></summary>
         <author>
             <name>ColinWright</name>
         </author>
@@ -203,8 +248,8 @@ The rise of online shopping has posed significant challenges for fashion retaile
         <updated>2021-06-14T15:17:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://routinedb.com/routines
 Comments URL: https://news.ycombinator.com/item?id=27503597
-Points: 245
-# Comments: 138]]></summary>
+Points: 267
+# Comments: 142]]></summary>
         <author>
             <name>sitesuniverse</name>
         </author>
@@ -216,8 +261,8 @@ Points: 245
         <updated>2021-06-14T14:32:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stripe.com/identity
 Comments URL: https://news.ycombinator.com/item?id=27502993
-Points: 776
-# Comments: 423]]></summary>
+Points: 803
+# Comments: 439]]></summary>
         <author>
             <name>thomaspark</name>
         </author>
@@ -235,27 +280,14 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seizing the Middle: Chess Strategy in Business]]></title>
-        <id>https://news.ycombinator.com/item?id=27502020</id>
-        <link href="https://fs.blog/2021/06/seizing-the-middle-chess-strategy-in-business/"/>
-        <updated>2021-06-14T13:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fs.blog/2021/06/seizing-the-middle-chess-strategy-in-business/
-Comments URL: https://news.ycombinator.com/item?id=27502020
-Points: 69
-# Comments: 44]]></summary>
-        <author>
-            <name>feross</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Irish police to be given powers over passwords]]></title>
         <id>https://news.ycombinator.com/item?id=27501805</id>
         <link href="https://www.bbc.com/news/world-europe-57468750"/>
         <updated>2021-06-14T12:33:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57468750
 Comments URL: https://news.ycombinator.com/item?id=27501805
-Points: 285
-# Comments: 199]]></summary>
+Points: 305
+# Comments: 210]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -267,8 +299,8 @@ Points: 285
         <updated>2021-06-14T12:23:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.dev/file-handling/
 Comments URL: https://news.ycombinator.com/item?id=27501732
-Points: 166
-# Comments: 143]]></summary>
+Points: 168
+# Comments: 157]]></summary>
         <author>
             <name>mukwevhom</name>
         </author>
@@ -280,8 +312,8 @@ Points: 166
         <updated>2021-06-14T12:13:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/products/workspace/google-workspace-everyone/
 Comments URL: https://news.ycombinator.com/item?id=27501659
-Points: 175
-# Comments: 242]]></summary>
+Points: 189
+# Comments: 253]]></summary>
         <author>
             <name>danirod</name>
         </author>
@@ -293,8 +325,8 @@ Points: 175
         <updated>2021-06-14T11:03:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html
 Comments URL: https://news.ycombinator.com/item?id=27501221
-Points: 660
-# Comments: 815]]></summary>
+Points: 686
+# Comments: 841]]></summary>
         <author>
             <name>samizdis</name>
         </author>
@@ -316,7 +348,7 @@ Points: 660
         <updated>2021-06-14T09:34:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://rrbike.freeservers.com/main.htm
 Comments URL: https://news.ycombinator.com/item?id=27500787
-Points: 116
+Points: 118
 # Comments: 59]]></summary>
         <author>
             <name>Kaibeezy</name>
@@ -492,16 +524,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
-        <id>60b357ad11ffb70827ef9a90</id>
-        <link href="https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/"/>
-        <updated>2021-06-09T21:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
         <id>https://css-tricks.com/?p=340967</id>
         <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
@@ -511,16 +533,6 @@ The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Skills You Need to Start Freelancing as a Developer]]></title>
-        <id>60c0ccbed3126007592d5781</id>
-        <link href="https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/"/>
-        <updated>2021-06-09T19:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -627,21 +639,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
-        <id>https://css-tricks.com/?p=341793</id>
-        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
-        <updated>2021-06-04T20:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Colin Oakley:
-• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
-• Agnostic — Build 
-…
-The post Principles for user-centered front-end development appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
