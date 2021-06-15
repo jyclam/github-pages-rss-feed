@@ -2,34 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T10:13:15.412Z</updated>
+    <updated>2021-06-15T11:10:15.421Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Coq mulls new name for programming language]]></title>
-        <id>https://news.ycombinator.com/item?id=27512497</id>
-        <link href="https://www.theregister.com/2021/06/15/coq_programming_language_change/"/>
-        <updated>2021-06-15T07:56:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/15/coq_programming_language_change/
-Comments URL: https://news.ycombinator.com/item?id=27512497
-Points: 40
-# Comments: 15]]></summary>
+        <title type="html"><![CDATA[Spinning Up Multiple WordPress Sites Locally With DevKinsta]]></title>
+        <id>https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/</id>
+        <link href="https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/"/>
+        <updated>2021-06-15T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?]]></summary>
         <author>
-            <name>samizdis</name>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neural.love: An AI-powered HD portrait generator]]></title>
-        <id>https://news.ycombinator.com/item?id=27512287</id>
-        <link href="https://neural.love/portraits"/>
-        <updated>2021-06-15T07:19:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://neural.love/portraits
-Comments URL: https://news.ycombinator.com/item?id=27512287
-Points: 12
-# Comments: 16]]></summary>
+        <title type="html"><![CDATA[The Quiet Rise of E Ink Tablets – ReMarkable 2 vs. Onyx Boox Note Air]]></title>
+        <id>https://news.ycombinator.com/item?id=27513201</id>
+        <link href="https://www.hanselman.com/blog/the-quiet-rise-of-e-ink-tablets-and-infinite-paper-note-takers-remarkable-2-vs-onyx-boox-note-air"/>
+        <updated>2021-06-15T10:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hanselman.com/blog/the-quiet-rise-of-e-ink-tablets-and-infinite-paper-note-takers-remarkable-2-vs-onyx-boox-note-air
+Comments URL: https://news.ycombinator.com/item?id=27513201
+Points: 32
+# Comments: 17]]></summary>
         <author>
-            <name>hardmaru</name>
+            <name>GordonS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The state of the Linux kernel security (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27513149</id>
+        <link href="https://github.com/ossf/wg-securing-critical-projects/blob/main/presentations/The_state_of_the_Linux_kernel_security.pdf"/>
+        <updated>2021-06-15T10:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ossf/wg-securing-critical-projects/blob/main/presentations/The_state_of_the_Linux_kernel_security.pdf
+Comments URL: https://news.ycombinator.com/item?id=27513149
+Points: 27
+# Comments: 1]]></summary>
+        <author>
+            <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science expressed in terms of what happens is getting in the way of progress]]></title>
+        <id>https://news.ycombinator.com/item?id=27513096</id>
+        <link href="https://nautil.us/issue/102/hidden-truths/our-little-life-is-rounded-with-possibility"/>
+        <updated>2021-06-15T09:54:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/102/hidden-truths/our-little-life-is-rounded-with-possibility
+Comments URL: https://news.ycombinator.com/item?id=27513096
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>dnetesn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU court backs national data watchdog powers in blow to Facebook, big tech]]></title>
+        <id>https://news.ycombinator.com/item?id=27513037</id>
+        <link href="https://www.reuters.com/world/europe/top-eu-court-says-national-watchdogs-may-act-against-violations-blow-facebook-2021-06-15/"/>
+        <updated>2021-06-15T09:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/europe/top-eu-court-says-national-watchdogs-may-act-against-violations-blow-facebook-2021-06-15/
+Comments URL: https://news.ycombinator.com/item?id=27513037
+Points: 22
+# Comments: 13]]></summary>
+        <author>
+            <name>shivbhatt</name>
         </author>
     </entry>
     <entry>
@@ -49,8 +85,8 @@ Points: 12
         <updated>2021-06-15T06:46:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.brendangregg.com/blog/2021-06-15/bpf-internals.html
 Comments URL: https://news.ycombinator.com/item?id=27512097
-Points: 10
-# Comments: 0]]></summary>
+Points: 13
+# Comments: 1]]></summary>
         <author>
             <name>r4um</name>
         </author>
@@ -62,8 +98,8 @@ Points: 10
         <updated>2021-06-15T05:29:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.uky.edu/~eushe2/Pajares/Kuhn.html
 Comments URL: https://news.ycombinator.com/item?id=27511649
-Points: 18
-# Comments: 1]]></summary>
+Points: 34
+# Comments: 5]]></summary>
         <author>
             <name>sturza</name>
         </author>
@@ -75,8 +111,8 @@ Points: 18
         <updated>2021-06-15T03:23:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cuelang.org/docs/about/
 Comments URL: https://news.ycombinator.com/item?id=27510919
-Points: 78
-# Comments: 16]]></summary>
+Points: 92
+# Comments: 21]]></summary>
         <author>
             <name>benhoyt</name>
         </author>
@@ -88,8 +124,8 @@ Points: 78
         <updated>2021-06-15T03:20:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/google/fully-homomorphic-encryption
 Comments URL: https://news.ycombinator.com/item?id=27510902
-Points: 162
-# Comments: 73]]></summary>
+Points: 175
+# Comments: 87]]></summary>
         <author>
             <name>gone35</name>
         </author>
@@ -101,23 +137,10 @@ Points: 162
         <updated>2021-06-15T03:06:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll
 Comments URL: https://news.ycombinator.com/item?id=27510836
-Points: 386
-# Comments: 128]]></summary>
+Points: 432
+# Comments: 146]]></summary>
         <author>
             <name>polm23</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fed balance sheet tops $8T for first time -data]]></title>
-        <id>https://news.ycombinator.com/item?id=27510784</id>
-        <link href="https://www.reuters.com/business/fed-balance-sheet-tops-8-trillion-first-time-data-2021-06-10/"/>
-        <updated>2021-06-15T02:57:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/fed-balance-sheet-tops-8-trillion-first-time-data-2021-06-10/
-Comments URL: https://news.ycombinator.com/item?id=27510784
-Points: 24
-# Comments: 27]]></summary>
-        <author>
-            <name>paulpauper</name>
         </author>
     </entry>
     <entry>
@@ -127,8 +150,8 @@ Points: 24
         <updated>2021-06-15T02:30:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
 Comments URL: https://news.ycombinator.com/item?id=27510647
-Points: 33
-# Comments: 13]]></summary>
+Points: 38
+# Comments: 17]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -140,8 +163,8 @@ Points: 33
         <updated>2021-06-15T01:44:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/
 Comments URL: https://news.ycombinator.com/item?id=27510448
-Points: 262
-# Comments: 185]]></summary>
+Points: 283
+# Comments: 208]]></summary>
         <author>
             <name>Ariarule</name>
         </author>
@@ -153,7 +176,7 @@ Points: 262
         <updated>2021-06-15T00:41:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/
 Comments URL: https://news.ycombinator.com/item?id=27510103
-Points: 156
+Points: 160
 # Comments: 59]]></summary>
         <author>
             <name>anfilt</name>
@@ -166,8 +189,8 @@ Points: 156
         <updated>2021-06-15T00:12:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/
 Comments URL: https://news.ycombinator.com/item?id=27509944
-Points: 168
-# Comments: 63]]></summary>
+Points: 181
+# Comments: 74]]></summary>
         <author>
             <name>marcodiego</name>
         </author>
@@ -179,8 +202,8 @@ Points: 168
         <updated>2021-06-15T00:00:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://raywoodcockslatest.wordpress.com/2021/06/13/bitdefender-criticism/
 Comments URL: https://news.ycombinator.com/item?id=27509888
-Points: 42
-# Comments: 15]]></summary>
+Points: 49
+# Comments: 19]]></summary>
         <author>
             <name>miles</name>
         </author>
@@ -192,8 +215,8 @@ Points: 42
         <updated>2021-06-14T23:28:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rarchy.com/sitemaps/visual-sitemap-generator
 Comments URL: https://news.ycombinator.com/item?id=27509682
-Points: 43
-# Comments: 21]]></summary>
+Points: 46
+# Comments: 23]]></summary>
         <author>
             <name>owor</name>
         </author>
@@ -205,8 +228,8 @@ Points: 43
         <updated>2021-06-14T23:21:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://liam-on-linux.livejournal.com/80768.html
 Comments URL: https://news.ycombinator.com/item?id=27509629
-Points: 189
-# Comments: 133]]></summary>
+Points: 197
+# Comments: 150]]></summary>
         <author>
             <name>lproven</name>
         </author>
@@ -218,8 +241,8 @@ Points: 189
         <updated>2021-06-14T23:12:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.abc.net.au/news/2021-06-15/no-one-in-america-arrested-in-operation-ironside/100213036
 Comments URL: https://news.ycombinator.com/item?id=27509550
-Points: 82
-# Comments: 21]]></summary>
+Points: 83
+# Comments: 26]]></summary>
         <author>
             <name>incompatible</name>
         </author>
@@ -231,7 +254,7 @@ Points: 82
         <updated>2021-06-14T22:49:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thecollector.com/what-makes-hunt-of-the-unicorn-tapestries-fascinating/
 Comments URL: https://news.ycombinator.com/item?id=27509346
-Points: 7
+Points: 12
 # Comments: 5]]></summary>
         <author>
             <name>everbody</name>
@@ -254,7 +277,7 @@ Points: 7
         <updated>2021-06-14T22:45:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.berfrois.com/2021/06/love-maud/
 Comments URL: https://news.ycombinator.com/item?id=27509300
-Points: 52
+Points: 54
 # Comments: 5]]></summary>
         <author>
             <name>portobello</name>
@@ -277,8 +300,8 @@ Points: 52
         <updated>2021-06-14T22:36:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/feross/status/1404568122158313474
 Comments URL: https://news.ycombinator.com/item?id=27509206
-Points: 154
-# Comments: 116]]></summary>
+Points: 168
+# Comments: 129]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -293,19 +316,6 @@ The post Making Tables With Sticky Header and Footers Got a Bit Easier appeared 
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mux (YC W16) is hiring to help build the Stripe for video]]></title>
-        <id>https://news.ycombinator.com/item?id=27508240</id>
-        <link href="https://mux.com/jobs?hnj=stripe"/>
-        <updated>2021-06-14T21:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mux.com/jobs?hnj=stripe
-Comments URL: https://news.ycombinator.com/item?id=27508240
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>mmcclure</name>
         </author>
     </entry>
     <entry>
