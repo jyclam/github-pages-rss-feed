@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T08:13:31.650Z</updated>
+    <updated>2021-06-15T09:12:17.128Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coq mulls new name for programming language]]></title>
+        <id>https://news.ycombinator.com/item?id=27512497</id>
+        <link href="https://www.theregister.com/2021/06/15/coq_programming_language_change/"/>
+        <updated>2021-06-15T07:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/15/coq_programming_language_change/
+Comments URL: https://news.ycombinator.com/item?id=27512497
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>samizdis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural.love: An AI-powered HD portrait generator]]></title>
+        <id>https://news.ycombinator.com/item?id=27512287</id>
+        <link href="https://neural.love/portraits"/>
+        <updated>2021-06-15T07:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neural.love/portraits
+Comments URL: https://news.ycombinator.com/item?id=27512287
+Points: 5
+# Comments: 7]]></summary>
+        <author>
+            <name>hardmaru</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 39 With Addy Osmani: Image Optimization]]></title>
         <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/</id>
@@ -17,13 +43,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Usenix LISA2021 BPF Internals (eBPF)]]></title>
+        <id>https://news.ycombinator.com/item?id=27512097</id>
+        <link href="http://www.brendangregg.com/blog/2021-06-15/bpf-internals.html"/>
+        <updated>2021-06-15T06:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.brendangregg.com/blog/2021-06-15/bpf-internals.html
+Comments URL: https://news.ycombinator.com/item?id=27512097
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>r4um</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Structure of Scientific Revolutions]]></title>
         <id>https://news.ycombinator.com/item?id=27511649</id>
         <link href="https://www.uky.edu/~eushe2/Pajares/Kuhn.html"/>
         <updated>2021-06-15T05:29:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.uky.edu/~eushe2/Pajares/Kuhn.html
 Comments URL: https://news.ycombinator.com/item?id=27511649
-Points: 9
+Points: 13
 # Comments: 1]]></summary>
         <author>
             <name>sturza</name>
@@ -36,8 +75,8 @@ Points: 9
         <updated>2021-06-15T03:23:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cuelang.org/docs/about/
 Comments URL: https://news.ycombinator.com/item?id=27510919
-Points: 57
-# Comments: 9]]></summary>
+Points: 67
+# Comments: 11]]></summary>
         <author>
             <name>benhoyt</name>
         </author>
@@ -49,8 +88,8 @@ Points: 57
         <updated>2021-06-15T03:20:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/google/fully-homomorphic-encryption
 Comments URL: https://news.ycombinator.com/item?id=27510902
-Points: 130
-# Comments: 47]]></summary>
+Points: 145
+# Comments: 57]]></summary>
         <author>
             <name>gone35</name>
         </author>
@@ -62,23 +101,10 @@ Points: 130
         <updated>2021-06-15T03:06:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll
 Comments URL: https://news.ycombinator.com/item?id=27510836
-Points: 290
-# Comments: 99]]></summary>
+Points: 331
+# Comments: 118]]></summary>
         <author>
             <name>polm23</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fed balance sheet tops $8T for first time -data]]></title>
-        <id>https://news.ycombinator.com/item?id=27510784</id>
-        <link href="https://www.reuters.com/business/fed-balance-sheet-tops-8-trillion-first-time-data-2021-06-10/"/>
-        <updated>2021-06-15T02:57:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/fed-balance-sheet-tops-8-trillion-first-time-data-2021-06-10/
-Comments URL: https://news.ycombinator.com/item?id=27510784
-Points: 17
-# Comments: 7]]></summary>
-        <author>
-            <name>paulpauper</name>
         </author>
     </entry>
     <entry>
@@ -88,23 +114,10 @@ Points: 17
         <updated>2021-06-15T02:30:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
 Comments URL: https://news.ycombinator.com/item?id=27510647
-Points: 23
-# Comments: 6]]></summary>
+Points: 28
+# Comments: 9]]></summary>
         <author>
             <name>pcr910303</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOAA Weather Radio Outages]]></title>
-        <id>https://news.ycombinator.com/item?id=27510485</id>
-        <link href="https://www.weather.gov/nwr/outages"/>
-        <updated>2021-06-15T01:51:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.weather.gov/nwr/outages
-Comments URL: https://news.ycombinator.com/item?id=27510485
-Points: 45
-# Comments: 10]]></summary>
-        <author>
-            <name>MaciejR</name>
         </author>
     </entry>
     <entry>
@@ -114,8 +127,8 @@ Points: 45
         <updated>2021-06-15T01:44:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/
 Comments URL: https://news.ycombinator.com/item?id=27510448
-Points: 221
-# Comments: 154]]></summary>
+Points: 246
+# Comments: 173]]></summary>
         <author>
             <name>Ariarule</name>
         </author>
@@ -127,8 +140,8 @@ Points: 221
         <updated>2021-06-15T00:41:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/
 Comments URL: https://news.ycombinator.com/item?id=27510103
-Points: 148
-# Comments: 55]]></summary>
+Points: 151
+# Comments: 56]]></summary>
         <author>
             <name>anfilt</name>
         </author>
@@ -140,8 +153,8 @@ Points: 148
         <updated>2021-06-15T00:12:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/
 Comments URL: https://news.ycombinator.com/item?id=27509944
-Points: 145
-# Comments: 45]]></summary>
+Points: 158
+# Comments: 51]]></summary>
         <author>
             <name>marcodiego</name>
         </author>
@@ -153,8 +166,8 @@ Points: 145
         <updated>2021-06-15T00:00:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://raywoodcockslatest.wordpress.com/2021/06/13/bitdefender-criticism/
 Comments URL: https://news.ycombinator.com/item?id=27509888
-Points: 28
-# Comments: 10]]></summary>
+Points: 36
+# Comments: 13]]></summary>
         <author>
             <name>miles</name>
         </author>
@@ -166,8 +179,8 @@ Points: 28
         <updated>2021-06-14T23:28:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rarchy.com/sitemaps/visual-sitemap-generator
 Comments URL: https://news.ycombinator.com/item?id=27509682
-Points: 33
-# Comments: 15]]></summary>
+Points: 39
+# Comments: 19]]></summary>
         <author>
             <name>owor</name>
         </author>
@@ -179,8 +192,8 @@ Points: 33
         <updated>2021-06-14T23:21:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://liam-on-linux.livejournal.com/80768.html
 Comments URL: https://news.ycombinator.com/item?id=27509629
-Points: 170
-# Comments: 112]]></summary>
+Points: 175
+# Comments: 123]]></summary>
         <author>
             <name>lproven</name>
         </author>
@@ -192,10 +205,23 @@ Points: 170
         <updated>2021-06-14T23:12:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.abc.net.au/news/2021-06-15/no-one-in-america-arrested-in-operation-ironside/100213036
 Comments URL: https://news.ycombinator.com/item?id=27509550
-Points: 73
-# Comments: 17]]></summary>
+Points: 79
+# Comments: 21]]></summary>
         <author>
             <name>incompatible</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Unicorn Tapestries]]></title>
+        <id>https://news.ycombinator.com/item?id=27509346</id>
+        <link href="https://www.thecollector.com/what-makes-hunt-of-the-unicorn-tapestries-fascinating/"/>
+        <updated>2021-06-14T22:49:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thecollector.com/what-makes-hunt-of-the-unicorn-tapestries-fascinating/
+Comments URL: https://news.ycombinator.com/item?id=27509346
+Points: 4
+# Comments: 1]]></summary>
+        <author>
+            <name>everbody</name>
         </author>
     </entry>
     <entry>
@@ -215,7 +241,7 @@ Points: 73
         <updated>2021-06-14T22:45:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.berfrois.com/2021/06/love-maud/
 Comments URL: https://news.ycombinator.com/item?id=27509300
-Points: 48
+Points: 49
 # Comments: 5]]></summary>
         <author>
             <name>portobello</name>
@@ -238,8 +264,8 @@ Points: 48
         <updated>2021-06-14T22:36:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/feross/status/1404568122158313474
 Comments URL: https://news.ycombinator.com/item?id=27509206
-Points: 120
-# Comments: 86]]></summary>
+Points: 135
+# Comments: 105]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -270,19 +296,6 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FTDI FT232RL: Real vs. Fake (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=27507723</id>
-        <link href="https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal"/>
-        <updated>2021-06-14T20:15:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
-Comments URL: https://news.ycombinator.com/item?id=27507723
-Points: 39
-# Comments: 53]]></summary>
-        <author>
-            <name>buran77</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HTML Roving tabindex Attribute Explained with Examples]]></title>
         <id>60c3b862d3126007592d689b</id>
         <link href="https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/"/>
@@ -299,23 +312,10 @@ Points: 39
         <updated>2021-06-14T20:12:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://adamashwal.com/fruit
 Comments URL: https://news.ycombinator.com/item?id=27507675
-Points: 14
-# Comments: 4]]></summary>
+Points: 17
+# Comments: 7]]></summary>
         <author>
             <name>ashwal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21st Century Baker's Tent]]></title>
-        <id>https://news.ycombinator.com/item?id=27507045</id>
-        <link href="https://azartiz.com/?2021-06-13T20:25:16.558Z"/>
-        <updated>2021-06-14T19:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://azartiz.com/?2021-06-13T20:25:16.558Z
-Comments URL: https://news.ycombinator.com/item?id=27507045
-Points: 254
-# Comments: 143]]></summary>
-        <author>
-            <name>oblib</name>
         </author>
     </entry>
     <entry>
