@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T04:15:30.244Z</updated>
+    <updated>2021-06-15T05:15:37.440Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cue, an open-source data validation language]]></title>
+        <id>https://news.ycombinator.com/item?id=27510919</id>
+        <link href="https://cuelang.org/docs/about/"/>
+        <updated>2021-06-15T03:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cuelang.org/docs/about/
+Comments URL: https://news.ycombinator.com/item?id=27510919
+Points: 13
+# Comments: 1]]></summary>
+        <author>
+            <name>benhoyt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fully Homomorphic Encryption (FHE)]]></title>
         <id>https://news.ycombinator.com/item?id=27510902</id>
@@ -13,36 +26,36 @@
         <updated>2021-06-15T03:20:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/google/fully-homomorphic-encryption
 Comments URL: https://news.ycombinator.com/item?id=27510902
-Points: 11
-# Comments: 5]]></summary>
+Points: 48
+# Comments: 20]]></summary>
         <author>
             <name>gone35</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Universities Have Formed a Company That Looks a Lot Like a Patent Troll]]></title>
+        <title type="html"><![CDATA[Universities have formed a company that looks a lot like a patent troll]]></title>
         <id>https://news.ycombinator.com/item?id=27510836</id>
         <link href="https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll"/>
         <updated>2021-06-15T03:06:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll
 Comments URL: https://news.ycombinator.com/item?id=27510836
-Points: 30
-# Comments: 2]]></summary>
+Points: 104
+# Comments: 33]]></summary>
         <author>
             <name>polm23</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Freenode commits suicide, is no longer a serious IRC network]]></title>
-        <id>https://news.ycombinator.com/item?id=27510824</id>
-        <link href="https://www.devever.net/~hl/freenode_suicide"/>
-        <updated>2021-06-15T03:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.devever.net/~hl/freenode_suicide
-Comments URL: https://news.ycombinator.com/item?id=27510824
-Points: 117
-# Comments: 39]]></summary>
+        <title type="html"><![CDATA[A strong commitment to backwards compatibility means keeping your mistakes]]></title>
+        <id>https://news.ycombinator.com/item?id=27510647</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility"/>
+        <updated>2021-06-15T02:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
+Comments URL: https://news.ycombinator.com/item?id=27510647
+Points: 10
+# Comments: 1]]></summary>
         <author>
-            <name>OberstKrueger</name>
+            <name>pcr910303</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +65,8 @@ Points: 117
         <updated>2021-06-15T01:51:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.weather.gov/nwr/outages
 Comments URL: https://news.ycombinator.com/item?id=27510485
-Points: 22
-# Comments: 4]]></summary>
+Points: 31
+# Comments: 8]]></summary>
         <author>
             <name>MaciejR</name>
         </author>
@@ -65,8 +78,8 @@ Points: 22
         <updated>2021-06-15T01:44:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/
 Comments URL: https://news.ycombinator.com/item?id=27510448
-Points: 98
-# Comments: 48]]></summary>
+Points: 135
+# Comments: 81]]></summary>
         <author>
             <name>Ariarule</name>
         </author>
@@ -78,23 +91,49 @@ Points: 98
         <updated>2021-06-15T00:41:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/
 Comments URL: https://news.ycombinator.com/item?id=27510103
-Points: 106
-# Comments: 44]]></summary>
+Points: 118
+# Comments: 48]]></summary>
         <author>
             <name>anfilt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux with “memory folios”: got a 7% performance boost when compiling the kernel]]></title>
+        <title type="html"><![CDATA[Linux with “memory folios”: a 7% performance boost when compiling the kernel]]></title>
         <id>https://news.ycombinator.com/item?id=27509944</id>
         <link href="https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/"/>
         <updated>2021-06-15T00:12:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/
 Comments URL: https://news.ycombinator.com/item?id=27509944
-Points: 76
-# Comments: 6]]></summary>
+Points: 93
+# Comments: 14]]></summary>
         <author>
             <name>marcodiego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Failure in Tech Journalism: Getting the Truth about Antivirus Software]]></title>
+        <id>https://news.ycombinator.com/item?id=27509888</id>
+        <link href="https://raywoodcockslatest.wordpress.com/2021/06/13/bitdefender-criticism/"/>
+        <updated>2021-06-15T00:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://raywoodcockslatest.wordpress.com/2021/06/13/bitdefender-criticism/
+Comments URL: https://news.ycombinator.com/item?id=27509888
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>miles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Generate a free visual sitemap by crawling any website]]></title>
+        <id>https://news.ycombinator.com/item?id=27509682</id>
+        <link href="https://rarchy.com/sitemaps/visual-sitemap-generator"/>
+        <updated>2021-06-14T23:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rarchy.com/sitemaps/visual-sitemap-generator
+Comments URL: https://news.ycombinator.com/item?id=27509682
+Points: 17
+# Comments: 5]]></summary>
+        <author>
+            <name>owor</name>
         </author>
     </entry>
     <entry>
@@ -104,10 +143,23 @@ Points: 76
         <updated>2021-06-14T23:21:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://liam-on-linux.livejournal.com/80768.html
 Comments URL: https://news.ycombinator.com/item?id=27509629
-Points: 112
-# Comments: 84]]></summary>
+Points: 123
+# Comments: 92]]></summary>
         <author>
             <name>lproven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why no-one in America was arrested as part of Operation Ironside]]></title>
+        <id>https://news.ycombinator.com/item?id=27509550</id>
+        <link href="https://www.abc.net.au/news/2021-06-15/no-one-in-america-arrested-in-operation-ironside/100213036"/>
+        <updated>2021-06-14T23:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.abc.net.au/news/2021-06-15/no-one-in-america-arrested-in-operation-ironside/100213036
+Comments URL: https://news.ycombinator.com/item?id=27509550
+Points: 35
+# Comments: 2]]></summary>
+        <author>
+            <name>incompatible</name>
         </author>
     </entry>
     <entry>
@@ -127,23 +179,10 @@ Points: 112
         <updated>2021-06-14T22:45:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.berfrois.com/2021/06/love-maud/
 Comments URL: https://news.ycombinator.com/item?id=27509300
-Points: 41
+Points: 43
 # Comments: 3]]></summary>
         <author>
             <name>portobello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baseball's dirty little secret is out – we decided to experiment]]></title>
-        <id>https://news.ycombinator.com/item?id=27509258</id>
-        <link href="https://www.thescore.com/mlb/news/2180019"/>
-        <updated>2021-06-14T22:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thescore.com/mlb/news/2180019
-Comments URL: https://news.ycombinator.com/item?id=27509258
-Points: 115
-# Comments: 35]]></summary>
-        <author>
-            <name>doublerebel</name>
         </author>
     </entry>
     <entry>
@@ -154,6 +193,19 @@ Points: 115
         <summary type="html"><![CDATA[We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IndexedDB is completely broken in latest Safari]]></title>
+        <id>https://news.ycombinator.com/item?id=27509206</id>
+        <link href="https://twitter.com/feross/status/1404568122158313474"/>
+        <updated>2021-06-14T22:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/feross/status/1404568122158313474
+Comments URL: https://news.ycombinator.com/item?id=27509206
+Points: 28
+# Comments: 16]]></summary>
+        <author>
+            <name>feross</name>
         </author>
     </entry>
     <entry>
@@ -182,6 +234,32 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[80% of tech could be built outside IT by 2024, thanks to low-code tools]]></title>
+        <id>https://news.ycombinator.com/item?id=27508206</id>
+        <link href="https://venturebeat.com/2021/06/14/80-of-tech-could-be-built-outside-it-by-2024-thanks-to-low-code-tools/"/>
+        <updated>2021-06-14T20:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://venturebeat.com/2021/06/14/80-of-tech-could-be-built-outside-it-by-2024-thanks-to-low-code-tools/
+Comments URL: https://news.ycombinator.com/item?id=27508206
+Points: 38
+# Comments: 89]]></summary>
+        <author>
+            <name>throwaway2016a</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTDI FT232RL: Real vs. Fake (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=27507723</id>
+        <link href="https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal"/>
+        <updated>2021-06-14T20:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
+Comments URL: https://news.ycombinator.com/item?id=27507723
+Points: 34
+# Comments: 42]]></summary>
+        <author>
+            <name>buran77</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HTML Roving tabindex Attribute Explained with Examples]]></title>
         <id>60c3b862d3126007592d689b</id>
         <link href="https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/"/>
@@ -192,40 +270,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day One, the Journaling App, Joins Automattic]]></title>
-        <id>https://news.ycombinator.com/item?id=27507698</id>
-        <link href="https://wordpress.com/blog/2021/06/14/day-one-the-journaling-app-joins-automattic/"/>
-        <updated>2021-06-14T20:13:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wordpress.com/blog/2021/06/14/day-one-the-journaling-app-joins-automattic/
-Comments URL: https://news.ycombinator.com/item?id=27507698
-Points: 40
-# Comments: 10]]></summary>
-        <author>
-            <name>nsriv</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Gelidum – My Python library to freeze objects]]></title>
-        <id>https://news.ycombinator.com/item?id=27507524</id>
-        <link href="https://github.com/diegojromerolopez/gelidum"/>
-        <updated>2021-06-14T20:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/diegojromerolopez/gelidum
-Comments URL: https://news.ycombinator.com/item?id=27507524
-Points: 33
-# Comments: 13]]></summary>
-        <author>
-            <name>diegojromero</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[21st Century Baker's Tent]]></title>
         <id>https://news.ycombinator.com/item?id=27507045</id>
         <link href="https://azartiz.com/?2021-06-13T20:25:16.558Z"/>
         <updated>2021-06-14T19:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://azartiz.com/?2021-06-13T20:25:16.558Z
 Comments URL: https://news.ycombinator.com/item?id=27507045
-Points: 241
-# Comments: 137]]></summary>
+Points: 245
+# Comments: 142]]></summary>
         <author>
             <name>oblib</name>
         </author>
@@ -241,27 +293,14 @@ Points: 241
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reality Winner, NSA contractor in leak case, out of prison]]></title>
-        <id>https://news.ycombinator.com/item?id=27506609</id>
-        <link href="https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb"/>
-        <updated>2021-06-14T18:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb
-Comments URL: https://news.ycombinator.com/item?id=27506609
-Points: 225
-# Comments: 141]]></summary>
-        <author>
-            <name>SmkyMt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Myths in cycling: wider tires are slower]]></title>
         <id>https://news.ycombinator.com/item?id=27506550</id>
         <link href="https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/"/>
         <updated>2021-06-14T18:45:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/
 Comments URL: https://news.ycombinator.com/item?id=27506550
-Points: 248
-# Comments: 221]]></summary>
+Points: 263
+# Comments: 232]]></summary>
         <author>
             <name>jmilloy</name>
         </author>
@@ -293,53 +332,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adventures in Fuzzing Matrix’s Encryption]]></title>
-        <id>https://news.ycombinator.com/item?id=27505901</id>
-        <link href="https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm"/>
-        <updated>2021-06-14T18:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm
-Comments URL: https://news.ycombinator.com/item?id=27505901
-Points: 86
-# Comments: 10]]></summary>
-        <author>
-            <name>Arathorn</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Main is usually a function, so when is it not? (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=27504254</id>
         <link href="https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html"/>
         <updated>2021-06-14T16:03:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html
 Comments URL: https://news.ycombinator.com/item?id=27504254
-Points: 195
-# Comments: 56]]></summary>
+Points: 196
+# Comments: 57]]></summary>
         <author>
             <name>ColinWright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Revery.AI (YC S21) Scalable deep learning-based virtual dressing room]]></title>
-        <id>https://news.ycombinator.com/item?id=27504190</id>
-        <link href="https://news.ycombinator.com/item?id=27504190"/>
-        <updated>2021-06-14T15:59:13.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN! We are Kedan, Jeff, and Min Jin and we are co-founders of Revery AI. We've built a virtual dressing room for online retailers that allows customers to visualize any combination of garments on any model.
-The rise of online shopping has posed significant challenges for fashion retailers. The lack of ability to try on and visualize outfits has made shopping less interactive, contributing to low conversion rates and high return rates compared to brick-and-mortar shopping. Virtual dressing rooms can recreate the lost experience of trying on clothes in person. There are other companies working on a virtual dressing room. However, the reason why this is not taking off is scalability. Fashion ecommerce platforms have thousands, if not millions of SKUs. Current approaches generally require c…]]></summary>
-        <author>
-            <name>mchong6</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I made a community sourced fitness routine database]]></title>
-        <id>https://news.ycombinator.com/item?id=27503597</id>
-        <link href="https://routinedb.com/routines"/>
-        <updated>2021-06-14T15:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://routinedb.com/routines
-Comments URL: https://news.ycombinator.com/item?id=27503597
-Points: 334
-# Comments: 171]]></summary>
-        <author>
-            <name>sitesuniverse</name>
         </author>
     </entry>
     <entry>
