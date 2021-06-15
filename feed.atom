@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T17:30:58.690Z</updated>
+    <updated>2021-06-15T18:16:40.372Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Decorators – How to Create and Use Decorators in Python With Examples]]></title>
+        <id>60c3dcb3d3126007592d6c6d</id>
+        <link href="https://www.freecodecamp.org/news/python-decorators-explained-with-examples/"/>
+        <updated>2021-06-15T17:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. workers are among the most stressed in the world, new Gallup report finds]]></title>
+        <id>https://news.ycombinator.com/item?id=27518912</id>
+        <link href="https://www.cnbc.com/2021/06/15/gallup-us-workers-are-among-the-most-stressed-in-the-world.html"/>
+        <updated>2021-06-15T17:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/15/gallup-us-workers-are-among-the-most-stressed-in-the-world.html
+Comments URL: https://news.ycombinator.com/item?id=27518912
+Points: 28
+# Comments: 0]]></summary>
+        <author>
+            <name>sharkweek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Strangler Fig Pattern and How it Helps Manage Legacy Code]]></title>
+        <id>602aaaf60a2838549dcc5c7f</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/"/>
+        <updated>2021-06-15T17:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Timeline of CIA Atrocities (1993)]]></title>
+        <id>https://news.ycombinator.com/item?id=27518459</id>
+        <link href="http://www.huppi.com/kangaroo/CIAtimeline.html"/>
+        <updated>2021-06-15T17:18:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.huppi.com/kangaroo/CIAtimeline.html
+Comments URL: https://news.ycombinator.com/item?id=27518459
+Points: 79
+# Comments: 55]]></summary>
+        <author>
+            <name>georgecmu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tensil (YC S19) Is Hiring FPGA Engineers]]></title>
         <id>https://news.ycombinator.com/item?id=27518225</id>
@@ -20,27 +66,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It's surprisingly easy to get a sunburn]]></title>
-        <id>https://news.ycombinator.com/item?id=27517956</id>
-        <link href="https://deepnote.com/@daniel-zvara-036a/Time-to-sunburn-73Bmeo76QwO33IxA3GYGcQ"/>
-        <updated>2021-06-15T16:43:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deepnote.com/@daniel-zvara-036a/Time-to-sunburn-73Bmeo76QwO33IxA3GYGcQ
-Comments URL: https://news.ycombinator.com/item?id=27517956
-Points: 31
-# Comments: 17]]></summary>
-        <author>
-            <name>epiteton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Richard Feynman’s Integral Trick]]></title>
         <id>https://news.ycombinator.com/item?id=27517685</id>
         <link href="https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c"/>
         <updated>2021-06-15T16:23:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c
 Comments URL: https://news.ycombinator.com/item?id=27517685
-Points: 71
-# Comments: 24]]></summary>
+Points: 116
+# Comments: 51]]></summary>
         <author>
             <name>TheTrotters</name>
         </author>
@@ -52,21 +85,8 @@ Points: 71
         <updated>2021-06-15T16:14:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://support.google.com/maps/answer/1725632#how_opt_out&zippy=
 Comments URL: https://news.ycombinator.com/item?id=27517547
-Points: 71
-# Comments: 25]]></summary>
-        <author>
-            <name>client4</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't just shorten your URL, make it suspicious and frightening]]></title>
-        <id>https://news.ycombinator.com/item?id=27517524</id>
-        <link href="http://shadyurl.com/create.php"/>
-        <updated>2021-06-15T16:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://shadyurl.com/create.php
-Comments URL: https://news.ycombinator.com/item?id=27517524
-Points: 26
-# Comments: 2]]></summary>
+Points: 116
+# Comments: 93]]></summary>
         <author>
             <name>client4</name>
         </author>
@@ -78,8 +98,8 @@ Points: 26
         <updated>2021-06-15T16:10:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://queue.acm.org/detail.cfm?id=3469844
 Comments URL: https://news.ycombinator.com/item?id=27517503
-Points: 12
-# Comments: 5]]></summary>
+Points: 22
+# Comments: 20]]></summary>
         <author>
             <name>jasim</name>
         </author>
@@ -101,8 +121,8 @@ Points: 12
         <updated>2021-06-15T16:06:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nextjs.org/blog/next-11
 Comments URL: https://news.ycombinator.com/item?id=27517457
-Points: 104
-# Comments: 11]]></summary>
+Points: 155
+# Comments: 33]]></summary>
         <author>
             <name>jacobwg</name>
         </author>
@@ -114,8 +134,8 @@ Points: 104
         <updated>2021-06-15T16:05:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nextjs.org/live
 Comments URL: https://news.ycombinator.com/item?id=27517440
-Points: 43
-# Comments: 7]]></summary>
+Points: 54
+# Comments: 9]]></summary>
         <author>
             <name>leerob</name>
         </author>
@@ -147,8 +167,8 @@ Points: 43
         <updated>2021-06-15T14:49:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/1/897/ENUS921-031/index.html&request_locale=en
 Comments URL: https://news.ycombinator.com/item?id=27516323
-Points: 35
-# Comments: 9]]></summary>
+Points: 44
+# Comments: 11]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -160,8 +180,8 @@ Points: 35
         <updated>2021-06-15T14:33:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://emacs.love/tales/emacs-love-tale-by-sdp.html
 Comments URL: https://news.ycombinator.com/item?id=27516073
-Points: 76
-# Comments: 19]]></summary>
+Points: 90
+# Comments: 25]]></summary>
         <author>
             <name>SuperNinKenDo</name>
         </author>
@@ -186,8 +206,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-15T14:26:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/1502.03808
 Comments URL: https://news.ycombinator.com/item?id=27515974
-Points: 27
-# Comments: 16]]></summary>
+Points: 30
+# Comments: 18]]></summary>
         <author>
             <name>susam</name>
         </author>
@@ -199,8 +219,8 @@ Points: 27
         <updated>2021-06-15T14:24:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/
 Comments URL: https://news.ycombinator.com/item?id=27515944
-Points: 90
-# Comments: 52]]></summary>
+Points: 98
+# Comments: 58]]></summary>
         <author>
             <name>atg_abhishek</name>
         </author>
@@ -212,8 +232,8 @@ Points: 90
         <updated>2021-06-15T14:20:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://awssat.com/opensource/tailwindo/1_introduction.html
 Comments URL: https://news.ycombinator.com/item?id=27515891
-Points: 33
-# Comments: 14]]></summary>
+Points: 37
+# Comments: 23]]></summary>
         <author>
             <name>wilsonfiifi</name>
         </author>
@@ -225,8 +245,8 @@ Points: 33
         <updated>2021-06-15T14:06:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://future.a16z.com/
 Comments URL: https://news.ycombinator.com/item?id=27515710
-Points: 70
-# Comments: 21]]></summary>
+Points: 83
+# Comments: 22]]></summary>
         <author>
             <name>DLay</name>
         </author>
@@ -238,8 +258,8 @@ Points: 70
         <updated>2021-06-15T14:00:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:50/
 Comments URL: https://news.ycombinator.com/item?id=27515645
-Points: 82
-# Comments: 42]]></summary>
+Points: 91
+# Comments: 47]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -263,8 +283,8 @@ Sydney and I met in 42, a software engineering school in Paris, and started work
         <updated>2021-06-15T13:31:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/
 Comments URL: https://news.ycombinator.com/item?id=27515230
-Points: 266
-# Comments: 220]]></summary>
+Points: 290
+# Comments: 243]]></summary>
         <author>
             <name>estas</name>
         </author>
@@ -276,8 +296,8 @@ Points: 266
         <updated>2021-06-15T13:10:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://future.com/what-we-learned-doing-fast-grants/
 Comments URL: https://news.ycombinator.com/item?id=27514836
-Points: 102
-# Comments: 21]]></summary>
+Points: 114
+# Comments: 25]]></summary>
         <author>
             <name>sundaypancakes</name>
         </author>
@@ -289,8 +309,8 @@ Points: 102
         <updated>2021-06-15T12:56:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://modelplace.ai
 Comments URL: https://news.ycombinator.com/item?id=27514638
-Points: 86
-# Comments: 24]]></summary>
+Points: 93
+# Comments: 29]]></summary>
         <author>
             <name>philnelson</name>
         </author>
@@ -302,8 +322,8 @@ Points: 86
         <updated>2021-06-15T12:43:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hindenburgresearch.com/draftkings/
 Comments URL: https://news.ycombinator.com/item?id=27514437
-Points: 59
-# Comments: 9]]></summary>
+Points: 76
+# Comments: 23]]></summary>
         <author>
             <name>samizdis</name>
         </author>
@@ -429,16 +449,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business]]></title>
-        <id>60b72d5facb62507dd1d777b</id>
-        <link href="https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/"/>
-        <updated>2021-06-11T22:56:56.000Z</updated>
-        <summary type="html"><![CDATA[If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!]]></title>
         <id>https://css-tricks.com/?p=342429</id>
         <link href="https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/"/>
@@ -464,16 +474,6 @@ The post The Possibilities of Syndication appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Center Anything in CSS Using Flexbox and Grid ✨]]></title>
-        <id>6063b9189618b008528a9d81</id>
-        <link href="https://www.freecodecamp.org/news/how-to-center-objects-using-css/"/>
-        <updated>2021-06-11T20:40:17.000Z</updated>
-        <summary type="html"><![CDATA[Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -953,17 +953,6 @@ The post Introducing Firefox’s new Site Isolation Security Architecture appear
         <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
-        <updated>2021-05-17T05:32:19.000Z</updated>
-        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
-Chore: Reorganize to monorepo with npm workspace.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
