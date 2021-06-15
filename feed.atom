@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T15:13:08.221Z</updated>
+    <updated>2021-06-15T16:22:32.944Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Open Any Repo in VS Code Without Cloning It]]></title>
+        <id>60b7cb6aacb62507dd1d7c1a</id>
+        <link href="https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/"/>
+        <updated>2021-06-15T16:06:54.000Z</updated>
+        <summary type="html"><![CDATA[You can now open anything (that you have access to) on GitHub directly from VS Code.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Aggregate Functions – With Example Data Queries for Beginners]]></title>
+        <id>60c6aec3d3126007592d7bd5</id>
+        <link href="https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/"/>
+        <updated>2021-06-15T15:48:09.000Z</updated>
+        <summary type="html"><![CDATA[What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Full Stack? How to Become a Full Stack Developer]]></title>
+        <id>60bbdd8dacb62507dd1d9a2d</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-fullstack-developer/"/>
+        <updated>2021-06-15T15:35:39.000Z</updated>
+        <summary type="html"><![CDATA[You've probably seen the term "full stack developer" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIH Study Offers New Evidence of Early SARS-CoV-2 Infections in U.S.]]></title>
+        <id>https://news.ycombinator.com/item?id=27516977</id>
+        <link href="https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us"/>
+        <updated>2021-06-15T15:35:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us
+Comments URL: https://news.ycombinator.com/item?id=27516977
+Points: 16
+# Comments: 2]]></summary>
+        <author>
+            <name>infodocket</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM APL2: Software withdrawal and support discontinuance]]></title>
+        <id>https://news.ycombinator.com/item?id=27516323</id>
+        <link href="https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/1/897/ENUS921-031/index.html&amp;request_locale=en"/>
+        <updated>2021-06-15T14:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/1/897/ENUS921-031/index.html&request_locale=en
+Comments URL: https://news.ycombinator.com/item?id=27516323
+Points: 14
+# Comments: 3]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs Love Tale by Sdp]]></title>
+        <id>https://news.ycombinator.com/item?id=27516073</id>
+        <link href="https://emacs.love/tales/emacs-love-tale-by-sdp.html"/>
+        <updated>2021-06-15T14:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://emacs.love/tales/emacs-love-tale-by-sdp.html
+Comments URL: https://news.ycombinator.com/item?id=27516073
+Points: 32
+# Comments: 1]]></summary>
+        <author>
+            <name>SuperNinKenDo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Just How Niche is Headless WordPress?]]></title>
         <id>https://css-tricks.com/?p=342248</id>
@@ -26,8 +95,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-15T14:26:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/1502.03808
 Comments URL: https://news.ycombinator.com/item?id=27515974
-Points: 13
-# Comments: 4]]></summary>
+Points: 20
+# Comments: 8]]></summary>
         <author>
             <name>susam</name>
         </author>
@@ -39,10 +108,23 @@ Points: 13
         <updated>2021-06-15T14:24:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/
 Comments URL: https://news.ycombinator.com/item?id=27515944
-Points: 16
-# Comments: 5]]></summary>
+Points: 56
+# Comments: 28]]></summary>
         <author>
             <name>atg_abhishek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwindo: Convert Your Bootstrap CSS to Tailwind CSS]]></title>
+        <id>https://news.ycombinator.com/item?id=27515891</id>
+        <link href="https://awssat.com/opensource/tailwindo/1_introduction.html"/>
+        <updated>2021-06-15T14:20:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://awssat.com/opensource/tailwindo/1_introduction.html
+Comments URL: https://news.ycombinator.com/item?id=27515891
+Points: 18
+# Comments: 0]]></summary>
+        <author>
+            <name>wilsonfiifi</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +134,8 @@ Points: 16
         <updated>2021-06-15T14:06:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://future.a16z.com/
 Comments URL: https://news.ycombinator.com/item?id=27515710
-Points: 18
-# Comments: 4]]></summary>
+Points: 51
+# Comments: 9]]></summary>
         <author>
             <name>DLay</name>
         </author>
@@ -65,8 +147,8 @@ Points: 18
         <updated>2021-06-15T14:00:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:50/
 Comments URL: https://news.ycombinator.com/item?id=27515645
-Points: 36
-# Comments: 14]]></summary>
+Points: 67
+# Comments: 31]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -78,7 +160,7 @@ Points: 36
         <updated>2021-06-15T13:58:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9
 Comments URL: https://news.ycombinator.com/item?id=27515615
-Points: 20
+Points: 40
 # Comments: 0]]></summary>
         <author>
             <name>shivbhatt</name>
@@ -103,8 +185,8 @@ Sydney and I met in 42, a software engineering school in Paris, and started work
         <updated>2021-06-15T13:31:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/
 Comments URL: https://news.ycombinator.com/item?id=27515230
-Points: 116
-# Comments: 61]]></summary>
+Points: 208
+# Comments: 139]]></summary>
         <author>
             <name>estas</name>
         </author>
@@ -116,8 +198,8 @@ Points: 116
         <updated>2021-06-15T13:10:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://future.com/what-we-learned-doing-fast-grants/
 Comments URL: https://news.ycombinator.com/item?id=27514836
-Points: 33
-# Comments: 3]]></summary>
+Points: 75
+# Comments: 7]]></summary>
         <author>
             <name>sundaypancakes</name>
         </author>
@@ -129,8 +211,8 @@ Points: 33
         <updated>2021-06-15T12:56:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://modelplace.ai
 Comments URL: https://news.ycombinator.com/item?id=27514638
-Points: 45
-# Comments: 12]]></summary>
+Points: 71
+# Comments: 18]]></summary>
         <author>
             <name>philnelson</name>
         </author>
@@ -142,8 +224,8 @@ Points: 45
         <updated>2021-06-15T12:41:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.axios.com/hospitals-price-transparency-costs-regulations-noncompliance-ebf6bd21-5709-4298-b67a-74c8a90a1ec1.html
 Comments URL: https://news.ycombinator.com/item?id=27514413
-Points: 14
-# Comments: 1]]></summary>
+Points: 109
+# Comments: 50]]></summary>
         <author>
             <name>KoftaBob</name>
         </author>
@@ -155,8 +237,8 @@ Points: 14
         <updated>2021-06-15T12:19:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://insidermag.net/survey-shows-people-no-longer-believe-working-hard-will-lead-to-a-better-life/
 Comments URL: https://news.ycombinator.com/item?id=27514188
-Points: 474
-# Comments: 436]]></summary>
+Points: 526
+# Comments: 519]]></summary>
         <author>
             <name>jason0597</name>
         </author>
@@ -168,8 +250,8 @@ Points: 474
         <updated>2021-06-15T12:12:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57443598
 Comments URL: https://news.ycombinator.com/item?id=27514130
-Points: 56
-# Comments: 128]]></summary>
+Points: 88
+# Comments: 200]]></summary>
         <author>
             <name>mikesabbagh</name>
         </author>
@@ -194,23 +276,10 @@ Points: 1
         <updated>2021-06-15T11:52:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57484720
 Comments URL: https://news.ycombinator.com/item?id=27513944
-Points: 81
-# Comments: 34]]></summary>
+Points: 94
+# Comments: 38]]></summary>
         <author>
             <name>ColinWright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb Is Spending Millions of Dollars to Make Nightmares Go Away]]></title>
-        <id>https://news.ycombinator.com/item?id=27513938</id>
-        <link href="https://www.bloomberg.com/news/features/2021-06-15/airbnb-spends-millions-making-nightmares-at-live-anywhere-rentals-go-away"/>
-        <updated>2021-06-15T11:51:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/features/2021-06-15/airbnb-spends-millions-making-nightmares-at-live-anywhere-rentals-go-away
-Comments URL: https://news.ycombinator.com/item?id=27513938
-Points: 73
-# Comments: 57]]></summary>
-        <author>
-            <name>bbharman</name>
         </author>
     </entry>
     <entry>
@@ -220,8 +289,8 @@ Points: 73
         <updated>2021-06-15T10:47:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://berthub.eu/articles/posts/europes-software-problem/
 Comments URL: https://news.ycombinator.com/item?id=27513412
-Points: 154
-# Comments: 140]]></summary>
+Points: 182
+# Comments: 196]]></summary>
         <author>
             <name>jobstijl</name>
         </author>
@@ -233,8 +302,8 @@ Points: 154
         <updated>2021-06-15T10:17:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.politico.eu/article/french-search-engine-qwant-huawei-bailout-loan/
 Comments URL: https://news.ycombinator.com/item?id=27513240
-Points: 39
-# Comments: 24]]></summary>
+Points: 49
+# Comments: 32]]></summary>
         <author>
             <name>ColinHayhurst</name>
         </author>
@@ -247,45 +316,6 @@ Points: 39
         <summary type="html"><![CDATA[When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The rise of E Ink Tablets and Note Takers: reMarkable 2 vs Onyx Boox Note Air]]></title>
-        <id>https://news.ycombinator.com/item?id=27513201</id>
-        <link href="https://www.hanselman.com/blog/the-quiet-rise-of-e-ink-tablets-and-infinite-paper-note-takers-remarkable-2-vs-onyx-boox-note-air"/>
-        <updated>2021-06-15T10:12:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.hanselman.com/blog/the-quiet-rise-of-e-ink-tablets-and-infinite-paper-note-takers-remarkable-2-vs-onyx-boox-note-air
-Comments URL: https://news.ycombinator.com/item?id=27513201
-Points: 254
-# Comments: 213]]></summary>
-        <author>
-            <name>GordonS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The state of the Linux kernel security (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27513149</id>
-        <link href="https://github.com/ossf/wg-securing-critical-projects/blob/main/presentations/The_state_of_the_Linux_kernel_security.pdf"/>
-        <updated>2021-06-15T10:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ossf/wg-securing-critical-projects/blob/main/presentations/The_state_of_the_Linux_kernel_security.pdf
-Comments URL: https://news.ycombinator.com/item?id=27513149
-Points: 94
-# Comments: 16]]></summary>
-        <author>
-            <name>belter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big tech face EU blow in national data watchdogs ruling]]></title>
-        <id>https://news.ycombinator.com/item?id=27513037</id>
-        <link href="https://www.reuters.com/world/europe/top-eu-court-says-national-watchdogs-may-act-against-violations-blow-facebook-2021-06-15/"/>
-        <updated>2021-06-15T09:43:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/europe/top-eu-court-says-national-watchdogs-may-act-against-violations-blow-facebook-2021-06-15/
-Comments URL: https://news.ycombinator.com/item?id=27513037
-Points: 169
-# Comments: 109]]></summary>
-        <author>
-            <name>shivbhatt</name>
         </author>
     </entry>
     <entry>
@@ -442,36 +472,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/how-to-center-objects-using-css/"/>
         <updated>2021-06-11T20:40:17.000Z</updated>
         <summary type="html"><![CDATA[Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design Keyboard Accessibility for Complex React Experiences]]></title>
-        <id>5f9c97e9740569d1a4ca1768</id>
-        <link href="https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/"/>
-        <updated>2021-06-11T19:10:00.000Z</updated>
-        <summary type="html"><![CDATA[How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Ask Good Technical Questions – the Ultimate Guide]]></title>
-        <id>60bc0444acb62507dd1d9a31</id>
-        <link href="https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/"/>
-        <updated>2021-06-11T17:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Level Up Your React Conditionals]]></title>
-        <id>60c24cf8d3126007592d61d5</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-conditionals/"/>
-        <updated>2021-06-11T16:04:46.000Z</updated>
-        <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
