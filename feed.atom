@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T23:12:12.714Z</updated>
+    <updated>2021-06-15T00:37:34.828Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You can legally get and run WordPerfect for free]]></title>
+        <id>https://news.ycombinator.com/item?id=27509629</id>
+        <link href="https://liam-on-linux.livejournal.com/80768.html"/>
+        <updated>2021-06-14T23:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://liam-on-linux.livejournal.com/80768.html
+Comments URL: https://news.ycombinator.com/item?id=27509629
+Points: 16
+# Comments: 2]]></summary>
+        <author>
+            <name>lproven</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
         <id>60873d1fdd38b9088c2c0842</id>
@@ -23,23 +36,33 @@
         <updated>2021-06-14T22:45:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.berfrois.com/2021/06/love-maud/
 Comments URL: https://news.ycombinator.com/item?id=27509300
-Points: 3
-# Comments: 0]]></summary>
+Points: 15
+# Comments: 1]]></summary>
         <author>
             <name>portobello</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US bans dog imports from more than 100 countries]]></title>
-        <id>https://news.ycombinator.com/item?id=27509023</id>
-        <link href="https://www.bbc.com/news/world-us-canada-57478076"/>
-        <updated>2021-06-14T22:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-us-canada-57478076
-Comments URL: https://news.ycombinator.com/item?id=27509023
-Points: 48
-# Comments: 51]]></summary>
+        <title type="html"><![CDATA[Baseball's dirty little secret is out – we decided to experiment]]></title>
+        <id>https://news.ycombinator.com/item?id=27509258</id>
+        <link href="https://www.thescore.com/mlb/news/2180019"/>
+        <updated>2021-06-14T22:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thescore.com/mlb/news/2180019
+Comments URL: https://news.ycombinator.com/item?id=27509258
+Points: 65
+# Comments: 4]]></summary>
         <author>
-            <name>Black101</name>
+            <name>doublerebel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom Pagination Component in React]]></title>
+        <id>60bce373acb62507dd1d9f19</id>
+        <link href="https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/"/>
+        <updated>2021-06-14T22:39:00.000Z</updated>
+        <summary type="html"><![CDATA[We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -74,8 +97,8 @@ Points: 1
         <updated>2021-06-14T20:15:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 Comments URL: https://news.ycombinator.com/item?id=27507723
-Points: 18
-# Comments: 8]]></summary>
+Points: 23
+# Comments: 18]]></summary>
         <author>
             <name>buran77</name>
         </author>
@@ -97,8 +120,8 @@ Points: 18
         <updated>2021-06-14T20:10:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/mattrighetti/HNReaderApp
 Comments URL: https://news.ycombinator.com/item?id=27507645
-Points: 60
-# Comments: 39]]></summary>
+Points: 69
+# Comments: 45]]></summary>
         <author>
             <name>mattrighetti</name>
         </author>
@@ -110,34 +133,21 @@ Points: 60
         <updated>2021-06-14T20:00:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/diegojromerolopez/gelidum
 Comments URL: https://news.ycombinator.com/item?id=27507524
-Points: 5
-# Comments: 1]]></summary>
+Points: 17
+# Comments: 4]]></summary>
         <author>
             <name>diegojromero</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supporting Let’s Encrypt, the nonprofit making HTTPS free for all]]></title>
-        <id>https://news.ycombinator.com/item?id=27507088</id>
-        <link href="https://blog.1password.com/supporting-lets-encrypt/"/>
-        <updated>2021-06-14T19:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.1password.com/supporting-lets-encrypt/
-Comments URL: https://news.ycombinator.com/item?id=27507088
-Points: 95
-# Comments: 49]]></summary>
-        <author>
-            <name>robin_reala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An old tent design made with new materials]]></title>
+        <title type="html"><![CDATA[21st Century Baker's Tent]]></title>
         <id>https://news.ycombinator.com/item?id=27507045</id>
         <link href="https://azartiz.com/?2021-06-13T20:25:16.558Z"/>
         <updated>2021-06-14T19:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://azartiz.com/?2021-06-13T20:25:16.558Z
 Comments URL: https://news.ycombinator.com/item?id=27507045
-Points: 177
-# Comments: 70]]></summary>
+Points: 209
+# Comments: 109]]></summary>
         <author>
             <name>oblib</name>
         </author>
@@ -159,8 +169,8 @@ Points: 177
         <updated>2021-06-14T18:49:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb
 Comments URL: https://news.ycombinator.com/item?id=27506609
-Points: 156
-# Comments: 100]]></summary>
+Points: 175
+# Comments: 115]]></summary>
         <author>
             <name>SmkyMt</name>
         </author>
@@ -172,8 +182,8 @@ Points: 156
         <updated>2021-06-14T18:45:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/
 Comments URL: https://news.ycombinator.com/item?id=27506550
-Points: 166
-# Comments: 158]]></summary>
+Points: 194
+# Comments: 176]]></summary>
         <author>
             <name>jmilloy</name>
         </author>
@@ -205,14 +215,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Metastable Failures in Distributed Systems]]></title>
+        <id>https://news.ycombinator.com/item?id=27506167</id>
+        <link href="http://charap.co/metastable-failures-in-distributed-systems/"/>
+        <updated>2021-06-14T18:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://charap.co/metastable-failures-in-distributed-systems/
+Comments URL: https://news.ycombinator.com/item?id=27506167
+Points: 24
+# Comments: 5]]></summary>
+        <author>
+            <name>mjb</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Adventures in Fuzzing Matrix’s Encryption]]></title>
         <id>https://news.ycombinator.com/item?id=27505901</id>
         <link href="https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm"/>
         <updated>2021-06-14T18:00:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm
 Comments URL: https://news.ycombinator.com/item?id=27505901
-Points: 64
-# Comments: 7]]></summary>
+Points: 70
+# Comments: 9]]></summary>
         <author>
             <name>Arathorn</name>
         </author>
@@ -224,8 +247,8 @@ Points: 64
         <updated>2021-06-14T16:03:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html
 Comments URL: https://news.ycombinator.com/item?id=27504254
-Points: 151
-# Comments: 50]]></summary>
+Points: 162
+# Comments: 53]]></summary>
         <author>
             <name>ColinWright</name>
         </author>
@@ -248,8 +271,8 @@ The rise of online shopping has posed significant challenges for fashion retaile
         <updated>2021-06-14T15:17:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://routinedb.com/routines
 Comments URL: https://news.ycombinator.com/item?id=27503597
-Points: 267
-# Comments: 142]]></summary>
+Points: 290
+# Comments: 155]]></summary>
         <author>
             <name>sitesuniverse</name>
         </author>
@@ -261,8 +284,8 @@ Points: 267
         <updated>2021-06-14T14:32:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stripe.com/identity
 Comments URL: https://news.ycombinator.com/item?id=27502993
-Points: 803
-# Comments: 439]]></summary>
+Points: 831
+# Comments: 453]]></summary>
         <author>
             <name>thomaspark</name>
         </author>
@@ -286,23 +309,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-14T12:33:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57468750
 Comments URL: https://news.ycombinator.com/item?id=27501805
-Points: 305
-# Comments: 210]]></summary>
+Points: 322
+# Comments: 215]]></summary>
         <author>
             <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let web applications be file handlers]]></title>
-        <id>https://news.ycombinator.com/item?id=27501732</id>
-        <link href="https://web.dev/file-handling/"/>
-        <updated>2021-06-14T12:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://web.dev/file-handling/
-Comments URL: https://news.ycombinator.com/item?id=27501732
-Points: 168
-# Comments: 157]]></summary>
-        <author>
-            <name>mukwevhom</name>
         </author>
     </entry>
     <entry>
@@ -312,8 +322,8 @@ Points: 168
         <updated>2021-06-14T12:13:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.google/products/workspace/google-workspace-everyone/
 Comments URL: https://news.ycombinator.com/item?id=27501659
-Points: 189
-# Comments: 253]]></summary>
+Points: 202
+# Comments: 266]]></summary>
         <author>
             <name>danirod</name>
         </author>
@@ -325,8 +335,8 @@ Points: 189
         <updated>2021-06-14T11:03:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html
 Comments URL: https://news.ycombinator.com/item?id=27501221
-Points: 686
-# Comments: 841]]></summary>
+Points: 716
+# Comments: 882]]></summary>
         <author>
             <name>samizdis</name>
         </author>
@@ -348,7 +358,7 @@ Points: 686
         <updated>2021-06-14T09:34:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://rrbike.freeservers.com/main.htm
 Comments URL: https://news.ycombinator.com/item?id=27500787
-Points: 118
+Points: 119
 # Comments: 59]]></summary>
         <author>
             <name>Kaibeezy</name>
@@ -501,16 +511,6 @@ The post Building a Headless CMS with Fauna and Vercel Functions appeared first 
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Ikeh Akinyemi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
-        <id>60b93afaacb62507dd1d8915</id>
-        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
-        <updated>2021-06-10T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
