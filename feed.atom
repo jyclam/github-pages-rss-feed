@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T02:06:24.421Z</updated>
+    <updated>2021-06-15T03:17:09.512Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NOAA Weather Radio Outages]]></title>
+        <id>https://news.ycombinator.com/item?id=27510485</id>
+        <link href="https://www.weather.gov/nwr/outages"/>
+        <updated>2021-06-15T01:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.weather.gov/nwr/outages
+Comments URL: https://news.ycombinator.com/item?id=27510485
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>MaciejR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoid News, Part 2: What the Stock Market Taught Me about News]]></title>
+        <id>https://news.ycombinator.com/item?id=27510448</id>
+        <link href="http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/"/>
+        <updated>2021-06-15T01:44:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/
+Comments URL: https://news.ycombinator.com/item?id=27510448
+Points: 46
+# Comments: 12]]></summary>
+        <author>
+            <name>Ariarule</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Supreme Court revives LinkedIn bid to shield personal data]]></title>
         <id>https://news.ycombinator.com/item?id=27510103</id>
@@ -13,8 +39,8 @@
         <updated>2021-06-15T00:41:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/
 Comments URL: https://news.ycombinator.com/item?id=27510103
-Points: 61
-# Comments: 25]]></summary>
+Points: 97
+# Comments: 36]]></summary>
         <author>
             <name>anfilt</name>
         </author>
@@ -26,10 +52,23 @@ Points: 61
         <updated>2021-06-15T00:12:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/
 Comments URL: https://news.ycombinator.com/item?id=27509944
-Points: 14
-# Comments: 0]]></summary>
+Points: 58
+# Comments: 1]]></summary>
         <author>
             <name>marcodiego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Generate a free visual sitemap by crawling any website]]></title>
+        <id>https://news.ycombinator.com/item?id=27509682</id>
+        <link href="https://rarchy.com/sitemaps/visual-sitemap-generator"/>
+        <updated>2021-06-14T23:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rarchy.com/sitemaps/visual-sitemap-generator
+Comments URL: https://news.ycombinator.com/item?id=27509682
+Points: 8
+# Comments: 1]]></summary>
+        <author>
+            <name>owor</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +78,8 @@ Points: 14
         <updated>2021-06-14T23:21:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://liam-on-linux.livejournal.com/80768.html
 Comments URL: https://news.ycombinator.com/item?id=27509629
-Points: 64
-# Comments: 47]]></summary>
+Points: 100
+# Comments: 73]]></summary>
         <author>
             <name>lproven</name>
         </author>
@@ -62,7 +101,7 @@ Points: 64
         <updated>2021-06-14T22:45:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.berfrois.com/2021/06/love-maud/
 Comments URL: https://news.ycombinator.com/item?id=27509300
-Points: 27
+Points: 36
 # Comments: 3]]></summary>
         <author>
             <name>portobello</name>
@@ -75,8 +114,8 @@ Points: 27
         <updated>2021-06-14T22:42:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thescore.com/mlb/news/2180019
 Comments URL: https://news.ycombinator.com/item?id=27509258
-Points: 95
-# Comments: 22]]></summary>
+Points: 108
+# Comments: 30]]></summary>
         <author>
             <name>doublerebel</name>
         </author>
@@ -117,19 +156,6 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FTDI FT232RL: Real vs. Fake (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=27507723</id>
-        <link href="https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal"/>
-        <updated>2021-06-14T20:15:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
-Comments URL: https://news.ycombinator.com/item?id=27507723
-Points: 28
-# Comments: 33]]></summary>
-        <author>
-            <name>buran77</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HTML Roving tabindex Attribute Explained with Examples]]></title>
         <id>60c3b862d3126007592d689b</id>
         <link href="https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/"/>
@@ -146,8 +172,8 @@ Points: 28
         <updated>2021-06-14T20:13:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wordpress.com/blog/2021/06/14/day-one-the-journaling-app-joins-automattic/
 Comments URL: https://news.ycombinator.com/item?id=27507698
-Points: 15
-# Comments: 0]]></summary>
+Points: 32
+# Comments: 6]]></summary>
         <author>
             <name>nsriv</name>
         </author>
@@ -159,8 +185,8 @@ Points: 15
         <updated>2021-06-14T20:00:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/diegojromerolopez/gelidum
 Comments URL: https://news.ycombinator.com/item?id=27507524
-Points: 30
-# Comments: 8]]></summary>
+Points: 33
+# Comments: 12]]></summary>
         <author>
             <name>diegojromero</name>
         </author>
@@ -172,8 +198,8 @@ Points: 30
         <updated>2021-06-14T19:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://azartiz.com/?2021-06-13T20:25:16.558Z
 Comments URL: https://news.ycombinator.com/item?id=27507045
-Points: 229
-# Comments: 126]]></summary>
+Points: 236
+# Comments: 131]]></summary>
         <author>
             <name>oblib</name>
         </author>
@@ -195,8 +221,8 @@ Points: 229
         <updated>2021-06-14T18:49:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb
 Comments URL: https://news.ycombinator.com/item?id=27506609
-Points: 202
-# Comments: 127]]></summary>
+Points: 216
+# Comments: 132]]></summary>
         <author>
             <name>SmkyMt</name>
         </author>
@@ -208,8 +234,8 @@ Points: 202
         <updated>2021-06-14T18:45:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/
 Comments URL: https://news.ycombinator.com/item?id=27506550
-Points: 220
-# Comments: 195]]></summary>
+Points: 238
+# Comments: 211]]></summary>
         <author>
             <name>jmilloy</name>
         </author>
@@ -247,7 +273,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-14T18:00:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm
 Comments URL: https://news.ycombinator.com/item?id=27505901
-Points: 75
+Points: 82
 # Comments: 10]]></summary>
         <author>
             <name>Arathorn</name>
@@ -260,8 +286,8 @@ Points: 75
         <updated>2021-06-14T16:03:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html
 Comments URL: https://news.ycombinator.com/item?id=27504254
-Points: 178
-# Comments: 54]]></summary>
+Points: 191
+# Comments: 55]]></summary>
         <author>
             <name>ColinWright</name>
         </author>
@@ -284,8 +310,8 @@ The rise of online shopping has posed significant challenges for fashion retaile
         <updated>2021-06-14T15:17:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://routinedb.com/routines
 Comments URL: https://news.ycombinator.com/item?id=27503597
-Points: 310
-# Comments: 160]]></summary>
+Points: 324
+# Comments: 163]]></summary>
         <author>
             <name>sitesuniverse</name>
         </author>
@@ -297,8 +323,8 @@ Points: 310
         <updated>2021-06-14T14:32:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stripe.com/identity
 Comments URL: https://news.ycombinator.com/item?id=27502993
-Points: 860
-# Comments: 464]]></summary>
+Points: 885
+# Comments: 467]]></summary>
         <author>
             <name>thomaspark</name>
         </author>
@@ -322,36 +348,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-14T12:33:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57468750
 Comments URL: https://news.ycombinator.com/item?id=27501805
-Points: 339
-# Comments: 220]]></summary>
+Points: 350
+# Comments: 222]]></summary>
         <author>
             <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Workspace for everyone]]></title>
-        <id>https://news.ycombinator.com/item?id=27501659</id>
-        <link href="https://blog.google/products/workspace/google-workspace-everyone/"/>
-        <updated>2021-06-14T12:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.google/products/workspace/google-workspace-everyone/
-Comments URL: https://news.ycombinator.com/item?id=27501659
-Points: 214
-# Comments: 283]]></summary>
-        <author>
-            <name>danirod</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Great resignation” wave coming for companies]]></title>
-        <id>https://news.ycombinator.com/item?id=27501221</id>
-        <link href="https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html"/>
-        <updated>2021-06-14T11:03:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html
-Comments URL: https://news.ycombinator.com/item?id=27501221
-Points: 742
-# Comments: 895]]></summary>
-        <author>
-            <name>samizdis</name>
         </author>
     </entry>
     <entry>

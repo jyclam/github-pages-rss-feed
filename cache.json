@@ -6,9 +6,27 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27510485",
+          "author": "MaciejR",
+          "description": "Article URL: https://www.weather.gov/nwr/outages\nComments URL: https://news.ycombinator.com/item?id=27510485\nPoints: 6\n# Comments: 0",
+          "link": "https://www.weather.gov/nwr/outages",
+          "publishedOn": "2021-06-15T01:51:57.000Z",
+          "wordCount": 1416,
+          "title": "NOAA Weather Radio Outages"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27510448",
+          "author": "Ariarule",
+          "description": "Article URL: http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/\nComments URL: https://news.ycombinator.com/item?id=27510448\nPoints: 46\n# Comments: 12",
+          "link": "http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/",
+          "publishedOn": "2021-06-15T01:44:44.000Z",
+          "wordCount": 2168,
+          "title": "Avoid News, Part 2: What the Stock Market Taught Me about News"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27510103",
           "author": "anfilt",
-          "description": "Article URL: https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/\nComments URL: https://news.ycombinator.com/item?id=27510103\nPoints: 61\n# Comments: 25",
+          "description": "Article URL: https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/\nComments URL: https://news.ycombinator.com/item?id=27510103\nPoints: 97\n# Comments: 36",
           "link": "https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/",
           "publishedOn": "2021-06-15T00:41:30.000Z",
           "wordCount": 854,
@@ -17,16 +35,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27509944",
           "author": "marcodiego",
-          "description": "Article URL: https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/\nComments URL: https://news.ycombinator.com/item?id=27509944\nPoints: 14\n# Comments: 0",
+          "description": "Article URL: https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/\nComments URL: https://news.ycombinator.com/item?id=27509944\nPoints: 58\n# Comments: 1",
           "link": "https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/",
           "publishedOn": "2021-06-15T00:12:38.000Z",
           "wordCount": 1381,
           "title": "Linux with “memory folios”: got a 7% performance boost when compiling the kernel"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27509682",
+          "author": "owor",
+          "description": "Article URL: https://rarchy.com/sitemaps/visual-sitemap-generator\nComments URL: https://news.ycombinator.com/item?id=27509682\nPoints: 8\n# Comments: 1",
+          "link": "https://rarchy.com/sitemaps/visual-sitemap-generator",
+          "publishedOn": "2021-06-14T23:28:38.000Z",
+          "wordCount": 639,
+          "title": "Show HN: Generate a free visual sitemap by crawling any website"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27509629",
           "author": "lproven",
-          "description": "Article URL: https://liam-on-linux.livejournal.com/80768.html\nComments URL: https://news.ycombinator.com/item?id=27509629\nPoints: 64\n# Comments: 47",
+          "description": "Article URL: https://liam-on-linux.livejournal.com/80768.html\nComments URL: https://news.ycombinator.com/item?id=27509629\nPoints: 100\n# Comments: 73",
           "link": "https://liam-on-linux.livejournal.com/80768.html",
           "publishedOn": "2021-06-14T23:21:56.000Z",
           "wordCount": 1221,
@@ -35,7 +62,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27509300",
           "author": "portobello",
-          "description": "Article URL: https://www.berfrois.com/2021/06/love-maud/\nComments URL: https://news.ycombinator.com/item?id=27509300\nPoints: 27\n# Comments: 3",
+          "description": "Article URL: https://www.berfrois.com/2021/06/love-maud/\nComments URL: https://news.ycombinator.com/item?id=27509300\nPoints: 36\n# Comments: 3",
           "link": "https://www.berfrois.com/2021/06/love-maud/",
           "publishedOn": "2021-06-14T22:45:53.000Z",
           "wordCount": 3259,
@@ -44,10 +71,10 @@
         {
           "id": "https://news.ycombinator.com/item?id=27509258",
           "author": "doublerebel",
-          "description": "Article URL: https://www.thescore.com/mlb/news/2180019\nComments URL: https://news.ycombinator.com/item?id=27509258\nPoints: 95\n# Comments: 22",
+          "description": "Article URL: https://www.thescore.com/mlb/news/2180019\nComments URL: https://news.ycombinator.com/item?id=27509258\nPoints: 108\n# Comments: 30",
           "link": "https://www.thescore.com/mlb/news/2180019",
           "publishedOn": "2021-06-14T22:42:18.000Z",
-          "wordCount": 5295,
+          "wordCount": 5287,
           "title": "Baseball's dirty little secret is out – we decided to experiment"
         },
         {
@@ -60,18 +87,9 @@
           "title": "Mux (YC W16) is hiring to help build the Stripe for video"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27507723",
-          "author": "buran77",
-          "description": "Article URL: https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal\nComments URL: https://news.ycombinator.com/item?id=27507723\nPoints: 28\n# Comments: 33",
-          "link": "https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal",
-          "publishedOn": "2021-06-14T20:15:19.000Z",
-          "wordCount": 757,
-          "title": "FTDI FT232RL: Real vs. Fake (2014)"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27507698",
           "author": "nsriv",
-          "description": "Article URL: https://wordpress.com/blog/2021/06/14/day-one-the-journaling-app-joins-automattic/\nComments URL: https://news.ycombinator.com/item?id=27507698\nPoints: 15\n# Comments: 0",
+          "description": "Article URL: https://wordpress.com/blog/2021/06/14/day-one-the-journaling-app-joins-automattic/\nComments URL: https://news.ycombinator.com/item?id=27507698\nPoints: 32\n# Comments: 6",
           "link": "https://wordpress.com/blog/2021/06/14/day-one-the-journaling-app-joins-automattic/",
           "publishedOn": "2021-06-14T20:13:43.000Z",
           "wordCount": 1257,
@@ -80,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27507524",
           "author": "diegojromero",
-          "description": "Article URL: https://github.com/diegojromerolopez/gelidum\nComments URL: https://news.ycombinator.com/item?id=27507524\nPoints: 30\n# Comments: 8",
+          "description": "Article URL: https://github.com/diegojromerolopez/gelidum\nComments URL: https://news.ycombinator.com/item?id=27507524\nPoints: 33\n# Comments: 12",
           "link": "https://github.com/diegojromerolopez/gelidum",
           "publishedOn": "2021-06-14T20:00:01.000Z",
           "wordCount": 1287,
@@ -89,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27507045",
           "author": "oblib",
-          "description": "Article URL: https://azartiz.com/?2021-06-13T20:25:16.558Z\nComments URL: https://news.ycombinator.com/item?id=27507045\nPoints: 229\n# Comments: 126",
+          "description": "Article URL: https://azartiz.com/?2021-06-13T20:25:16.558Z\nComments URL: https://news.ycombinator.com/item?id=27507045\nPoints: 236\n# Comments: 131",
           "link": "https://azartiz.com/?2021-06-13T20:25:16.558Z",
           "publishedOn": "2021-06-14T19:25:13.000Z",
           "wordCount": 44,
@@ -98,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27506609",
           "author": "SmkyMt",
-          "description": "Article URL: https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb\nComments URL: https://news.ycombinator.com/item?id=27506609\nPoints: 202\n# Comments: 127",
+          "description": "Article URL: https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb\nComments URL: https://news.ycombinator.com/item?id=27506609\nPoints: 216\n# Comments: 132",
           "link": "https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb",
           "publishedOn": "2021-06-14T18:49:51.000Z",
           "wordCount": 64,
@@ -107,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27506550",
           "author": "jmilloy",
-          "description": "Article URL: https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/\nComments URL: https://news.ycombinator.com/item?id=27506550\nPoints: 220\n# Comments: 195",
+          "description": "Article URL: https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/\nComments URL: https://news.ycombinator.com/item?id=27506550\nPoints: 238\n# Comments: 211",
           "link": "https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/",
           "publishedOn": "2021-06-14T18:45:06.000Z",
           "wordCount": 7965,
@@ -116,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27505901",
           "author": "Arathorn",
-          "description": "Article URL: https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm\nComments URL: https://news.ycombinator.com/item?id=27505901\nPoints: 75\n# Comments: 10",
+          "description": "Article URL: https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm\nComments URL: https://news.ycombinator.com/item?id=27505901\nPoints: 82\n# Comments: 10",
           "link": "https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm",
           "publishedOn": "2021-06-14T18:00:20.000Z",
           "wordCount": 3291,
@@ -125,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27504254",
           "author": "ColinWright",
-          "description": "Article URL: https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html\nComments URL: https://news.ycombinator.com/item?id=27504254\nPoints: 178\n# Comments: 54",
+          "description": "Article URL: https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html\nComments URL: https://news.ycombinator.com/item?id=27504254\nPoints: 191\n# Comments: 55",
           "link": "https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html",
           "publishedOn": "2021-06-14T16:03:08.000Z",
           "wordCount": 2705,
@@ -137,13 +155,13 @@
           "description": "Hi HN! We are Kedan, Jeff, and Min Jin and we are co-founders of Revery AI. We've built a virtual dressing room for online retailers that allows customers to visualize any combination of garments on any model.\nThe rise of online shopping has posed significant challenges for fashion retailers. The lack of ability to try on and visualize outfits has made shopping less interactive, contributing to low conversion rates and high return rates compared to brick-and-mortar shopping. Virtual dressing rooms can recreate the lost experience of trying on clothes in person. There are other companies working on a virtual dressing room. However, the reason why this is not taking off is scalability. Fashion ecommerce platforms have thousands, if not millions of SKUs. Current approaches generally require c…",
           "link": "https://news.ycombinator.com/item?id=27504190",
           "publishedOn": "2021-06-14T15:59:13.000Z",
-          "wordCount": 3060,
+          "wordCount": 3106,
           "title": "Launch HN: Revery.AI (YC S21) Scalable deep learning-based virtual dressing room"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27503597",
           "author": "sitesuniverse",
-          "description": "Article URL: https://routinedb.com/routines\nComments URL: https://news.ycombinator.com/item?id=27503597\nPoints: 310\n# Comments: 160",
+          "description": "Article URL: https://routinedb.com/routines\nComments URL: https://news.ycombinator.com/item?id=27503597\nPoints: 324\n# Comments: 163",
           "link": "https://routinedb.com/routines",
           "publishedOn": "2021-06-14T15:17:33.000Z",
           "wordCount": 13,
@@ -152,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27502993",
           "author": "thomaspark",
-          "description": "Article URL: https://stripe.com/identity\nComments URL: https://news.ycombinator.com/item?id=27502993\nPoints: 860\n# Comments: 464",
+          "description": "Article URL: https://stripe.com/identity\nComments URL: https://news.ycombinator.com/item?id=27502993\nPoints: 885\n# Comments: 467",
           "link": "https://stripe.com/identity",
           "publishedOn": "2021-06-14T14:32:27.000Z",
           "wordCount": 1686,
@@ -161,29 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27501805",
           "author": "shivbhatt",
-          "description": "Article URL: https://www.bbc.com/news/world-europe-57468750\nComments URL: https://news.ycombinator.com/item?id=27501805\nPoints: 339\n# Comments: 220",
+          "description": "Article URL: https://www.bbc.com/news/world-europe-57468750\nComments URL: https://news.ycombinator.com/item?id=27501805\nPoints: 350\n# Comments: 222",
           "link": "https://www.bbc.com/news/world-europe-57468750",
           "publishedOn": "2021-06-14T12:33:48.000Z",
-          "wordCount": 738,
+          "wordCount": 739,
           "title": "Irish police to be given powers over passwords"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27501659",
-          "author": "danirod",
-          "description": "Article URL: https://blog.google/products/workspace/google-workspace-everyone/\nComments URL: https://news.ycombinator.com/item?id=27501659\nPoints: 214\n# Comments: 283",
-          "link": "https://blog.google/products/workspace/google-workspace-everyone/",
-          "publishedOn": "2021-06-14T12:13:23.000Z",
-          "wordCount": 1531,
-          "title": "Google Workspace for everyone"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27501221",
-          "author": "samizdis",
-          "description": "Article URL: https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html\nComments URL: https://news.ycombinator.com/item?id=27501221\nPoints: 742\n# Comments: 895",
-          "link": "https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html",
-          "publishedOn": "2021-06-14T11:03:54.000Z",
-          "wordCount": 1419,
-          "title": "“Great resignation” wave coming for companies"
         }
       ]
     },
@@ -455,7 +455,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1743,
+          "wordCount": 1733,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -469,7 +469,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5156,
+          "wordCount": 5147,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -483,7 +483,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 872,
+          "wordCount": 867,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -497,7 +497,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2773,
+          "wordCount": 2775,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -525,7 +525,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2431,
+          "wordCount": 2433,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -539,7 +539,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4404,
+          "wordCount": 4411,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -553,7 +553,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3715,
+          "wordCount": 3712,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -567,7 +567,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4580,
+          "wordCount": 4578,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -637,7 +637,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10591,
+          "wordCount": 10598,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -651,7 +651,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 4004,
+          "wordCount": 4052,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -679,7 +679,7 @@
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
           "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1745,
+          "wordCount": 1743,
           "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
@@ -693,7 +693,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2318,
+          "wordCount": 2325,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -707,7 +707,7 @@
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
           "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 2248,
+          "wordCount": 2250,
           "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f0c69413-365e-4c39-9ee8-ad1d2b44e56b/reduce-font-loading-impact-css-descriptors.jpg",
@@ -735,7 +735,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9744,
+          "wordCount": 9785,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -763,7 +763,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 2178,
+          "wordCount": 2188,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -819,7 +819,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 3148,
+          "wordCount": 3150,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
