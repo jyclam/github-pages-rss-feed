@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T07:15:34.898Z</updated>
+    <updated>2021-06-15T08:13:31.650Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 39 With Addy Osmani: Image Optimization]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/"/>
+        <updated>2021-06-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Structure of Scientific Revolutions]]></title>
+        <id>https://news.ycombinator.com/item?id=27511649</id>
+        <link href="https://www.uky.edu/~eushe2/Pajares/Kuhn.html"/>
+        <updated>2021-06-15T05:29:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.uky.edu/~eushe2/Pajares/Kuhn.html
+Comments URL: https://news.ycombinator.com/item?id=27511649
+Points: 9
+# Comments: 1]]></summary>
+        <author>
+            <name>sturza</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cue, an open-source data validation language]]></title>
         <id>https://news.ycombinator.com/item?id=27510919</id>
@@ -13,8 +36,8 @@
         <updated>2021-06-15T03:23:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cuelang.org/docs/about/
 Comments URL: https://news.ycombinator.com/item?id=27510919
-Points: 43
-# Comments: 8]]></summary>
+Points: 57
+# Comments: 9]]></summary>
         <author>
             <name>benhoyt</name>
         </author>
@@ -26,8 +49,8 @@ Points: 43
         <updated>2021-06-15T03:20:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/google/fully-homomorphic-encryption
 Comments URL: https://news.ycombinator.com/item?id=27510902
-Points: 110
-# Comments: 41]]></summary>
+Points: 130
+# Comments: 47]]></summary>
         <author>
             <name>gone35</name>
         </author>
@@ -39,10 +62,23 @@ Points: 110
         <updated>2021-06-15T03:06:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll
 Comments URL: https://news.ycombinator.com/item?id=27510836
-Points: 240
-# Comments: 77]]></summary>
+Points: 290
+# Comments: 99]]></summary>
         <author>
             <name>polm23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fed balance sheet tops $8T for first time -data]]></title>
+        <id>https://news.ycombinator.com/item?id=27510784</id>
+        <link href="https://www.reuters.com/business/fed-balance-sheet-tops-8-trillion-first-time-data-2021-06-10/"/>
+        <updated>2021-06-15T02:57:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/fed-balance-sheet-tops-8-trillion-first-time-data-2021-06-10/
+Comments URL: https://news.ycombinator.com/item?id=27510784
+Points: 17
+# Comments: 7]]></summary>
+        <author>
+            <name>paulpauper</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +88,8 @@ Points: 240
         <updated>2021-06-15T02:30:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
 Comments URL: https://news.ycombinator.com/item?id=27510647
-Points: 18
-# Comments: 3]]></summary>
+Points: 23
+# Comments: 6]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -65,7 +101,7 @@ Points: 18
         <updated>2021-06-15T01:51:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.weather.gov/nwr/outages
 Comments URL: https://news.ycombinator.com/item?id=27510485
-Points: 40
+Points: 45
 # Comments: 10]]></summary>
         <author>
             <name>MaciejR</name>
@@ -78,8 +114,8 @@ Points: 40
         <updated>2021-06-15T01:44:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/
 Comments URL: https://news.ycombinator.com/item?id=27510448
-Points: 198
-# Comments: 130]]></summary>
+Points: 221
+# Comments: 154]]></summary>
         <author>
             <name>Ariarule</name>
         </author>
@@ -91,8 +127,8 @@ Points: 198
         <updated>2021-06-15T00:41:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/
 Comments URL: https://news.ycombinator.com/item?id=27510103
-Points: 137
-# Comments: 51]]></summary>
+Points: 148
+# Comments: 55]]></summary>
         <author>
             <name>anfilt</name>
         </author>
@@ -104,8 +140,8 @@ Points: 137
         <updated>2021-06-15T00:12:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/
 Comments URL: https://news.ycombinator.com/item?id=27509944
-Points: 121
-# Comments: 33]]></summary>
+Points: 145
+# Comments: 45]]></summary>
         <author>
             <name>marcodiego</name>
         </author>
@@ -117,8 +153,8 @@ Points: 121
         <updated>2021-06-15T00:00:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://raywoodcockslatest.wordpress.com/2021/06/13/bitdefender-criticism/
 Comments URL: https://news.ycombinator.com/item?id=27509888
-Points: 19
-# Comments: 7]]></summary>
+Points: 28
+# Comments: 10]]></summary>
         <author>
             <name>miles</name>
         </author>
@@ -130,8 +166,8 @@ Points: 19
         <updated>2021-06-14T23:28:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rarchy.com/sitemaps/visual-sitemap-generator
 Comments URL: https://news.ycombinator.com/item?id=27509682
-Points: 25
-# Comments: 13]]></summary>
+Points: 33
+# Comments: 15]]></summary>
         <author>
             <name>owor</name>
         </author>
@@ -143,8 +179,8 @@ Points: 25
         <updated>2021-06-14T23:21:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://liam-on-linux.livejournal.com/80768.html
 Comments URL: https://news.ycombinator.com/item?id=27509629
-Points: 148
-# Comments: 105]]></summary>
+Points: 170
+# Comments: 112]]></summary>
         <author>
             <name>lproven</name>
         </author>
@@ -156,8 +192,8 @@ Points: 148
         <updated>2021-06-14T23:12:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.abc.net.au/news/2021-06-15/no-one-in-america-arrested-in-operation-ironside/100213036
 Comments URL: https://news.ycombinator.com/item?id=27509550
-Points: 64
-# Comments: 14]]></summary>
+Points: 73
+# Comments: 17]]></summary>
         <author>
             <name>incompatible</name>
         </author>
@@ -179,8 +215,8 @@ Points: 64
         <updated>2021-06-14T22:45:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.berfrois.com/2021/06/love-maud/
 Comments URL: https://news.ycombinator.com/item?id=27509300
-Points: 46
-# Comments: 3]]></summary>
+Points: 48
+# Comments: 5]]></summary>
         <author>
             <name>portobello</name>
         </author>
@@ -202,8 +238,8 @@ Points: 46
         <updated>2021-06-14T22:36:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/feross/status/1404568122158313474
 Comments URL: https://news.ycombinator.com/item?id=27509206
-Points: 95
-# Comments: 64]]></summary>
+Points: 120
+# Comments: 86]]></summary>
         <author>
             <name>feross</name>
         </author>
@@ -240,8 +276,8 @@ Points: 1
         <updated>2021-06-14T20:15:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 Comments URL: https://news.ycombinator.com/item?id=27507723
-Points: 34
-# Comments: 52]]></summary>
+Points: 39
+# Comments: 53]]></summary>
         <author>
             <name>buran77</name>
         </author>
@@ -263,8 +299,8 @@ Points: 34
         <updated>2021-06-14T20:12:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://adamashwal.com/fruit
 Comments URL: https://news.ycombinator.com/item?id=27507675
-Points: 8
-# Comments: 2]]></summary>
+Points: 14
+# Comments: 4]]></summary>
         <author>
             <name>ashwal</name>
         </author>
@@ -276,8 +312,8 @@ Points: 8
         <updated>2021-06-14T19:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://azartiz.com/?2021-06-13T20:25:16.558Z
 Comments URL: https://news.ycombinator.com/item?id=27507045
-Points: 249
-# Comments: 142]]></summary>
+Points: 254
+# Comments: 143]]></summary>
         <author>
             <name>oblib</name>
         </author>
@@ -290,19 +326,6 @@ Points: 249
         <summary type="html"><![CDATA[A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Myths in cycling: wider tires are slower]]></title>
-        <id>https://news.ycombinator.com/item?id=27506550</id>
-        <link href="https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/"/>
-        <updated>2021-06-14T18:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/
-Comments URL: https://news.ycombinator.com/item?id=27506550
-Points: 304
-# Comments: 281]]></summary>
-        <author>
-            <name>jmilloy</name>
         </author>
     </entry>
     <entry>
@@ -329,19 +352,6 @@ The post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Main is usually a function, so when is it not? (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=27504254</id>
-        <link href="https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html"/>
-        <updated>2021-06-14T16:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html
-Comments URL: https://news.ycombinator.com/item?id=27504254
-Points: 207
-# Comments: 58]]></summary>
-        <author>
-            <name>ColinWright</name>
         </author>
     </entry>
     <entry>
