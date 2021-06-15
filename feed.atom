@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T14:11:09.434Z</updated>
+    <updated>2021-06-15T15:13:08.221Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Just How Niche is Headless WordPress?]]></title>
+        <id>https://css-tricks.com/?p=342248</id>
+        <link href="https://css-tricks.com/just-how-niche-is-headless-wordpress/"/>
+        <updated>2021-06-15T14:31:34.000Z</updated>
+        <summary type="html"><![CDATA[I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.
+Is it… big? The future …
+The post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gravitational Lensing by Spinning Black Holes in Astrophysics, and Interstellar]]></title>
+        <id>https://news.ycombinator.com/item?id=27515974</id>
+        <link href="https://arxiv.org/abs/1502.03808"/>
+        <updated>2021-06-15T14:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/1502.03808
+Comments URL: https://news.ycombinator.com/item?id=27515974
+Points: 13
+# Comments: 4]]></summary>
+        <author>
+            <name>susam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why bugs might feel “impossible”]]></title>
+        <id>https://news.ycombinator.com/item?id=27515944</id>
+        <link href="https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/"/>
+        <updated>2021-06-15T14:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/
+Comments URL: https://news.ycombinator.com/item?id=27515944
+Points: 16
+# Comments: 5]]></summary>
+        <author>
+            <name>atg_abhishek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andreessen Horowitz goes into publishing with Future]]></title>
+        <id>https://news.ycombinator.com/item?id=27515710</id>
+        <link href="https://future.a16z.com/"/>
+        <updated>2021-06-15T14:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://future.a16z.com/
+Comments URL: https://news.ycombinator.com/item?id=27515710
+Points: 18
+# Comments: 4]]></summary>
+        <author>
+            <name>DLay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finish Your Stuff (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27515645</id>
+        <link href="https://250bpm.com/blog:50/"/>
+        <updated>2021-06-15T14:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:50/
+Comments URL: https://news.ycombinator.com/item?id=27515645
+Points: 36
+# Comments: 14]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical entities targeted in suspected Chinese cyber spying]]></title>
+        <id>https://news.ycombinator.com/item?id=27515615</id>
+        <link href="https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9"/>
+        <updated>2021-06-15T13:58:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9
+Comments URL: https://news.ycombinator.com/item?id=27515615
+Points: 20
+# Comments: 0]]></summary>
+        <author>
+            <name>shivbhatt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Launch HN: Axolo (YC W21) – Faster pull requests and code reviews]]></title>
         <id>https://news.ycombinator.com/item?id=27515468</id>
@@ -19,16 +97,55 @@ Sydney and I met in 42, a software engineering school in Paris, and started work
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amazon is blocking Google’s FLoC]]></title>
+        <id>https://news.ycombinator.com/item?id=27515230</id>
+        <link href="https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/"/>
+        <updated>2021-06-15T13:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/
+Comments URL: https://news.ycombinator.com/item?id=27515230
+Points: 116
+# Comments: 61]]></summary>
+        <author>
+            <name>estas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Learned Doing Fast Grants]]></title>
+        <id>https://news.ycombinator.com/item?id=27514836</id>
+        <link href="https://future.com/what-we-learned-doing-fast-grants/"/>
+        <updated>2021-06-15T13:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://future.com/what-we-learned-doing-fast-grants/
+Comments URL: https://news.ycombinator.com/item?id=27514836
+Points: 33
+# Comments: 3]]></summary>
+        <author>
+            <name>sundaypancakes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Modelplace, the AI Model Marketplace by OpenCV]]></title>
         <id>https://news.ycombinator.com/item?id=27514638</id>
         <link href="https://modelplace.ai"/>
         <updated>2021-06-15T12:56:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://modelplace.ai
 Comments URL: https://news.ycombinator.com/item?id=27514638
-Points: 16
-# Comments: 4]]></summary>
+Points: 45
+# Comments: 12]]></summary>
         <author>
             <name>philnelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most hospitals aren't complying with price transparency rule]]></title>
+        <id>https://news.ycombinator.com/item?id=27514413</id>
+        <link href="https://www.axios.com/hospitals-price-transparency-costs-regulations-noncompliance-ebf6bd21-5709-4298-b67a-74c8a90a1ec1.html"/>
+        <updated>2021-06-15T12:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.axios.com/hospitals-price-transparency-costs-regulations-noncompliance-ebf6bd21-5709-4298-b67a-74c8a90a1ec1.html
+Comments URL: https://news.ycombinator.com/item?id=27514413
+Points: 14
+# Comments: 1]]></summary>
+        <author>
+            <name>KoftaBob</name>
         </author>
     </entry>
     <entry>
@@ -38,10 +155,23 @@ Points: 16
         <updated>2021-06-15T12:19:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://insidermag.net/survey-shows-people-no-longer-believe-working-hard-will-lead-to-a-better-life/
 Comments URL: https://news.ycombinator.com/item?id=27514188
-Points: 334
-# Comments: 283]]></summary>
+Points: 474
+# Comments: 436]]></summary>
         <author>
             <name>jason0597</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 to be retired in 2025, as new OS unveils]]></title>
+        <id>https://news.ycombinator.com/item?id=27514130</id>
+        <link href="https://www.bbc.com/news/technology-57443598"/>
+        <updated>2021-06-15T12:12:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57443598
+Comments URL: https://news.ycombinator.com/item?id=27514130
+Points: 56
+# Comments: 128]]></summary>
+        <author>
+            <name>mikesabbagh</name>
         </author>
     </entry>
     <entry>
@@ -58,29 +188,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: How did an adult ADHD diagnosis help you?]]></title>
-        <id>https://news.ycombinator.com/item?id=27514005</id>
-        <link href="https://news.ycombinator.com/item?id=27514005"/>
-        <updated>2021-06-15T11:58:32.000Z</updated>
-        <summary type="html"><![CDATA[My therapist wants to explore an ADHD diagnosis, run tests and dive deep. My question to you is; how did this help you or impact your life?
-I am in the later half of an adventurous and successful career. I continue to grow, have a long-term stable marriage, good savings, great life. I went to my therapist to handle a lingering family issue and now we've come up to the ADHD talk.
-They want to run neurological tests, said I'm 'twice exceptional' and I see this as an expensive and time consuming diversion of my goals. I do admit that there is some validity in the idea, I do see symptoms, but how would this help me at this point in my life?
-Comments URL: https://news.ycombinator.com/item?id=27514005
-Points: 116
-# Comments: 142]]></summary>
-        <author>
-            <name>codpiece</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apple and Google investigated by UK competition body]]></title>
         <id>https://news.ycombinator.com/item?id=27513944</id>
         <link href="https://www.bbc.co.uk/news/technology-57484720"/>
         <updated>2021-06-15T11:52:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57484720
 Comments URL: https://news.ycombinator.com/item?id=27513944
-Points: 54
-# Comments: 18]]></summary>
+Points: 81
+# Comments: 34]]></summary>
         <author>
             <name>ColinWright</name>
         </author>
@@ -92,8 +207,8 @@ Points: 54
         <updated>2021-06-15T11:51:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/features/2021-06-15/airbnb-spends-millions-making-nightmares-at-live-anywhere-rentals-go-away
 Comments URL: https://news.ycombinator.com/item?id=27513938
-Points: 42
-# Comments: 33]]></summary>
+Points: 73
+# Comments: 57]]></summary>
         <author>
             <name>bbharman</name>
         </author>
@@ -105,8 +220,8 @@ Points: 42
         <updated>2021-06-15T10:47:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://berthub.eu/articles/posts/europes-software-problem/
 Comments URL: https://news.ycombinator.com/item?id=27513412
-Points: 105
-# Comments: 72]]></summary>
+Points: 154
+# Comments: 140]]></summary>
         <author>
             <name>jobstijl</name>
         </author>
@@ -118,8 +233,8 @@ Points: 105
         <updated>2021-06-15T10:17:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.politico.eu/article/french-search-engine-qwant-huawei-bailout-loan/
 Comments URL: https://news.ycombinator.com/item?id=27513240
-Points: 30
-# Comments: 15]]></summary>
+Points: 39
+# Comments: 24]]></summary>
         <author>
             <name>ColinHayhurst</name>
         </author>
@@ -141,8 +256,8 @@ Points: 30
         <updated>2021-06-15T10:12:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hanselman.com/blog/the-quiet-rise-of-e-ink-tablets-and-infinite-paper-note-takers-remarkable-2-vs-onyx-boox-note-air
 Comments URL: https://news.ycombinator.com/item?id=27513201
-Points: 193
-# Comments: 173]]></summary>
+Points: 254
+# Comments: 213]]></summary>
         <author>
             <name>GordonS</name>
         </author>
@@ -154,21 +269,21 @@ Points: 193
         <updated>2021-06-15T10:02:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ossf/wg-securing-critical-projects/blob/main/presentations/The_state_of_the_Linux_kernel_security.pdf
 Comments URL: https://news.ycombinator.com/item?id=27513149
-Points: 79
+Points: 94
 # Comments: 16]]></summary>
         <author>
             <name>belter</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EU court backs national data watchdog powers in blow to Facebook, big tech]]></title>
+        <title type="html"><![CDATA[Big tech face EU blow in national data watchdogs ruling]]></title>
         <id>https://news.ycombinator.com/item?id=27513037</id>
         <link href="https://www.reuters.com/world/europe/top-eu-court-says-national-watchdogs-may-act-against-violations-blow-facebook-2021-06-15/"/>
         <updated>2021-06-15T09:43:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/europe/top-eu-court-says-national-watchdogs-may-act-against-violations-blow-facebook-2021-06-15/
 Comments URL: https://news.ycombinator.com/item?id=27513037
-Points: 148
-# Comments: 90]]></summary>
+Points: 169
+# Comments: 109]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -181,110 +296,6 @@ Points: 148
         <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Usenix LISA2021 BPF Internals (eBPF)]]></title>
-        <id>https://news.ycombinator.com/item?id=27512097</id>
-        <link href="http://www.brendangregg.com/blog/2021-06-15/bpf-internals.html"/>
-        <updated>2021-06-15T06:46:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.brendangregg.com/blog/2021-06-15/bpf-internals.html
-Comments URL: https://news.ycombinator.com/item?id=27512097
-Points: 29
-# Comments: 3]]></summary>
-        <author>
-            <name>r4um</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Structure of Scientific Revolutions]]></title>
-        <id>https://news.ycombinator.com/item?id=27511649</id>
-        <link href="https://www.uky.edu/~eushe2/Pajares/Kuhn.html"/>
-        <updated>2021-06-15T05:29:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.uky.edu/~eushe2/Pajares/Kuhn.html
-Comments URL: https://news.ycombinator.com/item?id=27511649
-Points: 55
-# Comments: 11]]></summary>
-        <author>
-            <name>sturza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cue, an open-source data validation language]]></title>
-        <id>https://news.ycombinator.com/item?id=27510919</id>
-        <link href="https://cuelang.org/docs/about/"/>
-        <updated>2021-06-15T03:23:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cuelang.org/docs/about/
-Comments URL: https://news.ycombinator.com/item?id=27510919
-Points: 130
-# Comments: 48]]></summary>
-        <author>
-            <name>benhoyt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fully Homomorphic Encryption (FHE)]]></title>
-        <id>https://news.ycombinator.com/item?id=27510902</id>
-        <link href="https://github.com/google/fully-homomorphic-encryption"/>
-        <updated>2021-06-15T03:20:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/google/fully-homomorphic-encryption
-Comments URL: https://news.ycombinator.com/item?id=27510902
-Points: 221
-# Comments: 107]]></summary>
-        <author>
-            <name>gone35</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universities have formed a company that looks a lot like a patent troll]]></title>
-        <id>https://news.ycombinator.com/item?id=27510836</id>
-        <link href="https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll"/>
-        <updated>2021-06-15T03:06:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll
-Comments URL: https://news.ycombinator.com/item?id=27510836
-Points: 558
-# Comments: 172]]></summary>
-        <author>
-            <name>polm23</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A strong commitment to backwards compatibility means keeping your mistakes]]></title>
-        <id>https://news.ycombinator.com/item?id=27510647</id>
-        <link href="https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility"/>
-        <updated>2021-06-15T02:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
-Comments URL: https://news.ycombinator.com/item?id=27510647
-Points: 56
-# Comments: 31]]></summary>
-        <author>
-            <name>pcr910303</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoid News, Part 2: What the Stock Market Taught Me about News]]></title>
-        <id>https://news.ycombinator.com/item?id=27510448</id>
-        <link href="http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/"/>
-        <updated>2021-06-15T01:44:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/
-Comments URL: https://news.ycombinator.com/item?id=27510448
-Points: 336
-# Comments: 241]]></summary>
-        <author>
-            <name>Ariarule</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Supreme Court revives LinkedIn bid to shield personal data]]></title>
-        <id>https://news.ycombinator.com/item?id=27510103</id>
-        <link href="https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/"/>
-        <updated>2021-06-15T00:41:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/
-Comments URL: https://news.ycombinator.com/item?id=27510103
-Points: 181
-# Comments: 67]]></summary>
-        <author>
-            <name>anfilt</name>
         </author>
     </entry>
     <entry>
@@ -637,18 +648,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type="password"> accessibility. For one thing, being able to toggle it to type="text" should be possible, while announcing, politely, the change. But also, put the password hints 
 …
 The post Links on Accessibility appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code Extensions for HTML]]></title>
-        <id>https://css-tricks.com/?p=340390</id>
-        <link href="https://css-tricks.com/vs-code-extensions-for-html/"/>
-        <updated>2021-06-07T14:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …
-The post VS Code Extensions for HTML appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
