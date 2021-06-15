@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T21:11:31.134Z</updated>
+    <updated>2021-06-15T22:12:32.683Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineering Course for Beginners]]></title>
+        <id>60c91b2b4dc1a607ed7b389a</id>
+        <link href="https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"/>
+        <updated>2021-06-15T21:33:17.000Z</updated>
+        <summary type="html"><![CDATA[DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does &#x27;this&#x27; Mean in JavaScript? The this Keyword Explained with Examples]]></title>
+        <id>60c72a0ad3126007592d7e2a</id>
+        <link href="https://www.freecodecamp.org/news/what-is-this-in-javascript/"/>
+        <updated>2021-06-15T21:19:12.000Z</updated>
+        <summary type="html"><![CDATA[To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word "run". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest]]></title>
+        <id>60c8912c4dc1a607ed7b2fff</id>
+        <link href="https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/"/>
+        <updated>2021-06-15T21:10:54.000Z</updated>
+        <summary type="html"><![CDATA[As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder "Am I setting my price too high?" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA]]></title>
         <id>https://news.ycombinator.com/item?id=27521426</id>
@@ -20,42 +50,55 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forzak: A website that curates high-quality educational content on the Internet]]></title>
+        <title type="html"><![CDATA[Forzak: A website that curates high-quality educational content]]></title>
         <id>https://news.ycombinator.com/item?id=27521027</id>
         <link href="https://www.forzak.com"/>
         <updated>2021-06-15T20:25:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.forzak.com
 Comments URL: https://news.ycombinator.com/item?id=27521027
-Points: 3
-# Comments: 0]]></summary>
+Points: 28
+# Comments: 3]]></summary>
         <author>
             <name>aryanfzk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An open source note taking and to-do with synchronisation capabilities]]></title>
+        <title type="html"><![CDATA[Southwest Airlines grounds its entire fleet amid giant computer outage]]></title>
+        <id>https://news.ycombinator.com/item?id=27520926</id>
+        <link href="https://nypost.com/2021/06/15/southwest-airlines-grounds-all-flights-amid-computer-outage/"/>
+        <updated>2021-06-15T20:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nypost.com/2021/06/15/southwest-airlines-grounds-all-flights-amid-computer-outage/
+Comments URL: https://news.ycombinator.com/item?id=27520926
+Points: 65
+# Comments: 28]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joplin – an open source note taking and to-do application with synchronization]]></title>
         <id>https://news.ycombinator.com/item?id=27520906</id>
         <link href="https://joplinapp.org/"/>
         <updated>2021-06-15T20:14:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://joplinapp.org/
 Comments URL: https://news.ycombinator.com/item?id=27520906
-Points: 19
-# Comments: 15]]></summary>
+Points: 41
+# Comments: 25]]></summary>
         <author>
             <name>josefslerka</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Johnny Knoxville’s Last Rodeo]]></title>
-        <id>https://news.ycombinator.com/item?id=27520806</id>
-        <link href="https://www.gq.com/story/johnny-knoxvilles-last-rodeo/"/>
-        <updated>2021-06-15T20:07:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.gq.com/story/johnny-knoxvilles-last-rodeo/
-Comments URL: https://news.ycombinator.com/item?id=27520806
-Points: 9
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Show HN: Influence, a Go-inspired 1-minute board game]]></title>
+        <id>https://news.ycombinator.com/item?id=27520884</id>
+        <link href="http://cintrest.com/influence/"/>
+        <updated>2021-06-15T20:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://cintrest.com/influence/
+Comments URL: https://news.ycombinator.com/item?id=27520884
+Points: 55
+# Comments: 19]]></summary>
         <author>
-            <name>spunker540</name>
+            <name>jawslouis</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +108,8 @@ Points: 9
         <updated>2021-06-15T20:06:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/
 Comments URL: https://news.ycombinator.com/item?id=27520795
-Points: 19
-# Comments: 4]]></summary>
+Points: 26
+# Comments: 8]]></summary>
         <author>
             <name>wholeness</name>
         </author>
@@ -86,14 +129,40 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[We’re no longer naming suspects in minor crime stories]]></title>
+        <id>https://news.ycombinator.com/item?id=27520496</id>
+        <link href="https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories"/>
+        <updated>2021-06-15T19:43:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories
+Comments URL: https://news.ycombinator.com/item?id=27520496
+Points: 79
+# Comments: 14]]></summary>
+        <author>
+            <name>anigbrowl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operation Midnight Climax: How the CIA Dosed S.F. Citizens with LSD (2012)]]></title>
+        <id>https://news.ycombinator.com/item?id=27520016</id>
+        <link href="https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/"/>
+        <updated>2021-06-15T19:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/
+Comments URL: https://news.ycombinator.com/item?id=27520016
+Points: 19
+# Comments: 4]]></summary>
+        <author>
+            <name>pmoriarty</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A pilot program to include spirituality in mental health care]]></title>
         <id>https://news.ycombinator.com/item?id=27519936</id>
         <link href="https://www.scientificamerican.com/article/psychiatry-needs-to-get-right-with-god/"/>
         <updated>2021-06-15T19:00:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/psychiatry-needs-to-get-right-with-god/
 Comments URL: https://news.ycombinator.com/item?id=27519936
-Points: 23
-# Comments: 18]]></summary>
+Points: 37
+# Comments: 27]]></summary>
         <author>
             <name>xriddle</name>
         </author>
@@ -105,23 +174,10 @@ Points: 23
         <updated>2021-06-15T18:22:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://henrikwarne.com/2021/06/15/on-comments-in-code/
 Comments URL: https://news.ycombinator.com/item?id=27519445
-Points: 48
-# Comments: 61]]></summary>
+Points: 66
+# Comments: 89]]></summary>
         <author>
             <name>nikbackm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J Concepts in SC (SuperCollider)]]></title>
-        <id>https://news.ycombinator.com/item?id=27519392</id>
-        <link href="https://doc.sccode.org/Guides/J-concepts-in-SC.html"/>
-        <updated>2021-06-15T18:19:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://doc.sccode.org/Guides/J-concepts-in-SC.html
-Comments URL: https://news.ycombinator.com/item?id=27519392
-Points: 26
-# Comments: 0]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -145,27 +201,14 @@ Points: 26
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Time to sunburn]]></title>
-        <id>https://news.ycombinator.com/item?id=27517956</id>
-        <link href="https://deepnote.com/@daniel-zvara-036a/Time-to-sunburn-73Bmeo76QwO33IxA3GYGcQ"/>
-        <updated>2021-06-15T16:43:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deepnote.com/@daniel-zvara-036a/Time-to-sunburn-73Bmeo76QwO33IxA3GYGcQ
-Comments URL: https://news.ycombinator.com/item?id=27517956
-Points: 65
-# Comments: 89]]></summary>
-        <author>
-            <name>epiteton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Richard Feynman’s Integral Trick (2018)]]></title>
         <id>https://news.ycombinator.com/item?id=27517685</id>
         <link href="https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c"/>
         <updated>2021-06-15T16:23:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c
 Comments URL: https://news.ycombinator.com/item?id=27517685
-Points: 193
-# Comments: 101]]></summary>
+Points: 208
+# Comments: 111]]></summary>
         <author>
             <name>TheTrotters</name>
         </author>
@@ -177,8 +220,21 @@ Points: 193
         <updated>2021-06-15T16:14:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://support.google.com/maps/answer/1725632#how_opt_out&zippy=
 Comments URL: https://news.ycombinator.com/item?id=27517547
-Points: 297
-# Comments: 192]]></summary>
+Points: 335
+# Comments: 224]]></summary>
+        <author>
+            <name>client4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't just shorten your URL, make it suspicious and frightening (2010)]]></title>
+        <id>https://news.ycombinator.com/item?id=27517524</id>
+        <link href="http://shadyurl.com/create.php"/>
+        <updated>2021-06-15T16:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://shadyurl.com/create.php
+Comments URL: https://news.ycombinator.com/item?id=27517524
+Points: 90
+# Comments: 14]]></summary>
         <author>
             <name>client4</name>
         </author>
@@ -190,8 +246,8 @@ Points: 297
         <updated>2021-06-15T16:10:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://queue.acm.org/detail.cfm?id=3469844
 Comments URL: https://news.ycombinator.com/item?id=27517503
-Points: 54
-# Comments: 45]]></summary>
+Points: 66
+# Comments: 52]]></summary>
         <author>
             <name>jasim</name>
         </author>
@@ -207,16 +263,16 @@ Points: 54
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js Live: Code in the Browser with ESM, ServiceWorkers, Replicache, and WASM]]></title>
-        <id>https://news.ycombinator.com/item?id=27517440</id>
-        <link href="http://nextjs.org/live"/>
-        <updated>2021-06-15T16:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://nextjs.org/live
-Comments URL: https://news.ycombinator.com/item?id=27517440
-Points: 92
-# Comments: 22]]></summary>
+        <title type="html"><![CDATA[Next.js 11]]></title>
+        <id>https://news.ycombinator.com/item?id=27517457</id>
+        <link href="https://nextjs.org/blog/next-11"/>
+        <updated>2021-06-15T16:06:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nextjs.org/blog/next-11
+Comments URL: https://news.ycombinator.com/item?id=27517457
+Points: 230
+# Comments: 102]]></summary>
         <author>
-            <name>leerob</name>
+            <name>jacobwg</name>
         </author>
     </entry>
     <entry>
@@ -246,23 +302,23 @@ Points: 92
         <updated>2021-06-15T15:35:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us
 Comments URL: https://news.ycombinator.com/item?id=27516977
-Points: 85
-# Comments: 130]]></summary>
+Points: 102
+# Comments: 174]]></summary>
         <author>
             <name>infodocket</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IBM APL2: Software withdrawal and support discontinuance]]></title>
-        <id>https://news.ycombinator.com/item?id=27516323</id>
-        <link href="https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/1/897/ENUS921-031/index.html&amp;request_locale=en"/>
-        <updated>2021-06-15T14:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/1/897/ENUS921-031/index.html&request_locale=en
-Comments URL: https://news.ycombinator.com/item?id=27516323
-Points: 52
-# Comments: 20]]></summary>
+        <title type="html"><![CDATA[Utopia, a visual design tool for React, with code as the source of truth]]></title>
+        <id>https://news.ycombinator.com/item?id=27516212</id>
+        <link href="https://utopia.app/"/>
+        <updated>2021-06-15T14:42:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://utopia.app/
+Comments URL: https://news.ycombinator.com/item?id=27516212
+Points: 66
+# Comments: 7]]></summary>
         <author>
-            <name>tosh</name>
+            <name>rheeseyb</name>
         </author>
     </entry>
     <entry>
@@ -272,8 +328,8 @@ Points: 52
         <updated>2021-06-15T14:33:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://emacs.love/tales/emacs-love-tale-by-sdp.html
 Comments URL: https://news.ycombinator.com/item?id=27516073
-Points: 153
-# Comments: 36]]></summary>
+Points: 169
+# Comments: 50]]></summary>
         <author>
             <name>SuperNinKenDo</name>
         </author>
@@ -292,26 +348,13 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why bugs might feel “impossible”]]></title>
-        <id>https://news.ycombinator.com/item?id=27515944</id>
-        <link href="https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/"/>
-        <updated>2021-06-15T14:24:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/
-Comments URL: https://news.ycombinator.com/item?id=27515944
-Points: 137
-# Comments: 86]]></summary>
-        <author>
-            <name>atg_abhishek</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Finish Your Stuff (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=27515645</id>
         <link href="https://250bpm.com/blog:50/"/>
         <updated>2021-06-15T14:00:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:50/
 Comments URL: https://news.ycombinator.com/item?id=27515645
-Points: 118
+Points: 123
 # Comments: 51]]></summary>
         <author>
             <name>tosh</name>
@@ -324,22 +367,10 @@ Points: 118
         <updated>2021-06-15T13:58:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9
 Comments URL: https://news.ycombinator.com/item?id=27515615
-Points: 55
-# Comments: 9]]></summary>
+Points: 71
+# Comments: 16]]></summary>
         <author>
             <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Axolo (YC W21) – Faster pull requests and code reviews]]></title>
-        <id>https://news.ycombinator.com/item?id=27515468</id>
-        <link href="https://news.ycombinator.com/item?id=27515468"/>
-        <updated>2021-06-15T13:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN!
-We’re Arthur and Sydney (cosydney). We’re building Axolo (https://axolo.co) a bidirectional Github-Slack integration to help tech teams reduce pull request time and improve code review’s feedback.
-Sydney and I met in 42, a software engineering school in Paris, and started working together on different tech projects last year. While working on our last business, a SaaS management platform for SMEs, we were in a squad of 4 to 5 people and often found ourselves writing direct messages in Slack about pull requests. We were telling each other things like ‘Hey Arthur, I’ve updated my last pull request feature/zoom_integration, do you have time to check it out soon?’ or “it’s been two days, do you have time to review feature/user_settings today, here is the link: github/axolo-co/api.axolo.…]]></summary>
-        <author>
-            <name>arthurcoudouy</name>
         </author>
     </entry>
     <entry>
@@ -392,36 +423,6 @@ The post Making Tables With Sticky Header and Footers Got a Bit Easier appeared 
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Roving tabindex Attribute Explained with Examples]]></title>
-        <id>60c3b862d3126007592d689b</id>
-        <link href="https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/"/>
-        <updated>2021-06-14T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Backup Squarespace-Managed Styles using AWS Cloud]]></title>
-        <id>60c794e64dc1a607ed7b25ba</id>
-        <link href="https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/"/>
-        <updated>2021-06-14T19:19:42.000Z</updated>
-        <summary type="html"><![CDATA[A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best African Language Datasets for Data Science Projects]]></title>
-        <id>60c4b35ed3126007592d71bc</id>
-        <link href="https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/"/>
-        <updated>2021-06-14T18:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
