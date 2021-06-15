@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T18:16:40.372Z</updated>
+    <updated>2021-06-15T19:12:04.035Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On Comments in Code]]></title>
+        <id>https://news.ycombinator.com/item?id=27519445</id>
+        <link href="https://henrikwarne.com/2021/06/15/on-comments-in-code/"/>
+        <updated>2021-06-15T18:22:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://henrikwarne.com/2021/06/15/on-comments-in-code/
+Comments URL: https://news.ycombinator.com/item?id=27519445
+Points: 26
+# Comments: 6]]></summary>
+        <author>
+            <name>nikbackm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J Concepts in SC (SuperCollider)]]></title>
+        <id>https://news.ycombinator.com/item?id=27519392</id>
+        <link href="https://doc.sccode.org/Guides/J-concepts-in-SC.html"/>
+        <updated>2021-06-15T18:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://doc.sccode.org/Guides/J-concepts-in-SC.html
+Comments URL: https://news.ycombinator.com/item?id=27519392
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Decorators – How to Create and Use Decorators in Python With Examples]]></title>
         <id>60c3dcb3d3126007592d6c6d</id>
@@ -23,8 +49,8 @@
         <updated>2021-06-15T17:50:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/15/gallup-us-workers-are-among-the-most-stressed-in-the-world.html
 Comments URL: https://news.ycombinator.com/item?id=27518912
-Points: 28
-# Comments: 0]]></summary>
+Points: 112
+# Comments: 68]]></summary>
         <author>
             <name>sharkweek</name>
         </author>
@@ -46,8 +72,8 @@ Points: 28
         <updated>2021-06-15T17:18:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.huppi.com/kangaroo/CIAtimeline.html
 Comments URL: https://news.ycombinator.com/item?id=27518459
-Points: 79
-# Comments: 55]]></summary>
+Points: 123
+# Comments: 145]]></summary>
         <author>
             <name>georgecmu</name>
         </author>
@@ -66,14 +92,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Richard Feynman’s Integral Trick]]></title>
+        <title type="html"><![CDATA[Richard Feynman’s Integral Trick (2018)]]></title>
         <id>https://news.ycombinator.com/item?id=27517685</id>
         <link href="https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c"/>
         <updated>2021-06-15T16:23:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cantorsparadise.com/richard-feynmans-integral-trick-e7afae85e25c
 Comments URL: https://news.ycombinator.com/item?id=27517685
-Points: 116
-# Comments: 51]]></summary>
+Points: 158
+# Comments: 72]]></summary>
         <author>
             <name>TheTrotters</name>
         </author>
@@ -85,8 +111,8 @@ Points: 116
         <updated>2021-06-15T16:14:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://support.google.com/maps/answer/1725632#how_opt_out&zippy=
 Comments URL: https://news.ycombinator.com/item?id=27517547
-Points: 116
-# Comments: 93]]></summary>
+Points: 149
+# Comments: 123]]></summary>
         <author>
             <name>client4</name>
         </author>
@@ -98,8 +124,8 @@ Points: 116
         <updated>2021-06-15T16:10:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://queue.acm.org/detail.cfm?id=3469844
 Comments URL: https://news.ycombinator.com/item?id=27517503
-Points: 22
-# Comments: 20]]></summary>
+Points: 37
+# Comments: 30]]></summary>
         <author>
             <name>jasim</name>
         </author>
@@ -121,8 +147,8 @@ Points: 22
         <updated>2021-06-15T16:06:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nextjs.org/blog/next-11
 Comments URL: https://news.ycombinator.com/item?id=27517457
-Points: 155
-# Comments: 33]]></summary>
+Points: 196
+# Comments: 67]]></summary>
         <author>
             <name>jacobwg</name>
         </author>
@@ -134,8 +160,8 @@ Points: 155
         <updated>2021-06-15T16:05:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nextjs.org/live
 Comments URL: https://news.ycombinator.com/item?id=27517440
-Points: 54
-# Comments: 9]]></summary>
+Points: 63
+# Comments: 17]]></summary>
         <author>
             <name>leerob</name>
         </author>
@@ -167,7 +193,7 @@ Points: 54
         <updated>2021-06-15T14:49:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/1/897/ENUS921-031/index.html&request_locale=en
 Comments URL: https://news.ycombinator.com/item?id=27516323
-Points: 44
+Points: 49
 # Comments: 11]]></summary>
         <author>
             <name>tosh</name>
@@ -180,8 +206,8 @@ Points: 44
         <updated>2021-06-15T14:33:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://emacs.love/tales/emacs-love-tale-by-sdp.html
 Comments URL: https://news.ycombinator.com/item?id=27516073
-Points: 90
-# Comments: 25]]></summary>
+Points: 106
+# Comments: 26]]></summary>
         <author>
             <name>SuperNinKenDo</name>
         </author>
@@ -206,8 +232,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-15T14:26:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/1502.03808
 Comments URL: https://news.ycombinator.com/item?id=27515974
-Points: 30
-# Comments: 18]]></summary>
+Points: 33
+# Comments: 23]]></summary>
         <author>
             <name>susam</name>
         </author>
@@ -219,8 +245,8 @@ Points: 30
         <updated>2021-06-15T14:24:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/
 Comments URL: https://news.ycombinator.com/item?id=27515944
-Points: 98
-# Comments: 58]]></summary>
+Points: 111
+# Comments: 69]]></summary>
         <author>
             <name>atg_abhishek</name>
         </author>
@@ -232,8 +258,8 @@ Points: 98
         <updated>2021-06-15T14:20:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://awssat.com/opensource/tailwindo/1_introduction.html
 Comments URL: https://news.ycombinator.com/item?id=27515891
-Points: 37
-# Comments: 23]]></summary>
+Points: 46
+# Comments: 24]]></summary>
         <author>
             <name>wilsonfiifi</name>
         </author>
@@ -245,7 +271,7 @@ Points: 37
         <updated>2021-06-15T14:06:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://future.a16z.com/
 Comments URL: https://news.ycombinator.com/item?id=27515710
-Points: 83
+Points: 95
 # Comments: 22]]></summary>
         <author>
             <name>DLay</name>
@@ -258,8 +284,8 @@ Points: 83
         <updated>2021-06-15T14:00:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:50/
 Comments URL: https://news.ycombinator.com/item?id=27515645
-Points: 91
-# Comments: 47]]></summary>
+Points: 97
+# Comments: 50]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -283,8 +309,8 @@ Sydney and I met in 42, a software engineering school in Paris, and started work
         <updated>2021-06-15T13:31:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/
 Comments URL: https://news.ycombinator.com/item?id=27515230
-Points: 290
-# Comments: 243]]></summary>
+Points: 323
+# Comments: 267]]></summary>
         <author>
             <name>estas</name>
         </author>
@@ -296,36 +322,10 @@ Points: 290
         <updated>2021-06-15T13:10:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://future.com/what-we-learned-doing-fast-grants/
 Comments URL: https://news.ycombinator.com/item?id=27514836
-Points: 114
-# Comments: 25]]></summary>
+Points: 124
+# Comments: 30]]></summary>
         <author>
             <name>sundaypancakes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modelplace, the AI Model Marketplace by OpenCV]]></title>
-        <id>https://news.ycombinator.com/item?id=27514638</id>
-        <link href="https://modelplace.ai"/>
-        <updated>2021-06-15T12:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://modelplace.ai
-Comments URL: https://news.ycombinator.com/item?id=27514638
-Points: 93
-# Comments: 29]]></summary>
-        <author>
-            <name>philnelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DraftKings: A $21B SPAC Betting It Can Hide Its Black Market Operations]]></title>
-        <id>https://news.ycombinator.com/item?id=27514437</id>
-        <link href="https://hindenburgresearch.com/draftkings/"/>
-        <updated>2021-06-15T12:43:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hindenburgresearch.com/draftkings/
-Comments URL: https://news.ycombinator.com/item?id=27514437
-Points: 76
-# Comments: 23]]></summary>
-        <author>
-            <name>samizdis</name>
         </author>
     </entry>
     <entry>
