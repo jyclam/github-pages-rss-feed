@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T21:10:53.884Z</updated>
+    <updated>2021-06-16T22:12:08.852Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monetizing Stupid]]></title>
+        <id>https://news.ycombinator.com/item?id=27533872</id>
+        <link href="https://www.contemporaryidiot.com/p/monetizing-stupid"/>
+        <updated>2021-06-16T21:51:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.contemporaryidiot.com/p/monetizing-stupid
+Comments URL: https://news.ycombinator.com/item?id=27533872
+Points: 9
+# Comments: 1]]></summary>
+        <author>
+            <name>dunningkruger27</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The most copied StackOverflow snippet of all time is flawed]]></title>
+        <id>https://news.ycombinator.com/item?id=27533684</id>
+        <link href="https://programming.guide/worlds-most-copied-so-snippet.html"/>
+        <updated>2021-06-16T21:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://programming.guide/worlds-most-copied-so-snippet.html
+Comments URL: https://news.ycombinator.com/item?id=27533684
+Points: 34
+# Comments: 2]]></summary>
+        <author>
+            <name>vinnyglennon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Split – How to Split a String into an Array in JS]]></title>
+        <id>60c088e5d3126007592d56f1</id>
+        <link href="https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/"/>
+        <updated>2021-06-16T21:19:08.000Z</updated>
+        <summary type="html"><![CDATA[In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, "Yes, You Can DO It!". In JavaScript, we can create a string in a couple of ways: Using the string literal as a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inline Styles as Classes (lol)]]></title>
+        <id>https://css-tricks.com/?p=342358</id>
+        <link href="https://css-tricks.com/inline-styles-as-classes-lol/"/>
+        <updated>2021-06-16T21:11:02.000Z</updated>
+        <summary type="html"><![CDATA[If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. 
+I've revolutionized CSS. pic.twitter.com/1AWCldyCwP
+— Sam 
+
+…
+The post Inline Styles as Classes (lol) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cortex (YC W20) Is Hiring Founding Engineers]]></title>
         <id>https://news.ycombinator.com/item?id=27533417</id>
@@ -40,29 +92,29 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to track users for analytics in a privacy-first, cookie-less future]]></title>
+        <id>https://news.ycombinator.com/item?id=27533299</id>
+        <link href="https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/"/>
+        <updated>2021-06-16T20:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/
+Comments URL: https://news.ycombinator.com/item?id=27533299
+Points: 15
+# Comments: 15]]></summary>
+        <author>
+            <name>mattjstar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Today We’re Eating the Winners of the 1948 Chicken of Tomorrow Contest]]></title>
         <id>https://news.ycombinator.com/item?id=27533174</id>
         <link href="https://modernfarmer.com/2014/05/today-eating-winners-1948-chicken-tomorrow-contest/"/>
         <updated>2021-06-16T20:35:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://modernfarmer.com/2014/05/today-eating-winners-1948-chicken-tomorrow-contest/
 Comments URL: https://news.ycombinator.com/item?id=27533174
-Points: 13
-# Comments: 2]]></summary>
+Points: 62
+# Comments: 36]]></summary>
         <author>
             <name>vikrum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why you should not use (f)lex, yacc and bison]]></title>
-        <id>https://news.ycombinator.com/item?id=27532605</id>
-        <link href="https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/"/>
-        <updated>2021-06-16T19:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/
-Comments URL: https://news.ycombinator.com/item?id=27532605
-Points: 21
-# Comments: 11]]></summary>
-        <author>
-            <name>quickthrower2</name>
         </author>
     </entry>
     <entry>
@@ -72,8 +124,8 @@ Points: 21
         <updated>2021-06-16T19:08:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/16/22535511/facebook-ads-oculus-quest-vr-apps
 Comments URL: https://news.ycombinator.com/item?id=27532243
-Points: 74
-# Comments: 46]]></summary>
+Points: 115
+# Comments: 81]]></summary>
         <author>
             <name>marc__1</name>
         </author>
@@ -100,8 +152,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-16T18:51:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wayfinder.nfb.ca/
 Comments URL: https://news.ycombinator.com/item?id=27532068
-Points: 198
-# Comments: 35]]></summary>
+Points: 259
+# Comments: 48]]></summary>
         <author>
             <name>vnglst</name>
         </author>
@@ -113,8 +165,8 @@ Points: 198
         <updated>2021-06-16T18:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fabianlindfors.se/blog/schema-migrations-in-postgres/
 Comments URL: https://news.ycombinator.com/item?id=27531934
-Points: 54
-# Comments: 13]]></summary>
+Points: 75
+# Comments: 33]]></summary>
         <author>
             <name>fabianlindfors</name>
         </author>
@@ -126,8 +178,8 @@ Points: 54
         <updated>2021-06-16T18:10:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.liw.fi/posts/2021/05/26/sponsored-by/
 Comments URL: https://news.ycombinator.com/item?id=27531628
-Points: 19
-# Comments: 2]]></summary>
+Points: 26
+# Comments: 5]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -139,23 +191,10 @@ Points: 19
         <updated>2021-06-16T18:08:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://akkartik.name/post/neighborhood
 Comments URL: https://news.ycombinator.com/item?id=27531610
-Points: 36
+Points: 42
 # Comments: 1]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I no longer contribute to Racket]]></title>
-        <id>https://news.ycombinator.com/item?id=27531508</id>
-        <link href="https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html"/>
-        <updated>2021-06-16T18:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html
-Comments URL: https://news.ycombinator.com/item?id=27531508
-Points: 275
-# Comments: 114]]></summary>
-        <author>
-            <name>velcrovan</name>
         </author>
     </entry>
     <entry>
@@ -165,8 +204,8 @@ Points: 275
         <updated>2021-06-16T17:49:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/06/inside-transistorized-shift-register.html
 Comments URL: https://news.ycombinator.com/item?id=27531379
-Points: 54
-# Comments: 15]]></summary>
+Points: 60
+# Comments: 20]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -188,8 +227,8 @@ Points: 54
         <updated>2021-06-16T16:27:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.persuasion.community/p/kids-need-freedom-too
 Comments URL: https://news.ycombinator.com/item?id=27530365
-Points: 158
-# Comments: 134]]></summary>
+Points: 190
+# Comments: 189]]></summary>
         <author>
             <name>jseliger</name>
         </author>
@@ -201,8 +240,8 @@ Points: 158
         <updated>2021-06-16T16:05:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mergeboard.com/blog/2-qemu-microvm-docker/
 Comments URL: https://news.ycombinator.com/item?id=27530074
-Points: 98
-# Comments: 36]]></summary>
+Points: 110
+# Comments: 45]]></summary>
         <author>
             <name>DarkPlayer</name>
         </author>
@@ -214,8 +253,8 @@ Points: 98
         <updated>2021-06-16T15:39:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eprint.iacr.org/2021/819
 Comments URL: https://news.ycombinator.com/item?id=27529768
-Points: 298
-# Comments: 67]]></summary>
+Points: 333
+# Comments: 73]]></summary>
         <author>
             <name>anonymfus</name>
         </author>
@@ -227,23 +266,10 @@ Points: 298
         <updated>2021-06-16T15:35:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://andysalerno.com/posts/weird-emojis/
 Comments URL: https://news.ycombinator.com/item?id=27529697
-Points: 4
-# Comments: 1]]></summary>
+Points: 61
+# Comments: 7]]></summary>
         <author>
             <name>soopurman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverse Engineering Supermicro IPMI (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=27529513</id>
-        <link href="https://peterkleissner.com/2018/05/27/reverse-engineering-supermicro-ipmi/"/>
-        <updated>2021-06-16T15:20:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://peterkleissner.com/2018/05/27/reverse-engineering-supermicro-ipmi/
-Comments URL: https://news.ycombinator.com/item?id=27529513
-Points: 53
-# Comments: 6]]></summary>
-        <author>
-            <name>geocar</name>
         </author>
     </entry>
     <entry>
@@ -253,8 +279,8 @@ Points: 53
         <updated>2021-06-16T14:47:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/
 Comments URL: https://news.ycombinator.com/item?id=27529119
-Points: 215
-# Comments: 162]]></summary>
+Points: 227
+# Comments: 173]]></summary>
         <author>
             <name>ruaraidh</name>
         </author>
@@ -266,8 +292,8 @@ Points: 215
         <updated>2021-06-16T14:41:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/
 Comments URL: https://news.ycombinator.com/item?id=27529049
-Points: 150
-# Comments: 69]]></summary>
+Points: 162
+# Comments: 83]]></summary>
         <author>
             <name>wyldfire</name>
         </author>
@@ -303,8 +329,8 @@ They look easy to implement (just a POST request), but they come with a variety 
         <updated>2021-06-16T12:59:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.06981
 Comments URL: https://news.ycombinator.com/item?id=27528004
-Points: 133
-# Comments: 38]]></summary>
+Points: 139
+# Comments: 39]]></summary>
         <author>
             <name>ArtWomb</name>
         </author>
@@ -316,8 +342,8 @@ Points: 133
         <updated>2021-06-16T12:26:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lastweekasavciso.substack.com/p/i-read-the-entire-cybersecurity-executive
 Comments URL: https://news.ycombinator.com/item?id=27527703
-Points: 90
-# Comments: 49]]></summary>
+Points: 104
+# Comments: 60]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -414,16 +440,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/"/>
         <updated>2021-06-15T16:06:54.000Z</updated>
         <summary type="html"><![CDATA[You can now open anything (that you have access to) on GitHub directly from VS Code.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Aggregate Functions – With Example Data Queries for Beginners]]></title>
-        <id>60c6aec3d3126007592d7bd5</id>
-        <link href="https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/"/>
-        <updated>2021-06-15T15:48:09.000Z</updated>
-        <summary type="html"><![CDATA[What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -618,18 +634,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stefan Judis)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
-        <id>https://css-tricks.com/?p=340967</id>
-        <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
-        <updated>2021-06-09T20:37:00.000Z</updated>
-        <summary type="html"><![CDATA[I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …
-The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
