@@ -2,34 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T14:11:10.657Z</updated>
+    <updated>2021-06-16T15:13:15.307Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[What Happens If an Astronaut Floats Off in Space?]]></title>
+        <title type="html"><![CDATA[If you think Psychological Science is bad, imagine how bad it was in 1999]]></title>
+        <id>https://news.ycombinator.com/item?id=27529119</id>
+        <link href="https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/"/>
+        <updated>2021-06-16T14:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/
+Comments URL: https://news.ycombinator.com/item?id=27529119
+Points: 14
+# Comments: 2]]></summary>
+        <author>
+            <name>ruaraidh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julian Assange: The Man Who Knew Too Much]]></title>
+        <id>https://news.ycombinator.com/item?id=27528876</id>
+        <link href="https://www.laprogressive.com/the-man-who-knew-too-much/"/>
+        <updated>2021-06-16T14:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.laprogressive.com/the-man-who-knew-too-much/
+Comments URL: https://news.ycombinator.com/item?id=27528876
+Points: 13
+# Comments: 1]]></summary>
+        <author>
+            <name>curmudgeon22</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Used the WAAPI to Build an Animation Library]]></title>
+        <id>https://css-tricks.com/?p=342353</id>
+        <link href="https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/"/>
+        <updated>2021-06-16T14:26:58.000Z</updated>
+        <summary type="html"><![CDATA[The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …
+The post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Okiki Ojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens If an Astronaut Floats Off in Space? (2013)]]></title>
         <id>https://news.ycombinator.com/item?id=27528412</id>
         <link href="https://www.popsci.com/technology/article/2013-09/what-happens-if-astronaut-floats-space/"/>
         <updated>2021-06-16T13:41:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.popsci.com/technology/article/2013-09/what-happens-if-astronaut-floats-space/
 Comments URL: https://news.ycombinator.com/item?id=27528412
-Points: 10
-# Comments: 2]]></summary>
+Points: 21
+# Comments: 32]]></summary>
         <author>
             <name>nomilk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andreessen: Technology Saves the World]]></title>
-        <id>https://news.ycombinator.com/item?id=27528350</id>
-        <link href="https://future.a16z.com/technology-saves-the-world/"/>
-        <updated>2021-06-16T13:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://future.a16z.com/technology-saves-the-world/
-Comments URL: https://news.ycombinator.com/item?id=27528350
-Points: 16
-# Comments: 7]]></summary>
+        <title type="html"><![CDATA[Legal expert says Tether and Binance Coin (BNB) are likely picks for SEC lawsuit]]></title>
+        <id>https://news.ycombinator.com/item?id=27528348</id>
+        <link href="https://cryptoslate.com/legal-expert-says-tether-and-binance-coin-bnb-are-likely-picks-for-sec-lawsuit/"/>
+        <updated>2021-06-16T13:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cryptoslate.com/legal-expert-says-tether-and-binance-coin-bnb-are-likely-picks-for-sec-lawsuit/
+Comments URL: https://news.ycombinator.com/item?id=27528348
+Points: 19
+# Comments: 1]]></summary>
         <author>
-            <name>elsewhen</name>
+            <name>haskellandchill</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +77,8 @@ Points: 16
         <updated>2021-06-16T13:23:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/automaton/robotics/military-robots/lethal-autonomous-weapons-exist-they-must-be-banned
 Comments URL: https://news.ycombinator.com/item?id=27528243
-Points: 6
-# Comments: 1]]></summary>
+Points: 78
+# Comments: 70]]></summary>
         <author>
             <name>doppioandante</name>
         </author>
@@ -64,8 +102,8 @@ They look easy to implement (just a POST request), but they come with a variety 
         <updated>2021-06-16T12:59:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.06981
 Comments URL: https://news.ycombinator.com/item?id=27528004
-Points: 33
-# Comments: 3]]></summary>
+Points: 57
+# Comments: 9]]></summary>
         <author>
             <name>ArtWomb</name>
         </author>
@@ -77,8 +115,8 @@ Points: 33
         <updated>2021-06-16T12:05:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html
 Comments URL: https://news.ycombinator.com/item?id=27527559
-Points: 248
-# Comments: 108]]></summary>
+Points: 368
+# Comments: 170]]></summary>
         <author>
             <name>n1000</name>
         </author>
@@ -103,8 +141,8 @@ Points: 1
         <updated>2021-06-16T11:44:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/
 Comments URL: https://news.ycombinator.com/item?id=27527391
-Points: 48
-# Comments: 15]]></summary>
+Points: 79
+# Comments: 46]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -116,8 +154,8 @@ Points: 48
         <updated>2021-06-16T11:43:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.centauri-dreams.org/2021/06/14/a-visualization-of-galactic-settlement/
 Comments URL: https://news.ycombinator.com/item?id=27527384
-Points: 69
-# Comments: 36]]></summary>
+Points: 96
+# Comments: 56]]></summary>
         <author>
             <name>the-mitr</name>
         </author>
@@ -129,8 +167,8 @@ Points: 69
         <updated>2021-06-16T11:30:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.lego.com/en-us/product/typewriter-21327?icmp=HP-SHH-Standard-ID_Hero_21327_Typewriter_Lifestyle_w_Product_HP-EX-ID-WDU6IDEUUU
 Comments URL: https://news.ycombinator.com/item?id=27527290
-Points: 79
-# Comments: 57]]></summary>
+Points: 104
+# Comments: 76]]></summary>
         <author>
             <name>orjan</name>
         </author>
@@ -152,8 +190,8 @@ Points: 79
         <updated>2021-06-16T08:19:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/
 Comments URL: https://news.ycombinator.com/item?id=27526155
-Points: 53
-# Comments: 6]]></summary>
+Points: 64
+# Comments: 11]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -165,23 +203,10 @@ Points: 53
         <updated>2021-06-16T08:03:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dataprotectioncontrol.org/spec/
 Comments URL: https://news.ycombinator.com/item?id=27526063
-Points: 175
-# Comments: 152]]></summary>
+Points: 204
+# Comments: 168]]></summary>
         <author>
             <name>chdlr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The mice that roared: how eight tiny countries took on foreign fishing fleets]]></title>
-        <id>https://news.ycombinator.com/item?id=27526038</id>
-        <link href="https://www.theguardian.com/world/2021/jun/16/the-mice-that-roared-how-eight-tiny-countries-took-on-foreign-fishing-fleets"/>
-        <updated>2021-06-16T07:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/world/2021/jun/16/the-mice-that-roared-how-eight-tiny-countries-took-on-foreign-fishing-fleets
-Comments URL: https://news.ycombinator.com/item?id=27526038
-Points: 77
-# Comments: 18]]></summary>
-        <author>
-            <name>vijayr02</name>
         </author>
     </entry>
     <entry>
@@ -191,8 +216,8 @@ Points: 77
         <updated>2021-06-16T05:41:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sciencemag.org/news/2021/06/are-advertisers-coming-your-dreams
 Comments URL: https://news.ycombinator.com/item?id=27525266
-Points: 188
-# Comments: 202]]></summary>
+Points: 211
+# Comments: 221]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -204,8 +229,8 @@ Points: 188
         <updated>2021-06-16T04:48:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/nushell/nushell
 Comments URL: https://news.ycombinator.com/item?id=27525031
-Points: 487
-# Comments: 264]]></summary>
+Points: 534
+# Comments: 288]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -217,8 +242,8 @@ Points: 487
         <updated>2021-06-16T03:40:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1
 Comments URL: https://news.ycombinator.com/item?id=27524641
-Points: 132
-# Comments: 35]]></summary>
+Points: 138
+# Comments: 38]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -230,8 +255,8 @@ Points: 132
         <updated>2021-06-16T03:40:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/amazon-warehouse-turnover-worker-shortage-2021-6
 Comments URL: https://news.ycombinator.com/item?id=27524637
-Points: 49
-# Comments: 20]]></summary>
+Points: 92
+# Comments: 77]]></summary>
         <author>
             <name>kirykl</name>
         </author>
@@ -243,8 +268,8 @@ Points: 49
         <updated>2021-06-16T01:21:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://firstpartysimulator.org/
 Comments URL: https://news.ycombinator.com/item?id=27523834
-Points: 130
-# Comments: 62]]></summary>
+Points: 136
+# Comments: 63]]></summary>
         <author>
             <name>anigbrowl</name>
         </author>
@@ -256,8 +281,8 @@ Points: 130
         <updated>2021-06-16T00:24:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://filesystem-spec.readthedocs.io/en/latest/index.html
 Comments URL: https://news.ycombinator.com/item?id=27523377
-Points: 119
-# Comments: 22]]></summary>
+Points: 123
+# Comments: 24]]></summary>
         <author>
             <name>gilad</name>
         </author>
@@ -366,19 +391,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[You've probably seen the term "full stack developer" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utopia, a visual design tool for React, with code as the source of truth]]></title>
-        <id>https://news.ycombinator.com/item?id=27516212</id>
-        <link href="https://utopia.app/"/>
-        <updated>2021-06-15T14:42:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://utopia.app/
-Comments URL: https://news.ycombinator.com/item?id=27516212
-Points: 628
-# Comments: 153]]></summary>
-        <author>
-            <name>rheeseyb</name>
         </author>
     </entry>
     <entry>
@@ -628,18 +640,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
-        <id>https://css-tricks.com/?p=341982</id>
-        <link href="https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/"/>
-        <updated>2021-06-08T18:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …
-The post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Todd Libby</name>
         </author>
     </entry>
     <entry>
