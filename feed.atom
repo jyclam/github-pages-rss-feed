@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T10:13:13.094Z</updated>
+    <updated>2021-06-16T11:10:44.957Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To Accessibility Tooling]]></title>
+        <id>https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/</id>
+        <link href="https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/"/>
+        <updated>2021-06-16T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nic Chan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do You Want AI to Be Conscious?]]></title>
+        <id>https://news.ycombinator.com/item?id=27526737</id>
+        <link href="https://nautil.us/issue/102/hidden-truths/do-you-want-ai-to-be-conscious"/>
+        <updated>2021-06-16T10:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/102/hidden-truths/do-you-want-ai-to-be-conscious
+Comments URL: https://news.ycombinator.com/item?id=27526737
+Points: 9
+# Comments: 8]]></summary>
+        <author>
+            <name>dnetesn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code in ARM Assembly: Registers Explained]]></title>
         <id>https://news.ycombinator.com/item?id=27526155</id>
@@ -13,8 +36,8 @@
         <updated>2021-06-16T08:19:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/
 Comments URL: https://news.ycombinator.com/item?id=27526155
-Points: 10
-# Comments: 0]]></summary>
+Points: 18
+# Comments: 2]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -26,8 +49,8 @@ Points: 10
         <updated>2021-06-16T08:03:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dataprotectioncontrol.org/spec/
 Comments URL: https://news.ycombinator.com/item?id=27526063
-Points: 39
-# Comments: 20]]></summary>
+Points: 81
+# Comments: 55]]></summary>
         <author>
             <name>chdlr</name>
         </author>
@@ -39,8 +62,8 @@ Points: 39
         <updated>2021-06-16T07:58:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/world/2021/jun/16/the-mice-that-roared-how-eight-tiny-countries-took-on-foreign-fishing-fleets
 Comments URL: https://news.ycombinator.com/item?id=27526038
-Points: 21
-# Comments: 4]]></summary>
+Points: 37
+# Comments: 5]]></summary>
         <author>
             <name>vijayr02</name>
         </author>
@@ -52,8 +75,8 @@ Points: 21
         <updated>2021-06-16T07:13:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/ibm-unveils-first-quantum-computer-in-germany/a-57909494
 Comments URL: https://news.ycombinator.com/item?id=27525763
-Points: 16
-# Comments: 11]]></summary>
+Points: 26
+# Comments: 25]]></summary>
         <author>
             <name>qwertox</name>
         </author>
@@ -65,8 +88,8 @@ Points: 16
         <updated>2021-06-16T05:41:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sciencemag.org/news/2021/06/are-advertisers-coming-your-dreams
 Comments URL: https://news.ycombinator.com/item?id=27525266
-Points: 92
-# Comments: 98]]></summary>
+Points: 112
+# Comments: 113]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -78,8 +101,8 @@ Points: 92
         <updated>2021-06-16T04:48:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/nushell/nushell
 Comments URL: https://news.ycombinator.com/item?id=27525031
-Points: 320
-# Comments: 156]]></summary>
+Points: 351
+# Comments: 184]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -91,8 +114,8 @@ Points: 320
         <updated>2021-06-16T04:08:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic
 Comments URL: https://news.ycombinator.com/item?id=27524805
-Points: 64
-# Comments: 32]]></summary>
+Points: 69
+# Comments: 33]]></summary>
         <author>
             <name>one2three4</name>
         </author>
@@ -104,8 +127,8 @@ Points: 64
         <updated>2021-06-16T03:58:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.dnmfarrell.com/post/modulinos-in-bash/
 Comments URL: https://news.ycombinator.com/item?id=27524749
-Points: 26
-# Comments: 7]]></summary>
+Points: 33
+# Comments: 10]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -117,23 +140,10 @@ Points: 26
         <updated>2021-06-16T03:40:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1
 Comments URL: https://news.ycombinator.com/item?id=27524641
-Points: 87
-# Comments: 22]]></summary>
+Points: 97
+# Comments: 27]]></summary>
         <author>
             <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shortage of air conditioner parts expected this summer]]></title>
-        <id>https://news.ycombinator.com/item?id=27524107</id>
-        <link href="https://www.kswo.com/2021/05/28/shortage-of-air-conditioner-parts-expected-this-summer/"/>
-        <updated>2021-06-16T02:08:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kswo.com/2021/05/28/shortage-of-air-conditioner-parts-expected-this-summer/
-Comments URL: https://news.ycombinator.com/item?id=27524107
-Points: 75
-# Comments: 107]]></summary>
-        <author>
-            <name>cratermoon</name>
         </author>
     </entry>
     <entry>
@@ -143,8 +153,8 @@ Points: 75
         <updated>2021-06-16T01:21:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://firstpartysimulator.org/
 Comments URL: https://news.ycombinator.com/item?id=27523834
-Points: 85
-# Comments: 39]]></summary>
+Points: 96
+# Comments: 44]]></summary>
         <author>
             <name>anigbrowl</name>
         </author>
@@ -156,8 +166,8 @@ Points: 85
         <updated>2021-06-16T00:24:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://filesystem-spec.readthedocs.io/en/latest/index.html
 Comments URL: https://news.ycombinator.com/item?id=27523377
-Points: 108
-# Comments: 17]]></summary>
+Points: 111
+# Comments: 18]]></summary>
         <author>
             <name>gilad</name>
         </author>
@@ -205,27 +215,14 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reverie Labs (YC W18) Is Hiring an ML Lead in Cambridge, MA]]></title>
-        <id>https://news.ycombinator.com/item?id=27521426</id>
-        <link href="https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5"/>
-        <updated>2021-06-15T21:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5
-Comments URL: https://news.ycombinator.com/item?id=27521426
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>ankitvgupta</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show HN: Influence, a Go-inspired 1-minute board game]]></title>
         <id>https://news.ycombinator.com/item?id=27520884</id>
         <link href="http://cintrest.com/influence/"/>
         <updated>2021-06-15T20:12:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://cintrest.com/influence/
 Comments URL: https://news.ycombinator.com/item?id=27520884
-Points: 287
-# Comments: 88]]></summary>
+Points: 302
+# Comments: 90]]></summary>
         <author>
             <name>jawslouis</name>
         </author>
@@ -237,8 +234,8 @@ Points: 287
         <updated>2021-06-15T20:07:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.gq.com/story/johnny-knoxvilles-last-rodeo/
 Comments URL: https://news.ycombinator.com/item?id=27520806
-Points: 214
-# Comments: 114]]></summary>
+Points: 219
+# Comments: 115]]></summary>
         <author>
             <name>spunker540</name>
         </author>
@@ -250,8 +247,8 @@ Points: 214
         <updated>2021-06-15T20:06:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/
 Comments URL: https://news.ycombinator.com/item?id=27520795
-Points: 141
-# Comments: 52]]></summary>
+Points: 145
+# Comments: 54]]></summary>
         <author>
             <name>wholeness</name>
         </author>
@@ -277,8 +274,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-15T19:05:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/
 Comments URL: https://news.ycombinator.com/item?id=27520016
-Points: 171
-# Comments: 78]]></summary>
+Points: 174
+# Comments: 81]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -290,8 +287,8 @@ Points: 171
         <updated>2021-06-15T18:22:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://henrikwarne.com/2021/06/15/on-comments-in-code/
 Comments URL: https://news.ycombinator.com/item?id=27519445
-Points: 156
-# Comments: 205]]></summary>
+Points: 160
+# Comments: 209]]></summary>
         <author>
             <name>nikbackm</name>
         </author>
@@ -353,8 +350,8 @@ Points: 156
         <updated>2021-06-15T14:42:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utopia.app/
 Comments URL: https://news.ycombinator.com/item?id=27516212
-Points: 567
-# Comments: 130]]></summary>
+Points: 590
+# Comments: 141]]></summary>
         <author>
             <name>rheeseyb</name>
         </author>
@@ -382,6 +379,19 @@ We’re Arthur and Sydney (cosydney). We’re building Axolo (https://axolo.co) 
 Sydney and I met in 42, a software engineering school in Paris, and started working together on different tech projects last year. While working on our last business, a SaaS management platform for SMEs, we were in a squad of 4 to 5 people and often found ourselves writing direct messages in Slack about pull requests. We were telling each other things like ‘Hey Arthur, I’ve updated my last pull request feature/zoom_integration, do you have time to check it out soon?’ or “it’s been two days, do you have time to review feature/user_settings today, here is the link: github/axolo-co/api.axolo.…]]></summary>
         <author>
             <name>arthurcoudouy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community Interaction and Conflict on the Web]]></title>
+        <id>https://news.ycombinator.com/item?id=27515369</id>
+        <link href="https://snap.stanford.edu/conflict/"/>
+        <updated>2021-06-15T13:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://snap.stanford.edu/conflict/
+Comments URL: https://news.ycombinator.com/item?id=27515369
+Points: 19
+# Comments: 0]]></summary>
+        <author>
+            <name>bshanks</name>
         </author>
     </entry>
     <entry>
