@@ -2,32 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T00:38:17.527Z</updated>
+    <updated>2021-06-16T02:01:58.866Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Airbnb is spending millions of dollars to make nightmares go away]]></title>
-        <id>https://news.ycombinator.com/item?id=27523405</id>
-        <link href="https://www.tbsnews.net/analysis/airbnb-spending-millions-dollars-make-nightmares-go-away-261235"/>
-        <updated>2021-06-16T00:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tbsnews.net/analysis/airbnb-spending-millions-dollars-make-nightmares-go-away-261235
-Comments URL: https://news.ycombinator.com/item?id=27523405
-Points: 4
-# Comments: 0]]></summary>
-        <author>
-            <name>elsewhen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fsspec: Filesystem Interfaces for Python]]></title>
         <id>https://news.ycombinator.com/item?id=27523377</id>
-        <link href="https://filesystem-spec.readthedocs.io/en/latest/index.html#"/>
+        <link href="https://filesystem-spec.readthedocs.io/en/latest/index.html"/>
         <updated>2021-06-16T00:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://filesystem-spec.readthedocs.io/en/latest/index.html#
+        <summary type="html"><![CDATA[Article URL: https://filesystem-spec.readthedocs.io/en/latest/index.html
 Comments URL: https://news.ycombinator.com/item?id=27523377
-Points: 6
-# Comments: 0]]></summary>
+Points: 35
+# Comments: 5]]></summary>
         <author>
             <name>gilad</name>
         </author>
@@ -45,40 +32,14 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senate Unanimously Approves a Bill to Make Juneteenth a Public Holiday]]></title>
-        <id>https://news.ycombinator.com/item?id=27522427</id>
-        <link href="https://www.npr.org/2021/06/15/1006934154/senate-unanimously-approves-a-bill-to-make-juneteenth-a-public-holiday"/>
-        <updated>2021-06-15T22:30:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/15/1006934154/senate-unanimously-approves-a-bill-to-make-juneteenth-a-public-holiday
-Comments URL: https://news.ycombinator.com/item?id=27522427
-Points: 244
-# Comments: 169]]></summary>
-        <author>
-            <name>erehweb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFC for 700 HTTP Status Codes]]></title>
-        <id>https://news.ycombinator.com/item?id=27522353</id>
-        <link href="https://github.com/joho/7XX-rfc"/>
-        <updated>2021-06-15T22:25:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/joho/7XX-rfc
-Comments URL: https://news.ycombinator.com/item?id=27522353
-Points: 167
-# Comments: 39]]></summary>
-        <author>
-            <name>kaeruct</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lina Khan, Big Tech Critic, Will Lead the FTC]]></title>
         <id>https://news.ycombinator.com/item?id=27521826</id>
         <link href="https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc"/>
         <updated>2021-06-15T21:36:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc
 Comments URL: https://news.ycombinator.com/item?id=27521826
-Points: 51
-# Comments: 15]]></summary>
+Points: 94
+# Comments: 40]]></summary>
         <author>
             <name>tomdell</name>
         </author>
@@ -127,14 +88,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Southwest Airlines grounds its entire fleet amid giant computer outage]]></title>
+        <id>https://news.ycombinator.com/item?id=27520926</id>
+        <link href="https://nypost.com/2021/06/15/southwest-airlines-grounds-all-flights-amid-computer-outage/"/>
+        <updated>2021-06-15T20:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nypost.com/2021/06/15/southwest-airlines-grounds-all-flights-amid-computer-outage/
+Comments URL: https://news.ycombinator.com/item?id=27520926
+Points: 124
+# Comments: 93]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show HN: Influence, a Go-inspired 1-minute board game]]></title>
         <id>https://news.ycombinator.com/item?id=27520884</id>
         <link href="http://cintrest.com/influence/"/>
         <updated>2021-06-15T20:12:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://cintrest.com/influence/
 Comments URL: https://news.ycombinator.com/item?id=27520884
-Points: 125
-# Comments: 43]]></summary>
+Points: 152
+# Comments: 52]]></summary>
         <author>
             <name>jawslouis</name>
         </author>
@@ -146,8 +120,8 @@ Points: 125
         <updated>2021-06-15T20:07:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.gq.com/story/johnny-knoxvilles-last-rodeo/
 Comments URL: https://news.ycombinator.com/item?id=27520806
-Points: 87
-# Comments: 56]]></summary>
+Points: 114
+# Comments: 67]]></summary>
         <author>
             <name>spunker540</name>
         </author>
@@ -159,8 +133,8 @@ Points: 87
         <updated>2021-06-15T20:06:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/
 Comments URL: https://news.ycombinator.com/item?id=27520795
-Points: 51
-# Comments: 15]]></summary>
+Points: 66
+# Comments: 22]]></summary>
         <author>
             <name>wholeness</name>
         </author>
@@ -186,8 +160,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-15T19:43:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories
 Comments URL: https://news.ycombinator.com/item?id=27520496
-Points: 176
-# Comments: 70]]></summary>
+Points: 206
+# Comments: 104]]></summary>
         <author>
             <name>anigbrowl</name>
         </author>
@@ -199,8 +173,8 @@ Points: 176
         <updated>2021-06-15T19:05:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/
 Comments URL: https://news.ycombinator.com/item?id=27520016
-Points: 60
-# Comments: 16]]></summary>
+Points: 75
+# Comments: 34]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -212,8 +186,8 @@ Points: 60
         <updated>2021-06-15T18:22:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://henrikwarne.com/2021/06/15/on-comments-in-code/
 Comments URL: https://news.ycombinator.com/item?id=27519445
-Points: 95
-# Comments: 128]]></summary>
+Points: 102
+# Comments: 141]]></summary>
         <author>
             <name>nikbackm</name>
         </author>
@@ -245,8 +219,8 @@ Points: 95
         <updated>2021-06-15T16:14:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://support.google.com/maps/answer/1725632#how_opt_out&zippy=
 Comments URL: https://news.ycombinator.com/item?id=27517547
-Points: 356
-# Comments: 246]]></summary>
+Points: 370
+# Comments: 253]]></summary>
         <author>
             <name>client4</name>
         </author>
@@ -258,8 +232,8 @@ Points: 356
         <updated>2021-06-15T16:12:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://shadyurl.com/create.php
 Comments URL: https://news.ycombinator.com/item?id=27517524
-Points: 172
-# Comments: 23]]></summary>
+Points: 220
+# Comments: 30]]></summary>
         <author>
             <name>client4</name>
         </author>
@@ -301,8 +275,8 @@ Points: 172
         <updated>2021-06-15T15:35:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us
 Comments URL: https://news.ycombinator.com/item?id=27516977
-Points: 122
-# Comments: 225]]></summary>
+Points: 134
+# Comments: 237]]></summary>
         <author>
             <name>infodocket</name>
         </author>
@@ -314,8 +288,8 @@ Points: 122
         <updated>2021-06-15T14:42:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utopia.app/
 Comments URL: https://news.ycombinator.com/item?id=27516212
-Points: 210
-# Comments: 63]]></summary>
+Points: 260
+# Comments: 68]]></summary>
         <author>
             <name>rheeseyb</name>
         </author>
@@ -327,8 +301,8 @@ Points: 210
         <updated>2021-06-15T14:33:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://emacs.love/tales/emacs-love-tale-by-sdp.html
 Comments URL: https://news.ycombinator.com/item?id=27516073
-Points: 189
-# Comments: 62]]></summary>
+Points: 200
+# Comments: 66]]></summary>
         <author>
             <name>SuperNinKenDo</name>
         </author>
@@ -347,14 +321,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why bugs might feel “impossible”]]></title>
+        <id>https://news.ycombinator.com/item?id=27515944</id>
+        <link href="https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/"/>
+        <updated>2021-06-15T14:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/
+Comments URL: https://news.ycombinator.com/item?id=27515944
+Points: 166
+# Comments: 95]]></summary>
+        <author>
+            <name>atg_abhishek</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Finish Your Stuff (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=27515645</id>
         <link href="https://250bpm.com/blog:50/"/>
         <updated>2021-06-15T14:00:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:50/
 Comments URL: https://news.ycombinator.com/item?id=27515645
-Points: 136
-# Comments: 55]]></summary>
+Points: 142
+# Comments: 57]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -366,8 +353,8 @@ Points: 136
         <updated>2021-06-15T13:58:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9
 Comments URL: https://news.ycombinator.com/item?id=27515615
-Points: 88
-# Comments: 22]]></summary>
+Points: 94
+# Comments: 24]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -382,6 +369,19 @@ We’re Arthur and Sydney (cosydney). We’re building Axolo (https://axolo.co) 
 Sydney and I met in 42, a software engineering school in Paris, and started working together on different tech projects last year. While working on our last business, a SaaS management platform for SMEs, we were in a squad of 4 to 5 people and often found ourselves writing direct messages in Slack about pull requests. We were telling each other things like ‘Hey Arthur, I’ve updated my last pull request feature/zoom_integration, do you have time to check it out soon?’ or “it’s been two days, do you have time to review feature/user_settings today, here is the link: github/axolo-co/api.axolo.…]]></summary>
         <author>
             <name>arthurcoudouy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon is blocking Google’s FLoC]]></title>
+        <id>https://news.ycombinator.com/item?id=27515230</id>
+        <link href="https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/"/>
+        <updated>2021-06-15T13:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/
+Comments URL: https://news.ycombinator.com/item?id=27515230
+Points: 419
+# Comments: 365]]></summary>
+        <author>
+            <name>estas</name>
         </author>
     </entry>
     <entry>
