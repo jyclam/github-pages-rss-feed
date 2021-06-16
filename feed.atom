@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T23:12:39.974Z</updated>
+    <updated>2021-06-16T00:38:17.527Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Airbnb is spending millions of dollars to make nightmares go away]]></title>
+        <id>https://news.ycombinator.com/item?id=27523405</id>
+        <link href="https://www.tbsnews.net/analysis/airbnb-spending-millions-dollars-make-nightmares-go-away-261235"/>
+        <updated>2021-06-16T00:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tbsnews.net/analysis/airbnb-spending-millions-dollars-make-nightmares-go-away-261235
+Comments URL: https://news.ycombinator.com/item?id=27523405
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>elsewhen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fsspec: Filesystem Interfaces for Python]]></title>
+        <id>https://news.ycombinator.com/item?id=27523377</id>
+        <link href="https://filesystem-spec.readthedocs.io/en/latest/index.html#"/>
+        <updated>2021-06-16T00:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://filesystem-spec.readthedocs.io/en/latest/index.html#
+Comments URL: https://news.ycombinator.com/item?id=27523377
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>gilad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detect Unused Classes in… HTML]]></title>
+        <id>https://css-tricks.com/?p=342198</id>
+        <link href="https://css-tricks.com/detect-unused-classes-in-html/"/>
+        <updated>2021-06-15T23:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …
+The post Detect Unused Classes in… HTML appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Senate Unanimously Approves a Bill to Make Juneteenth a Public Holiday]]></title>
         <id>https://news.ycombinator.com/item?id=27522427</id>
@@ -13,8 +51,8 @@
         <updated>2021-06-15T22:30:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/15/1006934154/senate-unanimously-approves-a-bill-to-make-juneteenth-a-public-holiday
 Comments URL: https://news.ycombinator.com/item?id=27522427
-Points: 106
-# Comments: 23]]></summary>
+Points: 244
+# Comments: 169]]></summary>
         <author>
             <name>erehweb</name>
         </author>
@@ -26,23 +64,23 @@ Points: 106
         <updated>2021-06-15T22:25:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/joho/7XX-rfc
 Comments URL: https://news.ycombinator.com/item?id=27522353
-Points: 22
-# Comments: 0]]></summary>
+Points: 167
+# Comments: 39]]></summary>
         <author>
             <name>kaeruct</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The elemental strangeness of foxes]]></title>
-        <id>https://news.ycombinator.com/item?id=27521970</id>
-        <link href="https://www.plough.com/en/topics/justice/environment/the-elemental-strangeness-of-foxes"/>
-        <updated>2021-06-15T21:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.plough.com/en/topics/justice/environment/the-elemental-strangeness-of-foxes
-Comments URL: https://news.ycombinator.com/item?id=27521970
-Points: 7
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Lina Khan, Big Tech Critic, Will Lead the FTC]]></title>
+        <id>https://news.ycombinator.com/item?id=27521826</id>
+        <link href="https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc"/>
+        <updated>2021-06-15T21:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/15/1006807299/lina-khan-prominent-big-tech-critic-will-lead-the-ftc
+Comments URL: https://news.ycombinator.com/item?id=27521826
+Points: 51
+# Comments: 15]]></summary>
         <author>
-            <name>swibbler</name>
+            <name>tomdell</name>
         </author>
     </entry>
     <entry>
@@ -89,27 +127,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Joplin – an open source note taking and to-do application with synchronization]]></title>
-        <id>https://news.ycombinator.com/item?id=27520906</id>
-        <link href="https://joplinapp.org/"/>
-        <updated>2021-06-15T20:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://joplinapp.org/
-Comments URL: https://news.ycombinator.com/item?id=27520906
-Points: 58
-# Comments: 36]]></summary>
-        <author>
-            <name>josefslerka</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show HN: Influence, a Go-inspired 1-minute board game]]></title>
         <id>https://news.ycombinator.com/item?id=27520884</id>
         <link href="http://cintrest.com/influence/"/>
         <updated>2021-06-15T20:12:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://cintrest.com/influence/
 Comments URL: https://news.ycombinator.com/item?id=27520884
-Points: 94
-# Comments: 35]]></summary>
+Points: 125
+# Comments: 43]]></summary>
         <author>
             <name>jawslouis</name>
         </author>
@@ -121,8 +146,8 @@ Points: 94
         <updated>2021-06-15T20:07:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.gq.com/story/johnny-knoxvilles-last-rodeo/
 Comments URL: https://news.ycombinator.com/item?id=27520806
-Points: 53
-# Comments: 30]]></summary>
+Points: 87
+# Comments: 56]]></summary>
         <author>
             <name>spunker540</name>
         </author>
@@ -134,8 +159,8 @@ Points: 53
         <updated>2021-06-15T20:06:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/
 Comments URL: https://news.ycombinator.com/item?id=27520795
-Points: 37
-# Comments: 11]]></summary>
+Points: 51
+# Comments: 15]]></summary>
         <author>
             <name>wholeness</name>
         </author>
@@ -161,8 +186,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-15T19:43:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.ap.org/behind-the-news/why-were-no-longer-naming-suspects-in-minor-crime-stories
 Comments URL: https://news.ycombinator.com/item?id=27520496
-Points: 129
-# Comments: 44]]></summary>
+Points: 176
+# Comments: 70]]></summary>
         <author>
             <name>anigbrowl</name>
         </author>
@@ -174,8 +199,8 @@ Points: 129
         <updated>2021-06-15T19:05:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/
 Comments URL: https://news.ycombinator.com/item?id=27520016
-Points: 36
-# Comments: 7]]></summary>
+Points: 60
+# Comments: 16]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -187,8 +212,8 @@ Points: 36
         <updated>2021-06-15T18:22:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://henrikwarne.com/2021/06/15/on-comments-in-code/
 Comments URL: https://news.ycombinator.com/item?id=27519445
-Points: 83
-# Comments: 114]]></summary>
+Points: 95
+# Comments: 128]]></summary>
         <author>
             <name>nikbackm</name>
         </author>
@@ -220,8 +245,8 @@ Points: 83
         <updated>2021-06-15T16:14:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://support.google.com/maps/answer/1725632#how_opt_out&zippy=
 Comments URL: https://news.ycombinator.com/item?id=27517547
-Points: 342
-# Comments: 235]]></summary>
+Points: 356
+# Comments: 246]]></summary>
         <author>
             <name>client4</name>
         </author>
@@ -233,23 +258,10 @@ Points: 342
         <updated>2021-06-15T16:12:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://shadyurl.com/create.php
 Comments URL: https://news.ycombinator.com/item?id=27517524
-Points: 135
-# Comments: 19]]></summary>
+Points: 172
+# Comments: 23]]></summary>
         <author>
             <name>client4</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Era for Mechanical CAD]]></title>
-        <id>https://news.ycombinator.com/item?id=27517503</id>
-        <link href="https://queue.acm.org/detail.cfm?id=3469844"/>
-        <updated>2021-06-15T16:10:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://queue.acm.org/detail.cfm?id=3469844
-Comments URL: https://news.ycombinator.com/item?id=27517503
-Points: 77
-# Comments: 63]]></summary>
-        <author>
-            <name>jasim</name>
         </author>
     </entry>
     <entry>
@@ -289,8 +301,8 @@ Points: 77
         <updated>2021-06-15T15:35:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us
 Comments URL: https://news.ycombinator.com/item?id=27516977
-Points: 112
-# Comments: 208]]></summary>
+Points: 122
+# Comments: 225]]></summary>
         <author>
             <name>infodocket</name>
         </author>
@@ -302,8 +314,8 @@ Points: 112
         <updated>2021-06-15T14:42:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utopia.app/
 Comments URL: https://news.ycombinator.com/item?id=27516212
-Points: 144
-# Comments: 44]]></summary>
+Points: 210
+# Comments: 63]]></summary>
         <author>
             <name>rheeseyb</name>
         </author>
@@ -315,8 +327,8 @@ Points: 144
         <updated>2021-06-15T14:33:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://emacs.love/tales/emacs-love-tale-by-sdp.html
 Comments URL: https://news.ycombinator.com/item?id=27516073
-Points: 183
-# Comments: 59]]></summary>
+Points: 189
+# Comments: 62]]></summary>
         <author>
             <name>SuperNinKenDo</name>
         </author>
@@ -341,8 +353,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-15T14:00:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:50/
 Comments URL: https://news.ycombinator.com/item?id=27515645
-Points: 129
-# Comments: 54]]></summary>
+Points: 136
+# Comments: 55]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -354,8 +366,8 @@ Points: 129
         <updated>2021-06-15T13:58:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9
 Comments URL: https://news.ycombinator.com/item?id=27515615
-Points: 80
-# Comments: 21]]></summary>
+Points: 88
+# Comments: 22]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -629,19 +641,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 The post Implementing Private Fields for JavaScript appeared first on Mozilla Hacks - the Web developer blog.]]></summary>
         <author>
             <name>Matthew Gaudet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Trickz: An Experiment with Netlify’s On-Demand Builders]]></title>
-        <id>https://css-tricks.com/?p=341884</id>
-        <link href="https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/"/>
-        <updated>2021-06-08T14:16:07.000Z</updated>
-        <summary type="html"><![CDATA[WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.
-At first, the site …
-The post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -944,16 +943,6 @@ The post Introducing Firefox’s new Site Isolation Security Architecture appear
         <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
-        <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
         </author>
     </entry>
 </feed>
