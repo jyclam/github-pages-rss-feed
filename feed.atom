@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T19:12:23.409Z</updated>
+    <updated>2021-06-16T20:11:40.458Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Facebook will start putting ads in Oculus Quest apps]]></title>
+        <id>https://news.ycombinator.com/item?id=27532243</id>
+        <link href="https://www.theverge.com/2021/6/16/22535511/facebook-ads-oculus-quest-vr-apps"/>
+        <updated>2021-06-16T19:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/16/22535511/facebook-ads-oculus-quest-vr-apps
+Comments URL: https://news.ycombinator.com/item?id=27532243
+Points: 33
+# Comments: 10]]></summary>
+        <author>
+            <name>marc__1</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Useful and Useless Code Comments]]></title>
         <id>https://css-tricks.com/?p=342630</id>
@@ -22,16 +35,42 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Federal Reserve Now Projects Rate Increases in 2023 as Economy Heals]]></title>
+        <id>https://news.ycombinator.com/item?id=27532105</id>
+        <link href="https://www.nytimes.com/2021/06/16/business/economy/fed-meeting-inflation.html"/>
+        <updated>2021-06-16T18:54:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/16/business/economy/fed-meeting-inflation.html
+Comments URL: https://news.ycombinator.com/item?id=27532105
+Points: 30
+# Comments: 33]]></summary>
+        <author>
+            <name>throwkeep</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wayfinder – a relaxing 'art game' in the browser]]></title>
         <id>https://news.ycombinator.com/item?id=27532068</id>
         <link href="https://wayfinder.nfb.ca/"/>
         <updated>2021-06-16T18:51:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wayfinder.nfb.ca/
 Comments URL: https://news.ycombinator.com/item?id=27532068
-Points: 5
-# Comments: 0]]></summary>
+Points: 100
+# Comments: 15]]></summary>
         <author>
             <name>vnglst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-downtime schema migrations in Postgres using views]]></title>
+        <id>https://news.ycombinator.com/item?id=27531934</id>
+        <link href="https://fabianlindfors.se/blog/schema-migrations-in-postgres/"/>
+        <updated>2021-06-16T18:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fabianlindfors.se/blog/schema-migrations-in-postgres/
+Comments URL: https://news.ycombinator.com/item?id=27531934
+Points: 32
+# Comments: 6]]></summary>
+        <author>
+            <name>fabianlindfors</name>
         </author>
     </entry>
     <entry>
@@ -41,8 +80,8 @@ Points: 5
         <updated>2021-06-16T18:10:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.liw.fi/posts/2021/05/26/sponsored-by/
 Comments URL: https://news.ycombinator.com/item?id=27531628
-Points: 4
-# Comments: 0]]></summary>
+Points: 13
+# Comments: 2]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -54,36 +93,23 @@ Points: 4
         <updated>2021-06-16T18:08:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://akkartik.name/post/neighborhood
 Comments URL: https://news.ycombinator.com/item?id=27531610
-Points: 7
+Points: 20
 # Comments: 0]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matthew Butterick: Why I no longer contribute to Racket]]></title>
+        <title type="html"><![CDATA[Why I no longer contribute to Racket]]></title>
         <id>https://news.ycombinator.com/item?id=27531508</id>
         <link href="https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html"/>
         <updated>2021-06-16T18:00:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html
 Comments URL: https://news.ycombinator.com/item?id=27531508
-Points: 21
-# Comments: 1]]></summary>
+Points: 199
+# Comments: 66]]></summary>
         <author>
             <name>velcrovan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm taking a 1-year sabbatical / gap year as a 30-something]]></title>
-        <id>https://news.ycombinator.com/item?id=27531504</id>
-        <link href="https://kayce.basqu.es/sabbatical/prologue"/>
-        <updated>2021-06-16T18:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kayce.basqu.es/sabbatical/prologue
-Comments URL: https://news.ycombinator.com/item?id=27531504
-Points: 12
-# Comments: 3]]></summary>
-        <author>
-            <name>kaycebasques</name>
         </author>
     </entry>
     <entry>
@@ -93,8 +119,8 @@ Points: 12
         <updated>2021-06-16T17:49:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/06/inside-transistorized-shift-register.html
 Comments URL: https://news.ycombinator.com/item?id=27531379
-Points: 18
-# Comments: 2]]></summary>
+Points: 39
+# Comments: 9]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -116,8 +142,8 @@ Points: 18
         <updated>2021-06-16T17:07:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sec.gov/news/press-release/2021-103
 Comments URL: https://news.ycombinator.com/item?id=27530860
-Points: 135
-# Comments: 109]]></summary>
+Points: 148
+# Comments: 128]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -136,14 +162,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kids Need Freedom, Too]]></title>
+        <title type="html"><![CDATA[Kids need freedom, too]]></title>
         <id>https://news.ycombinator.com/item?id=27530365</id>
         <link href="https://www.persuasion.community/p/kids-need-freedom-too"/>
         <updated>2021-06-16T16:27:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.persuasion.community/p/kids-need-freedom-too
 Comments URL: https://news.ycombinator.com/item?id=27530365
-Points: 81
-# Comments: 67]]></summary>
+Points: 117
+# Comments: 94]]></summary>
         <author>
             <name>jseliger</name>
         </author>
@@ -155,8 +181,8 @@ Points: 81
         <updated>2021-06-16T16:05:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mergeboard.com/blog/2-qemu-microvm-docker/
 Comments URL: https://news.ycombinator.com/item?id=27530074
-Points: 66
-# Comments: 28]]></summary>
+Points: 87
+# Comments: 30]]></summary>
         <author>
             <name>DarkPlayer</name>
         </author>
@@ -168,8 +194,8 @@ Points: 66
         <updated>2021-06-16T15:39:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eprint.iacr.org/2021/819
 Comments URL: https://news.ycombinator.com/item?id=27529768
-Points: 207
-# Comments: 48]]></summary>
+Points: 263
+# Comments: 63]]></summary>
         <author>
             <name>anonymfus</name>
         </author>
@@ -181,7 +207,7 @@ Points: 207
         <updated>2021-06-16T15:20:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://peterkleissner.com/2018/05/27/reverse-engineering-supermicro-ipmi/
 Comments URL: https://news.ycombinator.com/item?id=27529513
-Points: 31
+Points: 48
 # Comments: 5]]></summary>
         <author>
             <name>geocar</name>
@@ -194,21 +220,21 @@ Points: 31
         <updated>2021-06-16T14:47:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/
 Comments URL: https://news.ycombinator.com/item?id=27529119
-Points: 168
-# Comments: 130]]></summary>
+Points: 184
+# Comments: 148]]></summary>
         <author>
             <name>ruaraidh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Does One Get Hired by a Top Cybercrime Gang?]]></title>
+        <title type="html"><![CDATA[How does one get hired by a top cybercrime gang?]]></title>
         <id>https://news.ycombinator.com/item?id=27529049</id>
         <link href="https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/"/>
         <updated>2021-06-16T14:41:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/
 Comments URL: https://news.ycombinator.com/item?id=27529049
-Points: 103
-# Comments: 50]]></summary>
+Points: 125
+# Comments: 62]]></summary>
         <author>
             <name>wyldfire</name>
         </author>
@@ -232,10 +258,23 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-16T13:58:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chimamanda.com/
 Comments URL: https://news.ycombinator.com/item?id=27528553
-Points: 58
-# Comments: 14]]></summary>
+Points: 78
+# Comments: 44]]></summary>
         <author>
             <name>wellpast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technology Saves the World]]></title>
+        <id>https://news.ycombinator.com/item?id=27528350</id>
+        <link href="https://future.a16z.com/technology-saves-the-world/"/>
+        <updated>2021-06-16T13:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://future.a16z.com/technology-saves-the-world/
+Comments URL: https://news.ycombinator.com/item?id=27528350
+Points: 58
+# Comments: 72]]></summary>
+        <author>
+            <name>elsewhen</name>
         </author>
     </entry>
     <entry>
@@ -257,49 +296,10 @@ They look easy to implement (just a POST request), but they come with a variety 
         <updated>2021-06-16T12:59:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.06981
 Comments URL: https://news.ycombinator.com/item?id=27528004
-Points: 118
-# Comments: 32]]></summary>
+Points: 127
+# Comments: 35]]></summary>
         <author>
             <name>ArtWomb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Read the Entire Cybersecurity Executive Order; Here's What You Need to Know]]></title>
-        <id>https://news.ycombinator.com/item?id=27527703</id>
-        <link href="https://lastweekasavciso.substack.com/p/i-read-the-entire-cybersecurity-executive"/>
-        <updated>2021-06-16T12:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lastweekasavciso.substack.com/p/i-read-the-entire-cybersecurity-executive
-Comments URL: https://news.ycombinator.com/item?id=27527703
-Points: 70
-# Comments: 34]]></summary>
-        <author>
-            <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's iCloud+ “VPN”]]></title>
-        <id>https://news.ycombinator.com/item?id=27527559</id>
-        <link href="https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html"/>
-        <updated>2021-06-16T12:05:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html
-Comments URL: https://news.ycombinator.com/item?id=27527559
-Points: 657
-# Comments: 290]]></summary>
-        <author>
-            <name>n1000</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Visualization of Galactic Settlement]]></title>
-        <id>https://news.ycombinator.com/item?id=27527384</id>
-        <link href="https://www.centauri-dreams.org/2021/06/14/a-visualization-of-galactic-settlement/"/>
-        <updated>2021-06-16T11:43:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.centauri-dreams.org/2021/06/14/a-visualization-of-galactic-settlement/
-Comments URL: https://news.ycombinator.com/item?id=27527384
-Points: 144
-# Comments: 88]]></summary>
-        <author>
-            <name>the-mitr</name>
         </author>
     </entry>
     <entry>
