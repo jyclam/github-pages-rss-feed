@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T04:15:44.888Z</updated>
+    <updated>2021-06-16T05:15:40.516Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Be a Stoic]]></title>
+        <id>https://news.ycombinator.com/item?id=27524805</id>
+        <link href="https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic"/>
+        <updated>2021-06-16T04:08:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic
+Comments URL: https://news.ycombinator.com/item?id=27524805
+Points: 18
+# Comments: 7]]></summary>
+        <author>
+            <name>one2three4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modulinos in Bash]]></title>
+        <id>https://news.ycombinator.com/item?id=27524749</id>
+        <link href="https://blog.dnmfarrell.com/post/modulinos-in-bash/"/>
+        <updated>2021-06-16T03:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.dnmfarrell.com/post/modulinos-in-bash/
+Comments URL: https://news.ycombinator.com/item?id=27524749
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreliability at Scale]]></title>
+        <id>https://news.ycombinator.com/item?id=27524641</id>
+        <link href="https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1"/>
+        <updated>2021-06-16T03:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1
+Comments URL: https://news.ycombinator.com/item?id=27524641
+Points: 12
+# Comments: 0]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon S3 quietly deprecates BitTorrent support]]></title>
         <id>https://news.ycombinator.com/item?id=27524549</id>
@@ -13,23 +52,10 @@
         <updated>2021-06-16T03:25:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/awsdocs/amazon-s3-userguide/commit/0d1759880ccb1818ab0f14129ba1321c519d2ac1
 Comments URL: https://news.ycombinator.com/item?id=27524549
-Points: 86
-# Comments: 23]]></summary>
+Points: 154
+# Comments: 44]]></summary>
         <author>
             <name>greyface-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shortage of air conditioner parts expected this summer]]></title>
-        <id>https://news.ycombinator.com/item?id=27524107</id>
-        <link href="https://www.kswo.com/2021/05/28/shortage-of-air-conditioner-parts-expected-this-summer/"/>
-        <updated>2021-06-16T02:08:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kswo.com/2021/05/28/shortage-of-air-conditioner-parts-expected-this-summer/
-Comments URL: https://news.ycombinator.com/item?id=27524107
-Points: 60
-# Comments: 70]]></summary>
-        <author>
-            <name>cratermoon</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +65,8 @@ Points: 60
         <updated>2021-06-16T01:21:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://firstpartysimulator.org/
 Comments URL: https://news.ycombinator.com/item?id=27523834
-Points: 22
-# Comments: 6]]></summary>
+Points: 27
+# Comments: 13]]></summary>
         <author>
             <name>anigbrowl</name>
         </author>
@@ -52,7 +78,7 @@ Points: 22
         <updated>2021-06-16T00:24:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://filesystem-spec.readthedocs.io/en/latest/index.html
 Comments URL: https://news.ycombinator.com/item?id=27523377
-Points: 70
+Points: 87
 # Comments: 9]]></summary>
         <author>
             <name>gilad</name>
@@ -120,8 +146,8 @@ Points: 1
         <updated>2021-06-15T20:16:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nypost.com/2021/06/15/southwest-airlines-grounds-all-flights-amid-computer-outage/
 Comments URL: https://news.ycombinator.com/item?id=27520926
-Points: 144
-# Comments: 122]]></summary>
+Points: 157
+# Comments: 134]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -133,8 +159,8 @@ Points: 144
         <updated>2021-06-15T20:12:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://cintrest.com/influence/
 Comments URL: https://news.ycombinator.com/item?id=27520884
-Points: 194
-# Comments: 62]]></summary>
+Points: 214
+# Comments: 65]]></summary>
         <author>
             <name>jawslouis</name>
         </author>
@@ -146,8 +172,8 @@ Points: 194
         <updated>2021-06-15T20:07:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.gq.com/story/johnny-knoxvilles-last-rodeo/
 Comments URL: https://news.ycombinator.com/item?id=27520806
-Points: 158
-# Comments: 83]]></summary>
+Points: 166
+# Comments: 89]]></summary>
         <author>
             <name>spunker540</name>
         </author>
@@ -159,8 +185,8 @@ Points: 158
         <updated>2021-06-15T20:06:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/
 Comments URL: https://news.ycombinator.com/item?id=27520795
-Points: 80
-# Comments: 25]]></summary>
+Points: 97
+# Comments: 29]]></summary>
         <author>
             <name>wholeness</name>
         </author>
@@ -186,8 +212,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-15T19:05:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/
 Comments URL: https://news.ycombinator.com/item?id=27520016
-Points: 108
-# Comments: 48]]></summary>
+Points: 115
+# Comments: 59]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -199,8 +225,8 @@ Points: 108
         <updated>2021-06-15T18:22:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://henrikwarne.com/2021/06/15/on-comments-in-code/
 Comments URL: https://news.ycombinator.com/item?id=27519445
-Points: 121
-# Comments: 157]]></summary>
+Points: 127
+# Comments: 163]]></summary>
         <author>
             <name>nikbackm</name>
         </author>
@@ -226,29 +252,29 @@ Points: 121
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How do I opt my access point out of Google Location services?]]></title>
-        <id>https://news.ycombinator.com/item?id=27517547</id>
-        <link href="https://support.google.com/maps/answer/1725632#how_opt_out&amp;zippy="/>
-        <updated>2021-06-15T16:14:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://support.google.com/maps/answer/1725632#how_opt_out&zippy=
-Comments URL: https://news.ycombinator.com/item?id=27517547
-Points: 393
-# Comments: 260]]></summary>
-        <author>
-            <name>client4</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Don't just shorten your URL, make it suspicious and frightening (2010)]]></title>
         <id>https://news.ycombinator.com/item?id=27517524</id>
         <link href="http://shadyurl.com/create.php"/>
         <updated>2021-06-15T16:12:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://shadyurl.com/create.php
 Comments URL: https://news.ycombinator.com/item?id=27517524
-Points: 278
-# Comments: 48]]></summary>
+Points: 300
+# Comments: 50]]></summary>
         <author>
             <name>client4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Era for Mechanical CAD]]></title>
+        <id>https://news.ycombinator.com/item?id=27517503</id>
+        <link href="https://queue.acm.org/detail.cfm?id=3469844"/>
+        <updated>2021-06-15T16:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://queue.acm.org/detail.cfm?id=3469844
+Comments URL: https://news.ycombinator.com/item?id=27517503
+Points: 97
+# Comments: 81]]></summary>
+        <author>
+            <name>jasim</name>
         </author>
     </entry>
     <entry>
@@ -288,8 +314,8 @@ Points: 278
         <updated>2021-06-15T15:35:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nih.gov/news-events/news-releases/nih-study-offers-new-evidence-early-sars-cov-2-infections-us
 Comments URL: https://news.ycombinator.com/item?id=27516977
-Points: 148
-# Comments: 256]]></summary>
+Points: 155
+# Comments: 262]]></summary>
         <author>
             <name>infodocket</name>
         </author>
@@ -301,8 +327,8 @@ Points: 148
         <updated>2021-06-15T14:42:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utopia.app/
 Comments URL: https://news.ycombinator.com/item?id=27516212
-Points: 332
-# Comments: 81]]></summary>
+Points: 372
+# Comments: 87]]></summary>
         <author>
             <name>rheeseyb</name>
         </author>
@@ -314,7 +340,7 @@ Points: 332
         <updated>2021-06-15T14:33:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://emacs.love/tales/emacs-love-tale-by-sdp.html
 Comments URL: https://news.ycombinator.com/item?id=27516073
-Points: 215
+Points: 222
 # Comments: 70]]></summary>
         <author>
             <name>SuperNinKenDo</name>
@@ -340,23 +366,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-15T14:24:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/
 Comments URL: https://news.ycombinator.com/item?id=27515944
-Points: 181
-# Comments: 101]]></summary>
+Points: 184
+# Comments: 104]]></summary>
         <author>
             <name>atg_abhishek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finish Your Stuff (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=27515645</id>
-        <link href="https://250bpm.com/blog:50/"/>
-        <updated>2021-06-15T14:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://250bpm.com/blog:50/
-Comments URL: https://news.ycombinator.com/item?id=27515645
-Points: 147
-# Comments: 62]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -366,22 +379,10 @@ Points: 147
         <updated>2021-06-15T13:58:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://apnews.com/article/government-and-politics-hacking-technology-business-7350235e07d46ba5afc1238b553ea4b9
 Comments URL: https://news.ycombinator.com/item?id=27515615
-Points: 111
-# Comments: 33]]></summary>
+Points: 116
+# Comments: 36]]></summary>
         <author>
             <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Axolo (YC W21) – Faster pull requests and code reviews]]></title>
-        <id>https://news.ycombinator.com/item?id=27515468</id>
-        <link href="https://news.ycombinator.com/item?id=27515468"/>
-        <updated>2021-06-15T13:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN!
-We’re Arthur and Sydney (cosydney). We’re building Axolo (https://axolo.co) a bidirectional Github-Slack integration to help tech teams reduce pull request time and improve code review’s feedback.
-Sydney and I met in 42, a software engineering school in Paris, and started working together on different tech projects last year. While working on our last business, a SaaS management platform for SMEs, we were in a squad of 4 to 5 people and often found ourselves writing direct messages in Slack about pull requests. We were telling each other things like ‘Hey Arthur, I’ve updated my last pull request feature/zoom_integration, do you have time to check it out soon?’ or “it’s been two days, do you have time to review feature/user_settings today, here is the link: github/axolo-co/api.axolo.…]]></summary>
-        <author>
-            <name>arthurcoudouy</name>
         </author>
     </entry>
     <entry>
