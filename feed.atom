@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T03:14:33.168Z</updated>
+    <updated>2021-06-17T04:14:51.414Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,10 +13,23 @@
         <updated>2021-06-17T01:30:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://joeyh.name/blog/entry/typed_pipes_in_every_shell/
 Comments URL: https://news.ycombinator.com/item?id=27535357
-Points: 12
-# Comments: 1]]></summary>
+Points: 23
+# Comments: 3]]></summary>
         <author>
             <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Support the Haskell Foundation (retro on 15 years of Haskell programming)]]></title>
+        <id>https://news.ycombinator.com/item?id=27535299</id>
+        <link href="https://cdsmithus.medium.com/why-i-support-the-haskell-foundation-1ac3cda1f82f"/>
+        <updated>2021-06-17T01:18:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cdsmithus.medium.com/why-i-support-the-haskell-foundation-1ac3cda1f82f
+Comments URL: https://news.ycombinator.com/item?id=27535299
+Points: 14
+# Comments: 1]]></summary>
+        <author>
+            <name>cdsmith</name>
         </author>
     </entry>
     <entry>
@@ -36,8 +49,8 @@ Points: 12
         <updated>2021-06-16T23:14:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/lastmjs/wasm-metal
 Comments URL: https://news.ycombinator.com/item?id=27534572
-Points: 26
-# Comments: 4]]></summary>
+Points: 36
+# Comments: 10]]></summary>
         <author>
             <name>Kinrany</name>
         </author>
@@ -49,8 +62,8 @@ Points: 26
         <updated>2021-06-16T22:57:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.improv-wifi.com/
 Comments URL: https://news.ycombinator.com/item?id=27534448
-Points: 22
-# Comments: 3]]></summary>
+Points: 29
+# Comments: 6]]></summary>
         <author>
             <name>balloob</name>
         </author>
@@ -62,8 +75,8 @@ Points: 22
         <updated>2021-06-16T22:50:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://francoisbest.com/posts/2021/hashvatars
 Comments URL: https://news.ycombinator.com/item?id=27534379
-Points: 48
-# Comments: 18]]></summary>
+Points: 56
+# Comments: 23]]></summary>
         <author>
             <name>flurly</name>
         </author>
@@ -75,8 +88,8 @@ Points: 48
         <updated>2021-06-16T22:24:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stripe.com/terminal/stripe-reader
 Comments URL: https://news.ycombinator.com/item?id=27534156
-Points: 11
-# Comments: 0]]></summary>
+Points: 46
+# Comments: 10]]></summary>
         <author>
             <name>lachyg</name>
         </author>
@@ -88,8 +101,8 @@ Points: 11
         <updated>2021-06-16T22:05:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination
 Comments URL: https://news.ycombinator.com/item?id=27533988
-Points: 72
-# Comments: 40]]></summary>
+Points: 94
+# Comments: 51]]></summary>
         <author>
             <name>CommitLock</name>
         </author>
@@ -101,8 +114,8 @@ Points: 72
         <updated>2021-06-16T21:36:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40
 Comments URL: https://news.ycombinator.com/item?id=27533755
-Points: 270
-# Comments: 91]]></summary>
+Points: 306
+# Comments: 106]]></summary>
         <author>
             <name>evo_9</name>
         </author>
@@ -114,8 +127,8 @@ Points: 270
         <updated>2021-06-16T21:27:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://programming.guide/worlds-most-copied-so-snippet.html
 Comments URL: https://news.ycombinator.com/item?id=27533684
-Points: 333
-# Comments: 154]]></summary>
+Points: 367
+# Comments: 164]]></summary>
         <author>
             <name>vinnyglennon</name>
         </author>
@@ -201,8 +214,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-16T18:51:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wayfinder.nfb.ca/
 Comments URL: https://news.ycombinator.com/item?id=27532068
-Points: 405
-# Comments: 83]]></summary>
+Points: 428
+# Comments: 88]]></summary>
         <author>
             <name>vnglst</name>
         </author>
@@ -214,7 +227,7 @@ Points: 405
         <updated>2021-06-16T18:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fabianlindfors.se/blog/schema-migrations-in-postgres/
 Comments URL: https://news.ycombinator.com/item?id=27531934
-Points: 116
+Points: 124
 # Comments: 45]]></summary>
         <author>
             <name>fabianlindfors</name>
@@ -237,8 +250,8 @@ Points: 116
         <updated>2021-06-16T16:27:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.persuasion.community/p/kids-need-freedom-too
 Comments URL: https://news.ycombinator.com/item?id=27530365
-Points: 276
-# Comments: 264]]></summary>
+Points: 287
+# Comments: 277]]></summary>
         <author>
             <name>jseliger</name>
         </author>
@@ -250,7 +263,7 @@ Points: 276
         <updated>2021-06-16T16:05:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mergeboard.com/blog/2-qemu-microvm-docker/
 Comments URL: https://news.ycombinator.com/item?id=27530074
-Points: 143
+Points: 145
 # Comments: 57]]></summary>
         <author>
             <name>DarkPlayer</name>
@@ -263,8 +276,8 @@ Points: 143
         <updated>2021-06-16T15:39:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eprint.iacr.org/2021/819
 Comments URL: https://news.ycombinator.com/item?id=27529768
-Points: 396
-# Comments: 85]]></summary>
+Points: 406
+# Comments: 87]]></summary>
         <author>
             <name>anonymfus</name>
         </author>
@@ -276,8 +289,8 @@ Points: 396
         <updated>2021-06-16T15:35:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://andysalerno.com/posts/weird-emojis/
 Comments URL: https://news.ycombinator.com/item?id=27529697
-Points: 208
-# Comments: 51]]></summary>
+Points: 225
+# Comments: 56]]></summary>
         <author>
             <name>soopurman</name>
         </author>
@@ -289,8 +302,8 @@ Points: 208
         <updated>2021-06-16T14:41:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/
 Comments URL: https://news.ycombinator.com/item?id=27529049
-Points: 195
-# Comments: 116]]></summary>
+Points: 204
+# Comments: 125]]></summary>
         <author>
             <name>wyldfire</name>
         </author>
@@ -326,23 +339,10 @@ They look easy to implement (just a POST request), but they come with a variety 
         <updated>2021-06-16T12:05:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html
 Comments URL: https://news.ycombinator.com/item?id=27527559
-Points: 831
-# Comments: 352]]></summary>
+Points: 842
+# Comments: 354]]></summary>
         <author>
             <name>n1000</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grobid: Machine learning for extracting information from scholarly documents]]></title>
-        <id>https://news.ycombinator.com/item?id=27527028</id>
-        <link href="https://github.com/kermitt2/grobid"/>
-        <updated>2021-06-16T10:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/kermitt2/grobid
-Comments URL: https://news.ycombinator.com/item?id=27527028
-Points: 50
-# Comments: 7]]></summary>
-        <author>
-            <name>polm23</name>
         </author>
     </entry>
     <entry>
@@ -352,8 +352,8 @@ Points: 50
         <updated>2021-06-16T10:38:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2019/09/heres-what-happened-in-the-impact-crater-the-day-it-did-in-the-dinos/
 Comments URL: https://news.ycombinator.com/item?id=27526936
-Points: 4
-# Comments: 0]]></summary>
+Points: 9
+# Comments: 4]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -926,17 +926,6 @@ The post Improving Firefox stability on Linux appeared first on Mozilla Hacks - 
         <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Firefox’s new Site Isolation Security Architecture]]></title>
-        <id>https://hacks.mozilla.org/?p=47259</id>
-        <link href="https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/"/>
-        <updated>2021-05-18T15:45:15.000Z</updated>
-        <summary type="html"><![CDATA[Like any web browser, Firefox loads code from untrusted and potentially hostile websites and runs it on your computer. To protect you against new types of attacks from malicious sites and to meet the security principles of Mozilla, we set out to redesign Firefox on desktop.
-The post Introducing Firefox’s new Site Isolation Security Architecture appeared first on Mozilla Hacks - the Web developer blog.]]></summary>
-        <author>
-            <name>Anny Gakhokidze</name>
         </author>
     </entry>
 </feed>
