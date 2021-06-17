@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T02:35:18.363Z</updated>
+    <updated>2021-06-17T03:14:33.168Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,8 +13,8 @@
         <updated>2021-06-17T01:30:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://joeyh.name/blog/entry/typed_pipes_in_every_shell/
 Comments URL: https://news.ycombinator.com/item?id=27535357
-Points: 3
-# Comments: 0]]></summary>
+Points: 12
+# Comments: 1]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -30,27 +30,14 @@ Points: 3
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stripe Terminal]]></title>
-        <id>https://news.ycombinator.com/item?id=27534884</id>
-        <link href="https://stripe.com/terminal"/>
-        <updated>2021-06-17T00:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stripe.com/terminal
-Comments URL: https://news.ycombinator.com/item?id=27534884
-Points: 75
-# Comments: 29]]></summary>
-        <author>
-            <name>dominicwhyte</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A bare metal physical implementation of WASM. That's right, a WebAssembly CPU]]></title>
         <id>https://news.ycombinator.com/item?id=27534572</id>
         <link href="https://github.com/lastmjs/wasm-metal"/>
         <updated>2021-06-16T23:14:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/lastmjs/wasm-metal
 Comments URL: https://news.ycombinator.com/item?id=27534572
-Points: 21
-# Comments: 2]]></summary>
+Points: 26
+# Comments: 4]]></summary>
         <author>
             <name>Kinrany</name>
         </author>
@@ -62,8 +49,8 @@ Points: 21
         <updated>2021-06-16T22:57:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.improv-wifi.com/
 Comments URL: https://news.ycombinator.com/item?id=27534448
-Points: 16
-# Comments: 2]]></summary>
+Points: 22
+# Comments: 3]]></summary>
         <author>
             <name>balloob</name>
         </author>
@@ -75,10 +62,23 @@ Points: 16
         <updated>2021-06-16T22:50:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://francoisbest.com/posts/2021/hashvatars
 Comments URL: https://news.ycombinator.com/item?id=27534379
-Points: 43
-# Comments: 15]]></summary>
+Points: 48
+# Comments: 18]]></summary>
         <author>
             <name>flurly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe Reader]]></title>
+        <id>https://news.ycombinator.com/item?id=27534156</id>
+        <link href="https://stripe.com/terminal/stripe-reader"/>
+        <updated>2021-06-16T22:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stripe.com/terminal/stripe-reader
+Comments URL: https://news.ycombinator.com/item?id=27534156
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>lachyg</name>
         </author>
     </entry>
     <entry>
@@ -88,8 +88,8 @@ Points: 43
         <updated>2021-06-16T22:05:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination
 Comments URL: https://news.ycombinator.com/item?id=27533988
-Points: 63
-# Comments: 36]]></summary>
+Points: 72
+# Comments: 40]]></summary>
         <author>
             <name>CommitLock</name>
         </author>
@@ -101,8 +101,8 @@ Points: 63
         <updated>2021-06-16T21:36:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40
 Comments URL: https://news.ycombinator.com/item?id=27533755
-Points: 245
-# Comments: 83]]></summary>
+Points: 270
+# Comments: 91]]></summary>
         <author>
             <name>evo_9</name>
         </author>
@@ -114,8 +114,8 @@ Points: 245
         <updated>2021-06-16T21:27:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://programming.guide/worlds-most-copied-so-snippet.html
 Comments URL: https://news.ycombinator.com/item?id=27533684
-Points: 308
-# Comments: 148]]></summary>
+Points: 333
+# Comments: 154]]></summary>
         <author>
             <name>vinnyglennon</name>
         </author>
@@ -201,8 +201,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-16T18:51:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wayfinder.nfb.ca/
 Comments URL: https://news.ycombinator.com/item?id=27532068
-Points: 395
-# Comments: 72]]></summary>
+Points: 405
+# Comments: 83]]></summary>
         <author>
             <name>vnglst</name>
         </author>
@@ -214,8 +214,8 @@ Points: 395
         <updated>2021-06-16T18:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fabianlindfors.se/blog/schema-migrations-in-postgres/
 Comments URL: https://news.ycombinator.com/item?id=27531934
-Points: 113
-# Comments: 44]]></summary>
+Points: 116
+# Comments: 45]]></summary>
         <author>
             <name>fabianlindfors</name>
         </author>
@@ -237,8 +237,8 @@ Points: 113
         <updated>2021-06-16T16:27:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.persuasion.community/p/kids-need-freedom-too
 Comments URL: https://news.ycombinator.com/item?id=27530365
-Points: 266
-# Comments: 255]]></summary>
+Points: 276
+# Comments: 264]]></summary>
         <author>
             <name>jseliger</name>
         </author>
@@ -250,7 +250,7 @@ Points: 266
         <updated>2021-06-16T16:05:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mergeboard.com/blog/2-qemu-microvm-docker/
 Comments URL: https://news.ycombinator.com/item?id=27530074
-Points: 141
+Points: 143
 # Comments: 57]]></summary>
         <author>
             <name>DarkPlayer</name>
@@ -263,8 +263,8 @@ Points: 141
         <updated>2021-06-16T15:39:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eprint.iacr.org/2021/819
 Comments URL: https://news.ycombinator.com/item?id=27529768
-Points: 391
-# Comments: 83]]></summary>
+Points: 396
+# Comments: 85]]></summary>
         <author>
             <name>anonymfus</name>
         </author>
@@ -276,8 +276,8 @@ Points: 391
         <updated>2021-06-16T15:35:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://andysalerno.com/posts/weird-emojis/
 Comments URL: https://news.ycombinator.com/item?id=27529697
-Points: 195
-# Comments: 45]]></summary>
+Points: 208
+# Comments: 51]]></summary>
         <author>
             <name>soopurman</name>
         </author>
@@ -289,8 +289,8 @@ Points: 195
         <updated>2021-06-16T14:41:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/
 Comments URL: https://news.ycombinator.com/item?id=27529049
-Points: 190
-# Comments: 111]]></summary>
+Points: 195
+# Comments: 116]]></summary>
         <author>
             <name>wyldfire</name>
         </author>
@@ -326,23 +326,10 @@ They look easy to implement (just a POST request), but they come with a variety 
         <updated>2021-06-16T12:05:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html
 Comments URL: https://news.ycombinator.com/item?id=27527559
-Points: 824
-# Comments: 350]]></summary>
+Points: 831
+# Comments: 352]]></summary>
         <author>
             <name>n1000</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo’s quest to prove online privacy is possible]]></title>
-        <id>https://news.ycombinator.com/item?id=27527391</id>
-        <link href="https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/"/>
-        <updated>2021-06-16T11:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/
-Comments URL: https://news.ycombinator.com/item?id=27527391
-Points: 195
-# Comments: 118]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
@@ -352,10 +339,23 @@ Points: 195
         <updated>2021-06-16T10:52:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/kermitt2/grobid
 Comments URL: https://news.ycombinator.com/item?id=27527028
-Points: 49
+Points: 50
 # Comments: 7]]></summary>
         <author>
             <name>polm23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happened in the impact crater the day it did in the dinos (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27526936</id>
+        <link href="https://arstechnica.com/science/2019/09/heres-what-happened-in-the-impact-crater-the-day-it-did-in-the-dinos/"/>
+        <updated>2021-06-16T10:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2019/09/heres-what-happened-in-the-impact-crater-the-day-it-did-in-the-dinos/
+Comments URL: https://news.ycombinator.com/item?id=27526936
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>Tomte</name>
         </author>
     </entry>
     <entry>
