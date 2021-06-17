@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T23:12:08.580Z</updated>
+    <updated>2021-06-17T00:36:36.414Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stripe Terminal]]></title>
+        <id>https://news.ycombinator.com/item?id=27534884</id>
+        <link href="https://stripe.com/terminal"/>
+        <updated>2021-06-17T00:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stripe.com/terminal
+Comments URL: https://news.ycombinator.com/item?id=27534884
+Points: 19
+# Comments: 7]]></summary>
+        <author>
+            <name>dominicwhyte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[National Parks Are Overcrowded and Closing Their Gates]]></title>
+        <id>https://news.ycombinator.com/item?id=27534751</id>
+        <link href="https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002"/>
+        <updated>2021-06-16T23:42:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002
+Comments URL: https://news.ycombinator.com/item?id=27534751
+Points: 20
+# Comments: 27]]></summary>
+        <author>
+            <name>prostoalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Representing SHA-256 Hashes as Avatars]]></title>
+        <id>https://news.ycombinator.com/item?id=27534379</id>
+        <link href="https://francoisbest.com/posts/2021/hashvatars"/>
+        <updated>2021-06-16T22:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://francoisbest.com/posts/2021/hashvatars
+Comments URL: https://news.ycombinator.com/item?id=27534379
+Points: 22
+# Comments: 4]]></summary>
+        <author>
+            <name>flurly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Boost Self Esteem and Stop Procrastinating]]></title>
+        <id>https://news.ycombinator.com/item?id=27533988</id>
+        <link href="https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination"/>
+        <updated>2021-06-16T22:05:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination
+Comments URL: https://news.ycombinator.com/item?id=27533988
+Points: 32
+# Comments: 7]]></summary>
+        <author>
+            <name>CommitLock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4-day workweek boosted workers' productivity by 40%, Microsoft Japan says]]></title>
         <id>https://news.ycombinator.com/item?id=27533755</id>
@@ -13,8 +65,8 @@
         <updated>2021-06-16T21:36:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40
 Comments URL: https://news.ycombinator.com/item?id=27533755
-Points: 92
-# Comments: 28]]></summary>
+Points: 173
+# Comments: 59]]></summary>
         <author>
             <name>evo_9</name>
         </author>
@@ -26,10 +78,23 @@ Points: 92
         <updated>2021-06-16T21:27:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://programming.guide/worlds-most-copied-so-snippet.html
 Comments URL: https://news.ycombinator.com/item?id=27533684
-Points: 139
-# Comments: 55]]></summary>
+Points: 220
+# Comments: 108]]></summary>
         <author>
             <name>vinnyglennon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: StarQueue – a free hosted HTTP message queue with a Postgres back end]]></title>
+        <id>https://news.ycombinator.com/item?id=27533620</id>
+        <link href="https://www.starqueue.org/"/>
+        <updated>2021-06-16T21:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.starqueue.org/
+Comments URL: https://news.ycombinator.com/item?id=27533620
+Points: 5
+# Comments: 1]]></summary>
+        <author>
+            <name>andrewstuart</name>
         </author>
     </entry>
     <entry>
@@ -98,8 +163,8 @@ Points: 1
         <updated>2021-06-16T20:54:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/turbot/steampipe-mod-aws-compliance
 Comments URL: https://news.ycombinator.com/item?id=27533347
-Points: 12
-# Comments: 0]]></summary>
+Points: 24
+# Comments: 2]]></summary>
         <author>
             <name>dboeke</name>
         </author>
@@ -111,36 +176,10 @@ Points: 12
         <updated>2021-06-16T20:49:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/
 Comments URL: https://news.ycombinator.com/item?id=27533299
-Points: 29
-# Comments: 25]]></summary>
+Points: 41
+# Comments: 32]]></summary>
         <author>
             <name>mattjstar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today we’re eating the winners of the 1948 Chicken of Tomorrow contest]]></title>
-        <id>https://news.ycombinator.com/item?id=27533174</id>
-        <link href="https://modernfarmer.com/2014/05/today-eating-winners-1948-chicken-tomorrow-contest/"/>
-        <updated>2021-06-16T20:35:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://modernfarmer.com/2014/05/today-eating-winners-1948-chicken-tomorrow-contest/
-Comments URL: https://news.ycombinator.com/item?id=27533174
-Points: 79
-# Comments: 69]]></summary>
-        <author>
-            <name>vikrum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook will start putting ads in Oculus Quest apps]]></title>
-        <id>https://news.ycombinator.com/item?id=27532243</id>
-        <link href="https://www.theverge.com/2021/6/16/22535511/facebook-ads-oculus-quest-vr-apps"/>
-        <updated>2021-06-16T19:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/16/22535511/facebook-ads-oculus-quest-vr-apps
-Comments URL: https://news.ycombinator.com/item?id=27532243
-Points: 147
-# Comments: 106]]></summary>
-        <author>
-            <name>marc__1</name>
         </author>
     </entry>
     <entry>
@@ -165,8 +204,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-16T18:51:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wayfinder.nfb.ca/
 Comments URL: https://news.ycombinator.com/item?id=27532068
-Points: 294
-# Comments: 55]]></summary>
+Points: 336
+# Comments: 60]]></summary>
         <author>
             <name>vnglst</name>
         </author>
@@ -178,36 +217,10 @@ Points: 294
         <updated>2021-06-16T18:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fabianlindfors.se/blog/schema-migrations-in-postgres/
 Comments URL: https://news.ycombinator.com/item?id=27531934
-Points: 84
-# Comments: 38]]></summary>
+Points: 95
+# Comments: 40]]></summary>
         <author>
             <name>fabianlindfors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sponsored-By Proposal]]></title>
-        <id>https://news.ycombinator.com/item?id=27531628</id>
-        <link href="https://blog.liw.fi/posts/2021/05/26/sponsored-by/"/>
-        <updated>2021-06-16T18:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.liw.fi/posts/2021/05/26/sponsored-by/
-Comments URL: https://news.ycombinator.com/item?id=27531628
-Points: 32
-# Comments: 8]]></summary>
-        <author>
-            <name>edward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mu's Neighborhood]]></title>
-        <id>https://news.ycombinator.com/item?id=27531610</id>
-        <link href="http://akkartik.name/post/neighborhood"/>
-        <updated>2021-06-16T18:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://akkartik.name/post/neighborhood
-Comments URL: https://news.ycombinator.com/item?id=27531610
-Points: 45
-# Comments: 1]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -217,8 +230,8 @@ Points: 45
         <updated>2021-06-16T17:49:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/06/inside-transistorized-shift-register.html
 Comments URL: https://news.ycombinator.com/item?id=27531379
-Points: 64
-# Comments: 22]]></summary>
+Points: 67
+# Comments: 25]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -240,8 +253,8 @@ Points: 64
         <updated>2021-06-16T16:27:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.persuasion.community/p/kids-need-freedom-too
 Comments URL: https://news.ycombinator.com/item?id=27530365
-Points: 212
-# Comments: 217]]></summary>
+Points: 238
+# Comments: 232]]></summary>
         <author>
             <name>jseliger</name>
         </author>
@@ -253,8 +266,8 @@ Points: 212
         <updated>2021-06-16T16:05:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mergeboard.com/blog/2-qemu-microvm-docker/
 Comments URL: https://news.ycombinator.com/item?id=27530074
-Points: 124
-# Comments: 49]]></summary>
+Points: 132
+# Comments: 55]]></summary>
         <author>
             <name>DarkPlayer</name>
         </author>
@@ -266,8 +279,8 @@ Points: 124
         <updated>2021-06-16T15:39:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eprint.iacr.org/2021/819
 Comments URL: https://news.ycombinator.com/item?id=27529768
-Points: 353
-# Comments: 74]]></summary>
+Points: 373
+# Comments: 78]]></summary>
         <author>
             <name>anonymfus</name>
         </author>
@@ -279,8 +292,8 @@ Points: 353
         <updated>2021-06-16T15:35:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://andysalerno.com/posts/weird-emojis/
 Comments URL: https://news.ycombinator.com/item?id=27529697
-Points: 94
-# Comments: 18]]></summary>
+Points: 143
+# Comments: 33]]></summary>
         <author>
             <name>soopurman</name>
         </author>
@@ -292,8 +305,8 @@ Points: 94
         <updated>2021-06-16T14:47:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/
 Comments URL: https://news.ycombinator.com/item?id=27529119
-Points: 239
-# Comments: 186]]></summary>
+Points: 248
+# Comments: 194]]></summary>
         <author>
             <name>ruaraidh</name>
         </author>
@@ -305,8 +318,8 @@ Points: 239
         <updated>2021-06-16T14:41:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/
 Comments URL: https://news.ycombinator.com/item?id=27529049
-Points: 171
-# Comments: 90]]></summary>
+Points: 182
+# Comments: 104]]></summary>
         <author>
             <name>wyldfire</name>
         </author>
@@ -333,19 +346,6 @@ Webhooks are how servers notify each other of events, so they are a key componen
 They look easy to implement (just a POST request), but they come with a variety of challenges. For example, customer endpoints fail or hang much more often than you would think, so you would need to implement retries. You need to make sure such failures don't clog your send queue or the rest of your system. The webhook system is an additional system separate from your normal web server that needs to be sc…]]></summary>
         <author>
             <name>tasn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking Like Transformers]]></title>
-        <id>https://news.ycombinator.com/item?id=27528004</id>
-        <link href="https://arxiv.org/abs/2106.06981"/>
-        <updated>2021-06-16T12:59:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.06981
-Comments URL: https://news.ycombinator.com/item?id=27528004
-Points: 142
-# Comments: 39]]></summary>
-        <author>
-            <name>ArtWomb</name>
         </author>
     </entry>
     <entry>
