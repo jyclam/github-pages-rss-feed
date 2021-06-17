@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T00:36:36.414Z</updated>
+    <updated>2021-06-17T01:57:05.664Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox]]></title>
+        <id>60c88bbc4dc1a607ed7b2ffa</id>
+        <link href="https://www.freecodecamp.org/news/what-are-bookmarklets/"/>
+        <updated>2021-06-17T00:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stripe Terminal]]></title>
         <id>https://news.ycombinator.com/item?id=27534884</id>
@@ -13,23 +23,23 @@
         <updated>2021-06-17T00:06:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stripe.com/terminal
 Comments URL: https://news.ycombinator.com/item?id=27534884
-Points: 19
-# Comments: 7]]></summary>
+Points: 59
+# Comments: 21]]></summary>
         <author>
             <name>dominicwhyte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[National Parks Are Overcrowded and Closing Their Gates]]></title>
-        <id>https://news.ycombinator.com/item?id=27534751</id>
-        <link href="https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002"/>
-        <updated>2021-06-16T23:42:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/national-parks-are-overcrowded-and-closing-their-gates-11623582002
-Comments URL: https://news.ycombinator.com/item?id=27534751
-Points: 20
-# Comments: 27]]></summary>
+        <title type="html"><![CDATA[A bare metal physical implementation of WASM. That's right, a WebAssembly CPU]]></title>
+        <id>https://news.ycombinator.com/item?id=27534572</id>
+        <link href="https://github.com/lastmjs/wasm-metal"/>
+        <updated>2021-06-16T23:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/lastmjs/wasm-metal
+Comments URL: https://news.ycombinator.com/item?id=27534572
+Points: 14
+# Comments: 1]]></summary>
         <author>
-            <name>prostoalex</name>
+            <name>Kinrany</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +49,8 @@ Points: 20
         <updated>2021-06-16T22:50:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://francoisbest.com/posts/2021/hashvatars
 Comments URL: https://news.ycombinator.com/item?id=27534379
-Points: 22
-# Comments: 4]]></summary>
+Points: 38
+# Comments: 13]]></summary>
         <author>
             <name>flurly</name>
         </author>
@@ -52,8 +62,8 @@ Points: 22
         <updated>2021-06-16T22:05:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination
 Comments URL: https://news.ycombinator.com/item?id=27533988
-Points: 32
-# Comments: 7]]></summary>
+Points: 50
+# Comments: 28]]></summary>
         <author>
             <name>CommitLock</name>
         </author>
@@ -65,8 +75,8 @@ Points: 32
         <updated>2021-06-16T21:36:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40
 Comments URL: https://news.ycombinator.com/item?id=27533755
-Points: 173
-# Comments: 59]]></summary>
+Points: 218
+# Comments: 76]]></summary>
         <author>
             <name>evo_9</name>
         </author>
@@ -78,8 +88,8 @@ Points: 173
         <updated>2021-06-16T21:27:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://programming.guide/worlds-most-copied-so-snippet.html
 Comments URL: https://news.ycombinator.com/item?id=27533684
-Points: 220
-# Comments: 108]]></summary>
+Points: 284
+# Comments: 136]]></summary>
         <author>
             <name>vinnyglennon</name>
         </author>
@@ -91,8 +101,8 @@ Points: 220
         <updated>2021-06-16T21:19:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.starqueue.org/
 Comments URL: https://news.ycombinator.com/item?id=27533620
-Points: 5
-# Comments: 1]]></summary>
+Points: 14
+# Comments: 9]]></summary>
         <author>
             <name>andrewstuart</name>
         </author>
@@ -163,8 +173,8 @@ Points: 1
         <updated>2021-06-16T20:54:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/turbot/steampipe-mod-aws-compliance
 Comments URL: https://news.ycombinator.com/item?id=27533347
-Points: 24
-# Comments: 2]]></summary>
+Points: 32
+# Comments: 5]]></summary>
         <author>
             <name>dboeke</name>
         </author>
@@ -176,8 +186,8 @@ Points: 24
         <updated>2021-06-16T20:49:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/
 Comments URL: https://news.ycombinator.com/item?id=27533299
-Points: 41
-# Comments: 32]]></summary>
+Points: 48
+# Comments: 36]]></summary>
         <author>
             <name>mattjstar</name>
         </author>
@@ -204,8 +214,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-16T18:51:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wayfinder.nfb.ca/
 Comments URL: https://news.ycombinator.com/item?id=27532068
-Points: 336
-# Comments: 60]]></summary>
+Points: 376
+# Comments: 68]]></summary>
         <author>
             <name>vnglst</name>
         </author>
@@ -217,23 +227,10 @@ Points: 336
         <updated>2021-06-16T18:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fabianlindfors.se/blog/schema-migrations-in-postgres/
 Comments URL: https://news.ycombinator.com/item?id=27531934
-Points: 95
-# Comments: 40]]></summary>
+Points: 107
+# Comments: 43]]></summary>
         <author>
             <name>fabianlindfors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A transistorized shift register box, built in 1965 for Apollo testing]]></title>
-        <id>https://news.ycombinator.com/item?id=27531379</id>
-        <link href="https://www.righto.com/2021/06/inside-transistorized-shift-register.html"/>
-        <updated>2021-06-16T17:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/06/inside-transistorized-shift-register.html
-Comments URL: https://news.ycombinator.com/item?id=27531379
-Points: 67
-# Comments: 25]]></summary>
-        <author>
-            <name>parsecs</name>
         </author>
     </entry>
     <entry>
@@ -253,8 +250,8 @@ Points: 67
         <updated>2021-06-16T16:27:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.persuasion.community/p/kids-need-freedom-too
 Comments URL: https://news.ycombinator.com/item?id=27530365
-Points: 238
-# Comments: 232]]></summary>
+Points: 255
+# Comments: 249]]></summary>
         <author>
             <name>jseliger</name>
         </author>
@@ -266,8 +263,8 @@ Points: 238
         <updated>2021-06-16T16:05:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mergeboard.com/blog/2-qemu-microvm-docker/
 Comments URL: https://news.ycombinator.com/item?id=27530074
-Points: 132
-# Comments: 55]]></summary>
+Points: 138
+# Comments: 56]]></summary>
         <author>
             <name>DarkPlayer</name>
         </author>
@@ -279,8 +276,8 @@ Points: 132
         <updated>2021-06-16T15:39:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eprint.iacr.org/2021/819
 Comments URL: https://news.ycombinator.com/item?id=27529768
-Points: 373
-# Comments: 78]]></summary>
+Points: 384
+# Comments: 81]]></summary>
         <author>
             <name>anonymfus</name>
         </author>
@@ -292,23 +289,10 @@ Points: 373
         <updated>2021-06-16T15:35:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://andysalerno.com/posts/weird-emojis/
 Comments URL: https://news.ycombinator.com/item?id=27529697
-Points: 143
-# Comments: 33]]></summary>
+Points: 180
+# Comments: 41]]></summary>
         <author>
             <name>soopurman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you think psychological science is bad, imagine how bad it was in 1999]]></title>
-        <id>https://news.ycombinator.com/item?id=27529119</id>
-        <link href="https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/"/>
-        <updated>2021-06-16T14:47:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/
-Comments URL: https://news.ycombinator.com/item?id=27529119
-Points: 248
-# Comments: 194]]></summary>
-        <author>
-            <name>ruaraidh</name>
         </author>
     </entry>
     <entry>
@@ -318,8 +302,8 @@ Points: 248
         <updated>2021-06-16T14:41:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/
 Comments URL: https://news.ycombinator.com/item?id=27529049
-Points: 182
-# Comments: 104]]></summary>
+Points: 187
+# Comments: 109]]></summary>
         <author>
             <name>wyldfire</name>
         </author>
@@ -346,6 +330,32 @@ Webhooks are how servers notify each other of events, so they are a key componen
 They look easy to implement (just a POST request), but they come with a variety of challenges. For example, customer endpoints fail or hang much more often than you would think, so you would need to implement retries. You need to make sure such failures don't clog your send queue or the rest of your system. The webhook system is an additional system separate from your normal web server that needs to be sc…]]></summary>
         <author>
             <name>tasn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's iCloud+ “VPN”]]></title>
+        <id>https://news.ycombinator.com/item?id=27527559</id>
+        <link href="https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html"/>
+        <updated>2021-06-16T12:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html
+Comments URL: https://news.ycombinator.com/item?id=27527559
+Points: 815
+# Comments: 344]]></summary>
+        <author>
+            <name>n1000</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo’s quest to prove online privacy is possible]]></title>
+        <id>https://news.ycombinator.com/item?id=27527391</id>
+        <link href="https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/"/>
+        <updated>2021-06-16T11:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/
+Comments URL: https://news.ycombinator.com/item?id=27527391
+Points: 190
+# Comments: 115]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
@@ -430,16 +440,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/"/>
         <updated>2021-06-15T17:43:43.000Z</updated>
         <summary type="html"><![CDATA[Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Open Any Repo in VS Code Without Cloning It]]></title>
-        <id>60b7cb6aacb62507dd1d7c1a</id>
-        <link href="https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/"/>
-        <updated>2021-06-15T16:06:54.000Z</updated>
-        <summary type="html"><![CDATA[You can now open anything (that you have access to) on GitHub directly from VS Code.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
