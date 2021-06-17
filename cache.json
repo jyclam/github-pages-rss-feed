@@ -6,36 +6,81 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27541809",
+          "author": "sekay",
+          "description": "Article URL: https://www.ycombinator.com/companies/prophone/jobs/oYuOf4R-senior-backend-software-engineer\nComments URL: https://news.ycombinator.com/item?id=27541809\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/prophone/jobs/oYuOf4R-senior-backend-software-engineer",
+          "publishedOn": "2021-06-17T17:00:30.000Z",
+          "wordCount": 517,
+          "title": "ProPhone (YC W21) Is Hiring"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27541642",
+          "author": "x14km2d",
+          "description": "Article URL: https://unixsheikh.com/articles/stay-away-from-cloudflare.html\nComments URL: https://news.ycombinator.com/item?id=27541642\nPoints: 19\n# Comments: 1",
+          "link": "https://unixsheikh.com/articles/stay-away-from-cloudflare.html",
+          "publishedOn": "2021-06-17T16:47:31.000Z",
+          "wordCount": 1696,
+          "title": "Stay Away from Cloudflare"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27541614",
+          "author": "WaitWaitWha",
+          "description": "Article URL: https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/\nComments URL: https://news.ycombinator.com/item?id=27541614\nPoints: 39\n# Comments: 19",
+          "link": "https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/",
+          "publishedOn": "2021-06-17T16:44:14.000Z",
+          "wordCount": 662,
+          "title": "Amazon will reduce dev. revenue cut from 30% to 20% and give 10% in AWS Credit"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27541453",
+          "author": "hugofirth",
+          "description": "Article URL: https://neo4j.com/press-releases/neo4j-announces-seriesf-funding/\nComments URL: https://news.ycombinator.com/item?id=27541453\nPoints: 35\n# Comments: 0",
+          "link": "https://neo4j.com/press-releases/neo4j-announces-seriesf-funding/",
+          "publishedOn": "2021-06-17T16:29:52.000Z",
+          "wordCount": 1754,
+          "title": "Neo4j raises $325M series F"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27541339",
+          "author": "mitchum_",
+          "description": "Article URL: https://gentlydownthe.stream/\nComments URL: https://news.ycombinator.com/item?id=27541339\nPoints: 28\n# Comments: 5",
+          "link": "https://gentlydownthe.stream/",
+          "publishedOn": "2021-06-17T16:19:01.000Z",
+          "wordCount": 94,
+          "title": "I wrote a children's book / illustrated guide to Apache Kafka"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27541213",
           "author": "chrislo",
-          "description": "Article URL: https://www.w3.org/blog/news/archives/9093\nComments URL: https://news.ycombinator.com/item?id=27541213\nPoints: 4\n# Comments: 0",
+          "description": "Article URL: https://www.w3.org/blog/news/archives/9093\nComments URL: https://news.ycombinator.com/item?id=27541213\nPoints: 46\n# Comments: 13",
           "link": "https://www.w3.org/blog/news/archives/9093",
           "publishedOn": "2021-06-17T16:10:38.000Z",
           "wordCount": 1005,
           "title": "Web Audio API Is a W3C Recommendation"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27541041",
+          "author": "craigkerstiens",
+          "description": "Article URL: https://blog.timescale.com/blog/how-and-why-to-become-a-postgresql-contributor/\nComments URL: https://news.ycombinator.com/item?id=27541041\nPoints: 5\n# Comments: 0",
+          "link": "https://blog.timescale.com/blog/how-and-why-to-become-a-postgresql-contributor/",
+          "publishedOn": "2021-06-17T15:57:06.000Z",
+          "wordCount": 3238,
+          "title": "How and why to become a PostgreSQL contributor"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27540560",
           "author": "bjacokes",
-          "description": "Article URL: https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql\nComments URL: https://news.ycombinator.com/item?id=27540560\nPoints: 12\n# Comments: 1",
+          "description": "Article URL: https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql\nComments URL: https://news.ycombinator.com/item?id=27540560\nPoints: 29\n# Comments: 5",
           "link": "https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql",
           "publishedOn": "2021-06-17T15:20:17.000Z",
           "wordCount": 2334,
           "title": "Exploring performance differences between Amazon Aurora and vanilla MySQL"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27540471",
-          "author": "corentin88",
-          "description": "Article URL: https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/\nComments URL: https://news.ycombinator.com/item?id=27540471\nPoints: 33\n# Comments: 33",
-          "link": "https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/",
-          "publishedOn": "2021-06-17T15:14:42.000Z",
-          "wordCount": 1339,
-          "title": "Notion pulled itself back from the brink of failure (2019)"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27540248",
           "author": "ot",
-          "description": "Article URL: https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/\nComments URL: https://news.ycombinator.com/item?id=27540248\nPoints: 68\n# Comments: 19",
+          "description": "Article URL: https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/\nComments URL: https://news.ycombinator.com/item?id=27540248\nPoints: 123\n# Comments: 37",
           "link": "https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/",
           "publishedOn": "2021-06-17T14:56:43.000Z",
           "wordCount": 1164,
@@ -44,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27540117",
           "author": "bilalhusain",
-          "description": "Article URL: https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html\nComments URL: https://news.ycombinator.com/item?id=27540117\nPoints: 90\n# Comments: 18",
+          "description": "Article URL: https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html\nComments URL: https://news.ycombinator.com/item?id=27540117\nPoints: 127\n# Comments: 39",
           "link": "https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html",
           "publishedOn": "2021-06-17T14:44:23.000Z",
           "wordCount": 688,
@@ -53,34 +98,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27539987",
           "author": "hanoz",
-          "description": "Article URL: https://www.bbc.co.uk/news/science-environment-57512229\nComments URL: https://news.ycombinator.com/item?id=27539987\nPoints: 58\n# Comments: 64",
+          "description": "Article URL: https://www.bbc.co.uk/news/science-environment-57512229\nComments URL: https://news.ycombinator.com/item?id=27539987\nPoints: 76\n# Comments: 94",
           "link": "https://www.bbc.co.uk/news/science-environment-57512229",
           "publishedOn": "2021-06-17T14:33:21.000Z",
-          "wordCount": 1245,
+          "wordCount": 1267,
           "title": "Nuclear energy: Fusion plant backed by Jeff Bezos to be built in UK"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27539834",
           "author": "todsacerdoti",
-          "description": "Article URL: https://github.com/cariboulabs/cariboulite\nComments URL: https://news.ycombinator.com/item?id=27539834\nPoints: 64\n# Comments: 11",
+          "description": "Article URL: https://github.com/cariboulabs/cariboulite\nComments URL: https://news.ycombinator.com/item?id=27539834\nPoints: 89\n# Comments: 25",
           "link": "https://github.com/cariboulabs/cariboulite",
           "publishedOn": "2021-06-17T14:19:00.000Z",
           "wordCount": 1235,
           "title": "Cariboulabs/cariboulite – turn any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27539725",
-          "author": "clouddrover",
-          "description": "Article URL: https://www.thedrive.com/tech/41123/wild-looking-open-rotor-engine-could-cut-airliner-emissions-by-a-massive-20-percent\nComments URL: https://news.ycombinator.com/item?id=27539725\nPoints: 27\n# Comments: 9",
-          "link": "https://www.thedrive.com/tech/41123/wild-looking-open-rotor-engine-could-cut-airliner-emissions-by-a-massive-20-percent",
-          "publishedOn": "2021-06-17T14:08:34.000Z",
-          "wordCount": 837,
-          "title": "Wild-Looking ‘Open Rotor’ Engine Could Cut Airliner Emissions by a Massive 20%"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27539374",
           "author": "Tomte",
-          "description": "Article URL: https://www.w3.org/Amaya/\nComments URL: https://news.ycombinator.com/item?id=27539374\nPoints: 30\n# Comments: 9",
+          "description": "Article URL: https://www.w3.org/Amaya/\nComments URL: https://news.ycombinator.com/item?id=27539374\nPoints: 37\n# Comments: 14",
           "link": "https://www.w3.org/Amaya/",
           "publishedOn": "2021-06-17T13:32:06.000Z",
           "wordCount": 516,
@@ -89,16 +125,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27539368",
           "author": "parsimoniousplb",
-          "description": "Article URL: https://irony-97882.medium.com/the-melting-of-iron-89469b01e083\nComments URL: https://news.ycombinator.com/item?id=27539368\nPoints: 71\n# Comments: 67",
+          "description": "Article URL: https://irony-97882.medium.com/the-melting-of-iron-89469b01e083\nComments URL: https://news.ycombinator.com/item?id=27539368\nPoints: 105\n# Comments: 107",
           "link": "https://irony-97882.medium.com/the-melting-of-iron-89469b01e083",
           "publishedOn": "2021-06-17T13:31:40.000Z",
           "wordCount": 1737,
-          "title": "Off-by-one error locks collateral after billon dollar stablecoin collapse"
+          "title": "The collapse of the IRON stable coin"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27539342",
           "author": "elsewhen",
-          "description": "Article URL: https://rafaelquintanilha.com/how-to-become-a-bad-developer/\nComments URL: https://news.ycombinator.com/item?id=27539342\nPoints: 133\n# Comments: 99",
+          "description": "Article URL: https://rafaelquintanilha.com/how-to-become-a-bad-developer/\nComments URL: https://news.ycombinator.com/item?id=27539342\nPoints: 158\n# Comments: 124",
           "link": "https://rafaelquintanilha.com/how-to-become-a-bad-developer/",
           "publishedOn": "2021-06-17T13:29:26.000Z",
           "wordCount": 1355,
@@ -107,16 +143,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27539219",
           "author": "truth_",
-          "description": "Article URL: https://restofworld.org/2021/argentina-netbooks-music/\nComments URL: https://news.ycombinator.com/item?id=27539219\nPoints: 79\n# Comments: 33",
+          "description": "Article URL: https://restofworld.org/2021/argentina-netbooks-music/\nComments URL: https://news.ycombinator.com/item?id=27539219\nPoints: 112\n# Comments: 36",
           "link": "https://restofworld.org/2021/argentina-netbooks-music/",
           "publishedOn": "2021-06-17T13:14:24.000Z",
-          "wordCount": 2156,
+          "wordCount": 2155,
           "title": "In Argentina, cheap government-issued netbooks sparked a musical Renaissance"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27539165",
           "author": "maxwell",
-          "description": "Article URL: https://startyourownisp.com/\nComments URL: https://news.ycombinator.com/item?id=27539165\nPoints: 130\n# Comments: 40",
+          "description": "Article URL: https://startyourownisp.com/\nComments URL: https://news.ycombinator.com/item?id=27539165\nPoints: 190\n# Comments: 60",
           "link": "https://startyourownisp.com/",
           "publishedOn": "2021-06-17T13:07:46.000Z",
           "wordCount": 633,
@@ -125,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27538919",
           "author": "todsacerdoti",
-          "description": "Article URL: https://gleam.run/news/v0.16-gleam-compiles-to-javascript/\nComments URL: https://news.ycombinator.com/item?id=27538919\nPoints: 90\n# Comments: 15",
+          "description": "Article URL: https://gleam.run/news/v0.16-gleam-compiles-to-javascript/\nComments URL: https://news.ycombinator.com/item?id=27538919\nPoints: 103\n# Comments: 15",
           "link": "https://gleam.run/news/v0.16-gleam-compiles-to-javascript/",
           "publishedOn": "2021-06-17T12:38:59.000Z",
           "wordCount": 1946,
@@ -134,56 +170,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27538804",
           "author": "samizdis",
-          "description": "Article URL: https://arstechnica.com/tech-policy/2021/06/ohio-republicans-close-to-imposing-near-total-ban-on-municipal-broadband/\nComments URL: https://news.ycombinator.com/item?id=27538804\nPoints: 374\n# Comments: 225",
+          "description": "Article URL: https://arstechnica.com/tech-policy/2021/06/ohio-republicans-close-to-imposing-near-total-ban-on-municipal-broadband/\nComments URL: https://news.ycombinator.com/item?id=27538804\nPoints: 432\n# Comments: 277",
           "link": "https://arstechnica.com/tech-policy/2021/06/ohio-republicans-close-to-imposing-near-total-ban-on-municipal-broadband/",
           "publishedOn": "2021-06-17T12:21:14.000Z",
           "wordCount": 1983,
           "title": "Ohio Republicans close to imposing near-total ban on municipal broadband"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27538634",
-          "author": "joshuarcher",
-          "description": "Article URL: https://www.ycombinator.com/companies/sutra/jobs/Y3rBCiZ-react-native-engineer\nComments URL: https://news.ycombinator.com/item?id=27538634\nPoints: 1\n# Comments: 0",
-          "link": "https://www.ycombinator.com/companies/sutra/jobs/Y3rBCiZ-react-native-engineer",
-          "publishedOn": "2021-06-17T12:00:08.000Z",
-          "wordCount": 346,
-          "title": "Sutra Fitness (YC S20) Is Hiring React Native and Full-Stack Engineers"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27538477",
           "author": "nnx",
-          "description": "Article URL: https://nautil.us/issue/102/hidden-truths/is-the-universe-open_ended\nComments URL: https://news.ycombinator.com/item?id=27538477\nPoints: 31\n# Comments: 30",
+          "description": "Article URL: https://nautil.us/issue/102/hidden-truths/is-the-universe-open_ended\nComments URL: https://news.ycombinator.com/item?id=27538477\nPoints: 35\n# Comments: 31",
           "link": "https://nautil.us/issue/102/hidden-truths/is-the-universe-open_ended",
           "publishedOn": "2021-06-17T11:34:52.000Z",
-          "wordCount": 2798,
+          "wordCount": 2820,
           "title": "Is the Universe Open-Ended? An intriguing proposal about what makes reality tick"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27538095",
-          "author": "vivekraju93",
-          "description": "Article URL: https://www.simplanations.in/p/ipo-1\nComments URL: https://news.ycombinator.com/item?id=27538095\nPoints: 184\n# Comments: 12",
-          "link": "https://www.simplanations.in/p/ipo-1",
-          "publishedOn": "2021-06-17T10:25:59.000Z",
-          "wordCount": 5180,
-          "title": "What happens in an IPO? – A beginner's guide"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27537996",
-          "author": "shivbhatt",
-          "description": "Article URL: https://www.reuters.com/technology/virtual-reality-ads-make-their-way-facebooks-oculus-headsets-2021-06-16/\nComments URL: https://news.ycombinator.com/item?id=27537996\nPoints: 104\n# Comments: 121",
-          "link": "https://www.reuters.com/technology/virtual-reality-ads-make-their-way-facebooks-oculus-headsets-2021-06-16/",
-          "publishedOn": "2021-06-17T10:08:42.000Z",
-          "wordCount": 524,
-          "title": "Virtual reality ads make their way to Facebook's Oculus headsets"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27537913",
-          "author": "tosh",
-          "description": "Article URL: https://dl.acm.org/doi/10.1145/3386335\nComments URL: https://news.ycombinator.com/item?id=27537913\nPoints: 93\n# Comments: 31",
-          "link": "https://dl.acm.org/doi/10.1145/3386335",
-          "publishedOn": "2021-06-17T09:54:01.000Z",
-          "wordCount": 148,
-          "title": "The evolution of Smalltalk: from Smalltalk-72 through Squeak (2020)"
         }
       ]
     },
@@ -437,7 +437,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4104,
+          "wordCount": 4099,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -479,7 +479,7 @@
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
           "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3667,
+          "wordCount": 3669,
           "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
@@ -493,7 +493,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1735,
+          "wordCount": 1737,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -507,7 +507,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5149,
+          "wordCount": 5146,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -521,7 +521,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 867,
+          "wordCount": 864,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -577,7 +577,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4405,
+          "wordCount": 4407,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -591,7 +591,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3673,
+          "wordCount": 3716,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -619,7 +619,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5608,
+          "wordCount": 5648,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -661,7 +661,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2769,
+          "wordCount": 2721,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -675,7 +675,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10606,
+          "wordCount": 10552,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -689,7 +689,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 4047,
+          "wordCount": 4006,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -717,7 +717,7 @@
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
           "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1749,
+          "wordCount": 1747,
           "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
@@ -731,7 +731,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2333,
+          "wordCount": 2322,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -773,7 +773,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9746,
+          "wordCount": 9748,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -801,7 +801,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 2196,
+          "wordCount": 2144,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -815,7 +815,7 @@
           "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 5305,
+          "wordCount": 5307,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7c233470-63c3-4557-93c0-a8cc6709b6dd/13-mega-dropdown-hover-menus.png",

@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T16:22:23.879Z</updated>
+    <updated>2021-06-17T17:29:17.621Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ProPhone (YC W21) Is Hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=27541809</id>
+        <link href="https://www.ycombinator.com/companies/prophone/jobs/oYuOf4R-senior-backend-software-engineer"/>
+        <updated>2021-06-17T17:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/prophone/jobs/oYuOf4R-senior-backend-software-engineer
+Comments URL: https://news.ycombinator.com/item?id=27541809
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>sekay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay Away from Cloudflare]]></title>
+        <id>https://news.ycombinator.com/item?id=27541642</id>
+        <link href="https://unixsheikh.com/articles/stay-away-from-cloudflare.html"/>
+        <updated>2021-06-17T16:47:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unixsheikh.com/articles/stay-away-from-cloudflare.html
+Comments URL: https://news.ycombinator.com/item?id=27541642
+Points: 19
+# Comments: 1]]></summary>
+        <author>
+            <name>x14km2d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon will reduce dev. revenue cut from 30% to 20% and give 10% in AWS Credit]]></title>
+        <id>https://news.ycombinator.com/item?id=27541614</id>
+        <link href="https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/"/>
+        <updated>2021-06-17T16:44:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/
+Comments URL: https://news.ycombinator.com/item?id=27541614
+Points: 39
+# Comments: 19]]></summary>
+        <author>
+            <name>WaitWaitWha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neo4j raises $325M series F]]></title>
+        <id>https://news.ycombinator.com/item?id=27541453</id>
+        <link href="https://neo4j.com/press-releases/neo4j-announces-seriesf-funding/"/>
+        <updated>2021-06-17T16:29:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neo4j.com/press-releases/neo4j-announces-seriesf-funding/
+Comments URL: https://news.ycombinator.com/item?id=27541453
+Points: 35
+# Comments: 0]]></summary>
+        <author>
+            <name>hugofirth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I wrote a children's book / illustrated guide to Apache Kafka]]></title>
+        <id>https://news.ycombinator.com/item?id=27541339</id>
+        <link href="https://gentlydownthe.stream/"/>
+        <updated>2021-06-17T16:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gentlydownthe.stream/
+Comments URL: https://news.ycombinator.com/item?id=27541339
+Points: 28
+# Comments: 5]]></summary>
+        <author>
+            <name>mitchum_</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Audio API Is a W3C Recommendation]]></title>
         <id>https://news.ycombinator.com/item?id=27541213</id>
@@ -13,10 +78,23 @@
         <updated>2021-06-17T16:10:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.w3.org/blog/news/archives/9093
 Comments URL: https://news.ycombinator.com/item?id=27541213
-Points: 4
-# Comments: 0]]></summary>
+Points: 46
+# Comments: 13]]></summary>
         <author>
             <name>chrislo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How and why to become a PostgreSQL contributor]]></title>
+        <id>https://news.ycombinator.com/item?id=27541041</id>
+        <link href="https://blog.timescale.com/blog/how-and-why-to-become-a-postgresql-contributor/"/>
+        <updated>2021-06-17T15:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.timescale.com/blog/how-and-why-to-become-a-postgresql-contributor/
+Comments URL: https://news.ycombinator.com/item?id=27541041
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>craigkerstiens</name>
         </author>
     </entry>
     <entry>
@@ -26,23 +104,10 @@ Points: 4
         <updated>2021-06-17T15:20:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql
 Comments URL: https://news.ycombinator.com/item?id=27540560
-Points: 12
-# Comments: 1]]></summary>
+Points: 29
+# Comments: 5]]></summary>
         <author>
             <name>bjacokes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notion pulled itself back from the brink of failure (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27540471</id>
-        <link href="https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/"/>
-        <updated>2021-06-17T15:14:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/
-Comments URL: https://news.ycombinator.com/item?id=27540471
-Points: 33
-# Comments: 33]]></summary>
-        <author>
-            <name>corentin88</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +117,8 @@ Points: 33
         <updated>2021-06-17T14:56:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/
 Comments URL: https://news.ycombinator.com/item?id=27540248
-Points: 68
-# Comments: 19]]></summary>
+Points: 123
+# Comments: 37]]></summary>
         <author>
             <name>ot</name>
         </author>
@@ -78,8 +143,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-17T14:44:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html
 Comments URL: https://news.ycombinator.com/item?id=27540117
-Points: 90
-# Comments: 18]]></summary>
+Points: 127
+# Comments: 39]]></summary>
         <author>
             <name>bilalhusain</name>
         </author>
@@ -104,8 +169,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-17T14:33:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/science-environment-57512229
 Comments URL: https://news.ycombinator.com/item?id=27539987
-Points: 58
-# Comments: 64]]></summary>
+Points: 76
+# Comments: 94]]></summary>
         <author>
             <name>hanoz</name>
         </author>
@@ -117,23 +182,10 @@ Points: 58
         <updated>2021-06-17T14:19:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cariboulabs/cariboulite
 Comments URL: https://news.ycombinator.com/item?id=27539834
-Points: 64
-# Comments: 11]]></summary>
+Points: 89
+# Comments: 25]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wild-Looking ‘Open Rotor’ Engine Could Cut Airliner Emissions by a Massive 20%]]></title>
-        <id>https://news.ycombinator.com/item?id=27539725</id>
-        <link href="https://www.thedrive.com/tech/41123/wild-looking-open-rotor-engine-could-cut-airliner-emissions-by-a-massive-20-percent"/>
-        <updated>2021-06-17T14:08:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thedrive.com/tech/41123/wild-looking-open-rotor-engine-could-cut-airliner-emissions-by-a-massive-20-percent
-Comments URL: https://news.ycombinator.com/item?id=27539725
-Points: 27
-# Comments: 9]]></summary>
-        <author>
-            <name>clouddrover</name>
         </author>
     </entry>
     <entry>
@@ -143,21 +195,21 @@ Points: 27
         <updated>2021-06-17T13:32:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.w3.org/Amaya/
 Comments URL: https://news.ycombinator.com/item?id=27539374
-Points: 30
-# Comments: 9]]></summary>
+Points: 37
+# Comments: 14]]></summary>
         <author>
             <name>Tomte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Off-by-one error locks collateral after billon dollar stablecoin collapse]]></title>
+        <title type="html"><![CDATA[The collapse of the IRON stable coin]]></title>
         <id>https://news.ycombinator.com/item?id=27539368</id>
         <link href="https://irony-97882.medium.com/the-melting-of-iron-89469b01e083"/>
         <updated>2021-06-17T13:31:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://irony-97882.medium.com/the-melting-of-iron-89469b01e083
 Comments URL: https://news.ycombinator.com/item?id=27539368
-Points: 71
-# Comments: 67]]></summary>
+Points: 105
+# Comments: 107]]></summary>
         <author>
             <name>parsimoniousplb</name>
         </author>
@@ -169,8 +221,8 @@ Points: 71
         <updated>2021-06-17T13:29:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rafaelquintanilha.com/how-to-become-a-bad-developer/
 Comments URL: https://news.ycombinator.com/item?id=27539342
-Points: 133
-# Comments: 99]]></summary>
+Points: 158
+# Comments: 124]]></summary>
         <author>
             <name>elsewhen</name>
         </author>
@@ -182,8 +234,8 @@ Points: 133
         <updated>2021-06-17T13:14:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://restofworld.org/2021/argentina-netbooks-music/
 Comments URL: https://news.ycombinator.com/item?id=27539219
-Points: 79
-# Comments: 33]]></summary>
+Points: 112
+# Comments: 36]]></summary>
         <author>
             <name>truth_</name>
         </author>
@@ -195,8 +247,8 @@ Points: 79
         <updated>2021-06-17T13:07:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://startyourownisp.com/
 Comments URL: https://news.ycombinator.com/item?id=27539165
-Points: 130
-# Comments: 40]]></summary>
+Points: 190
+# Comments: 60]]></summary>
         <author>
             <name>maxwell</name>
         </author>
@@ -208,7 +260,7 @@ Points: 130
         <updated>2021-06-17T12:38:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gleam.run/news/v0.16-gleam-compiles-to-javascript/
 Comments URL: https://news.ycombinator.com/item?id=27538919
-Points: 90
+Points: 103
 # Comments: 15]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -221,8 +273,8 @@ Points: 90
         <updated>2021-06-17T12:21:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/ohio-republicans-close-to-imposing-near-total-ban-on-municipal-broadband/
 Comments URL: https://news.ycombinator.com/item?id=27538804
-Points: 374
-# Comments: 225]]></summary>
+Points: 432
+# Comments: 277]]></summary>
         <author>
             <name>samizdis</name>
         </author>
@@ -238,27 +290,14 @@ Points: 374
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sutra Fitness (YC S20) Is Hiring React Native and Full-Stack Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27538634</id>
-        <link href="https://www.ycombinator.com/companies/sutra/jobs/Y3rBCiZ-react-native-engineer"/>
-        <updated>2021-06-17T12:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/sutra/jobs/Y3rBCiZ-react-native-engineer
-Comments URL: https://news.ycombinator.com/item?id=27538634
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>joshuarcher</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is the Universe Open-Ended? An intriguing proposal about what makes reality tick]]></title>
         <id>https://news.ycombinator.com/item?id=27538477</id>
         <link href="https://nautil.us/issue/102/hidden-truths/is-the-universe-open_ended"/>
         <updated>2021-06-17T11:34:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/102/hidden-truths/is-the-universe-open_ended
 Comments URL: https://news.ycombinator.com/item?id=27538477
-Points: 31
-# Comments: 30]]></summary>
+Points: 35
+# Comments: 31]]></summary>
         <author>
             <name>nnx</name>
         </author>
@@ -271,45 +310,6 @@ Points: 31
         <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happens in an IPO? – A beginner's guide]]></title>
-        <id>https://news.ycombinator.com/item?id=27538095</id>
-        <link href="https://www.simplanations.in/p/ipo-1"/>
-        <updated>2021-06-17T10:25:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.simplanations.in/p/ipo-1
-Comments URL: https://news.ycombinator.com/item?id=27538095
-Points: 184
-# Comments: 12]]></summary>
-        <author>
-            <name>vivekraju93</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual reality ads make their way to Facebook's Oculus headsets]]></title>
-        <id>https://news.ycombinator.com/item?id=27537996</id>
-        <link href="https://www.reuters.com/technology/virtual-reality-ads-make-their-way-facebooks-oculus-headsets-2021-06-16/"/>
-        <updated>2021-06-17T10:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/virtual-reality-ads-make-their-way-facebooks-oculus-headsets-2021-06-16/
-Comments URL: https://news.ycombinator.com/item?id=27537996
-Points: 104
-# Comments: 121]]></summary>
-        <author>
-            <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The evolution of Smalltalk: from Smalltalk-72 through Squeak (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27537913</id>
-        <link href="https://dl.acm.org/doi/10.1145/3386335"/>
-        <updated>2021-06-17T09:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/3386335
-Comments URL: https://news.ycombinator.com/item?id=27537913
-Points: 93
-# Comments: 31]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
