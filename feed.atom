@@ -2,19 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T10:13:18.407Z</updated>
+    <updated>2021-06-17T11:09:31.907Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Cool URIs don't change. (1998)]]></title>
+        <title type="html"><![CDATA[China Launches First Crew to Live on New Space Station]]></title>
+        <id>https://news.ycombinator.com/item?id=27538171</id>
+        <link href="https://www.npr.org/2021/06/17/1007471106/china-launches-first-crew-to-live-on-new-space-station"/>
+        <updated>2021-06-17T10:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/17/1007471106/china-launches-first-crew-to-live-on-new-space-station
+Comments URL: https://news.ycombinator.com/item?id=27538171
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
+        <id>https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/</id>
+        <link href="https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
+        <updated>2021-06-17T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The evolution of Smalltalk: from Smalltalk-72 through Squeak]]></title>
+        <id>https://news.ycombinator.com/item?id=27537913</id>
+        <link href="https://dl.acm.org/doi/10.1145/3386335"/>
+        <updated>2021-06-17T09:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/3386335
+Comments URL: https://news.ycombinator.com/item?id=27537913
+Points: 15
+# Comments: 0]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool URIs don't change (1998)]]></title>
         <id>https://news.ycombinator.com/item?id=27537840</id>
         <link href="https://www.w3.org/Provider/Style/URI.html"/>
         <updated>2021-06-17T09:42:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.w3.org/Provider/Style/URI.html
 Comments URL: https://news.ycombinator.com/item?id=27537840
-Points: 13
-# Comments: 3]]></summary>
+Points: 52
+# Comments: 26]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -26,8 +62,8 @@ Points: 13
         <updated>2021-06-17T09:37:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/Nuitka/Nuitka
 Comments URL: https://news.ycombinator.com/item?id=27537819
-Points: 10
-# Comments: 1]]></summary>
+Points: 76
+# Comments: 9]]></summary>
         <author>
             <name>stunt</name>
         </author>
@@ -39,8 +75,8 @@ Points: 10
         <updated>2021-06-17T09:01:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.albingroen.com/posts/how-i-automated-my-dotfiles-screenshots
 Comments URL: https://news.ycombinator.com/item?id=27537536
-Points: 6
-# Comments: 0]]></summary>
+Points: 11
+# Comments: 2]]></summary>
         <author>
             <name>albingroen</name>
         </author>
@@ -52,8 +88,8 @@ Points: 6
         <updated>2021-06-17T07:46:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/dotnet/core/issues/6381
 Comments URL: https://news.ycombinator.com/item?id=27537112
-Points: 44
-# Comments: 16]]></summary>
+Points: 75
+# Comments: 25]]></summary>
         <author>
             <name>NiekvdMaas</name>
         </author>
@@ -65,8 +101,8 @@ Points: 44
         <updated>2021-06-17T07:33:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.apple.com/forums/thread/681907
 Comments URL: https://news.ycombinator.com/item?id=27537040
-Points: 80
-# Comments: 71]]></summary>
+Points: 106
+# Comments: 104]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -78,8 +114,8 @@ Points: 80
         <updated>2021-06-17T07:20:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html
 Comments URL: https://news.ycombinator.com/item?id=27536974
-Points: 97
-# Comments: 16]]></summary>
+Points: 123
+# Comments: 24]]></summary>
         <author>
             <name>hardmaru</name>
         </author>
@@ -91,8 +127,8 @@ Points: 97
         <updated>2021-06-17T07:01:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://graphcdn.io/blog/announcing-graphcdn
 Comments URL: https://news.ycombinator.com/item?id=27536878
-Points: 100
-# Comments: 49]]></summary>
+Points: 120
+# Comments: 60]]></summary>
         <author>
             <name>mxstbr</name>
         </author>
@@ -104,8 +140,8 @@ Points: 100
         <updated>2021-06-17T04:32:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/
 Comments URL: https://news.ycombinator.com/item?id=27536156
-Points: 38
-# Comments: 14]]></summary>
+Points: 40
+# Comments: 16]]></summary>
         <author>
             <name>fortran77</name>
         </author>
@@ -117,8 +153,8 @@ Points: 38
         <updated>2021-06-17T01:18:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cdsmithus.medium.com/why-i-support-the-haskell-foundation-1ac3cda1f82f
 Comments URL: https://news.ycombinator.com/item?id=27535299
-Points: 70
-# Comments: 16]]></summary>
+Points: 77
+# Comments: 18]]></summary>
         <author>
             <name>cdsmith</name>
         </author>
@@ -134,14 +170,14 @@ Points: 70
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A bare metal physical implementation of WASM. That's right, a WebAssembly CPU]]></title>
+        <title type="html"><![CDATA[A bare metal physical implementation of WASM. That's right, a WebAssembly CPU (2018)]]></title>
         <id>https://news.ycombinator.com/item?id=27534572</id>
         <link href="https://github.com/lastmjs/wasm-metal"/>
         <updated>2021-06-16T23:14:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/lastmjs/wasm-metal
 Comments URL: https://news.ycombinator.com/item?id=27534572
-Points: 102
-# Comments: 42]]></summary>
+Points: 106
+# Comments: 43]]></summary>
         <author>
             <name>Kinrany</name>
         </author>
@@ -153,8 +189,8 @@ Points: 102
         <updated>2021-06-16T22:57:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.improv-wifi.com/
 Comments URL: https://news.ycombinator.com/item?id=27534448
-Points: 59
-# Comments: 17]]></summary>
+Points: 64
+# Comments: 18]]></summary>
         <author>
             <name>balloob</name>
         </author>
@@ -166,7 +202,7 @@ Points: 59
         <updated>2021-06-16T22:50:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://francoisbest.com/posts/2021/hashvatars
 Comments URL: https://news.ycombinator.com/item?id=27534379
-Points: 104
+Points: 106
 # Comments: 37]]></summary>
         <author>
             <name>flurly</name>
@@ -179,8 +215,8 @@ Points: 104
         <updated>2021-06-16T22:24:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stripe.com/terminal/stripe-reader
 Comments URL: https://news.ycombinator.com/item?id=27534156
-Points: 144
-# Comments: 33]]></summary>
+Points: 150
+# Comments: 37]]></summary>
         <author>
             <name>lachyg</name>
         </author>
@@ -192,8 +228,8 @@ Points: 144
         <updated>2021-06-16T22:05:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination
 Comments URL: https://news.ycombinator.com/item?id=27533988
-Points: 191
-# Comments: 91]]></summary>
+Points: 198
+# Comments: 96]]></summary>
         <author>
             <name>CommitLock</name>
         </author>
@@ -205,8 +241,8 @@ Points: 191
         <updated>2021-06-16T21:36:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40
 Comments URL: https://news.ycombinator.com/item?id=27533755
-Points: 466
-# Comments: 159]]></summary>
+Points: 481
+# Comments: 161]]></summary>
         <author>
             <name>evo_9</name>
         </author>
@@ -218,8 +254,8 @@ Points: 466
         <updated>2021-06-16T21:27:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://programming.guide/worlds-most-copied-so-snippet.html
 Comments URL: https://news.ycombinator.com/item?id=27533684
-Points: 566
-# Comments: 250]]></summary>
+Points: 574
+# Comments: 261]]></summary>
         <author>
             <name>vinnyglennon</name>
         </author>
@@ -248,19 +284,6 @@ The post Inline Styles as Classes (lol) appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cortex (YC W20) Is Hiring Founding Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27533417</id>
-        <link href="https://www.workatastartup.com/jobs/29595"/>
-        <updated>2021-06-16T21:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/29595
-Comments URL: https://news.ycombinator.com/item?id=27533417
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>anishdhar</name>
         </author>
     </entry>
     <entry>
@@ -305,7 +328,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-16T18:51:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wayfinder.nfb.ca/
 Comments URL: https://news.ycombinator.com/item?id=27532068
-Points: 573
+Points: 584
 # Comments: 114]]></summary>
         <author>
             <name>vnglst</name>
@@ -328,23 +351,10 @@ Points: 573
         <updated>2021-06-16T15:39:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eprint.iacr.org/2021/819
 Comments URL: https://news.ycombinator.com/item?id=27529768
-Points: 450
+Points: 455
 # Comments: 96]]></summary>
         <author>
             <name>anonymfus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bear plus snowflake equals polar bear]]></title>
-        <id>https://news.ycombinator.com/item?id=27529697</id>
-        <link href="https://andysalerno.com/posts/weird-emojis/"/>
-        <updated>2021-06-16T15:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://andysalerno.com/posts/weird-emojis/
-Comments URL: https://news.ycombinator.com/item?id=27529697
-Points: 323
-# Comments: 96]]></summary>
-        <author>
-            <name>soopurman</name>
         </author>
     </entry>
     <entry>
