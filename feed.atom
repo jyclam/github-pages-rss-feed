@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T10:13:22.998Z</updated>
+    <updated>2021-06-18T11:10:16.256Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Instant realtime GraphQL with built-in authorization for SQL Server]]></title>
+        <id>https://news.ycombinator.com/item?id=27549164</id>
+        <link href="https://github.com/hasura/graphql-engine/blob/master/architecture/sql-server.md"/>
+        <updated>2021-06-18T10:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/hasura/graphql-engine/blob/master/architecture/sql-server.md
+Comments URL: https://news.ycombinator.com/item?id=27549164
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>tango12</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TDD from the Factorio Team]]></title>
+        <id>https://news.ycombinator.com/item?id=27549143</id>
+        <link href="https://factorio.com/blog/post/fff-366"/>
+        <updated>2021-06-18T10:53:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://factorio.com/blog/post/fff-366
+Comments URL: https://news.ycombinator.com/item?id=27549143
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>sorahn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Commodore 64 and Raspberry Pi 4 = Synth6581]]></title>
         <id>https://news.ycombinator.com/item?id=27548688</id>
@@ -13,23 +39,10 @@
         <updated>2021-06-18T09:19:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.raspberrypi.org/blog/commodore-64-raspberry-pi-4-synth6581/
 Comments URL: https://news.ycombinator.com/item?id=27548688
-Points: 10
-# Comments: 3]]></summary>
+Points: 18
+# Comments: 6]]></summary>
         <author>
             <name>fangorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's Happened to the National Trust]]></title>
-        <id>https://news.ycombinator.com/item?id=27548405</id>
-        <link href="https://andrewhowells.substack.com/p/whats-happened-to-the-national-trust"/>
-        <updated>2021-06-18T08:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://andrewhowells.substack.com/p/whats-happened-to-the-national-trust
-Comments URL: https://news.ycombinator.com/item?id=27548405
-Points: 11
-# Comments: 4]]></summary>
-        <author>
-            <name>thezipster</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +65,8 @@ Points: 1
         <updated>2021-06-18T05:20:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/jun/18/thirty-tesla-crashes-linked-to-assisted-driving-system-under-investigation-in-us
 Comments URL: https://news.ycombinator.com/item?id=27547596
-Points: 65
-# Comments: 44]]></summary>
+Points: 79
+# Comments: 59]]></summary>
         <author>
             <name>mindracer</name>
         </author>
@@ -65,8 +78,8 @@ Points: 65
         <updated>2021-06-18T04:44:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sicpers.info/2021/06/there-is-no-us-in-team/
 Comments URL: https://news.ycombinator.com/item?id=27547422
-Points: 51
-# Comments: 18]]></summary>
+Points: 65
+# Comments: 21]]></summary>
         <author>
             <name>williamsmj</name>
         </author>
@@ -78,8 +91,8 @@ Points: 51
         <updated>2021-06-18T04:21:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.logrocket.com/designing-url-based-query-syntax-graphql/
 Comments URL: https://news.ycombinator.com/item?id=27547337
-Points: 30
-# Comments: 5]]></summary>
+Points: 32
+# Comments: 10]]></summary>
         <author>
             <name>leoloso</name>
         </author>
@@ -91,8 +104,8 @@ Points: 30
         <updated>2021-06-18T02:12:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/eveningkid/denodb
 Comments URL: https://news.ycombinator.com/item?id=27546705
-Points: 162
-# Comments: 113]]></summary>
+Points: 167
+# Comments: 120]]></summary>
         <author>
             <name>0xedb</name>
         </author>
@@ -104,8 +117,8 @@ Points: 162
         <updated>2021-06-18T00:50:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-newspaper-says-police-arrest-five-directors-2021-06-16
 Comments URL: https://news.ycombinator.com/item?id=27546138
-Points: 321
-# Comments: 173]]></summary>
+Points: 337
+# Comments: 181]]></summary>
         <author>
             <name>awb</name>
         </author>
@@ -117,8 +130,8 @@ Points: 321
         <updated>2021-06-18T00:30:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/internetofshit/status/1405682888545349635
 Comments URL: https://news.ycombinator.com/item?id=27546017
-Points: 371
-# Comments: 235]]></summary>
+Points: 379
+# Comments: 243]]></summary>
         <author>
             <name>minimaxir</name>
         </author>
@@ -130,8 +143,8 @@ Points: 371
         <updated>2021-06-17T22:49:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/
 Comments URL: https://news.ycombinator.com/item?id=27545331
-Points: 258
-# Comments: 106]]></summary>
+Points: 282
+# Comments: 116]]></summary>
         <author>
             <name>ecliptik</name>
         </author>
@@ -143,23 +156,10 @@ Points: 258
         <updated>2021-06-17T21:58:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://biochemical-pathways.com
 Comments URL: https://news.ycombinator.com/item?id=27544894
-Points: 190
+Points: 199
 # Comments: 66]]></summary>
         <author>
             <name>exar0815</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apology]]></title>
-        <id>https://news.ycombinator.com/item?id=27544797</id>
-        <link href="https://felleisen.org/matthias/Thoughts/Apology.html"/>
-        <updated>2021-06-17T21:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://felleisen.org/matthias/Thoughts/Apology.html
-Comments URL: https://news.ycombinator.com/item?id=27544797
-Points: 227
-# Comments: 184]]></summary>
-        <author>
-            <name>tiagoleifert</name>
         </author>
     </entry>
     <entry>
@@ -169,8 +169,8 @@ Points: 227
         <updated>2021-06-17T19:27:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://startupstrats.substack.com/p/dont-kill-yourself
 Comments URL: https://news.ycombinator.com/item?id=27543543
-Points: 180
-# Comments: 104]]></summary>
+Points: 189
+# Comments: 107]]></summary>
         <author>
             <name>jdbiggs</name>
         </author>
@@ -182,8 +182,8 @@ Points: 180
         <updated>2021-06-17T18:44:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/organicmaps/organicmaps
 Comments URL: https://news.ycombinator.com/item?id=27543012
-Points: 294
-# Comments: 83]]></summary>
+Points: 306
+# Comments: 89]]></summary>
         <author>
             <name>yewenjie</name>
         </author>
@@ -195,8 +195,8 @@ Points: 294
         <updated>2021-06-17T18:03:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/
 Comments URL: https://news.ycombinator.com/item?id=27542504
-Points: 131
-# Comments: 41]]></summary>
+Points: 136
+# Comments: 42]]></summary>
         <author>
             <name>gbrown_</name>
         </author>
@@ -208,8 +208,8 @@ Points: 131
         <updated>2021-06-17T17:47:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/
 Comments URL: https://news.ycombinator.com/item?id=27542319
-Points: 75
-# Comments: 111]]></summary>
+Points: 81
+# Comments: 117]]></summary>
         <author>
             <name>jerodsanto</name>
         </author>
@@ -221,8 +221,8 @@ Points: 75
         <updated>2021-06-17T17:37:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://quotulatiousness.ca/blog/2016/02/02/qotd-the-hair-dryer-incident/
 Comments URL: https://news.ycombinator.com/item?id=27542217
-Points: 326
-# Comments: 231]]></summary>
+Points: 334
+# Comments: 238]]></summary>
         <author>
             <name>bschne</name>
         </author>
@@ -234,8 +234,8 @@ Points: 326
         <updated>2021-06-17T16:49:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://triplebyte.com/blog/rethinking-triplebyte
 Comments URL: https://news.ycombinator.com/item?id=27541676
-Points: 384
-# Comments: 393]]></summary>
+Points: 386
+# Comments: 397]]></summary>
         <author>
             <name>Harj</name>
         </author>
@@ -247,8 +247,8 @@ Points: 384
         <updated>2021-06-17T16:19:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gentlydownthe.stream/
 Comments URL: https://news.ycombinator.com/item?id=27541339
-Points: 1449
-# Comments: 197]]></summary>
+Points: 1480
+# Comments: 198]]></summary>
         <author>
             <name>mitchum_</name>
         </author>
@@ -286,7 +286,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-17T14:18:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thebootstrappedfounder.com/selfish-vs-selfless-self-promotion-in-communities/
 Comments URL: https://news.ycombinator.com/item?id=27539823
-Points: 28
+Points: 34
 # Comments: 2]]></summary>
         <author>
             <name>arvidkahl</name>
