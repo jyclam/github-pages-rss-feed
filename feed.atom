@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T21:11:11.627Z</updated>
+    <updated>2021-06-18T22:11:46.532Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -26,10 +26,48 @@ Points: 1
         <updated>2021-06-18T20:40:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://vespucci.io/
 Comments URL: https://news.ycombinator.com/item?id=27554789
-Points: 6
-# Comments: 0]]></summary>
+Points: 14
+# Comments: 3]]></summary>
         <author>
             <name>pwg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the `outline` Property as a Collapsable Border]]></title>
+        <id>https://css-tricks.com/?p=341511</id>
+        <link href="https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/"/>
+        <updated>2021-06-18T20:38:59.000Z</updated>
+        <summary type="html"><![CDATA[The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …
+The post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Carter Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNES – Super Mario World Widescreen]]></title>
+        <id>https://news.ycombinator.com/item?id=27554765</id>
+        <link href="https://github.com/VitorVilela7/wide-snes"/>
+        <updated>2021-06-18T20:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/VitorVilela7/wide-snes
+Comments URL: https://news.ycombinator.com/item?id=27554765
+Points: 95
+# Comments: 10]]></summary>
+        <author>
+            <name>gtonioli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Know the Secret to the Quiet Mind. I Wish I’d Never Learned It]]></title>
+        <id>https://news.ycombinator.com/item?id=27554686</id>
+        <link href="https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/"/>
+        <updated>2021-06-18T20:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/
+Comments URL: https://news.ycombinator.com/item?id=27554686
+Points: 90
+# Comments: 48]]></summary>
+        <author>
+            <name>danso</name>
         </author>
     </entry>
     <entry>
@@ -39,23 +77,10 @@ Points: 6
         <updated>2021-06-18T20:03:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/359576.359579
 Comments URL: https://news.ycombinator.com/item?id=27554355
-Points: 22
-# Comments: 6]]></summary>
+Points: 46
+# Comments: 24]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit forces me to use their app to view posted content and comments]]></title>
-        <id>https://news.ycombinator.com/item?id=27553971</id>
-        <link href="https://twitter.com/stevenhubertron/status/1405956220976910339"/>
-        <updated>2021-06-18T19:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/stevenhubertron/status/1405956220976910339
-Comments URL: https://news.ycombinator.com/item?id=27553971
-Points: 83
-# Comments: 75]]></summary>
-        <author>
-            <name>stevenhubertron</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +90,8 @@ Points: 83
         <updated>2021-06-18T19:03:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/
 Comments URL: https://news.ycombinator.com/item?id=27553718
-Points: 76
-# Comments: 32]]></summary>
+Points: 103
+# Comments: 42]]></summary>
         <author>
             <name>dougmany</name>
         </author>
@@ -78,8 +103,8 @@ Points: 76
         <updated>2021-06-18T19:02:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/technology/2021/06/17/drone-human-screams/
 Comments URL: https://news.ycombinator.com/item?id=27553707
-Points: 34
-# Comments: 41]]></summary>
+Points: 45
+# Comments: 48]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -91,8 +116,8 @@ Points: 34
         <updated>2021-06-18T18:39:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cpubenchmark.net/market_share.html
 Comments URL: https://news.ycombinator.com/item?id=27553451
-Points: 80
-# Comments: 49]]></summary>
+Points: 119
+# Comments: 79]]></summary>
         <author>
             <name>temp8964</name>
         </author>
@@ -104,8 +129,8 @@ Points: 80
         <updated>2021-06-18T17:17:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/
 Comments URL: https://news.ycombinator.com/item?id=27552611
-Points: 441
-# Comments: 243]]></summary>
+Points: 489
+# Comments: 261]]></summary>
         <author>
             <name>prostoalex</name>
         </author>
@@ -147,8 +172,8 @@ Points: 441
         <updated>2021-06-18T14:53:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eprint.iacr.org/2016/550.pdf
 Comments URL: https://news.ycombinator.com/item?id=27550974
-Points: 61
-# Comments: 26]]></summary>
+Points: 63
+# Comments: 27]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -160,8 +185,8 @@ Points: 61
         <updated>2021-06-18T14:29:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.memorysafety.org/
 Comments URL: https://news.ycombinator.com/item?id=27550703
-Points: 80
-# Comments: 38]]></summary>
+Points: 85
+# Comments: 45]]></summary>
         <author>
             <name>eplanit</name>
         </author>
@@ -208,8 +233,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-18T13:05:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pixelbeat.org/docs/coreutils-gotchas.html
 Comments URL: https://news.ycombinator.com/item?id=27549863
-Points: 79
-# Comments: 34]]></summary>
+Points: 84
+# Comments: 37]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -231,23 +256,10 @@ Points: 79
         <updated>2021-06-18T12:36:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting
 Comments URL: https://news.ycombinator.com/item?id=27549652
-Points: 154
-# Comments: 142]]></summary>
+Points: 178
+# Comments: 161]]></summary>
         <author>
             <name>elsewhen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave, the false sensation of privacy]]></title>
-        <id>https://news.ycombinator.com/item?id=27549604</id>
-        <link href="http://ebin.city/%7Ewerwolf/posts/brave-is-shit/"/>
-        <updated>2021-06-18T12:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://ebin.city/%7Ewerwolf/posts/brave-is-shit/
-Comments URL: https://news.ycombinator.com/item?id=27549604
-Points: 515
-# Comments: 390]]></summary>
-        <author>
-            <name>Santosh83</name>
         </author>
     </entry>
     <entry>
@@ -257,8 +269,8 @@ Points: 515
         <updated>2021-06-18T12:05:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://large.stanford.edu/courses/2014/ph241/reid2/
 Comments URL: https://news.ycombinator.com/item?id=27549484
-Points: 184
-# Comments: 156]]></summary>
+Points: 192
+# Comments: 161]]></summary>
         <author>
             <name>aww_dang</name>
         </author>
@@ -270,8 +282,8 @@ Points: 184
         <updated>2021-06-18T11:55:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stride3d.net/download/
 Comments URL: https://news.ycombinator.com/item?id=27549431
-Points: 105
-# Comments: 118]]></summary>
+Points: 107
+# Comments: 120]]></summary>
         <author>
             <name>fctorial</name>
         </author>
@@ -283,8 +295,8 @@ Points: 105
         <updated>2021-06-18T11:26:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/streetcomplete/StreetComplete
 Comments URL: https://news.ycombinator.com/item?id=27549300
-Points: 343
-# Comments: 42]]></summary>
+Points: 356
+# Comments: 44]]></summary>
         <author>
             <name>rjzzleep</name>
         </author>
@@ -296,8 +308,8 @@ Points: 343
         <updated>2021-06-18T10:57:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hasura/graphql-engine/blob/master/architecture/sql-server.md
 Comments URL: https://news.ycombinator.com/item?id=27549164
-Points: 160
-# Comments: 68]]></summary>
+Points: 163
+# Comments: 69]]></summary>
         <author>
             <name>tango12</name>
         </author>
@@ -309,8 +321,8 @@ Points: 160
         <updated>2021-06-18T10:44:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/17/1007106908/plywood-satellite-wood-woodsat-european-space-agency-esa
 Comments URL: https://news.ycombinator.com/item?id=27549097
-Points: 89
-# Comments: 14]]></summary>
+Points: 94
+# Comments: 16]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -322,8 +334,8 @@ Points: 89
         <updated>2021-06-18T07:54:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.mistys-internet.website/blog/blog/2015/01/02/widescreen-gaming-in-the-90s/
 Comments URL: https://news.ycombinator.com/item?id=27548296
-Points: 39
-# Comments: 9]]></summary>
+Points: 43
+# Comments: 14]]></summary>
         <author>
             <name>luu</name>
         </author>
@@ -632,20 +644,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Shadows to SVG Icons With CSS and SVG Filters]]></title>
-        <id>https://css-tricks.com/?p=342164</id>
-        <link href="https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/"/>
-        <updated>2021-06-11T14:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Why would we need to apply shadows to SVG?
-Shadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) 
-…
-The post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
         </author>
     </entry>
     <entry>
