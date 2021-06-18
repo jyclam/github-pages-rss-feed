@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T14:10:50.924Z</updated>
+    <updated>2021-06-18T15:13:28.437Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jackal v0.54.1 Released – Go XMPP Server]]></title>
+        <id>https://news.ycombinator.com/item?id=27550868</id>
+        <link href="https://github.com/ortuman/jackal/releases/tag/v0.54.1"/>
+        <updated>2021-06-18T14:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ortuman/jackal/releases/tag/v0.54.1
+Comments URL: https://news.ycombinator.com/item?id=27550868
+Points: 11
+# Comments: 2]]></summary>
+        <author>
+            <name>ortuman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Sorting Algorithms]]></title>
         <id>60cca3294dc1a607ed7b4c76</id>
@@ -14,6 +27,19 @@
         <summary type="html"><![CDATA[Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 6 Preview 5]]></title>
+        <id>https://news.ycombinator.com/item?id=27550283</id>
+        <link href="https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/"/>
+        <updated>2021-06-18T13:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/
+Comments URL: https://news.ycombinator.com/item?id=27550283
+Points: 33
+# Comments: 2]]></summary>
+        <author>
+            <name>dustinmoris</name>
         </author>
     </entry>
     <entry>
@@ -48,21 +74,34 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-18T13:42:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57522368
 Comments URL: https://news.ycombinator.com/item?id=27550184
-Points: 11
-# Comments: 0]]></summary>
+Points: 48
+# Comments: 64]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon’s Staggering HR Failures]]></title>
+        <title type="html"><![CDATA[Multiple local news stations say the same thing verbatim [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=27550122</id>
+        <link href="https://www.youtube.com/watch?v=ksb3KD6DfSI"/>
+        <updated>2021-06-18T13:36:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=ksb3KD6DfSI
+Comments URL: https://news.ycombinator.com/item?id=27550122
+Points: 37
+# Comments: 9]]></summary>
+        <author>
+            <name>garraeth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s HR Failures]]></title>
         <id>https://news.ycombinator.com/item?id=27549972</id>
         <link href="https://amazonchronicles.substack.com/p/amazons-staggering-hr-failures"/>
         <updated>2021-06-18T13:19:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://amazonchronicles.substack.com/p/amazons-staggering-hr-failures
 Comments URL: https://news.ycombinator.com/item?id=27549972
-Points: 48
-# Comments: 10]]></summary>
+Points: 102
+# Comments: 66]]></summary>
         <author>
             <name>ramimac</name>
         </author>
@@ -74,8 +113,8 @@ Points: 48
         <updated>2021-06-18T13:05:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pixelbeat.org/docs/coreutils-gotchas.html
 Comments URL: https://news.ycombinator.com/item?id=27549863
-Points: 19
-# Comments: 2]]></summary>
+Points: 36
+# Comments: 5]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -97,8 +136,8 @@ Points: 19
         <updated>2021-06-18T12:36:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting
 Comments URL: https://news.ycombinator.com/item?id=27549652
-Points: 27
-# Comments: 12]]></summary>
+Points: 50
+# Comments: 32]]></summary>
         <author>
             <name>elsewhen</name>
         </author>
@@ -110,8 +149,8 @@ Points: 27
         <updated>2021-06-18T12:28:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://ebin.city/%7Ewerwolf/posts/brave-is-shit/
 Comments URL: https://news.ycombinator.com/item?id=27549604
-Points: 186
-# Comments: 102]]></summary>
+Points: 286
+# Comments: 189]]></summary>
         <author>
             <name>Santosh83</name>
         </author>
@@ -123,8 +162,8 @@ Points: 186
         <updated>2021-06-18T12:05:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://large.stanford.edu/courses/2014/ph241/reid2/
 Comments URL: https://news.ycombinator.com/item?id=27549484
-Points: 52
-# Comments: 32]]></summary>
+Points: 82
+# Comments: 53]]></summary>
         <author>
             <name>aww_dang</name>
         </author>
@@ -157,8 +196,8 @@ Points: 1
         <updated>2021-06-18T11:55:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stride3d.net/download/
 Comments URL: https://news.ycombinator.com/item?id=27549431
-Points: 35
-# Comments: 18]]></summary>
+Points: 51
+# Comments: 39]]></summary>
         <author>
             <name>fctorial</name>
         </author>
@@ -170,8 +209,8 @@ Points: 35
         <updated>2021-06-18T11:26:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/streetcomplete/StreetComplete
 Comments URL: https://news.ycombinator.com/item?id=27549300
-Points: 91
-# Comments: 12]]></summary>
+Points: 134
+# Comments: 13]]></summary>
         <author>
             <name>rjzzleep</name>
         </author>
@@ -183,8 +222,8 @@ Points: 91
         <updated>2021-06-18T11:14:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20210616-how-the-forgotten-tricks-of-letterlocking-shaped-history
 Comments URL: https://news.ycombinator.com/item?id=27549256
-Points: 6
-# Comments: 0]]></summary>
+Points: 24
+# Comments: 5]]></summary>
         <author>
             <name>robalicious</name>
         </author>
@@ -196,8 +235,8 @@ Points: 6
         <updated>2021-06-18T10:57:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hasura/graphql-engine/blob/master/architecture/sql-server.md
 Comments URL: https://news.ycombinator.com/item?id=27549164
-Points: 74
-# Comments: 26]]></summary>
+Points: 92
+# Comments: 32]]></summary>
         <author>
             <name>tango12</name>
         </author>
@@ -209,8 +248,8 @@ Points: 74
         <updated>2021-06-18T10:53:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://factorio.com/blog/post/fff-366
 Comments URL: https://news.ycombinator.com/item?id=27549143
-Points: 213
-# Comments: 101]]></summary>
+Points: 262
+# Comments: 144]]></summary>
         <author>
             <name>sorahn</name>
         </author>
@@ -222,8 +261,8 @@ Points: 213
         <updated>2021-06-18T10:44:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/17/1007106908/plywood-satellite-wood-woodsat-european-space-agency-esa
 Comments URL: https://news.ycombinator.com/item?id=27549097
-Points: 28
-# Comments: 1]]></summary>
+Points: 43
+# Comments: 3]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -235,8 +274,8 @@ Points: 28
         <updated>2021-06-18T10:40:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ayende.com/blog/193955-A/sorted-integer-compression
 Comments URL: https://news.ycombinator.com/item?id=27549075
-Points: 16
-# Comments: 11]]></summary>
+Points: 30
+# Comments: 15]]></summary>
         <author>
             <name>GordonS</name>
         </author>
@@ -248,7 +287,7 @@ Points: 16
         <updated>2021-06-18T10:40:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://branch.climateaction.tech/issues/issue-2/
 Comments URL: https://news.ycombinator.com/item?id=27549073
-Points: 7
+Points: 12
 # Comments: 0]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -261,49 +300,10 @@ Points: 7
         <updated>2021-06-18T09:58:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/facebookresearch/AugLy
 Comments URL: https://news.ycombinator.com/item?id=27548874
-Points: 16
-# Comments: 0]]></summary>
+Points: 21
+# Comments: 1]]></summary>
         <author>
             <name>pcaversaccio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There is no “us” in team]]></title>
-        <id>https://news.ycombinator.com/item?id=27547422</id>
-        <link href="https://www.sicpers.info/2021/06/there-is-no-us-in-team/"/>
-        <updated>2021-06-18T04:44:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sicpers.info/2021/06/there-is-no-us-in-team/
-Comments URL: https://news.ycombinator.com/item?id=27547422
-Points: 101
-# Comments: 35]]></summary>
-        <author>
-            <name>williamsmj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DenoDB]]></title>
-        <id>https://news.ycombinator.com/item?id=27546705</id>
-        <link href="https://github.com/eveningkid/denodb"/>
-        <updated>2021-06-18T02:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/eveningkid/denodb
-Comments URL: https://news.ycombinator.com/item?id=27546705
-Points: 197
-# Comments: 140]]></summary>
-        <author>
-            <name>0xedb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HBO Max accidentally sent an integration email test to users]]></title>
-        <id>https://news.ycombinator.com/item?id=27546017</id>
-        <link href="https://twitter.com/internetofshit/status/1405682888545349635"/>
-        <updated>2021-06-18T00:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/internetofshit/status/1405682888545349635
-Comments URL: https://news.ycombinator.com/item?id=27546017
-Points: 457
-# Comments: 290]]></summary>
-        <author>
-            <name>minimaxir</name>
         </author>
     </entry>
     <entry>
