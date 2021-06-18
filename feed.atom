@@ -2,19 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T13:24:05.441Z</updated>
+    <updated>2021-06-18T14:10:50.924Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[GNU Coreutils Gotchas]]></title>
+        <title type="html"><![CDATA[Understanding Sorting Algorithms]]></title>
+        <id>60cca3294dc1a607ed7b4c76</id>
+        <link href="https://www.freecodecamp.org/news/understanding-sorting-algorithms/"/>
+        <updated>2021-06-18T13:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Hedgehog (YC S21) – Cryptocurrency Portfolio Manager]]></title>
+        <id>https://news.ycombinator.com/item?id=27550255</id>
+        <link href="https://news.ycombinator.com/item?id=27550255"/>
+        <updated>2021-06-18T13:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN! We're Taylor, Colton, and Jason, the founders of Hedgehog (https://hedgehog.app). We're building a portfolio manager to help you learn about, keep track of, and trade cryptocurrency in one place.
+We track 2000+ actively traded currencies across 550+ wallets, aggregate data from 20 different providers, and support trading on 130+ exchanges. This helps users make informed choices about investments and find the best prices across exchanges, with price differences as high as 0.5%. We also combine live usage data with detailed research on how each coin works, so you can see for yourself why a coin could be valuable--or not.
+We know that HN tends to be divided on cryptocurrency-related topics, with some people interested and involved and others skeptical or critical. Obviously we find ou…]]></summary>
+        <author>
+            <name>cadillion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Typography]]></title>
+        <id>https://css-tricks.com/?p=342326</id>
+        <link href="https://css-tricks.com/links-on-typography-2/"/>
+        <updated>2021-06-18T13:44:17.000Z</updated>
+        <summary type="html"><![CDATA[I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the 
+…
+The post Links on Typography appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok owner ByteDance sees its earnings double in 2020]]></title>
+        <id>https://news.ycombinator.com/item?id=27550184</id>
+        <link href="https://www.bbc.com/news/business-57522368"/>
+        <updated>2021-06-18T13:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57522368
+Comments URL: https://news.ycombinator.com/item?id=27550184
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>shivbhatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s Staggering HR Failures]]></title>
+        <id>https://news.ycombinator.com/item?id=27549972</id>
+        <link href="https://amazonchronicles.substack.com/p/amazons-staggering-hr-failures"/>
+        <updated>2021-06-18T13:19:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://amazonchronicles.substack.com/p/amazons-staggering-hr-failures
+Comments URL: https://news.ycombinator.com/item?id=27549972
+Points: 48
+# Comments: 10]]></summary>
+        <author>
+            <name>ramimac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coreutils Gotchas (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=27549863</id>
         <link href="https://www.pixelbeat.org/docs/coreutils-gotchas.html"/>
         <updated>2021-06-18T13:05:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pixelbeat.org/docs/coreutils-gotchas.html
 Comments URL: https://news.ycombinator.com/item?id=27549863
-Points: 6
-# Comments: 0]]></summary>
+Points: 19
+# Comments: 2]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -36,8 +97,8 @@ Points: 6
         <updated>2021-06-18T12:36:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting
 Comments URL: https://news.ycombinator.com/item?id=27549652
-Points: 11
-# Comments: 5]]></summary>
+Points: 27
+# Comments: 12]]></summary>
         <author>
             <name>elsewhen</name>
         </author>
@@ -49,36 +110,10 @@ Points: 11
         <updated>2021-06-18T12:28:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://ebin.city/%7Ewerwolf/posts/brave-is-shit/
 Comments URL: https://news.ycombinator.com/item?id=27549604
-Points: 66
-# Comments: 26]]></summary>
+Points: 186
+# Comments: 102]]></summary>
         <author>
             <name>Santosh83</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Removed by Reddit]]></title>
-        <id>https://news.ycombinator.com/item?id=27549569</id>
-        <link href="https://old.reddit.com/r/pics/comments/o2d4fc/removed_by_reddit/"/>
-        <updated>2021-06-18T12:22:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/pics/comments/o2d4fc/removed_by_reddit/
-Comments URL: https://news.ycombinator.com/item?id=27549569
-Points: 12
-# Comments: 3]]></summary>
-        <author>
-            <name>perihelions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposing Tether]]></title>
-        <id>https://news.ycombinator.com/item?id=27549524</id>
-        <link href="https://www.youtube.com/watch?v=-whuXHSL1Pg"/>
-        <updated>2021-06-18T12:14:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=-whuXHSL1Pg
-Comments URL: https://news.ycombinator.com/item?id=27549524
-Points: 48
-# Comments: 29]]></summary>
-        <author>
-            <name>tenslisi</name>
         </author>
     </entry>
     <entry>
@@ -88,8 +123,8 @@ Points: 48
         <updated>2021-06-18T12:05:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://large.stanford.edu/courses/2014/ph241/reid2/
 Comments URL: https://news.ycombinator.com/item?id=27549484
-Points: 34
-# Comments: 11]]></summary>
+Points: 52
+# Comments: 32]]></summary>
         <author>
             <name>aww_dang</name>
         </author>
@@ -122,8 +157,8 @@ Points: 1
         <updated>2021-06-18T11:55:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stride3d.net/download/
 Comments URL: https://news.ycombinator.com/item?id=27549431
-Points: 20
-# Comments: 11]]></summary>
+Points: 35
+# Comments: 18]]></summary>
         <author>
             <name>fctorial</name>
         </author>
@@ -135,21 +170,34 @@ Points: 20
         <updated>2021-06-18T11:26:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/streetcomplete/StreetComplete
 Comments URL: https://news.ycombinator.com/item?id=27549300
-Points: 55
-# Comments: 6]]></summary>
+Points: 91
+# Comments: 12]]></summary>
         <author>
             <name>rjzzleep</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instant realtime GraphQL with built-in authorization for SQL Server]]></title>
+        <title type="html"><![CDATA[The clever folds that kept letters secret]]></title>
+        <id>https://news.ycombinator.com/item?id=27549256</id>
+        <link href="https://www.bbc.com/future/article/20210616-how-the-forgotten-tricks-of-letterlocking-shaped-history"/>
+        <updated>2021-06-18T11:14:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20210616-how-the-forgotten-tricks-of-letterlocking-shaped-history
+Comments URL: https://news.ycombinator.com/item?id=27549256
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>robalicious</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hasura GraphQL Engine and SQL Server]]></title>
         <id>https://news.ycombinator.com/item?id=27549164</id>
         <link href="https://github.com/hasura/graphql-engine/blob/master/architecture/sql-server.md"/>
         <updated>2021-06-18T10:57:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/hasura/graphql-engine/blob/master/architecture/sql-server.md
 Comments URL: https://news.ycombinator.com/item?id=27549164
-Points: 61
-# Comments: 20]]></summary>
+Points: 74
+# Comments: 26]]></summary>
         <author>
             <name>tango12</name>
         </author>
@@ -161,8 +209,8 @@ Points: 61
         <updated>2021-06-18T10:53:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://factorio.com/blog/post/fff-366
 Comments URL: https://news.ycombinator.com/item?id=27549143
-Points: 165
-# Comments: 68]]></summary>
+Points: 213
+# Comments: 101]]></summary>
         <author>
             <name>sorahn</name>
         </author>
@@ -174,8 +222,8 @@ Points: 165
         <updated>2021-06-18T10:44:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/17/1007106908/plywood-satellite-wood-woodsat-european-space-agency-esa
 Comments URL: https://news.ycombinator.com/item?id=27549097
-Points: 13
-# Comments: 0]]></summary>
+Points: 28
+# Comments: 1]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -187,8 +235,8 @@ Points: 13
         <updated>2021-06-18T10:40:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ayende.com/blog/193955-A/sorted-integer-compression
 Comments URL: https://news.ycombinator.com/item?id=27549075
-Points: 12
-# Comments: 4]]></summary>
+Points: 16
+# Comments: 11]]></summary>
         <author>
             <name>GordonS</name>
         </author>
@@ -200,7 +248,7 @@ Points: 12
         <updated>2021-06-18T10:40:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://branch.climateaction.tech/issues/issue-2/
 Comments URL: https://news.ycombinator.com/item?id=27549073
-Points: 5
+Points: 7
 # Comments: 0]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -213,7 +261,7 @@ Points: 5
         <updated>2021-06-18T09:58:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/facebookresearch/AugLy
 Comments URL: https://news.ycombinator.com/item?id=27548874
-Points: 9
+Points: 16
 # Comments: 0]]></summary>
         <author>
             <name>pcaversaccio</name>
@@ -226,23 +274,10 @@ Points: 9
         <updated>2021-06-18T04:44:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sicpers.info/2021/06/there-is-no-us-in-team/
 Comments URL: https://news.ycombinator.com/item?id=27547422
-Points: 92
-# Comments: 29]]></summary>
+Points: 101
+# Comments: 35]]></summary>
         <author>
             <name>williamsmj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing a URL-based query syntax for GraphQL]]></title>
-        <id>https://news.ycombinator.com/item?id=27547337</id>
-        <link href="https://blog.logrocket.com/designing-url-based-query-syntax-graphql/"/>
-        <updated>2021-06-18T04:21:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.logrocket.com/designing-url-based-query-syntax-graphql/
-Comments URL: https://news.ycombinator.com/item?id=27547337
-Points: 41
-# Comments: 16]]></summary>
-        <author>
-            <name>leoloso</name>
         </author>
     </entry>
     <entry>
@@ -252,8 +287,8 @@ Points: 41
         <updated>2021-06-18T02:12:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/eveningkid/denodb
 Comments URL: https://news.ycombinator.com/item?id=27546705
-Points: 190
-# Comments: 133]]></summary>
+Points: 197
+# Comments: 140]]></summary>
         <author>
             <name>0xedb</name>
         </author>
@@ -265,23 +300,10 @@ Points: 190
         <updated>2021-06-18T00:30:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/internetofshit/status/1405682888545349635
 Comments URL: https://news.ycombinator.com/item?id=27546017
-Points: 443
-# Comments: 275]]></summary>
+Points: 457
+# Comments: 290]]></summary>
         <author>
             <name>minimaxir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Document Culture of Amazon]]></title>
-        <id>https://news.ycombinator.com/item?id=27545331</id>
-        <link href="https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/"/>
-        <updated>2021-06-17T22:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/
-Comments URL: https://news.ycombinator.com/item?id=27545331
-Points: 351
-# Comments: 131]]></summary>
-        <author>
-            <name>ecliptik</name>
         </author>
     </entry>
     <entry>
@@ -490,16 +512,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Decorators – How to Create and Use Decorators in Python With Examples]]></title>
-        <id>60c3dcb3d3126007592d6c6d</id>
-        <link href="https://www.freecodecamp.org/news/python-decorators-explained-with-examples/"/>
-        <updated>2021-06-15T17:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Just How Niche is Headless WordPress?]]></title>
         <id>https://css-tricks.com/?p=342248</id>
         <link href="https://css-tricks.com/just-how-niche-is-headless-wordpress/"/>
@@ -632,18 +644,6 @@ The post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on 
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Put a Background on Open Details Elements]]></title>
-        <id>https://css-tricks.com/?p=342050</id>
-        <link href="https://css-tricks.com/put-a-background-on-open-details-elements/"/>
-        <updated>2021-06-11T00:16:28.000Z</updated>
-        <summary type="html"><![CDATA[One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …
-The post Put a Background on Open Details Elements appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
