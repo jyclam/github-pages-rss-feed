@@ -2,23 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T02:03:26.200Z</updated>
+    <updated>2021-06-19T03:14:24.956Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[SQLite 3.36.0 Changelog]]></title>
-        <id>https://news.ycombinator.com/item?id=27557007</id>
-        <link href="https://www.sqlite.org/releaselog/3_36_0.html"/>
-        <updated>2021-06-19T01:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sqlite.org/releaselog/3_36_0.html
-Comments URL: https://news.ycombinator.com/item?id=27557007
-Points: 3
-# Comments: 0]]></summary>
-        <author>
-            <name>patrickdevivo</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Jerry (YC S17) Is Hiring Remote Senior Software Engineer]]></title>
         <id>https://news.ycombinator.com/item?id=27556882</id>
@@ -39,10 +26,36 @@ Points: 1
         <updated>2021-06-19T01:09:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death
 Comments URL: https://news.ycombinator.com/item?id=27556862
-Points: 8
+Points: 17
 # Comments: 1]]></summary>
         <author>
             <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of the Windows: How many layers of UI inconsistencies are in Windows 10?]]></title>
+        <id>https://news.ycombinator.com/item?id=27556754</id>
+        <link href="https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/"/>
+        <updated>2021-06-19T00:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/
+Comments URL: https://news.ycombinator.com/item?id=27556754
+Points: 21
+# Comments: 6]]></summary>
+        <author>
+            <name>spideymans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Global Chessboard]]></title>
+        <id>https://news.ycombinator.com/item?id=27556675</id>
+        <link href="https://unchartedterritories.tomaspueyo.com/p/world-chessboard"/>
+        <updated>2021-06-19T00:37:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unchartedterritories.tomaspueyo.com/p/world-chessboard
+Comments URL: https://news.ycombinator.com/item?id=27556675
+Points: 15
+# Comments: 3]]></summary>
+        <author>
+            <name>enigmatic02</name>
         </author>
     </entry>
     <entry>
@@ -52,21 +65,21 @@ Points: 8
         <updated>2021-06-19T00:17:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/
 Comments URL: https://news.ycombinator.com/item?id=27556564
-Points: 25
-# Comments: 4]]></summary>
+Points: 69
+# Comments: 14]]></summary>
         <author>
             <name>deegles</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adafruit interviews Siemens SupplyFrame, the future of Hackaday, Tindie and more]]></title>
+        <title type="html"><![CDATA[Adafruit interviews Siemens re SupplyFrame, the future of Hackaday, Tindie]]></title>
         <id>https://news.ycombinator.com/item?id=27556552</id>
         <link href="https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/"/>
         <updated>2021-06-19T00:16:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/
 Comments URL: https://news.ycombinator.com/item?id=27556552
-Points: 27
-# Comments: 6]]></summary>
+Points: 38
+# Comments: 9]]></summary>
         <author>
             <name>ptorrone</name>
         </author>
@@ -78,8 +91,8 @@ Points: 27
         <updated>2021-06-19T00:16:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zenodo.org/record/4008297
 Comments URL: https://news.ycombinator.com/item?id=27556544
-Points: 53
-# Comments: 7]]></summary>
+Points: 89
+# Comments: 18]]></summary>
         <author>
             <name>diplodocusaur</name>
         </author>
@@ -91,8 +104,8 @@ Points: 53
         <updated>2021-06-18T23:19:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kneelingbus.substack.com/p/162-minimum-viable-self
 Comments URL: https://news.ycombinator.com/item?id=27556092
-Points: 46
-# Comments: 25]]></summary>
+Points: 61
+# Comments: 32]]></summary>
         <author>
             <name>silt</name>
         </author>
@@ -104,8 +117,8 @@ Points: 46
         <updated>2021-06-18T23:17:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html
 Comments URL: https://news.ycombinator.com/item?id=27556077
-Points: 25
-# Comments: 10]]></summary>
+Points: 31
+# Comments: 11]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -117,8 +130,8 @@ Points: 25
         <updated>2021-06-18T22:57:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://genome.ch.bbc.co.uk/
 Comments URL: https://news.ycombinator.com/item?id=27555918
-Points: 40
-# Comments: 44]]></summary>
+Points: 49
+# Comments: 46]]></summary>
         <author>
             <name>timthorn</name>
         </author>
@@ -130,7 +143,7 @@ Points: 40
         <updated>2021-06-18T22:55:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.petecorey.com/blog/2019/08/12/fly-straight-dammit/
 Comments URL: https://news.ycombinator.com/item?id=27555904
-Points: 13
+Points: 16
 # Comments: 1]]></summary>
         <author>
             <name>tosh</name>
@@ -143,7 +156,7 @@ Points: 13
         <updated>2021-06-18T20:40:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://vespucci.io/
 Comments URL: https://news.ycombinator.com/item?id=27554789
-Points: 34
+Points: 36
 # Comments: 5]]></summary>
         <author>
             <name>pwg</name>
@@ -168,8 +181,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-18T20:38:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/VitorVilela7/wide-snes
 Comments URL: https://news.ycombinator.com/item?id=27554765
-Points: 251
-# Comments: 34]]></summary>
+Points: 276
+# Comments: 38]]></summary>
         <author>
             <name>gtonioli</name>
         </author>
@@ -181,8 +194,8 @@ Points: 251
         <updated>2021-06-18T20:08:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vitalik.ca/general/2021/06/18/verkle.html
 Comments URL: https://news.ycombinator.com/item?id=27554404
-Points: 106
-# Comments: 7]]></summary>
+Points: 121
+# Comments: 11]]></summary>
         <author>
             <name>felixbraun</name>
         </author>
@@ -194,8 +207,8 @@ Points: 106
         <updated>2021-06-18T20:03:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/359576.359579
 Comments URL: https://news.ycombinator.com/item?id=27554355
-Points: 86
-# Comments: 59]]></summary>
+Points: 92
+# Comments: 65]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -207,8 +220,8 @@ Points: 86
         <updated>2021-06-18T19:03:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/
 Comments URL: https://news.ycombinator.com/item?id=27553718
-Points: 141
-# Comments: 69]]></summary>
+Points: 152
+# Comments: 75]]></summary>
         <author>
             <name>dougmany</name>
         </author>
@@ -220,8 +233,8 @@ Points: 141
         <updated>2021-06-18T18:39:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cpubenchmark.net/market_share.html
 Comments URL: https://news.ycombinator.com/item?id=27553451
-Points: 173
-# Comments: 122]]></summary>
+Points: 182
+# Comments: 126]]></summary>
         <author>
             <name>temp8964</name>
         </author>
@@ -233,8 +246,8 @@ Points: 173
         <updated>2021-06-18T17:17:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/
 Comments URL: https://news.ycombinator.com/item?id=27552611
-Points: 591
-# Comments: 313]]></summary>
+Points: 611
+# Comments: 317]]></summary>
         <author>
             <name>prostoalex</name>
         </author>
@@ -267,19 +280,6 @@ Points: 591
         <summary type="html"><![CDATA[Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ottomatias Peura)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prossimo – Memory safety for the Internet's most critical infrastructure]]></title>
-        <id>https://news.ycombinator.com/item?id=27550703</id>
-        <link href="https://www.memorysafety.org/"/>
-        <updated>2021-06-18T14:29:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.memorysafety.org/
-Comments URL: https://news.ycombinator.com/item?id=27550703
-Points: 114
-# Comments: 68]]></summary>
-        <author>
-            <name>eplanit</name>
         </author>
     </entry>
     <entry>
@@ -328,14 +328,14 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oregon Has Legalized Human Composting]]></title>
+        <title type="html"><![CDATA[Oregon has legalized human composting]]></title>
         <id>https://news.ycombinator.com/item?id=27549652</id>
         <link href="https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting"/>
         <updated>2021-06-18T12:36:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting
 Comments URL: https://news.ycombinator.com/item?id=27549652
-Points: 233
-# Comments: 192]]></summary>
+Points: 237
+# Comments: 197]]></summary>
         <author>
             <name>elsewhen</name>
         </author>
@@ -915,16 +915,6 @@ Thank you: @LooperXX.]]></summary>
         <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boost Your Skills Online: Smashing Workshops On Front-End And Design]]></title>
-        <id>https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/</id>
-        <link href="https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/"/>
-        <updated>2021-05-20T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
         </author>
     </entry>
 </feed>
