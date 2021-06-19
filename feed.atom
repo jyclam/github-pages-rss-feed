@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T13:21:56.290Z</updated>
+    <updated>2021-06-19T14:10:24.312Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jose Valim introduces LiveBook v0.2: inputs, graphs, and more]]></title>
+        <id>https://news.ycombinator.com/item?id=27560395</id>
+        <link href="https://www.youtube.com/watch?v=MOTEgF-wIEI"/>
+        <updated>2021-06-19T13:43:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=MOTEgF-wIEI
+Comments URL: https://news.ycombinator.com/item?id=27560395
+Points: 13
+# Comments: 2]]></summary>
+        <author>
+            <name>bcardarella</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Safari 15 on Mac OS, a user interface mess]]></title>
         <id>https://news.ycombinator.com/item?id=27559832</id>
@@ -13,8 +26,8 @@
         <updated>2021-06-19T12:15:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://morrick.me/archives/9368
 Comments URL: https://news.ycombinator.com/item?id=27559832
-Points: 82
-# Comments: 38]]></summary>
+Points: 140
+# Comments: 90]]></summary>
         <author>
             <name>freediver</name>
         </author>
@@ -26,8 +39,8 @@ Points: 82
         <updated>2021-06-19T12:09:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ij.org/press-release/north-carolina-board-tells-retired-engineer-he-cant-talk-about-engineering/
 Comments URL: https://news.ycombinator.com/item?id=27559804
-Points: 74
-# Comments: 6]]></summary>
+Points: 144
+# Comments: 53]]></summary>
         <author>
             <name>tomohawk</name>
         </author>
@@ -39,8 +52,8 @@ Points: 74
         <updated>2021-06-19T12:07:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html
 Comments URL: https://news.ycombinator.com/item?id=27559795
-Points: 48
-# Comments: 21]]></summary>
+Points: 88
+# Comments: 62]]></summary>
         <author>
             <name>hasheddan</name>
         </author>
@@ -59,28 +72,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Why Poetry did not become a mainstream package manager for Python?]]></title>
-        <id>https://news.ycombinator.com/item?id=27559655</id>
-        <link href="https://news.ycombinator.com/item?id=27559655"/>
-        <updated>2021-06-19T11:37:27.000Z</updated>
-        <summary type="html"><![CDATA[I have recently been introduced to Poetry. I am a pretty experienced Python dev with both back-end and ML in my project basket. However, I have been using pip/requirements.txt/setup.py so far for every single project I had done. But once I have tried Poetry, I do not think I will ever go back.
-I was wondering why is it not more popular? What is holding it back? What do you think?
-Comments URL: https://news.ycombinator.com/item?id=27559655
-Points: 37
-# Comments: 30]]></summary>
-        <author>
-            <name>rcshubhadeep</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Is Working on Its Own Hybrid x86 CPU]]></title>
+        <title type="html"><![CDATA[AMD Is Working on Its Own Hybrid x86 CPU: Patent Filing]]></title>
         <id>https://news.ycombinator.com/item?id=27559515</id>
         <link href="https://www.extremetech.com/computing/323713-amd-is-working-on-its-own-hybrid-x86-cpu-patent-filing"/>
         <updated>2021-06-19T10:59:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.extremetech.com/computing/323713-amd-is-working-on-its-own-hybrid-x86-cpu-patent-filing
 Comments URL: https://news.ycombinator.com/item?id=27559515
-Points: 30
-# Comments: 11]]></summary>
+Points: 43
+# Comments: 19]]></summary>
         <author>
             <name>GordonS</name>
         </author>
@@ -92,8 +91,8 @@ Points: 30
         <updated>2021-06-19T10:01:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
 Comments URL: https://news.ycombinator.com/item?id=27559239
-Points: 29
-# Comments: 10]]></summary>
+Points: 40
+# Comments: 14]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -105,7 +104,7 @@ Points: 29
         <updated>2021-06-19T09:07:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/
 Comments URL: https://news.ycombinator.com/item?id=27559017
-Points: 21
+Points: 30
 # Comments: 5]]></summary>
         <author>
             <name>pcaversaccio</name>
@@ -118,8 +117,8 @@ Points: 21
         <updated>2021-06-19T07:17:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://play.google.com/store/apps/details?id=gov.ma.covid19.exposurenotifications.v3&showAllReviews=true
 Comments URL: https://news.ycombinator.com/item?id=27558500
-Points: 476
-# Comments: 225]]></summary>
+Points: 493
+# Comments: 243]]></summary>
         <author>
             <name>ulucs</name>
         </author>
@@ -131,8 +130,8 @@ Points: 476
         <updated>2021-06-19T03:41:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://maddy.email/
 Comments URL: https://news.ycombinator.com/item?id=27557542
-Points: 213
-# Comments: 84]]></summary>
+Points: 226
+# Comments: 86]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -144,8 +143,8 @@ Points: 213
         <updated>2021-06-19T03:33:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-us-canada-57442175
 Comments URL: https://news.ycombinator.com/item?id=27557516
-Points: 262
-# Comments: 148]]></summary>
+Points: 272
+# Comments: 164]]></summary>
         <author>
             <name>Renaud</name>
         </author>
@@ -157,8 +156,8 @@ Points: 262
         <updated>2021-06-19T02:05:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks
 Comments URL: https://news.ycombinator.com/item?id=27557124
-Points: 145
-# Comments: 58]]></summary>
+Points: 159
+# Comments: 66]]></summary>
         <author>
             <name>sohkamyung</name>
         </author>
@@ -170,8 +169,8 @@ Points: 145
         <updated>2021-06-19T01:09:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death
 Comments URL: https://news.ycombinator.com/item?id=27556862
-Points: 71
-# Comments: 6]]></summary>
+Points: 72
+# Comments: 8]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -183,8 +182,8 @@ Points: 71
         <updated>2021-06-19T00:48:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/
 Comments URL: https://news.ycombinator.com/item?id=27556754
-Points: 356
-# Comments: 222]]></summary>
+Points: 382
+# Comments: 236]]></summary>
         <author>
             <name>spideymans</name>
         </author>
@@ -196,7 +195,7 @@ Points: 356
         <updated>2021-06-19T00:37:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://unchartedterritories.tomaspueyo.com/p/world-chessboard
 Comments URL: https://news.ycombinator.com/item?id=27556675
-Points: 67
+Points: 73
 # Comments: 19]]></summary>
         <author>
             <name>enigmatic02</name>
@@ -209,20 +208,20 @@ Points: 67
         <updated>2021-06-19T00:16:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/
 Comments URL: https://news.ycombinator.com/item?id=27556552
-Points: 89
+Points: 93
 # Comments: 27]]></summary>
         <author>
             <name>ptorrone</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CatMeows: A Publicly-Available Dataset of Cat Vocalizations]]></title>
+        <title type="html"><![CDATA[CatMeows: A Publicly-Available Dataset of Cat Vocalizations (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27556544</id>
         <link href="https://zenodo.org/record/4008297"/>
         <updated>2021-06-19T00:16:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zenodo.org/record/4008297
 Comments URL: https://news.ycombinator.com/item?id=27556544
-Points: 253
+Points: 262
 # Comments: 66]]></summary>
         <author>
             <name>diplodocusaur</name>
@@ -235,8 +234,8 @@ Points: 253
         <updated>2021-06-18T23:37:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://shatteredpixel.com/blog/saying-goodbye-to-android-2.3-gingerbread.html
 Comments URL: https://news.ycombinator.com/item?id=27556282
-Points: 87
-# Comments: 15]]></summary>
+Points: 89
+# Comments: 17]]></summary>
         <author>
             <name>JoshTriplett</name>
         </author>
@@ -248,7 +247,7 @@ Points: 87
         <updated>2021-06-18T23:19:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kneelingbus.substack.com/p/162-minimum-viable-self
 Comments URL: https://news.ycombinator.com/item?id=27556092
-Points: 143
+Points: 146
 # Comments: 60]]></summary>
         <author>
             <name>silt</name>
@@ -261,8 +260,8 @@ Points: 143
         <updated>2021-06-18T23:17:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html
 Comments URL: https://news.ycombinator.com/item?id=27556077
-Points: 63
-# Comments: 25]]></summary>
+Points: 66
+# Comments: 27]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
