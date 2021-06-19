@@ -6,27 +6,63 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27557007",
+          "author": "patrickdevivo",
+          "description": "Article URL: https://www.sqlite.org/releaselog/3_36_0.html\nComments URL: https://news.ycombinator.com/item?id=27557007\nPoints: 3\n# Comments: 0",
+          "link": "https://www.sqlite.org/releaselog/3_36_0.html",
+          "publishedOn": "2021-06-19T01:45:06.000Z",
+          "wordCount": 255,
+          "title": "SQLite 3.36.0 Changelog"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27556882",
+          "author": "artag",
+          "description": "Article URL: https://apply.workable.com/jerry/j/07E1D2B302/\nComments URL: https://news.ycombinator.com/item?id=27556882\nPoints: 1\n# Comments: 0",
+          "link": "https://apply.workable.com/jerry/j/07E1D2B302/",
+          "publishedOn": "2021-06-19T01:16:27.000Z",
+          "wordCount": 7,
+          "title": "Jerry (YC S17) Is Hiring Remote Senior Software Engineer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27556862",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death\nComments URL: https://news.ycombinator.com/item?id=27556862\nPoints: 8\n# Comments: 1",
+          "link": "https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death",
+          "publishedOn": "2021-06-19T01:09:29.000Z",
+          "wordCount": 3979,
+          "title": "When Graphs Are a Matter of Life and Death"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27556564",
+          "author": "deegles",
+          "description": "Article URL: https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/\nComments URL: https://news.ycombinator.com/item?id=27556564\nPoints: 25\n# Comments: 4",
+          "link": "https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/",
+          "publishedOn": "2021-06-19T00:17:30.000Z",
+          "wordCount": 2433,
+          "title": "Human Rapamycin Longevity Clinical Trials Begin"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27556552",
           "author": "ptorrone",
-          "description": "Article URL: https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/\nComments URL: https://news.ycombinator.com/item?id=27556552\nPoints: 3\n# Comments: 0",
+          "description": "Article URL: https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/\nComments URL: https://news.ycombinator.com/item?id=27556552\nPoints: 27\n# Comments: 6",
           "link": "https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/",
           "publishedOn": "2021-06-19T00:16:33.000Z",
           "wordCount": 1772,
           "title": "Adafruit interviews Siemens SupplyFrame, the future of Hackaday, Tindie and more"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27556381",
-          "author": "breathenew",
-          "description": "Article URL: https://politicalphilosopher.net/2015/05/15/featured-philosop-her-elizabeth-barnes/\nComments URL: https://news.ycombinator.com/item?id=27556381\nPoints: 9\n# Comments: 1",
-          "link": "https://politicalphilosopher.net/2015/05/15/featured-philosop-her-elizabeth-barnes/",
-          "publishedOn": "2021-06-18T23:50:53.000Z",
-          "wordCount": 6497,
-          "title": "Confessions of a bitter cripple (2015)"
+          "id": "https://news.ycombinator.com/item?id=27556544",
+          "author": "diplodocusaur",
+          "description": "Article URL: https://zenodo.org/record/4008297\nComments URL: https://news.ycombinator.com/item?id=27556544\nPoints: 53\n# Comments: 7",
+          "link": "https://zenodo.org/record/4008297",
+          "publishedOn": "2021-06-19T00:16:00.000Z",
+          "wordCount": 814,
+          "title": "CatMeows: A Publicly-Available Dataset of Cat Vocalizations"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27556092",
           "author": "silt",
-          "description": "Article URL: https://kneelingbus.substack.com/p/162-minimum-viable-self\nComments URL: https://news.ycombinator.com/item?id=27556092\nPoints: 26\n# Comments: 10",
+          "description": "Article URL: https://kneelingbus.substack.com/p/162-minimum-viable-self\nComments URL: https://news.ycombinator.com/item?id=27556092\nPoints: 46\n# Comments: 25",
           "link": "https://kneelingbus.substack.com/p/162-minimum-viable-self",
           "publishedOn": "2021-06-18T23:19:11.000Z",
           "wordCount": 1018,
@@ -35,7 +71,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27556077",
           "author": "axiomdata316",
-          "description": "Article URL: https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html\nComments URL: https://news.ycombinator.com/item?id=27556077\nPoints: 13\n# Comments: 1",
+          "description": "Article URL: https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html\nComments URL: https://news.ycombinator.com/item?id=27556077\nPoints: 25\n# Comments: 10",
           "link": "https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html",
           "publishedOn": "2021-06-18T23:17:41.000Z",
           "wordCount": 1149,
@@ -44,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27555918",
           "author": "timthorn",
-          "description": "Article URL: https://genome.ch.bbc.co.uk/\nComments URL: https://news.ycombinator.com/item?id=27555918\nPoints: 34\n# Comments: 40",
+          "description": "Article URL: https://genome.ch.bbc.co.uk/\nComments URL: https://news.ycombinator.com/item?id=27555918\nPoints: 40\n# Comments: 44",
           "link": "https://genome.ch.bbc.co.uk/",
           "publishedOn": "2021-06-18T22:57:33.000Z",
           "wordCount": 100,
@@ -53,34 +89,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27555904",
           "author": "tosh",
-          "description": "Article URL: http://www.petecorey.com/blog/2019/08/12/fly-straight-dammit/\nComments URL: https://news.ycombinator.com/item?id=27555904\nPoints: 9\n# Comments: 1",
+          "description": "Article URL: http://www.petecorey.com/blog/2019/08/12/fly-straight-dammit/\nComments URL: https://news.ycombinator.com/item?id=27555904\nPoints: 13\n# Comments: 1",
           "link": "http://www.petecorey.com/blog/2019/08/12/fly-straight-dammit/",
           "publishedOn": "2021-06-18T22:55:28.000Z",
           "wordCount": 1013,
           "title": "Fly Straight, Dammit (2019)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27555013",
-          "author": "chroem-",
-          "description": "I have a few years of experience as an ML Engineer, however I recently changed jobs and I was shocked to learn that my new employer has a very different job definition for ML Engineer than the one I was familiar with.  I thought that the standard definition of an ML Engineer is an engineer who specializes in building machine learning models, essentially a subtype of a data scientist.  At my new company, an ML Engineer is someone who supports ML models but never works on machine learning directly.  At this new company, ML Engineers are Data Engineers who support machine learning applications.\nWhat is the generally accepted definition of an ML Engineer?\nComments URL: https://news.ycombinator.com/item?id=27555013\nPoints: 26\n# Comments: 20",
-          "link": "https://news.ycombinator.com/item?id=27555013",
-          "publishedOn": "2021-06-18T21:02:27.000Z",
-          "wordCount": 1209,
-          "title": "Ask HN: What does an ML Engineer do?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27554998",
-          "author": "jstreebin",
-          "description": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=27554998\nPoints: 1\n# Comments: 0",
-          "link": "https://www.easypost.com/careers",
-          "publishedOn": "2021-06-18T21:00:55.000Z",
-          "wordCount": 381,
-          "title": "EasyPost is building the logistics platform for ecommerce"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27554789",
           "author": "pwg",
-          "description": "Article URL: http://vespucci.io/\nComments URL: https://news.ycombinator.com/item?id=27554789\nPoints: 29\n# Comments: 5",
+          "description": "Article URL: http://vespucci.io/\nComments URL: https://news.ycombinator.com/item?id=27554789\nPoints: 34\n# Comments: 5",
           "link": "http://vespucci.io/",
           "publishedOn": "2021-06-18T20:40:49.000Z",
           "wordCount": 535,
@@ -89,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27554765",
           "author": "gtonioli",
-          "description": "Article URL: https://github.com/VitorVilela7/wide-snes\nComments URL: https://news.ycombinator.com/item?id=27554765\nPoints: 211\n# Comments: 29",
+          "description": "Article URL: https://github.com/VitorVilela7/wide-snes\nComments URL: https://news.ycombinator.com/item?id=27554765\nPoints: 251\n# Comments: 34",
           "link": "https://github.com/VitorVilela7/wide-snes",
           "publishedOn": "2021-06-18T20:38:40.000Z",
           "wordCount": 1011,
@@ -98,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27554404",
           "author": "felixbraun",
-          "description": "Article URL: https://vitalik.ca/general/2021/06/18/verkle.html\nComments URL: https://news.ycombinator.com/item?id=27554404\nPoints: 83\n# Comments: 1",
+          "description": "Article URL: https://vitalik.ca/general/2021/06/18/verkle.html\nComments URL: https://news.ycombinator.com/item?id=27554404\nPoints: 106\n# Comments: 7",
           "link": "https://vitalik.ca/general/2021/06/18/verkle.html",
           "publishedOn": "2021-06-18T20:08:20.000Z",
           "wordCount": 2605,
@@ -107,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27554355",
           "author": "tosh",
-          "description": "Article URL: https://dl.acm.org/doi/10.1145/359576.359579\nComments URL: https://news.ycombinator.com/item?id=27554355\nPoints: 75\n# Comments: 48",
+          "description": "Article URL: https://dl.acm.org/doi/10.1145/359576.359579\nComments URL: https://news.ycombinator.com/item?id=27554355\nPoints: 86\n# Comments: 59",
           "link": "https://dl.acm.org/doi/10.1145/359576.359579",
           "publishedOn": "2021-06-18T20:03:41.000Z",
           "wordCount": 148,
@@ -116,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27553718",
           "author": "dougmany",
-          "description": "Article URL: https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/\nComments URL: https://news.ycombinator.com/item?id=27553718\nPoints: 131\n# Comments: 65",
+          "description": "Article URL: https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/\nComments URL: https://news.ycombinator.com/item?id=27553718\nPoints: 141\n# Comments: 69",
           "link": "https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/",
           "publishedOn": "2021-06-18T19:03:35.000Z",
           "wordCount": null,
@@ -125,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27553451",
           "author": "temp8964",
-          "description": "Article URL: https://www.cpubenchmark.net/market_share.html\nComments URL: https://news.ycombinator.com/item?id=27553451\nPoints: 154\n# Comments: 113",
+          "description": "Article URL: https://www.cpubenchmark.net/market_share.html\nComments URL: https://news.ycombinator.com/item?id=27553451\nPoints: 173\n# Comments: 122",
           "link": "https://www.cpubenchmark.net/market_share.html",
           "publishedOn": "2021-06-18T18:39:16.000Z",
           "wordCount": 756,
@@ -134,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27552611",
           "author": "prostoalex",
-          "description": "Article URL: https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/\nComments URL: https://news.ycombinator.com/item?id=27552611\nPoints: 556\n# Comments: 302",
+          "description": "Article URL: https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/\nComments URL: https://news.ycombinator.com/item?id=27552611\nPoints: 591\n# Comments: 313",
           "link": "https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/",
           "publishedOn": "2021-06-18T17:17:41.000Z",
           "wordCount": 886,
@@ -143,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27550703",
           "author": "eplanit",
-          "description": "Article URL: https://www.memorysafety.org/\nComments URL: https://news.ycombinator.com/item?id=27550703\nPoints: 104\n# Comments: 57",
+          "description": "Article URL: https://www.memorysafety.org/\nComments URL: https://news.ycombinator.com/item?id=27550703\nPoints: 114\n# Comments: 68",
           "link": "https://www.memorysafety.org/",
           "publishedOn": "2021-06-18T14:29:56.000Z",
           "wordCount": 529,
@@ -155,35 +173,17 @@
           "description": "Hey HN! We're Taylor, Colton, and Jason, the founders of Hedgehog (https://hedgehog.app). We're building a portfolio manager to help you learn about, keep track of, and trade cryptocurrency in one place.\nWe track 2000+ actively traded currencies across 550+ wallets, aggregate data from 20 different providers, and support trading on 130+ exchanges. This helps users make informed choices about investments and find the best prices across exchanges, with price differences as high as 0.5%. We also combine live usage data with detailed research on how each coin works, so you can see for yourself why a coin could be valuable--or not.\nWe know that HN tends to be divided on cryptocurrency-related topics, with some people interested and involved and others skeptical or critical. Obviously we find ou…",
           "link": "https://news.ycombinator.com/item?id=27550255",
           "publishedOn": "2021-06-18T13:48:19.000Z",
-          "wordCount": 7990,
+          "wordCount": 8258,
           "title": "Launch HN: Hedgehog (YC S21) – Cryptocurrency Portfolio Manager"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27549652",
           "author": "elsewhen",
-          "description": "Article URL: https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting\nComments URL: https://news.ycombinator.com/item?id=27549652\nPoints: 217\n# Comments: 182",
+          "description": "Article URL: https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting\nComments URL: https://news.ycombinator.com/item?id=27549652\nPoints: 233\n# Comments: 192",
           "link": "https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting",
           "publishedOn": "2021-06-18T12:36:46.000Z",
           "wordCount": 769,
           "title": "Oregon Has Legalized Human Composting"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27549484",
-          "author": "aww_dang",
-          "description": "Article URL: http://large.stanford.edu/courses/2014/ph241/reid2/\nComments URL: https://news.ycombinator.com/item?id=27549484\nPoints: 210\n# Comments: 175",
-          "link": "http://large.stanford.edu/courses/2014/ph241/reid2/",
-          "publishedOn": "2021-06-18T12:05:46.000Z",
-          "wordCount": 2237,
-          "title": "Nuclear Power at McMurdo Station, Antarctica"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27549300",
-          "author": "rjzzleep",
-          "description": "Article URL: https://github.com/streetcomplete/StreetComplete\nComments URL: https://news.ycombinator.com/item?id=27549300\nPoints: 378\n# Comments: 45",
-          "link": "https://github.com/streetcomplete/StreetComplete",
-          "publishedOn": "2021-06-18T11:26:34.000Z",
-          "wordCount": 1153,
-          "title": "StreetComplete: Easy to use editor of OpenStreetMap data"
         }
       ]
     },
@@ -428,7 +428,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3957,
+          "wordCount": 3958,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -456,7 +456,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4101,
+          "wordCount": 4100,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -512,7 +512,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1740,
+          "wordCount": 1745,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -526,7 +526,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5148,
+          "wordCount": 5163,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -540,7 +540,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 867,
+          "wordCount": 878,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -554,7 +554,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2780,
+          "wordCount": 2782,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -582,7 +582,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2430,
+          "wordCount": 2431,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -596,7 +596,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4370,
+          "wordCount": 4424,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -610,7 +610,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3717,
+          "wordCount": 3728,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -638,7 +638,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5613,
+          "wordCount": 5653,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -680,7 +680,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2724,
+          "wordCount": 2769,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -694,7 +694,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10606,
+          "wordCount": 10608,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -708,7 +708,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 4047,
+          "wordCount": 4062,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -736,7 +736,7 @@
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
           "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1749,
+          "wordCount": 1750,
           "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
@@ -750,7 +750,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2324,
+          "wordCount": 2323,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -764,7 +764,7 @@
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
           "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 2257,
+          "wordCount": 2256,
           "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f0c69413-365e-4c39-9ee8-ad1d2b44e56b/reduce-font-loading-impact-css-descriptors.jpg",
@@ -778,7 +778,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2932,
+          "wordCount": 2933,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
@@ -792,7 +792,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9751,
+          "wordCount": 9794,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
