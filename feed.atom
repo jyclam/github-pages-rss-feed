@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T12:16:51.038Z</updated>
+    <updated>2021-06-20T13:22:00.173Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[HireArt (YC W12) Is Hiring a VP,Finance]]></title>
+        <title type="html"><![CDATA[HireArt (YC W12) Is Hiring a VP of Finance]]></title>
         <id>https://news.ycombinator.com/item?id=27569229</id>
         <link href="https://www.hireart.com/jobs/1d4ae4fc/apply"/>
         <updated>2021-06-20T12:00:56.000Z</updated>
@@ -20,16 +20,55 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zsync: Differential file downloading over HTTP using the rsync algorithm (2010)]]></title>
+        <id>https://news.ycombinator.com/item?id=27569146</id>
+        <link href="http://zsync.moria.org.uk/"/>
+        <updated>2021-06-20T11:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://zsync.moria.org.uk/
+Comments URL: https://news.ycombinator.com/item?id=27569146
+Points: 31
+# Comments: 5]]></summary>
+        <author>
+            <name>gjvc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stonks Are What You Can Get Away With: NFTs and Financial Nihilism]]></title>
+        <id>https://news.ycombinator.com/item?id=27568811</id>
+        <link href="https://blog.evjang.com/2021/06/nft.html"/>
+        <updated>2021-06-20T10:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.evjang.com/2021/06/nft.html
+Comments URL: https://news.ycombinator.com/item?id=27568811
+Points: 25
+# Comments: 18]]></summary>
+        <author>
+            <name>headalgorithm</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show HN: Find Your Hacker News Doppelgänger]]></title>
         <id>https://news.ycombinator.com/item?id=27568709</id>
         <link href="https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py"/>
         <updated>2021-06-20T10:19:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py
 Comments URL: https://news.ycombinator.com/item?id=27568709
-Points: 64
-# Comments: 57]]></summary>
+Points: 79
+# Comments: 74]]></summary>
         <author>
             <name>gk1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPs: Octopuses feel pain and need legal protection]]></title>
+        <id>https://news.ycombinator.com/item?id=27568641</id>
+        <link href="https://www.bbc.com/news/newsbeat-57528249"/>
+        <updated>2021-06-20T10:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/newsbeat-57528249
+Comments URL: https://news.ycombinator.com/item?id=27568641
+Points: 43
+# Comments: 14]]></summary>
+        <author>
+            <name>vanilla-almond</name>
         </author>
     </entry>
     <entry>
@@ -39,21 +78,21 @@ Points: 64
         <updated>2021-06-20T09:57:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/GossiTheDog/status/1405805536403243009
 Comments URL: https://news.ycombinator.com/item?id=27568608
-Points: 41
-# Comments: 6]]></summary>
+Points: 61
+# Comments: 8]]></summary>
         <author>
             <name>bobcostas55</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cubli – A cube that can jump up, balance, and walk across your desk]]></title>
+        <title type="html"><![CDATA[Cubli – A cube that can jump up, balance, and walk across your desk (2013)]]></title>
         <id>https://news.ycombinator.com/item?id=27568561</id>
         <link href="https://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/"/>
         <updated>2021-06-20T09:48:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/
 Comments URL: https://news.ycombinator.com/item?id=27568561
-Points: 36
-# Comments: 8]]></summary>
+Points: 47
+# Comments: 9]]></summary>
         <author>
             <name>signa11</name>
         </author>
@@ -65,8 +104,8 @@ Points: 36
         <updated>2021-06-20T09:11:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://altstore.io/
 Comments URL: https://news.ycombinator.com/item?id=27568379
-Points: 55
-# Comments: 8]]></summary>
+Points: 94
+# Comments: 25]]></summary>
         <author>
             <name>murkle</name>
         </author>
@@ -78,8 +117,8 @@ Points: 55
         <updated>2021-06-20T08:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://internet-in-a-box.org/
 Comments URL: https://news.ycombinator.com/item?id=27568332
-Points: 131
-# Comments: 36]]></summary>
+Points: 182
+# Comments: 52]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -91,8 +130,8 @@ Points: 131
         <updated>2021-06-20T08:17:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fox2detroit.com/news/ransomware-attack-payments-might-be-tax-deductible-says-us-government
 Comments URL: https://news.ycombinator.com/item?id=27568154
-Points: 53
-# Comments: 52]]></summary>
+Points: 62
+# Comments: 63]]></summary>
         <author>
             <name>adsche</name>
         </author>
@@ -104,8 +143,8 @@ Points: 53
         <updated>2021-06-20T08:05:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rockylinux.org/news/rocky-linux-8-4-rc1-release/
 Comments URL: https://news.ycombinator.com/item?id=27568087
-Points: 90
-# Comments: 31]]></summary>
+Points: 105
+# Comments: 42]]></summary>
         <author>
             <name>mariuz</name>
         </author>
@@ -117,8 +156,8 @@ Points: 90
         <updated>2021-06-20T07:20:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2
 Comments URL: https://news.ycombinator.com/item?id=27567897
-Points: 53
-# Comments: 12]]></summary>
+Points: 64
+# Comments: 13]]></summary>
         <author>
             <name>adlrocha</name>
         </author>
@@ -130,8 +169,8 @@ Points: 53
         <updated>2021-06-20T02:58:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.architecturaldigest.com/gallery/haunting-photos-reveal-massive-abandoned-town-disneyesque-castles
 Comments URL: https://news.ycombinator.com/item?id=27566722
-Points: 39
-# Comments: 22]]></summary>
+Points: 47
+# Comments: 26]]></summary>
         <author>
             <name>mmphosis</name>
         </author>
@@ -143,8 +182,8 @@ Points: 39
         <updated>2021-06-19T23:23:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/
 Comments URL: https://news.ycombinator.com/item?id=27565482
-Points: 86
-# Comments: 14]]></summary>
+Points: 93
+# Comments: 19]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -156,7 +195,7 @@ Points: 86
         <updated>2021-06-19T23:14:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rltheorybook.github.io/
 Comments URL: https://news.ycombinator.com/item?id=27565421
-Points: 56
+Points: 63
 # Comments: 1]]></summary>
         <author>
             <name>Anon84</name>
@@ -169,8 +208,8 @@ Points: 56
         <updated>2021-06-19T23:11:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.renoise.com/
 Comments URL: https://news.ycombinator.com/item?id=27565392
-Points: 210
-# Comments: 76]]></summary>
+Points: 219
+# Comments: 79]]></summary>
         <author>
             <name>1_player</name>
         </author>
@@ -182,8 +221,8 @@ Points: 210
         <updated>2021-06-19T22:30:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.koreaherald.com/view.php?ud=20210617000953
 Comments URL: https://news.ycombinator.com/item?id=27565097
-Points: 100
-# Comments: 24]]></summary>
+Points: 102
+# Comments: 26]]></summary>
         <author>
             <name>FridayoLeary</name>
         </author>
@@ -195,50 +234,10 @@ Points: 100
         <updated>2021-06-19T20:35:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thezerohack.com/apple-vulnerability-bug-bounty
 Comments URL: https://news.ycombinator.com/item?id=27564236
-Points: 313
-# Comments: 79]]></summary>
+Points: 329
+# Comments: 89]]></summary>
         <author>
             <name>alexcos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm Peter Roberts, immigration attorney who does work for YC startups. AMA]]></title>
-        <id>https://news.ycombinator.com/item?id=27560781</id>
-        <link href="https://news.ycombinator.com/item?id=27560781"/>
-        <updated>2021-06-19T14:39:45.000Z</updated>
-        <summary type="html"><![CDATA[I’ll be here for the next 3 hours and then again at around 12 pm for another 3 hours. As usual, there are countless possible topics and I'll be guided by whatever you're concerned with but as much as possible I’d like to focus on the recently reinstated International Entrepreneur Parole Program (or IEPP).  Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won’t have access to all the facts. Please stick to a factual discussion in your questions and comments and I'll try to do the same in my answers!
-Previous threads we've done: https://news.ycombinator.com/submitted?id=proberts.
-Comments URL: https://news.ycombinator.com/item?id=27560781
-Points: 262
-# Comments: 226]]></summary>
-        <author>
-            <name>proberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life as a public school teacher in the San Francisco Bay Area in 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27560440</id>
-        <link href="http://adamcadre.ac/calendar/202105m.html"/>
-        <updated>2021-06-19T13:49:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://adamcadre.ac/calendar/202105m.html
-Comments URL: https://news.ycombinator.com/item?id=27560440
-Points: 491
-# Comments: 599]]></summary>
-        <author>
-            <name>rossvor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians welcome computer-assisted proof in ‘grand unification’ theory]]></title>
-        <id>https://news.ycombinator.com/item?id=27559917</id>
-        <link href="https://www.nature.com/articles/d41586-021-01627-2"/>
-        <updated>2021-06-19T12:33:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01627-2
-Comments URL: https://news.ycombinator.com/item?id=27559917
-Points: 321
-# Comments: 112]]></summary>
-        <author>
-            <name>Wxc2jjJmST9XWWL</name>
         </author>
     </entry>
     <entry>
@@ -248,8 +247,8 @@ Points: 321
         <updated>2021-06-19T12:07:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html
 Comments URL: https://news.ycombinator.com/item?id=27559795
-Points: 377
-# Comments: 267]]></summary>
+Points: 382
+# Comments: 272]]></summary>
         <author>
             <name>hasheddan</name>
         </author>
@@ -261,8 +260,8 @@ Points: 377
         <updated>2021-06-19T11:27:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 Comments URL: https://news.ycombinator.com/item?id=27559618
-Points: 61
-# Comments: 22]]></summary>
+Points: 72
+# Comments: 26]]></summary>
         <author>
             <name>mkr-hn</name>
         </author>
