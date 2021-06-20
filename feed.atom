@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T15:13:02.292Z</updated>
+    <updated>2021-06-20T16:18:57.477Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Julia Really Fast?]]></title>
+        <id>https://news.ycombinator.com/item?id=27570591</id>
+        <link href="https://medium.com/codex/is-julia-really-fast-12cd7caef96b"/>
+        <updated>2021-06-20T14:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medium.com/codex/is-julia-really-fast-12cd7caef96b
+Comments URL: https://news.ycombinator.com/item?id=27570591
+Points: 32
+# Comments: 14]]></summary>
+        <author>
+            <name>leephillips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LDtk: A modern and open-source 2D level editor]]></title>
         <id>https://news.ycombinator.com/item?id=27570556</id>
@@ -13,8 +26,8 @@
         <updated>2021-06-20T14:49:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://deepnight.itch.io/ldtk
 Comments URL: https://news.ycombinator.com/item?id=27570556
-Points: 6
-# Comments: 0]]></summary>
+Points: 58
+# Comments: 3]]></summary>
         <author>
             <name>polm23</name>
         </author>
@@ -26,8 +39,8 @@ Points: 6
         <updated>2021-06-20T14:25:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aes67.app/
 Comments URL: https://news.ycombinator.com/item?id=27570320
-Points: 17
-# Comments: 6]]></summary>
+Points: 33
+# Comments: 12]]></summary>
         <author>
             <name>phlhar</name>
         </author>
@@ -39,10 +52,23 @@ Points: 17
         <updated>2021-06-20T14:25:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html
 Comments URL: https://news.ycombinator.com/item?id=27570316
-Points: 5
+Points: 11
 # Comments: 0]]></summary>
         <author>
             <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres to TypeScript Interfaces and Enums]]></title>
+        <id>https://news.ycombinator.com/item?id=27570058</id>
+        <link href="https://github.com/vramework/schemats"/>
+        <updated>2021-06-20T14:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/vramework/schemats
+Comments URL: https://news.ycombinator.com/item?id=27570058
+Points: 16
+# Comments: 5]]></summary>
+        <author>
+            <name>yasserf</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +78,8 @@ Points: 5
         <updated>2021-06-20T13:39:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lisp-lang.org/books/
 Comments URL: https://news.ycombinator.com/item?id=27569839
-Points: 19
-# Comments: 1]]></summary>
+Points: 50
+# Comments: 14]]></summary>
         <author>
             <name>katzeilla</name>
         </author>
@@ -65,8 +91,8 @@ Points: 19
         <updated>2021-06-20T13:36:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/family/archive/2021/06/four-day-workweek/619222/
 Comments URL: https://news.ycombinator.com/item?id=27569802
-Points: 74
-# Comments: 35]]></summary>
+Points: 118
+# Comments: 77]]></summary>
         <author>
             <name>philmcp</name>
         </author>
@@ -78,8 +104,8 @@ Points: 74
         <updated>2021-06-20T13:31:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.medrxiv.org/content/10.1101/2021.06.11.21258690v1
 Comments URL: https://news.ycombinator.com/item?id=27569772
-Points: 52
-# Comments: 24]]></summary>
+Points: 87
+# Comments: 83]]></summary>
         <author>
             <name>Enfi</name>
         </author>
@@ -91,8 +117,8 @@ Points: 52
         <updated>2021-06-20T13:17:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/yazeed44/gjf
 Comments URL: https://news.ycombinator.com/item?id=27569646
-Points: 21
-# Comments: 2]]></summary>
+Points: 27
+# Comments: 3]]></summary>
         <author>
             <name>alohaclient</name>
         </author>
@@ -104,8 +130,8 @@ Points: 21
         <updated>2021-06-20T13:14:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700
 Comments URL: https://news.ycombinator.com/item?id=27569631
-Points: 15
-# Comments: 11]]></summary>
+Points: 36
+# Comments: 39]]></summary>
         <author>
             <name>ketamine__</name>
         </author>
@@ -117,46 +143,10 @@ Points: 15
         <updated>2021-06-20T13:09:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon
 Comments URL: https://news.ycombinator.com/item?id=27569594
-Points: 222
-# Comments: 149]]></summary>
+Points: 299
+# Comments: 210]]></summary>
         <author>
             <name>bobjones334</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten Problems for Artificial Intelligence in the 2020s]]></title>
-        <id>https://news.ycombinator.com/item?id=27569548</id>
-        <link href="https://www.tenproblems.com/2020/01/16/ten-problems-for-artificial-intelligence-in-the-2020s/"/>
-        <updated>2021-06-20T13:03:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tenproblems.com/2020/01/16/ten-problems-for-artificial-intelligence-in-the-2020s/
-Comments URL: https://news.ycombinator.com/item?id=27569548
-Points: 8
-# Comments: 1]]></summary>
-        <author>
-            <name>DrNuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do software engineers have leverage?]]></title>
-        <id>https://news.ycombinator.com/item?id=27569539</id>
-        <link href="https://news.ycombinator.com/item?id=27569539"/>
-        <updated>2021-06-20T13:01:56.000Z</updated>
-        <summary type="html"><![CDATA[The web (including this site) is full of discussions/articles about how the job market for software engineers is hot, and getting hotter after the pandemic. People say it's a seller's market.
-Some other people say it's actually a sucker shortage, meaning that employers do not compete on salary.
-Then Triplebyte wrote (1): "Engineers are almost completely unique as a labor force. There is far more demand for engineers than there is supply, and that makes engineers powerful in a way other professions are not."
-A handful of software engineers produce software used by millions, and therefore generate an immense amount of value.
-Open source contributors give away a lot of value, since if everyone had to re-create their work (including its dependencies, its dependencies' dependencies, and so on), there would be 1,000,000 times the demand for software engineers than there is today and innovation progress would be much much slower.
-Do software engineers really have leverage?
-How could we increase our leverage?
-Why don't we choose to use our rare skills for our own profit (as everyone else does), and instead many of us give away immense value (and power/leverage) by open sourcing our work?
-  [1]: https://triplebyte.com/blog/rethinking-triplebyte
-
-
-Comments URL: https://news.ycombinator.com/item?id=27569539
-Points: 31
-# Comments: 20]]></summary>
-        <author>
-            <name>5444r1f4tg</name>
         </author>
     </entry>
     <entry>
@@ -166,23 +156,10 @@ Points: 31
         <updated>2021-06-20T12:59:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fakenous.net/?p=2365
 Comments URL: https://news.ycombinator.com/item?id=27569520
-Points: 26
-# Comments: 27]]></summary>
+Points: 46
+# Comments: 52]]></summary>
         <author>
             <name>erwald</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are continuous glucose monitors a waste of time for people without diabetes?]]></title>
-        <id>https://news.ycombinator.com/item?id=27569493</id>
-        <link href="https://peterattiamd.com/are-continuous-glucose-monitors-a-waste-of-time-for-people-without-diabetes/"/>
-        <updated>2021-06-20T12:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://peterattiamd.com/are-continuous-glucose-monitors-a-waste-of-time-for-people-without-diabetes/
-Comments URL: https://news.ycombinator.com/item?id=27569493
-Points: 11
-# Comments: 3]]></summary>
-        <author>
-            <name>jger15</name>
         </author>
     </entry>
     <entry>
@@ -205,8 +182,8 @@ Points: 1
         <updated>2021-06-20T11:44:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://zsync.moria.org.uk/
 Comments URL: https://news.ycombinator.com/item?id=27569146
-Points: 66
-# Comments: 13]]></summary>
+Points: 81
+# Comments: 15]]></summary>
         <author>
             <name>gjvc</name>
         </author>
@@ -218,8 +195,8 @@ Points: 66
         <updated>2021-06-20T11:29:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.chichou.me/2021/06/20/quick-analysis-wifid/
 Comments URL: https://news.ycombinator.com/item?id=27569068
-Points: 28
-# Comments: 2]]></summary>
+Points: 32
+# Comments: 4]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -231,8 +208,8 @@ Points: 28
         <updated>2021-06-20T11:04:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2021/06/16/the-methods-and-menace-of-the-new-bank-robbers
 Comments URL: https://news.ycombinator.com/item?id=27568929
-Points: 11
-# Comments: 1]]></summary>
+Points: 12
+# Comments: 2]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -244,8 +221,8 @@ Points: 11
         <updated>2021-06-20T10:19:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py
 Comments URL: https://news.ycombinator.com/item?id=27568709
-Points: 105
-# Comments: 98]]></summary>
+Points: 117
+# Comments: 111]]></summary>
         <author>
             <name>gk1</name>
         </author>
@@ -257,8 +234,8 @@ Points: 105
         <updated>2021-06-20T10:04:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/newsbeat-57528249
 Comments URL: https://news.ycombinator.com/item?id=27568641
-Points: 93
-# Comments: 81]]></summary>
+Points: 104
+# Comments: 104]]></summary>
         <author>
             <name>vanilla-almond</name>
         </author>
@@ -270,10 +247,23 @@ Points: 93
         <updated>2021-06-20T09:57:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/GossiTheDog/status/1405805536403243009
 Comments URL: https://news.ycombinator.com/item?id=27568608
-Points: 100
-# Comments: 16]]></summary>
+Points: 114
+# Comments: 19]]></summary>
         <author>
             <name>bobcostas55</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cubli – A cube that can jump up, balance, and walk across your desk (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=27568561</id>
+        <link href="https://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/"/>
+        <updated>2021-06-20T09:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/
+Comments URL: https://news.ycombinator.com/item?id=27568561
+Points: 72
+# Comments: 9]]></summary>
+        <author>
+            <name>signa11</name>
         </author>
     </entry>
     <entry>
