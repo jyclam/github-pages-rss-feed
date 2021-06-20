@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T04:14:34.419Z</updated>
+    <updated>2021-06-20T05:14:03.412Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Haunting Photos Reveal an Abandoned Town of Disneyesque Castles]]></title>
-        <id>https://news.ycombinator.com/item?id=27566722</id>
-        <link href="https://www.architecturaldigest.com/gallery/haunting-photos-reveal-massive-abandoned-town-disneyesque-castles"/>
-        <updated>2021-06-20T02:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.architecturaldigest.com/gallery/haunting-photos-reveal-massive-abandoned-town-disneyesque-castles
-Comments URL: https://news.ycombinator.com/item?id=27566722
-Points: 6
+        <title type="html"><![CDATA[As Money Launderers Buy Dalís, U.S. Looks at Lifting the Veil on Art Sales]]></title>
+        <id>https://news.ycombinator.com/item?id=27567039</id>
+        <link href="https://www.nytimes.com/2021/06/19/arts/design/money-laundering-art-market.html"/>
+        <updated>2021-06-20T04:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/19/arts/design/money-laundering-art-market.html
+Comments URL: https://news.ycombinator.com/item?id=27567039
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>mariojv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obvious and possible software innovations nobody does]]></title>
+        <id>https://news.ycombinator.com/item?id=27567001</id>
+        <link href="https://scottlocklin.wordpress.com/2021/04/01/obvious-and-possible-software-innovations-nobody-does/"/>
+        <updated>2021-06-20T04:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scottlocklin.wordpress.com/2021/04/01/obvious-and-possible-software-innovations-nobody-does/
+Comments URL: https://news.ycombinator.com/item?id=27567001
+Points: 17
 # Comments: 2]]></summary>
         <author>
-            <name>mmphosis</name>
+            <name>haltingproblem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XUAN-Bike: Self-riding, riderless bike]]></title>
+        <id>https://news.ycombinator.com/item?id=27566660</id>
+        <link href="https://github.com/peng-zhihui/XUAN-Bike"/>
+        <updated>2021-06-20T02:45:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/peng-zhihui/XUAN-Bike
+Comments URL: https://news.ycombinator.com/item?id=27566660
+Points: 25
+# Comments: 17]]></summary>
+        <author>
+            <name>donohoe</name>
         </author>
     </entry>
     <entry>
@@ -26,10 +52,23 @@ Points: 6
         <updated>2021-06-19T23:23:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/
 Comments URL: https://news.ycombinator.com/item?id=27565482
-Points: 12
+Points: 15
 # Comments: 1]]></summary>
         <author>
             <name>edward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinforcement Learning: Theory and Algorithms]]></title>
+        <id>https://news.ycombinator.com/item?id=27565421</id>
+        <link href="https://rltheorybook.github.io/"/>
+        <updated>2021-06-19T23:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rltheorybook.github.io/
+Comments URL: https://news.ycombinator.com/item?id=27565421
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>Anon84</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +78,8 @@ Points: 12
         <updated>2021-06-19T23:11:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.renoise.com/
 Comments URL: https://news.ycombinator.com/item?id=27565392
-Points: 105
-# Comments: 38]]></summary>
+Points: 120
+# Comments: 47]]></summary>
         <author>
             <name>1_player</name>
         </author>
@@ -52,23 +91,10 @@ Points: 105
         <updated>2021-06-19T22:30:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.koreaherald.com/view.php?ud=20210617000953
 Comments URL: https://news.ycombinator.com/item?id=27565097
-Points: 44
+Points: 52
 # Comments: 11]]></summary>
         <author>
             <name>FridayoLeary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A specific network name can completely disable Wi-Fi on your iPhone]]></title>
-        <id>https://news.ycombinator.com/item?id=27564654</id>
-        <link href="https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/"/>
-        <updated>2021-06-19T21:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/
-Comments URL: https://news.ycombinator.com/item?id=27564654
-Points: 74
-# Comments: 30]]></summary>
-        <author>
-            <name>laktak</name>
         </author>
     </entry>
     <entry>
@@ -91,23 +117,10 @@ Points: 1
         <updated>2021-06-19T20:35:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thezerohack.com/apple-vulnerability-bug-bounty
 Comments URL: https://news.ycombinator.com/item?id=27564236
-Points: 20
-# Comments: 0]]></summary>
+Points: 50
+# Comments: 4]]></summary>
         <author>
             <name>alexcos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ivermectin for Prevention and Treatment of Covid-19 Infection]]></title>
-        <id>https://news.ycombinator.com/item?id=27562412</id>
-        <link href="https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx"/>
-        <updated>2021-06-19T17:26:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx
-Comments URL: https://news.ycombinator.com/item?id=27562412
-Points: 273
-# Comments: 480]]></summary>
-        <author>
-            <name>stephc_int13</name>
         </author>
     </entry>
     <entry>
@@ -117,8 +130,8 @@ Points: 273
         <updated>2021-06-19T15:20:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC
 Comments URL: https://news.ycombinator.com/item?id=27561238
-Points: 308
-# Comments: 309]]></summary>
+Points: 322
+# Comments: 316]]></summary>
         <author>
             <name>elorant</name>
         </author>
@@ -131,23 +144,10 @@ Points: 308
         <summary type="html"><![CDATA[I’ll be here for the next 3 hours and then again at around 12 pm for another 3 hours. As usual, there are countless possible topics and I'll be guided by whatever you're concerned with but as much as possible I’d like to focus on the recently reinstated International Entrepreneur Parole Program (or IEPP).  Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won’t have access to all the facts. Please stick to a factual discussion in your questions and comments and I'll try to do the same in my answers!
 Previous threads we've done: https://news.ycombinator.com/submitted?id=proberts.
 Comments URL: https://news.ycombinator.com/item?id=27560781
-Points: 248
-# Comments: 215]]></summary>
+Points: 252
+# Comments: 216]]></summary>
         <author>
             <name>proberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EventBus 3.1 with plain Java support]]></title>
-        <id>https://news.ycombinator.com/item?id=27560587</id>
-        <link href="https://greenrobot.org/release/eventbus-3-1-plain-java-support/"/>
-        <updated>2021-06-19T14:11:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://greenrobot.org/release/eventbus-3-1-plain-java-support/
-Comments URL: https://news.ycombinator.com/item?id=27560587
-Points: 48
-# Comments: 31]]></summary>
-        <author>
-            <name>qdghmkop</name>
         </author>
     </entry>
     <entry>
@@ -157,8 +157,8 @@ Points: 48
         <updated>2021-06-19T14:09:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1
 Comments URL: https://news.ycombinator.com/item?id=27560574
-Points: 134
-# Comments: 68]]></summary>
+Points: 139
+# Comments: 70]]></summary>
         <author>
             <name>tomhoward</name>
         </author>
@@ -170,8 +170,8 @@ Points: 134
         <updated>2021-06-19T13:49:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://adamcadre.ac/calendar/202105m.html
 Comments URL: https://news.ycombinator.com/item?id=27560440
-Points: 352
-# Comments: 435]]></summary>
+Points: 373
+# Comments: 481]]></summary>
         <author>
             <name>rossvor</name>
         </author>
@@ -183,8 +183,8 @@ Points: 352
         <updated>2021-06-19T13:38:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://people.eecs.berkeley.edu/~pister/publications/2018/BurnettTapeoutClassISCAS2018.pdf
 Comments URL: https://news.ycombinator.com/item?id=27560368
-Points: 118
-# Comments: 21]]></summary>
+Points: 121
+# Comments: 23]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -196,8 +196,8 @@ Points: 118
         <updated>2021-06-19T13:24:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Casu_martzu
 Comments URL: https://news.ycombinator.com/item?id=27560251
-Points: 181
-# Comments: 130]]></summary>
+Points: 183
+# Comments: 132]]></summary>
         <author>
             <name>nojs</name>
         </author>
@@ -209,8 +209,8 @@ Points: 181
         <updated>2021-06-19T12:33:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01627-2
 Comments URL: https://news.ycombinator.com/item?id=27559917
-Points: 269
-# Comments: 96]]></summary>
+Points: 282
+# Comments: 100]]></summary>
         <author>
             <name>Wxc2jjJmST9XWWL</name>
         </author>
@@ -222,8 +222,8 @@ Points: 269
         <updated>2021-06-19T12:07:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html
 Comments URL: https://news.ycombinator.com/item?id=27559795
-Points: 342
-# Comments: 244]]></summary>
+Points: 347
+# Comments: 246]]></summary>
         <author>
             <name>hasheddan</name>
         </author>
@@ -235,7 +235,7 @@ Points: 342
         <updated>2021-06-19T10:13:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/
 Comments URL: https://news.ycombinator.com/item?id=27559290
-Points: 132
+Points: 137
 # Comments: 96]]></summary>
         <author>
             <name>pseudolus</name>
@@ -248,8 +248,8 @@ Points: 132
         <updated>2021-06-19T04:51:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/
 Comments URL: https://news.ycombinator.com/item?id=27557856
-Points: 28
-# Comments: 8]]></summary>
+Points: 31
+# Comments: 10]]></summary>
         <author>
             <name>apsec112</name>
         </author>
@@ -261,8 +261,8 @@ Points: 28
         <updated>2021-06-18T23:46:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://peewee.com/2021/06/18/rest-in-peace-john-paragon/
 Comments URL: https://news.ycombinator.com/item?id=27556351
-Points: 223
-# Comments: 28]]></summary>
+Points: 226
+# Comments: 32]]></summary>
         <author>
             <name>MilnerRoute</name>
         </author>
