@@ -2,21 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T20:11:48.945Z</updated>
+    <updated>2021-06-20T21:10:29.293Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[A dwarf planet coming within 11 au of the sun over the next 10 years]]></title>
+        <title type="html"><![CDATA[Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product]]></title>
+        <id>https://news.ycombinator.com/item?id=27573864</id>
+        <link href="https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"/>
+        <updated>2021-06-20T21:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567
+Comments URL: https://news.ycombinator.com/item?id=27573864
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>sangwen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nixos-unstable’s ISO_minimal.x86_64-Linux is 100% reproducible]]></title>
+        <id>https://news.ycombinator.com/item?id=27573393</id>
+        <link href="https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723"/>
+        <updated>2021-06-20T20:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723
+Comments URL: https://news.ycombinator.com/item?id=27573393
+Points: 35
+# Comments: 4]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If the Moon Were Only 1 Pixel (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=27573172</id>
+        <link href="https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"/>
+        <updated>2021-06-20T19:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
+Comments URL: https://news.ycombinator.com/item?id=27573172
+Points: 23
+# Comments: 6]]></summary>
+        <author>
+            <name>_Microft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A dwarf planet coming within 11 AU of the sun over the next 10 years]]></title>
         <id>https://news.ycombinator.com/item?id=27572746</id>
         <link href="https://groups.io/g/mpml/topic/83645454#36493"/>
         <updated>2021-06-20T18:39:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://groups.io/g/mpml/topic/83645454#36493
 Comments URL: https://news.ycombinator.com/item?id=27572746
-Points: 122
-# Comments: 42]]></summary>
+Points: 190
+# Comments: 74]]></summary>
         <author>
             <name>MKais</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our journey from office-centric to remote-first]]></title>
+        <id>https://news.ycombinator.com/item?id=27572741</id>
+        <link href="https://www.docker.com/blog/our-journey-from-office-centric-to-remote-first/"/>
+        <updated>2021-06-20T18:38:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.docker.com/blog/our-journey-from-office-centric-to-remote-first/
+Comments URL: https://news.ycombinator.com/item?id=27572741
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>kiyanwang</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +78,8 @@ Points: 122
         <updated>2021-06-20T18:29:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.cloudware.bg/en/you-wont-live-to-see-a-128bit-cpu/
 Comments URL: https://news.ycombinator.com/item?id=27572663
-Points: 3
-# Comments: 3]]></summary>
+Points: 20
+# Comments: 39]]></summary>
         <author>
             <name>indigodaddy</name>
         </author>
@@ -39,7 +91,7 @@ Points: 3
         <updated>2021-06-20T18:29:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.davidgodman.org/fathers-day/
 Comments URL: https://news.ycombinator.com/item?id=27572650
-Points: 7
+Points: 12
 # Comments: 2]]></summary>
         <author>
             <name>dang</name>
@@ -52,8 +104,8 @@ Points: 7
         <updated>2021-06-20T17:55:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/environment/2021/jun/20/bee-friendly-urban-wildflower-meadows-prove-a-hit-with-german-city-dwellers
 Comments URL: https://news.ycombinator.com/item?id=27572355
-Points: 43
-# Comments: 4]]></summary>
+Points: 68
+# Comments: 12]]></summary>
         <author>
             <name>rapnie</name>
         </author>
@@ -65,35 +117,21 @@ Points: 43
         <updated>2021-06-20T17:39:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html
 Comments URL: https://news.ycombinator.com/item?id=27572218
-Points: 88
-# Comments: 22]]></summary>
+Points: 135
+# Comments: 42]]></summary>
         <author>
             <name>sprachspiel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fly.io (YC W20) Is Hiring Site Reliability Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27571850</id>
-        <link href="https://news.ycombinator.com/item?id=27571850"/>
-        <updated>2021-06-20T17:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Fly.io takes container images and converts them into fleets of Firecracker VMs, running on our own hardware around the world. 
-It's easy on Fly to run applications close to users, no matter where they are in the world. Try it out! If you’ve got a working container already, it can be running here in less than 10 minutes:
-https://fly.io/docs/speedrun/
-We've got a lot of fun ops challenges here. We're HashiCorp stack (Nomad, Consul, and Vault), plus Firecracker, plus WireGuard, which is what our network fabric is built on. Our users drive Fly.io through a Rails-based GraphQL API. We host a heavy-duty Prometheus-style metrics cluster, an ElasticSearch cluster for logging, a monitoring system using Sensu Go, BGP4 peering with Bird… the list goes on.
-We're hiring SRE-types to help us manage and …]]></summary>
-        <author>
-            <name>tptacek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could Mitochondria Be the Key to a Healthy Brain?]]></title>
+        <title type="html"><![CDATA[Mitochondria may contribute to neurological and psychiatric disorders: research]]></title>
         <id>https://news.ycombinator.com/item?id=27571818</id>
         <link href="https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/"/>
         <updated>2021-06-20T16:56:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/
 Comments URL: https://news.ycombinator.com/item?id=27571818
-Points: 87
-# Comments: 49]]></summary>
+Points: 109
+# Comments: 57]]></summary>
         <author>
             <name>LinuxBender</name>
         </author>
@@ -105,8 +143,8 @@ Points: 87
         <updated>2021-06-20T15:59:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://watchy.sqfmi.com/
 Comments URL: https://news.ycombinator.com/item?id=27571322
-Points: 80
-# Comments: 20]]></summary>
+Points: 97
+# Comments: 25]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -118,7 +156,7 @@ Points: 80
         <updated>2021-06-20T15:55:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/yangxy/GPEN
 Comments URL: https://news.ycombinator.com/item?id=27571283
-Points: 30
+Points: 33
 # Comments: 7]]></summary>
         <author>
             <name>Brajeshwar</name>
@@ -131,8 +169,8 @@ Points: 30
         <updated>2021-06-20T15:34:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.matecdev.com/posts/numpy-julia-fortran.html
 Comments URL: https://news.ycombinator.com/item?id=27571019
-Points: 105
-# Comments: 110]]></summary>
+Points: 126
+# Comments: 129]]></summary>
         <author>
             <name>cs702</name>
         </author>
@@ -144,36 +182,10 @@ Points: 105
         <updated>2021-06-20T15:05:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thejackjam.medium.com/so-long-autodesk-shotgun-32fb3da74f55
 Comments URL: https://news.ycombinator.com/item?id=27570731
-Points: 56
-# Comments: 15]]></summary>
+Points: 62
+# Comments: 18]]></summary>
         <author>
             <name>aprdm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Americans Are Keeping Their Cars Longer, as Vehicle Age Hits 12 Years]]></title>
-        <id>https://news.ycombinator.com/item?id=27570691</id>
-        <link href="https://www.wsj.com/articles/average-u-s-vehicle-age-hits-record-12-years-11623680640"/>
-        <updated>2021-06-20T15:01:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/average-u-s-vehicle-age-hits-record-12-years-11623680640
-Comments URL: https://news.ycombinator.com/item?id=27570691
-Points: 102
-# Comments: 273]]></summary>
-        <author>
-            <name>prostoalex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Julia Really Fast?]]></title>
-        <id>https://news.ycombinator.com/item?id=27570591</id>
-        <link href="https://medium.com/codex/is-julia-really-fast-12cd7caef96b"/>
-        <updated>2021-06-20T14:52:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medium.com/codex/is-julia-really-fast-12cd7caef96b
-Comments URL: https://news.ycombinator.com/item?id=27570591
-Points: 107
-# Comments: 35]]></summary>
-        <author>
-            <name>leephillips</name>
         </author>
     </entry>
     <entry>
@@ -183,8 +195,8 @@ Points: 107
         <updated>2021-06-20T14:49:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://deepnight.itch.io/ldtk
 Comments URL: https://news.ycombinator.com/item?id=27570556
-Points: 192
-# Comments: 28]]></summary>
+Points: 212
+# Comments: 32]]></summary>
         <author>
             <name>polm23</name>
         </author>
@@ -196,23 +208,10 @@ Points: 192
         <updated>2021-06-20T14:25:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aes67.app/
 Comments URL: https://news.ycombinator.com/item?id=27570320
-Points: 58
+Points: 62
 # Comments: 19]]></summary>
         <author>
             <name>phlhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My performance benchmarking workflow]]></title>
-        <id>https://news.ycombinator.com/item?id=27570316</id>
-        <link href="http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html"/>
-        <updated>2021-06-20T14:25:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html
-Comments URL: https://news.ycombinator.com/item?id=27570316
-Points: 20
-# Comments: 3]]></summary>
-        <author>
-            <name>ingve</name>
         </author>
     </entry>
     <entry>
@@ -222,23 +221,10 @@ Points: 20
         <updated>2021-06-20T14:02:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/vramework/schemats
 Comments URL: https://news.ycombinator.com/item?id=27570058
-Points: 62
-# Comments: 46]]></summary>
+Points: 71
+# Comments: 48]]></summary>
         <author>
             <name>yasserf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unitree’s Go1 Robot Dog Looks Pretty Great, Costs Just $2700]]></title>
-        <id>https://news.ycombinator.com/item?id=27569631</id>
-        <link href="https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700"/>
-        <updated>2021-06-20T13:14:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700
-Comments URL: https://news.ycombinator.com/item?id=27569631
-Points: 65
-# Comments: 88]]></summary>
-        <author>
-            <name>ketamine__</name>
         </author>
     </entry>
     <entry>
@@ -248,8 +234,8 @@ Points: 65
         <updated>2021-06-20T13:09:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon
 Comments URL: https://news.ycombinator.com/item?id=27569594
-Points: 603
-# Comments: 348]]></summary>
+Points: 658
+# Comments: 395]]></summary>
         <author>
             <name>bobjones334</name>
         </author>
@@ -261,10 +247,23 @@ Points: 603
         <updated>2021-06-20T11:44:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://zsync.moria.org.uk/
 Comments URL: https://news.ycombinator.com/item?id=27569146
-Points: 118
-# Comments: 23]]></summary>
+Points: 122
+# Comments: 24]]></summary>
         <author>
             <name>gjvc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stonks Are What You Can Get Away With: NFTs and Financial Nihilism]]></title>
+        <id>https://news.ycombinator.com/item?id=27568811</id>
+        <link href="https://blog.evjang.com/2021/06/nft.html"/>
+        <updated>2021-06-20T10:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.evjang.com/2021/06/nft.html
+Comments URL: https://news.ycombinator.com/item?id=27568811
+Points: 111
+# Comments: 181]]></summary>
+        <author>
+            <name>headalgorithm</name>
         </author>
     </entry>
     <entry>
