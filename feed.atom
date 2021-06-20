@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T16:18:57.477Z</updated>
+    <updated>2021-06-20T17:24:25.663Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fly.io (YC W20) Is Hiring Site Reliability Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27571850</id>
+        <link href="https://news.ycombinator.com/item?id=27571850"/>
+        <updated>2021-06-20T17:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Fly.io takes container images and converts them into fleets of Firecracker VMs, running on our own hardware around the world. 
+It's easy on Fly to run applications close to users, no matter where they are in the world. Try it out! If you’ve got a working container already, it can be running here in less than 10 minutes:
+https://fly.io/docs/speedrun/
+We've got a lot of fun ops challenges here. We're HashiCorp stack (Nomad, Consul, and Vault), plus Firecracker, plus WireGuard, which is what our network fabric is built on. Our users drive Fly.io through a Rails-based GraphQL API. We host a heavy-duty Prometheus-style metrics cluster, an ElasticSearch cluster for logging, a monitoring system using Sensu Go, BGP4 peering with Bird… the list goes on.
+We're hiring SRE-types to help us manage and …]]></summary>
+        <author>
+            <name>tptacek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could Mitochondria Be the Key to a Healthy Brain?]]></title>
+        <id>https://news.ycombinator.com/item?id=27571818</id>
+        <link href="https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/"/>
+        <updated>2021-06-20T16:56:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/
+Comments URL: https://news.ycombinator.com/item?id=27571818
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>LinuxBender</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watchy: Open-source E-Paper Watch with ESP32]]></title>
+        <id>https://news.ycombinator.com/item?id=27571322</id>
+        <link href="https://watchy.sqfmi.com/"/>
+        <updated>2021-06-20T15:59:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://watchy.sqfmi.com/
+Comments URL: https://news.ycombinator.com/item?id=27571322
+Points: 20
+# Comments: 16]]></summary>
+        <author>
+            <name>lnyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GAN Prior Embedded Network for Blind Face Restoration in the Wild]]></title>
+        <id>https://news.ycombinator.com/item?id=27571283</id>
+        <link href="https://github.com/yangxy/GPEN"/>
+        <updated>2021-06-20T15:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/yangxy/GPEN
+Comments URL: https://news.ycombinator.com/item?id=27571283
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soviets Once Denied a Deadly Anthrax Lab Leak. U.S. Scientists Backed the Story]]></title>
+        <id>https://news.ycombinator.com/item?id=27571056</id>
+        <link href="https://www.nytimes.com/2021/06/20/world/europe/anthrax-lab-leak-soviet-covid.html"/>
+        <updated>2021-06-20T15:36:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/20/world/europe/anthrax-lab-leak-soviet-covid.html
+Comments URL: https://news.ycombinator.com/item?id=27571056
+Points: 35
+# Comments: 18]]></summary>
+        <author>
+            <name>johncena33</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julia: Faster than Fortran, cleaner than Numpy]]></title>
+        <id>https://news.ycombinator.com/item?id=27571019</id>
+        <link href="https://www.matecdev.com/posts/numpy-julia-fortran.html"/>
+        <updated>2021-06-20T15:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.matecdev.com/posts/numpy-julia-fortran.html
+Comments URL: https://news.ycombinator.com/item?id=27571019
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>cs702</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So Long Autodesk Shotgun]]></title>
+        <id>https://news.ycombinator.com/item?id=27570731</id>
+        <link href="https://thejackjam.medium.com/so-long-autodesk-shotgun-32fb3da74f55"/>
+        <updated>2021-06-20T15:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thejackjam.medium.com/so-long-autodesk-shotgun-32fb3da74f55
+Comments URL: https://news.ycombinator.com/item?id=27570731
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>aprdm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Americans Are Keeping Their Cars Longer, as Vehicle Age Hits 12 Years]]></title>
+        <id>https://news.ycombinator.com/item?id=27570691</id>
+        <link href="https://www.wsj.com/articles/average-u-s-vehicle-age-hits-record-12-years-11623680640"/>
+        <updated>2021-06-20T15:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/average-u-s-vehicle-age-hits-record-12-years-11623680640
+Comments URL: https://news.ycombinator.com/item?id=27570691
+Points: 56
+# Comments: 129]]></summary>
+        <author>
+            <name>prostoalex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Julia Really Fast?]]></title>
         <id>https://news.ycombinator.com/item?id=27570591</id>
@@ -13,8 +118,8 @@
         <updated>2021-06-20T14:52:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medium.com/codex/is-julia-really-fast-12cd7caef96b
 Comments URL: https://news.ycombinator.com/item?id=27570591
-Points: 32
-# Comments: 14]]></summary>
+Points: 58
+# Comments: 22]]></summary>
         <author>
             <name>leephillips</name>
         </author>
@@ -26,8 +131,8 @@ Points: 32
         <updated>2021-06-20T14:49:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://deepnight.itch.io/ldtk
 Comments URL: https://news.ycombinator.com/item?id=27570556
-Points: 58
-# Comments: 3]]></summary>
+Points: 110
+# Comments: 13]]></summary>
         <author>
             <name>polm23</name>
         </author>
@@ -39,8 +144,8 @@ Points: 58
         <updated>2021-06-20T14:25:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aes67.app/
 Comments URL: https://news.ycombinator.com/item?id=27570320
-Points: 33
-# Comments: 12]]></summary>
+Points: 43
+# Comments: 14]]></summary>
         <author>
             <name>phlhar</name>
         </author>
@@ -52,8 +157,8 @@ Points: 33
         <updated>2021-06-20T14:25:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html
 Comments URL: https://news.ycombinator.com/item?id=27570316
-Points: 11
-# Comments: 0]]></summary>
+Points: 12
+# Comments: 2]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -65,8 +170,8 @@ Points: 11
         <updated>2021-06-20T14:02:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/vramework/schemats
 Comments URL: https://news.ycombinator.com/item?id=27570058
-Points: 16
-# Comments: 5]]></summary>
+Points: 37
+# Comments: 23]]></summary>
         <author>
             <name>yasserf</name>
         </author>
@@ -78,23 +183,10 @@ Points: 16
         <updated>2021-06-20T13:39:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lisp-lang.org/books/
 Comments URL: https://news.ycombinator.com/item?id=27569839
-Points: 50
-# Comments: 14]]></summary>
+Points: 71
+# Comments: 19]]></summary>
         <author>
             <name>katzeilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4-day workweeks can boost happiness and productivity]]></title>
-        <id>https://news.ycombinator.com/item?id=27569802</id>
-        <link href="https://www.theatlantic.com/family/archive/2021/06/four-day-workweek/619222/"/>
-        <updated>2021-06-20T13:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/family/archive/2021/06/four-day-workweek/619222/
-Comments URL: https://news.ycombinator.com/item?id=27569802
-Points: 118
-# Comments: 77]]></summary>
-        <author>
-            <name>philmcp</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +196,8 @@ Points: 118
         <updated>2021-06-20T13:31:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.medrxiv.org/content/10.1101/2021.06.11.21258690v1
 Comments URL: https://news.ycombinator.com/item?id=27569772
-Points: 87
-# Comments: 83]]></summary>
+Points: 101
+# Comments: 121]]></summary>
         <author>
             <name>Enfi</name>
         </author>
@@ -117,21 +209,21 @@ Points: 87
         <updated>2021-06-20T13:17:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/yazeed44/gjf
 Comments URL: https://news.ycombinator.com/item?id=27569646
-Points: 27
-# Comments: 3]]></summary>
+Points: 33
+# Comments: 5]]></summary>
         <author>
             <name>alohaclient</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unitree’s Go1 Robot Dog Looks Pretty Great, Costs Just USD $2700]]></title>
+        <title type="html"><![CDATA[Unitree’s Go1 Robot Dog Looks Pretty Great, Costs Just $2700]]></title>
         <id>https://news.ycombinator.com/item?id=27569631</id>
         <link href="https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700"/>
         <updated>2021-06-20T13:14:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700
 Comments URL: https://news.ycombinator.com/item?id=27569631
-Points: 36
-# Comments: 39]]></summary>
+Points: 42
+# Comments: 50]]></summary>
         <author>
             <name>ketamine__</name>
         </author>
@@ -143,127 +235,46 @@ Points: 36
         <updated>2021-06-20T13:09:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon
 Comments URL: https://news.ycombinator.com/item?id=27569594
-Points: 299
-# Comments: 210]]></summary>
+Points: 389
+# Comments: 248]]></summary>
         <author>
             <name>bobjones334</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There Are Aliens, but Probably Not Here]]></title>
-        <id>https://news.ycombinator.com/item?id=27569520</id>
-        <link href="https://fakenous.net/?p=2365"/>
-        <updated>2021-06-20T12:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fakenous.net/?p=2365
-Comments URL: https://news.ycombinator.com/item?id=27569520
-Points: 46
-# Comments: 52]]></summary>
+        <title type="html"><![CDATA[Do software engineers have leverage?]]></title>
+        <id>https://news.ycombinator.com/item?id=27569539</id>
+        <link href="https://news.ycombinator.com/item?id=27569539"/>
+        <updated>2021-06-20T13:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The web (including this site) is full of discussions/articles about how the job market for software engineers is hot, and getting hotter after the pandemic. People say it's a seller's market.
+Some other people say it's actually a sucker shortage, meaning that employers do not compete on salary.
+Then Triplebyte wrote (1): "Engineers are almost completely unique as a labor force. There is far more demand for engineers than there is supply, and that makes engineers powerful in a way other professions are not."
+A handful of software engineers produce software used by millions, and therefore generate an immense amount of value.
+Open source contributors give away a lot of value, since if everyone had to re-create their work (including its dependencies, its dependencies' dependencies, and so on), there would be 1,000,000 times the demand for software engineers than there is today and innovation progress would be much much slower.
+Do software engineers really have leverage?
+How could we increase our leverage?
+Why don't we choose to use our rare skills for our own profit (as everyone else does), and instead many of us give away immense value (and power/leverage) by open sourcing our work?
+  [1]: https://triplebyte.com/blog/rethinking-triplebyte
+
+
+Comments URL: https://news.ycombinator.com/item?id=27569539
+Points: 76
+# Comments: 75]]></summary>
         <author>
-            <name>erwald</name>
+            <name>5444r1f4tg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HireArt (YC W12) Is Hiring a VP of Finance]]></title>
-        <id>https://news.ycombinator.com/item?id=27569229</id>
-        <link href="https://www.hireart.com/jobs/1d4ae4fc/apply"/>
-        <updated>2021-06-20T12:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.hireart.com/jobs/1d4ae4fc/apply
-Comments URL: https://news.ycombinator.com/item?id=27569229
-Points: 1
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Seeding by Ceding]]></title>
+        <id>https://news.ycombinator.com/item?id=27569521</id>
+        <link href="https://mackenzie-scott.medium.com/seeding-by-ceding-ea6de642bf"/>
+        <updated>2021-06-20T12:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mackenzie-scott.medium.com/seeding-by-ceding-ea6de642bf
+Comments URL: https://news.ycombinator.com/item?id=27569521
+Points: 62
+# Comments: 55]]></summary>
         <author>
-            <name>nsedlet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zsync: Differential file downloading over HTTP using the rsync algorithm (2010)]]></title>
-        <id>https://news.ycombinator.com/item?id=27569146</id>
-        <link href="http://zsync.moria.org.uk/"/>
-        <updated>2021-06-20T11:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://zsync.moria.org.uk/
-Comments URL: https://news.ycombinator.com/item?id=27569146
-Points: 81
-# Comments: 15]]></summary>
-        <author>
-            <name>gjvc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Analysis for the SSID Format String Bug]]></title>
-        <id>https://news.ycombinator.com/item?id=27569068</id>
-        <link href="https://blog.chichou.me/2021/06/20/quick-analysis-wifid/"/>
-        <updated>2021-06-20T11:29:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.chichou.me/2021/06/20/quick-analysis-wifid/
-Comments URL: https://news.ycombinator.com/item?id=27569068
-Points: 32
-# Comments: 4]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber-heists: The methods and menace of the new bank robbers]]></title>
-        <id>https://news.ycombinator.com/item?id=27568929</id>
-        <link href="https://www.economist.com/finance-and-economics/2021/06/16/the-methods-and-menace-of-the-new-bank-robbers"/>
-        <updated>2021-06-20T11:04:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2021/06/16/the-methods-and-menace-of-the-new-bank-robbers
-Comments URL: https://news.ycombinator.com/item?id=27568929
-Points: 12
-# Comments: 2]]></summary>
-        <author>
-            <name>edward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Find Your Hacker News Doppelgänger]]></title>
-        <id>https://news.ycombinator.com/item?id=27568709</id>
-        <link href="https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py"/>
-        <updated>2021-06-20T10:19:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py
-Comments URL: https://news.ycombinator.com/item?id=27568709
-Points: 117
-# Comments: 111]]></summary>
-        <author>
-            <name>gk1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPs: Octopuses feel pain and need legal protection]]></title>
-        <id>https://news.ycombinator.com/item?id=27568641</id>
-        <link href="https://www.bbc.com/news/newsbeat-57528249"/>
-        <updated>2021-06-20T10:04:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/newsbeat-57528249
-Comments URL: https://news.ycombinator.com/item?id=27568641
-Points: 104
-# Comments: 104]]></summary>
-        <author>
-            <name>vanilla-almond</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft have signed multiple rootkits]]></title>
-        <id>https://news.ycombinator.com/item?id=27568608</id>
-        <link href="https://twitter.com/GossiTheDog/status/1405805536403243009"/>
-        <updated>2021-06-20T09:57:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/GossiTheDog/status/1405805536403243009
-Comments URL: https://news.ycombinator.com/item?id=27568608
-Points: 114
-# Comments: 19]]></summary>
-        <author>
-            <name>bobcostas55</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cubli – A cube that can jump up, balance, and walk across your desk (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=27568561</id>
-        <link href="https://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/"/>
-        <updated>2021-06-20T09:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://robohub.org/swiss-robots-cubli-a-cube-that-can-jump-up-balance-and-walk-across-your-desk/
-Comments URL: https://news.ycombinator.com/item?id=27568561
-Points: 72
-# Comments: 9]]></summary>
-        <author>
-            <name>signa11</name>
+            <name>RyanShook</name>
         </author>
     </entry>
     <entry>
