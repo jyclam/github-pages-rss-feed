@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T09:11:47.243Z</updated>
+    <updated>2021-06-20T10:12:49.125Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Internet in a Box]]></title>
+        <id>https://news.ycombinator.com/item?id=27568332</id>
+        <link href="http://internet-in-a-box.org/"/>
+        <updated>2021-06-20T08:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://internet-in-a-box.org/
+Comments URL: https://news.ycombinator.com/item?id=27568332
+Points: 14
+# Comments: 2]]></summary>
+        <author>
+            <name>thunderbong</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ransomware attack payments might be tax deductible, says US government]]></title>
         <id>https://news.ycombinator.com/item?id=27568154</id>
@@ -13,8 +26,8 @@
         <updated>2021-06-20T08:17:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fox2detroit.com/news/ransomware-attack-payments-might-be-tax-deductible-says-us-government
 Comments URL: https://news.ycombinator.com/item?id=27568154
-Points: 3
-# Comments: 0]]></summary>
+Points: 28
+# Comments: 23]]></summary>
         <author>
             <name>adsche</name>
         </author>
@@ -26,8 +39,8 @@ Points: 3
         <updated>2021-06-20T08:05:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rockylinux.org/news/rocky-linux-8-4-rc1-release/
 Comments URL: https://news.ycombinator.com/item?id=27568087
-Points: 31
-# Comments: 0]]></summary>
+Points: 60
+# Comments: 7]]></summary>
         <author>
             <name>mariuz</name>
         </author>
@@ -39,7 +52,7 @@ Points: 31
         <updated>2021-06-20T07:20:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2
 Comments URL: https://news.ycombinator.com/item?id=27567897
-Points: 25
+Points: 34
 # Comments: 7]]></summary>
         <author>
             <name>adlrocha</name>
@@ -52,10 +65,23 @@ Points: 25
         <updated>2021-06-20T06:35:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.viktomas.com/posts/insurance/
 Comments URL: https://news.ycombinator.com/item?id=27567708
-Points: 66
-# Comments: 75]]></summary>
+Points: 84
+# Comments: 93]]></summary>
         <author>
             <name>vicek22</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haunting Photos Reveal an Abandoned Town of Disneyesque Castles]]></title>
+        <id>https://news.ycombinator.com/item?id=27566722</id>
+        <link href="https://www.architecturaldigest.com/gallery/haunting-photos-reveal-massive-abandoned-town-disneyesque-castles"/>
+        <updated>2021-06-20T02:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.architecturaldigest.com/gallery/haunting-photos-reveal-massive-abandoned-town-disneyesque-castles
+Comments URL: https://news.ycombinator.com/item?id=27566722
+Points: 24
+# Comments: 8]]></summary>
+        <author>
+            <name>mmphosis</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +91,8 @@ Points: 66
         <updated>2021-06-19T23:23:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/
 Comments URL: https://news.ycombinator.com/item?id=27565482
-Points: 59
-# Comments: 6]]></summary>
+Points: 70
+# Comments: 12]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -78,8 +104,8 @@ Points: 59
         <updated>2021-06-19T23:14:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rltheorybook.github.io/
 Comments URL: https://news.ycombinator.com/item?id=27565421
-Points: 35
-# Comments: 0]]></summary>
+Points: 44
+# Comments: 1]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -91,8 +117,8 @@ Points: 35
         <updated>2021-06-19T23:11:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.renoise.com/
 Comments URL: https://news.ycombinator.com/item?id=27565392
-Points: 175
-# Comments: 59]]></summary>
+Points: 189
+# Comments: 63]]></summary>
         <author>
             <name>1_player</name>
         </author>
@@ -104,8 +130,8 @@ Points: 175
         <updated>2021-06-19T22:30:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.koreaherald.com/view.php?ud=20210617000953
 Comments URL: https://news.ycombinator.com/item?id=27565097
-Points: 83
-# Comments: 20]]></summary>
+Points: 88
+# Comments: 21]]></summary>
         <author>
             <name>FridayoLeary</name>
         </author>
@@ -130,8 +156,8 @@ Points: 1
         <updated>2021-06-19T20:35:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thezerohack.com/apple-vulnerability-bug-bounty
 Comments URL: https://news.ycombinator.com/item?id=27564236
-Points: 202
-# Comments: 35]]></summary>
+Points: 240
+# Comments: 49]]></summary>
         <author>
             <name>alexcos</name>
         </author>
@@ -145,22 +171,9 @@ Points: 202
 Previous threads we've done: https://news.ycombinator.com/submitted?id=proberts.
 Comments URL: https://news.ycombinator.com/item?id=27560781
 Points: 260
-# Comments: 218]]></summary>
+# Comments: 219]]></summary>
         <author>
             <name>proberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coober Pedy, the Australian mining town where residents live underground (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27560574</id>
-        <link href="https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1"/>
-        <updated>2021-06-19T14:09:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1
-Comments URL: https://news.ycombinator.com/item?id=27560574
-Points: 157
-# Comments: 83]]></summary>
-        <author>
-            <name>tomhoward</name>
         </author>
     </entry>
     <entry>
@@ -170,36 +183,10 @@ Points: 157
         <updated>2021-06-19T13:49:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://adamcadre.ac/calendar/202105m.html
 Comments URL: https://news.ycombinator.com/item?id=27560440
-Points: 460
-# Comments: 546]]></summary>
+Points: 464
+# Comments: 568]]></summary>
         <author>
             <name>rossvor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking students from schematic to silicon in one semester (2018) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27560368</id>
-        <link href="https://people.eecs.berkeley.edu/~pister/publications/2018/BurnettTapeoutClassISCAS2018.pdf"/>
-        <updated>2021-06-19T13:38:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://people.eecs.berkeley.edu/~pister/publications/2018/BurnettTapeoutClassISCAS2018.pdf
-Comments URL: https://news.ycombinator.com/item?id=27560368
-Points: 134
-# Comments: 23]]></summary>
-        <author>
-            <name>teleforce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Casu Martzu]]></title>
-        <id>https://news.ycombinator.com/item?id=27560251</id>
-        <link href="https://en.wikipedia.org/wiki/Casu_martzu"/>
-        <updated>2021-06-19T13:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Casu_martzu
-Comments URL: https://news.ycombinator.com/item?id=27560251
-Points: 199
-# Comments: 155]]></summary>
-        <author>
-            <name>nojs</name>
         </author>
     </entry>
     <entry>
@@ -209,7 +196,7 @@ Points: 199
         <updated>2021-06-19T12:33:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01627-2
 Comments URL: https://news.ycombinator.com/item?id=27559917
-Points: 311
+Points: 314
 # Comments: 109]]></summary>
         <author>
             <name>Wxc2jjJmST9XWWL</name>
@@ -222,8 +209,8 @@ Points: 311
         <updated>2021-06-19T12:07:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html
 Comments URL: https://news.ycombinator.com/item?id=27559795
-Points: 365
-# Comments: 255]]></summary>
+Points: 371
+# Comments: 263]]></summary>
         <author>
             <name>hasheddan</name>
         </author>
@@ -235,8 +222,8 @@ Points: 365
         <updated>2021-06-19T11:27:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 Comments URL: https://news.ycombinator.com/item?id=27559618
-Points: 30
-# Comments: 6]]></summary>
+Points: 43
+# Comments: 8]]></summary>
         <author>
             <name>mkr-hn</name>
         </author>
@@ -248,7 +235,7 @@ Points: 30
         <updated>2021-06-19T10:13:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/
 Comments URL: https://news.ycombinator.com/item?id=27559290
-Points: 149
+Points: 152
 # Comments: 107]]></summary>
         <author>
             <name>pseudolus</name>
@@ -261,10 +248,23 @@ Points: 149
         <updated>2021-06-19T04:51:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/
 Comments URL: https://news.ycombinator.com/item?id=27557856
-Points: 53
-# Comments: 22]]></summary>
+Points: 57
+# Comments: 23]]></summary>
         <author>
             <name>apsec112</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confessions of a bitter cripple (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27556381</id>
+        <link href="https://politicalphilosopher.net/2015/05/15/featured-philosop-her-elizabeth-barnes/"/>
+        <updated>2021-06-18T23:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://politicalphilosopher.net/2015/05/15/featured-philosop-her-elizabeth-barnes/
+Comments URL: https://news.ycombinator.com/item?id=27556381
+Points: 30
+# Comments: 25]]></summary>
+        <author>
+            <name>breathenew</name>
         </author>
     </entry>
     <entry>
