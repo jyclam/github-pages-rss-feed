@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T03:14:46.760Z</updated>
+    <updated>2021-06-21T04:14:38.514Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New York congressman puts forward federal right-to-repair bill]]></title>
+        <id>https://news.ycombinator.com/item?id=27575933</id>
+        <link href="https://www.theregister.com/2021/06/18/first_federal_right_to_repair_bill/"/>
+        <updated>2021-06-21T03:11:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/18/first_federal_right_to_repair_bill/
+Comments URL: https://news.ycombinator.com/item?id=27575933
+Points: 12
+# Comments: 1]]></summary>
+        <author>
+            <name>LinuxBender</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policies that make the poor less poor]]></title>
+        <id>https://news.ycombinator.com/item?id=27575872</id>
+        <link href="https://www.eclogiselle.com/p/policies-that-make-poor-less-poor.html"/>
+        <updated>2021-06-21T03:02:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eclogiselle.com/p/policies-that-make-poor-less-poor.html
+Comments URL: https://news.ycombinator.com/item?id=27575872
+Points: 25
+# Comments: 12]]></summary>
+        <author>
+            <name>DoreenMichele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Stuff for Developer]]></title>
+        <id>https://news.ycombinator.com/item?id=27575617</id>
+        <link href="https://freestuff.dev/"/>
+        <updated>2021-06-21T02:12:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://freestuff.dev/
+Comments URL: https://news.ycombinator.com/item?id=27575617
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>hilmanski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does 'kubectl exec' work?]]></title>
+        <id>https://news.ycombinator.com/item?id=27575590</id>
+        <link href="https://erkanerol.github.io/post/how-kubectl-exec-works/#.YMh9R3cvFUs.twitter"/>
+        <updated>2021-06-21T02:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://erkanerol.github.io/post/how-kubectl-exec-works/#.YMh9R3cvFUs.twitter
+Comments URL: https://news.ycombinator.com/item?id=27575590
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>arkadiyt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japan government backs 4-day workweek]]></title>
         <id>https://news.ycombinator.com/item?id=27575580</id>
@@ -13,8 +65,8 @@
         <updated>2021-06-21T02:03:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c
 Comments URL: https://news.ycombinator.com/item?id=27575580
-Points: 142
-# Comments: 68]]></summary>
+Points: 267
+# Comments: 144]]></summary>
         <author>
             <name>m3at</name>
         </author>
@@ -26,7 +78,7 @@ Points: 142
         <updated>2021-06-21T01:55:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johann.wang/HifiFace/
 Comments URL: https://news.ycombinator.com/item?id=27575545
-Points: 4
+Points: 5
 # Comments: 0]]></summary>
         <author>
             <name>lnyan</name>
@@ -39,8 +91,8 @@ Points: 4
         <updated>2021-06-21T01:33:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.mindat.org/
 Comments URL: https://news.ycombinator.com/item?id=27575453
-Points: 27
-# Comments: 0]]></summary>
+Points: 45
+# Comments: 2]]></summary>
         <author>
             <name>cdepman</name>
         </author>
@@ -52,8 +104,8 @@ Points: 27
         <updated>2021-06-21T00:45:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/sylefeb/Silice/tree/draft/projects/ice-v
 Comments URL: https://news.ycombinator.com/item?id=27575174
-Points: 19
-# Comments: 5]]></summary>
+Points: 23
+# Comments: 8]]></summary>
         <author>
             <name>kqr2</name>
         </author>
@@ -65,8 +117,8 @@ Points: 19
         <updated>2021-06-20T21:58:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gramps-project.org
 Comments URL: https://news.ycombinator.com/item?id=27574273
-Points: 55
-# Comments: 10]]></summary>
+Points: 63
+# Comments: 14]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -78,8 +130,8 @@ Points: 55
         <updated>2021-06-20T21:51:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jamii/imp
 Comments URL: https://news.ycombinator.com/item?id=27574234
-Points: 25
-# Comments: 4]]></summary>
+Points: 29
+# Comments: 5]]></summary>
         <author>
             <name>luu</name>
         </author>
@@ -91,8 +143,8 @@ Points: 25
         <updated>2021-06-20T21:06:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zkp.science/
 Comments URL: https://news.ycombinator.com/item?id=27573910
-Points: 123
-# Comments: 30]]></summary>
+Points: 134
+# Comments: 32]]></summary>
         <author>
             <name>eruleman</name>
         </author>
@@ -117,8 +169,8 @@ Points: 1
         <updated>2021-06-20T20:01:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723
 Comments URL: https://news.ycombinator.com/item?id=27573393
-Points: 407
-# Comments: 128]]></summary>
+Points: 436
+# Comments: 140]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -130,8 +182,8 @@ Points: 407
         <updated>2021-06-20T19:32:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
 Comments URL: https://news.ycombinator.com/item?id=27573172
-Points: 145
-# Comments: 39]]></summary>
+Points: 158
+# Comments: 42]]></summary>
         <author>
             <name>_Microft</name>
         </author>
@@ -143,8 +195,8 @@ Points: 145
         <updated>2021-06-20T18:39:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://groups.io/g/mpml/topic/83645454#36493
 Comments URL: https://news.ycombinator.com/item?id=27572746
-Points: 407
-# Comments: 213]]></summary>
+Points: 423
+# Comments: 229]]></summary>
         <author>
             <name>MKais</name>
         </author>
@@ -156,8 +208,8 @@ Points: 407
         <updated>2021-06-20T18:38:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.docker.com/blog/our-journey-from-office-centric-to-remote-first/
 Comments URL: https://news.ycombinator.com/item?id=27572741
-Points: 63
-# Comments: 28]]></summary>
+Points: 66
+# Comments: 33]]></summary>
         <author>
             <name>kiyanwang</name>
         </author>
@@ -169,7 +221,7 @@ Points: 63
         <updated>2021-06-20T18:29:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.davidgodman.org/fathers-day/
 Comments URL: https://news.ycombinator.com/item?id=27572650
-Points: 57
+Points: 61
 # Comments: 8]]></summary>
         <author>
             <name>dang</name>
@@ -182,8 +234,8 @@ Points: 57
         <updated>2021-06-20T17:55:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/environment/2021/jun/20/bee-friendly-urban-wildflower-meadows-prove-a-hit-with-german-city-dwellers
 Comments URL: https://news.ycombinator.com/item?id=27572355
-Points: 190
-# Comments: 61]]></summary>
+Points: 201
+# Comments: 62]]></summary>
         <author>
             <name>rapnie</name>
         </author>
@@ -195,8 +247,8 @@ Points: 190
         <updated>2021-06-20T17:39:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html
 Comments URL: https://news.ycombinator.com/item?id=27572218
-Points: 269
-# Comments: 101]]></summary>
+Points: 292
+# Comments: 106]]></summary>
         <author>
             <name>sprachspiel</name>
         </author>
@@ -208,62 +260,10 @@ Points: 269
         <updated>2021-06-20T16:56:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/
 Comments URL: https://news.ycombinator.com/item?id=27571818
-Points: 189
-# Comments: 83]]></summary>
+Points: 194
+# Comments: 87]]></summary>
         <author>
             <name>LinuxBender</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watchy: Open-source E-Paper Watch with ESP32]]></title>
-        <id>https://news.ycombinator.com/item?id=27571322</id>
-        <link href="https://watchy.sqfmi.com/"/>
-        <updated>2021-06-20T15:59:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://watchy.sqfmi.com/
-Comments URL: https://news.ycombinator.com/item?id=27571322
-Points: 143
-# Comments: 37]]></summary>
-        <author>
-            <name>lnyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julia: Faster than Fortran, cleaner than Numpy]]></title>
-        <id>https://news.ycombinator.com/item?id=27571019</id>
-        <link href="https://www.matecdev.com/posts/numpy-julia-fortran.html"/>
-        <updated>2021-06-20T15:34:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.matecdev.com/posts/numpy-julia-fortran.html
-Comments URL: https://news.ycombinator.com/item?id=27571019
-Points: 212
-# Comments: 158]]></summary>
-        <author>
-            <name>cs702</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LDtk: A modern and open-source 2D level editor]]></title>
-        <id>https://news.ycombinator.com/item?id=27570556</id>
-        <link href="https://deepnight.itch.io/ldtk"/>
-        <updated>2021-06-20T14:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deepnight.itch.io/ldtk
-Comments URL: https://news.ycombinator.com/item?id=27570556
-Points: 263
-# Comments: 44]]></summary>
-        <author>
-            <name>polm23</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: AES67 Stream Monitor – An app to monitor audio over IP streams]]></title>
-        <id>https://news.ycombinator.com/item?id=27570320</id>
-        <link href="https://aes67.app/"/>
-        <updated>2021-06-20T14:25:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aes67.app/
-Comments URL: https://news.ycombinator.com/item?id=27570320
-Points: 77
-# Comments: 22]]></summary>
-        <author>
-            <name>phlhar</name>
         </author>
     </entry>
     <entry>
