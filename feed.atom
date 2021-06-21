@@ -2,60 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T14:11:13.607Z</updated>
+    <updated>2021-06-21T15:12:58.973Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[When tipping and smiling are both expected at work, so is sexual harassment]]></title>
-        <id>https://news.ycombinator.com/item?id=27579068</id>
-        <link href="https://www.eurekalert.org/pub_releases/2021-06/ps-wta061821.php"/>
-        <updated>2021-06-21T13:43:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eurekalert.org/pub_releases/2021-06/ps-wta061821.php
-Comments URL: https://news.ycombinator.com/item?id=27579068
-Points: 9
+        <title type="html"><![CDATA[Fine-Tuning Transformers for NLP]]></title>
+        <id>https://news.ycombinator.com/item?id=27579702</id>
+        <link href="https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp"/>
+        <updated>2021-06-21T14:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
+Comments URL: https://news.ycombinator.com/item?id=27579702
+Points: 4
 # Comments: 0]]></summary>
         <author>
-            <name>rustoo</name>
+            <name>dylanbfox</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pee bottles, constant monitoring and ignoring stop signs: Driving for Amazon]]></title>
-        <id>https://news.ycombinator.com/item?id=27578953</id>
-        <link href="https://www.cnbc.com/2021/06/21/drivers-speak-out-about-pressures-of-delivering-for-an-amazon-dsp.html"/>
-        <updated>2021-06-21T13:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/21/drivers-speak-out-about-pressures-of-delivering-for-an-amazon-dsp.html
-Comments URL: https://news.ycombinator.com/item?id=27578953
-Points: 13
+        <title type="html"><![CDATA[I was hit with a patent troll lawsuit, how do I deal with it? One man company]]></title>
+        <id>https://news.ycombinator.com/item?id=27579693</id>
+        <link href="https://news.ycombinator.com/item?id=27579693"/>
+        <updated>2021-06-21T14:48:27.000Z</updated>
+        <summary type="html"><![CDATA[This particular patent troll has filed lawsuits with at least a dozen of my competitors in the past year. Some were voluntarily dismissed, some ongoing, rest unknown (based on my limited research skills). The patent in question involves downloading a remote database to a mobile device used as a lookup table when scanning a QR code. Yeah...
+I'm a one person company and have no idea what to do.
+Comments URL: https://news.ycombinator.com/item?id=27579693
+Points: 28
+# Comments: 9]]></summary>
+        <author>
+            <name>jblake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji]]></title>
+        <id>https://css-tricks.com/?p=342448</id>
+        <link href="https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/"/>
+        <updated>2021-06-21T14:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …
+The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image To Text Conversion With React And Tesseract.js (OCR)]]></title>
+        <id>https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</id>
+        <link href="https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/"/>
+        <updated>2021-06-21T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Most Useful Cloud Certifications ( Azure, AWS, GCE, ... )]]></title>
+        <id>https://news.ycombinator.com/item?id=27579431</id>
+        <link href="https://news.ycombinator.com/item?id=27579431"/>
+        <updated>2021-06-21T14:20:01.000Z</updated>
+        <summary type="html"><![CDATA[Have you studied for a cloud certification? If so, i'd like to ask the following:
+- Which one?
+- Why?
+- How many times did you try before succeeding?
+- Was it useful?
+- How did you prepare ( resources, ... )
+I'm planning to certify for "Azure Solutions Architect Expert" and some feedback on usefullness ( in general or specific) would be nice.
+Comments URL: https://news.ycombinator.com/item?id=27579431
+Points: 8
 # Comments: 0]]></summary>
         <author>
-            <name>fireball_blaze</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towing a Tesla at 70 MPH Replenishes Battery at Fast Charger Rates]]></title>
-        <id>https://news.ycombinator.com/item?id=27578900</id>
-        <link href="https://insideevs.com/news/514727/tesla-towing-70mph-fast-charging/"/>
-        <updated>2021-06-21T13:26:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://insideevs.com/news/514727/tesla-towing-70mph-fast-charging/
-Comments URL: https://news.ycombinator.com/item?id=27578900
-Points: 24
-# Comments: 16]]></summary>
-        <author>
-            <name>danboarder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puppy Pregnancy in Humans: A Culture-Bound Disorder (2003)]]></title>
-        <id>https://news.ycombinator.com/item?id=27578361</id>
-        <link href="https://journals.sagepub.com/doi/10.1177/0020764003049001536"/>
-        <updated>2021-06-21T12:07:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://journals.sagepub.com/doi/10.1177/0020764003049001536
-Comments URL: https://news.ycombinator.com/item?id=27578361
-Points: 12
-# Comments: 28]]></summary>
-        <author>
-            <name>tokai</name>
+            <name>NicoJuicy</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +94,8 @@ Points: 1
         <updated>2021-06-21T09:15:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://librecellular.org/
 Comments URL: https://news.ycombinator.com/item?id=27577525
-Points: 149
-# Comments: 16]]></summary>
+Points: 186
+# Comments: 24]]></summary>
         <author>
             <name>pabs3</name>
         </author>
@@ -96,8 +112,8 @@ Points: 149
 What I struggle with: How to get exposure to projects to learn for a future job? I had a Rust job for around half a year, where people build web servers and came from a C and C++ background. Half of the stuff they wrote I didn't understand (flushing, opening another channel just for logs so we don't fill up the other ones etc. etc.).
 Now I wonder how I can get access to this type of information, how to properly learn it?
 Comments URL: https://news.ycombinator.com/item?id=27577514
-Points: 107
-# Comments: 28]]></summary>
+Points: 145
+# Comments: 32]]></summary>
         <author>
             <name>systems_learn</name>
         </author>
@@ -109,8 +125,8 @@ Points: 107
         <updated>2021-06-21T08:59:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://david.li/paint/
 Comments URL: https://news.ycombinator.com/item?id=27577460
-Points: 208
-# Comments: 26]]></summary>
+Points: 273
+# Comments: 33]]></summary>
         <author>
             <name>pjerem</name>
         </author>
@@ -122,8 +138,8 @@ Points: 208
         <updated>2021-06-21T08:53:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spandex.substack.com/p/why-your-livestreaming-setup-is-a
 Comments URL: https://news.ycombinator.com/item?id=27577432
-Points: 76
-# Comments: 32]]></summary>
+Points: 103
+# Comments: 53]]></summary>
         <author>
             <name>darimo</name>
         </author>
@@ -135,8 +151,8 @@ Points: 76
         <updated>2021-06-21T08:29:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jpegxl.info
 Comments URL: https://news.ycombinator.com/item?id=27577328
-Points: 186
-# Comments: 98]]></summary>
+Points: 219
+# Comments: 120]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -148,8 +164,8 @@ Points: 186
         <updated>2021-06-21T08:02:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/yggdrasil-network/yggdrasil-go
 Comments URL: https://news.ycombinator.com/item?id=27577201
-Points: 253
-# Comments: 51]]></summary>
+Points: 287
+# Comments: 62]]></summary>
         <author>
             <name>dragonsh</name>
         </author>
@@ -161,8 +177,8 @@ Points: 253
         <updated>2021-06-21T07:59:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/kelindar/column
 Comments URL: https://news.ycombinator.com/item?id=27577193
-Points: 67
-# Comments: 10]]></summary>
+Points: 83
+# Comments: 13]]></summary>
         <author>
             <name>ngaut</name>
         </author>
@@ -174,8 +190,8 @@ Points: 67
         <updated>2021-06-21T06:42:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://organicmaps.app/
 Comments URL: https://news.ycombinator.com/item?id=27576882
-Points: 181
-# Comments: 60]]></summary>
+Points: 230
+# Comments: 81]]></summary>
         <author>
             <name>wertik13</name>
         </author>
@@ -187,8 +203,8 @@ Points: 181
         <updated>2021-06-21T03:55:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/20/1006352654/enthusiastic-amateurs-advance-science-as-they-hunt-for-exotic-mushrooms
 Comments URL: https://news.ycombinator.com/item?id=27576169
-Points: 65
-# Comments: 16]]></summary>
+Points: 69
+# Comments: 17]]></summary>
         <author>
             <name>jdnier</name>
         </author>
@@ -200,8 +216,8 @@ Points: 65
         <updated>2021-06-21T03:47:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i
 Comments URL: https://news.ycombinator.com/item?id=27576120
-Points: 129
-# Comments: 73]]></summary>
+Points: 147
+# Comments: 81]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -213,8 +229,8 @@ Points: 129
         <updated>2021-06-21T03:09:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/stories-57520169
 Comments URL: https://news.ycombinator.com/item?id=27575916
-Points: 103
-# Comments: 26]]></summary>
+Points: 116
+# Comments: 28]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -226,8 +242,8 @@ Points: 103
         <updated>2021-06-21T02:58:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.dave.tf/post/finding-bottom-turtle/
 Comments URL: https://news.ycombinator.com/item?id=27575849
-Points: 111
-# Comments: 44]]></summary>
+Points: 117
+# Comments: 45]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -239,8 +255,8 @@ Points: 111
         <updated>2021-06-21T02:35:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/7kvkx9/dont-piss-off-bradley-the-parts-seller-keeping-atari-machines-alive
 Comments URL: https://news.ycombinator.com/item?id=27575732
-Points: 108
-# Comments: 57]]></summary>
+Points: 123
+# Comments: 70]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -252,8 +268,8 @@ Points: 108
         <updated>2021-06-21T02:16:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/
 Comments URL: https://news.ycombinator.com/item?id=27575635
-Points: 275
-# Comments: 51]]></summary>
+Points: 320
+# Comments: 61]]></summary>
         <author>
             <name>grzm</name>
         </author>
@@ -265,10 +281,23 @@ Points: 275
         <updated>2021-06-21T02:03:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c
 Comments URL: https://news.ycombinator.com/item?id=27575580
-Points: 769
-# Comments: 398]]></summary>
+Points: 797
+# Comments: 423]]></summary>
         <author>
             <name>m3at</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mindat.org, the largest open database of minerals, rocks, and meteorites]]></title>
+        <id>https://news.ycombinator.com/item?id=27575453</id>
+        <link href="https://www.mindat.org/"/>
+        <updated>2021-06-21T01:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mindat.org/
+Comments URL: https://news.ycombinator.com/item?id=27575453
+Points: 156
+# Comments: 16]]></summary>
+        <author>
+            <name>cdepman</name>
         </author>
     </entry>
     <entry>
@@ -622,21 +651,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:
 Perhaps the most noticeable thing there …
 The post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Possibilities of Syndication]]></title>
-        <id>https://css-tricks.com/?p=342237</id>
-        <link href="https://css-tricks.com/the-possibilities-of-syndication/"/>
-        <updated>2021-06-11T21:25:56.000Z</updated>
-        <summary type="html"><![CDATA[That’s the one word that isn’t an adjective in the acronym RSS. 
-Really Simple Syndication.
-Update: Lol there are literally two mistakes there. RSS is an initialism not an acronym, and “Really” is an adverb not an adjective. 
-RSS …
-The post The Possibilities of Syndication appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
