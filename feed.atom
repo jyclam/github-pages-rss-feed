@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T15:12:58.973Z</updated>
+    <updated>2021-06-21T16:20:23.123Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Facebook Launches Podcast and Live Audio Room Services]]></title>
+        <id>https://news.ycombinator.com/item?id=27580014</id>
+        <link href="https://www.theouterhaven.net/2021/06/facebook-launches-podcast-and-live-audio-room-services/"/>
+        <updated>2021-06-21T15:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theouterhaven.net/2021/06/facebook-launches-podcast-and-live-audio-room-services/
+Comments URL: https://news.ycombinator.com/item?id=27580014
+Points: 25
+# Comments: 21]]></summary>
+        <author>
+            <name>tenith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fine-Tuning Transformers for NLP]]></title>
         <id>https://news.ycombinator.com/item?id=27579702</id>
@@ -13,10 +26,23 @@
         <updated>2021-06-21T14:49:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
 Comments URL: https://news.ycombinator.com/item?id=27579702
-Points: 4
+Points: 19
 # Comments: 0]]></summary>
         <author>
             <name>dylanbfox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git undo: We can do better]]></title>
+        <id>https://news.ycombinator.com/item?id=27579701</id>
+        <link href="https://blog.waleedkhan.name/git-undo/"/>
+        <updated>2021-06-21T14:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.waleedkhan.name/git-undo/
+Comments URL: https://news.ycombinator.com/item?id=27579701
+Points: 143
+# Comments: 70]]></summary>
+        <author>
+            <name>arxanas</name>
         </author>
     </entry>
     <entry>
@@ -27,8 +53,8 @@ Points: 4
         <summary type="html"><![CDATA[This particular patent troll has filed lawsuits with at least a dozen of my competitors in the past year. Some were voluntarily dismissed, some ongoing, rest unknown (based on my limited research skills). The patent in question involves downloading a remote database to a mobile device used as a lookup table when scanning a QR code. Yeah...
 I'm a one person company and have no idea what to do.
 Comments URL: https://news.ycombinator.com/item?id=27579693
-Points: 28
-# Comments: 9]]></summary>
+Points: 188
+# Comments: 92]]></summary>
         <author>
             <name>jblake</name>
         </author>
@@ -56,6 +82,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Couchbase Files for IPO]]></title>
+        <id>https://news.ycombinator.com/item?id=27579488</id>
+        <link href="https://www.couchbase.com/press-releases/couchbase-files-registration-statement-for-proposed-initial-public-offering"/>
+        <updated>2021-06-21T14:24:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.couchbase.com/press-releases/couchbase-files-registration-statement-for-proposed-initial-public-offering
+Comments URL: https://news.ycombinator.com/item?id=27579488
+Points: 17
+# Comments: 0]]></summary>
+        <author>
+            <name>mprev</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask HN: Most Useful Cloud Certifications ( Azure, AWS, GCE, ... )]]></title>
         <id>https://news.ycombinator.com/item?id=27579431</id>
         <link href="https://news.ycombinator.com/item?id=27579431"/>
@@ -68,8 +107,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 - How did you prepare ( resources, ... )
 I'm planning to certify for "Azure Solutions Architect Expert" and some feedback on usefullness ( in general or specific) would be nice.
 Comments URL: https://news.ycombinator.com/item?id=27579431
-Points: 8
-# Comments: 0]]></summary>
+Points: 31
+# Comments: 23]]></summary>
         <author>
             <name>NicoJuicy</name>
         </author>
@@ -94,8 +133,8 @@ Points: 1
         <updated>2021-06-21T09:15:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://librecellular.org/
 Comments URL: https://news.ycombinator.com/item?id=27577525
-Points: 186
-# Comments: 24]]></summary>
+Points: 216
+# Comments: 29]]></summary>
         <author>
             <name>pabs3</name>
         </author>
@@ -112,8 +151,8 @@ Points: 186
 What I struggle with: How to get exposure to projects to learn for a future job? I had a Rust job for around half a year, where people build web servers and came from a C and C++ background. Half of the stuff they wrote I didn't understand (flushing, opening another channel just for logs so we don't fill up the other ones etc. etc.).
 Now I wonder how I can get access to this type of information, how to properly learn it?
 Comments URL: https://news.ycombinator.com/item?id=27577514
-Points: 145
-# Comments: 32]]></summary>
+Points: 176
+# Comments: 42]]></summary>
         <author>
             <name>systems_learn</name>
         </author>
@@ -125,8 +164,8 @@ Points: 145
         <updated>2021-06-21T08:59:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://david.li/paint/
 Comments URL: https://news.ycombinator.com/item?id=27577460
-Points: 273
-# Comments: 33]]></summary>
+Points: 326
+# Comments: 36]]></summary>
         <author>
             <name>pjerem</name>
         </author>
@@ -138,8 +177,8 @@ Points: 273
         <updated>2021-06-21T08:53:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spandex.substack.com/p/why-your-livestreaming-setup-is-a
 Comments URL: https://news.ycombinator.com/item?id=27577432
-Points: 103
-# Comments: 53]]></summary>
+Points: 135
+# Comments: 70]]></summary>
         <author>
             <name>darimo</name>
         </author>
@@ -151,8 +190,8 @@ Points: 103
         <updated>2021-06-21T08:29:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jpegxl.info
 Comments URL: https://news.ycombinator.com/item?id=27577328
-Points: 219
-# Comments: 120]]></summary>
+Points: 258
+# Comments: 143]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -164,8 +203,8 @@ Points: 219
         <updated>2021-06-21T08:02:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/yggdrasil-network/yggdrasil-go
 Comments URL: https://news.ycombinator.com/item?id=27577201
-Points: 287
-# Comments: 62]]></summary>
+Points: 309
+# Comments: 71]]></summary>
         <author>
             <name>dragonsh</name>
         </author>
@@ -177,7 +216,7 @@ Points: 287
         <updated>2021-06-21T07:59:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/kelindar/column
 Comments URL: https://news.ycombinator.com/item?id=27577193
-Points: 83
+Points: 97
 # Comments: 13]]></summary>
         <author>
             <name>ngaut</name>
@@ -190,8 +229,8 @@ Points: 83
         <updated>2021-06-21T06:42:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://organicmaps.app/
 Comments URL: https://news.ycombinator.com/item?id=27576882
-Points: 230
-# Comments: 81]]></summary>
+Points: 270
+# Comments: 86]]></summary>
         <author>
             <name>wertik13</name>
         </author>
@@ -203,7 +242,7 @@ Points: 230
         <updated>2021-06-21T03:55:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/20/1006352654/enthusiastic-amateurs-advance-science-as-they-hunt-for-exotic-mushrooms
 Comments URL: https://news.ycombinator.com/item?id=27576169
-Points: 69
+Points: 80
 # Comments: 17]]></summary>
         <author>
             <name>jdnier</name>
@@ -216,8 +255,8 @@ Points: 69
         <updated>2021-06-21T03:47:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i
 Comments URL: https://news.ycombinator.com/item?id=27576120
-Points: 147
-# Comments: 81]]></summary>
+Points: 165
+# Comments: 96]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -229,8 +268,8 @@ Points: 147
         <updated>2021-06-21T03:09:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/stories-57520169
 Comments URL: https://news.ycombinator.com/item?id=27575916
-Points: 116
-# Comments: 28]]></summary>
+Points: 135
+# Comments: 31]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -242,8 +281,8 @@ Points: 116
         <updated>2021-06-21T02:58:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.dave.tf/post/finding-bottom-turtle/
 Comments URL: https://news.ycombinator.com/item?id=27575849
-Points: 117
-# Comments: 45]]></summary>
+Points: 130
+# Comments: 47]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -255,49 +294,10 @@ Points: 117
         <updated>2021-06-21T02:35:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/7kvkx9/dont-piss-off-bradley-the-parts-seller-keeping-atari-machines-alive
 Comments URL: https://news.ycombinator.com/item?id=27575732
-Points: 123
-# Comments: 70]]></summary>
+Points: 147
+# Comments: 75]]></summary>
         <author>
             <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USC professor’s DIY online teaching hack to engage students goes viral (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27575635</id>
-        <link href="https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/"/>
-        <updated>2021-06-21T02:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/
-Comments URL: https://news.ycombinator.com/item?id=27575635
-Points: 320
-# Comments: 61]]></summary>
-        <author>
-            <name>grzm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan's government plans to encourage 4-day workweek, but experts split]]></title>
-        <id>https://news.ycombinator.com/item?id=27575580</id>
-        <link href="https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c"/>
-        <updated>2021-06-21T02:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c
-Comments URL: https://news.ycombinator.com/item?id=27575580
-Points: 797
-# Comments: 423]]></summary>
-        <author>
-            <name>m3at</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mindat.org, the largest open database of minerals, rocks, and meteorites]]></title>
-        <id>https://news.ycombinator.com/item?id=27575453</id>
-        <link href="https://www.mindat.org/"/>
-        <updated>2021-06-21T01:33:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.mindat.org/
-Comments URL: https://news.ycombinator.com/item?id=27575453
-Points: 156
-# Comments: 16]]></summary>
-        <author>
-            <name>cdepman</name>
         </author>
     </entry>
     <entry>
