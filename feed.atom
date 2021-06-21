@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T10:13:19.473Z</updated>
+    <updated>2021-06-21T11:10:12.666Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,8 +13,8 @@
         <updated>2021-06-21T09:15:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://librecellular.org/
 Comments URL: https://news.ycombinator.com/item?id=27577525
-Points: 7
-# Comments: 0]]></summary>
+Points: 47
+# Comments: 4]]></summary>
         <author>
             <name>pabs3</name>
         </author>
@@ -31,8 +31,8 @@ Points: 7
 What I struggle with: How to get exposure to projects to learn for a future job? I had a Rust job for around half a year, where people build web servers and came from a C and C++ background. Half of the stuff they wrote I didn't understand (flushing, opening another channel just for logs so we don't fill up the other ones etc. etc.).
 Now I wonder how I can get access to this type of information, how to properly learn it?
 Comments URL: https://news.ycombinator.com/item?id=27577514
-Points: 19
-# Comments: 0]]></summary>
+Points: 32
+# Comments: 12]]></summary>
         <author>
             <name>systems_learn</name>
         </author>
@@ -44,10 +44,23 @@ Points: 19
         <updated>2021-06-21T08:59:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://david.li/paint/
 Comments URL: https://news.ycombinator.com/item?id=27577460
-Points: 36
-# Comments: 1]]></summary>
+Points: 88
+# Comments: 11]]></summary>
         <author>
             <name>pjerem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A good livestreaming setup is a well-tailored suit]]></title>
+        <id>https://news.ycombinator.com/item?id=27577432</id>
+        <link href="https://spandex.substack.com/p/why-your-livestreaming-setup-is-a"/>
+        <updated>2021-06-21T08:53:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spandex.substack.com/p/why-your-livestreaming-setup-is-a
+Comments URL: https://news.ycombinator.com/item?id=27577432
+Points: 14
+# Comments: 0]]></summary>
+        <author>
+            <name>darimo</name>
         </author>
     </entry>
     <entry>
@@ -57,8 +70,8 @@ Points: 36
         <updated>2021-06-21T08:29:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jpegxl.info
 Comments URL: https://news.ycombinator.com/item?id=27577328
-Points: 41
-# Comments: 21]]></summary>
+Points: 75
+# Comments: 40]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -70,10 +83,23 @@ Points: 41
         <updated>2021-06-21T08:02:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/yggdrasil-network/yggdrasil-go
 Comments URL: https://news.ycombinator.com/item?id=27577201
-Points: 103
-# Comments: 12]]></summary>
+Points: 135
+# Comments: 20]]></summary>
         <author>
             <name>dragonsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-performance, columnar, in-memory store with bitmap indexing in Go]]></title>
+        <id>https://news.ycombinator.com/item?id=27577193</id>
+        <link href="https://github.com/kelindar/column"/>
+        <updated>2021-06-21T07:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/kelindar/column
+Comments URL: https://news.ycombinator.com/item?id=27577193
+Points: 15
+# Comments: 2]]></summary>
+        <author>
+            <name>ngaut</name>
         </author>
     </entry>
     <entry>
@@ -83,23 +109,10 @@ Points: 103
         <updated>2021-06-21T06:42:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://organicmaps.app/
 Comments URL: https://news.ycombinator.com/item?id=27576882
-Points: 40
-# Comments: 10]]></summary>
+Points: 69
+# Comments: 21]]></summary>
         <author>
             <name>wertik13</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upgrading Precursor’s TRNG]]></title>
-        <id>https://news.ycombinator.com/item?id=27576305</id>
-        <link href="https://www.bunniestudios.com/blog/?p=6094"/>
-        <updated>2021-06-21T04:23:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bunniestudios.com/blog/?p=6094
-Comments URL: https://news.ycombinator.com/item?id=27576305
-Points: 8
-# Comments: 2]]></summary>
-        <author>
-            <name>pabs3</name>
         </author>
     </entry>
     <entry>
@@ -109,8 +122,8 @@ Points: 8
         <updated>2021-06-21T03:55:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/20/1006352654/enthusiastic-amateurs-advance-science-as-they-hunt-for-exotic-mushrooms
 Comments URL: https://news.ycombinator.com/item?id=27576169
-Points: 45
-# Comments: 6]]></summary>
+Points: 48
+# Comments: 7]]></summary>
         <author>
             <name>jdnier</name>
         </author>
@@ -122,8 +135,8 @@ Points: 45
         <updated>2021-06-21T03:47:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i
 Comments URL: https://news.ycombinator.com/item?id=27576120
-Points: 61
-# Comments: 33]]></summary>
+Points: 78
+# Comments: 49]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -135,7 +148,7 @@ Points: 61
         <updated>2021-06-21T03:15:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://physicstoday.scitation.org/do/10.1063/PT.5.9098/full/
 Comments URL: https://news.ycombinator.com/item?id=27575955
-Points: 28
+Points: 30
 # Comments: 2]]></summary>
         <author>
             <name>azhenley</name>
@@ -148,8 +161,8 @@ Points: 28
         <updated>2021-06-21T03:09:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/stories-57520169
 Comments URL: https://news.ycombinator.com/item?id=27575916
-Points: 59
-# Comments: 14]]></summary>
+Points: 69
+# Comments: 16]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -161,8 +174,8 @@ Points: 59
         <updated>2021-06-21T03:02:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eclogiselle.com/p/policies-that-make-poor-less-poor.html
 Comments URL: https://news.ycombinator.com/item?id=27575872
-Points: 132
-# Comments: 163]]></summary>
+Points: 139
+# Comments: 183]]></summary>
         <author>
             <name>DoreenMichele</name>
         </author>
@@ -174,8 +187,8 @@ Points: 132
         <updated>2021-06-21T02:58:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.dave.tf/post/finding-bottom-turtle/
 Comments URL: https://news.ycombinator.com/item?id=27575849
-Points: 80
-# Comments: 22]]></summary>
+Points: 90
+# Comments: 34]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -187,8 +200,8 @@ Points: 80
         <updated>2021-06-21T02:35:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/7kvkx9/dont-piss-off-bradley-the-parts-seller-keeping-atari-machines-alive
 Comments URL: https://news.ycombinator.com/item?id=27575732
-Points: 63
-# Comments: 16]]></summary>
+Points: 73
+# Comments: 22]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -200,8 +213,8 @@ Points: 63
         <updated>2021-06-21T02:16:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/
 Comments URL: https://news.ycombinator.com/item?id=27575635
-Points: 172
-# Comments: 38]]></summary>
+Points: 188
+# Comments: 41]]></summary>
         <author>
             <name>grzm</name>
         </author>
@@ -213,23 +226,10 @@ Points: 172
         <updated>2021-06-21T02:12:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://freestuff.dev/
 Comments URL: https://news.ycombinator.com/item?id=27575617
-Points: 91
-# Comments: 26]]></summary>
+Points: 100
+# Comments: 28]]></summary>
         <author>
             <name>hilmanski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How does 'kubectl exec' work? (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27575590</id>
-        <link href="https://erkanerol.github.io/post/how-kubectl-exec-works/#.YMh9R3cvFUs.twitter"/>
-        <updated>2021-06-21T02:04:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://erkanerol.github.io/post/how-kubectl-exec-works/#.YMh9R3cvFUs.twitter
-Comments URL: https://news.ycombinator.com/item?id=27575590
-Points: 46
-# Comments: 3]]></summary>
-        <author>
-            <name>arkadiyt</name>
         </author>
     </entry>
     <entry>
@@ -239,8 +239,8 @@ Points: 46
         <updated>2021-06-21T02:03:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c
 Comments URL: https://news.ycombinator.com/item?id=27575580
-Points: 691
-# Comments: 339]]></summary>
+Points: 710
+# Comments: 347]]></summary>
         <author>
             <name>m3at</name>
         </author>
@@ -252,8 +252,8 @@ Points: 691
         <updated>2021-06-21T01:33:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.mindat.org/
 Comments URL: https://news.ycombinator.com/item?id=27575453
-Points: 109
-# Comments: 12]]></summary>
+Points: 119
+# Comments: 13]]></summary>
         <author>
             <name>cdepman</name>
         </author>
@@ -265,8 +265,8 @@ Points: 109
         <updated>2021-06-21T00:45:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/sylefeb/Silice/tree/draft/projects/ice-v
 Comments URL: https://news.ycombinator.com/item?id=27575174
-Points: 49
-# Comments: 19]]></summary>
+Points: 51
+# Comments: 20]]></summary>
         <author>
             <name>kqr2</name>
         </author>
