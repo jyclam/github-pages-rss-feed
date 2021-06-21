@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T20:11:42.831Z</updated>
+    <updated>2021-06-21T21:10:59.393Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Redux by Making a Counter Application]]></title>
+        <id>60cccd6e4dc1a607ed7b4f81</id>
+        <link href="https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/"/>
+        <updated>2021-06-21T21:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Redux is a state management library for front end applications. It is often used with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bright (YC W15) Is Hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=27584424</id>
+        <link href="https://www.ycombinator.com/companies/bright/jobs/XvqoCpD-impact-driven-software-backend-engineer"/>
+        <updated>2021-06-21T21:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/bright/jobs/XvqoCpD-impact-driven-software-backend-engineer
+Comments URL: https://news.ycombinator.com/item?id=27584424
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>JGreenberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey, There's a Second Brain in Your Gut And now scientists know how it works]]></title>
+        <id>https://news.ycombinator.com/item?id=27583629</id>
+        <link href="https://www.popularmechanics.com/science/health/a34934637/gut-brain-science/"/>
+        <updated>2021-06-21T20:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.popularmechanics.com/science/health/a34934637/gut-brain-science/
+Comments URL: https://news.ycombinator.com/item?id=27583629
+Points: 28
+# Comments: 4]]></summary>
+        <author>
+            <name>truth_</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leica Is Launching a Smartphone, with a Lens and Magnetic Lens Cap]]></title>
         <id>https://news.ycombinator.com/item?id=27583107</id>
@@ -13,34 +49,34 @@
         <updated>2021-06-21T19:22:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.core77.com/posts/109217/Leica-is-Launching-a-Smartphone-With-a-Massive-Lens-and-Magnetic-Lens-Cap
 Comments URL: https://news.ycombinator.com/item?id=27583107
-Points: 12
-# Comments: 2]]></summary>
+Points: 23
+# Comments: 19]]></summary>
         <author>
             <name>fortran77</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Accidentally Exponential Behavior in Spark]]></title>
+        <title type="html"><![CDATA[Accidentally exponential behavior in Spark]]></title>
         <id>https://news.ycombinator.com/item?id=27582645</id>
         <link href="https://heap.io/blog/accidentally-exponential-behavior-in-spark"/>
         <updated>2021-06-21T18:54:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://heap.io/blog/accidentally-exponential-behavior-in-spark
 Comments URL: https://news.ycombinator.com/item?id=27582645
-Points: 10
-# Comments: 2]]></summary>
+Points: 21
+# Comments: 6]]></summary>
         <author>
             <name>drob</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple is building the metaverse substrate in plain sight]]></title>
+        <title type="html"><![CDATA[Apple is building the metaverse substrate]]></title>
         <id>https://news.ycombinator.com/item?id=27582568</id>
         <link href="https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html"/>
         <updated>2021-06-21T18:51:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html
 Comments URL: https://news.ycombinator.com/item?id=27582568
-Points: 55
-# Comments: 31]]></summary>
+Points: 95
+# Comments: 81]]></summary>
         <author>
             <name>grork</name>
         </author>
@@ -52,8 +88,8 @@ Points: 55
         <updated>2021-06-21T18:41:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a
 Comments URL: https://news.ycombinator.com/item?id=27582396
-Points: 12
-# Comments: 4]]></summary>
+Points: 34
+# Comments: 13]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -69,27 +105,27 @@ Points: 12
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Internal Amazon documents shed light on how company pressures out 6% of workers]]></title>
+        <title type="html"><![CDATA[Internal Amazon documents shed light on how company pressures out office workers]]></title>
         <id>https://news.ycombinator.com/item?id=27581797</id>
         <link href="https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/"/>
         <updated>2021-06-21T18:01:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/
 Comments URL: https://news.ycombinator.com/item?id=27581797
-Points: 136
-# Comments: 80]]></summary>
+Points: 211
+# Comments: 111]]></summary>
         <author>
             <name>flowerlad</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[State of the Windows, part 2: Did Windows 10 slow down with each feature update?]]></title>
+        <title type="html"><![CDATA[Did Windows 10 slow down with each feature update?]]></title>
         <id>https://news.ycombinator.com/item?id=27581762</id>
         <link href="https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/"/>
         <updated>2021-06-21T17:58:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/
 Comments URL: https://news.ycombinator.com/item?id=27581762
-Points: 118
-# Comments: 109]]></summary>
+Points: 150
+# Comments: 147]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -105,42 +141,16 @@ Points: 118
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What it's like to be cancelled]]></title>
-        <id>https://news.ycombinator.com/item?id=27581532</id>
-        <link href="https://noahbradley.com/cancelled/"/>
-        <updated>2021-06-21T17:39:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://noahbradley.com/cancelled/
-Comments URL: https://news.ycombinator.com/item?id=27581532
-Points: 274
-# Comments: 309]]></summary>
-        <author>
-            <name>noahbradley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhode Island Makes Financial Literacy Classes Required for High School Students]]></title>
+        <title type="html"><![CDATA[Rhode island makes financial literacy classes required for high school students]]></title>
         <id>https://news.ycombinator.com/item?id=27581359</id>
         <link href="https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/"/>
         <updated>2021-06-21T17:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/
 Comments URL: https://news.ycombinator.com/item?id=27581359
-Points: 93
-# Comments: 52]]></summary>
+Points: 120
+# Comments: 97]]></summary>
         <author>
             <name>gmays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Against Meme Activism]]></title>
-        <id>https://news.ycombinator.com/item?id=27581343</id>
-        <link href="https://www.persuasion.community/p/against-meme-activism"/>
-        <updated>2021-06-21T17:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.persuasion.community/p/against-meme-activism
-Comments URL: https://news.ycombinator.com/item?id=27581343
-Points: 108
-# Comments: 102]]></summary>
-        <author>
-            <name>throwawaysea</name>
         </author>
     </entry>
     <entry>
@@ -150,8 +160,8 @@ Points: 108
         <updated>2021-06-21T17:23:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://community.plotly.com/t/introducing-plotly-py-5-0-0-a-new-federated-jupyter-extension-icicle-charts-and-bar-chart-patterns/54039
 Comments URL: https://news.ycombinator.com/item?id=27581336
-Points: 48
-# Comments: 11]]></summary>
+Points: 53
+# Comments: 13]]></summary>
         <author>
             <name>nicolaskruchten</name>
         </author>
@@ -163,23 +173,10 @@ Points: 48
         <updated>2021-06-21T17:17:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/chrisseaton/rhizome
 Comments URL: https://news.ycombinator.com/item?id=27581257
-Points: 118
-# Comments: 4]]></summary>
+Points: 162
+# Comments: 10]]></summary>
         <author>
             <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MagicBell (YC W21) Is Hiring a Founding Front End Engineer]]></title>
-        <id>https://news.ycombinator.com/item?id=27581061</id>
-        <link href="https://www.notion.so/magicbell/Founding-Frontend-Engineer-7b2f9bc9335347f5ba3ae1135077b0f6"/>
-        <updated>2021-06-21T17:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.notion.so/magicbell/Founding-Frontend-Engineer-7b2f9bc9335347f5ba3ae1135077b0f6
-Comments URL: https://news.ycombinator.com/item?id=27581061
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>unamashana</name>
         </author>
     </entry>
     <entry>
@@ -203,14 +200,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Andrej Karpathy (Tesla): CVPR 2021 Workshop on Autonomous Vehicles [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=27580744</id>
+        <link href="https://www.youtube.com/watch?v=NSDTZQdo6H8"/>
+        <updated>2021-06-21T16:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=NSDTZQdo6H8
+Comments URL: https://news.ycombinator.com/item?id=27580744
+Points: 40
+# Comments: 5]]></summary>
+        <author>
+            <name>vpj</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[National Collegiate Athletic Association vs. Alston [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=27580558</id>
         <link href="https://www.supremecourt.gov/opinions/20pdf/20-512_gfbh.pdf"/>
         <updated>2021-06-21T16:08:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.supremecourt.gov/opinions/20pdf/20-512_gfbh.pdf
 Comments URL: https://news.ycombinator.com/item?id=27580558
-Points: 65
-# Comments: 52]]></summary>
+Points: 72
+# Comments: 71]]></summary>
         <author>
             <name>thestoicattack</name>
         </author>
@@ -235,8 +245,8 @@ Points: 46
         <updated>2021-06-21T14:49:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.waleedkhan.name/git-undo/
 Comments URL: https://news.ycombinator.com/item?id=27579701
-Points: 418
-# Comments: 270]]></summary>
+Points: 454
+# Comments: 286]]></summary>
         <author>
             <name>arxanas</name>
         </author>
@@ -249,8 +259,8 @@ Points: 418
         <summary type="html"><![CDATA[This particular patent troll has filed lawsuits with at least a dozen of my competitors in the past year. Some were voluntarily dismissed, some ongoing, rest unknown (based on my limited research skills). The patent in question involves downloading a remote database to a mobile device used as a lookup table when scanning a QR code. Yeah...
 I'm a one person company and have no idea what to do.
 Comments URL: https://news.ycombinator.com/item?id=27579693
-Points: 516
-# Comments: 201]]></summary>
+Points: 559
+# Comments: 219]]></summary>
         <author>
             <name>jblake</name>
         </author>
@@ -278,14 +288,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Towing a Tesla at 70 MPH Replenishes Battery at Fast Charger Rates]]></title>
+        <id>https://news.ycombinator.com/item?id=27578900</id>
+        <link href="https://insideevs.com/news/514727/tesla-towing-70mph-fast-charging/"/>
+        <updated>2021-06-21T13:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://insideevs.com/news/514727/tesla-towing-70mph-fast-charging/
+Comments URL: https://news.ycombinator.com/item?id=27578900
+Points: 34
+# Comments: 62]]></summary>
+        <author>
+            <name>danboarder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LibreCellular]]></title>
         <id>https://news.ycombinator.com/item?id=27577525</id>
         <link href="https://librecellular.org/"/>
         <updated>2021-06-21T09:15:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://librecellular.org/
 Comments URL: https://news.ycombinator.com/item?id=27577525
-Points: 289
-# Comments: 40]]></summary>
+Points: 303
+# Comments: 42]]></summary>
         <author>
             <name>pabs3</name>
         </author>
@@ -302,8 +325,8 @@ Points: 289
 What I struggle with: How to get exposure to projects to learn for a future job? I had a Rust job for around half a year, where people build web servers and came from a C and C++ background. Half of the stuff they wrote I didn't understand (flushing, opening another channel just for logs so we don't fill up the other ones etc. etc.).
 Now I wonder how I can get access to this type of information, how to properly learn it?
 Comments URL: https://news.ycombinator.com/item?id=27577514
-Points: 246
-# Comments: 65]]></summary>
+Points: 269
+# Comments: 67]]></summary>
         <author>
             <name>systems_learn</name>
         </author>
@@ -315,23 +338,10 @@ Points: 246
         <updated>2021-06-21T08:59:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://david.li/paint/
 Comments URL: https://news.ycombinator.com/item?id=27577460
-Points: 438
+Points: 461
 # Comments: 55]]></summary>
         <author>
             <name>pjerem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A good livestreaming setup is a well-tailored suit]]></title>
-        <id>https://news.ycombinator.com/item?id=27577432</id>
-        <link href="https://spandex.substack.com/p/why-your-livestreaming-setup-is-a"/>
-        <updated>2021-06-21T08:53:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spandex.substack.com/p/why-your-livestreaming-setup-is-a
-Comments URL: https://news.ycombinator.com/item?id=27577432
-Points: 188
-# Comments: 117]]></summary>
-        <author>
-            <name>darimo</name>
         </author>
     </entry>
     <entry>
@@ -461,16 +471,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/what-are-bookmarklets/"/>
         <updated>2021-06-17T00:53:04.000Z</updated>
         <summary type="html"><![CDATA[Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Split – How to Split a String into an Array in JS]]></title>
-        <id>60c088e5d3126007592d56f1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/"/>
-        <updated>2021-06-16T21:19:08.000Z</updated>
-        <summary type="html"><![CDATA[In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, "Yes, You Can DO It!". In JavaScript, we can create a string in a couple of ways: Using the string literal as a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
