@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T02:30:43.701Z</updated>
+    <updated>2021-06-22T03:12:09.984Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tellme – text-to-speech command execution notifier]]></title>
+        <id>https://news.ycombinator.com/item?id=27586843</id>
+        <link href="https://github.com/whot/tellme"/>
+        <updated>2021-06-22T01:16:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/whot/tellme
+Comments URL: https://news.ycombinator.com/item?id=27586843
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>pabs3</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Navy set off a 40k-pound explosive to test its new supercarrier]]></title>
         <id>https://news.ycombinator.com/item?id=27586798</id>
@@ -13,8 +26,8 @@
         <updated>2021-06-22T01:09:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/navy-detonated-40000-pound-explosive-to-test-new-supercarrier-2021-6
 Comments URL: https://news.ycombinator.com/item?id=27586798
-Points: 30
-# Comments: 13]]></summary>
+Points: 39
+# Comments: 20]]></summary>
         <author>
             <name>throwkeep</name>
         </author>
@@ -33,14 +46,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why is Git so popular and frequently used?]]></title>
+        <id>https://news.ycombinator.com/item?id=27586432</id>
+        <link href="https://news.ycombinator.com/item?id=27586432"/>
+        <updated>2021-06-22T00:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Why is Git so popular and frequently used if this is the state (https://news.ycombinator.com/item?id=27579701)?
+Comments URL: https://news.ycombinator.com/item?id=27586432
+Points: 18
+# Comments: 32]]></summary>
+        <author>
+            <name>posharma</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deloitte tells staff they can work from home forever]]></title>
         <id>https://news.ycombinator.com/item?id=27586237</id>
         <link href="https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/"/>
         <updated>2021-06-22T00:07:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/
 Comments URL: https://news.ycombinator.com/item?id=27586237
-Points: 153
-# Comments: 65]]></summary>
+Points: 166
+# Comments: 69]]></summary>
         <author>
             <name>rchaudhary</name>
         </author>
@@ -52,8 +78,8 @@ Points: 153
         <updated>2021-06-21T23:58:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wiki.debian.org/Teams/Apt/Spec/AptSign
 Comments URL: https://news.ycombinator.com/item?id=27586146
-Points: 46
-# Comments: 6]]></summary>
+Points: 50
+# Comments: 10]]></summary>
         <author>
             <name>FiloSottile</name>
         </author>
@@ -65,8 +91,8 @@ Points: 46
         <updated>2021-06-21T23:34:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ShprAlex/SproutLife
 Comments URL: https://news.ycombinator.com/item?id=27585953
-Points: 46
-# Comments: 10]]></summary>
+Points: 54
+# Comments: 15]]></summary>
         <author>
             <name>MichaelMoser123</name>
         </author>
@@ -78,8 +104,8 @@ Points: 46
         <updated>2021-06-21T23:07:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://facebookresearch.github.io/Kats/
 Comments URL: https://news.ycombinator.com/item?id=27585711
-Points: 22
-# Comments: 3]]></summary>
+Points: 39
+# Comments: 4]]></summary>
         <author>
             <name>babak_ap</name>
         </author>
@@ -91,8 +117,8 @@ Points: 22
         <updated>2021-06-21T22:12:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4
 Comments URL: https://news.ycombinator.com/item?id=27585208
-Points: 174
-# Comments: 41]]></summary>
+Points: 187
+# Comments: 46]]></summary>
         <author>
             <name>dan-robertson</name>
         </author>
@@ -104,8 +130,8 @@ Points: 174
         <updated>2021-06-21T21:56:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html
 Comments URL: https://news.ycombinator.com/item?id=27585051
-Points: 20
-# Comments: 11]]></summary>
+Points: 22
+# Comments: 14]]></summary>
         <author>
             <name>boyter</name>
         </author>
@@ -159,23 +185,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-21T18:54:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://heap.io/blog/accidentally-exponential-behavior-in-spark
 Comments URL: https://news.ycombinator.com/item?id=27582645
-Points: 51
-# Comments: 17]]></summary>
+Points: 53
+# Comments: 18]]></summary>
         <author>
             <name>drob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple is building the metaverse substrate]]></title>
-        <id>https://news.ycombinator.com/item?id=27582568</id>
-        <link href="https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html"/>
-        <updated>2021-06-21T18:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html
-Comments URL: https://news.ycombinator.com/item?id=27582568
-Points: 192
-# Comments: 177]]></summary>
-        <author>
-            <name>grork</name>
         </author>
     </entry>
     <entry>
@@ -208,8 +221,8 @@ Points: 98
         <updated>2021-06-21T18:01:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/
 Comments URL: https://news.ycombinator.com/item?id=27581797
-Points: 390
-# Comments: 285]]></summary>
+Points: 403
+# Comments: 298]]></summary>
         <author>
             <name>flowerlad</name>
         </author>
@@ -221,8 +234,8 @@ Points: 390
         <updated>2021-06-21T17:58:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/
 Comments URL: https://news.ycombinator.com/item?id=27581762
-Points: 248
-# Comments: 260]]></summary>
+Points: 265
+# Comments: 273]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -244,8 +257,8 @@ Points: 248
         <updated>2021-06-21T17:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/
 Comments URL: https://news.ycombinator.com/item?id=27581359
-Points: 256
-# Comments: 191]]></summary>
+Points: 269
+# Comments: 194]]></summary>
         <author>
             <name>gmays</name>
         </author>
@@ -257,8 +270,8 @@ Points: 256
         <updated>2021-06-21T17:17:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/chrisseaton/rhizome
 Comments URL: https://news.ycombinator.com/item?id=27581257
-Points: 246
-# Comments: 34]]></summary>
+Points: 253
+# Comments: 35]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -270,8 +283,8 @@ Points: 246
         <updated>2021-06-21T17:05:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tmrwedition.com/2021/06/13/the-agony-and-the-ecstacy-of-deep-brain-stimulation-surgery/
 Comments URL: https://news.ycombinator.com/item?id=27581108
-Points: 79
-# Comments: 27]]></summary>
+Points: 89
+# Comments: 30]]></summary>
         <author>
             <name>masijo</name>
         </author>
@@ -303,8 +316,8 @@ Points: 79
         <updated>2021-06-21T16:27:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=eOL_rCK59ZI&t=28293s
 Comments URL: https://news.ycombinator.com/item?id=27580744
-Points: 143
-# Comments: 134]]></summary>
+Points: 146
+# Comments: 139]]></summary>
         <author>
             <name>vpj</name>
         </author>
@@ -316,8 +329,8 @@ Points: 143
         <updated>2021-06-21T14:49:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.waleedkhan.name/git-undo/
 Comments URL: https://news.ycombinator.com/item?id=27579701
-Points: 600
-# Comments: 358]]></summary>
+Points: 617
+# Comments: 361]]></summary>
         <author>
             <name>arxanas</name>
         </author>
@@ -330,8 +343,8 @@ Points: 600
         <summary type="html"><![CDATA[This particular patent troll has filed lawsuits with at least a dozen of my competitors in the past year. Some were voluntarily dismissed, some ongoing, rest unknown (based on my limited research skills). The patent in question involves downloading a remote database to a mobile device used as a lookup table when scanning a QR code. Yeah...
 I'm a one person company and have no idea what to do.
 Comments URL: https://news.ycombinator.com/item?id=27579693
-Points: 721
-# Comments: 279]]></summary>
+Points: 737
+# Comments: 281]]></summary>
         <author>
             <name>jblake</name>
         </author>
@@ -356,19 +369,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocky Linux 8.4 GA]]></title>
-        <id>https://news.ycombinator.com/item?id=27579297</id>
-        <link href="https://rockylinux.org/news/rocky-linux-8-4-ga-release/"/>
-        <updated>2021-06-21T14:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rockylinux.org/news/rocky-linux-8-4-ga-release/
-Comments URL: https://news.ycombinator.com/item?id=27579297
-Points: 65
-# Comments: 8]]></summary>
-        <author>
-            <name>tkuraku</name>
         </author>
     </entry>
     <entry>
