@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T12:17:26.202Z</updated>
+    <updated>2021-06-22T13:23:02.042Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A CCTV Company Is Paying Remote Workers in India to Yell at Armed Robbers]]></title>
+        <id>https://news.ycombinator.com/item?id=27591037</id>
+        <link href="https://www.vice.com/en/article/4avnnn/a-cctv-company-is-paying-remote-workers-in-india-to-yell-at-armed-robbers"/>
+        <updated>2021-06-22T12:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/4avnnn/a-cctv-company-is-paying-remote-workers-in-india-to-yell-at-armed-robbers
+Comments URL: https://news.ycombinator.com/item?id=27591037
+Points: 14
+# Comments: 0]]></summary>
+        <author>
+            <name>krustyburger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bumble closes to give 'burnt-out' staff a week's break]]></title>
+        <id>https://news.ycombinator.com/item?id=27590697</id>
+        <link href="https://www.bbc.co.uk/news/business-57562230"/>
+        <updated>2021-06-22T12:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/business-57562230
+Comments URL: https://news.ycombinator.com/item?id=27590697
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>dustinmoris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instamenu (YC W21) Is Hiring]]></title>
         <id>https://news.ycombinator.com/item?id=27590600</id>
@@ -20,14 +46,53 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fasm, a F# to Jitted ASM/IL disassembler as a dotnet tool]]></title>
+        <id>https://news.ycombinator.com/item?id=27590583</id>
+        <link href="https://github.com/d-edge/fasm"/>
+        <updated>2021-06-22T11:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/d-edge/fasm
+Comments URL: https://news.ycombinator.com/item?id=27590583
+Points: 37
+# Comments: 1]]></summary>
+        <author>
+            <name>aloisdg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elfcat: Visualize ELF Binaries]]></title>
+        <id>https://news.ycombinator.com/item?id=27590508</id>
+        <link href="https://github.com/ruslashev/elfcat"/>
+        <updated>2021-06-22T11:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ruslashev/elfcat
+Comments URL: https://news.ycombinator.com/item?id=27590508
+Points: 39
+# Comments: 1]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attack Surface Analyzer helps you analyze your OS's security configuration]]></title>
+        <id>https://news.ycombinator.com/item?id=27589916</id>
+        <link href="https://github.com/Microsoft/AttackSurfaceAnalyzer"/>
+        <updated>2021-06-22T10:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/Microsoft/AttackSurfaceAnalyzer
+Comments URL: https://news.ycombinator.com/item?id=27589916
+Points: 18
+# Comments: 0]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What's Inside the EU Green Pass QR Code?]]></title>
         <id>https://news.ycombinator.com/item?id=27589913</id>
         <link href="https://gir.st/blog/greenpass.html"/>
         <updated>2021-06-22T10:25:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gir.st/blog/greenpass.html
 Comments URL: https://news.ycombinator.com/item?id=27589913
-Points: 174
-# Comments: 113]]></summary>
+Points: 261
+# Comments: 208]]></summary>
         <author>
             <name>zaik</name>
         </author>
@@ -39,21 +104,21 @@ Points: 174
         <updated>2021-06-22T10:17:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.gov.uk/alerts
 Comments URL: https://news.ycombinator.com/item?id=27589873
-Points: 37
-# Comments: 14]]></summary>
+Points: 47
+# Comments: 19]]></summary>
         <author>
             <name>bennyp101</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monte Carlo Counterfactual Regret Minimization with Kuhn Poker]]></title>
+        <title type="html"><![CDATA[Regret Minimization in Games with Incomplete Information (CFR)]]></title>
         <id>https://news.ycombinator.com/item?id=27589717</id>
         <link href="https://nn.labml.ai/cfr/index.html"/>
         <updated>2021-06-22T09:50:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nn.labml.ai/cfr/index.html
 Comments URL: https://news.ycombinator.com/item?id=27589717
-Points: 7
-# Comments: 0]]></summary>
+Points: 19
+# Comments: 2]]></summary>
         <author>
             <name>vpj</name>
         </author>
@@ -65,8 +130,8 @@ Points: 7
         <updated>2021-06-22T09:20:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.usni.org/2021/06/21/positions-of-two-nato-ships-were-falsified-near-russian-black-sea-naval-base
 Comments URL: https://news.ycombinator.com/item?id=27589549
-Points: 37
-# Comments: 8]]></summary>
+Points: 49
+# Comments: 22]]></summary>
         <author>
             <name>Nokinside</name>
         </author>
@@ -78,23 +143,10 @@ Points: 37
         <updated>2021-06-22T09:06:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/us-commerce-department-rescinds-tiktok-wechat-prohibited-transactions-list-2021-06-21/
 Comments URL: https://news.ycombinator.com/item?id=27589490
-Points: 23
-# Comments: 17]]></summary>
+Points: 37
+# Comments: 35]]></summary>
         <author>
             <name>shivbhatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia opposes Great Barrier Reef ′in danger′ listing]]></title>
-        <id>https://news.ycombinator.com/item?id=27589476</id>
-        <link href="https://www.dw.com/en/australia-opposes-great-barrier-reef-in-danger-listing/a-57987254"/>
-        <updated>2021-06-22T09:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/australia-opposes-great-barrier-reef-in-danger-listing/a-57987254
-Comments URL: https://news.ycombinator.com/item?id=27589476
-Points: 79
-# Comments: 99]]></summary>
-        <author>
-            <name>Tomte</name>
         </author>
     </entry>
     <entry>
@@ -114,8 +166,8 @@ Points: 79
         <updated>2021-06-22T08:28:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/sylefeb/Silice
 Comments URL: https://news.ycombinator.com/item?id=27589298
-Points: 22
-# Comments: 4]]></summary>
+Points: 32
+# Comments: 6]]></summary>
         <author>
             <name>mleonhard</name>
         </author>
@@ -127,8 +179,8 @@ Points: 22
         <updated>2021-06-22T08:06:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dirk.org/wp-content/uploads/2021/06/DAX-Study-2020-Investoren-der-Deutschland-AG-8_0.pdf
 Comments URL: https://news.ycombinator.com/item?id=27589155
-Points: 35
-# Comments: 19]]></summary>
+Points: 42
+# Comments: 31]]></summary>
         <author>
             <name>doener</name>
         </author>
@@ -140,23 +192,10 @@ Points: 35
         <updated>2021-06-22T07:10:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ThakeeNathees/pocketlang
 Comments URL: https://news.ycombinator.com/item?id=27588842
-Points: 107
-# Comments: 15]]></summary>
+Points: 125
+# Comments: 21]]></summary>
         <author>
             <name>tsujp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upgrade Your SSH Key to Ed25519 (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=27588819</id>
-        <link href="https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54"/>
-        <updated>2021-06-22T07:06:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54
-Comments URL: https://news.ycombinator.com/item?id=27588819
-Points: 59
-# Comments: 27]]></summary>
-        <author>
-            <name>doener</name>
         </author>
     </entry>
     <entry>
@@ -166,8 +205,8 @@ Points: 59
         <updated>2021-06-22T06:53:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=241-5DZyons
 Comments URL: https://news.ycombinator.com/item?id=27588747
-Points: 155
-# Comments: 57]]></summary>
+Points: 183
+# Comments: 85]]></summary>
         <author>
             <name>wildrice</name>
         </author>
@@ -179,8 +218,8 @@ Points: 155
         <updated>2021-06-22T06:39:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://whatmusicreallyis.com/research/harmonicomb/
 Comments URL: https://news.ycombinator.com/item?id=27588673
-Points: 60
-# Comments: 8]]></summary>
+Points: 67
+# Comments: 11]]></summary>
         <author>
             <name>flabber</name>
         </author>
@@ -192,7 +231,7 @@ Points: 60
         <updated>2021-06-22T06:38:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.r4um.net/2021/redis-mtime-getset/
 Comments URL: https://news.ycombinator.com/item?id=27588671
-Points: 21
+Points: 27
 # Comments: 4]]></summary>
         <author>
             <name>r4um</name>
@@ -205,8 +244,8 @@ Points: 21
         <updated>2021-06-22T05:22:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html
 Comments URL: https://news.ycombinator.com/item?id=27588258
-Points: 335
-# Comments: 166]]></summary>
+Points: 371
+# Comments: 210]]></summary>
         <author>
             <name>superkuh</name>
         </author>
@@ -218,7 +257,7 @@ Points: 335
         <updated>2021-06-22T05:12:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lude.rs/h4ck1ng/rootless_sniffing.html
 Comments URL: https://news.ycombinator.com/item?id=27588199
-Points: 32
+Points: 35
 # Comments: 3]]></summary>
         <author>
             <name>g3ol4d0</name>
@@ -231,49 +270,10 @@ Points: 32
         <updated>2021-06-22T04:40:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://finbold.com/hyundai-acquires-controlling-stake-in-u-s-robotics-firm-boston-dynamics-for-880-million/
 Comments URL: https://news.ycombinator.com/item?id=27588047
-Points: 134
-# Comments: 51]]></summary>
+Points: 160
+# Comments: 64]]></summary>
         <author>
             <name>sidcool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Messaging Mess: A Timeline]]></title>
-        <id>https://news.ycombinator.com/item?id=27587911</id>
-        <link href="https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline"/>
-        <updated>2021-06-22T04:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline
-Comments URL: https://news.ycombinator.com/item?id=27587911
-Points: 192
-# Comments: 132]]></summary>
-        <author>
-            <name>0xedb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpha-Gal Syndrome]]></title>
-        <id>https://news.ycombinator.com/item?id=27587520</id>
-        <link href="https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608"/>
-        <updated>2021-06-22T03:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608
-Comments URL: https://news.ycombinator.com/item?id=27587520
-Points: 139
-# Comments: 66]]></summary>
-        <author>
-            <name>x14km2d</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A popular algorithm to predict sepsis misses most cases and sends false alarms]]></title>
-        <id>https://news.ycombinator.com/item?id=27587442</id>
-        <link href="https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/"/>
-        <updated>2021-06-22T02:55:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/
-Comments URL: https://news.ycombinator.com/item?id=27587442
-Points: 57
-# Comments: 19]]></summary>
-        <author>
-            <name>hhs</name>
         </author>
     </entry>
     <entry>
