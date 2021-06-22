@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T04:14:59.221Z</updated>
+    <updated>2021-06-22T05:14:09.833Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google’s Messaging Mess: A Timeline]]></title>
+        <id>https://news.ycombinator.com/item?id=27587911</id>
+        <link href="https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline"/>
+        <updated>2021-06-22T04:11:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline
+Comments URL: https://news.ycombinator.com/item?id=27587911
+Points: 26
+# Comments: 4]]></summary>
+        <author>
+            <name>0xedb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpha-Gal Syndrome]]></title>
+        <id>https://news.ycombinator.com/item?id=27587520</id>
+        <link href="https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608"/>
+        <updated>2021-06-22T03:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608
+Comments URL: https://news.ycombinator.com/item?id=27587520
+Points: 24
+# Comments: 14]]></summary>
+        <author>
+            <name>x14km2d</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A popular algorithm to predict sepsis misses most cases and sends false alarms]]></title>
         <id>https://news.ycombinator.com/item?id=27587442</id>
@@ -13,8 +39,8 @@
         <updated>2021-06-22T02:55:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/
 Comments URL: https://news.ycombinator.com/item?id=27587442
-Points: 8
-# Comments: 1]]></summary>
+Points: 16
+# Comments: 5]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -26,33 +52,23 @@ Points: 8
         <updated>2021-06-22T02:42:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/21/us/politics/supreme-court-patent-judges.html
 Comments URL: https://news.ycombinator.com/item?id=27587361
-Points: 9
-# Comments: 0]]></summary>
+Points: 47
+# Comments: 5]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: At this point, are PUT and PATCH helpful?]]></title>
-        <id>https://news.ycombinator.com/item?id=27587283</id>
-        <link href="https://news.ycombinator.com/item?id=27587283"/>
-        <updated>2021-06-22T02:27:11.000Z</updated>
-        <summary type="html"><![CDATA[EDIT:  Thanks for the input fellow beings.  I really appreciate it.  I think I have a much better idea of what people feel/do and why... so I'm going on a walk now to think it around.
----------------------
-I'm designing an API, and trying to place PUT and PATCH into my design ideology.
-In my experience, most APIs stick to GET and POST almost exclusively.  And AFAICT, PUT and PATCH don't really add much that POST doesn't have.  In fact, I kind of prefer the idea of having the url tell me what's going on explicitly rather than trying to infer from the request type.  For example:
-- to create: `POST user`
-- to update: `POST user/12354`
-vs
-- to create: `POST user/`
-- to update: `PATCH user/`
---------
-I'm working alone on this project, otherwise I'd ask a coworker, but what do you guys think?  What feels intuitive and clear to you?
-Comments URL: https://news.ycombinator.com/item?id=27587283
+        <title type="html"><![CDATA[Once Dataset: One Million Scenes for Autonomous Driving]]></title>
+        <id>https://news.ycombinator.com/item?id=27587316</id>
+        <link href="https://once-for-auto-driving.github.io/index.html"/>
+        <updated>2021-06-22T02:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://once-for-auto-driving.github.io/index.html
+Comments URL: https://news.ycombinator.com/item?id=27587316
 Points: 8
-# Comments: 17]]></summary>
+# Comments: 0]]></summary>
         <author>
-            <name>seph-reed</name>
+            <name>lnyan</name>
         </author>
     </entry>
     <entry>
@@ -62,10 +78,23 @@ Points: 8
         <updated>2021-06-22T01:53:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57558028
 Comments URL: https://news.ycombinator.com/item?id=27587109
-Points: 63
-# Comments: 22]]></summary>
+Points: 92
+# Comments: 43]]></summary>
         <author>
             <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Say Goodbye to the American Dream]]></title>
+        <id>https://news.ycombinator.com/item?id=27587003</id>
+        <link href="https://jessicalexicus.medium.com/say-goodbye-to-the-american-dream-2ac178fa8428"/>
+        <updated>2021-06-22T01:40:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jessicalexicus.medium.com/say-goodbye-to-the-american-dream-2ac178fa8428
+Comments URL: https://news.ycombinator.com/item?id=27587003
+Points: 9
+# Comments: 3]]></summary>
+        <author>
+            <name>paulpauper</name>
         </author>
     </entry>
     <entry>
@@ -75,7 +104,7 @@ Points: 63
         <updated>2021-06-22T01:16:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/whot/tellme
 Comments URL: https://news.ycombinator.com/item?id=27586843
-Points: 6
+Points: 8
 # Comments: 2]]></summary>
         <author>
             <name>pabs3</name>
@@ -88,8 +117,8 @@ Points: 6
         <updated>2021-06-22T01:09:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/navy-detonated-40000-pound-explosive-to-test-new-supercarrier-2021-6
 Comments URL: https://news.ycombinator.com/item?id=27586798
-Points: 64
-# Comments: 35]]></summary>
+Points: 76
+# Comments: 51]]></summary>
         <author>
             <name>throwkeep</name>
         </author>
@@ -114,8 +143,8 @@ Points: 1
         <updated>2021-06-22T00:36:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989112/
 Comments URL: https://news.ycombinator.com/item?id=27586512
-Points: 19
-# Comments: 5]]></summary>
+Points: 36
+# Comments: 22]]></summary>
         <author>
             <name>spekcular</name>
         </author>
@@ -127,7 +156,7 @@ Points: 19
         <updated>2021-06-21T23:59:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/aws/introducing-a-public-registry-for-aws-cloudformation/
 Comments URL: https://news.ycombinator.com/item?id=27586160
-Points: 9
+Points: 20
 # Comments: 0]]></summary>
         <author>
             <name>gmays</name>
@@ -140,8 +169,8 @@ Points: 9
         <updated>2021-06-21T23:58:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wiki.debian.org/Teams/Apt/Spec/AptSign
 Comments URL: https://news.ycombinator.com/item?id=27586146
-Points: 64
-# Comments: 11]]></summary>
+Points: 72
+# Comments: 12]]></summary>
         <author>
             <name>FiloSottile</name>
         </author>
@@ -153,8 +182,8 @@ Points: 64
         <updated>2021-06-21T23:34:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ShprAlex/SproutLife
 Comments URL: https://news.ycombinator.com/item?id=27585953
-Points: 71
-# Comments: 22]]></summary>
+Points: 85
+# Comments: 24]]></summary>
         <author>
             <name>MichaelMoser123</name>
         </author>
@@ -166,7 +195,7 @@ Points: 71
         <updated>2021-06-21T23:07:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://facebookresearch.github.io/Kats/
 Comments URL: https://news.ycombinator.com/item?id=27585711
-Points: 60
+Points: 76
 # Comments: 7]]></summary>
         <author>
             <name>babak_ap</name>
@@ -221,8 +250,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-21T18:54:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://heap.io/blog/accidentally-exponential-behavior-in-spark
 Comments URL: https://news.ycombinator.com/item?id=27582645
-Points: 57
-# Comments: 20]]></summary>
+Points: 63
+# Comments: 21]]></summary>
         <author>
             <name>drob</name>
         </author>
@@ -234,7 +263,7 @@ Points: 57
         <updated>2021-06-21T18:41:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a
 Comments URL: https://news.ycombinator.com/item?id=27582396
-Points: 102
+Points: 104
 # Comments: 29]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -257,8 +286,8 @@ Points: 102
         <updated>2021-06-21T18:01:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/
 Comments URL: https://news.ycombinator.com/item?id=27581797
-Points: 427
-# Comments: 321]]></summary>
+Points: 442
+# Comments: 335]]></summary>
         <author>
             <name>flowerlad</name>
         </author>
@@ -270,8 +299,8 @@ Points: 427
         <updated>2021-06-21T17:58:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/
 Comments URL: https://news.ycombinator.com/item?id=27581762
-Points: 285
-# Comments: 298]]></summary>
+Points: 297
+# Comments: 313]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -293,36 +322,10 @@ Points: 285
         <updated>2021-06-21T17:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/
 Comments URL: https://news.ycombinator.com/item?id=27581359
-Points: 287
-# Comments: 202]]></summary>
+Points: 299
+# Comments: 206]]></summary>
         <author>
             <name>gmays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhizome – A pedagogical example of a JIT for Ruby, implemented in Ruby]]></title>
-        <id>https://news.ycombinator.com/item?id=27581257</id>
-        <link href="https://github.com/chrisseaton/rhizome"/>
-        <updated>2021-06-21T17:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/chrisseaton/rhizome
-Comments URL: https://news.ycombinator.com/item?id=27581257
-Points: 260
-# Comments: 35]]></summary>
-        <author>
-            <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What it felt like to be awake during invasive brain surgery]]></title>
-        <id>https://news.ycombinator.com/item?id=27581108</id>
-        <link href="https://tmrwedition.com/2021/06/13/the-agony-and-the-ecstacy-of-deep-brain-stimulation-surgery/"/>
-        <updated>2021-06-21T17:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tmrwedition.com/2021/06/13/the-agony-and-the-ecstacy-of-deep-brain-stimulation-surgery/
-Comments URL: https://news.ycombinator.com/item?id=27581108
-Points: 105
-# Comments: 34]]></summary>
-        <author>
-            <name>masijo</name>
         </author>
     </entry>
     <entry>
@@ -343,19 +346,6 @@ Points: 105
         <summary type="html"><![CDATA[Today we're gonna learn everything you need to know about the CSS position property along with examples. Let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git undo: We can do better]]></title>
-        <id>https://news.ycombinator.com/item?id=27579701</id>
-        <link href="https://blog.waleedkhan.name/git-undo/"/>
-        <updated>2021-06-21T14:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.waleedkhan.name/git-undo/
-Comments URL: https://news.ycombinator.com/item?id=27579701
-Points: 642
-# Comments: 370]]></summary>
-        <author>
-            <name>arxanas</name>
         </author>
     </entry>
     <entry>
