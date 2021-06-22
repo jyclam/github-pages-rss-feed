@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T19:10:00.051Z</updated>
+    <updated>2021-06-22T20:12:06.811Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saffron as an Antidepressant]]></title>
+        <id>https://news.ycombinator.com/item?id=27596125</id>
+        <link href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266642/#sec1-1title"/>
+        <updated>2021-06-22T19:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266642/#sec1-1title
+Comments URL: https://news.ycombinator.com/item?id=27596125
+Points: 36
+# Comments: 4]]></summary>
+        <author>
+            <name>gdubs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Dangerous Censorship]]></title>
+        <id>https://news.ycombinator.com/item?id=27595902</id>
+        <link href="https://edwardsnowden.substack.com/p/on-censorship-pt-1"/>
+        <updated>2021-06-22T19:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/on-censorship-pt-1
+Comments URL: https://news.ycombinator.com/item?id=27595902
+Points: 72
+# Comments: 40]]></summary>
+        <author>
+            <name>0xedb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is AI hard and Physics simple?]]></title>
+        <id>https://news.ycombinator.com/item?id=27595879</id>
+        <link href="https://arxiv.org/abs/2104.00008"/>
+        <updated>2021-06-22T19:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2104.00008
+Comments URL: https://news.ycombinator.com/item?id=27595879
+Points: 18
+# Comments: 16]]></summary>
+        <author>
+            <name>bigdict</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reply of the Zaporozhian Cossacks to Sultan Mehmed IV]]></title>
+        <id>https://news.ycombinator.com/item?id=27595429</id>
+        <link href="https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks"/>
+        <updated>2021-06-22T18:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks
+Comments URL: https://news.ycombinator.com/item?id=27595429
+Points: 30
+# Comments: 6]]></summary>
+        <author>
+            <name>slater</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Regularization Is All You Need: Simple Neural Nets Can Excel on Tabular Data]]></title>
         <id>https://news.ycombinator.com/item?id=27595309</id>
@@ -13,21 +65,21 @@
         <updated>2021-06-22T18:29:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.11189
 Comments URL: https://news.ycombinator.com/item?id=27595309
-Points: 30
-# Comments: 5]]></summary>
+Points: 59
+# Comments: 22]]></summary>
         <author>
             <name>tracyhenry</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Types of Propaganda, Propaganda Techniques, and Propaganda Strategies]]></title>
+        <title type="html"><![CDATA[Types of Propaganda, Propaganda Techniques, and Propaganda Strategies (2017)]]></title>
         <id>https://news.ycombinator.com/item?id=27595043</id>
         <link href="http://factmyth.com/types-of-propaganda-propaganda-techniques-and-propaganda-stratigies/"/>
         <updated>2021-06-22T18:09:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://factmyth.com/types-of-propaganda-propaganda-techniques-and-propaganda-stratigies/
 Comments URL: https://news.ycombinator.com/item?id=27595043
-Points: 29
-# Comments: 1]]></summary>
+Points: 119
+# Comments: 64]]></summary>
         <author>
             <name>jhabdas</name>
         </author>
@@ -39,8 +91,8 @@ Points: 29
         <updated>2021-06-22T17:44:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/business/archive/2017/04/hard-work-mobility/522207/
 Comments URL: https://news.ycombinator.com/item?id=27594718
-Points: 44
-# Comments: 18]]></summary>
+Points: 96
+# Comments: 87]]></summary>
         <author>
             <name>paulpauper</name>
         </author>
@@ -65,8 +117,8 @@ Points: 1
         <updated>2021-06-22T16:30:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://karpathy.github.io/2021/06/21/blockchain/
 Comments URL: https://news.ycombinator.com/item?id=27593772
-Points: 300
-# Comments: 94]]></summary>
+Points: 402
+# Comments: 133]]></summary>
         <author>
             <name>yigitdemirag</name>
         </author>
@@ -109,23 +161,10 @@ Points: 300
         <summary type="html"><![CDATA[For as long as I've been working professionally, I have been slacking around a lot of the time, reading blog posts, HN, often even reading (tech, biz-related) books and just doing the bare minimum for appearances sake but no one seems to notice. In the office I book a booth to work in to have some peace & quiet and have a couple of code commits prepared to not arouse suspicion. In companies with perf reviews I get some useful feedback here and there but most of the time it's positive, people love to work with me, I do get stuff done if I have to, but as soon as I can get away with doing close to nothing, I'll take the chance. I don't think I'm blocking other teams and I don't think I'm preventing my own team from having accomplishments and often people refer to me as being either partially or mostly responsible for shipping something because I manage to have a clear mind and focus when things get close to a deadline.
 If I am motivated and the task/project/product is fun I throw myself into it but that isn't sustainable. I've read a few of these posts from people at FAANG doing almost the same so I don't really feel bad about it. I'm just wondering how wide-spread this is. One of my theories for this behavior is that this is related to 40+ hour work weeks. I think I'd be able to get my devopsy work done in ~3 hours/day if I manage my time well and schedule most meetings on Mondays.
 Comments URL: https://news.ycombinator.com/item?id=27593462
-Points: 157
-# Comments: 108]]></summary>
+Points: 218
+# Comments: 147]]></summary>
         <author>
             <name>awaythrown1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Backblaze Rebrand Reveal]]></title>
-        <id>https://news.ycombinator.com/item?id=27593453</id>
-        <link href="https://www.backblaze.com/blog/the-rebrand-reveal/"/>
-        <updated>2021-06-22T16:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/the-rebrand-reveal/
-Comments URL: https://news.ycombinator.com/item?id=27593453
-Points: 41
-# Comments: 30]]></summary>
-        <author>
-            <name>TangerineDream</name>
         </author>
     </entry>
     <entry>
@@ -135,8 +174,8 @@ Points: 41
         <updated>2021-06-22T16:04:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.w3.org/TR/did-core/
 Comments URL: https://news.ycombinator.com/item?id=27593406
-Points: 96
-# Comments: 27]]></summary>
+Points: 107
+# Comments: 42]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -148,23 +187,10 @@ Points: 96
         <updated>2021-06-22T16:01:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://search.brave.com/
 Comments URL: https://news.ycombinator.com/item?id=27593360
-Points: 293
-# Comments: 248]]></summary>
+Points: 332
+# Comments: 276]]></summary>
         <author>
             <name>vmullin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SimCities and SimCrises (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27593081</id>
-        <link href="http://molleindustria.org/GamesForCities/"/>
-        <updated>2021-06-22T15:40:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://molleindustria.org/GamesForCities/
-Comments URL: https://news.ycombinator.com/item?id=27593081
-Points: 79
-# Comments: 49]]></summary>
-        <author>
-            <name>rrherr</name>
         </author>
     </entry>
     <entry>
@@ -174,23 +200,10 @@ Points: 79
         <updated>2021-06-22T15:39:41.000Z</updated>
         <summary type="html"><![CDATA[SaaS, productized service, freelance - anyone doing it successfully with no-code, low-code tools?
 Comments URL: https://news.ycombinator.com/item?id=27593073
-Points: 89
-# Comments: 40]]></summary>
+Points: 119
+# Comments: 49]]></summary>
         <author>
             <name>akudha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earth Has a 27.5M-Year 'Heartbeat', but We Don't Know What Causes It]]></title>
-        <id>https://news.ycombinator.com/item?id=27593021</id>
-        <link href="https://www.sciencealert.com/our-planet-has-a-27-5-million-year-old-pulse-says-study-we-don-t-know-what-causes-it"/>
-        <updated>2021-06-22T15:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sciencealert.com/our-planet-has-a-27-5-million-year-old-pulse-says-study-we-don-t-know-what-causes-it
-Comments URL: https://news.ycombinator.com/item?id=27593021
-Points: 64
-# Comments: 20]]></summary>
-        <author>
-            <name>CarCooler</name>
         </author>
     </entry>
     <entry>
@@ -200,8 +213,8 @@ Points: 64
         <updated>2021-06-22T15:26:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pupishi.com/then
 Comments URL: https://news.ycombinator.com/item?id=27592876
-Points: 47
-# Comments: 27]]></summary>
+Points: 56
+# Comments: 36]]></summary>
         <author>
             <name>alexpotrivaev</name>
         </author>
@@ -213,8 +226,8 @@ Points: 47
         <updated>2021-06-22T15:23:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pragprog.com/titles/dmpython/intuitive-python/
 Comments URL: https://news.ycombinator.com/item?id=27592822
-Points: 71
-# Comments: 15]]></summary>
+Points: 86
+# Comments: 26]]></summary>
         <author>
             <name>dmuller</name>
         </author>
@@ -226,8 +239,8 @@ Points: 71
         <updated>2021-06-22T14:57:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sparkbible.com
 Comments URL: https://news.ycombinator.com/item?id=27592473
-Points: 109
-# Comments: 76]]></summary>
+Points: 133
+# Comments: 111]]></summary>
         <author>
             <name>theoblank</name>
         </author>
@@ -250,8 +263,8 @@ The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can s
         <updated>2021-06-22T14:36:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest
 Comments URL: https://news.ycombinator.com/item?id=27592187
-Points: 95
-# Comments: 25]]></summary>
+Points: 115
+# Comments: 34]]></summary>
         <author>
             <name>andrewnc</name>
         </author>
@@ -274,23 +287,10 @@ The post If we’re gonna criticize utility-class frameworks, let’s be fair ab
         <updated>2021-06-22T13:57:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://portswigger.net/daily-swig/csp-bypass-how-one-chrome-xss-bug-took-2-5-years-and-an-html-spec-change-to-fix
 Comments URL: https://news.ycombinator.com/item?id=27591657
-Points: 46
+Points: 48
 # Comments: 7]]></summary>
         <author>
             <name>weinzierl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onboarding to Elixir]]></title>
-        <id>https://news.ycombinator.com/item?id=27591079</id>
-        <link href="https://underjord.io/onboarding-to-elixir.html"/>
-        <updated>2021-06-22T13:03:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://underjord.io/onboarding-to-elixir.html
-Comments URL: https://news.ycombinator.com/item?id=27591079
-Points: 156
-# Comments: 76]]></summary>
-        <author>
-            <name>lawik</name>
         </author>
     </entry>
     <entry>
@@ -300,7 +300,7 @@ Points: 156
         <updated>2021-06-22T11:58:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/d-edge/fasm
 Comments URL: https://news.ycombinator.com/item?id=27590583
-Points: 99
+Points: 103
 # Comments: 10]]></summary>
         <author>
             <name>aloisdg</name>
@@ -313,8 +313,8 @@ Points: 99
         <updated>2021-06-22T11:51:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ruslashev/elfcat
 Comments URL: https://news.ycombinator.com/item?id=27590508
-Points: 143
-# Comments: 22]]></summary>
+Points: 149
+# Comments: 26]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
