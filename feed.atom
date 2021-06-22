@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T23:12:19.122Z</updated>
+    <updated>2021-06-22T00:35:32.920Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Ever-increasing home values are a Ponzi scheme]]></title>
-        <id>https://news.ycombinator.com/item?id=27585207</id>
-        <link href="https://theweek.com/business/1001518/homes-should-not-be-a-store-of-wealth"/>
-        <updated>2021-06-21T22:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://theweek.com/business/1001518/homes-should-not-be-a-store-of-wealth
-Comments URL: https://news.ycombinator.com/item?id=27585207
-Points: 34
-# Comments: 21]]></summary>
+        <title type="html"><![CDATA[Ditching OpenPGP, a new approach to signing APT repositories]]></title>
+        <id>https://news.ycombinator.com/item?id=27586146</id>
+        <link href="https://wiki.debian.org/Teams/Apt/Spec/AptSign"/>
+        <updated>2021-06-21T23:58:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wiki.debian.org/Teams/Apt/Spec/AptSign
+Comments URL: https://news.ycombinator.com/item?id=27586146
+Points: 8
+# Comments: 1]]></summary>
         <author>
-            <name>tolbish</name>
+            <name>FiloSottile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Daily to shut in days unless government agrees to plea to unfreeze assets]]></title>
+        <id>https://news.ycombinator.com/item?id=27585208</id>
+        <link href="https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4"/>
+        <updated>2021-06-21T22:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4
+Comments URL: https://news.ycombinator.com/item?id=27585208
+Points: 92
+# Comments: 17]]></summary>
+        <author>
+            <name>dan-robertson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning a Classic CRT into a Smart TV]]></title>
+        <id>https://news.ycombinator.com/item?id=27585051</id>
+        <link href="https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html"/>
+        <updated>2021-06-21T21:56:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html
+Comments URL: https://news.ycombinator.com/item?id=27585051
+Points: 15
+# Comments: 7]]></summary>
+        <author>
+            <name>boyter</name>
         </author>
     </entry>
     <entry>
@@ -81,8 +107,8 @@ Points: 1
         <updated>2021-06-21T18:54:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://heap.io/blog/accidentally-exponential-behavior-in-spark
 Comments URL: https://news.ycombinator.com/item?id=27582645
-Points: 33
-# Comments: 14]]></summary>
+Points: 41
+# Comments: 16]]></summary>
         <author>
             <name>drob</name>
         </author>
@@ -94,8 +120,8 @@ Points: 33
         <updated>2021-06-21T18:51:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html
 Comments URL: https://news.ycombinator.com/item?id=27582568
-Points: 158
-# Comments: 131]]></summary>
+Points: 173
+# Comments: 156]]></summary>
         <author>
             <name>grork</name>
         </author>
@@ -107,8 +133,8 @@ Points: 158
         <updated>2021-06-21T18:41:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a
 Comments URL: https://news.ycombinator.com/item?id=27582396
-Points: 60
-# Comments: 22]]></summary>
+Points: 80
+# Comments: 24]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -130,10 +156,23 @@ Points: 60
         <updated>2021-06-21T18:01:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/
 Comments URL: https://news.ycombinator.com/item?id=27581797
-Points: 304
-# Comments: 220]]></summary>
+Points: 338
+# Comments: 257]]></summary>
         <author>
             <name>flowerlad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Windows 10 slow down with each feature update?]]></title>
+        <id>https://news.ycombinator.com/item?id=27581762</id>
+        <link href="https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/"/>
+        <updated>2021-06-21T17:58:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/
+Comments URL: https://news.ycombinator.com/item?id=27581762
+Points: 205
+# Comments: 218]]></summary>
+        <author>
+            <name>pcr910303</name>
         </author>
     </entry>
     <entry>
@@ -153,8 +192,8 @@ Points: 304
         <updated>2021-06-21T17:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/
 Comments URL: https://news.ycombinator.com/item?id=27581359
-Points: 166
-# Comments: 141]]></summary>
+Points: 203
+# Comments: 162]]></summary>
         <author>
             <name>gmays</name>
         </author>
@@ -166,8 +205,8 @@ Points: 166
         <updated>2021-06-21T17:23:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://community.plotly.com/t/introducing-plotly-py-5-0-0-a-new-federated-jupyter-extension-icicle-charts-and-bar-chart-patterns/54039
 Comments URL: https://news.ycombinator.com/item?id=27581336
-Points: 74
-# Comments: 19]]></summary>
+Points: 90
+# Comments: 23]]></summary>
         <author>
             <name>nicolaskruchten</name>
         </author>
@@ -179,8 +218,8 @@ Points: 74
         <updated>2021-06-21T17:17:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/chrisseaton/rhizome
 Comments URL: https://news.ycombinator.com/item?id=27581257
-Points: 211
-# Comments: 25]]></summary>
+Points: 230
+# Comments: 29]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -192,8 +231,8 @@ Points: 211
         <updated>2021-06-21T17:05:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tmrwedition.com/2021/06/13/the-agony-and-the-ecstacy-of-deep-brain-stimulation-surgery/
 Comments URL: https://news.ycombinator.com/item?id=27581108
-Points: 12
-# Comments: 1]]></summary>
+Points: 47
+# Comments: 9]]></summary>
         <author>
             <name>masijo</name>
         </author>
@@ -225,8 +264,8 @@ Points: 12
         <updated>2021-06-21T16:27:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=NSDTZQdo6H8
 Comments URL: https://news.ycombinator.com/item?id=27580744
-Points: 98
-# Comments: 38]]></summary>
+Points: 132
+# Comments: 89]]></summary>
         <author>
             <name>vpj</name>
         </author>
@@ -238,7 +277,7 @@ Points: 98
         <updated>2021-06-21T14:49:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
 Comments URL: https://news.ycombinator.com/item?id=27579702
-Points: 54
+Points: 59
 # Comments: 5]]></summary>
         <author>
             <name>dylanbfox</name>
@@ -251,8 +290,8 @@ Points: 54
         <updated>2021-06-21T14:49:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.waleedkhan.name/git-undo/
 Comments URL: https://news.ycombinator.com/item?id=27579701
-Points: 510
-# Comments: 324]]></summary>
+Points: 548
+# Comments: 346]]></summary>
         <author>
             <name>arxanas</name>
         </author>
@@ -265,8 +304,8 @@ Points: 510
         <summary type="html"><![CDATA[This particular patent troll has filed lawsuits with at least a dozen of my competitors in the past year. Some were voluntarily dismissed, some ongoing, rest unknown (based on my limited research skills). The patent in question involves downloading a remote database to a mobile device used as a lookup table when scanning a QR code. Yeah...
 I'm a one person company and have no idea what to do.
 Comments URL: https://news.ycombinator.com/item?id=27579693
-Points: 630
-# Comments: 260]]></summary>
+Points: 675
+# Comments: 266]]></summary>
         <author>
             <name>jblake</name>
         </author>
@@ -300,8 +339,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-21T14:07:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rockylinux.org/news/rocky-linux-8-4-ga-release/
 Comments URL: https://news.ycombinator.com/item?id=27579297
-Points: 21
-# Comments: 0]]></summary>
+Points: 47
+# Comments: 4]]></summary>
         <author>
             <name>tkuraku</name>
         </author>
@@ -313,8 +352,8 @@ Points: 21
         <updated>2021-06-21T13:26:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://insideevs.com/news/514727/tesla-towing-70mph-fast-charging/
 Comments URL: https://news.ycombinator.com/item?id=27578900
-Points: 100
-# Comments: 144]]></summary>
+Points: 129
+# Comments: 188]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -326,54 +365,10 @@ Points: 100
         <updated>2021-06-21T09:15:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://librecellular.org/
 Comments URL: https://news.ycombinator.com/item?id=27577525
-Points: 336
-# Comments: 46]]></summary>
+Points: 352
+# Comments: 48]]></summary>
         <author>
             <name>pabs3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How to learn proper systems programming?]]></title>
-        <id>https://news.ycombinator.com/item?id=27577514</id>
-        <link href="https://news.ycombinator.com/item?id=27577514"/>
-        <updated>2021-06-21T09:13:27.000Z</updated>
-        <summary type="html"><![CDATA[I am a software engineer for the past 10 years, and did frontend and backend development. I am learning Rust at the moment and have the following books:
-- "The Linux Programming Interface"
-- "Systems Programming with Linux"
-- "Adavnaced UNIX Programming"
-What I struggle with: How to get exposure to projects to learn for a future job? I had a Rust job for around half a year, where people build web servers and came from a C and C++ background. Half of the stuff they wrote I didn't understand (flushing, opening another channel just for logs so we don't fill up the other ones etc. etc.).
-Now I wonder how I can get access to this type of information, how to properly learn it?
-Comments URL: https://news.ycombinator.com/item?id=27577514
-Points: 288
-# Comments: 79]]></summary>
-        <author>
-            <name>systems_learn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fluid Paint]]></title>
-        <id>https://news.ycombinator.com/item?id=27577460</id>
-        <link href="https://david.li/paint/"/>
-        <updated>2021-06-21T08:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://david.li/paint/
-Comments URL: https://news.ycombinator.com/item?id=27577460
-Points: 496
-# Comments: 60]]></summary>
-        <author>
-            <name>pjerem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPEG XL]]></title>
-        <id>https://news.ycombinator.com/item?id=27577328</id>
-        <link href="https://jpegxl.info"/>
-        <updated>2021-06-21T08:29:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jpegxl.info
-Comments URL: https://news.ycombinator.com/item?id=27577328
-Points: 341
-# Comments: 203]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
