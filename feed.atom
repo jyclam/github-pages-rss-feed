@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T07:14:52.317Z</updated>
+    <updated>2021-06-22T08:13:09.680Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pocketlang]]></title>
+        <id>https://news.ycombinator.com/item?id=27588842</id>
+        <link href="https://github.com/ThakeeNathees/pocketlang"/>
+        <updated>2021-06-22T07:10:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ThakeeNathees/pocketlang
+Comments URL: https://news.ycombinator.com/item?id=27588842
+Points: 20
+# Comments: 3]]></summary>
+        <author>
+            <name>tsujp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrade Your SSH Key to Ed25519 (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=27588819</id>
+        <link href="https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54"/>
+        <updated>2021-06-22T07:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54
+Comments URL: https://news.ycombinator.com/item?id=27588819
+Points: 20
+# Comments: 5]]></summary>
+        <author>
+            <name>doener</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visit Y Combinator.com for jobs at 800 high-growth YC startups]]></title>
         <id>https://news.ycombinator.com/item?id=27588786</id>
@@ -20,16 +46,81 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tour of the server room in the Airbus 350]]></title>
+        <id>https://news.ycombinator.com/item?id=27588747</id>
+        <link href="https://www.youtube.com/watch?v=241-5DZyons"/>
+        <updated>2021-06-22T06:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=241-5DZyons
+Comments URL: https://news.ycombinator.com/item?id=27588747
+Points: 40
+# Comments: 5]]></summary>
+        <author>
+            <name>wildrice</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fine Art of Combining Harmonics]]></title>
+        <id>https://news.ycombinator.com/item?id=27588673</id>
+        <link href="https://whatmusicreallyis.com/research/harmonicomb/"/>
+        <updated>2021-06-22T06:39:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://whatmusicreallyis.com/research/harmonicomb/
+Comments URL: https://news.ycombinator.com/item?id=27588673
+Points: 16
+# Comments: 0]]></summary>
+        <author>
+            <name>flabber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis server side if-modified-since caching pattern using lua]]></title>
+        <id>https://news.ycombinator.com/item?id=27588671</id>
+        <link href="https://blog.r4um.net/2021/redis-mtime-getset/"/>
+        <updated>2021-06-22T06:38:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.r4um.net/2021/redis-mtime-getset/
+Comments URL: https://news.ycombinator.com/item?id=27588671
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>r4um</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Your CPU May Have Slowed Down on Wednesday]]></title>
         <id>https://news.ycombinator.com/item?id=27588258</id>
         <link href="https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html"/>
         <updated>2021-06-22T05:22:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html
 Comments URL: https://news.ycombinator.com/item?id=27588258
-Points: 74
-# Comments: 21]]></summary>
+Points: 138
+# Comments: 50]]></summary>
         <author>
             <name>superkuh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rootless Sniffing]]></title>
+        <id>https://news.ycombinator.com/item?id=27588199</id>
+        <link href="https://lude.rs/h4ck1ng/rootless_sniffing.html"/>
+        <updated>2021-06-22T05:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lude.rs/h4ck1ng/rootless_sniffing.html
+Comments URL: https://news.ycombinator.com/item?id=27588199
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>g3ol4d0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Server.casino – Random Servers Across the Internet]]></title>
+        <id>https://news.ycombinator.com/item?id=27588195</id>
+        <link href="http://server.casino/"/>
+        <updated>2021-06-22T05:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://server.casino/
+Comments URL: https://news.ycombinator.com/item?id=27588195
+Points: 8
+# Comments: 3]]></summary>
+        <author>
+            <name>g3ol4d0</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +130,8 @@ Points: 74
         <updated>2021-06-22T04:40:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://finbold.com/hyundai-acquires-controlling-stake-in-u-s-robotics-firm-boston-dynamics-for-880-million/
 Comments URL: https://news.ycombinator.com/item?id=27588047
-Points: 23
-# Comments: 5]]></summary>
+Points: 48
+# Comments: 13]]></summary>
         <author>
             <name>sidcool</name>
         </author>
@@ -52,8 +143,8 @@ Points: 23
         <updated>2021-06-22T04:11:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline
 Comments URL: https://news.ycombinator.com/item?id=27587911
-Points: 97
-# Comments: 67]]></summary>
+Points: 118
+# Comments: 83]]></summary>
         <author>
             <name>0xedb</name>
         </author>
@@ -65,8 +156,8 @@ Points: 97
         <updated>2021-06-22T03:10:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608
 Comments URL: https://news.ycombinator.com/item?id=27587520
-Points: 71
-# Comments: 33]]></summary>
+Points: 87
+# Comments: 39]]></summary>
         <author>
             <name>x14km2d</name>
         </author>
@@ -78,8 +169,8 @@ Points: 71
         <updated>2021-06-22T02:55:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/
 Comments URL: https://news.ycombinator.com/item?id=27587442
-Points: 27
-# Comments: 9]]></summary>
+Points: 33
+# Comments: 11]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -91,8 +182,8 @@ Points: 27
         <updated>2021-06-22T02:42:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/21/us/politics/supreme-court-patent-judges.html
 Comments URL: https://news.ycombinator.com/item?id=27587361
-Points: 85
-# Comments: 8]]></summary>
+Points: 98
+# Comments: 11]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -104,8 +195,8 @@ Points: 85
         <updated>2021-06-22T02:34:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://once-for-auto-driving.github.io/index.html
 Comments URL: https://news.ycombinator.com/item?id=27587316
-Points: 27
-# Comments: 2]]></summary>
+Points: 33
+# Comments: 3]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -117,8 +208,8 @@ Points: 27
         <updated>2021-06-22T01:53:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57558028
 Comments URL: https://news.ycombinator.com/item?id=27587109
-Points: 133
-# Comments: 92]]></summary>
+Points: 145
+# Comments: 99]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -130,8 +221,8 @@ Points: 133
         <updated>2021-06-22T01:37:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/21/1007938067/cargo-is-piling-up-everywhere-and-its-making-inflation-worse
 Comments URL: https://news.ycombinator.com/item?id=27586978
-Points: 44
-# Comments: 7]]></summary>
+Points: 51
+# Comments: 21]]></summary>
         <author>
             <name>paulpauper</name>
         </author>
@@ -143,8 +234,8 @@ Points: 44
         <updated>2021-06-22T01:36:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sambhav.saggis.com/en/blog/2021-06-21-free-software-and-freakonomics
 Comments URL: https://news.ycombinator.com/item?id=27586970
-Points: 18
-# Comments: 5]]></summary>
+Points: 24
+# Comments: 6]]></summary>
         <author>
             <name>smbv</name>
         </author>
@@ -156,23 +247,10 @@ Points: 18
         <updated>2021-06-21T23:59:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/aws/introducing-a-public-registry-for-aws-cloudformation/
 Comments URL: https://news.ycombinator.com/item?id=27586160
-Points: 41
-# Comments: 0]]></summary>
+Points: 46
+# Comments: 1]]></summary>
         <author>
             <name>gmays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Next Layer of the Internet Is Going to Be Standardised]]></title>
-        <id>https://news.ycombinator.com/item?id=27586081</id>
-        <link href="https://www.mnot.net/blog/2021/06/21/standards-competition-governance"/>
-        <updated>2021-06-21T23:49:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.mnot.net/blog/2021/06/21/standards-competition-governance
-Comments URL: https://news.ycombinator.com/item?id=27586081
-Points: 18
-# Comments: 2]]></summary>
-        <author>
-            <name>kennu</name>
         </author>
     </entry>
     <entry>
@@ -182,23 +260,10 @@ Points: 18
         <updated>2021-06-21T23:34:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ShprAlex/SproutLife
 Comments URL: https://news.ycombinator.com/item?id=27585953
-Points: 101
+Points: 109
 # Comments: 25]]></summary>
         <author>
             <name>MichaelMoser123</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kats: One stop shop for time series analysis in Python]]></title>
-        <id>https://news.ycombinator.com/item?id=27585711</id>
-        <link href="https://facebookresearch.github.io/Kats/"/>
-        <updated>2021-06-21T23:07:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://facebookresearch.github.io/Kats/
-Comments URL: https://news.ycombinator.com/item?id=27585711
-Points: 119
-# Comments: 13]]></summary>
-        <author>
-            <name>babak_ap</name>
         </author>
     </entry>
     <entry>
@@ -244,45 +309,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Haruki Murakami and the Scarcity of Serious Thought]]></title>
-        <id>https://news.ycombinator.com/item?id=27583583</id>
-        <link href="https://www.calnewport.com/blog/2021/06/16/haruki-murakami-and-the-scarcity-of-serious-thought/"/>
-        <updated>2021-06-21T19:57:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.calnewport.com/blog/2021/06/16/haruki-murakami-and-the-scarcity-of-serious-thought/
-Comments URL: https://news.ycombinator.com/item?id=27583583
-Points: 40
-# Comments: 8]]></summary>
-        <author>
-            <name>truth_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accidentally exponential behavior in Spark]]></title>
-        <id>https://news.ycombinator.com/item?id=27582645</id>
-        <link href="https://heap.io/blog/accidentally-exponential-behavior-in-spark"/>
-        <updated>2021-06-21T18:54:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://heap.io/blog/accidentally-exponential-behavior-in-spark
-Comments URL: https://news.ycombinator.com/item?id=27582645
-Points: 66
-# Comments: 23]]></summary>
-        <author>
-            <name>drob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A reference counting bug which leads to local privilege escalation in io_uring]]></title>
-        <id>https://news.ycombinator.com/item?id=27582396</id>
-        <link href="https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a"/>
-        <updated>2021-06-21T18:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a
-Comments URL: https://news.ycombinator.com/item?id=27582396
-Points: 111
-# Comments: 34]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build a Portfolio Website with React]]></title>
         <id>60d0d0ff6e1a1407b6b0a506</id>
         <link href="https://www.freecodecamp.org/news/build-portfolio-website-react/"/>
@@ -290,32 +316,6 @@ Points: 111
         <summary type="html"><![CDATA[Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internal Amazon documents shed light on how company pressures out office workers]]></title>
-        <id>https://news.ycombinator.com/item?id=27581797</id>
-        <link href="https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/"/>
-        <updated>2021-06-21T18:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/
-Comments URL: https://news.ycombinator.com/item?id=27581797
-Points: 465
-# Comments: 339]]></summary>
-        <author>
-            <name>flowerlad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Windows 10 slow down with each feature update?]]></title>
-        <id>https://news.ycombinator.com/item?id=27581762</id>
-        <link href="https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/"/>
-        <updated>2021-06-21T17:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/
-Comments URL: https://news.ycombinator.com/item?id=27581762
-Points: 326
-# Comments: 341]]></summary>
-        <author>
-            <name>pcr910303</name>
         </author>
     </entry>
     <entry>
