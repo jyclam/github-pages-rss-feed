@@ -2,19 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T22:12:07.966Z</updated>
+    <updated>2021-06-22T23:11:07.919Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[What Is Ranked-Choice Voting and Why Is New York Using It?]]></title>
+        <title type="html"><![CDATA[Racing Game in ClojureScript]]></title>
+        <id>https://news.ycombinator.com/item?id=27597987</id>
+        <link href="https://github.com/ertugrulcetin/racing-game-cljs"/>
+        <updated>2021-06-22T22:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ertugrulcetin/racing-game-cljs
+Comments URL: https://news.ycombinator.com/item?id=27597987
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>winkywooster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is ranked-choice voting and why is New York using it?]]></title>
         <id>https://news.ycombinator.com/item?id=27597662</id>
         <link href="https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race"/>
         <updated>2021-06-22T21:50:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race
 Comments URL: https://news.ycombinator.com/item?id=27597662
-Points: 16
-# Comments: 1]]></summary>
+Points: 135
+# Comments: 135]]></summary>
         <author>
             <name>elsewhen</name>
         </author>
@@ -37,8 +50,8 @@ The post inherit, initial, unset, revert appeared first on CSS-Tricks. You can s
         <updated>2021-06-22T21:16:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.intel.com/content/www/us/en/newsroom/news/intel-makes-changes-strengthen-execution-innovation-critical-business-areas.html
 Comments URL: https://news.ycombinator.com/item?id=27597327
-Points: 28
-# Comments: 12]]></summary>
+Points: 69
+# Comments: 28]]></summary>
         <author>
             <name>mroche</name>
         </author>
@@ -67,27 +80,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Online Dating in the United States displaces other ways of meeting[pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27596719</id>
-        <link href="https://web.stanford.edu/~mrosenfe/Rosenfeld_et_al_Disintermediating_Friends.pdf"/>
-        <updated>2021-06-22T20:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://web.stanford.edu/~mrosenfe/Rosenfeld_et_al_Disintermediating_Friends.pdf
-Comments URL: https://news.ycombinator.com/item?id=27596719
-Points: 28
-# Comments: 19]]></summary>
-        <author>
-            <name>arkj</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Saffron as an Antidepressant]]></title>
         <id>https://news.ycombinator.com/item?id=27596125</id>
         <link href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266642/"/>
         <updated>2021-06-22T19:33:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266642/
 Comments URL: https://news.ycombinator.com/item?id=27596125
-Points: 96
-# Comments: 59]]></summary>
+Points: 109
+# Comments: 69]]></summary>
         <author>
             <name>gdubs</name>
         </author>
@@ -99,10 +99,23 @@ Points: 96
         <updated>2021-06-22T19:17:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/on-censorship-pt-1
 Comments URL: https://news.ycombinator.com/item?id=27595902
-Points: 148
-# Comments: 131]]></summary>
+Points: 186
+# Comments: 181]]></summary>
         <author>
             <name>0xedb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is AI hard and physics simple?]]></title>
+        <id>https://news.ycombinator.com/item?id=27595879</id>
+        <link href="https://arxiv.org/abs/2104.00008"/>
+        <updated>2021-06-22T19:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2104.00008
+Comments URL: https://news.ycombinator.com/item?id=27595879
+Points: 43
+# Comments: 50]]></summary>
+        <author>
+            <name>bigdict</name>
         </author>
     </entry>
     <entry>
@@ -112,8 +125,8 @@ Points: 148
         <updated>2021-06-22T18:39:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks
 Comments URL: https://news.ycombinator.com/item?id=27595429
-Points: 68
-# Comments: 30]]></summary>
+Points: 86
+# Comments: 38]]></summary>
         <author>
             <name>slater</name>
         </author>
@@ -125,23 +138,10 @@ Points: 68
         <updated>2021-06-22T18:29:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.11189
 Comments URL: https://news.ycombinator.com/item?id=27595309
-Points: 90
-# Comments: 40]]></summary>
+Points: 110
+# Comments: 44]]></summary>
         <author>
             <name>tracyhenry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Types of propaganda, propaganda techniques, and propaganda strategies (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27595043</id>
-        <link href="http://factmyth.com/types-of-propaganda-propaganda-techniques-and-propaganda-stratigies/"/>
-        <updated>2021-06-22T18:09:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://factmyth.com/types-of-propaganda-propaganda-techniques-and-propaganda-stratigies/
-Comments URL: https://news.ycombinator.com/item?id=27595043
-Points: 199
-# Comments: 141]]></summary>
-        <author>
-            <name>jhabdas</name>
         </author>
     </entry>
     <entry>
@@ -151,8 +151,8 @@ Points: 199
         <updated>2021-06-22T17:45:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://edwardfeser.blogspot.com/2021/06/curiosity-damned-cat.html
 Comments URL: https://news.ycombinator.com/item?id=27594742
-Points: 3
-# Comments: 0]]></summary>
+Points: 9
+# Comments: 1]]></summary>
         <author>
             <name>danielam</name>
         </author>
@@ -164,8 +164,8 @@ Points: 3
         <updated>2021-06-22T16:30:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://karpathy.github.io/2021/06/21/blockchain/
 Comments URL: https://news.ycombinator.com/item?id=27593772
-Points: 529
-# Comments: 181]]></summary>
+Points: 583
+# Comments: 193]]></summary>
         <author>
             <name>yigitdemirag</name>
         </author>
@@ -208,8 +208,8 @@ Points: 529
         <summary type="html"><![CDATA[For as long as I've been working professionally, I have been slacking around a lot of the time, reading blog posts, HN, often even reading (tech, biz-related) books and just doing the bare minimum for appearances sake but no one seems to notice. In the office I book a booth to work in to have some peace & quiet and have a couple of code commits prepared to not arouse suspicion. In companies with perf reviews I get some useful feedback here and there but most of the time it's positive, people love to work with me, I do get stuff done if I have to, but as soon as I can get away with doing close to nothing, I'll take the chance. I don't think I'm blocking other teams and I don't think I'm preventing my own team from having accomplishments and often people refer to me as being either partially or mostly responsible for shipping something because I manage to have a clear mind and focus when things get close to a deadline.
 If I am motivated and the task/project/product is fun I throw myself into it but that isn't sustainable. I've read a few of these posts from people at FAANG doing almost the same so I don't really feel bad about it. I'm just wondering how wide-spread this is. One of my theories for this behavior is that this is related to 40+ hour work weeks. I think I'd be able to get my devopsy work done in ~3 hours/day if I manage my time well and schedule most meetings on Mondays.
 Comments URL: https://news.ycombinator.com/item?id=27593462
-Points: 303
-# Comments: 202]]></summary>
+Points: 339
+# Comments: 222]]></summary>
         <author>
             <name>awaythrown1</name>
         </author>
@@ -221,8 +221,8 @@ Points: 303
         <updated>2021-06-22T16:04:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.w3.org/TR/did-core/
 Comments URL: https://news.ycombinator.com/item?id=27593406
-Points: 130
-# Comments: 57]]></summary>
+Points: 141
+# Comments: 61]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -234,8 +234,8 @@ Points: 130
         <updated>2021-06-22T16:01:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://search.brave.com/
 Comments URL: https://news.ycombinator.com/item?id=27593360
-Points: 373
-# Comments: 310]]></summary>
+Points: 432
+# Comments: 335]]></summary>
         <author>
             <name>vmullin</name>
         </author>
@@ -247,8 +247,8 @@ Points: 373
         <updated>2021-06-22T15:26:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pupishi.com/then
 Comments URL: https://news.ycombinator.com/item?id=27592876
-Points: 65
-# Comments: 38]]></summary>
+Points: 74
+# Comments: 40]]></summary>
         <author>
             <name>alexpotrivaev</name>
         </author>
@@ -260,8 +260,8 @@ Points: 65
         <updated>2021-06-22T15:23:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pragprog.com/titles/dmpython/intuitive-python/
 Comments URL: https://news.ycombinator.com/item?id=27592822
-Points: 112
-# Comments: 36]]></summary>
+Points: 116
+# Comments: 38]]></summary>
         <author>
             <name>dmuller</name>
         </author>
@@ -273,8 +273,8 @@ Points: 112
         <updated>2021-06-22T14:57:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sparkbible.com
 Comments URL: https://news.ycombinator.com/item?id=27592473
-Points: 176
-# Comments: 150]]></summary>
+Points: 207
+# Comments: 161]]></summary>
         <author>
             <name>theoblank</name>
         </author>
@@ -286,8 +286,8 @@ Points: 176
         <updated>2021-06-22T14:49:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://taborsky.cz/posts/2021/kingman-formula/
 Comments URL: https://news.ycombinator.com/item?id=27592369
-Points: 3
-# Comments: 0]]></summary>
+Points: 15
+# Comments: 7]]></summary>
         <author>
             <name>mrsnuggles</name>
         </author>
@@ -310,8 +310,8 @@ The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can s
         <updated>2021-06-22T14:36:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest
 Comments URL: https://news.ycombinator.com/item?id=27592187
-Points: 134
-# Comments: 38]]></summary>
+Points: 146
+# Comments: 45]]></summary>
         <author>
             <name>andrewnc</name>
         </author>
@@ -334,7 +334,7 @@ The post If we’re gonna criticize utility-class frameworks, let’s be fair ab
         <updated>2021-06-22T11:58:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/d-edge/fasm
 Comments URL: https://news.ycombinator.com/item?id=27590583
-Points: 108
+Points: 111
 # Comments: 11]]></summary>
         <author>
             <name>aloisdg</name>
