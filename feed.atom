@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T03:12:09.984Z</updated>
+    <updated>2021-06-22T04:14:59.221Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A popular algorithm to predict sepsis misses most cases and sends false alarms]]></title>
+        <id>https://news.ycombinator.com/item?id=27587442</id>
+        <link href="https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/"/>
+        <updated>2021-06-22T02:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/
+Comments URL: https://news.ycombinator.com/item?id=27587442
+Points: 8
+# Comments: 1]]></summary>
+        <author>
+            <name>hhs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 200 Patent Judges Were Improperly Appointed, Supreme Court Says]]></title>
+        <id>https://news.ycombinator.com/item?id=27587361</id>
+        <link href="https://www.nytimes.com/2021/06/21/us/politics/supreme-court-patent-judges.html"/>
+        <updated>2021-06-22T02:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/21/us/politics/supreme-court-patent-judges.html
+Comments URL: https://news.ycombinator.com/item?id=27587361
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: At this point, are PUT and PATCH helpful?]]></title>
+        <id>https://news.ycombinator.com/item?id=27587283</id>
+        <link href="https://news.ycombinator.com/item?id=27587283"/>
+        <updated>2021-06-22T02:27:11.000Z</updated>
+        <summary type="html"><![CDATA[EDIT:  Thanks for the input fellow beings.  I really appreciate it.  I think I have a much better idea of what people feel/do and why... so I'm going on a walk now to think it around.
+---------------------
+I'm designing an API, and trying to place PUT and PATCH into my design ideology.
+In my experience, most APIs stick to GET and POST almost exclusively.  And AFAICT, PUT and PATCH don't really add much that POST doesn't have.  In fact, I kind of prefer the idea of having the url tell me what's going on explicitly rather than trying to infer from the request type.  For example:
+- to create: `POST user`
+- to update: `POST user/12354`
+vs
+- to create: `POST user/`
+- to update: `PATCH user/`
+--------
+I'm working alone on this project, otherwise I'd ask a coworker, but what do you guys think?  What feels intuitive and clear to you?
+Comments URL: https://news.ycombinator.com/item?id=27587283
+Points: 8
+# Comments: 17]]></summary>
+        <author>
+            <name>seph-reed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Political trolling twice as popular as positivity, study suggests]]></title>
+        <id>https://news.ycombinator.com/item?id=27587109</id>
+        <link href="https://www.bbc.com/news/technology-57558028"/>
+        <updated>2021-06-22T01:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57558028
+Comments URL: https://news.ycombinator.com/item?id=27587109
+Points: 63
+# Comments: 22]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tellme – text-to-speech command execution notifier]]></title>
         <id>https://news.ycombinator.com/item?id=27586843</id>
@@ -13,8 +75,8 @@
         <updated>2021-06-22T01:16:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/whot/tellme
 Comments URL: https://news.ycombinator.com/item?id=27586843
-Points: 4
-# Comments: 0]]></summary>
+Points: 6
+# Comments: 2]]></summary>
         <author>
             <name>pabs3</name>
         </author>
@@ -26,8 +88,8 @@ Points: 4
         <updated>2021-06-22T01:09:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/navy-detonated-40000-pound-explosive-to-test-new-supercarrier-2021-6
 Comments URL: https://news.ycombinator.com/item?id=27586798
-Points: 39
-# Comments: 20]]></summary>
+Points: 64
+# Comments: 35]]></summary>
         <author>
             <name>throwkeep</name>
         </author>
@@ -46,29 +108,29 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why is Git so popular and frequently used?]]></title>
-        <id>https://news.ycombinator.com/item?id=27586432</id>
-        <link href="https://news.ycombinator.com/item?id=27586432"/>
-        <updated>2021-06-22T00:27:58.000Z</updated>
-        <summary type="html"><![CDATA[Why is Git so popular and frequently used if this is the state (https://news.ycombinator.com/item?id=27579701)?
-Comments URL: https://news.ycombinator.com/item?id=27586432
-Points: 18
-# Comments: 32]]></summary>
+        <title type="html"><![CDATA[Low-carbohydrate diets and all-cause and cause-specific mortality]]></title>
+        <id>https://news.ycombinator.com/item?id=27586512</id>
+        <link href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989112/"/>
+        <updated>2021-06-22T00:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989112/
+Comments URL: https://news.ycombinator.com/item?id=27586512
+Points: 19
+# Comments: 5]]></summary>
         <author>
-            <name>posharma</name>
+            <name>spekcular</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deloitte tells staff they can work from home forever]]></title>
-        <id>https://news.ycombinator.com/item?id=27586237</id>
-        <link href="https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/"/>
-        <updated>2021-06-22T00:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cityam.com/deloitte-tells-staff-they-can-work-from-home-forever/
-Comments URL: https://news.ycombinator.com/item?id=27586237
-Points: 166
-# Comments: 69]]></summary>
+        <title type="html"><![CDATA[A Public Registry for AWS CloudFormation]]></title>
+        <id>https://news.ycombinator.com/item?id=27586160</id>
+        <link href="https://aws.amazon.com/blogs/aws/introducing-a-public-registry-for-aws-cloudformation/"/>
+        <updated>2021-06-21T23:59:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/aws/introducing-a-public-registry-for-aws-cloudformation/
+Comments URL: https://news.ycombinator.com/item?id=27586160
+Points: 9
+# Comments: 0]]></summary>
         <author>
-            <name>rchaudhary</name>
+            <name>gmays</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +140,8 @@ Points: 166
         <updated>2021-06-21T23:58:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wiki.debian.org/Teams/Apt/Spec/AptSign
 Comments URL: https://news.ycombinator.com/item?id=27586146
-Points: 50
-# Comments: 10]]></summary>
+Points: 64
+# Comments: 11]]></summary>
         <author>
             <name>FiloSottile</name>
         </author>
@@ -91,8 +153,8 @@ Points: 50
         <updated>2021-06-21T23:34:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ShprAlex/SproutLife
 Comments URL: https://news.ycombinator.com/item?id=27585953
-Points: 54
-# Comments: 15]]></summary>
+Points: 71
+# Comments: 22]]></summary>
         <author>
             <name>MichaelMoser123</name>
         </author>
@@ -104,36 +166,10 @@ Points: 54
         <updated>2021-06-21T23:07:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://facebookresearch.github.io/Kats/
 Comments URL: https://news.ycombinator.com/item?id=27585711
-Points: 39
-# Comments: 4]]></summary>
+Points: 60
+# Comments: 7]]></summary>
         <author>
             <name>babak_ap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Daily to shut in days unless government agrees to plea to unfreeze assets]]></title>
-        <id>https://news.ycombinator.com/item?id=27585208</id>
-        <link href="https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4"/>
-        <updated>2021-06-21T22:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.appledaily.com/apple-daily-to-shut-in-days-unless-government-agrees-to-last-ditch-plea-to-unfreeze-assets/JKXIS3OPZNFIFAJWU3PMO2R6R4
-Comments URL: https://news.ycombinator.com/item?id=27585208
-Points: 187
-# Comments: 46]]></summary>
-        <author>
-            <name>dan-robertson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning a Classic CRT into a Smart TV]]></title>
-        <id>https://news.ycombinator.com/item?id=27585051</id>
-        <link href="https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html"/>
-        <updated>2021-06-21T21:56:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nickmchardy.com/2021/06/turning-a-classic-crt-into-a-smart-tv.html
-Comments URL: https://news.ycombinator.com/item?id=27585051
-Points: 22
-# Comments: 14]]></summary>
-        <author>
-            <name>boyter</name>
         </author>
     </entry>
     <entry>
@@ -185,8 +221,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-21T18:54:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://heap.io/blog/accidentally-exponential-behavior-in-spark
 Comments URL: https://news.ycombinator.com/item?id=27582645
-Points: 53
-# Comments: 18]]></summary>
+Points: 57
+# Comments: 20]]></summary>
         <author>
             <name>drob</name>
         </author>
@@ -198,7 +234,7 @@ Points: 53
         <updated>2021-06-21T18:41:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a
 Comments URL: https://news.ycombinator.com/item?id=27582396
-Points: 98
+Points: 102
 # Comments: 29]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -221,8 +257,8 @@ Points: 98
         <updated>2021-06-21T18:01:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/
 Comments URL: https://news.ycombinator.com/item?id=27581797
-Points: 403
-# Comments: 298]]></summary>
+Points: 427
+# Comments: 321]]></summary>
         <author>
             <name>flowerlad</name>
         </author>
@@ -234,8 +270,8 @@ Points: 403
         <updated>2021-06-21T17:58:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/
 Comments URL: https://news.ycombinator.com/item?id=27581762
-Points: 265
-# Comments: 273]]></summary>
+Points: 285
+# Comments: 298]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -257,8 +293,8 @@ Points: 265
         <updated>2021-06-21T17:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/
 Comments URL: https://news.ycombinator.com/item?id=27581359
-Points: 269
-# Comments: 194]]></summary>
+Points: 287
+# Comments: 202]]></summary>
         <author>
             <name>gmays</name>
         </author>
@@ -270,7 +306,7 @@ Points: 269
         <updated>2021-06-21T17:17:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/chrisseaton/rhizome
 Comments URL: https://news.ycombinator.com/item?id=27581257
-Points: 253
+Points: 260
 # Comments: 35]]></summary>
         <author>
             <name>thunderbong</name>
@@ -283,8 +319,8 @@ Points: 253
         <updated>2021-06-21T17:05:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tmrwedition.com/2021/06/13/the-agony-and-the-ecstacy-of-deep-brain-stimulation-surgery/
 Comments URL: https://news.ycombinator.com/item?id=27581108
-Points: 89
-# Comments: 30]]></summary>
+Points: 105
+# Comments: 34]]></summary>
         <author>
             <name>masijo</name>
         </author>
@@ -310,43 +346,16 @@ Points: 89
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andrej Karpathy (Tesla): CVPR 2021 Workshop on Autonomous Vehicles [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27580744</id>
-        <link href="https://www.youtube.com/watch?v=eOL_rCK59ZI&amp;t=28293s"/>
-        <updated>2021-06-21T16:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=eOL_rCK59ZI&t=28293s
-Comments URL: https://news.ycombinator.com/item?id=27580744
-Points: 146
-# Comments: 139]]></summary>
-        <author>
-            <name>vpj</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Git undo: We can do better]]></title>
         <id>https://news.ycombinator.com/item?id=27579701</id>
         <link href="https://blog.waleedkhan.name/git-undo/"/>
         <updated>2021-06-21T14:49:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.waleedkhan.name/git-undo/
 Comments URL: https://news.ycombinator.com/item?id=27579701
-Points: 617
-# Comments: 361]]></summary>
+Points: 642
+# Comments: 370]]></summary>
         <author>
             <name>arxanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: I was hit with a patent troll lawsuit, how do I deal with it?]]></title>
-        <id>https://news.ycombinator.com/item?id=27579693</id>
-        <link href="https://news.ycombinator.com/item?id=27579693"/>
-        <updated>2021-06-21T14:48:27.000Z</updated>
-        <summary type="html"><![CDATA[This particular patent troll has filed lawsuits with at least a dozen of my competitors in the past year. Some were voluntarily dismissed, some ongoing, rest unknown (based on my limited research skills). The patent in question involves downloading a remote database to a mobile device used as a lookup table when scanning a QR code. Yeah...
-I'm a one person company and have no idea what to do.
-Comments URL: https://news.ycombinator.com/item?id=27579693
-Points: 737
-# Comments: 281]]></summary>
-        <author>
-            <name>jblake</name>
         </author>
     </entry>
     <entry>
