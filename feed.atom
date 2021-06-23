@@ -2,34 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T14:10:20.897Z</updated>
+    <updated>2021-06-23T15:12:36.922Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Two new studies warn that a hotter world will be a more violent one]]></title>
-        <id>https://news.ycombinator.com/item?id=27604174</id>
-        <link href="https://www.washingtonpost.com/business/2019/07/16/two-new-studies-warn-that-hotter-world-will-be-more-violent-one/"/>
-        <updated>2021-06-23T13:14:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/business/2019/07/16/two-new-studies-warn-that-hotter-world-will-be-more-violent-one/
-Comments URL: https://news.ycombinator.com/item?id=27604174
-Points: 8
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[“Weak declaration”]]></title>
+        <id>https://css-tricks.com/?p=342669</id>
+        <link href="https://css-tricks.com/weak-declaration/"/>
+        <updated>2021-06-23T14:27:14.000Z</updated>
+        <summary type="html"><![CDATA[PPK looks at aspect-ratio, a CSS property for layout that, for the most part, does exactly what you would think it does. It’s getting more interesting as it’s behind a flag in Firefox and Safari now, so we’ll have …
+The post “Weak declaration” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>csomar</name>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Warren Buffett donates another $4.1B, resigns as Gates trustee]]></title>
-        <id>https://news.ycombinator.com/item?id=27604136</id>
-        <link href="https://www.cnbc.com/2021/06/23/warren-buffett-gives-away-another-4point1-billion-resigns-as-trustee-at-gates-foundation.html"/>
-        <updated>2021-06-23T13:10:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/23/warren-buffett-gives-away-another-4point1-billion-resigns-as-trustee-at-gates-foundation.html
-Comments URL: https://news.ycombinator.com/item?id=27604136
-Points: 33
-# Comments: 13]]></summary>
+        <title type="html"><![CDATA[Costa Rica Has Run on 100% Renewable Electricity for 299 Days]]></title>
+        <id>https://news.ycombinator.com/item?id=27604809</id>
+        <link href="https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days"/>
+        <updated>2021-06-23T14:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days
+Comments URL: https://news.ycombinator.com/item?id=27604809
+Points: 126
+# Comments: 44]]></summary>
         <author>
-            <name>shivbhatt</name>
+            <name>Knajjars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NimConf 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27604798</id>
+        <link href="https://conf.nim-lang.org/"/>
+        <updated>2021-06-23T14:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://conf.nim-lang.org/
+Comments URL: https://news.ycombinator.com/item?id=27604798
+Points: 34
+# Comments: 4]]></summary>
+        <author>
+            <name>pietroppeter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A list of privacy-friendly Google Analytics alternatives]]></title>
+        <id>https://news.ycombinator.com/item?id=27604673</id>
+        <link href="https://creativerly.com/google-analytics-alternatives/"/>
+        <updated>2021-06-23T14:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://creativerly.com/google-analytics-alternatives/
+Comments URL: https://news.ycombinator.com/item?id=27604673
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>philipptemmel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Online Workshops (July-October 2021)]]></title>
+        <id>https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/</id>
+        <link href="https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/"/>
+        <updated>2021-06-23T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
         </author>
     </entry>
     <entry>
@@ -39,23 +73,10 @@ Points: 33
         <updated>2021-06-23T12:36:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/k7835w/how-to-brute-force-iphones-graykey
 Comments URL: https://news.ycombinator.com/item?id=27603747
-Points: 30
-# Comments: 15]]></summary>
+Points: 63
+# Comments: 43]]></summary>
         <author>
             <name>elorant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hasura GraphQL Engine 2.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27603672</id>
-        <link href="https://github.com/hasura/graphql-engine/releases/tag/v2.0.0"/>
-        <updated>2021-06-23T12:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/hasura/graphql-engine/releases/tag/v2.0.0
-Comments URL: https://news.ycombinator.com/item?id=27603672
-Points: 67
-# Comments: 31]]></summary>
-        <author>
-            <name>stevefan1999</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +99,8 @@ Points: 1
         <updated>2021-06-23T11:04:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.texmacs.org/tmweb/home/videos.en.html
 Comments URL: https://news.ycombinator.com/item?id=27603069
-Points: 67
-# Comments: 29]]></summary>
+Points: 76
+# Comments: 30]]></summary>
         <author>
             <name>amichail</name>
         </author>
@@ -91,10 +112,23 @@ Points: 67
         <updated>2021-06-23T10:01:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist
 Comments URL: https://news.ycombinator.com/item?id=27602699
-Points: 118
-# Comments: 73]]></summary>
+Points: 131
+# Comments: 83]]></summary>
         <author>
             <name>edward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PipeWire Under the Hood]]></title>
+        <id>https://news.ycombinator.com/item?id=27602655</id>
+        <link href="https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html"/>
+        <updated>2021-06-23T09:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html
+Comments URL: https://news.ycombinator.com/item?id=27602655
+Points: 28
+# Comments: 4]]></summary>
+        <author>
+            <name>BelenusMordred</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +138,8 @@ Points: 118
         <updated>2021-06-23T09:49:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/travel/2021/jun/22/new-network-of-european-sleeper-overnight-trains-planned
 Comments URL: https://news.ycombinator.com/item?id=27602629
-Points: 67
-# Comments: 49]]></summary>
+Points: 88
+# Comments: 65]]></summary>
         <author>
             <name>YeGoblynQueenne</name>
         </author>
@@ -127,8 +161,8 @@ Points: 67
         <updated>2021-06-23T09:28:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wikidata.org/wiki/Wikidata:Introduction
 Comments URL: https://news.ycombinator.com/item?id=27602520
-Points: 142
-# Comments: 43]]></summary>
+Points: 155
+# Comments: 44]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -140,8 +174,8 @@ Points: 142
         <updated>2021-06-23T09:28:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pqvst.com/2021/06/22/hosted-monitoring-evaluating-influx-and-grafana/
 Comments URL: https://news.ycombinator.com/item?id=27602519
-Points: 52
-# Comments: 15]]></summary>
+Points: 57
+# Comments: 16]]></summary>
         <author>
             <name>pqvst</name>
         </author>
@@ -153,8 +187,8 @@ Points: 52
         <updated>2021-06-23T09:05:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/
 Comments URL: https://news.ycombinator.com/item?id=27602395
-Points: 118
-# Comments: 56]]></summary>
+Points: 125
+# Comments: 59]]></summary>
         <author>
             <name>aSig</name>
         </author>
@@ -166,21 +200,21 @@ Points: 118
         <updated>2021-06-23T09:04:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://shufflingbytes.com/posts/wardialing-finnish-freephones/
 Comments URL: https://news.ycombinator.com/item?id=27602383
-Points: 96
-# Comments: 45]]></summary>
+Points: 142
+# Comments: 80]]></summary>
         <author>
             <name>ValtteriL</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plover (rhymes with “hover”) is a free, open-source stenography engine]]></title>
+        <title type="html"><![CDATA[Plover is a free, open-source stenography engine]]></title>
         <id>https://news.ycombinator.com/item?id=27602077</id>
         <link href="https://www.openstenoproject.org/plover/"/>
         <updated>2021-06-23T08:12:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.openstenoproject.org/plover/
 Comments URL: https://news.ycombinator.com/item?id=27602077
-Points: 75
-# Comments: 69]]></summary>
+Points: 93
+# Comments: 81]]></summary>
         <author>
             <name>smitty1e</name>
         </author>
@@ -211,8 +245,8 @@ Thank you @PiyushLosalka]]></summary>
         <updated>2021-06-23T04:02:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://norbertkehrer.github.io/ibm_5110/emu5110.html
 Comments URL: https://news.ycombinator.com/item?id=27600653
-Points: 50
-# Comments: 10]]></summary>
+Points: 53
+# Comments: 11]]></summary>
         <author>
             <name>throwitaway1235</name>
         </author>
@@ -224,8 +258,8 @@ Points: 50
         <updated>2021-06-23T01:35:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals
 Comments URL: https://news.ycombinator.com/item?id=27599734
-Points: 124
-# Comments: 70]]></summary>
+Points: 131
+# Comments: 81]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -237,10 +271,23 @@ Points: 124
         <updated>2021-06-23T01:29:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://electionscience.github.io/vse-sim/VSE/
 Comments URL: https://news.ycombinator.com/item?id=27599684
-Points: 111
-# Comments: 52]]></summary>
+Points: 116
+# Comments: 60]]></summary>
         <author>
             <name>cosmojg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Multiverse.plus – what if blogging was more collage-like and colorful?]]></title>
+        <id>https://news.ycombinator.com/item?id=27599470</id>
+        <link href="https://multiverse.plus/"/>
+        <updated>2021-06-23T01:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://multiverse.plus/
+Comments URL: https://news.ycombinator.com/item?id=27599470
+Points: 46
+# Comments: 11]]></summary>
+        <author>
+            <name>kickscondor</name>
         </author>
     </entry>
     <entry>
@@ -250,23 +297,10 @@ Points: 111
         <updated>2021-06-23T00:33:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon
 Comments URL: https://news.ycombinator.com/item?id=27599253
-Points: 340
-# Comments: 249]]></summary>
+Points: 365
+# Comments: 280]]></summary>
         <author>
             <name>cratermoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn C and build your own Lisp (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=27598424</id>
-        <link href="http://buildyourownlisp.com/"/>
-        <updated>2021-06-22T23:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://buildyourownlisp.com/
-Comments URL: https://news.ycombinator.com/item?id=27598424
-Points: 195
-# Comments: 67]]></summary>
-        <author>
-            <name>katzeilla</name>
         </author>
     </entry>
     <entry>
@@ -297,7 +331,7 @@ The post inherit, initial, unset, revert appeared first on CSS-Tricks. You can s
         <updated>2021-06-22T16:30:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://karpathy.github.io/2021/06/21/blockchain/
 Comments URL: https://news.ycombinator.com/item?id=27593772
-Points: 1087
+Points: 1102
 # Comments: 256]]></summary>
         <author>
             <name>yigitdemirag</name>
@@ -331,19 +365,6 @@ Points: 1087
         <summary type="html"><![CDATA[Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave Search beta]]></title>
-        <id>https://news.ycombinator.com/item?id=27593360</id>
-        <link href="https://search.brave.com/"/>
-        <updated>2021-06-22T16:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://search.brave.com/
-Comments URL: https://news.ycombinator.com/item?id=27593360
-Points: 779
-# Comments: 596]]></summary>
-        <author>
-            <name>vmullin</name>
         </author>
     </entry>
     <entry>
@@ -617,18 +638,6 @@ The post Detect Unused Classes in… HTML appeared first on CSS-Tricks. You can 
 I took the bait and had a look at some of my projects – 
 …
 The post Media Queries in Times of @container appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just How Niche is Headless WordPress?]]></title>
-        <id>https://css-tricks.com/?p=342248</id>
-        <link href="https://css-tricks.com/just-how-niche-is-headless-wordpress/"/>
-        <updated>2021-06-15T14:31:34.000Z</updated>
-        <summary type="html"><![CDATA[I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.
-Is it… big? The future …
-The post Just How Niche is Headless WordPress? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
