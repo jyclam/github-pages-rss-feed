@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T17:16:09.562Z</updated>
+    <updated>2021-06-23T18:13:08.581Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create a REST API with .NET 5 and  C#]]></title>
+        <id>60d36eb66e1a1407b6b0b16d</id>
+        <link href="https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/"/>
+        <updated>2021-06-23T18:08:14.000Z</updated>
+        <summary type="html"><![CDATA[.NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[San Francisco Permanently Caps Delivery App Fees for Restaurants at 15%]]></title>
+        <id>https://news.ycombinator.com/item?id=27607379</id>
+        <link href="https://sfist.com/2021/06/23/san-francisco-permanently-caps-delivery-app-fees-at-15/"/>
+        <updated>2021-06-23T17:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sfist.com/2021/06/23/san-francisco-permanently-caps-delivery-app-fees-at-15/
+Comments URL: https://news.ycombinator.com/item?id=27607379
+Points: 27
+# Comments: 2]]></summary>
+        <author>
+            <name>sundaeofshock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEORV32: A customizable RISC-V SoC]]></title>
+        <id>https://news.ycombinator.com/item?id=27607161</id>
+        <link href="https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/"/>
+        <updated>2021-06-23T17:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/
+Comments URL: https://news.ycombinator.com/item?id=27607161
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>_quarks_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Great Technical Course]]></title>
+        <id>60a406bd906c5207e3a7dfcb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-great-technical-course/"/>
+        <updated>2021-06-23T17:19:24.000Z</updated>
+        <summary type="html"><![CDATA[In this article you will learn how to create a great technical video course. I run the freeCodeCamp.org YouTube channel where we post technical courses from a variety of contributors. Video courses that follow the guidelines in this article are often a good fit for freeCodeCamp's channel. How to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Launch HN: Alpas (YC W21) – Software to find suppliers for industrial parts]]></title>
         <id>https://news.ycombinator.com/item?id=27606860</id>
@@ -38,8 +84,8 @@ Points: 1
         <updated>2021-06-23T16:50:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/features/issues
 Comments URL: https://news.ycombinator.com/item?id=27606657
-Points: 5
-# Comments: 0]]></summary>
+Points: 113
+# Comments: 41]]></summary>
         <author>
             <name>splitbrain</name>
         </author>
@@ -51,47 +97,34 @@ Points: 5
         <updated>2021-06-23T16:46:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/Sambigeara/fuzzynote
 Comments URL: https://news.ycombinator.com/item?id=27606604
-Points: 7
-# Comments: 1]]></summary>
+Points: 22
+# Comments: 6]]></summary>
         <author>
             <name>sambigeara</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Database Architects: What Every Programmer Should Know About SSDs]]></title>
-        <id>https://news.ycombinator.com/item?id=27606467</id>
-        <link href="https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html?m=1"/>
-        <updated>2021-06-23T16:36:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html?m=1
-Comments URL: https://news.ycombinator.com/item?id=27606467
-Points: 14
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Supreme Court sides with high school cheerleader who cursed online]]></title>
+        <id>https://news.ycombinator.com/item?id=27606471</id>
+        <link href="https://www.cnn.com/2021/06/23/politics/supreme-court-first-amendment-cheerleader/index.html"/>
+        <updated>2021-06-23T16:37:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnn.com/2021/06/23/politics/supreme-court-first-amendment-cheerleader/index.html
+Comments URL: https://news.ycombinator.com/item?id=27606471
+Points: 50
+# Comments: 21]]></summary>
         <author>
-            <name>kiyanwang</name>
+            <name>stale2002</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software Developer Shortage Is Coming – ACM]]></title>
-        <id>https://news.ycombinator.com/item?id=27606393</id>
-        <link href="https://m-cacm.acm.org/magazines/2021/7/253461-the-2021-software-developer-shortage-is-coming/fulltext"/>
-        <updated>2021-06-23T16:29:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/magazines/2021/7/253461-the-2021-software-developer-shortage-is-coming/fulltext
-Comments URL: https://news.ycombinator.com/item?id=27606393
-Points: 36
-# Comments: 52]]></summary>
-        <author>
-            <name>kiyanwang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Myth of the Myth of the Lone Genius]]></title>
+        <title type="html"><![CDATA[The myth of the myth of the lone genius]]></title>
         <id>https://news.ycombinator.com/item?id=27606348</id>
         <link href="https://rogersbacon.substack.com/p/the-myth-of-the-myth-of-the-lone"/>
         <updated>2021-06-23T16:26:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rogersbacon.substack.com/p/the-myth-of-the-myth-of-the-lone
 Comments URL: https://news.ycombinator.com/item?id=27606348
-Points: 47
-# Comments: 9]]></summary>
+Points: 92
+# Comments: 49]]></summary>
         <author>
             <name>mpweiher</name>
         </author>
@@ -103,8 +136,8 @@ Points: 47
         <updated>2021-06-23T16:26:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nvlabs.github.io/alias-free-gan/
 Comments URL: https://news.ycombinator.com/item?id=27606347
-Points: 38
-# Comments: 1]]></summary>
+Points: 73
+# Comments: 12]]></summary>
         <author>
             <name>nurpax</name>
         </author>
@@ -116,23 +149,10 @@ Points: 38
         <updated>2021-06-23T16:04:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tannerv.com/ipod
 Comments URL: https://news.ycombinator.com/item?id=27606099
-Points: 144
-# Comments: 19]]></summary>
+Points: 266
+# Comments: 32]]></summary>
         <author>
             <name>tonyhawkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Code Reviews by Default]]></title>
-        <id>https://news.ycombinator.com/item?id=27606066</id>
-        <link href="https://raycast.com/blog/no-code-reviews-by-default/"/>
-        <updated>2021-06-23T16:02:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://raycast.com/blog/no-code-reviews-by-default/
-Comments URL: https://news.ycombinator.com/item?id=27606066
-Points: 26
-# Comments: 22]]></summary>
-        <author>
-            <name>thomaspaulmann</name>
         </author>
     </entry>
     <entry>
@@ -142,8 +162,8 @@ Points: 26
         <updated>2021-06-23T16:00:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-23/s-african-brothers-vanish-and-so-does-3-6-billion-in-bitcoin
 Comments URL: https://news.ycombinator.com/item?id=27606039
-Points: 33
-# Comments: 9]]></summary>
+Points: 71
+# Comments: 34]]></summary>
         <author>
             <name>Aissen</name>
         </author>
@@ -155,8 +175,8 @@ Points: 33
         <updated>2021-06-23T15:44:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd
 Comments URL: https://news.ycombinator.com/item?id=27605835
-Points: 32
-# Comments: 1]]></summary>
+Points: 56
+# Comments: 15]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -168,8 +188,8 @@ Points: 32
         <updated>2021-06-23T15:35:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/
 Comments URL: https://news.ycombinator.com/item?id=27605712
-Points: 60
-# Comments: 17]]></summary>
+Points: 71
+# Comments: 26]]></summary>
         <author>
             <name>ThatGeoGuy</name>
         </author>
@@ -181,8 +201,8 @@ Points: 60
         <updated>2021-06-23T15:30:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://maplibre.org/
 Comments URL: https://news.ycombinator.com/item?id=27605656
-Points: 94
-# Comments: 13]]></summary>
+Points: 119
+# Comments: 34]]></summary>
         <author>
             <name>klokan</name>
         </author>
@@ -194,8 +214,8 @@ Points: 94
         <updated>2021-06-23T14:52:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bartoszgorka.com/elixir-1-12-released
 Comments URL: https://news.ycombinator.com/item?id=27605215
-Points: 115
-# Comments: 9]]></summary>
+Points: 131
+# Comments: 12]]></summary>
         <author>
             <name>clessg</name>
         </author>
@@ -207,8 +227,8 @@ Points: 115
         <updated>2021-06-23T14:38:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
 Comments URL: https://news.ycombinator.com/item?id=27605052
-Points: 21
-# Comments: 4]]></summary>
+Points: 60
+# Comments: 11]]></summary>
         <author>
             <name>Alex3917</name>
         </author>
@@ -231,8 +251,8 @@ The post “Weak declaration” appeared first on CSS-Tricks. You can support CS
         <updated>2021-06-23T14:16:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days
 Comments URL: https://news.ycombinator.com/item?id=27604809
-Points: 374
-# Comments: 141]]></summary>
+Points: 420
+# Comments: 163]]></summary>
         <author>
             <name>Knajjars</name>
         </author>
@@ -244,23 +264,10 @@ Points: 374
         <updated>2021-06-23T14:10:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fuse.wikichip.org/news/5699/arm-introduces-its-confidential-compute-architecture/
 Comments URL: https://news.ycombinator.com/item?id=27604749
-Points: 41
-# Comments: 3]]></summary>
+Points: 55
+# Comments: 9]]></summary>
         <author>
             <name>Symmetry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ongoing witch-hunt for sex workers in Sweden]]></title>
-        <id>https://news.ycombinator.com/item?id=27604543</id>
-        <link href="https://www.reddit.com/r/SexWorkers/comments/n11oqk/the_ongoing_witchhunt_for_fssw_in_sweden_the/"/>
-        <updated>2021-06-23T13:48:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/SexWorkers/comments/n11oqk/the_ongoing_witchhunt_for_fssw_in_sweden_the/
-Comments URL: https://news.ycombinator.com/item?id=27604543
-Points: 133
-# Comments: 209]]></summary>
-        <author>
-            <name>barry-cotter</name>
         </author>
     </entry>
     <entry>
@@ -280,10 +287,23 @@ Points: 133
         <updated>2021-06-23T10:58:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html
 Comments URL: https://news.ycombinator.com/item?id=27603039
-Points: 53
-# Comments: 142]]></summary>
+Points: 70
+# Comments: 188]]></summary>
         <author>
             <name>gumby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PipeWire Under the Hood]]></title>
+        <id>https://news.ycombinator.com/item?id=27602655</id>
+        <link href="https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html"/>
+        <updated>2021-06-23T09:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html
+Comments URL: https://news.ycombinator.com/item?id=27602655
+Points: 69
+# Comments: 13]]></summary>
+        <author>
+            <name>BelenusMordred</name>
         </author>
     </entry>
     <entry>
@@ -445,26 +465,6 @@ The post Are we in a new era of web design? What do we call it? appeared first o
         <link href="https://www.freecodecamp.org/news/build-portfolio-website-react/"/>
         <updated>2021-06-21T18:15:53.000Z</updated>
         <summary type="html"><![CDATA[Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Figma? A Design Crash Course [2021 Tutorial]]]></title>
-        <id>60cda7104dc1a607ed7b5588</id>
-        <link href="https://www.freecodecamp.org/news/figma-crash-course/"/>
-        <updated>2021-06-21T17:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Technical Guide to IPFS – the Decentralized Storage of Web3]]></title>
-        <id>60a55b37906c5207e3a7ea78</id>
-        <link href="https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/"/>
-        <updated>2021-06-21T16:38:36.000Z</updated>
-        <summary type="html"><![CDATA[But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
