@@ -2,19 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T20:10:44.511Z</updated>
+    <updated>2021-06-23T21:10:09.364Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[McAffee commits suicide in a Spanish jail [ES]]]></title>
+        <title type="html"><![CDATA[Synthetic Minds (YC S18) is hiring a compiler engineer for program synthesis]]></title>
+        <id>https://news.ycombinator.com/item?id=27610289</id>
+        <link href="https://www.workatastartup.com/jobs/44386"/>
+        <updated>2021-06-23T21:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/44386
+Comments URL: https://news.ycombinator.com/item?id=27610289
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>saurabh20n</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Go Collective on Stack Overflow]]></title>
+        <id>https://news.ycombinator.com/item?id=27610108</id>
+        <link href="https://blog.golang.org/stackoverflow"/>
+        <updated>2021-06-23T20:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.golang.org/stackoverflow
+Comments URL: https://news.ycombinator.com/item?id=27610108
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>0xedb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John McAfee found dead in Spanish jail after court approves extradition to US]]></title>
         <id>https://news.ycombinator.com/item?id=27609027</id>
-        <link href="https://elpais.com/economia/2021-06-23/el-fundador-del-antivirus-mcafee-john-mcafee-se-suicida-en-una-prision-de-barcelona.html"/>
+        <link href="https://www.nbc4i.com/news/u-s-world/john-mcafee-found-dead-in-spanish-jail-after-court-approves-extradition-to-us"/>
         <updated>2021-06-23T19:36:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elpais.com/economia/2021-06-23/el-fundador-del-antivirus-mcafee-john-mcafee-se-suicida-en-una-prision-de-barcelona.html
+        <summary type="html"><![CDATA[Article URL: https://www.nbc4i.com/news/u-s-world/john-mcafee-found-dead-in-spanish-jail-after-court-approves-extradition-to-us
 Comments URL: https://news.ycombinator.com/item?id=27609027
-Points: 271
-# Comments: 27]]></summary>
+Points: 715
+# Comments: 278]]></summary>
         <author>
             <name>ews</name>
         </author>
@@ -31,6 +57,19 @@ The post Using Performant Next-Gen Images in CSS with image-set appeared first o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Drug researchers discover potent class of molecules that kills malaria parasite]]></title>
+        <id>https://news.ycombinator.com/item?id=27608387</id>
+        <link href="https://www.monash.edu/medicine/news/latest/2021-articles/drug-researchers-discover-potent-class-of-molecules-that-kills-malaria-parasite"/>
+        <updated>2021-06-23T18:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.monash.edu/medicine/news/latest/2021-articles/drug-researchers-discover-potent-class-of-molecules-that-kills-malaria-parasite
+Comments URL: https://news.ycombinator.com/item?id=27608387
+Points: 13
+# Comments: 1]]></summary>
+        <author>
+            <name>elorant</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Create a REST API with .NET 5 and  C#]]></title>
         <id>60d36eb66e1a1407b6b0b16d</id>
         <link href="https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/"/>
@@ -41,14 +80,27 @@ The post Using Performant Next-Gen Images in CSS with image-set appeared first o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sothebys Auction of Source Code for WWW X Tim Berners-Lee NFT]]></title>
+        <id>https://news.ycombinator.com/item?id=27607831</id>
+        <link href="https://www.sothebys.com/en/buy/auction/2021/this-changed-everything-source-code-for-www-x-tim-berners-lee-an-nft/source-code-for-the-www"/>
+        <updated>2021-06-23T18:06:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sothebys.com/en/buy/auction/2021/this-changed-everything-source-code-for-www-x-tim-berners-lee-an-nft/source-code-for-the-www
+Comments URL: https://news.ycombinator.com/item?id=27607831
+Points: 23
+# Comments: 34]]></summary>
+        <author>
+            <name>ca98am79</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NEORV32: A customizable RISC-V SoC]]></title>
         <id>https://news.ycombinator.com/item?id=27607161</id>
         <link href="https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/"/>
         <updated>2021-06-23T17:21:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/
 Comments URL: https://news.ycombinator.com/item?id=27607161
-Points: 24
-# Comments: 2]]></summary>
+Points: 35
+# Comments: 5]]></summary>
         <author>
             <name>_quarks_</name>
         </author>
@@ -76,27 +128,14 @@ Isabel came across this problem during her work as an investment analyst. She re
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qventus (YC W15) Is Hiring a Senior Data Scientist]]></title>
-        <id>https://news.ycombinator.com/item?id=27606832</id>
-        <link href="https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086"/>
-        <updated>2021-06-23T17:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086
-Comments URL: https://news.ycombinator.com/item?id=27606832
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>ifc</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New GitHub Issues Beta]]></title>
         <id>https://news.ycombinator.com/item?id=27606657</id>
         <link href="https://github.com/features/issues"/>
         <updated>2021-06-23T16:50:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/features/issues
 Comments URL: https://news.ycombinator.com/item?id=27606657
-Points: 243
-# Comments: 115]]></summary>
+Points: 288
+# Comments: 130]]></summary>
         <author>
             <name>splitbrain</name>
         </author>
@@ -108,7 +147,7 @@ Points: 243
         <updated>2021-06-23T16:46:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/Sambigeara/fuzzynote
 Comments URL: https://news.ycombinator.com/item?id=27606604
-Points: 44
+Points: 57
 # Comments: 17]]></summary>
         <author>
             <name>sambigeara</name>
@@ -121,8 +160,8 @@ Points: 44
         <updated>2021-06-23T16:26:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nvlabs.github.io/alias-free-gan/
 Comments URL: https://news.ycombinator.com/item?id=27606347
-Points: 172
-# Comments: 23]]></summary>
+Points: 205
+# Comments: 33]]></summary>
         <author>
             <name>nurpax</name>
         </author>
@@ -134,10 +173,23 @@ Points: 172
         <updated>2021-06-23T16:04:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tannerv.com/ipod
 Comments URL: https://news.ycombinator.com/item?id=27606099
-Points: 407
-# Comments: 71]]></summary>
+Points: 475
+# Comments: 78]]></summary>
         <author>
             <name>tonyhawkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Marae – my attempt to build the AR cloud]]></title>
+        <id>https://news.ycombinator.com/item?id=27606094</id>
+        <link href="http://scriber.tech/Marae.html"/>
+        <updated>2021-06-23T16:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://scriber.tech/Marae.html
+Comments URL: https://news.ycombinator.com/item?id=27606094
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>realiswhatyoufe</name>
         </author>
     </entry>
     <entry>
@@ -147,8 +199,8 @@ Points: 407
         <updated>2021-06-23T16:00:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-23/s-african-brothers-vanish-and-so-does-3-6-billion-in-bitcoin
 Comments URL: https://news.ycombinator.com/item?id=27606039
-Points: 121
-# Comments: 70]]></summary>
+Points: 133
+# Comments: 85]]></summary>
         <author>
             <name>Aissen</name>
         </author>
@@ -160,8 +212,8 @@ Points: 121
         <updated>2021-06-23T15:44:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd
 Comments URL: https://news.ycombinator.com/item?id=27605835
-Points: 81
-# Comments: 39]]></summary>
+Points: 90
+# Comments: 45]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -173,8 +225,8 @@ Points: 81
         <updated>2021-06-23T15:35:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/
 Comments URL: https://news.ycombinator.com/item?id=27605712
-Points: 98
-# Comments: 57]]></summary>
+Points: 103
+# Comments: 60]]></summary>
         <author>
             <name>ThatGeoGuy</name>
         </author>
@@ -186,23 +238,10 @@ Points: 98
         <updated>2021-06-23T15:30:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://maplibre.org/
 Comments URL: https://news.ycombinator.com/item?id=27605656
-Points: 178
-# Comments: 42]]></summary>
+Points: 205
+# Comments: 51]]></summary>
         <author>
             <name>klokan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Elixir 1.12 – The developer’s point of view]]></title>
-        <id>https://news.ycombinator.com/item?id=27605215</id>
-        <link href="https://bartoszgorka.com/elixir-1-12-released"/>
-        <updated>2021-06-23T14:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bartoszgorka.com/elixir-1-12-released
-Comments URL: https://news.ycombinator.com/item?id=27605215
-Points: 165
-# Comments: 17]]></summary>
-        <author>
-            <name>clessg</name>
         </author>
     </entry>
     <entry>
@@ -212,8 +251,8 @@ Points: 165
         <updated>2021-06-23T14:38:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
 Comments URL: https://news.ycombinator.com/item?id=27605052
-Points: 152
-# Comments: 46]]></summary>
+Points: 186
+# Comments: 52]]></summary>
         <author>
             <name>Alex3917</name>
         </author>
@@ -236,8 +275,8 @@ The post “Weak declaration” appeared first on CSS-Tricks. You can support CS
         <updated>2021-06-23T14:16:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days
 Comments URL: https://news.ycombinator.com/item?id=27604809
-Points: 476
-# Comments: 203]]></summary>
+Points: 505
+# Comments: 218]]></summary>
         <author>
             <name>Knajjars</name>
         </author>
@@ -249,8 +288,8 @@ Points: 476
         <updated>2021-06-23T14:10:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fuse.wikichip.org/news/5699/arm-introduces-its-confidential-compute-architecture/
 Comments URL: https://news.ycombinator.com/item?id=27604749
-Points: 78
-# Comments: 24]]></summary>
+Points: 97
+# Comments: 28]]></summary>
         <author>
             <name>Symmetry</name>
         </author>
@@ -272,23 +311,10 @@ Points: 78
         <updated>2021-06-23T12:51:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities
 Comments URL: https://news.ycombinator.com/item?id=27603912
-Points: 314
-# Comments: 287]]></summary>
+Points: 366
+# Comments: 479]]></summary>
         <author>
             <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Education No Longer the ‘Great Equalizer’?]]></title>
-        <id>https://news.ycombinator.com/item?id=27603039</id>
-        <link href="https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html"/>
-        <updated>2021-06-23T10:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html
-Comments URL: https://news.ycombinator.com/item?id=27603039
-Points: 95
-# Comments: 272]]></summary>
-        <author>
-            <name>gumby</name>
         </author>
     </entry>
     <entry>
@@ -299,32 +325,6 @@ Points: 95
         <summary type="html"><![CDATA[Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cameron Cundiff)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Details of yesterday's Bunny CDN outage]]></title>
-        <id>https://news.ycombinator.com/item?id=27602395</id>
-        <link href="https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/"/>
-        <updated>2021-06-23T09:05:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/
-Comments URL: https://news.ycombinator.com/item?id=27602395
-Points: 150
-# Comments: 69]]></summary>
-        <author>
-            <name>aSig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made 50k calls to explore the telephone network]]></title>
-        <id>https://news.ycombinator.com/item?id=27602383</id>
-        <link href="https://shufflingbytes.com/posts/wardialing-finnish-freephones/"/>
-        <updated>2021-06-23T09:04:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://shufflingbytes.com/posts/wardialing-finnish-freephones/
-Comments URL: https://news.ycombinator.com/item?id=27602383
-Points: 244
-# Comments: 140]]></summary>
-        <author>
-            <name>ValtteriL</name>
         </author>
     </entry>
     <entry>
