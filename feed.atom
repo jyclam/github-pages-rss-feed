@@ -2,31 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T05:09:37.117Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-23T06:13:41.715Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[v1.10.3-beta.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.3-beta.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.3-beta.0"/>
-        <updated>2021-06-23T04:38:15.000Z</updated>
-        <summary type="html"><![CDATA[beta release prep]]></summary>
+        <title type="html"><![CDATA[v1.11.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
+        <updated>2021-06-23T05:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
+
+Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
+Videos are embedded via iframe and loading accelerated by youtube-lite-embed
+Ads are reduced thanks to YouTube's policy for embedded videos 🙃
+Works on mobile devices with butter smooth horizontal scroll.
+Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
+Changed: Default HTML template meta tag adjusted to match convention
+Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
+Thank you @PiyushLosalka]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flatpak – A Security Nightmare]]></title>
-        <id>https://news.ycombinator.com/item?id=27600511</id>
-        <link href="http://flatkill.org/#"/>
-        <updated>2021-06-23T03:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://flatkill.org/#
-Comments URL: https://news.ycombinator.com/item?id=27600511
-Points: 16
+        <title type="html"><![CDATA[IBM 5110 Emulator in JavaScript]]></title>
+        <id>https://news.ycombinator.com/item?id=27600653</id>
+        <link href="https://norbertkehrer.github.io/ibm_5110/emu5110.html"/>
+        <updated>2021-06-23T04:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://norbertkehrer.github.io/ibm_5110/emu5110.html
+Comments URL: https://news.ycombinator.com/item?id=27600653
+Points: 8
+# Comments: 2]]></summary>
+        <author>
+            <name>throwitaway1235</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I can't stand developing for Safari anymore]]></title>
+        <id>https://news.ycombinator.com/item?id=27600631</id>
+        <link href="https://old.reddit.com/r/webdev/comments/o5k8gb/rant_i_cant_stand_developing_for_safari_anymore/"/>
+        <updated>2021-06-23T03:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/webdev/comments/o5k8gb/rant_i_cant_stand_developing_for_safari_anymore/
+Comments URL: https://news.ycombinator.com/item?id=27600631
+Points: 23
 # Comments: 4]]></summary>
         <author>
-            <name>pmoriarty</name>
+            <name>thunderbong</name>
         </author>
     </entry>
     <entry>
@@ -36,8 +58,8 @@ Points: 16
         <updated>2021-06-23T01:35:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals
 Comments URL: https://news.ycombinator.com/item?id=27599734
-Points: 38
-# Comments: 28]]></summary>
+Points: 54
+# Comments: 35]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -49,8 +71,8 @@ Points: 38
         <updated>2021-06-23T01:29:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://electionscience.github.io/vse-sim/VSE/
 Comments URL: https://news.ycombinator.com/item?id=27599684
-Points: 43
-# Comments: 15]]></summary>
+Points: 46
+# Comments: 18]]></summary>
         <author>
             <name>cosmojg</name>
         </author>
@@ -62,8 +84,8 @@ Points: 43
         <updated>2021-06-23T01:22:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/22/us/politics/khashoggi-saudi-kill-team-us-training.html
 Comments URL: https://news.ycombinator.com/item?id=27599615
-Points: 53
-# Comments: 15]]></summary>
+Points: 74
+# Comments: 24]]></summary>
         <author>
             <name>bigpumpkin</name>
         </author>
@@ -75,8 +97,8 @@ Points: 53
         <updated>2021-06-23T00:33:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon
 Comments URL: https://news.ycombinator.com/item?id=27599253
-Points: 153
-# Comments: 84]]></summary>
+Points: 184
+# Comments: 95]]></summary>
         <author>
             <name>cratermoon</name>
         </author>
@@ -88,8 +110,8 @@ Points: 153
         <updated>2021-06-22T23:01:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://buildyourownlisp.com/
 Comments URL: https://news.ycombinator.com/item?id=27598424
-Points: 83
-# Comments: 19]]></summary>
+Points: 94
+# Comments: 22]]></summary>
         <author>
             <name>katzeilla</name>
         </author>
@@ -101,8 +123,8 @@ Points: 83
         <updated>2021-06-22T22:57:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.insidethegames.biz/articles/1108399/anna-vanbellinghen-hubbard
 Comments URL: https://news.ycombinator.com/item?id=27598383
-Points: 65
-# Comments: 84]]></summary>
+Points: 95
+# Comments: 123]]></summary>
         <author>
             <name>leephillips</name>
         </author>
@@ -114,8 +136,8 @@ Points: 65
         <updated>2021-06-22T22:48:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253133
 Comments URL: https://news.ycombinator.com/item?id=27598292
-Points: 129
-# Comments: 80]]></summary>
+Points: 139
+# Comments: 86]]></summary>
         <author>
             <name>mleonhard</name>
         </author>
@@ -127,8 +149,8 @@ Points: 129
         <updated>2021-06-22T22:22:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ertugrulcetin/racing-game-cljs
 Comments URL: https://news.ycombinator.com/item?id=27597987
-Points: 97
-# Comments: 31]]></summary>
+Points: 102
+# Comments: 33]]></summary>
         <author>
             <name>winkywooster</name>
         </author>
@@ -140,8 +162,8 @@ Points: 97
         <updated>2021-06-22T21:50:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race
 Comments URL: https://news.ycombinator.com/item?id=27597662
-Points: 254
-# Comments: 362]]></summary>
+Points: 269
+# Comments: 374]]></summary>
         <author>
             <name>elsewhen</name>
         </author>
@@ -187,8 +209,8 @@ Points: 1
         <updated>2021-06-22T20:24:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.stanford.edu/~mrosenfe/Rosenfeld_et_al_Disintermediating_Friends.pdf
 Comments URL: https://news.ycombinator.com/item?id=27596719
-Points: 55
-# Comments: 80]]></summary>
+Points: 62
+# Comments: 84]]></summary>
         <author>
             <name>arkj</name>
         </author>
@@ -200,8 +222,8 @@ Points: 55
         <updated>2021-06-22T19:17:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/on-censorship-pt-1
 Comments URL: https://news.ycombinator.com/item?id=27595902
-Points: 304
-# Comments: 344]]></summary>
+Points: 317
+# Comments: 351]]></summary>
         <author>
             <name>0xedb</name>
         </author>
@@ -213,7 +235,7 @@ Points: 304
         <updated>2021-06-22T18:39:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks
 Comments URL: https://news.ycombinator.com/item?id=27595429
-Points: 134
+Points: 140
 # Comments: 57]]></summary>
         <author>
             <name>slater</name>
@@ -226,8 +248,8 @@ Points: 134
         <updated>2021-06-22T18:29:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.11189
 Comments URL: https://news.ycombinator.com/item?id=27595309
-Points: 164
-# Comments: 68]]></summary>
+Points: 165
+# Comments: 70]]></summary>
         <author>
             <name>tracyhenry</name>
         </author>
@@ -239,8 +261,8 @@ Points: 164
         <updated>2021-06-22T16:30:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://karpathy.github.io/2021/06/21/blockchain/
 Comments URL: https://news.ycombinator.com/item?id=27593772
-Points: 821
-# Comments: 221]]></summary>
+Points: 870
+# Comments: 228]]></summary>
         <author>
             <name>yigitdemirag</name>
         </author>
@@ -282,8 +304,8 @@ Points: 821
         <updated>2021-06-22T16:04:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.w3.org/TR/did-core/
 Comments URL: https://news.ycombinator.com/item?id=27593406
-Points: 173
-# Comments: 71]]></summary>
+Points: 177
+# Comments: 75]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -295,8 +317,8 @@ Points: 173
         <updated>2021-06-22T16:01:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://search.brave.com/
 Comments URL: https://news.ycombinator.com/item?id=27593360
-Points: 628
-# Comments: 492]]></summary>
+Points: 658
+# Comments: 508]]></summary>
         <author>
             <name>vmullin</name>
         </author>
@@ -308,7 +330,7 @@ Points: 628
         <updated>2021-06-22T15:23:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pragprog.com/titles/dmpython/intuitive-python/
 Comments URL: https://news.ycombinator.com/item?id=27592822
-Points: 157
+Points: 162
 # Comments: 39]]></summary>
         <author>
             <name>dmuller</name>
@@ -323,19 +345,6 @@ Points: 157
 The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Geoff Rich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SiFive P550 Core: High-Performance RISC-V Processor]]></title>
-        <id>https://news.ycombinator.com/item?id=27592187</id>
-        <link href="https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest"/>
-        <updated>2021-06-22T14:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest
-Comments URL: https://news.ycombinator.com/item?id=27592187
-Points: 172
-# Comments: 65]]></summary>
-        <author>
-            <name>andrewnc</name>
         </author>
     </entry>
     <entry>
