@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T15:12:36.922Z</updated>
+    <updated>2021-06-23T16:15:39.219Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Prosperous Software Consultant (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=27605835</id>
+        <link href="https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd"/>
+        <updated>2021-06-23T15:44:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd
+Comments URL: https://news.ycombinator.com/item?id=27605835
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Librem 5 Evergreen vs. PinePhone (Part 2)]]></title>
+        <id>https://news.ycombinator.com/item?id=27605712</id>
+        <link href="https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/"/>
+        <updated>2021-06-23T15:35:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/
+Comments URL: https://news.ycombinator.com/item?id=27605712
+Points: 20
+# Comments: 1]]></summary>
+        <author>
+            <name>ThatGeoGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maplibre.org Open Maps SDKs for web and mobile: community driven Mapbox GL fork]]></title>
+        <id>https://news.ycombinator.com/item?id=27605656</id>
+        <link href="https://maplibre.org/"/>
+        <updated>2021-06-23T15:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://maplibre.org/
+Comments URL: https://news.ycombinator.com/item?id=27605656
+Points: 40
+# Comments: 7]]></summary>
+        <author>
+            <name>klokan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Elixir 1.12 – The developer’s point of view]]></title>
+        <id>https://news.ycombinator.com/item?id=27605215</id>
+        <link href="https://bartoszgorka.com/elixir-1-12-released"/>
+        <updated>2021-06-23T14:52:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bartoszgorka.com/elixir-1-12-released
+Comments URL: https://news.ycombinator.com/item?id=27605215
+Points: 92
+# Comments: 4]]></summary>
+        <author>
+            <name>clessg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian jets and ships target British warship]]></title>
+        <id>https://news.ycombinator.com/item?id=27605170</id>
+        <link href="https://www.bbc.com/news/world-europe-57583363"/>
+        <updated>2021-06-23T14:49:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57583363
+Comments URL: https://news.ycombinator.com/item?id=27605170
+Points: 23
+# Comments: 23]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's test-drive some sorting algorithms]]></title>
+        <id>https://news.ycombinator.com/item?id=27604985</id>
+        <link href="https://alabeduarte.com/test-driven-algorithms/sorting/"/>
+        <updated>2021-06-23T14:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alabeduarte.com/test-driven-algorithms/sorting/
+Comments URL: https://news.ycombinator.com/item?id=27604985
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>feross</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Weak declaration”]]></title>
         <id>https://css-tricks.com/?p=342669</id>
@@ -24,8 +102,8 @@ The post “Weak declaration” appeared first on CSS-Tricks. You can support CS
         <updated>2021-06-23T14:16:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days
 Comments URL: https://news.ycombinator.com/item?id=27604809
-Points: 126
-# Comments: 44]]></summary>
+Points: 291
+# Comments: 103]]></summary>
         <author>
             <name>Knajjars</name>
         </author>
@@ -37,10 +115,23 @@ Points: 126
         <updated>2021-06-23T14:15:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://conf.nim-lang.org/
 Comments URL: https://news.ycombinator.com/item?id=27604798
-Points: 34
-# Comments: 4]]></summary>
+Points: 66
+# Comments: 15]]></summary>
         <author>
             <name>pietroppeter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm Introduces Its Confidential Compute Architecture]]></title>
+        <id>https://news.ycombinator.com/item?id=27604749</id>
+        <link href="https://fuse.wikichip.org/news/5699/arm-introduces-its-confidential-compute-architecture/"/>
+        <updated>2021-06-23T14:10:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fuse.wikichip.org/news/5699/arm-introduces-its-confidential-compute-architecture/
+Comments URL: https://news.ycombinator.com/item?id=27604749
+Points: 15
+# Comments: 0]]></summary>
+        <author>
+            <name>Symmetry</name>
         </author>
     </entry>
     <entry>
@@ -50,10 +141,23 @@ Points: 34
         <updated>2021-06-23T14:03:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://creativerly.com/google-analytics-alternatives/
 Comments URL: https://news.ycombinator.com/item?id=27604673
-Points: 9
-# Comments: 0]]></summary>
+Points: 45
+# Comments: 10]]></summary>
         <author>
             <name>philipptemmel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ongoing witch-hunt for sex workers in Sweden]]></title>
+        <id>https://news.ycombinator.com/item?id=27604543</id>
+        <link href="https://www.reddit.com/r/SexWorkers/comments/n11oqk/the_ongoing_witchhunt_for_fssw_in_sweden_the/"/>
+        <updated>2021-06-23T13:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/SexWorkers/comments/n11oqk/the_ongoing_witchhunt_for_fssw_in_sweden_the/
+Comments URL: https://news.ycombinator.com/item?id=27604543
+Points: 99
+# Comments: 139]]></summary>
+        <author>
+            <name>barry-cotter</name>
         </author>
     </entry>
     <entry>
@@ -73,8 +177,8 @@ Points: 9
         <updated>2021-06-23T12:36:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/k7835w/how-to-brute-force-iphones-graykey
 Comments URL: https://news.ycombinator.com/item?id=27603747
-Points: 63
-# Comments: 43]]></summary>
+Points: 102
+# Comments: 58]]></summary>
         <author>
             <name>elorant</name>
         </author>
@@ -93,16 +197,16 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TeXmacs 2.1]]></title>
-        <id>https://news.ycombinator.com/item?id=27603069</id>
-        <link href="https://www.texmacs.org/tmweb/home/videos.en.html"/>
-        <updated>2021-06-23T11:04:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.texmacs.org/tmweb/home/videos.en.html
-Comments URL: https://news.ycombinator.com/item?id=27603069
-Points: 76
-# Comments: 30]]></summary>
+        <title type="html"><![CDATA[Is Education No Longer the ‘Great Equalizer’?]]></title>
+        <id>https://news.ycombinator.com/item?id=27603039</id>
+        <link href="https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html"/>
+        <updated>2021-06-23T10:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html
+Comments URL: https://news.ycombinator.com/item?id=27603039
+Points: 31
+# Comments: 87]]></summary>
         <author>
-            <name>amichail</name>
+            <name>gumby</name>
         </author>
     </entry>
     <entry>
@@ -112,8 +216,8 @@ Points: 76
         <updated>2021-06-23T10:01:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist
 Comments URL: https://news.ycombinator.com/item?id=27602699
-Points: 131
-# Comments: 83]]></summary>
+Points: 147
+# Comments: 92]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -125,23 +229,10 @@ Points: 131
         <updated>2021-06-23T09:54:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html
 Comments URL: https://news.ycombinator.com/item?id=27602655
-Points: 28
-# Comments: 4]]></summary>
+Points: 45
+# Comments: 6]]></summary>
         <author>
             <name>BelenusMordred</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New network of European sleeper trains planned]]></title>
-        <id>https://news.ycombinator.com/item?id=27602629</id>
-        <link href="https://www.theguardian.com/travel/2021/jun/22/new-network-of-european-sleeper-overnight-trains-planned"/>
-        <updated>2021-06-23T09:49:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/travel/2021/jun/22/new-network-of-european-sleeper-overnight-trains-planned
-Comments URL: https://news.ycombinator.com/item?id=27602629
-Points: 88
-# Comments: 65]]></summary>
-        <author>
-            <name>YeGoblynQueenne</name>
         </author>
     </entry>
     <entry>
@@ -155,26 +246,13 @@ Points: 88
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wikidata]]></title>
-        <id>https://news.ycombinator.com/item?id=27602520</id>
-        <link href="https://www.wikidata.org/wiki/Wikidata:Introduction"/>
-        <updated>2021-06-23T09:28:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wikidata.org/wiki/Wikidata:Introduction
-Comments URL: https://news.ycombinator.com/item?id=27602520
-Points: 155
-# Comments: 44]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hosted Monitoring: Evaluating InfluxDB Cloud and Grafana Cloud]]></title>
         <id>https://news.ycombinator.com/item?id=27602519</id>
         <link href="https://pqvst.com/2021/06/22/hosted-monitoring-evaluating-influx-and-grafana/"/>
         <updated>2021-06-23T09:28:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pqvst.com/2021/06/22/hosted-monitoring-evaluating-influx-and-grafana/
 Comments URL: https://news.ycombinator.com/item?id=27602519
-Points: 57
+Points: 64
 # Comments: 16]]></summary>
         <author>
             <name>pqvst</name>
@@ -187,8 +265,8 @@ Points: 57
         <updated>2021-06-23T09:05:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/
 Comments URL: https://news.ycombinator.com/item?id=27602395
-Points: 125
-# Comments: 59]]></summary>
+Points: 134
+# Comments: 67]]></summary>
         <author>
             <name>aSig</name>
         </author>
@@ -200,8 +278,8 @@ Points: 125
         <updated>2021-06-23T09:04:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://shufflingbytes.com/posts/wardialing-finnish-freephones/
 Comments URL: https://news.ycombinator.com/item?id=27602383
-Points: 142
-# Comments: 80]]></summary>
+Points: 180
+# Comments: 113]]></summary>
         <author>
             <name>ValtteriL</name>
         </author>
@@ -213,8 +291,8 @@ Points: 142
         <updated>2021-06-23T08:12:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.openstenoproject.org/plover/
 Comments URL: https://news.ycombinator.com/item?id=27602077
-Points: 93
-# Comments: 81]]></summary>
+Points: 112
+# Comments: 89]]></summary>
         <author>
             <name>smitty1e</name>
         </author>
@@ -239,71 +317,6 @@ Thank you @PiyushLosalka]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IBM 5110 Emulator in JavaScript (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=27600653</id>
-        <link href="https://norbertkehrer.github.io/ibm_5110/emu5110.html"/>
-        <updated>2021-06-23T04:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://norbertkehrer.github.io/ibm_5110/emu5110.html
-Comments URL: https://news.ycombinator.com/item?id=27600653
-Points: 53
-# Comments: 11]]></summary>
-        <author>
-            <name>throwitaway1235</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise of the $10M Disc Golf Celebrity]]></title>
-        <id>https://news.ycombinator.com/item?id=27599734</id>
-        <link href="https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals"/>
-        <updated>2021-06-23T01:35:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals
-Comments URL: https://news.ycombinator.com/item?id=27599734
-Points: 131
-# Comments: 81]]></summary>
-        <author>
-            <name>axiomdata316</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Voter Satisfaction Efficiency?]]></title>
-        <id>https://news.ycombinator.com/item?id=27599684</id>
-        <link href="http://electionscience.github.io/vse-sim/VSE/"/>
-        <updated>2021-06-23T01:29:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://electionscience.github.io/vse-sim/VSE/
-Comments URL: https://news.ycombinator.com/item?id=27599684
-Points: 116
-# Comments: 60]]></summary>
-        <author>
-            <name>cosmojg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Multiverse.plus – what if blogging was more collage-like and colorful?]]></title>
-        <id>https://news.ycombinator.com/item?id=27599470</id>
-        <link href="https://multiverse.plus/"/>
-        <updated>2021-06-23T01:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://multiverse.plus/
-Comments URL: https://news.ycombinator.com/item?id=27599470
-Points: 46
-# Comments: 11]]></summary>
-        <author>
-            <name>kickscondor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Teamsters announce coordinated nationwide project to unionize Amazon]]></title>
-        <id>https://news.ycombinator.com/item?id=27599253</id>
-        <link href="https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon"/>
-        <updated>2021-06-23T00:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon
-Comments URL: https://news.ycombinator.com/item?id=27599253
-Points: 365
-# Comments: 280]]></summary>
-        <author>
-            <name>cratermoon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[inherit, initial, unset, revert]]></title>
         <id>https://css-tricks.com/?p=342930</id>
         <link href="https://css-tricks.com/inherit-initial-unset-revert/"/>
@@ -322,19 +335,6 @@ The post inherit, initial, unset, revert appeared first on CSS-Tricks. You can s
         <summary type="html"><![CDATA[Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A from-scratch tour of Bitcoin in Python]]></title>
-        <id>https://news.ycombinator.com/item?id=27593772</id>
-        <link href="https://karpathy.github.io/2021/06/21/blockchain/"/>
-        <updated>2021-06-22T16:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://karpathy.github.io/2021/06/21/blockchain/
-Comments URL: https://news.ycombinator.com/item?id=27593772
-Points: 1102
-# Comments: 256]]></summary>
-        <author>
-            <name>yigitdemirag</name>
         </author>
     </entry>
     <entry>
