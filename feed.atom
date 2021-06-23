@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T19:08:34.818Z</updated>
+    <updated>2021-06-23T20:10:44.511Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[McAffee commits suicide in a Spanish jail [ES]]]></title>
+        <id>https://news.ycombinator.com/item?id=27609027</id>
+        <link href="https://elpais.com/economia/2021-06-23/el-fundador-del-antivirus-mcafee-john-mcafee-se-suicida-en-una-prision-de-barcelona.html"/>
+        <updated>2021-06-23T19:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://elpais.com/economia/2021-06-23/el-fundador-del-antivirus-mcafee-john-mcafee-se-suicida-en-una-prision-de-barcelona.html
+Comments URL: https://news.ycombinator.com/item?id=27609027
+Points: 271
+# Comments: 27]]></summary>
+        <author>
+            <name>ews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Performant Next-Gen Images in CSS with image-set]]></title>
+        <id>https://css-tricks.com/?p=342750</id>
+        <link href="https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/"/>
+        <updated>2021-06-23T19:10:54.000Z</updated>
+        <summary type="html"><![CDATA[The CSS image-set() function has been supported in Chromium-based browsers since 2012 and in Safari since version 6. Support recently landed in Firefox 88. Let’s dive in and see what we can and can’t do today with image-set().…
+The post Using Performant Next-Gen Images in CSS with image-set appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ollie Williams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create a REST API with .NET 5 and  C#]]></title>
         <id>60d36eb66e1a1407b6b0b16d</id>
@@ -23,7 +47,7 @@
         <updated>2021-06-23T17:21:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/
 Comments URL: https://news.ycombinator.com/item?id=27607161
-Points: 11
+Points: 24
 # Comments: 2]]></summary>
         <author>
             <name>_quarks_</name>
@@ -71,8 +95,8 @@ Points: 1
         <updated>2021-06-23T16:50:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/features/issues
 Comments URL: https://news.ycombinator.com/item?id=27606657
-Points: 183
-# Comments: 100]]></summary>
+Points: 243
+# Comments: 115]]></summary>
         <author>
             <name>splitbrain</name>
         </author>
@@ -84,8 +108,8 @@ Points: 183
         <updated>2021-06-23T16:46:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/Sambigeara/fuzzynote
 Comments URL: https://news.ycombinator.com/item?id=27606604
-Points: 31
-# Comments: 12]]></summary>
+Points: 44
+# Comments: 17]]></summary>
         <author>
             <name>sambigeara</name>
         </author>
@@ -97,8 +121,8 @@ Points: 31
         <updated>2021-06-23T16:26:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nvlabs.github.io/alias-free-gan/
 Comments URL: https://news.ycombinator.com/item?id=27606347
-Points: 133
-# Comments: 18]]></summary>
+Points: 172
+# Comments: 23]]></summary>
         <author>
             <name>nurpax</name>
         </author>
@@ -110,8 +134,8 @@ Points: 133
         <updated>2021-06-23T16:04:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tannerv.com/ipod
 Comments URL: https://news.ycombinator.com/item?id=27606099
-Points: 336
-# Comments: 60]]></summary>
+Points: 407
+# Comments: 71]]></summary>
         <author>
             <name>tonyhawkins</name>
         </author>
@@ -123,8 +147,8 @@ Points: 336
         <updated>2021-06-23T16:00:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-23/s-african-brothers-vanish-and-so-does-3-6-billion-in-bitcoin
 Comments URL: https://news.ycombinator.com/item?id=27606039
-Points: 94
-# Comments: 57]]></summary>
+Points: 121
+# Comments: 70]]></summary>
         <author>
             <name>Aissen</name>
         </author>
@@ -136,8 +160,8 @@ Points: 94
         <updated>2021-06-23T15:44:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd
 Comments URL: https://news.ycombinator.com/item?id=27605835
-Points: 73
-# Comments: 29]]></summary>
+Points: 81
+# Comments: 39]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -149,21 +173,21 @@ Points: 73
         <updated>2021-06-23T15:35:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/
 Comments URL: https://news.ycombinator.com/item?id=27605712
-Points: 86
-# Comments: 45]]></summary>
+Points: 98
+# Comments: 57]]></summary>
         <author>
             <name>ThatGeoGuy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maplibre.org Open Maps SDKs for web and mobile: community driven Mapbox GL fork]]></title>
+        <title type="html"><![CDATA[Maplibre: community-driven Mapbox GL fork]]></title>
         <id>https://news.ycombinator.com/item?id=27605656</id>
         <link href="https://maplibre.org/"/>
         <updated>2021-06-23T15:30:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://maplibre.org/
 Comments URL: https://news.ycombinator.com/item?id=27605656
-Points: 143
-# Comments: 38]]></summary>
+Points: 178
+# Comments: 42]]></summary>
         <author>
             <name>klokan</name>
         </author>
@@ -175,8 +199,8 @@ Points: 143
         <updated>2021-06-23T14:52:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bartoszgorka.com/elixir-1-12-released
 Comments URL: https://news.ycombinator.com/item?id=27605215
-Points: 147
-# Comments: 13]]></summary>
+Points: 165
+# Comments: 17]]></summary>
         <author>
             <name>clessg</name>
         </author>
@@ -188,8 +212,8 @@ Points: 147
         <updated>2021-06-23T14:38:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
 Comments URL: https://news.ycombinator.com/item?id=27605052
-Points: 106
-# Comments: 38]]></summary>
+Points: 152
+# Comments: 46]]></summary>
         <author>
             <name>Alex3917</name>
         </author>
@@ -212,8 +236,8 @@ The post “Weak declaration” appeared first on CSS-Tricks. You can support CS
         <updated>2021-06-23T14:16:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days
 Comments URL: https://news.ycombinator.com/item?id=27604809
-Points: 451
-# Comments: 196]]></summary>
+Points: 476
+# Comments: 203]]></summary>
         <author>
             <name>Knajjars</name>
         </author>
@@ -225,8 +249,8 @@ Points: 451
         <updated>2021-06-23T14:10:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fuse.wikichip.org/news/5699/arm-introduces-its-confidential-compute-architecture/
 Comments URL: https://news.ycombinator.com/item?id=27604749
-Points: 63
-# Comments: 17]]></summary>
+Points: 78
+# Comments: 24]]></summary>
         <author>
             <name>Symmetry</name>
         </author>
@@ -248,8 +272,8 @@ Points: 63
         <updated>2021-06-23T12:51:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities
 Comments URL: https://news.ycombinator.com/item?id=27603912
-Points: 198
-# Comments: 106]]></summary>
+Points: 314
+# Comments: 287]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -261,23 +285,10 @@ Points: 198
         <updated>2021-06-23T10:58:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html
 Comments URL: https://news.ycombinator.com/item?id=27603039
-Points: 85
-# Comments: 234]]></summary>
+Points: 95
+# Comments: 272]]></summary>
         <author>
             <name>gumby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PipeWire Under the Hood]]></title>
-        <id>https://news.ycombinator.com/item?id=27602655</id>
-        <link href="https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html"/>
-        <updated>2021-06-23T09:54:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html
-Comments URL: https://news.ycombinator.com/item?id=27602655
-Points: 76
-# Comments: 17]]></summary>
-        <author>
-            <name>BelenusMordred</name>
         </author>
     </entry>
     <entry>
@@ -297,7 +308,7 @@ Points: 76
         <updated>2021-06-23T09:05:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/
 Comments URL: https://news.ycombinator.com/item?id=27602395
-Points: 143
+Points: 150
 # Comments: 69]]></summary>
         <author>
             <name>aSig</name>
@@ -310,8 +321,8 @@ Points: 143
         <updated>2021-06-23T09:04:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://shufflingbytes.com/posts/wardialing-finnish-freephones/
 Comments URL: https://news.ycombinator.com/item?id=27602383
-Points: 236
-# Comments: 136]]></summary>
+Points: 244
+# Comments: 140]]></summary>
         <author>
             <name>ValtteriL</name>
         </author>
@@ -624,19 +635,6 @@ The post How I Used the WAAPI to Build an Animation Library appeared first on CS
         <updated>2021-06-15T23:24:20.000Z</updated>
         <summary type="html"><![CDATA[Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …
 The post Detect Unused Classes in… HTML appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media Queries in Times of @container]]></title>
-        <id>https://css-tricks.com/?p=342519</id>
-        <link href="https://mxb.dev/blog/media-queries-in-times-of-container-queries/"/>
-        <updated>2021-06-15T19:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.
-I took the bait and had a look at some of my projects – 
-…
-The post Media Queries in Times of @container appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
