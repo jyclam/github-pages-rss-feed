@@ -6,9 +6,18 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27616325",
+          "author": "hmoody",
+          "description": "Article URL: https://www.workatastartup.com/jobs/43782\nComments URL: https://news.ycombinator.com/item?id=27616325\nPoints: 1\n# Comments: 0",
+          "link": "https://www.workatastartup.com/jobs/43782",
+          "publishedOn": "2021-06-24T12:00:19.000Z",
+          "wordCount": 407,
+          "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27615857",
           "author": "NicoJuicy",
-          "description": "Article URL: https://interestingengineering.com/toxoplasmosis-the-cat-poop-parasite-probably-in-your-brain\nComments URL: https://news.ycombinator.com/item?id=27615857\nPoints: 8\n# Comments: 0",
+          "description": "Article URL: https://interestingengineering.com/toxoplasmosis-the-cat-poop-parasite-probably-in-your-brain\nComments URL: https://news.ycombinator.com/item?id=27615857\nPoints: 26\n# Comments: 8",
           "link": "https://interestingengineering.com/toxoplasmosis-the-cat-poop-parasite-probably-in-your-brain",
           "publishedOn": "2021-06-24T10:34:53.000Z",
           "wordCount": 1789,
@@ -17,16 +26,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27615849",
           "author": "headalgorithm",
-          "description": "Article URL: https://www.technologyreview.com/2021/06/24/1027048/youtube-xinjiang-censorship-human-rights-atajurt/\nComments URL: https://news.ycombinator.com/item?id=27615849\nPoints: 11\n# Comments: 1",
+          "description": "Article URL: https://www.technologyreview.com/2021/06/24/1027048/youtube-xinjiang-censorship-human-rights-atajurt/\nComments URL: https://news.ycombinator.com/item?id=27615849\nPoints: 64\n# Comments: 21",
           "link": "https://www.technologyreview.com/2021/06/24/1027048/youtube-xinjiang-censorship-human-rights-atajurt/",
           "publishedOn": "2021-06-24T10:34:08.000Z",
-          "wordCount": 1845,
+          "wordCount": 1828,
           "title": "How YouTube’s rules are used to silence human rights activists"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27615700",
           "author": "uniqueid",
-          "description": "Article URL: https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research\nComments URL: https://news.ycombinator.com/item?id=27615700\nPoints: 16\n# Comments: 2",
+          "description": "Article URL: https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research\nComments URL: https://news.ycombinator.com/item?id=27615700\nPoints: 39\n# Comments: 10",
           "link": "https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research",
           "publishedOn": "2021-06-24T10:04:53.000Z",
           "wordCount": 1814,
@@ -35,16 +44,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27615683",
           "author": "fraqed",
-          "description": "Article URL: https://www.cuimc.columbia.edu/news/its-true-stress-does-turn-hair-gray-and-its-reversible\nComments URL: https://news.ycombinator.com/item?id=27615683\nPoints: 43\n# Comments: 3",
+          "description": "Article URL: https://www.cuimc.columbia.edu/news/its-true-stress-does-turn-hair-gray-and-its-reversible\nComments URL: https://news.ycombinator.com/item?id=27615683\nPoints: 140\n# Comments: 39",
           "link": "https://www.cuimc.columbia.edu/news/its-true-stress-does-turn-hair-gray-and-its-reversible",
           "publishedOn": "2021-06-24T10:01:20.000Z",
           "wordCount": 1465,
-          "title": "It’s True: Stress Does Turn Hair Gray (and It’s Reversible)"
+          "title": "Stress Does Turn Hair Gray, and It’s Reversible"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27615597",
           "author": "notoriousarun",
-          "description": "Article URL: https://www.perspective-collective.com/perspectivepodcast/you-are-doing-too-much-focus-on-one-thing\nComments URL: https://news.ycombinator.com/item?id=27615597\nPoints: 10\n# Comments: 3",
+          "description": "Article URL: https://www.perspective-collective.com/perspectivepodcast/you-are-doing-too-much-focus-on-one-thing\nComments URL: https://news.ycombinator.com/item?id=27615597\nPoints: 25\n# Comments: 7",
           "link": "https://www.perspective-collective.com/perspectivepodcast/you-are-doing-too-much-focus-on-one-thing",
           "publishedOn": "2021-06-24T09:47:47.000Z",
           "wordCount": 2224,
@@ -53,16 +62,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27615562",
           "author": "thunderbong",
-          "description": "Hello HN,\nWe have been gathering our requirements and doing our work breakdown structure (WBS) across Google Docs / Sheets and Word / Excel.\nIn most scenarios, the requirement is not finalized initially. It goes through multiple iterations. To track these changes needs document versioning. Although, there are ways to version both documents and spreadsheets there are either too technical (code version management system) or difficult to use (Google Docs etc.)\nThe same challenge exists for the WBS. Here, we can probably use Microsoft Project or something similar.\nThe question to all HNers -\nFor both requirement gathering and WBS, what I'm looking for -\n1. Some organized way to gather information (preferably in some itemized form)\n2. Automatic version management and an easy way to see how things have changed\nA bonus would be to somehow link between the requirements and WBS.\nThis can be either a free, open-source, self-hosted or paid option.\nAlso, it would be useful to know if anybody is using software like Notion, Outline, OneNote for this purpose.\nComments URL: https://news.ycombinator.com/item?id=27615562\nPoints: 24\n# Comments: 16",
+          "description": "Hello HN,\nWe have been gathering our requirements and doing our work breakdown structure (WBS) across Google Docs / Sheets and Word / Excel.\nIn most scenarios, the requirement is not finalized initially. It goes through multiple iterations. To track these changes needs document versioning. Although, there are ways to version both documents and spreadsheets there are either too technical (code version management system) or difficult to use (Google Docs etc.)\nThe same challenge exists for the WBS. Here, we can probably use Microsoft Project or something similar.\nThe question to all HNers -\nFor both requirement gathering and WBS, what I'm looking for -\n1. Some organized way to gather information (preferably in some itemized form)\n2. Automatic version management and an easy way to see how things have changed\nA bonus would be to somehow link between the requirements and WBS.\nThis can be either a free, open-source, self-hosted or paid option.\nAlso, it would be useful to know if anybody is using software like Notion, Outline, OneNote for this purpose.\nComments URL: https://news.ycombinator.com/item?id=27615562\nPoints: 44\n# Comments: 32",
           "link": "https://news.ycombinator.com/item?id=27615562",
           "publishedOn": "2021-06-24T09:42:19.000Z",
-          "wordCount": 1395,
+          "wordCount": 2293,
           "title": "Ask HN: What software do you use to gather requirements?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27615516",
           "author": "nailer",
-          "description": "Article URL: http://bashrcgenerator.com/\nComments URL: https://news.ycombinator.com/item?id=27615516\nPoints: 15\n# Comments: 6",
+          "description": "Article URL: http://bashrcgenerator.com/\nComments URL: https://news.ycombinator.com/item?id=27615516\nPoints: 52\n# Comments: 24",
           "link": "http://bashrcgenerator.com/",
           "publishedOn": "2021-06-24T09:34:38.000Z",
           "wordCount": 242,
@@ -71,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27615507",
           "author": "BjoernKW",
-          "description": "Article URL: https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/night-watch-the-missing-pieces\nComments URL: https://news.ycombinator.com/item?id=27615507\nPoints: 7\n# Comments: 0",
+          "description": "Article URL: https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/night-watch-the-missing-pieces\nComments URL: https://news.ycombinator.com/item?id=27615507\nPoints: 38\n# Comments: 1",
           "link": "https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/night-watch-the-missing-pieces",
           "publishedOn": "2021-06-24T09:33:46.000Z",
           "wordCount": 158,
@@ -80,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27614912",
           "author": "open-source-ux",
-          "description": "Article URL: http://strlen.com/treesheets/\nComments URL: https://news.ycombinator.com/item?id=27614912\nPoints: 124\n# Comments: 14",
+          "description": "Article URL: http://strlen.com/treesheets/\nComments URL: https://news.ycombinator.com/item?id=27614912\nPoints: 155\n# Comments: 20",
           "link": "http://strlen.com/treesheets/",
           "publishedOn": "2021-06-24T07:40:50.000Z",
           "wordCount": 288,
@@ -89,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27614874",
           "author": "dvoros",
-          "description": "Article URL: https://3dasd.com/\nComments URL: https://news.ycombinator.com/item?id=27614874\nPoints: 61\n# Comments: 25",
+          "description": "Article URL: https://3dasd.com/\nComments URL: https://news.ycombinator.com/item?id=27614874\nPoints: 80\n# Comments: 28",
           "link": "https://3dasd.com/",
           "publishedOn": "2021-06-24T07:34:43.000Z",
           "wordCount": 357,
@@ -98,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27614855",
           "author": "Pandabob",
-          "description": "Article URL: https://android-developers.googleblog.com/2021/06/continuing-to-boost-developer-success.html\nComments URL: https://news.ycombinator.com/item?id=27614855\nPoints: 45\n# Comments: 39",
+          "description": "Article URL: https://android-developers.googleblog.com/2021/06/continuing-to-boost-developer-success.html\nComments URL: https://news.ycombinator.com/item?id=27614855\nPoints: 59\n# Comments: 42",
           "link": "https://android-developers.googleblog.com/2021/06/continuing-to-boost-developer-success.html",
           "publishedOn": "2021-06-24T07:30:50.000Z",
           "wordCount": 1147,
@@ -107,25 +116,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27614806",
           "author": "pqvst",
-          "description": "Article URL: https://tink.com/blog/news/visa-acquires-tink/\nComments URL: https://news.ycombinator.com/item?id=27614806\nPoints: 50\n# Comments: 43",
+          "description": "Article URL: https://tink.com/blog/news/visa-acquires-tink/\nComments URL: https://news.ycombinator.com/item?id=27614806\nPoints: 57\n# Comments: 52",
           "link": "https://tink.com/blog/news/visa-acquires-tink/",
           "publishedOn": "2021-06-24T07:22:50.000Z",
           "wordCount": 823,
           "title": "Tink Is Joining Visa"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27614694",
-          "author": "Equiet",
-          "description": "Article URL: https://deepnote.com/join-us\nComments URL: https://news.ycombinator.com/item?id=27614694\nPoints: 1\n# Comments: 0",
-          "link": "https://deepnote.com/join-us",
-          "publishedOn": "2021-06-24T07:01:15.000Z",
-          "wordCount": 472,
-          "title": "Deepnote (YC S19) is hiring to build a better data science notebook"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27614615",
           "author": "redact207",
-          "description": "Article URL: https://blogabout.dev/how-to-get-static-wordpress-hosting-on-cloudflare-for-free\nComments URL: https://news.ycombinator.com/item?id=27614615\nPoints: 40\n# Comments: 10",
+          "description": "Article URL: https://blogabout.dev/how-to-get-static-wordpress-hosting-on-cloudflare-for-free\nComments URL: https://news.ycombinator.com/item?id=27614615\nPoints: 47\n# Comments: 14",
           "link": "https://blogabout.dev/how-to-get-static-wordpress-hosting-on-cloudflare-for-free",
           "publishedOn": "2021-06-24T06:42:02.000Z",
           "wordCount": 1014,
@@ -134,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27614580",
           "author": "montalbano",
-          "description": "Article URL: https://www.cam.ac.uk/research/news/vegan-spider-silk-provides-sustainable-alternative-to-single-use-plastics\nComments URL: https://news.ycombinator.com/item?id=27614580\nPoints: 18\n# Comments: 7",
+          "description": "Article URL: https://www.cam.ac.uk/research/news/vegan-spider-silk-provides-sustainable-alternative-to-single-use-plastics\nComments URL: https://news.ycombinator.com/item?id=27614580\nPoints: 42\n# Comments: 19",
           "link": "https://www.cam.ac.uk/research/news/vegan-spider-silk-provides-sustainable-alternative-to-single-use-plastics",
           "publishedOn": "2021-06-24T06:34:11.000Z",
           "wordCount": 1713,
@@ -143,16 +143,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27614434",
           "author": "roschdal",
-          "description": "Article URL: https://www.freecivweb.org/?2021\nComments URL: https://news.ycombinator.com/item?id=27614434\nPoints: 72\n# Comments: 17",
+          "description": "Article URL: https://www.freecivweb.org/?2021\nComments URL: https://news.ycombinator.com/item?id=27614434\nPoints: 86\n# Comments: 23",
           "link": "https://www.freecivweb.org/?2021",
           "publishedOn": "2021-06-24T05:59:54.000Z",
-          "wordCount": 637,
+          "wordCount": 629,
           "title": "Show HN: Freeciv-Web"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27614428",
           "author": "blewboarwastake",
-          "description": "Article URL: http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf\nComments URL: https://news.ycombinator.com/item?id=27614428\nPoints: 27\n# Comments: 3",
+          "description": "Article URL: http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf\nComments URL: https://news.ycombinator.com/item?id=27614428\nPoints: 32\n# Comments: 5",
           "link": "http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf",
           "publishedOn": "2021-06-24T05:59:11.000Z",
           "wordCount": 6450,
@@ -161,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27614381",
           "author": "polm23",
-          "description": "Article URL: http://tylerneylon.com/a/lsh1/\nComments URL: https://news.ycombinator.com/item?id=27614381\nPoints: 123\n# Comments: 25",
+          "description": "Article URL: http://tylerneylon.com/a/lsh1/\nComments URL: https://news.ycombinator.com/item?id=27614381\nPoints: 137\n# Comments: 29",
           "link": "http://tylerneylon.com/a/lsh1/",
           "publishedOn": "2021-06-24T05:51:51.000Z",
           "wordCount": 4667,
@@ -170,16 +170,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27613217",
           "author": "jepler",
-          "description": "Article URL: https://newsblur.com/\nComments URL: https://news.ycombinator.com/item?id=27613217\nPoints: 368\n# Comments: 236",
+          "description": "Article URL: https://newsblur.com/\nComments URL: https://news.ycombinator.com/item?id=27613217\nPoints: 373\n# Comments: 256",
           "link": "https://newsblur.com/",
           "publishedOn": "2021-06-24T02:35:29.000Z",
-          "wordCount": 677,
+          "wordCount": 675,
           "title": "Hacker deleted all of NewsBlur’s Mongo data and is now holding the data hostage"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27612728",
           "author": "teleforce",
-          "description": "Article URL: https://p4.org/\nComments URL: https://news.ycombinator.com/item?id=27612728\nPoints: 59\n# Comments: 9",
+          "description": "Article URL: https://p4.org/\nComments URL: https://news.ycombinator.com/item?id=27612728\nPoints: 66\n# Comments: 12",
           "link": "https://p4.org/",
           "publishedOn": "2021-06-24T01:15:26.000Z",
           "wordCount": 311,
@@ -419,7 +419,7 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1402,
+          "wordCount": 1396,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
@@ -447,7 +447,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5354,
+          "wordCount": 5353,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -461,7 +461,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3420,
+          "wordCount": 3373,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -475,7 +475,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3957,
+          "wordCount": 3955,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -489,7 +489,7 @@
           "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
           "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
           "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1638,
+          "wordCount": 1639,
           "title": "Your Image Is Probably Not Decorative",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
@@ -503,7 +503,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4100,
+          "wordCount": 4060,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -573,7 +573,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5156,
+          "wordCount": 5112,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -587,7 +587,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 872,
+          "wordCount": 864,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -601,7 +601,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2780,
+          "wordCount": 2779,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -629,7 +629,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2429,
+          "wordCount": 2432,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -643,7 +643,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4422,
+          "wordCount": 4410,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -657,7 +657,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3716,
+          "wordCount": 3722,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -685,7 +685,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5665,
+          "wordCount": 5657,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -727,7 +727,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2723,
+          "wordCount": 2772,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -741,7 +741,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10609,
+          "wordCount": 10595,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -755,7 +755,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 4050,
+          "wordCount": 4062,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -783,7 +783,7 @@
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
           "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1752,
+          "wordCount": 1750,
           "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
