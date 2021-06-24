@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T16:19:46.425Z</updated>
+    <updated>2021-06-24T17:19:09.126Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
+        <id>60d3ee396e1a1407b6b0b6ef</id>
+        <link href="https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/"/>
+        <updated>2021-06-24T17:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform]]></title>
+        <id>https://news.ycombinator.com/item?id=27620488</id>
+        <link href="https://www.paperspace.com/careers"/>
+        <updated>2021-06-24T17:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.paperspace.com/careers
+Comments URL: https://news.ycombinator.com/item?id=27620488
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>dkobran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quad9 is forced by Sony to block DNS resolution of pirate domains]]></title>
+        <id>https://news.ycombinator.com/item?id=27620319</id>
+        <link href="https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/"/>
+        <updated>2021-06-24T16:52:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/
+Comments URL: https://news.ycombinator.com/item?id=27620319
+Points: 55
+# Comments: 3]]></summary>
+        <author>
+            <name>ameshkov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenTelemetry to Understand Software Performance]]></title>
+        <id>60d4b5e96e1a1407b6b0bac4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-opentelemetry/"/>
+        <updated>2021-06-24T16:50:36.000Z</updated>
+        <summary type="html"><![CDATA[If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next Backblaze Storage Pod]]></title>
+        <id>https://news.ycombinator.com/item?id=27619672</id>
+        <link href="https://www.backblaze.com/blog/next-backblaze-storage-pod/"/>
+        <updated>2021-06-24T16:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/next-backblaze-storage-pod/
+Comments URL: https://news.ycombinator.com/item?id=27619672
+Points: 56
+# Comments: 16]]></summary>
+        <author>
+            <name>TangerineDream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Windows 11]]></title>
+        <id>https://news.ycombinator.com/item?id=27619354</id>
+        <link href="https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/"/>
+        <updated>2021-06-24T15:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/
+Comments URL: https://news.ycombinator.com/item?id=27619354
+Points: 173
+# Comments: 161]]></summary>
+        <author>
+            <name>WalterSobchak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft is bringing Android apps to Windows 11]]></title>
         <id>https://news.ycombinator.com/item?id=27619191</id>
@@ -13,8 +85,8 @@
         <updated>2021-06-24T15:40:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store
 Comments URL: https://news.ycombinator.com/item?id=27619191
-Points: 46
-# Comments: 0]]></summary>
+Points: 124
+# Comments: 59]]></summary>
         <author>
             <name>ArchUser2255</name>
         </author>
@@ -26,8 +98,8 @@ Points: 46
         <updated>2021-06-24T15:29:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.forbrukerradet.no/side/new-report-details-threats-to-consumers-from-surveillance-based-advertising/
 Comments URL: https://news.ycombinator.com/item?id=27619030
-Points: 2
-# Comments: 0]]></summary>
+Points: 66
+# Comments: 18]]></summary>
         <author>
             <name>dredmorbius</name>
         </author>
@@ -39,36 +111,23 @@ Points: 2
         <updated>2021-06-24T15:28:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html
 Comments URL: https://news.ycombinator.com/item?id=27619015
-Points: 13
-# Comments: 0]]></summary>
+Points: 65
+# Comments: 18]]></summary>
         <author>
             <name>friendly_chap</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft announces Windows 11, with a new design, Start menu, and more]]></title>
+        <title type="html"><![CDATA[Microsoft announces Windows 11]]></title>
         <id>https://news.ycombinator.com/item?id=27618805</id>
         <link href="https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates"/>
         <updated>2021-06-24T15:14:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates
 Comments URL: https://news.ycombinator.com/item?id=27618805
-Points: 125
-# Comments: 61]]></summary>
+Points: 139
+# Comments: 176]]></summary>
         <author>
             <name>neogodless</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angus Barbieri's fast]]></title>
-        <id>https://news.ycombinator.com/item?id=27618423</id>
-        <link href="https://en.wikipedia.org/wiki/Angus_Barbieri%27s_fast"/>
-        <updated>2021-06-24T14:50:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Angus_Barbieri%27s_fast
-Comments URL: https://news.ycombinator.com/item?id=27618423
-Points: 45
-# Comments: 11]]></summary>
-        <author>
-            <name>nixass</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +137,8 @@ Points: 45
         <updated>2021-06-24T14:38:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users
 Comments URL: https://news.ycombinator.com/item?id=27618206
-Points: 178
-# Comments: 53]]></summary>
+Points: 253
+# Comments: 103]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -104,8 +163,8 @@ The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-
         <updated>2021-06-24T14:08:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.blender.org/press/canonical-offering-blender-support/
 Comments URL: https://news.ycombinator.com/item?id=27617670
-Points: 82
-# Comments: 7]]></summary>
+Points: 113
+# Comments: 14]]></summary>
         <author>
             <name>asicsp</name>
         </author>
@@ -117,8 +176,8 @@ Points: 82
         <updated>2021-06-24T14:05:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://digiday.com/marketing/cheat-sheet-google-extends-cookie-execution-deadline-until-late-2023-will-pause-floc-testing-in-july/
 Comments URL: https://news.ycombinator.com/item?id=27617620
-Points: 52
-# Comments: 26]]></summary>
+Points: 68
+# Comments: 39]]></summary>
         <author>
             <name>lhpz</name>
         </author>
@@ -140,21 +199,21 @@ Points: 52
         <updated>2021-06-24T13:56:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloud.google.com/bigquery/docs/row-level-security-intro
 Comments URL: https://news.ycombinator.com/item?id=27617466
-Points: 37
-# Comments: 3]]></summary>
+Points: 51
+# Comments: 6]]></summary>
         <author>
             <name>santhoshkumar3</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NASA Can't Figure Out What's Causing Computer Issues on the Hubble Telescope]]></title>
+        <title type="html"><![CDATA[NASA can't figure out what's causing computer issues on the Hubble telescope]]></title>
         <id>https://news.ycombinator.com/item?id=27617256</id>
         <link href="https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco"/>
         <updated>2021-06-24T13:43:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco
 Comments URL: https://news.ycombinator.com/item?id=27617256
-Points: 131
-# Comments: 101]]></summary>
+Points: 168
+# Comments: 166]]></summary>
         <author>
             <name>fortran77</name>
         </author>
@@ -166,8 +225,8 @@ Points: 131
         <updated>2021-06-24T13:39:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.juststeveking.uk/introducing-laravel-transporter/
 Comments URL: https://news.ycombinator.com/item?id=27617196
-Points: 28
-# Comments: 16]]></summary>
+Points: 31
+# Comments: 20]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -179,8 +238,8 @@ Points: 28
         <updated>2021-06-24T13:33:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dpreview.com/news/4668719994/faa-releases-trust-free-online-training-required-for-recreational-pilots-to-fly-legally
 Comments URL: https://news.ycombinator.com/item?id=27617127
-Points: 104
-# Comments: 109]]></summary>
+Points: 127
+# Comments: 136]]></summary>
         <author>
             <name>asix66</name>
         </author>
@@ -192,8 +251,8 @@ Points: 104
         <updated>2021-06-24T13:26:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/education/2021/jun/24/half-of-uk-university-students-think-degree-is-poor-value-for-money
 Comments URL: https://news.ycombinator.com/item?id=27617051
-Points: 74
-# Comments: 77]]></summary>
+Points: 96
+# Comments: 102]]></summary>
         <author>
             <name>mocko</name>
         </author>
@@ -205,8 +264,8 @@ Points: 74
         <updated>2021-06-24T13:01:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/computing/software/the-dawn-of-haiku-os
 Comments URL: https://news.ycombinator.com/item?id=27616822
-Points: 25
-# Comments: 1]]></summary>
+Points: 30
+# Comments: 9]]></summary>
         <author>
             <name>bitigchi</name>
         </author>
@@ -218,23 +277,10 @@ Points: 25
         <updated>2021-06-24T12:42:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html
 Comments URL: https://news.ycombinator.com/item?id=27616656
-Points: 38
-# Comments: 20]]></summary>
+Points: 50
+# Comments: 29]]></summary>
         <author>
             <name>zbentley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)]]></title>
-        <id>https://news.ycombinator.com/item?id=27616325</id>
-        <link href="https://www.workatastartup.com/jobs/43782"/>
-        <updated>2021-06-24T12:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/43782
-Comments URL: https://news.ycombinator.com/item?id=27616325
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>hmoody</name>
         </author>
     </entry>
     <entry>
@@ -244,49 +290,23 @@ Points: 1
         <updated>2021-06-24T11:43:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/23/upshot/remote-work-innovation-office.html
 Comments URL: https://news.ycombinator.com/item?id=27616212
-Points: 198
-# Comments: 105]]></summary>
+Points: 238
+# Comments: 156]]></summary>
         <author>
             <name>remt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Writing ARM64 Code for Apple Platforms]]></title>
-        <id>https://news.ycombinator.com/item?id=27616018</id>
-        <link href="https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms"/>
-        <updated>2021-06-24T11:07:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms
-Comments URL: https://news.ycombinator.com/item?id=27616018
-Points: 107
-# Comments: 50]]></summary>
+        <title type="html"><![CDATA[Peter Thiel turned a Roth IRA into a $5B tax-free piggy bank]]></title>
+        <id>https://news.ycombinator.com/item?id=27616090</id>
+        <link href="https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank"/>
+        <updated>2021-06-24T11:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank
+Comments URL: https://news.ycombinator.com/item?id=27616090
+Points: 69
+# Comments: 41]]></summary>
         <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How YouTube’s rules are used to silence human rights activists]]></title>
-        <id>https://news.ycombinator.com/item?id=27615849</id>
-        <link href="https://www.technologyreview.com/2021/06/24/1027048/youtube-xinjiang-censorship-human-rights-atajurt/"/>
-        <updated>2021-06-24T10:34:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.technologyreview.com/2021/06/24/1027048/youtube-xinjiang-censorship-human-rights-atajurt/
-Comments URL: https://news.ycombinator.com/item?id=27615849
-Points: 249
-# Comments: 126]]></summary>
-        <author>
-            <name>headalgorithm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bash PS1 Generator]]></title>
-        <id>https://news.ycombinator.com/item?id=27615516</id>
-        <link href="http://bashrcgenerator.com/"/>
-        <updated>2021-06-24T09:34:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://bashrcgenerator.com/
-Comments URL: https://news.ycombinator.com/item?id=27615516
-Points: 186
-# Comments: 92]]></summary>
-        <author>
-            <name>nailer</name>
+            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
@@ -482,26 +502,6 @@ The post If we’re gonna criticize utility-class frameworks, let’s be fair ab
         <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Exit Vim – Vim Save and Quit Command Tutorial]]></title>
-        <id>60c81f774dc1a607ed7b2f66</id>
-        <link href="https://www.freecodecamp.org/news/how-to-exit-vim/"/>
-        <updated>2021-06-21T21:52:43.000Z</updated>
-        <summary type="html"><![CDATA[I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples]]></title>
-        <id>60bce157acb62507dd1d9f11</id>
-        <link href="https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/"/>
-        <updated>2021-06-21T21:25:11.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
