@@ -2,21 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T09:12:40.733Z</updated>
+    <updated>2021-06-24T10:13:16.925Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Visa to buy Swedish fintech startup Tink]]></title>
-        <id>https://news.ycombinator.com/item?id=27615126</id>
-        <link href="https://www.cnbc.com/2021/06/24/visa-to-buy-swedish-fintech-start-up-tink.html"/>
-        <updated>2021-06-24T08:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/24/visa-to-buy-swedish-fintech-start-up-tink.html
-Comments URL: https://news.ycombinator.com/item?id=27615126
-Points: 4
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Ask HN: What software do you use to gather requirements?]]></title>
+        <id>https://news.ycombinator.com/item?id=27615562</id>
+        <link href="https://news.ycombinator.com/item?id=27615562"/>
+        <updated>2021-06-24T09:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Hello HN,
+We have been gathering our requirements and doing our work breakdown structure (WBS) across Google Docs / Sheets and Word / Excel.
+In most scenarios, the requirement is not finalized initially. It goes through multiple iterations. To track these changes needs document versioning. Although, there are ways to version both documents and spreadsheets there are either too technical (code version management system) or difficult to use (Google Docs etc.)
+The same challenge exists for the WBS. Here, we can probably use Microsoft Project or something similar.
+The question to all HNers -
+For both requirement gathering and WBS, what I'm looking for -
+1. Some organized way to gather information (preferably in some itemized form)
+2. Automatic version management and an easy way to see how things have changed
+A bonus would be to somehow link between the requirements and WBS.
+This can be either a free, open-source, self-hosted or paid option.
+Also, it would be useful to know if anybody is using software like Notion, Outline, OneNote for this purpose.
+Comments URL: https://news.ycombinator.com/item?id=27615562
+Points: 7
+# Comments: 2]]></summary>
         <author>
-            <name>shivbhatt</name>
+            <name>thunderbong</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +36,8 @@ Points: 4
         <updated>2021-06-24T07:40:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://strlen.com/treesheets/
 Comments URL: https://news.ycombinator.com/item?id=27614912
-Points: 50
-# Comments: 3]]></summary>
+Points: 91
+# Comments: 11]]></summary>
         <author>
             <name>open-source-ux</name>
         </author>
@@ -39,8 +49,8 @@ Points: 50
         <updated>2021-06-24T07:34:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://3dasd.com/
 Comments URL: https://news.ycombinator.com/item?id=27614874
-Points: 24
-# Comments: 10]]></summary>
+Points: 43
+# Comments: 19]]></summary>
         <author>
             <name>dvoros</name>
         </author>
@@ -52,8 +62,8 @@ Points: 24
         <updated>2021-06-24T07:30:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://android-developers.googleblog.com/2021/06/continuing-to-boost-developer-success.html
 Comments URL: https://news.ycombinator.com/item?id=27614855
-Points: 12
-# Comments: 14]]></summary>
+Points: 30
+# Comments: 29]]></summary>
         <author>
             <name>Pandabob</name>
         </author>
@@ -65,8 +75,8 @@ Points: 12
         <updated>2021-06-24T07:22:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tink.com/blog/news/visa-acquires-tink/
 Comments URL: https://news.ycombinator.com/item?id=27614806
-Points: 15
-# Comments: 14]]></summary>
+Points: 37
+# Comments: 33]]></summary>
         <author>
             <name>pqvst</name>
         </author>
@@ -91,10 +101,23 @@ Points: 1
         <updated>2021-06-24T06:42:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogabout.dev/how-to-get-static-wordpress-hosting-on-cloudflare-for-free
 Comments URL: https://news.ycombinator.com/item?id=27614615
-Points: 10
-# Comments: 1]]></summary>
+Points: 30
+# Comments: 9]]></summary>
         <author>
             <name>redact207</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Vegan spider silk’ provides sustainable alternative to single-use plastics]]></title>
+        <id>https://news.ycombinator.com/item?id=27614580</id>
+        <link href="https://www.cam.ac.uk/research/news/vegan-spider-silk-provides-sustainable-alternative-to-single-use-plastics"/>
+        <updated>2021-06-24T06:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cam.ac.uk/research/news/vegan-spider-silk-provides-sustainable-alternative-to-single-use-plastics
+Comments URL: https://news.ycombinator.com/item?id=27614580
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>montalbano</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +127,8 @@ Points: 10
         <updated>2021-06-24T05:59:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.freecivweb.org/?2021
 Comments URL: https://news.ycombinator.com/item?id=27614434
-Points: 52
-# Comments: 10]]></summary>
+Points: 62
+# Comments: 16]]></summary>
         <author>
             <name>roschdal</name>
         </author>
@@ -117,8 +140,8 @@ Points: 52
         <updated>2021-06-24T05:59:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf
 Comments URL: https://news.ycombinator.com/item?id=27614428
-Points: 21
-# Comments: 0]]></summary>
+Points: 25
+# Comments: 1]]></summary>
         <author>
             <name>blewboarwastake</name>
         </author>
@@ -130,23 +153,10 @@ Points: 21
         <updated>2021-06-24T05:51:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://tylerneylon.com/a/lsh1/
 Comments URL: https://news.ycombinator.com/item?id=27614381
-Points: 91
-# Comments: 21]]></summary>
+Points: 108
+# Comments: 24]]></summary>
         <author>
             <name>polm23</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why it took us thousands of years to see the colour violet]]></title>
-        <id>https://news.ycombinator.com/item?id=27613536</id>
-        <link href="https://psyche.co/ideas/why-it-took-us-thousands-of-years-to-see-the-colour-violet"/>
-        <updated>2021-06-24T03:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://psyche.co/ideas/why-it-took-us-thousands-of-years-to-see-the-colour-violet
-Comments URL: https://news.ycombinator.com/item?id=27613536
-Points: 36
-# Comments: 34]]></summary>
-        <author>
-            <name>benbreen</name>
         </author>
     </entry>
     <entry>
@@ -156,23 +166,10 @@ Points: 36
         <updated>2021-06-24T02:35:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://newsblur.com/
 Comments URL: https://news.ycombinator.com/item?id=27613217
-Points: 337
-# Comments: 217]]></summary>
+Points: 356
+# Comments: 233]]></summary>
         <author>
             <name>jepler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tucson copter cop says mysterious, ‘sophisticated’ super-drone ‘like no other’]]></title>
-        <id>https://news.ycombinator.com/item?id=27612835</id>
-        <link href="https://dronedj.com/2021/06/23/update-tucson-copter-cop-says-mysterious-sophisticated-super-drone-like-no-other/"/>
-        <updated>2021-06-24T01:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dronedj.com/2021/06/23/update-tucson-copter-cop-says-mysterious-sophisticated-super-drone-like-no-other/
-Comments URL: https://news.ycombinator.com/item?id=27612835
-Points: 134
-# Comments: 102]]></summary>
-        <author>
-            <name>elijahparker</name>
         </author>
     </entry>
     <entry>
@@ -182,7 +179,7 @@ Points: 134
         <updated>2021-06-24T01:15:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://p4.org/
 Comments URL: https://news.ycombinator.com/item?id=27612728
-Points: 52
+Points: 57
 # Comments: 9]]></summary>
         <author>
             <name>teleforce</name>
@@ -205,8 +202,8 @@ Points: 52
         <updated>2021-06-23T22:36:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder
 Comments URL: https://news.ycombinator.com/item?id=27611433
-Points: 101
-# Comments: 46]]></summary>
+Points: 109
+# Comments: 48]]></summary>
         <author>
             <name>app4soft</name>
         </author>
@@ -239,8 +236,8 @@ The post TablesNG — Improvements to table rendering in Chromium appeared first
         <updated>2021-06-23T21:09:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://support.google.com/youtube/answer/9230970
 Comments URL: https://news.ycombinator.com/item?id=27610409
-Points: 240
-# Comments: 150]]></summary>
+Points: 248
+# Comments: 158]]></summary>
         <author>
             <name>tech234a</name>
         </author>
@@ -252,7 +249,7 @@ Points: 240
         <updated>2021-06-23T20:51:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01596-6
 Comments URL: https://news.ycombinator.com/item?id=27610181
-Points: 49
+Points: 53
 # Comments: 9]]></summary>
         <author>
             <name>onychomys</name>
@@ -265,8 +262,8 @@ Points: 49
         <updated>2021-06-23T20:32:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html
 Comments URL: https://news.ycombinator.com/item?id=27609919
-Points: 275
-# Comments: 240]]></summary>
+Points: 284
+# Comments: 260]]></summary>
         <author>
             <name>gumby</name>
         </author>
@@ -278,8 +275,8 @@ Points: 275
         <updated>2021-06-23T19:36:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57589822
 Comments URL: https://news.ycombinator.com/item?id=27609027
-Points: 1882
-# Comments: 901]]></summary>
+Points: 1928
+# Comments: 922]]></summary>
         <author>
             <name>ews</name>
         </author>
@@ -325,6 +322,19 @@ Why does this matter? Buyers at manufacturing companies face high pressure to cu
 Isabel came across this problem during her work as an investment analyst. She realized that optimizing procurement – the buying of goods and services – is one of the most important ways for industrial firms to save costs: more than 50% of revenue is s…]]></summary>
         <author>
             <name>NilsVollmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alias-Free GAN]]></title>
+        <id>https://news.ycombinator.com/item?id=27606347</id>
+        <link href="https://nvlabs.github.io/alias-free-gan/"/>
+        <updated>2021-06-23T16:26:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nvlabs.github.io/alias-free-gan/
+Comments URL: https://news.ycombinator.com/item?id=27606347
+Points: 373
+# Comments: 68]]></summary>
+        <author>
+            <name>nurpax</name>
         </author>
     </entry>
     <entry>
