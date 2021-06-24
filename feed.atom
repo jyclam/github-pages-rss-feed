@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T23:10:57.849Z</updated>
+    <updated>2021-06-24T00:53:32.543Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial]]></title>
+        <id>605abca5687d62084bf6b7cd</id>
+        <link href="https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/"/>
+        <updated>2021-06-24T00:11:01.000Z</updated>
+        <summary type="html"><![CDATA[Data Analysis is the process of exploring, investigating, and gathering insights from data using statistical measures and visualizations.  The objective of data analysis is to develop an understanding of data by uncovering trends, relationships, and patterns. Data analysis is both a science and an art. On the one hand it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulling GitHub into the Linux kernel process]]></title>
+        <id>https://news.ycombinator.com/item?id=27611704</id>
+        <link href="https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/"/>
+        <updated>2021-06-23T23:07:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/860607/ef7cdf174ccbe54d/
+Comments URL: https://news.ycombinator.com/item?id=27611704
+Points: 30
+# Comments: 29]]></summary>
+        <author>
+            <name>chmaynard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lego Island Rebuilder]]></title>
+        <id>https://news.ycombinator.com/item?id=27611433</id>
+        <link href="https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder"/>
+        <updated>2021-06-23T22:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.legoisland.org/wiki/index.php/LEGO_Island_Rebuilder
+Comments URL: https://news.ycombinator.com/item?id=27611433
+Points: 29
+# Comments: 8]]></summary>
+        <author>
+            <name>app4soft</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microservices Architecture – Explained in Plain English]]></title>
         <id>6072ffd4d5756f080ba98b27</id>
@@ -28,14 +64,14 @@ The post TablesNG — Improvements to table rendering in Chromium appeared first
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube: “Older Unlisted videos will be made Private unless you opt out”]]></title>
+        <title type="html"><![CDATA[“Older unlisted videos will be made private unless you opt out”]]></title>
         <id>https://news.ycombinator.com/item?id=27610409</id>
         <link href="https://support.google.com/youtube/answer/9230970"/>
         <updated>2021-06-23T21:09:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://support.google.com/youtube/answer/9230970
 Comments URL: https://news.ycombinator.com/item?id=27610409
-Points: 115
-# Comments: 56]]></summary>
+Points: 181
+# Comments: 106]]></summary>
         <author>
             <name>tech234a</name>
         </author>
@@ -60,8 +96,8 @@ Points: 1
         <updated>2021-06-23T20:51:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01596-6
 Comments URL: https://news.ycombinator.com/item?id=27610181
-Points: 14
-# Comments: 2]]></summary>
+Points: 23
+# Comments: 5]]></summary>
         <author>
             <name>onychomys</name>
         </author>
@@ -73,8 +109,8 @@ Points: 14
         <updated>2021-06-23T20:32:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html
 Comments URL: https://news.ycombinator.com/item?id=27609919
-Points: 125
-# Comments: 36]]></summary>
+Points: 192
+# Comments: 118]]></summary>
         <author>
             <name>gumby</name>
         </author>
@@ -86,8 +122,8 @@ Points: 125
         <updated>2021-06-23T19:36:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57589822
 Comments URL: https://news.ycombinator.com/item?id=27609027
-Points: 1169
-# Comments: 568]]></summary>
+Points: 1342
+# Comments: 663]]></summary>
         <author>
             <name>ews</name>
         </author>
@@ -110,8 +146,8 @@ The post Using Performant Next-Gen Images in CSS with image-set appeared first o
         <updated>2021-06-23T18:43:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.monash.edu/medicine/news/latest/2021-articles/drug-researchers-discover-potent-class-of-molecules-that-kills-malaria-parasite
 Comments URL: https://news.ycombinator.com/item?id=27608387
-Points: 39
-# Comments: 3]]></summary>
+Points: 54
+# Comments: 4]]></summary>
         <author>
             <name>elorant</name>
         </author>
@@ -133,7 +169,7 @@ Points: 39
         <updated>2021-06-23T17:21:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/
 Comments URL: https://news.ycombinator.com/item?id=27607161
-Points: 49
+Points: 55
 # Comments: 7]]></summary>
         <author>
             <name>_quarks_</name>
@@ -168,8 +204,8 @@ Isabel came across this problem during her work as an investment analyst. She re
         <updated>2021-06-23T16:50:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/features/issues
 Comments URL: https://news.ycombinator.com/item?id=27606657
-Points: 365
-# Comments: 161]]></summary>
+Points: 398
+# Comments: 167]]></summary>
         <author>
             <name>splitbrain</name>
         </author>
@@ -181,7 +217,7 @@ Points: 365
         <updated>2021-06-23T16:46:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/Sambigeara/fuzzynote
 Comments URL: https://news.ycombinator.com/item?id=27606604
-Points: 74
+Points: 95
 # Comments: 18]]></summary>
         <author>
             <name>sambigeara</name>
@@ -194,8 +230,8 @@ Points: 74
         <updated>2021-06-23T16:26:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nvlabs.github.io/alias-free-gan/
 Comments URL: https://news.ycombinator.com/item?id=27606347
-Points: 253
-# Comments: 40]]></summary>
+Points: 277
+# Comments: 44]]></summary>
         <author>
             <name>nurpax</name>
         </author>
@@ -207,8 +243,8 @@ Points: 253
         <updated>2021-06-23T16:04:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tannerv.com/ipod
 Comments URL: https://news.ycombinator.com/item?id=27606099
-Points: 562
-# Comments: 106]]></summary>
+Points: 609
+# Comments: 112]]></summary>
         <author>
             <name>tonyhawkins</name>
         </author>
@@ -220,8 +256,8 @@ Points: 562
         <updated>2021-06-23T16:04:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://scriber.tech/Marae.html
 Comments URL: https://news.ycombinator.com/item?id=27606094
-Points: 17
-# Comments: 9]]></summary>
+Points: 21
+# Comments: 20]]></summary>
         <author>
             <name>realiswhatyoufe</name>
         </author>
@@ -233,8 +269,8 @@ Points: 17
         <updated>2021-06-23T15:44:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd
 Comments URL: https://news.ycombinator.com/item?id=27605835
-Points: 102
-# Comments: 51]]></summary>
+Points: 117
+# Comments: 56]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -246,8 +282,8 @@ Points: 102
         <updated>2021-06-23T15:35:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thatgeoguy.ca/blog/2021/06/22/Librem-5-Evergreen-vs-Pinephone/
 Comments URL: https://news.ycombinator.com/item?id=27605712
-Points: 113
-# Comments: 78]]></summary>
+Points: 121
+# Comments: 81]]></summary>
         <author>
             <name>ThatGeoGuy</name>
         </author>
@@ -259,8 +295,8 @@ Points: 113
         <updated>2021-06-23T15:30:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://maplibre.org/
 Comments URL: https://news.ycombinator.com/item?id=27605656
-Points: 243
-# Comments: 60]]></summary>
+Points: 264
+# Comments: 63]]></summary>
         <author>
             <name>klokan</name>
         </author>
@@ -272,8 +308,8 @@ Points: 243
         <updated>2021-06-23T14:38:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
 Comments URL: https://news.ycombinator.com/item?id=27605052
-Points: 262
-# Comments: 82]]></summary>
+Points: 321
+# Comments: 88]]></summary>
         <author>
             <name>Alex3917</name>
         </author>
@@ -290,16 +326,16 @@ The post “Weak declaration” appeared first on CSS-Tricks. You can support CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arm Introduces Its Confidential Compute Architecture]]></title>
-        <id>https://news.ycombinator.com/item?id=27604749</id>
-        <link href="https://fuse.wikichip.org/news/5699/arm-introduces-its-confidential-compute-architecture/"/>
-        <updated>2021-06-23T14:10:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fuse.wikichip.org/news/5699/arm-introduces-its-confidential-compute-architecture/
-Comments URL: https://news.ycombinator.com/item?id=27604749
-Points: 111
-# Comments: 38]]></summary>
+        <title type="html"><![CDATA[Costa Rica Has Run on 100% Renewable Electricity for 299 Days]]></title>
+        <id>https://news.ycombinator.com/item?id=27604809</id>
+        <link href="https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days"/>
+        <updated>2021-06-23T14:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days
+Comments URL: https://news.ycombinator.com/item?id=27604809
+Points: 556
+# Comments: 250]]></summary>
         <author>
-            <name>Symmetry</name>
+            <name>Knajjars</name>
         </author>
     </entry>
     <entry>
@@ -310,32 +346,6 @@ Points: 111
         <summary type="html"><![CDATA[Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A backlash against gender ideology is starting in universities]]></title>
-        <id>https://news.ycombinator.com/item?id=27603912</id>
-        <link href="https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities"/>
-        <updated>2021-06-23T12:51:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities
-Comments URL: https://news.ycombinator.com/item?id=27603912
-Points: 475
-# Comments: 719]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is education no longer the ‘great equalizer’?]]></title>
-        <id>https://news.ycombinator.com/item?id=27603039</id>
-        <link href="https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html"/>
-        <updated>2021-06-23T10:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html
-Comments URL: https://news.ycombinator.com/item?id=27603039
-Points: 125
-# Comments: 379]]></summary>
-        <author>
-            <name>gumby</name>
         </author>
     </entry>
     <entry>
@@ -479,16 +489,6 @@ The post If we’re gonna criticize utility-class frameworks, let’s be fair ab
 The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Redux by Making a Counter Application]]></title>
-        <id>60cccd6e4dc1a607ed7b4f81</id>
-        <link href="https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/"/>
-        <updated>2021-06-21T21:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Redux is a state management library for front end applications. Developers commonly use it with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
