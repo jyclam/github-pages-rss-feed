@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T17:19:09.126Z</updated>
+    <updated>2021-06-24T18:15:01.751Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cl-bodge: a cross-platform Common Lisp game and application framework]]></title>
+        <id>https://news.ycombinator.com/item?id=27621014</id>
+        <link href="https://borodust.org/projects/cl-bodge/"/>
+        <updated>2021-06-24T17:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://borodust.org/projects/cl-bodge/
+Comments URL: https://news.ycombinator.com/item?id=27621014
+Points: 15
+# Comments: 0]]></summary>
+        <author>
+            <name>bananaoomarang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
         <id>60d3ee396e1a1407b6b0b6ef</id>
@@ -17,7 +30,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform]]></title>
+        <title type="html"><![CDATA[Paperspace (YC W15) is hiring engineers to build a modern MLOps platform]]></title>
         <id>https://news.ycombinator.com/item?id=27620488</id>
         <link href="https://www.paperspace.com/careers"/>
         <updated>2021-06-24T17:00:41.000Z</updated>
@@ -36,10 +49,23 @@ Points: 1
         <updated>2021-06-24T16:52:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/
 Comments URL: https://news.ycombinator.com/item?id=27620319
-Points: 55
-# Comments: 3]]></summary>
+Points: 203
+# Comments: 42]]></summary>
         <author>
             <name>ameshkov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Banning of Joyce's Ulysses]]></title>
+        <id>https://news.ycombinator.com/item?id=27620299</id>
+        <link href="https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/"/>
+        <updated>2021-06-24T16:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/
+Comments URL: https://news.ycombinator.com/item?id=27620299
+Points: 20
+# Comments: 2]]></summary>
+        <author>
+            <name>okfine</name>
         </author>
     </entry>
     <entry>
@@ -53,29 +79,29 @@ Points: 55
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Developing Games on Linux: An Interview with Little Red Dog Games]]></title>
+        <id>https://news.ycombinator.com/item?id=27619977</id>
+        <link href="https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with"/>
+        <updated>2021-06-24T16:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with
+Comments URL: https://news.ycombinator.com/item?id=27619977
+Points: 31
+# Comments: 6]]></summary>
+        <author>
+            <name>nixcraft</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Next Backblaze Storage Pod]]></title>
         <id>https://news.ycombinator.com/item?id=27619672</id>
         <link href="https://www.backblaze.com/blog/next-backblaze-storage-pod/"/>
         <updated>2021-06-24T16:11:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/next-backblaze-storage-pod/
 Comments URL: https://news.ycombinator.com/item?id=27619672
-Points: 56
-# Comments: 16]]></summary>
+Points: 88
+# Comments: 25]]></summary>
         <author>
             <name>TangerineDream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Windows 11]]></title>
-        <id>https://news.ycombinator.com/item?id=27619354</id>
-        <link href="https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/"/>
-        <updated>2021-06-24T15:50:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/
-Comments URL: https://news.ycombinator.com/item?id=27619354
-Points: 173
-# Comments: 161]]></summary>
-        <author>
-            <name>WalterSobchak</name>
         </author>
     </entry>
     <entry>
@@ -85,10 +111,23 @@ Points: 173
         <updated>2021-06-24T15:40:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store
 Comments URL: https://news.ycombinator.com/item?id=27619191
-Points: 124
-# Comments: 59]]></summary>
+Points: 181
+# Comments: 95]]></summary>
         <author>
             <name>ArchUser2255</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My “Investment Mindset”]]></title>
+        <id>https://news.ycombinator.com/item?id=27619093</id>
+        <link href="https://blog.pragmaticengineer.com/the-investment-mindset/"/>
+        <updated>2021-06-24T15:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.pragmaticengineer.com/the-investment-mindset/
+Comments URL: https://news.ycombinator.com/item?id=27619093
+Points: 16
+# Comments: 0]]></summary>
+        <author>
+            <name>yarapavan</name>
         </author>
     </entry>
     <entry>
@@ -98,8 +137,8 @@ Points: 124
         <updated>2021-06-24T15:29:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.forbrukerradet.no/side/new-report-details-threats-to-consumers-from-surveillance-based-advertising/
 Comments URL: https://news.ycombinator.com/item?id=27619030
-Points: 66
-# Comments: 18]]></summary>
+Points: 112
+# Comments: 67]]></summary>
         <author>
             <name>dredmorbius</name>
         </author>
@@ -111,8 +150,8 @@ Points: 66
         <updated>2021-06-24T15:28:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html
 Comments URL: https://news.ycombinator.com/item?id=27619015
-Points: 65
-# Comments: 18]]></summary>
+Points: 92
+# Comments: 28]]></summary>
         <author>
             <name>friendly_chap</name>
         </author>
@@ -124,8 +163,8 @@ Points: 65
         <updated>2021-06-24T15:14:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates
 Comments URL: https://news.ycombinator.com/item?id=27618805
-Points: 139
-# Comments: 176]]></summary>
+Points: 218
+# Comments: 260]]></summary>
         <author>
             <name>neogodless</name>
         </author>
@@ -137,8 +176,8 @@ Points: 139
         <updated>2021-06-24T14:38:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users
 Comments URL: https://news.ycombinator.com/item?id=27618206
-Points: 253
-# Comments: 103]]></summary>
+Points: 300
+# Comments: 130]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -157,14 +196,27 @@ The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Canada: Hundreds of unmarked graves found at residential school]]></title>
+        <id>https://news.ycombinator.com/item?id=27617693</id>
+        <link href="https://www.bbc.com/news/world-us-canada-57592243"/>
+        <updated>2021-06-24T14:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-us-canada-57592243
+Comments URL: https://news.ycombinator.com/item?id=27617693
+Points: 127
+# Comments: 107]]></summary>
+        <author>
+            <name>akbarnama</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Canonical Offering Blender Support]]></title>
         <id>https://news.ycombinator.com/item?id=27617670</id>
         <link href="https://www.blender.org/press/canonical-offering-blender-support/"/>
         <updated>2021-06-24T14:08:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.blender.org/press/canonical-offering-blender-support/
 Comments URL: https://news.ycombinator.com/item?id=27617670
-Points: 113
-# Comments: 14]]></summary>
+Points: 127
+# Comments: 20]]></summary>
         <author>
             <name>asicsp</name>
         </author>
@@ -176,8 +228,8 @@ Points: 113
         <updated>2021-06-24T14:05:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://digiday.com/marketing/cheat-sheet-google-extends-cookie-execution-deadline-until-late-2023-will-pause-floc-testing-in-july/
 Comments URL: https://news.ycombinator.com/item?id=27617620
-Points: 68
-# Comments: 39]]></summary>
+Points: 79
+# Comments: 49]]></summary>
         <author>
             <name>lhpz</name>
         </author>
@@ -199,7 +251,7 @@ Points: 68
         <updated>2021-06-24T13:56:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloud.google.com/bigquery/docs/row-level-security-intro
 Comments URL: https://news.ycombinator.com/item?id=27617466
-Points: 51
+Points: 58
 # Comments: 6]]></summary>
         <author>
             <name>santhoshkumar3</name>
@@ -212,8 +264,8 @@ Points: 51
         <updated>2021-06-24T13:43:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco
 Comments URL: https://news.ycombinator.com/item?id=27617256
-Points: 168
-# Comments: 166]]></summary>
+Points: 197
+# Comments: 191]]></summary>
         <author>
             <name>fortran77</name>
         </author>
@@ -225,49 +277,10 @@ Points: 168
         <updated>2021-06-24T13:39:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.juststeveking.uk/introducing-laravel-transporter/
 Comments URL: https://news.ycombinator.com/item?id=27617196
-Points: 31
+Points: 32
 # Comments: 20]]></summary>
         <author>
             <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAA releases TRUST: Free online training required to fly drones recreationally]]></title>
-        <id>https://news.ycombinator.com/item?id=27617127</id>
-        <link href="https://dpreview.com/news/4668719994/faa-releases-trust-free-online-training-required-for-recreational-pilots-to-fly-legally"/>
-        <updated>2021-06-24T13:33:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dpreview.com/news/4668719994/faa-releases-trust-free-online-training-required-for-recreational-pilots-to-fly-legally
-Comments URL: https://news.ycombinator.com/item?id=27617127
-Points: 127
-# Comments: 136]]></summary>
-        <author>
-            <name>asix66</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Half of UK university students think degree is poor value for money]]></title>
-        <id>https://news.ycombinator.com/item?id=27617051</id>
-        <link href="https://www.theguardian.com/education/2021/jun/24/half-of-uk-university-students-think-degree-is-poor-value-for-money"/>
-        <updated>2021-06-24T13:26:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/education/2021/jun/24/half-of-uk-university-students-think-degree-is-poor-value-for-money
-Comments URL: https://news.ycombinator.com/item?id=27617051
-Points: 96
-# Comments: 102]]></summary>
-        <author>
-            <name>mocko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dawn of Haiku OS (2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=27616822</id>
-        <link href="https://spectrum.ieee.org/computing/software/the-dawn-of-haiku-os"/>
-        <updated>2021-06-24T13:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/computing/software/the-dawn-of-haiku-os
-Comments URL: https://news.ycombinator.com/item?id=27616822
-Points: 30
-# Comments: 9]]></summary>
-        <author>
-            <name>bitigchi</name>
         </author>
     </entry>
     <entry>
@@ -277,8 +290,8 @@ Points: 30
         <updated>2021-06-24T12:42:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html
 Comments URL: https://news.ycombinator.com/item?id=27616656
-Points: 50
-# Comments: 29]]></summary>
+Points: 62
+# Comments: 35]]></summary>
         <author>
             <name>zbentley</name>
         </author>
@@ -290,23 +303,10 @@ Points: 50
         <updated>2021-06-24T11:43:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/23/upshot/remote-work-innovation-office.html
 Comments URL: https://news.ycombinator.com/item?id=27616212
-Points: 238
-# Comments: 156]]></summary>
+Points: 259
+# Comments: 176]]></summary>
         <author>
             <name>remt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peter Thiel turned a Roth IRA into a $5B tax-free piggy bank]]></title>
-        <id>https://news.ycombinator.com/item?id=27616090</id>
-        <link href="https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank"/>
-        <updated>2021-06-24T11:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank
-Comments URL: https://news.ycombinator.com/item?id=27616090
-Points: 69
-# Comments: 41]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
@@ -883,23 +883,6 @@ The post Looking fine with Firefox 89 appeared first on Mozilla Hacks - the Web 
         <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carie Fisher)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.9.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
-        <updated>2021-05-26T06:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
-
-This feature is currently only available through custom template.
-iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
-No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
-You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
-Fixed: the articles in template data were not sorted.
-Thank you @Zenigata]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
