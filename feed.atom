@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T06:14:52.720Z</updated>
+    <updated>2021-06-25T07:09:30.110Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground” (1864)]]></title>
+        <id>https://news.ycombinator.com/item?id=27627552</id>
+        <link href="https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound"/>
+        <updated>2021-06-25T05:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound
+Comments URL: https://news.ycombinator.com/item?id=27627552
+Points: 19
+# Comments: 1]]></summary>
+        <author>
+            <name>prismatic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What Are You Learning?]]></title>
+        <id>https://news.ycombinator.com/item?id=27627381</id>
+        <link href="https://news.ycombinator.com/item?id=27627381"/>
+        <updated>2021-06-25T05:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Hey Hacker News, what are you learning?
+Personally I'm learning Elixir, and it's such a pleasant language. It feels great to write, and the packaging/build tools feel refreshing compared to the mess of Python.
+Now, handing you the mic. Is there a new stack or language on your mind?
+Comments URL: https://news.ycombinator.com/item?id=27627381
+Points: 18
+# Comments: 29]]></summary>
+        <author>
+            <name>sergiomattei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Logic?]]></title>
+        <id>https://news.ycombinator.com/item?id=27627076</id>
+        <link href="https://philonotes.com/index.php/2018/09/22/what-is-logic/https://philonotes.com/index.php/2018/09/22/what-is-logic/"/>
+        <updated>2021-06-25T04:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://philonotes.com/index.php/2018/09/22/what-is-logic/https://philonotes.com/index.php/2018/09/22/what-is-logic/
+Comments URL: https://news.ycombinator.com/item?id=27627076
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>danboarder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia Canvas]]></title>
         <id>https://news.ycombinator.com/item?id=27626610</id>
@@ -13,8 +54,8 @@
         <updated>2021-06-25T02:40:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nvidia.com/en-gb/studio/canvas/
 Comments URL: https://news.ycombinator.com/item?id=27626610
-Points: 129
-# Comments: 37]]></summary>
+Points: 177
+# Comments: 55]]></summary>
         <author>
             <name>forgingahead</name>
         </author>
@@ -26,8 +67,8 @@ Points: 129
         <updated>2021-06-25T02:16:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/stevage/opentrees
 Comments URL: https://news.ycombinator.com/item?id=27626467
-Points: 26
-# Comments: 0]]></summary>
+Points: 41
+# Comments: 1]]></summary>
         <author>
             <name>breck</name>
         </author>
@@ -39,23 +80,10 @@ Points: 26
         <updated>2021-06-25T02:04:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eng.snap.com/quic-at-snap
 Comments URL: https://news.ycombinator.com/item?id=27626394
-Points: 31
-# Comments: 5]]></summary>
+Points: 51
+# Comments: 11]]></summary>
         <author>
             <name>samk-snap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A bit of background on compilers exploiting signed overflow (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=27626182</id>
-        <link href="https://gist.github.com/rygorous/e0f055bfb74e3d5f0af20690759de5a7"/>
-        <updated>2021-06-25T01:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gist.github.com/rygorous/e0f055bfb74e3d5f0af20690759de5a7
-Comments URL: https://news.ycombinator.com/item?id=27626182
-Points: 10
-# Comments: 0]]></summary>
-        <author>
-            <name>eklitzke</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +93,8 @@ Points: 10
         <updated>2021-06-25T00:03:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eval.ai/
 Comments URL: https://news.ycombinator.com/item?id=27625511
-Points: 68
-# Comments: 11]]></summary>
+Points: 74
+# Comments: 14]]></summary>
         <author>
             <name>optimalsolver</name>
         </author>
@@ -78,8 +106,8 @@ Points: 68
         <updated>2021-06-24T23:44:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://argon2.online/
 Comments URL: https://news.ycombinator.com/item?id=27625370
-Points: 36
-# Comments: 8]]></summary>
+Points: 38
+# Comments: 12]]></summary>
         <author>
             <name>jmallone</name>
         </author>
@@ -91,8 +119,8 @@ Points: 36
         <updated>2021-06-24T22:30:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/
 Comments URL: https://news.ycombinator.com/item?id=27624735
-Points: 552
-# Comments: 325]]></summary>
+Points: 626
+# Comments: 366]]></summary>
         <author>
             <name>bjelkeman-again</name>
         </author>
@@ -104,8 +132,8 @@ Points: 552
         <updated>2021-06-24T22:01:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tinyacquisitions.com
 Comments URL: https://news.ycombinator.com/item?id=27624411
-Points: 271
-# Comments: 121]]></summary>
+Points: 285
+# Comments: 123]]></summary>
         <author>
             <name>mcone</name>
         </author>
@@ -130,8 +158,8 @@ Points: 1
         <updated>2021-06-24T20:53:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701
 Comments URL: https://news.ycombinator.com/item?id=27623605
-Points: 197
-# Comments: 105]]></summary>
+Points: 208
+# Comments: 108]]></summary>
         <author>
             <name>rayshan</name>
         </author>
@@ -143,8 +171,8 @@ Points: 197
         <updated>2021-06-24T19:54:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/
 Comments URL: https://news.ycombinator.com/item?id=27622988
-Points: 244
-# Comments: 298]]></summary>
+Points: 259
+# Comments: 320]]></summary>
         <author>
             <name>manikandarajs</name>
         </author>
@@ -156,23 +184,10 @@ Points: 244
         <updated>2021-06-24T19:38:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tindie.com/products/nsayer/crazy-clock/
 Comments URL: https://news.ycombinator.com/item?id=27622789
-Points: 220
-# Comments: 62]]></summary>
+Points: 228
+# Comments: 67]]></summary>
         <author>
             <name>cbsks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google turned me into a serial killer]]></title>
-        <id>https://news.ycombinator.com/item?id=27622100</id>
-        <link href="https://hristo-georgiev.com/google-turned-me-into-a-serial-killer"/>
-        <updated>2021-06-24T18:44:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hristo-georgiev.com/google-turned-me-into-a-serial-killer
-Comments URL: https://news.ycombinator.com/item?id=27622100
-Points: 699
-# Comments: 261]]></summary>
-        <author>
-            <name>Kaizeras</name>
         </author>
     </entry>
     <entry>
@@ -182,23 +197,10 @@ Points: 699
         <updated>2021-06-24T17:36:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://minimaxir.com/2021/06/gpt-j-6b/
 Comments URL: https://news.ycombinator.com/item?id=27621114
-Points: 127
+Points: 132
 # Comments: 20]]></summary>
         <author>
             <name>minimaxir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cl-bodge: a cross-platform Common Lisp game and application framework]]></title>
-        <id>https://news.ycombinator.com/item?id=27621014</id>
-        <link href="https://borodust.org/projects/cl-bodge/"/>
-        <updated>2021-06-24T17:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://borodust.org/projects/cl-bodge/
-Comments URL: https://news.ycombinator.com/item?id=27621014
-Points: 84
-# Comments: 28]]></summary>
-        <author>
-            <name>bananaoomarang</name>
         </author>
     </entry>
     <entry>
@@ -218,8 +220,8 @@ Points: 84
         <updated>2021-06-24T16:51:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/
 Comments URL: https://news.ycombinator.com/item?id=27620299
-Points: 74
-# Comments: 51]]></summary>
+Points: 79
+# Comments: 52]]></summary>
         <author>
             <name>okfine</name>
         </author>
@@ -241,8 +243,8 @@ Points: 74
         <updated>2021-06-24T16:32:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with
 Comments URL: https://news.ycombinator.com/item?id=27619977
-Points: 286
-# Comments: 142]]></summary>
+Points: 297
+# Comments: 146]]></summary>
         <author>
             <name>nixcraft</name>
         </author>
@@ -254,8 +256,8 @@ Points: 286
         <updated>2021-06-24T16:11:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/next-backblaze-storage-pod/
 Comments URL: https://news.ycombinator.com/item?id=27619672
-Points: 219
-# Comments: 97]]></summary>
+Points: 221
+# Comments: 101]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -267,7 +269,7 @@ Points: 219
         <updated>2021-06-24T15:28:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html
 Comments URL: https://news.ycombinator.com/item?id=27619015
-Points: 212
+Points: 223
 # Comments: 65]]></summary>
         <author>
             <name>friendly_chap</name>
@@ -303,8 +305,8 @@ The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-
         <updated>2021-06-24T07:34:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://3dasd.com/
 Comments URL: https://news.ycombinator.com/item?id=27614874
-Points: 197
-# Comments: 44]]></summary>
+Points: 205
+# Comments: 45]]></summary>
         <author>
             <name>dvoros</name>
         </author>
