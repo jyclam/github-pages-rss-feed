@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T05:10:08.074Z</updated>
+    <updated>2021-06-25T06:14:52.720Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,8 +13,8 @@
         <updated>2021-06-25T02:40:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nvidia.com/en-gb/studio/canvas/
 Comments URL: https://news.ycombinator.com/item?id=27626610
-Points: 75
-# Comments: 23]]></summary>
+Points: 129
+# Comments: 37]]></summary>
         <author>
             <name>forgingahead</name>
         </author>
@@ -26,7 +26,7 @@ Points: 75
         <updated>2021-06-25T02:16:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/stevage/opentrees
 Comments URL: https://news.ycombinator.com/item?id=27626467
-Points: 11
+Points: 26
 # Comments: 0]]></summary>
         <author>
             <name>breck</name>
@@ -39,10 +39,23 @@ Points: 11
         <updated>2021-06-25T02:04:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eng.snap.com/quic-at-snap
 Comments URL: https://news.ycombinator.com/item?id=27626394
-Points: 8
-# Comments: 0]]></summary>
+Points: 31
+# Comments: 5]]></summary>
         <author>
             <name>samk-snap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A bit of background on compilers exploiting signed overflow (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27626182</id>
+        <link href="https://gist.github.com/rygorous/e0f055bfb74e3d5f0af20690759de5a7"/>
+        <updated>2021-06-25T01:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gist.github.com/rygorous/e0f055bfb74e3d5f0af20690759de5a7
+Comments URL: https://news.ycombinator.com/item?id=27626182
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>eklitzke</name>
         </author>
     </entry>
     <entry>
@@ -52,7 +65,7 @@ Points: 8
         <updated>2021-06-25T00:03:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eval.ai/
 Comments URL: https://news.ycombinator.com/item?id=27625511
-Points: 59
+Points: 68
 # Comments: 11]]></summary>
         <author>
             <name>optimalsolver</name>
@@ -65,8 +78,8 @@ Points: 59
         <updated>2021-06-24T23:44:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://argon2.online/
 Comments URL: https://news.ycombinator.com/item?id=27625370
-Points: 34
-# Comments: 6]]></summary>
+Points: 36
+# Comments: 8]]></summary>
         <author>
             <name>jmallone</name>
         </author>
@@ -78,8 +91,8 @@ Points: 34
         <updated>2021-06-24T22:30:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/
 Comments URL: https://news.ycombinator.com/item?id=27624735
-Points: 477
-# Comments: 265]]></summary>
+Points: 552
+# Comments: 325]]></summary>
         <author>
             <name>bjelkeman-again</name>
         </author>
@@ -91,8 +104,8 @@ Points: 477
         <updated>2021-06-24T22:01:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tinyacquisitions.com
 Comments URL: https://news.ycombinator.com/item?id=27624411
-Points: 252
-# Comments: 115]]></summary>
+Points: 271
+# Comments: 121]]></summary>
         <author>
             <name>mcone</name>
         </author>
@@ -117,8 +130,8 @@ Points: 1
         <updated>2021-06-24T20:53:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701
 Comments URL: https://news.ycombinator.com/item?id=27623605
-Points: 187
-# Comments: 102]]></summary>
+Points: 197
+# Comments: 105]]></summary>
         <author>
             <name>rayshan</name>
         </author>
@@ -130,8 +143,8 @@ Points: 187
         <updated>2021-06-24T19:54:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/
 Comments URL: https://news.ycombinator.com/item?id=27622988
-Points: 229
-# Comments: 285]]></summary>
+Points: 244
+# Comments: 298]]></summary>
         <author>
             <name>manikandarajs</name>
         </author>
@@ -143,8 +156,8 @@ Points: 229
         <updated>2021-06-24T19:38:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tindie.com/products/nsayer/crazy-clock/
 Comments URL: https://news.ycombinator.com/item?id=27622789
-Points: 210
-# Comments: 59]]></summary>
+Points: 220
+# Comments: 62]]></summary>
         <author>
             <name>cbsks</name>
         </author>
@@ -156,8 +169,8 @@ Points: 210
         <updated>2021-06-24T18:44:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hristo-georgiev.com/google-turned-me-into-a-serial-killer
 Comments URL: https://news.ycombinator.com/item?id=27622100
-Points: 679
-# Comments: 251]]></summary>
+Points: 699
+# Comments: 261]]></summary>
         <author>
             <name>Kaizeras</name>
         </author>
@@ -169,8 +182,8 @@ Points: 679
         <updated>2021-06-24T17:36:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://minimaxir.com/2021/06/gpt-j-6b/
 Comments URL: https://news.ycombinator.com/item?id=27621114
-Points: 121
-# Comments: 19]]></summary>
+Points: 127
+# Comments: 20]]></summary>
         <author>
             <name>minimaxir</name>
         </author>
@@ -182,7 +195,7 @@ Points: 121
         <updated>2021-06-24T17:30:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://borodust.org/projects/cl-bodge/
 Comments URL: https://news.ycombinator.com/item?id=27621014
-Points: 80
+Points: 84
 # Comments: 28]]></summary>
         <author>
             <name>bananaoomarang</name>
@@ -205,8 +218,8 @@ Points: 80
         <updated>2021-06-24T16:51:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/
 Comments URL: https://news.ycombinator.com/item?id=27620299
-Points: 72
-# Comments: 49]]></summary>
+Points: 74
+# Comments: 51]]></summary>
         <author>
             <name>okfine</name>
         </author>
@@ -228,8 +241,8 @@ Points: 72
         <updated>2021-06-24T16:32:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with
 Comments URL: https://news.ycombinator.com/item?id=27619977
-Points: 281
-# Comments: 139]]></summary>
+Points: 286
+# Comments: 142]]></summary>
         <author>
             <name>nixcraft</name>
         </author>
@@ -241,23 +254,10 @@ Points: 281
         <updated>2021-06-24T16:11:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/next-backblaze-storage-pod/
 Comments URL: https://news.ycombinator.com/item?id=27619672
-Points: 216
-# Comments: 95]]></summary>
+Points: 219
+# Comments: 97]]></summary>
         <author>
             <name>TangerineDream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft is bringing Android apps to Windows 11]]></title>
-        <id>https://news.ycombinator.com/item?id=27619191</id>
-        <link href="https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store"/>
-        <updated>2021-06-24T15:40:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store
-Comments URL: https://news.ycombinator.com/item?id=27619191
-Points: 385
-# Comments: 244]]></summary>
-        <author>
-            <name>ArchUser2255</name>
         </author>
     </entry>
     <entry>
@@ -267,8 +267,8 @@ Points: 385
         <updated>2021-06-24T15:28:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html
 Comments URL: https://news.ycombinator.com/item?id=27619015
-Points: 208
-# Comments: 64]]></summary>
+Points: 212
+# Comments: 65]]></summary>
         <author>
             <name>friendly_chap</name>
         </author>
@@ -287,19 +287,6 @@ The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada: Hundreds of unmarked graves found at residential school]]></title>
-        <id>https://news.ycombinator.com/item?id=27617693</id>
-        <link href="https://www.bbc.com/news/world-us-canada-57592243"/>
-        <updated>2021-06-24T14:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-us-canada-57592243
-Comments URL: https://news.ycombinator.com/item?id=27617693
-Points: 317
-# Comments: 291]]></summary>
-        <author>
-            <name>akbarnama</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
         <id>https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
         <link href="https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/"/>
@@ -307,6 +294,19 @@ Points: 317
         <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Josh Singer)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: 3dasd – open-source DIY room-scale 3D scanner]]></title>
+        <id>https://news.ycombinator.com/item?id=27614874</id>
+        <link href="https://3dasd.com/"/>
+        <updated>2021-06-24T07:34:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://3dasd.com/
+Comments URL: https://news.ycombinator.com/item?id=27614874
+Points: 197
+# Comments: 44]]></summary>
+        <author>
+            <name>dvoros</name>
         </author>
     </entry>
     <entry>
