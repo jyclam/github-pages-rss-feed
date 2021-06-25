@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T00:41:06.691Z</updated>
+    <updated>2021-06-25T01:58:54.299Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Help All data in WD mybook live gone and owner password unknown]]></title>
+        <id>https://news.ycombinator.com/item?id=27625925</id>
+        <link href="https://community.wd.com/t/help-all-data-in-mybook-live-gone-and-owner-password-unknown/268111"/>
+        <updated>2021-06-25T01:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://community.wd.com/t/help-all-data-in-mybook-live-gone-and-owner-password-unknown/268111
+Comments URL: https://news.ycombinator.com/item?id=27625925
+Points: 27
+# Comments: 7]]></summary>
+        <author>
+            <name>sohkamyung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWT Tokens are NOT safe]]></title>
+        <id>https://news.ycombinator.com/item?id=27625822</id>
+        <link href="https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/"/>
+        <updated>2021-06-25T00:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/
+Comments URL: https://news.ycombinator.com/item?id=27625822
+Points: 91
+# Comments: 67]]></summary>
+        <author>
+            <name>node-bayarea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EvalAI: An Open-Source Alternative to Kaggle]]></title>
         <id>https://news.ycombinator.com/item?id=27625511</id>
@@ -13,10 +39,23 @@
         <updated>2021-06-25T00:03:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eval.ai/
 Comments URL: https://news.ycombinator.com/item?id=27625511
-Points: 4
-# Comments: 0]]></summary>
+Points: 24
+# Comments: 6]]></summary>
         <author>
             <name>optimalsolver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Password with Argon2 Algorithm, the Winner of the Password Hashing Competition]]></title>
+        <id>https://news.ycombinator.com/item?id=27625370</id>
+        <link href="https://argon2.online/"/>
+        <updated>2021-06-24T23:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://argon2.online/
+Comments URL: https://news.ycombinator.com/item?id=27625370
+Points: 14
+# Comments: 2]]></summary>
+        <author>
+            <name>jmallone</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +65,8 @@ Points: 4
         <updated>2021-06-24T22:30:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/
 Comments URL: https://news.ycombinator.com/item?id=27624735
-Points: 118
-# Comments: 77]]></summary>
+Points: 159
+# Comments: 114]]></summary>
         <author>
             <name>bjelkeman-again</name>
         </author>
@@ -39,8 +78,8 @@ Points: 118
         <updated>2021-06-24T22:01:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tinyacquisitions.com
 Comments URL: https://news.ycombinator.com/item?id=27624411
-Points: 154
-# Comments: 79]]></summary>
+Points: 191
+# Comments: 94]]></summary>
         <author>
             <name>mcone</name>
         </author>
@@ -52,8 +91,8 @@ Points: 154
         <updated>2021-06-24T21:44:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mobile.nixos.org/
 Comments URL: https://news.ycombinator.com/item?id=27624200
-Points: 62
-# Comments: 18]]></summary>
+Points: 70
+# Comments: 21]]></summary>
         <author>
             <name>SkyMarshal</name>
         </author>
@@ -78,8 +117,8 @@ Points: 1
         <updated>2021-06-24T20:53:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701
 Comments URL: https://news.ycombinator.com/item?id=27623605
-Points: 123
-# Comments: 77]]></summary>
+Points: 149
+# Comments: 91]]></summary>
         <author>
             <name>rayshan</name>
         </author>
@@ -91,8 +130,8 @@ Points: 123
         <updated>2021-06-24T19:54:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/
 Comments URL: https://news.ycombinator.com/item?id=27622988
-Points: 148
-# Comments: 196]]></summary>
+Points: 179
+# Comments: 232]]></summary>
         <author>
             <name>manikandarajs</name>
         </author>
@@ -104,8 +143,8 @@ Points: 148
         <updated>2021-06-24T19:38:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tindie.com/products/nsayer/crazy-clock/
 Comments URL: https://news.ycombinator.com/item?id=27622789
-Points: 180
-# Comments: 41]]></summary>
+Points: 189
+# Comments: 48]]></summary>
         <author>
             <name>cbsks</name>
         </author>
@@ -117,8 +156,8 @@ Points: 180
         <updated>2021-06-24T18:44:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hristo-georgiev.com/google-turned-me-into-a-serial-killer
 Comments URL: https://news.ycombinator.com/item?id=27622100
-Points: 593
-# Comments: 234]]></summary>
+Points: 619
+# Comments: 242]]></summary>
         <author>
             <name>Kaizeras</name>
         </author>
@@ -130,8 +169,8 @@ Points: 593
         <updated>2021-06-24T17:36:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://minimaxir.com/2021/06/gpt-j-6b/
 Comments URL: https://news.ycombinator.com/item?id=27621114
-Points: 82
-# Comments: 10]]></summary>
+Points: 100
+# Comments: 15]]></summary>
         <author>
             <name>minimaxir</name>
         </author>
@@ -143,8 +182,8 @@ Points: 82
         <updated>2021-06-24T17:30:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://borodust.org/projects/cl-bodge/
 Comments URL: https://news.ycombinator.com/item?id=27621014
-Points: 71
-# Comments: 21]]></summary>
+Points: 74
+# Comments: 22]]></summary>
         <author>
             <name>bananaoomarang</name>
         </author>
@@ -166,23 +205,10 @@ Points: 71
         <updated>2021-06-24T16:52:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://quad9.net/news/blog/quad9-and-sony-music-german-injunction-status/
 Comments URL: https://news.ycombinator.com/item?id=27620319
-Points: 396
-# Comments: 191]]></summary>
+Points: 400
+# Comments: 195]]></summary>
         <author>
             <name>ameshkov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Banning of Joyce's Ulysses]]></title>
-        <id>https://news.ycombinator.com/item?id=27620299</id>
-        <link href="https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/"/>
-        <updated>2021-06-24T16:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/
-Comments URL: https://news.ycombinator.com/item?id=27620299
-Points: 68
-# Comments: 44]]></summary>
-        <author>
-            <name>okfine</name>
         </author>
     </entry>
     <entry>
@@ -202,8 +228,8 @@ Points: 68
         <updated>2021-06-24T16:32:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with
 Comments URL: https://news.ycombinator.com/item?id=27619977
-Points: 239
-# Comments: 114]]></summary>
+Points: 252
+# Comments: 120]]></summary>
         <author>
             <name>nixcraft</name>
         </author>
@@ -215,8 +241,8 @@ Points: 239
         <updated>2021-06-24T16:11:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/next-backblaze-storage-pod/
 Comments URL: https://news.ycombinator.com/item?id=27619672
-Points: 202
-# Comments: 87]]></summary>
+Points: 205
+# Comments: 89]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -228,8 +254,8 @@ Points: 202
         <updated>2021-06-24T15:40:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store
 Comments URL: https://news.ycombinator.com/item?id=27619191
-Points: 330
-# Comments: 206]]></summary>
+Points: 342
+# Comments: 219]]></summary>
         <author>
             <name>ArchUser2255</name>
         </author>
@@ -241,23 +267,10 @@ Points: 330
         <updated>2021-06-24T15:28:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html
 Comments URL: https://news.ycombinator.com/item?id=27619015
-Points: 189
-# Comments: 54]]></summary>
+Points: 198
+# Comments: 59]]></summary>
         <author>
             <name>friendly_chap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft announces Windows 11]]></title>
-        <id>https://news.ycombinator.com/item?id=27618805</id>
-        <link href="https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates"/>
-        <updated>2021-06-24T15:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates
-Comments URL: https://news.ycombinator.com/item?id=27618805
-Points: 439
-# Comments: 529]]></summary>
-        <author>
-            <name>neogodless</name>
         </author>
     </entry>
     <entry>
@@ -280,8 +293,8 @@ The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-
         <updated>2021-06-24T14:09:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-us-canada-57592243
 Comments URL: https://news.ycombinator.com/item?id=27617693
-Points: 271
-# Comments: 246]]></summary>
+Points: 292
+# Comments: 261]]></summary>
         <author>
             <name>akbarnama</name>
         </author>
@@ -294,19 +307,6 @@ Points: 271
         <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Josh Singer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA can't figure out what's causing computer issues on the Hubble telescope]]></title>
-        <id>https://news.ycombinator.com/item?id=27617256</id>
-        <link href="https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco"/>
-        <updated>2021-06-24T13:43:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco
-Comments URL: https://news.ycombinator.com/item?id=27617256
-Points: 290
-# Comments: 290]]></summary>
-        <author>
-            <name>fortran77</name>
         </author>
     </entry>
     <entry>
@@ -873,16 +873,6 @@ The post Looking fine with Firefox 89 appeared first on Mozilla Hacks - the Web 
         <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
-        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
-        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
-        <updated>2021-05-26T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carie Fisher)</name>
         </author>
     </entry>
 </feed>
