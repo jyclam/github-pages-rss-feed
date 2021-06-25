@@ -2,21 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T08:13:01.797Z</updated>
+    <updated>2021-06-25T09:12:30.002Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[We can’t beat the climate crisis without rethinking land use]]></title>
-        <id>https://news.ycombinator.com/item?id=27627579</id>
-        <link href="https://www.brookings.edu/research/we-cant-beat-the-climate-crisis-without-rethinking-land-use/"/>
-        <updated>2021-06-25T05:59:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.brookings.edu/research/we-cant-beat-the-climate-crisis-without-rethinking-land-use/
-Comments URL: https://news.ycombinator.com/item?id=27627579
-Points: 22
-# Comments: 32]]></summary>
+        <title type="html"><![CDATA[El Salvador to airdrop $30 in Bitcoin to up to 6M citizens]]></title>
+        <id>https://news.ycombinator.com/item?id=27628386</id>
+        <link href="https://finance.yahoo.com/news/el-salvador-reveals-official-bitcoin-064414265.html"/>
+        <updated>2021-06-25T08:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://finance.yahoo.com/news/el-salvador-reveals-official-bitcoin-064414265.html
+Comments URL: https://news.ycombinator.com/item?id=27628386
+Points: 12
+# Comments: 4]]></summary>
         <author>
-            <name>vwoolf</name>
+            <name>lowkey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSH switches to using gender-neutral language]]></title>
+        <id>https://news.ycombinator.com/item?id=27628309</id>
+        <link href="https://github.com/openssh/openssh-portable/pull/256"/>
+        <updated>2021-06-25T08:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/openssh/openssh-portable/pull/256
+Comments URL: https://news.ycombinator.com/item?id=27628309
+Points: 18
+# Comments: 28]]></summary>
+        <author>
+            <name>thunderbong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Technical Summer Reading List]]></title>
+        <id>https://news.ycombinator.com/item?id=27628296</id>
+        <link href="https://news.ycombinator.com/item?id=27628296"/>
+        <updated>2021-06-25T08:13:58.000Z</updated>
+        <summary type="html"><![CDATA[I usually enjoy reading something thick and technical during my summer vacation, to learn something new and not necessarily work-related. This year, however, I am not sure which book to pick up. I would love to see what's on your summer reading lists.
+My recent favourites:
+Bayesian Data Analysis, 3rd ed, by Gelman et al
+Designing Data-Intensive Applications, by Martin Kleppmann
+The Art of Electronics, by Horowitz & Hill
+Comments URL: https://news.ycombinator.com/item?id=27628296
+Points: 12
+# Comments: 1]]></summary>
+        <author>
+            <name>grilledcheez</name>
         </author>
     </entry>
     <entry>
@@ -26,23 +56,10 @@ Points: 22
         <updated>2021-06-25T05:54:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound
 Comments URL: https://news.ycombinator.com/item?id=27627552
-Points: 31
+Points: 38
 # Comments: 2]]></summary>
         <author>
             <name>prismatic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Logic?]]></title>
-        <id>https://news.ycombinator.com/item?id=27627076</id>
-        <link href="https://philonotes.com/index.php/2018/09/22/what-is-logic/https://philonotes.com/index.php/2018/09/22/what-is-logic/"/>
-        <updated>2021-06-25T04:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://philonotes.com/index.php/2018/09/22/what-is-logic/https://philonotes.com/index.php/2018/09/22/what-is-logic/
-Comments URL: https://news.ycombinator.com/item?id=27627076
-Points: 11
-# Comments: 5]]></summary>
-        <author>
-            <name>danboarder</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +69,8 @@ Points: 11
         <updated>2021-06-25T04:08:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57586315
 Comments URL: https://news.ycombinator.com/item?id=27627052
-Points: 19
-# Comments: 5]]></summary>
+Points: 28
+# Comments: 12]]></summary>
         <author>
             <name>tomerbd</name>
         </author>
@@ -65,8 +82,8 @@ Points: 19
         <updated>2021-06-25T02:40:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nvidia.com/en-gb/studio/canvas/
 Comments URL: https://news.ycombinator.com/item?id=27626610
-Points: 222
-# Comments: 66]]></summary>
+Points: 254
+# Comments: 78]]></summary>
         <author>
             <name>forgingahead</name>
         </author>
@@ -78,8 +95,8 @@ Points: 222
         <updated>2021-06-25T02:16:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/stevage/opentrees
 Comments URL: https://news.ycombinator.com/item?id=27626467
-Points: 53
-# Comments: 2]]></summary>
+Points: 62
+# Comments: 4]]></summary>
         <author>
             <name>breck</name>
         </author>
@@ -91,8 +108,8 @@ Points: 53
         <updated>2021-06-25T02:04:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eng.snap.com/quic-at-snap
 Comments URL: https://news.ycombinator.com/item?id=27626394
-Points: 72
-# Comments: 15]]></summary>
+Points: 86
+# Comments: 19]]></summary>
         <author>
             <name>samk-snap</name>
         </author>
@@ -104,7 +121,7 @@ Points: 72
         <updated>2021-06-25T00:03:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eval.ai/
 Comments URL: https://news.ycombinator.com/item?id=27625511
-Points: 82
+Points: 88
 # Comments: 14]]></summary>
         <author>
             <name>optimalsolver</name>
@@ -117,8 +134,8 @@ Points: 82
         <updated>2021-06-24T22:30:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/
 Comments URL: https://news.ycombinator.com/item?id=27624735
-Points: 721
-# Comments: 401]]></summary>
+Points: 788
+# Comments: 436]]></summary>
         <author>
             <name>bjelkeman-again</name>
         </author>
@@ -130,8 +147,8 @@ Points: 721
         <updated>2021-06-24T22:01:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tinyacquisitions.com
 Comments URL: https://news.ycombinator.com/item?id=27624411
-Points: 298
-# Comments: 124]]></summary>
+Points: 303
+# Comments: 133]]></summary>
         <author>
             <name>mcone</name>
         </author>
@@ -156,8 +173,8 @@ Points: 1
         <updated>2021-06-24T20:53:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701
 Comments URL: https://news.ycombinator.com/item?id=27623605
-Points: 217
-# Comments: 109]]></summary>
+Points: 227
+# Comments: 112]]></summary>
         <author>
             <name>rayshan</name>
         </author>
@@ -169,8 +186,8 @@ Points: 217
         <updated>2021-06-24T19:54:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/
 Comments URL: https://news.ycombinator.com/item?id=27622988
-Points: 271
-# Comments: 330]]></summary>
+Points: 286
+# Comments: 345]]></summary>
         <author>
             <name>manikandarajs</name>
         </author>
@@ -182,8 +199,8 @@ Points: 271
         <updated>2021-06-24T19:38:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tindie.com/products/nsayer/crazy-clock/
 Comments URL: https://news.ycombinator.com/item?id=27622789
-Points: 241
-# Comments: 70]]></summary>
+Points: 247
+# Comments: 72]]></summary>
         <author>
             <name>cbsks</name>
         </author>
@@ -195,8 +212,8 @@ Points: 241
         <updated>2021-06-24T17:36:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://minimaxir.com/2021/06/gpt-j-6b/
 Comments URL: https://news.ycombinator.com/item?id=27621114
-Points: 142
-# Comments: 24]]></summary>
+Points: 147
+# Comments: 26]]></summary>
         <author>
             <name>minimaxir</name>
         </author>
@@ -218,8 +235,8 @@ Points: 142
         <updated>2021-06-24T16:51:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://crimereads.com/banned-books-ulysses-joyce-morris-ernst/
 Comments URL: https://news.ycombinator.com/item?id=27620299
-Points: 83
-# Comments: 54]]></summary>
+Points: 85
+# Comments: 57]]></summary>
         <author>
             <name>okfine</name>
         </author>
@@ -241,8 +258,8 @@ Points: 83
         <updated>2021-06-24T16:32:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with
 Comments URL: https://news.ycombinator.com/item?id=27619977
-Points: 308
-# Comments: 160]]></summary>
+Points: 318
+# Comments: 163]]></summary>
         <author>
             <name>nixcraft</name>
         </author>
@@ -254,7 +271,7 @@ Points: 308
         <updated>2021-06-24T16:11:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.backblaze.com/blog/next-backblaze-storage-pod/
 Comments URL: https://news.ycombinator.com/item?id=27619672
-Points: 231
+Points: 234
 # Comments: 102]]></summary>
         <author>
             <name>TangerineDream</name>
@@ -267,7 +284,7 @@ Points: 231
         <updated>2021-06-24T15:28:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html
 Comments URL: https://news.ycombinator.com/item?id=27619015
-Points: 232
+Points: 235
 # Comments: 67]]></summary>
         <author>
             <name>friendly_chap</name>
@@ -294,19 +311,6 @@ The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-
         <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Josh Singer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: 3dasd – open-source DIY room-scale 3D scanner]]></title>
-        <id>https://news.ycombinator.com/item?id=27614874</id>
-        <link href="https://3dasd.com/"/>
-        <updated>2021-06-24T07:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://3dasd.com/
-Comments URL: https://news.ycombinator.com/item?id=27614874
-Points: 207
-# Comments: 48]]></summary>
-        <author>
-            <name>dvoros</name>
         </author>
     </entry>
     <entry>
