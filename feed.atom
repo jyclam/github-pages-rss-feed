@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T14:10:47.676Z</updated>
+    <updated>2021-06-25T15:13:39.840Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS has acquired Wickr]]></title>
+        <id>https://news.ycombinator.com/item?id=27631324</id>
+        <link href="https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/"/>
+        <updated>2021-06-25T14:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/
+Comments URL: https://news.ycombinator.com/item?id=27631324
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>ramimac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cancel Pending API Requests to Show Correct Data]]></title>
+        <id>https://css-tricks.com/?p=342911</id>
+        <link href="https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/"/>
+        <updated>2021-06-25T14:33:33.000Z</updated>
+        <summary type="html"><![CDATA[I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.
+One problem quickly became evident: …
+The post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Georgi Nikoloff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving from Hey to Fastmail]]></title>
+        <id>https://news.ycombinator.com/item?id=27631243</id>
+        <link href="https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail"/>
+        <updated>2021-06-25T14:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail
+Comments URL: https://news.ycombinator.com/item?id=27631243
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>0xfacfac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS BugBust]]></title>
+        <id>https://news.ycombinator.com/item?id=27631116</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/"/>
+        <updated>2021-06-25T14:22:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/
+Comments URL: https://news.ycombinator.com/item?id=27631116
+Points: 16
+# Comments: 14]]></summary>
+        <author>
+            <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: In Emacs, is there an alternative to GPG encryption in Org Mode?]]></title>
+        <id>https://news.ycombinator.com/item?id=27630755</id>
+        <link href="https://news.ycombinator.com/item?id=27630755"/>
+        <updated>2021-06-25T13:50:55.000Z</updated>
+        <summary type="html"><![CDATA[It's GPG is starting to show it's age, Debian abandoning it for signing packages and it's general lack of usage.
+Was wondering how one could probably use https://github.com/FiloSottile/age or something.
+(Not an emacs pro, so sure don't know some of the trivial ways to use this)
+Comments URL: https://news.ycombinator.com/item?id=27630755
+Points: 13
+# Comments: 4]]></summary>
+        <author>
+            <name>timetosleep</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hacker reveals smart meters are spilling secrets about the Texas snowstorm]]></title>
         <id>https://news.ycombinator.com/item?id=27630651</id>
@@ -13,10 +79,23 @@
         <updated>2021-06-25T13:42:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/
 Comments URL: https://news.ycombinator.com/item?id=27630651
-Points: 16
-# Comments: 1]]></summary>
+Points: 79
+# Comments: 36]]></summary>
         <author>
             <name>certifiedloud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 1.17 is deprecating the traditional use of 'go get']]></title>
+        <id>https://news.ycombinator.com/item?id=27630625</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet"/>
+        <updated>2021-06-25T13:40:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet
+Comments URL: https://news.ycombinator.com/item?id=27630625
+Points: 93
+# Comments: 49]]></summary>
+        <author>
+            <name>nitinreddy88</name>
         </author>
     </entry>
     <entry>
@@ -26,23 +105,49 @@ Points: 16
         <updated>2021-06-25T13:24:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/denvercoder/status/1407540584223440897
 Comments URL: https://news.ycombinator.com/item?id=27630468
-Points: 36
-# Comments: 19]]></summary>
+Points: 130
+# Comments: 104]]></summary>
         <author>
             <name>mooreds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These alternatives to Gmail, Google Docs, and Drive will protect your privacy]]></title>
+        <title type="html"><![CDATA[Private Gmail and Docs alternatives: Proton, Skiff, and more]]></title>
         <id>https://news.ycombinator.com/item?id=27630397</id>
         <link href="https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives"/>
         <updated>2021-06-25T13:18:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives
 Comments URL: https://news.ycombinator.com/item?id=27630397
-Points: 15
-# Comments: 10]]></summary>
+Points: 41
+# Comments: 22]]></summary>
         <author>
             <name>janjones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A bad “fact” helped the lab-leak hypothesis go viral]]></title>
+        <id>https://news.ycombinator.com/item?id=27630311</id>
+        <link href="https://nautil.us/issue/102/hidden-truths/when-a-good-scientist-is-the-wrong-source"/>
+        <updated>2021-06-25T13:10:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/102/hidden-truths/when-a-good-scientist-is-the-wrong-source
+Comments URL: https://news.ycombinator.com/item?id=27630311
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>dnetesn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lola Programming Language]]></title>
+        <id>https://news.ycombinator.com/item?id=27630128</id>
+        <link href="https://lola.random-projects.net/"/>
+        <updated>2021-06-25T12:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lola.random-projects.net/
+Comments URL: https://news.ycombinator.com/item?id=27630128
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>komuW</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +170,8 @@ Points: 1
         <updated>2021-06-25T11:47:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv
 Comments URL: https://news.ycombinator.com/item?id=27629543
-Points: 115
-# Comments: 70]]></summary>
+Points: 171
+# Comments: 116]]></summary>
         <author>
             <name>codingclaws</name>
         </author>
@@ -78,8 +183,8 @@ Points: 115
         <updated>2021-06-25T11:36:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://goodereader.com/blog/electronic-readers/onyx-boox-mira-pro-is-a-25-inch-e-ink-monitor
 Comments URL: https://news.ycombinator.com/item?id=27629455
-Points: 50
-# Comments: 6]]></summary>
+Points: 71
+# Comments: 16]]></summary>
         <author>
             <name>Matrixik</name>
         </author>
@@ -101,8 +206,8 @@ Points: 50
         <updated>2021-06-25T11:24:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lkml.org/lkml/2021/6/18/153
 Comments URL: https://news.ycombinator.com/item?id=27629366
-Points: 200
-# Comments: 54]]></summary>
+Points: 270
+# Comments: 98]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -114,8 +219,8 @@ Points: 200
         <updated>2021-06-25T11:21:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/
 Comments URL: https://news.ycombinator.com/item?id=27629340
-Points: 62
-# Comments: 43]]></summary>
+Points: 77
+# Comments: 52]]></summary>
         <author>
             <name>meheleventyone</name>
         </author>
@@ -127,21 +232,21 @@ Points: 62
         <updated>2021-06-25T10:59:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/
 Comments URL: https://news.ycombinator.com/item?id=27629188
-Points: 93
-# Comments: 37]]></summary>
+Points: 127
+# Comments: 40]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NATO is looking to connect with startups amid fears over China’s lead in AI]]></title>
+        <title type="html"><![CDATA[NATO is looking to connect with startups]]></title>
         <id>https://news.ycombinator.com/item?id=27629132</id>
         <link href="https://sifted.eu/articles/nato-war-startups/"/>
         <updated>2021-06-25T10:51:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sifted.eu/articles/nato-war-startups/
 Comments URL: https://news.ycombinator.com/item?id=27629132
-Points: 33
-# Comments: 5]]></summary>
+Points: 65
+# Comments: 32]]></summary>
         <author>
             <name>rjmunro</name>
         </author>
@@ -153,36 +258,10 @@ Points: 33
         <updated>2021-06-25T10:46:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/24/1007914455/as-the-pandemic-recedes-millions-of-workers-are-saying-i-quit
 Comments URL: https://news.ycombinator.com/item?id=27629094
-Points: 152
-# Comments: 124]]></summary>
+Points: 209
+# Comments: 164]]></summary>
         <author>
             <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Millions Choose Simple Privacy Protection with DuckDuckGo]]></title>
-        <id>https://news.ycombinator.com/item?id=27629089</id>
-        <link href="https://spreadprivacy.com/duckduckgrowing/"/>
-        <updated>2021-06-25T10:46:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spreadprivacy.com/duckduckgrowing/
-Comments URL: https://news.ycombinator.com/item?id=27629089
-Points: 62
-# Comments: 39]]></summary>
-        <author>
-            <name>headalgorithm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Phoenix LiveView Works]]></title>
-        <id>https://news.ycombinator.com/item?id=27629016</id>
-        <link href="https://www.poeticoding.com/how-phoenix-liveview-works/"/>
-        <updated>2021-06-25T10:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.poeticoding.com/how-phoenix-liveview-works/
-Comments URL: https://news.ycombinator.com/item?id=27629016
-Points: 44
-# Comments: 16]]></summary>
-        <author>
-            <name>thibaut_barrere</name>
         </author>
     </entry>
     <entry>
@@ -192,8 +271,8 @@ Points: 44
         <updated>2021-06-25T10:16:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://robertsspaceindustries.com/roadmap/progress-tracker/teams
 Comments URL: https://news.ycombinator.com/item?id=27628957
-Points: 75
-# Comments: 80]]></summary>
+Points: 79
+# Comments: 105]]></summary>
         <author>
             <name>doener</name>
         </author>
@@ -205,8 +284,8 @@ Points: 75
         <updated>2021-06-25T10:10:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sifted.eu/articles/northvolt-raise/
 Comments URL: https://news.ycombinator.com/item?id=27628919
-Points: 82
-# Comments: 88]]></summary>
+Points: 85
+# Comments: 93]]></summary>
         <author>
             <name>imartin2k</name>
         </author>
@@ -219,71 +298,6 @@ Points: 82
         <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blood test that finds 50 types of cancer is accurate enough to be rolled out]]></title>
-        <id>https://news.ycombinator.com/item?id=27628740</id>
-        <link href="https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out"/>
-        <updated>2021-06-25T09:35:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out
-Comments URL: https://news.ycombinator.com/item?id=27628740
-Points: 234
-# Comments: 154]]></summary>
-        <author>
-            <name>kieranmaine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source Farming Robot]]></title>
-        <id>https://news.ycombinator.com/item?id=27628101</id>
-        <link href="https://farm.bot/"/>
-        <updated>2021-06-25T07:34:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://farm.bot/
-Comments URL: https://news.ycombinator.com/item?id=27628101
-Points: 142
-# Comments: 85]]></summary>
-        <author>
-            <name>antoinec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground” (1864)]]></title>
-        <id>https://news.ycombinator.com/item?id=27627552</id>
-        <link href="https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound"/>
-        <updated>2021-06-25T05:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound
-Comments URL: https://news.ycombinator.com/item?id=27627552
-Points: 85
-# Comments: 5]]></summary>
-        <author>
-            <name>prismatic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New type of ancient human discovered in Israel]]></title>
-        <id>https://news.ycombinator.com/item?id=27627052</id>
-        <link href="https://www.bbc.com/news/science-environment-57586315"/>
-        <updated>2021-06-25T04:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57586315
-Comments URL: https://news.ycombinator.com/item?id=27627052
-Points: 78
-# Comments: 54]]></summary>
-        <author>
-            <name>tomerbd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Canvas]]></title>
-        <id>https://news.ycombinator.com/item?id=27626610</id>
-        <link href="https://www.nvidia.com/en-gb/studio/canvas/"/>
-        <updated>2021-06-25T02:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nvidia.com/en-gb/studio/canvas/
-Comments URL: https://news.ycombinator.com/item?id=27626610
-Points: 416
-# Comments: 131]]></summary>
-        <author>
-            <name>forgingahead</name>
         </author>
     </entry>
     <entry>
@@ -644,20 +658,6 @@ I've revolutionized CSS. pic.twitter.com/1AWCldyCwP
 
 …
 The post Inline Styles as Classes (lol) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful and Useless Code Comments]]></title>
-        <id>https://css-tricks.com/?p=342630</id>
-        <link href="https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/"/>
-        <updated>2021-06-16T19:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Jim Nielsen: 
-If somebody says a comment isn’t adding any value, I would ask: to whom?
-Personally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.
-Jim showed …
-The post Useful and Useless Code Comments appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
