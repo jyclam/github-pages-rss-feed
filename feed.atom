@@ -2,21 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T15:13:39.840Z</updated>
+    <updated>2021-06-25T16:17:39.113Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[AWS has acquired Wickr]]></title>
-        <id>https://news.ycombinator.com/item?id=27631324</id>
-        <link href="https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/"/>
-        <updated>2021-06-25T14:38:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/
-Comments URL: https://news.ycombinator.com/item?id=27631324
-Points: 10
+        <title type="html"><![CDATA[Microsoft's Introduction to Rust Video Course]]></title>
+        <id>https://news.ycombinator.com/item?id=27632108</id>
+        <link href="https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#"/>
+        <updated>2021-06-25T15:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#
+Comments URL: https://news.ycombinator.com/item?id=27632108
+Points: 11
 # Comments: 0]]></summary>
         <author>
-            <name>ramimac</name>
+            <name>adamnemecek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slamming political rivals may be the most effective way to go viral]]></title>
+        <id>https://news.ycombinator.com/item?id=27631961</id>
+        <link href="https://www.cam.ac.uk/stories/viralpolitics"/>
+        <updated>2021-06-25T15:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cam.ac.uk/stories/viralpolitics
+Comments URL: https://news.ycombinator.com/item?id=27631961
+Points: 28
+# Comments: 11]]></summary>
+        <author>
+            <name>hhs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hierarchical Structures in PostgreSQL]]></title>
+        <id>https://news.ycombinator.com/item?id=27631765</id>
+        <link href="https://hoverbear.org/blog/postgresql-hierarchical-structures/"/>
+        <updated>2021-06-25T15:10:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hoverbear.org/blog/postgresql-hierarchical-structures/
+Comments URL: https://news.ycombinator.com/item?id=27631765
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Closing the world's schools caused children great harm]]></title>
+        <id>https://news.ycombinator.com/item?id=27631533</id>
+        <link href="https://www.economist.com/leaders/2021/06/24/closing-the-worlds-schools-caused-children-great-harm"/>
+        <updated>2021-06-25T14:53:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/leaders/2021/06/24/closing-the-worlds-schools-caused-children-great-harm
+Comments URL: https://news.ycombinator.com/item?id=27631533
+Points: 33
+# Comments: 20]]></summary>
+        <author>
+            <name>AndrewBissell</name>
         </author>
     </entry>
     <entry>
@@ -38,8 +77,8 @@ The post How to Cancel Pending API Requests to Show Correct Data appeared first 
         <updated>2021-06-25T14:31:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail
 Comments URL: https://news.ycombinator.com/item?id=27631243
-Points: 11
-# Comments: 0]]></summary>
+Points: 53
+# Comments: 2]]></summary>
         <author>
             <name>0xfacfac</name>
         </author>
@@ -51,8 +90,8 @@ Points: 11
         <updated>2021-06-25T14:22:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/
 Comments URL: https://news.ycombinator.com/item?id=27631116
-Points: 16
-# Comments: 14]]></summary>
+Points: 60
+# Comments: 34]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -66,8 +105,8 @@ Points: 16
 Was wondering how one could probably use https://github.com/FiloSottile/age or something.
 (Not an emacs pro, so sure don't know some of the trivial ways to use this)
 Comments URL: https://news.ycombinator.com/item?id=27630755
-Points: 13
-# Comments: 4]]></summary>
+Points: 26
+# Comments: 11]]></summary>
         <author>
             <name>timetosleep</name>
         </author>
@@ -79,8 +118,8 @@ Points: 13
         <updated>2021-06-25T13:42:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/
 Comments URL: https://news.ycombinator.com/item?id=27630651
-Points: 79
-# Comments: 36]]></summary>
+Points: 130
+# Comments: 76]]></summary>
         <author>
             <name>certifiedloud</name>
         </author>
@@ -92,8 +131,8 @@ Points: 79
         <updated>2021-06-25T13:40:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet
 Comments URL: https://news.ycombinator.com/item?id=27630625
-Points: 93
-# Comments: 49]]></summary>
+Points: 146
+# Comments: 91]]></summary>
         <author>
             <name>nitinreddy88</name>
         </author>
@@ -105,8 +144,8 @@ Points: 93
         <updated>2021-06-25T13:24:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/denvercoder/status/1407540584223440897
 Comments URL: https://news.ycombinator.com/item?id=27630468
-Points: 130
-# Comments: 104]]></summary>
+Points: 172
+# Comments: 150]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -118,36 +157,10 @@ Points: 130
         <updated>2021-06-25T13:18:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives
 Comments URL: https://news.ycombinator.com/item?id=27630397
-Points: 41
-# Comments: 22]]></summary>
+Points: 66
+# Comments: 32]]></summary>
         <author>
             <name>janjones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A bad “fact” helped the lab-leak hypothesis go viral]]></title>
-        <id>https://news.ycombinator.com/item?id=27630311</id>
-        <link href="https://nautil.us/issue/102/hidden-truths/when-a-good-scientist-is-the-wrong-source"/>
-        <updated>2021-06-25T13:10:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/102/hidden-truths/when-a-good-scientist-is-the-wrong-source
-Comments URL: https://news.ycombinator.com/item?id=27630311
-Points: 3
-# Comments: 0]]></summary>
-        <author>
-            <name>dnetesn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Lola Programming Language]]></title>
-        <id>https://news.ycombinator.com/item?id=27630128</id>
-        <link href="https://lola.random-projects.net/"/>
-        <updated>2021-06-25T12:53:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lola.random-projects.net/
-Comments URL: https://news.ycombinator.com/item?id=27630128
-Points: 6
-# Comments: 1]]></summary>
-        <author>
-            <name>komuW</name>
         </author>
     </entry>
     <entry>
@@ -164,29 +177,16 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I was let go for refusing to deploy a dark pattern]]></title>
+        <title type="html"><![CDATA[I was let go for refusing to deploy a dark pattern]]></title>
         <id>https://news.ycombinator.com/item?id=27629543</id>
         <link href="https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv"/>
         <updated>2021-06-25T11:47:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv
 Comments URL: https://news.ycombinator.com/item?id=27629543
-Points: 171
-# Comments: 116]]></summary>
+Points: 232
+# Comments: 172]]></summary>
         <author>
             <name>codingclaws</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onyx Boox Mira Pro is a 25 inch E INK Monitor]]></title>
-        <id>https://news.ycombinator.com/item?id=27629455</id>
-        <link href="https://goodereader.com/blog/electronic-readers/onyx-boox-mira-pro-is-a-25-inch-e-ink-monitor"/>
-        <updated>2021-06-25T11:36:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://goodereader.com/blog/electronic-readers/onyx-boox-mira-pro-is-a-25-inch-e-ink-monitor
-Comments URL: https://news.ycombinator.com/item?id=27629455
-Points: 71
-# Comments: 16]]></summary>
-        <author>
-            <name>Matrixik</name>
         </author>
     </entry>
     <entry>
@@ -206,8 +206,8 @@ Points: 71
         <updated>2021-06-25T11:24:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lkml.org/lkml/2021/6/18/153
 Comments URL: https://news.ycombinator.com/item?id=27629366
-Points: 270
-# Comments: 98]]></summary>
+Points: 325
+# Comments: 134]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -219,8 +219,8 @@ Points: 270
         <updated>2021-06-25T11:21:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/
 Comments URL: https://news.ycombinator.com/item?id=27629340
-Points: 77
-# Comments: 52]]></summary>
+Points: 101
+# Comments: 64]]></summary>
         <author>
             <name>meheleventyone</name>
         </author>
@@ -232,8 +232,8 @@ Points: 77
         <updated>2021-06-25T10:59:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/
 Comments URL: https://news.ycombinator.com/item?id=27629188
-Points: 127
-# Comments: 40]]></summary>
+Points: 147
+# Comments: 43]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -245,8 +245,8 @@ Points: 127
         <updated>2021-06-25T10:51:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sifted.eu/articles/nato-war-startups/
 Comments URL: https://news.ycombinator.com/item?id=27629132
-Points: 65
-# Comments: 32]]></summary>
+Points: 75
+# Comments: 58]]></summary>
         <author>
             <name>rjmunro</name>
         </author>
@@ -258,8 +258,8 @@ Points: 65
         <updated>2021-06-25T10:46:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/24/1007914455/as-the-pandemic-recedes-millions-of-workers-are-saying-i-quit
 Comments URL: https://news.ycombinator.com/item?id=27629094
-Points: 209
-# Comments: 164]]></summary>
+Points: 250
+# Comments: 192]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -271,23 +271,10 @@ Points: 209
         <updated>2021-06-25T10:16:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://robertsspaceindustries.com/roadmap/progress-tracker/teams
 Comments URL: https://news.ycombinator.com/item?id=27628957
-Points: 79
-# Comments: 105]]></summary>
+Points: 103
+# Comments: 136]]></summary>
         <author>
             <name>doener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Northvolt solve Europe’s impending electric car battery problem?]]></title>
-        <id>https://news.ycombinator.com/item?id=27628919</id>
-        <link href="https://sifted.eu/articles/northvolt-raise/"/>
-        <updated>2021-06-25T10:10:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sifted.eu/articles/northvolt-raise/
-Comments URL: https://news.ycombinator.com/item?id=27628919
-Points: 85
-# Comments: 93]]></summary>
-        <author>
-            <name>imartin2k</name>
         </author>
     </entry>
     <entry>
@@ -298,6 +285,19 @@ Points: 85
         <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blood test that finds 50 types of cancer is accurate enough to be rolled out]]></title>
+        <id>https://news.ycombinator.com/item?id=27628740</id>
+        <link href="https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out"/>
+        <updated>2021-06-25T09:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out
+Comments URL: https://news.ycombinator.com/item?id=27628740
+Points: 341
+# Comments: 232]]></summary>
+        <author>
+            <name>kieranmaine</name>
         </author>
     </entry>
     <entry>
