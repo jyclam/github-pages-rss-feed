@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T18:14:01.738Z</updated>
+    <updated>2021-06-25T19:09:22.108Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[C# as you know it but with Go-like tooling (small, selfcontained, native exes)]]></title>
+        <id>https://news.ycombinator.com/item?id=27634456</id>
+        <link href="https://github.com/MichalStrehovsky/bflat"/>
+        <updated>2021-06-25T18:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/MichalStrehovsky/bflat
+Comments URL: https://news.ycombinator.com/item?id=27634456
+Points: 68
+# Comments: 16]]></summary>
+        <author>
+            <name>tate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jitx (YC S18) is hiring to automate circuit board design]]></title>
         <id>https://news.ycombinator.com/item?id=27633416</id>
@@ -26,23 +39,10 @@ Points: 1
         <updated>2021-06-25T16:57:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/yorecomputer
 Comments URL: https://news.ycombinator.com/item?id=27633381
-Points: 8
-# Comments: 0]]></summary>
+Points: 29
+# Comments: 9]]></summary>
         <author>
             <name>diaphanous</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can the Māori Connection to Antarctica Help Safeguard the Continent’s Future?]]></title>
-        <id>https://news.ycombinator.com/item?id=27633278</id>
-        <link href="https://www.atlasobscura.com/articles/maori-polynesian-antarctica-history-conservation"/>
-        <updated>2021-06-25T16:49:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/maori-polynesian-antarctica-history-conservation
-Comments URL: https://news.ycombinator.com/item?id=27633278
-Points: 6
-# Comments: 0]]></summary>
-        <author>
-            <name>Petiver</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +52,8 @@ Points: 6
         <updated>2021-06-25T15:36:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#
 Comments URL: https://news.ycombinator.com/item?id=27632108
-Points: 93
-# Comments: 17]]></summary>
+Points: 139
+# Comments: 29]]></summary>
         <author>
             <name>adamnemecek</name>
         </author>
@@ -65,8 +65,8 @@ Points: 93
         <updated>2021-06-25T15:25:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cam.ac.uk/stories/viralpolitics
 Comments URL: https://news.ycombinator.com/item?id=27631961
-Points: 75
-# Comments: 62]]></summary>
+Points: 94
+# Comments: 92]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -78,8 +78,8 @@ Points: 75
         <updated>2021-06-25T15:24:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/pdf/10.1145/3460095
 Comments URL: https://news.ycombinator.com/item?id=27631950
-Points: 13
-# Comments: 0]]></summary>
+Points: 40
+# Comments: 16]]></summary>
         <author>
             <name>riyakhanna1983</name>
         </author>
@@ -91,10 +91,23 @@ Points: 13
         <updated>2021-06-25T15:10:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hoverbear.org/blog/postgresql-hierarchical-structures/
 Comments URL: https://news.ycombinator.com/item?id=27631765
-Points: 61
-# Comments: 9]]></summary>
+Points: 128
+# Comments: 22]]></summary>
         <author>
             <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS acquires Wickr]]></title>
+        <id>https://news.ycombinator.com/item?id=27631324</id>
+        <link href="https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/"/>
+        <updated>2021-06-25T14:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/
+Comments URL: https://news.ycombinator.com/item?id=27631324
+Points: 70
+# Comments: 67]]></summary>
+        <author>
+            <name>ramimac</name>
         </author>
     </entry>
     <entry>
@@ -116,8 +129,8 @@ The post How to Cancel Pending API Requests to Show Correct Data appeared first 
         <updated>2021-06-25T14:31:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail
 Comments URL: https://news.ycombinator.com/item?id=27631243
-Points: 86
-# Comments: 17]]></summary>
+Points: 115
+# Comments: 39]]></summary>
         <author>
             <name>0xfacfac</name>
         </author>
@@ -129,8 +142,8 @@ Points: 86
         <updated>2021-06-25T14:22:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/
 Comments URL: https://news.ycombinator.com/item?id=27631116
-Points: 101
-# Comments: 59]]></summary>
+Points: 127
+# Comments: 91]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -144,8 +157,8 @@ Points: 101
 Was wondering how one could probably use https://github.com/FiloSottile/age or something.
 (Not an emacs pro, so sure don't know some of the trivial ways to use this)
 Comments URL: https://news.ycombinator.com/item?id=27630755
-Points: 40
-# Comments: 17]]></summary>
+Points: 54
+# Comments: 27]]></summary>
         <author>
             <name>timetosleep</name>
         </author>
@@ -157,8 +170,8 @@ Points: 40
         <updated>2021-06-25T13:42:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/
 Comments URL: https://news.ycombinator.com/item?id=27630651
-Points: 172
-# Comments: 105]]></summary>
+Points: 204
+# Comments: 143]]></summary>
         <author>
             <name>certifiedloud</name>
         </author>
@@ -170,8 +183,8 @@ Points: 172
         <updated>2021-06-25T13:40:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet
 Comments URL: https://news.ycombinator.com/item?id=27630625
-Points: 178
-# Comments: 127]]></summary>
+Points: 207
+# Comments: 162]]></summary>
         <author>
             <name>nitinreddy88</name>
         </author>
@@ -183,8 +196,8 @@ Points: 178
         <updated>2021-06-25T13:18:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives
 Comments URL: https://news.ycombinator.com/item?id=27630397
-Points: 89
-# Comments: 42]]></summary>
+Points: 107
+# Comments: 52]]></summary>
         <author>
             <name>janjones</name>
         </author>
@@ -196,8 +209,8 @@ Points: 89
         <updated>2021-06-25T11:47:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv
 Comments URL: https://news.ycombinator.com/item?id=27629543
-Points: 316
-# Comments: 219]]></summary>
+Points: 379
+# Comments: 294]]></summary>
         <author>
             <name>codingclaws</name>
         </author>
@@ -213,14 +226,14 @@ Points: 316
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux Kernel maintainer to Huawei: Don't waste maintainers time]]></title>
+        <title type="html"><![CDATA[“Please don't waste maintainers' time on your KPI grabbing patches”]]></title>
         <id>https://news.ycombinator.com/item?id=27629366</id>
         <link href="https://lkml.org/lkml/2021/6/18/153"/>
         <updated>2021-06-25T11:24:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lkml.org/lkml/2021/6/18/153
 Comments URL: https://news.ycombinator.com/item?id=27629366
-Points: 374
-# Comments: 155]]></summary>
+Points: 411
+# Comments: 187]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -232,8 +245,8 @@ Points: 374
         <updated>2021-06-25T11:21:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/
 Comments URL: https://news.ycombinator.com/item?id=27629340
-Points: 125
-# Comments: 76]]></summary>
+Points: 148
+# Comments: 115]]></summary>
         <author>
             <name>meheleventyone</name>
         </author>
@@ -245,8 +258,8 @@ Points: 125
         <updated>2021-06-25T10:59:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/
 Comments URL: https://news.ycombinator.com/item?id=27629188
-Points: 167
-# Comments: 64]]></summary>
+Points: 185
+# Comments: 114]]></summary>
         <author>
             <name>TangerineDream</name>
         </author>
@@ -258,23 +271,10 @@ Points: 167
         <updated>2021-06-25T10:51:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sifted.eu/articles/nato-war-startups/
 Comments URL: https://news.ycombinator.com/item?id=27629132
-Points: 85
-# Comments: 76]]></summary>
+Points: 93
+# Comments: 91]]></summary>
         <author>
             <name>rjmunro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As the Pandemic Recedes, Millions of Workers Are Saying 'I Quit']]></title>
-        <id>https://news.ycombinator.com/item?id=27629094</id>
-        <link href="https://www.npr.org/2021/06/24/1007914455/as-the-pandemic-recedes-millions-of-workers-are-saying-i-quit"/>
-        <updated>2021-06-25T10:46:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/24/1007914455/as-the-pandemic-recedes-millions-of-workers-are-saying-i-quit
-Comments URL: https://news.ycombinator.com/item?id=27629094
-Points: 275
-# Comments: 217]]></summary>
-        <author>
-            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
@@ -284,8 +284,8 @@ Points: 275
         <updated>2021-06-25T10:16:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://robertsspaceindustries.com/roadmap/progress-tracker/teams
 Comments URL: https://news.ycombinator.com/item?id=27628957
-Points: 120
-# Comments: 150]]></summary>
+Points: 134
+# Comments: 174]]></summary>
         <author>
             <name>doener</name>
         </author>
