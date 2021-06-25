@@ -2,21 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T19:09:22.108Z</updated>
+    <updated>2021-06-25T20:11:46.461Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[C# as you know it but with Go-like tooling (small, selfcontained, native exes)]]></title>
+        <title type="html"><![CDATA[XMPP vs. Matrix]]></title>
+        <id>https://news.ycombinator.com/item?id=27635547</id>
+        <link href="https://wiki.404.city/en/XMPP_vs_Matrix"/>
+        <updated>2021-06-25T20:01:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wiki.404.city/en/XMPP_vs_Matrix
+Comments URL: https://news.ycombinator.com/item?id=27635547
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>MYEUHD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User Inyerface – A worst-practice UI experiment]]></title>
+        <id>https://news.ycombinator.com/item?id=27635310</id>
+        <link href="https://userinyerface.com/"/>
+        <updated>2021-06-25T19:37:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://userinyerface.com/
+Comments URL: https://news.ycombinator.com/item?id=27635310
+Points: 55
+# Comments: 8]]></summary>
+        <author>
+            <name>andyjih_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Group Video Calls]]></title>
+        <id>https://news.ycombinator.com/item?id=27635101</id>
+        <link href="https://telegram.org/blog/group-video-calls"/>
+        <updated>2021-06-25T19:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://telegram.org/blog/group-video-calls
+Comments URL: https://news.ycombinator.com/item?id=27635101
+Points: 44
+# Comments: 6]]></summary>
+        <author>
+            <name>jhabdas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Querying Parquet with Precision Using DuckDB]]></title>
+        <id>https://news.ycombinator.com/item?id=27634840</id>
+        <link href="https://duckdb.org/2021/06/25/querying-parquet.html"/>
+        <updated>2021-06-25T18:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://duckdb.org/2021/06/25/querying-parquet.html
+Comments URL: https://news.ycombinator.com/item?id=27634840
+Points: 21
+# Comments: 2]]></summary>
+        <author>
+            <name>mytherin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Property Brain Twisters]]></title>
+        <id>https://css-tricks.com/?p=342718</id>
+        <link href="https://css-tricks.com/custom-property-brain-twisters/"/>
+        <updated>2021-06-25T18:39:46.000Z</updated>
+        <summary type="html"><![CDATA[I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.
+The post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemical Space Is Big. Really Big. (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=27634549</id>
+        <link href="https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article"/>
+        <updated>2021-06-25T18:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article
+Comments URL: https://news.ycombinator.com/item?id=27634549
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>optimalsolver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bflat: C# as you know it but with Go-like tooling]]></title>
         <id>https://news.ycombinator.com/item?id=27634456</id>
         <link href="https://github.com/MichalStrehovsky/bflat"/>
         <updated>2021-06-25T18:18:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/MichalStrehovsky/bflat
 Comments URL: https://news.ycombinator.com/item?id=27634456
-Points: 68
-# Comments: 16]]></summary>
+Points: 136
+# Comments: 41]]></summary>
         <author>
             <name>tate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A man whose software ate the world]]></title>
+        <id>https://news.ycombinator.com/item?id=27634319</id>
+        <link href="https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world"/>
+        <updated>2021-06-25T18:08:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world
+Comments URL: https://news.ycombinator.com/item?id=27634319
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>jger15</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Did Congress Just Vote to Break Up Big Tech? – Big by Matt Stoller]]></title>
+        <id>https://news.ycombinator.com/item?id=27634314</id>
+        <link href="https://mattstoller.substack.com/p/why-did-congress-just-vote-to-break"/>
+        <updated>2021-06-25T18:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mattstoller.substack.com/p/why-did-congress-just-vote-to-break
+Comments URL: https://news.ycombinator.com/item?id=27634314
+Points: 37
+# Comments: 0]]></summary>
+        <author>
+            <name>Jerry2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming Paradigms for Dummies: What Every Programmer Should Know (2009) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27633811</id>
+        <link href="https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf"/>
+        <updated>2021-06-25T17:28:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
+Comments URL: https://news.ycombinator.com/item?id=27633811
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>pedrodelfino</name>
         </author>
     </entry>
     <entry>
@@ -39,60 +154,34 @@ Points: 1
         <updated>2021-06-25T16:57:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/yorecomputer
 Comments URL: https://news.ycombinator.com/item?id=27633381
-Points: 29
-# Comments: 9]]></summary>
+Points: 33
+# Comments: 8]]></summary>
         <author>
             <name>diaphanous</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft's Introduction to Rust Video Course]]></title>
-        <id>https://news.ycombinator.com/item?id=27632108</id>
-        <link href="https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#"/>
-        <updated>2021-06-25T15:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#
-Comments URL: https://news.ycombinator.com/item?id=27632108
-Points: 139
-# Comments: 29]]></summary>
-        <author>
-            <name>adamnemecek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slamming political rivals may be the most effective way to go viral]]></title>
-        <id>https://news.ycombinator.com/item?id=27631961</id>
-        <link href="https://www.cam.ac.uk/stories/viralpolitics"/>
-        <updated>2021-06-25T15:25:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cam.ac.uk/stories/viralpolitics
-Comments URL: https://news.ycombinator.com/item?id=27631961
-Points: 94
-# Comments: 92]]></summary>
-        <author>
-            <name>hhs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where did my 256 GB go? Mobile storage Analysis]]></title>
+        <title type="html"><![CDATA[Where did my 256 GB go? Mobile storage Analysis [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=27631950</id>
         <link href="https://dl.acm.org/doi/pdf/10.1145/3460095"/>
         <updated>2021-06-25T15:24:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/pdf/10.1145/3460095
 Comments URL: https://news.ycombinator.com/item?id=27631950
-Points: 40
-# Comments: 16]]></summary>
+Points: 56
+# Comments: 39]]></summary>
         <author>
             <name>riyakhanna1983</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hierarchical Structures in PostgreSQL]]></title>
+        <title type="html"><![CDATA[Hierarchical Structures in PostgreSQL (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27631765</id>
         <link href="https://hoverbear.org/blog/postgresql-hierarchical-structures/"/>
         <updated>2021-06-25T15:10:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hoverbear.org/blog/postgresql-hierarchical-structures/
 Comments URL: https://news.ycombinator.com/item?id=27631765
-Points: 128
-# Comments: 22]]></summary>
+Points: 151
+# Comments: 29]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -104,8 +193,8 @@ Points: 128
         <updated>2021-06-25T14:38:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/
 Comments URL: https://news.ycombinator.com/item?id=27631324
-Points: 70
-# Comments: 67]]></summary>
+Points: 87
+# Comments: 75]]></summary>
         <author>
             <name>ramimac</name>
         </author>
@@ -123,27 +212,14 @@ The post How to Cancel Pending API Requests to Show Correct Data appeared first 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moving from Hey to Fastmail]]></title>
-        <id>https://news.ycombinator.com/item?id=27631243</id>
-        <link href="https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail"/>
-        <updated>2021-06-25T14:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail
-Comments URL: https://news.ycombinator.com/item?id=27631243
-Points: 115
-# Comments: 39]]></summary>
-        <author>
-            <name>0xfacfac</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS BugBust]]></title>
         <id>https://news.ycombinator.com/item?id=27631116</id>
         <link href="https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/"/>
         <updated>2021-06-25T14:22:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/
 Comments URL: https://news.ycombinator.com/item?id=27631116
-Points: 127
-# Comments: 91]]></summary>
+Points: 136
+# Comments: 94]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -157,8 +233,8 @@ Points: 127
 Was wondering how one could probably use https://github.com/FiloSottile/age or something.
 (Not an emacs pro, so sure don't know some of the trivial ways to use this)
 Comments URL: https://news.ycombinator.com/item?id=27630755
-Points: 54
-# Comments: 27]]></summary>
+Points: 56
+# Comments: 28]]></summary>
         <author>
             <name>timetosleep</name>
         </author>
@@ -170,8 +246,8 @@ Points: 54
         <updated>2021-06-25T13:42:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/
 Comments URL: https://news.ycombinator.com/item?id=27630651
-Points: 204
-# Comments: 143]]></summary>
+Points: 221
+# Comments: 152]]></summary>
         <author>
             <name>certifiedloud</name>
         </author>
@@ -183,23 +259,23 @@ Points: 204
         <updated>2021-06-25T13:40:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet
 Comments URL: https://news.ycombinator.com/item?id=27630625
-Points: 207
-# Comments: 162]]></summary>
+Points: 219
+# Comments: 175]]></summary>
         <author>
             <name>nitinreddy88</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Private Gmail and Docs alternatives: Proton, Skiff, and more]]></title>
-        <id>https://news.ycombinator.com/item?id=27630397</id>
-        <link href="https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives"/>
-        <updated>2021-06-25T13:18:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives
-Comments URL: https://news.ycombinator.com/item?id=27630397
-Points: 107
-# Comments: 52]]></summary>
+        <title type="html"><![CDATA[Show HN: SirenDNS – A Watchtower for Your Domains (Anti-domain-squatting)]]></title>
+        <id>https://news.ycombinator.com/item?id=27629770</id>
+        <link href="https://sirendns.com"/>
+        <updated>2021-06-25T12:15:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sirendns.com
+Comments URL: https://news.ycombinator.com/item?id=27629770
+Points: 32
+# Comments: 0]]></summary>
         <author>
-            <name>janjones</name>
+            <name>pressurewave</name>
         </author>
     </entry>
     <entry>
@@ -209,8 +285,8 @@ Points: 107
         <updated>2021-06-25T11:47:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv
 Comments URL: https://news.ycombinator.com/item?id=27629543
-Points: 379
-# Comments: 294]]></summary>
+Points: 414
+# Comments: 334]]></summary>
         <author>
             <name>codingclaws</name>
         </author>
@@ -223,71 +299,6 @@ Points: 379
         <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dom Habersack)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Please don't waste maintainers' time on your KPI grabbing patches”]]></title>
-        <id>https://news.ycombinator.com/item?id=27629366</id>
-        <link href="https://lkml.org/lkml/2021/6/18/153"/>
-        <updated>2021-06-25T11:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lkml.org/lkml/2021/6/18/153
-Comments URL: https://news.ycombinator.com/item?id=27629366
-Points: 411
-# Comments: 187]]></summary>
-        <author>
-            <name>belter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Games is an Instant Flash to the past]]></title>
-        <id>https://news.ycombinator.com/item?id=27629340</id>
-        <link href="https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/"/>
-        <updated>2021-06-25T11:21:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/
-Comments URL: https://news.ycombinator.com/item?id=27629340
-Points: 148
-# Comments: 115]]></summary>
-        <author>
-            <name>meheleventyone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rally, a novel privacy-first data sharing platform]]></title>
-        <id>https://news.ycombinator.com/item?id=27629188</id>
-        <link href="https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/"/>
-        <updated>2021-06-25T10:59:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/
-Comments URL: https://news.ycombinator.com/item?id=27629188
-Points: 185
-# Comments: 114]]></summary>
-        <author>
-            <name>TangerineDream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NATO is looking to connect with startups]]></title>
-        <id>https://news.ycombinator.com/item?id=27629132</id>
-        <link href="https://sifted.eu/articles/nato-war-startups/"/>
-        <updated>2021-06-25T10:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sifted.eu/articles/nato-war-startups/
-Comments URL: https://news.ycombinator.com/item?id=27629132
-Points: 93
-# Comments: 91]]></summary>
-        <author>
-            <name>rjmunro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Citizen Progress Tracker v1.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27628957</id>
-        <link href="https://robertsspaceindustries.com/roadmap/progress-tracker/teams"/>
-        <updated>2021-06-25T10:16:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://robertsspaceindustries.com/roadmap/progress-tracker/teams
-Comments URL: https://news.ycombinator.com/item?id=27628957
-Points: 134
-# Comments: 174]]></summary>
-        <author>
-            <name>doener</name>
         </author>
     </entry>
     <entry>
@@ -645,21 +656,6 @@ The post Start Serving Optimized Images in Vue appeared first on CSS-Tricks. You
         <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inline Styles as Classes (lol)]]></title>
-        <id>https://css-tricks.com/?p=342358</id>
-        <link href="https://css-tricks.com/inline-styles-as-classes-lol/"/>
-        <updated>2021-06-16T21:11:02.000Z</updated>
-        <summary type="html"><![CDATA[If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. 
-I've revolutionized CSS. pic.twitter.com/1AWCldyCwP
-— Sam 
-
-…
-The post Inline Styles as Classes (lol) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
