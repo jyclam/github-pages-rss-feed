@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T00:36:02.886Z</updated>
+    <updated>2021-06-26T01:50:33.468Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Game Theory Through Examples [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27637859</id>
+        <link href="https://www.maa.org/sites/default/files/pdf/ebooks/GTE_sample.pdf"/>
+        <updated>2021-06-26T00:24:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.maa.org/sites/default/files/pdf/ebooks/GTE_sample.pdf
+Comments URL: https://news.ycombinator.com/item?id=27637859
+Points: 5
+# Comments: 1]]></summary>
+        <author>
+            <name>sonograph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gloss3D – an open source 3D Modeler for Linux and Windows]]></title>
+        <id>https://news.ycombinator.com/item?id=27637787</id>
+        <link href="http://www.gloss3d.net/"/>
+        <updated>2021-06-26T00:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.gloss3d.net/
+Comments URL: https://news.ycombinator.com/item?id=27637787
+Points: 9
+# Comments: 4]]></summary>
+        <author>
+            <name>app4soft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functors and Monads for People Who Have Read Too Many “Tutorials”]]></title>
+        <id>https://news.ycombinator.com/item?id=27637779</id>
+        <link href="http://www.jerf.org/iri/post/2958"/>
+        <updated>2021-06-26T00:09:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.jerf.org/iri/post/2958
+Comments URL: https://news.ycombinator.com/item?id=27637779
+Points: 33
+# Comments: 5]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Words of encouragement for someone lost in life?]]></title>
+        <id>https://news.ycombinator.com/item?id=27637759</id>
+        <link href="https://news.ycombinator.com/item?id=27637759"/>
+        <updated>2021-06-26T00:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN community,
+first off, I'm writing from a throwaway account and the following problems might sound superfluous or insignificant for people well past my age, so I'm sorry in advance. To set the contex, I'm someone who is turning 23 years old this year.
+Having spent a good proportion of the last decade in programming and mathematics - a time which brought me many joyful moments - I've also spent a significant amount of time, maybe even reaching the zenith in the past months, being very depressed, lonely, socially anxious; all are obvious hindrances in life.
+For some inexplicable reason, a short circuit in my brain lead me to believe that creating a Tinder account might be a countermeasure for not feeling lonely anymore.
+Seeing in the profile pictures what "normal", "well-rounded" people in my age are doing on Tinder, such as traveling, spending time with friends, etc., made my pain even worse, let alone the fact that I received zero matches. Feeling like a social outcast, and having an even stronger urge now in taking my own life - a decision I contemplated many times - ... I just feel very lost in life. I know that I'm a complete failure in life.
+Over the years I've gotten to know this community quite well. I know that I'm probably not alone in dealing with these problems.
+My hope is that, as so often, you people might have an insight, an idea, words of wisdom, or anecdotal experience in trying to rationalize my current feelings and situation. Thank you.
+Comments URL: https://news.ycombinator.com/item?id=27637759
+Points: 27
+# Comments: 27]]></summary>
+        <author>
+            <name>LoserInLife</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Correctly implementing a spinlock in Modern C++]]></title>
         <id>https://news.ycombinator.com/item?id=27637287</id>
@@ -13,10 +71,23 @@
         <updated>2021-06-25T22:58:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rigtorp.se/spinlock/
 Comments URL: https://news.ycombinator.com/item?id=27637287
-Points: 6
-# Comments: 0]]></summary>
+Points: 34
+# Comments: 11]]></summary>
         <author>
             <name>symisc_devel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye C++, Hello C]]></title>
+        <id>https://news.ycombinator.com/item?id=27637266</id>
+        <link href="https://momentsingraphics.de/ToyRenderer1KeepItSimple.html"/>
+        <updated>2021-06-25T22:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://momentsingraphics.de/ToyRenderer1KeepItSimple.html
+Comments URL: https://news.ycombinator.com/item?id=27637266
+Points: 21
+# Comments: 3]]></summary>
+        <author>
+            <name>khoobid_shoma</name>
         </author>
     </entry>
     <entry>
@@ -26,36 +97,10 @@ Points: 6
         <updated>2021-06-25T21:58:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/RunDaltonRun/status/1408507323031592964
 Comments URL: https://news.ycombinator.com/item?id=27636773
-Points: 153
-# Comments: 79]]></summary>
+Points: 245
+# Comments: 125]]></summary>
         <author>
             <name>dmart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Which book or course gave you an unfair advantage?]]></title>
-        <id>https://news.ycombinator.com/item?id=27636743</id>
-        <link href="https://news.ycombinator.com/item?id=27636743"/>
-        <updated>2021-06-25T21:55:39.000Z</updated>
-        <summary type="html"><![CDATA[Is there a book you’ve read or a course you’ve taken that leveled up your game so much that it felt almost unfair?
-Comments URL: https://news.ycombinator.com/item?id=27636743
-Points: 65
-# Comments: 38]]></summary>
-        <author>
-            <name>ronyfadel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What's your experience working for a YC backed startup?]]></title>
-        <id>https://news.ycombinator.com/item?id=27636593</id>
-        <link href="https://news.ycombinator.com/item?id=27636593"/>
-        <updated>2021-06-25T21:38:03.000Z</updated>
-        <summary type="html"><![CDATA[What was experience? How large was the team? Good things, bad things?
-Comments URL: https://news.ycombinator.com/item?id=27636593
-Points: 59
-# Comments: 35]]></summary>
-        <author>
-            <name>hoerzu</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +123,8 @@ Points: 1
         <updated>2021-06-25T20:49:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art
 Comments URL: https://news.ycombinator.com/item?id=27636082
-Points: 64
-# Comments: 48]]></summary>
+Points: 76
+# Comments: 52]]></summary>
         <author>
             <name>danso</name>
         </author>
@@ -91,10 +136,23 @@ Points: 64
         <updated>2021-06-25T20:36:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena
 Comments URL: https://news.ycombinator.com/item?id=27635934
-Points: 164
-# Comments: 157]]></summary>
+Points: 172
+# Comments: 172]]></summary>
         <author>
             <name>tailspin2019</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MyBook Users Urged to Unplug Devices from Internet]]></title>
+        <id>https://news.ycombinator.com/item?id=27635849</id>
+        <link href="https://krebsonsecurity.com/2021/06/mybook-users-urged-to-unplug-devices-from-internet/"/>
+        <updated>2021-06-25T20:27:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/mybook-users-urged-to-unplug-devices-from-internet/
+Comments URL: https://news.ycombinator.com/item?id=27635849
+Points: 18
+# Comments: 7]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +162,8 @@ Points: 164
         <updated>2021-06-25T19:37:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://userinyerface.com/
 Comments URL: https://news.ycombinator.com/item?id=27635310
-Points: 452
-# Comments: 119]]></summary>
+Points: 508
+# Comments: 133]]></summary>
         <author>
             <name>andyjih_</name>
         </author>
@@ -117,8 +175,8 @@ Points: 452
         <updated>2021-06-25T19:18:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://telegram.org/blog/group-video-calls
 Comments URL: https://news.ycombinator.com/item?id=27635101
-Points: 155
-# Comments: 78]]></summary>
+Points: 167
+# Comments: 94]]></summary>
         <author>
             <name>jhabdas</name>
         </author>
@@ -130,8 +188,8 @@ Points: 155
         <updated>2021-06-25T19:13:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill
 Comments URL: https://news.ycombinator.com/item?id=27635039
-Points: 87
-# Comments: 65]]></summary>
+Points: 103
+# Comments: 71]]></summary>
         <author>
             <name>fortran77</name>
         </author>
@@ -143,8 +201,8 @@ Points: 87
         <updated>2021-06-25T18:53:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://duckdb.org/2021/06/25/querying-parquet.html
 Comments URL: https://news.ycombinator.com/item?id=27634840
-Points: 88
-# Comments: 26]]></summary>
+Points: 93
+# Comments: 27]]></summary>
         <author>
             <name>mytherin</name>
         </author>
@@ -167,8 +225,8 @@ The post Custom Property Brain Twisters appeared first on CSS-Tricks. You can su
         <updated>2021-06-25T18:27:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pubs.acs.org/doi/10.1021/acs.est.1c00976
 Comments URL: https://news.ycombinator.com/item?id=27634564
-Points: 108
-# Comments: 48]]></summary>
+Points: 110
+# Comments: 51]]></summary>
         <author>
             <name>sizzle</name>
         </author>
@@ -180,8 +238,8 @@ Points: 108
         <updated>2021-06-25T18:26:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article
 Comments URL: https://news.ycombinator.com/item?id=27634549
-Points: 115
-# Comments: 45]]></summary>
+Points: 128
+# Comments: 51]]></summary>
         <author>
             <name>optimalsolver</name>
         </author>
@@ -193,8 +251,8 @@ Points: 115
         <updated>2021-06-25T18:18:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/MichalStrehovsky/bflat
 Comments URL: https://news.ycombinator.com/item?id=27634456
-Points: 239
-# Comments: 110]]></summary>
+Points: 251
+# Comments: 119]]></summary>
         <author>
             <name>tate</name>
         </author>
@@ -206,23 +264,10 @@ Points: 239
         <updated>2021-06-25T18:08:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world
 Comments URL: https://news.ycombinator.com/item?id=27634319
-Points: 75
-# Comments: 18]]></summary>
+Points: 88
+# Comments: 25]]></summary>
         <author>
             <name>jger15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming Paradigms for Dummies: What Every Programmer Should Know (2009) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27633811</id>
-        <link href="https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf"/>
-        <updated>2021-06-25T17:28:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
-Comments URL: https://news.ycombinator.com/item?id=27633811
-Points: 41
-# Comments: 2]]></summary>
-        <author>
-            <name>pedrodelfino</name>
         </author>
     </entry>
     <entry>
@@ -232,36 +277,10 @@ Points: 41
         <updated>2021-06-25T15:24:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/pdf/10.1145/3460095
 Comments URL: https://news.ycombinator.com/item?id=27631950
-Points: 96
-# Comments: 117]]></summary>
+Points: 103
+# Comments: 121]]></summary>
         <author>
             <name>riyakhanna1983</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hierarchical Structures in PostgreSQL (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27631765</id>
-        <link href="https://hoverbear.org/blog/postgresql-hierarchical-structures/"/>
-        <updated>2021-06-25T15:10:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hoverbear.org/blog/postgresql-hierarchical-structures/
-Comments URL: https://news.ycombinator.com/item?id=27631765
-Points: 186
-# Comments: 42]]></summary>
-        <author>
-            <name>belter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS acquires Wickr]]></title>
-        <id>https://news.ycombinator.com/item?id=27631324</id>
-        <link href="https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/"/>
-        <updated>2021-06-25T14:38:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/
-Comments URL: https://news.ycombinator.com/item?id=27631324
-Points: 125
-# Comments: 111]]></summary>
-        <author>
-            <name>ramimac</name>
         </author>
     </entry>
     <entry>
@@ -274,19 +293,6 @@ One problem quickly became evident: …
 The post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Georgi Nikoloff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker reveals smart meters are spilling secrets about the Texas snowstorm]]></title>
-        <id>https://news.ycombinator.com/item?id=27630651</id>
-        <link href="https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/"/>
-        <updated>2021-06-25T13:42:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/
-Comments URL: https://news.ycombinator.com/item?id=27630651
-Points: 256
-# Comments: 174]]></summary>
-        <author>
-            <name>certifiedloud</name>
         </author>
     </entry>
     <entry>
@@ -867,16 +873,6 @@ The post Looking fine with Firefox 89 appeared first on Mozilla Hacks - the Web 
         <summary type="html"><![CDATA[In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
-        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
-        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
-        <updated>2021-05-27T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
