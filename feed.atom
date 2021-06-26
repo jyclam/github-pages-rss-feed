@@ -2,34 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T07:10:18.488Z</updated>
+    <updated>2021-06-26T08:12:18.977Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[A Bear Case for Social Audio]]></title>
+        <title type="html"><![CDATA[Parse, Don't Validate (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27639890</id>
+        <link href="https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"/>
+        <updated>2021-06-26T07:23:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
+Comments URL: https://news.ycombinator.com/item?id=27639890
+Points: 18
+# Comments: 2]]></summary>
+        <author>
+            <name>melse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Paper for Everyday Tasks]]></title>
+        <id>https://news.ycombinator.com/item?id=27639875</id>
+        <link href="https://christine.website/blog/gtd-on-paper-2021-06-13"/>
+        <updated>2021-06-26T07:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://christine.website/blog/gtd-on-paper-2021-06-13
+Comments URL: https://news.ycombinator.com/item?id=27639875
+Points: 14
+# Comments: 1]]></summary>
+        <author>
+            <name>mayiplease</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why we don’t understand heavier-than-air flight]]></title>
+        <id>https://news.ycombinator.com/item?id=27639869</id>
+        <link href="https://www.ribbonfarm.com/2021/04/08/heres-why-we-dont-understand-heavier-than-air-flight/"/>
+        <updated>2021-06-26T07:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ribbonfarm.com/2021/04/08/heres-why-we-dont-understand-heavier-than-air-flight/
+Comments URL: https://news.ycombinator.com/item?id=27639869
+Points: 8
+# Comments: 2]]></summary>
+        <author>
+            <name>sillybilly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One bee has cloned itself millions of times over the past three decades]]></title>
+        <id>https://news.ycombinator.com/item?id=27639823</id>
+        <link href="https://www.livescience.com/bee-creates-perfect-clone-army.html"/>
+        <updated>2021-06-26T07:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.livescience.com/bee-creates-perfect-clone-army.html
+Comments URL: https://news.ycombinator.com/item?id=27639823
+Points: 39
+# Comments: 1]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A bear case for social audio]]></title>
         <id>https://news.ycombinator.com/item?id=27639669</id>
         <link href="https://elevis.io"/>
         <updated>2021-06-26T06:36:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://elevis.io
 Comments URL: https://news.ycombinator.com/item?id=27639669
-Points: 3
-# Comments: 0]]></summary>
-        <author>
-            <name>artfulhippo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SARS-CoV-2 reactive T-cells likely present due to prior exposure to flu viruses]]></title>
-        <id>https://news.ycombinator.com/item?id=27639355</id>
-        <link href="https://www.nature.com/articles/s41598-021-92521-4"/>
-        <updated>2021-06-26T05:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41598-021-92521-4
-Comments URL: https://news.ycombinator.com/item?id=27639355
 Points: 10
 # Comments: 3]]></summary>
         <author>
-            <name>walterbell</name>
+            <name>artfulhippo</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +78,8 @@ Points: 10
         <updated>2021-06-26T01:32:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/science/article/dragon-man-fossil-skull-may-represent-new-human-species-in-china
 Comments URL: https://news.ycombinator.com/item?id=27638218
-Points: 85
-# Comments: 46]]></summary>
+Points: 95
+# Comments: 52]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -52,23 +91,10 @@ Points: 85
         <updated>2021-06-26T01:12:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dur.hunterwittenborn.com/
 Comments URL: https://news.ycombinator.com/item?id=27638107
-Points: 45
-# Comments: 27]]></summary>
+Points: 49
+# Comments: 39]]></summary>
         <author>
             <name>luke2m</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Makedeb – Create Debian Archives from PKGBUILDs]]></title>
-        <id>https://news.ycombinator.com/item?id=27637947</id>
-        <link href="https://github.com/hwittenborn/makedeb"/>
-        <updated>2021-06-26T00:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/hwittenborn/makedeb
-Comments URL: https://news.ycombinator.com/item?id=27637947
-Points: 25
-# Comments: 1]]></summary>
-        <author>
-            <name>cartesius13</name>
         </author>
     </entry>
     <entry>
@@ -78,7 +104,7 @@ Points: 25
         <updated>2021-06-26T00:31:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/gregdurrett/berkeley-doc-summarizer
 Comments URL: https://news.ycombinator.com/item?id=27637902
-Points: 37
+Points: 43
 # Comments: 3]]></summary>
         <author>
             <name>pabs3</name>
@@ -91,8 +117,8 @@ Points: 37
         <updated>2021-06-26T00:11:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.gloss3d.net/
 Comments URL: https://news.ycombinator.com/item?id=27637787
-Points: 41
-# Comments: 16]]></summary>
+Points: 48
+# Comments: 20]]></summary>
         <author>
             <name>app4soft</name>
         </author>
@@ -104,8 +130,8 @@ Points: 41
         <updated>2021-06-26T00:09:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.jerf.org/iri/post/2958
 Comments URL: https://news.ycombinator.com/item?id=27637779
-Points: 169
-# Comments: 96]]></summary>
+Points: 188
+# Comments: 111]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -117,8 +143,8 @@ Points: 169
         <updated>2021-06-25T22:58:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rigtorp.se/spinlock/
 Comments URL: https://news.ycombinator.com/item?id=27637287
-Points: 81
-# Comments: 44]]></summary>
+Points: 91
+# Comments: 50]]></summary>
         <author>
             <name>symisc_devel</name>
         </author>
@@ -130,8 +156,8 @@ Points: 81
         <updated>2021-06-25T22:56:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://momentsingraphics.de/ToyRenderer1KeepItSimple.html
 Comments URL: https://news.ycombinator.com/item?id=27637266
-Points: 134
-# Comments: 75]]></summary>
+Points: 146
+# Comments: 89]]></summary>
         <author>
             <name>khoobid_shoma</name>
         </author>
@@ -143,8 +169,8 @@ Points: 134
         <updated>2021-06-25T21:58:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/RunDaltonRun/status/1408507323031592964
 Comments URL: https://news.ycombinator.com/item?id=27636773
-Points: 450
-# Comments: 268]]></summary>
+Points: 488
+# Comments: 280]]></summary>
         <author>
             <name>dmart</name>
         </author>
@@ -170,8 +196,8 @@ Points: 1
         <summary type="html"><![CDATA[I've found watching someone else code is immensely helpful and I was looking for more content like this. I saw some recommended in a different thread, so I thought I'd ask the broader audience.
 Most of the content I see is aimed towards beginners so I was looking for context for experienced developers.
 Comments URL: https://news.ycombinator.com/item?id=27635613
-Points: 42
-# Comments: 8]]></summary>
+Points: 54
+# Comments: 15]]></summary>
         <author>
             <name>deilline</name>
         </author>
@@ -183,8 +209,8 @@ Points: 42
         <updated>2021-06-25T19:37:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://userinyerface.com/
 Comments URL: https://news.ycombinator.com/item?id=27635310
-Points: 718
-# Comments: 164]]></summary>
+Points: 760
+# Comments: 170]]></summary>
         <author>
             <name>andyjih_</name>
         </author>
@@ -196,23 +222,10 @@ Points: 718
         <updated>2021-06-25T19:18:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://telegram.org/blog/group-video-calls
 Comments URL: https://news.ycombinator.com/item?id=27635101
-Points: 211
-# Comments: 123]]></summary>
+Points: 221
+# Comments: 130]]></summary>
         <author>
             <name>jhabdas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Querying Parquet with Precision Using DuckDB]]></title>
-        <id>https://news.ycombinator.com/item?id=27634840</id>
-        <link href="https://duckdb.org/2021/06/25/querying-parquet.html"/>
-        <updated>2021-06-25T18:53:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://duckdb.org/2021/06/25/querying-parquet.html
-Comments URL: https://news.ycombinator.com/item?id=27634840
-Points: 120
-# Comments: 31]]></summary>
-        <author>
-            <name>mytherin</name>
         </author>
     </entry>
     <entry>
@@ -233,8 +246,8 @@ The post Custom Property Brain Twisters appeared first on CSS-Tricks. You can su
         <updated>2021-06-25T18:26:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article
 Comments URL: https://news.ycombinator.com/item?id=27634549
-Points: 162
-# Comments: 59]]></summary>
+Points: 165
+# Comments: 60]]></summary>
         <author>
             <name>optimalsolver</name>
         </author>
@@ -246,8 +259,8 @@ Points: 162
         <updated>2021-06-25T18:18:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/MichalStrehovsky/bflat
 Comments URL: https://news.ycombinator.com/item?id=27634456
-Points: 296
-# Comments: 145]]></summary>
+Points: 305
+# Comments: 148]]></summary>
         <author>
             <name>tate</name>
         </author>
@@ -259,23 +272,10 @@ Points: 296
         <updated>2021-06-25T15:28:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cambridge.org/core/journals/antiquity/article/problematic-stuff-death-memory-and-the-interpretation-of-cached-objects/FEFB14E4C357F336710BA78CF27048AF
 Comments URL: https://news.ycombinator.com/item?id=27632001
-Points: 3
+Points: 5
 # Comments: 1]]></summary>
         <author>
             <name>diodorus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where did my 256 GB go? Mobile storage Analysis [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27631950</id>
-        <link href="https://dl.acm.org/doi/pdf/10.1145/3460095"/>
-        <updated>2021-06-25T15:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/pdf/10.1145/3460095
-Comments URL: https://news.ycombinator.com/item?id=27631950
-Points: 123
-# Comments: 139]]></summary>
-        <author>
-            <name>riyakhanna1983</name>
         </author>
     </entry>
     <entry>
