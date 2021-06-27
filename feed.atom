@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T21:11:07.281Z</updated>
+    <updated>2021-06-27T22:10:57.940Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One Year in Hell (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=27655277</id>
+        <link href="http://personalliberty.com/one-year-in-hell/"/>
+        <updated>2021-06-27T21:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://personalliberty.com/one-year-in-hell/
+Comments URL: https://news.ycombinator.com/item?id=27655277
+Points: 12
+# Comments: 7]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substack (YC W18) is hiring engineers to build the future of writing]]></title>
         <id>https://news.ycombinator.com/item?id=27655275</id>
@@ -26,10 +39,23 @@ Points: 1
         <updated>2021-06-27T20:37:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nbailey.ca/post/win11-will-create-trash/
 Comments URL: https://news.ycombinator.com/item?id=27655069
-Points: 34
-# Comments: 19]]></summary>
+Points: 150
+# Comments: 134]]></summary>
         <author>
             <name>yabones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse-engineering the Final Fantasy: Theatrhythm track format]]></title>
+        <id>https://news.ycombinator.com/item?id=27654966</id>
+        <link href="https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md"/>
+        <updated>2021-06-27T20:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md
+Comments URL: https://news.ycombinator.com/item?id=27654966
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>mpiroot</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +65,8 @@ Points: 34
         <updated>2021-06-27T20:06:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html
 Comments URL: https://news.ycombinator.com/item?id=27654807
-Points: 16
-# Comments: 0]]></summary>
+Points: 36
+# Comments: 3]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -52,8 +78,8 @@ Points: 16
         <updated>2021-06-27T20:04:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/
 Comments URL: https://news.ycombinator.com/item?id=27654787
-Points: 122
-# Comments: 52]]></summary>
+Points: 283
+# Comments: 178]]></summary>
         <author>
             <name>johndcook</name>
         </author>
@@ -65,7 +91,7 @@ Points: 122
         <updated>2021-06-27T19:04:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cirosantilli/x86-bare-metal-examples
 Comments URL: https://news.ycombinator.com/item?id=27654257
-Points: 61
+Points: 83
 # Comments: 3]]></summary>
         <author>
             <name>peter_d_sherman</name>
@@ -78,8 +104,8 @@ Points: 61
         <updated>2021-06-27T18:55:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
 Comments URL: https://news.ycombinator.com/item?id=27654182
-Points: 104
-# Comments: 6]]></summary>
+Points: 137
+# Comments: 16]]></summary>
         <author>
             <name>peter_d_sherman</name>
         </author>
@@ -91,38 +117,10 @@ Points: 104
         <updated>2021-06-27T18:55:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back
 Comments URL: https://news.ycombinator.com/item?id=27654178
-Points: 43
-# Comments: 9]]></summary>
+Points: 76
+# Comments: 17]]></summary>
         <author>
             <name>sonograph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Broken Promise of Retirement]]></title>
-        <id>https://news.ycombinator.com/item?id=27654047</id>
-        <link href="https://www.nybooks.com/articles/2021/07/01/broken-promise-of-retirement/"/>
-        <updated>2021-06-27T18:41:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nybooks.com/articles/2021/07/01/broken-promise-of-retirement/
-Comments URL: https://news.ycombinator.com/item?id=27654047
-Points: 45
-# Comments: 51]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How to Learn How to Sell?]]></title>
-        <id>https://news.ycombinator.com/item?id=27653357</id>
-        <link href="https://news.ycombinator.com/item?id=27653357"/>
-        <updated>2021-06-27T17:24:03.000Z</updated>
-        <summary type="html"><![CDATA[I've become convinced that "sales" is a pivotal skill that everyone should learn. You constantly have to sell: sell yourself, sell your ideas, sell your product, sell your vision.
-However I see no easy way to learn how to sell. For sure the direct way seems preferable (learning by doing), but having a job already + living abroad makes it a bit hard.
-Any tips would appreciated.
-Comments URL: https://news.ycombinator.com/item?id=27653357
-Points: 77
-# Comments: 39]]></summary>
-        <author>
-            <name>giansegato</name>
         </author>
     </entry>
     <entry>
@@ -132,8 +130,8 @@ Points: 77
         <updated>2021-06-27T16:05:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.unisonweb.org/
 Comments URL: https://news.ycombinator.com/item?id=27652677
-Points: 243
-# Comments: 76]]></summary>
+Points: 257
+# Comments: 84]]></summary>
         <author>
             <name>gautamcgoel</name>
         </author>
@@ -145,8 +143,8 @@ Points: 243
         <updated>2021-06-27T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/
 Comments URL: https://news.ycombinator.com/item?id=27652615
-Points: 103
-# Comments: 68]]></summary>
+Points: 118
+# Comments: 81]]></summary>
         <author>
             <name>donohoe</name>
         </author>
@@ -158,8 +156,8 @@ Points: 103
         <updated>2021-06-27T15:11:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://constructionphysics.substack.com/p/lumber-price-faq
 Comments URL: https://news.ycombinator.com/item?id=27652178
-Points: 169
-# Comments: 84]]></summary>
+Points: 187
+# Comments: 96]]></summary>
         <author>
             <name>Whitespace</name>
         </author>
@@ -171,8 +169,8 @@ Points: 169
         <updated>2021-06-27T15:00:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://themythicalengineer.com/setup-aws-cloudwatch-monitoring-and-alarms.html
 Comments URL: https://news.ycombinator.com/item?id=27652092
-Points: 22
-# Comments: 22]]></summary>
+Points: 29
+# Comments: 23]]></summary>
         <author>
             <name>sks147</name>
         </author>
@@ -184,8 +182,8 @@ Points: 22
         <updated>2021-06-27T14:47:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html
 Comments URL: https://news.ycombinator.com/item?id=27651983
-Points: 350
-# Comments: 188]]></summary>
+Points: 370
+# Comments: 194]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -197,8 +195,8 @@ Points: 350
         <updated>2021-06-27T14:44:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/
 Comments URL: https://news.ycombinator.com/item?id=27651963
-Points: 76
-# Comments: 7]]></summary>
+Points: 82
+# Comments: 8]]></summary>
         <author>
             <name>ibobev</name>
         </author>
@@ -210,8 +208,8 @@ Points: 76
         <updated>2021-06-27T14:27:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-57624942
 Comments URL: https://news.ycombinator.com/item?id=27651828
-Points: 59
-# Comments: 16]]></summary>
+Points: 71
+# Comments: 20]]></summary>
         <author>
             <name>georgecmu</name>
         </author>
@@ -223,8 +221,8 @@ Points: 59
         <updated>2021-06-27T14:10:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ip.sandia.gov/technology.do/techID=66
 Comments URL: https://news.ycombinator.com/item?id=27651687
-Points: 62
-# Comments: 32]]></summary>
+Points: 66
+# Comments: 33]]></summary>
         <author>
             <name>RichardHeart</name>
         </author>
@@ -236,8 +234,8 @@ Points: 62
         <updated>2021-06-27T13:00:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://roblox.fandom.com/wiki/Roblox_on_Linux
 Comments URL: https://news.ycombinator.com/item?id=27651224
-Points: 149
-# Comments: 78]]></summary>
+Points: 155
+# Comments: 80]]></summary>
         <author>
             <name>homarp</name>
         </author>
@@ -249,7 +247,7 @@ Points: 149
         <updated>2021-06-27T11:59:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.12684
 Comments URL: https://news.ycombinator.com/item?id=27650879
-Points: 88
+Points: 94
 # Comments: 35]]></summary>
         <author>
             <name>belter</name>
@@ -262,8 +260,8 @@ Points: 88
         <updated>2021-06-27T11:45:29.000Z</updated>
         <summary type="html"><![CDATA[With 'networking essentials' I mean software components which constitute the infrastructure which a webapp lives within: e.g reverse proxy, DMZ, firewall, etc.
 Comments URL: https://news.ycombinator.com/item?id=27650775
-Points: 187
-# Comments: 38]]></summary>
+Points: 209
+# Comments: 41]]></summary>
         <author>
             <name>giulianopz</name>
         </author>
