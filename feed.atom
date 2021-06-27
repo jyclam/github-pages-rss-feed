@@ -2,21 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T11:09:33.144Z</updated>
+    <updated>2021-06-27T12:17:33.129Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[The EU’s disputed system of geographical indications is taking over the planet]]></title>
-        <id>https://news.ycombinator.com/item?id=27649937</id>
-        <link href="https://www.politico.eu/article/europe-eats-trumps-lunch/"/>
-        <updated>2021-06-27T09:15:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.politico.eu/article/europe-eats-trumps-lunch/
-Comments URL: https://news.ycombinator.com/item?id=27649937
-Points: 7
-# Comments: 5]]></summary>
+        <title type="html"><![CDATA[Clerky (YC S11) is hiring software engineers to modernize legal paperwork]]></title>
+        <id>https://news.ycombinator.com/item?id=27650883</id>
+        <link href="https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&amp;lever-source%5B%5D=HN"/>
+        <updated>2021-06-27T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN
+Comments URL: https://news.ycombinator.com/item?id=27650883
+Points: 1
+# Comments: 0]]></summary>
         <author>
-            <name>Tomte</name>
+            <name>swampthing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andreessen on Crypto]]></title>
+        <id>https://news.ycombinator.com/item?id=27650745</id>
+        <link href="https://marginalrevolution.com/marginalrevolution/2021/06/andreessen-on-crypto.html"/>
+        <updated>2021-06-27T11:40:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://marginalrevolution.com/marginalrevolution/2021/06/andreessen-on-crypto.html
+Comments URL: https://news.ycombinator.com/item?id=27650745
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>smitty1e</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of Software Security: open-source Edition]]></title>
+        <id>https://news.ycombinator.com/item?id=27650548</id>
+        <link href="https://www.veracode.com/blog/research/announcing-state-software-security-v11-open-source-edition"/>
+        <updated>2021-06-27T11:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.veracode.com/blog/research/announcing-state-software-security-v11-open-source-edition
+Comments URL: https://news.ycombinator.com/item?id=27650548
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Economics of Dollar Stores]]></title>
+        <id>https://news.ycombinator.com/item?id=27650477</id>
+        <link href="https://thehustle.co/the-economics-of-dollar-stores"/>
+        <updated>2021-06-27T10:54:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thehustle.co/the-economics-of-dollar-stores
+Comments URL: https://news.ycombinator.com/item?id=27650477
+Points: 48
+# Comments: 27]]></summary>
+        <author>
+            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +65,8 @@ Points: 7
         <updated>2021-06-27T08:22:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rr-tw5.github.io/
 Comments URL: https://news.ycombinator.com/item?id=27649667
-Points: 31
-# Comments: 11]]></summary>
+Points: 40
+# Comments: 23]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -39,7 +78,7 @@ Points: 31
         <updated>2021-06-27T08:00:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://telehack.com/
 Comments URL: https://news.ycombinator.com/item?id=27649547
-Points: 10
+Points: 16
 # Comments: 0]]></summary>
         <author>
             <name>ecliptik</name>
@@ -52,10 +91,23 @@ Points: 10
         <updated>2021-06-27T07:31:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://queue.acm.org/detail.cfm?id=1871406
 Comments URL: https://news.ycombinator.com/item?id=27649431
-Points: 44
-# Comments: 32]]></summary>
+Points: 55
+# Comments: 64]]></summary>
         <author>
             <name>pcr910303</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Pandoc Markdown CSS Theme]]></title>
+        <id>https://news.ycombinator.com/item?id=27649378</id>
+        <link href="https://jez.io/pandoc-markdown-css-theme/"/>
+        <updated>2021-06-27T07:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jez.io/pandoc-markdown-css-theme/
+Comments URL: https://news.ycombinator.com/item?id=27649378
+Points: 10
+# Comments: 2]]></summary>
+        <author>
+            <name>jez</name>
         </author>
     </entry>
     <entry>
@@ -65,23 +117,10 @@ Points: 44
         <updated>2021-06-27T07:14:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mgdm.net/weblog/systemd/
 Comments URL: https://news.ycombinator.com/item?id=27649342
-Points: 75
-# Comments: 36]]></summary>
+Points: 99
+# Comments: 51]]></summary>
         <author>
             <name>irl_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Space Left to Run: China's Transnational Repression of Uyghurs]]></title>
-        <id>https://news.ycombinator.com/item?id=27649304</id>
-        <link href="https://uhrp.org/report/no-space-left-to-run-chinas-transnational-repression-of-uyghurs/"/>
-        <updated>2021-06-27T07:07:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://uhrp.org/report/no-space-left-to-run-chinas-transnational-repression-of-uyghurs/
-Comments URL: https://news.ycombinator.com/item?id=27649304
-Points: 90
-# Comments: 33]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
@@ -91,7 +130,7 @@ Points: 90
         <updated>2021-06-27T07:03:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/mathematicians-explore-mirror-link-between-two-geometric-worlds-20180409/
 Comments URL: https://news.ycombinator.com/item?id=27649283
-Points: 13
+Points: 28
 # Comments: 0]]></summary>
         <author>
             <name>nsoonhui</name>
@@ -104,8 +143,8 @@ Points: 13
         <updated>2021-06-27T06:26:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://briarproject.org/
 Comments URL: https://news.ycombinator.com/item?id=27649123
-Points: 47
-# Comments: 17]]></summary>
+Points: 63
+# Comments: 22]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -117,8 +156,8 @@ Points: 47
         <updated>2021-06-27T06:22:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/energywise/green-tech/wind/michelin-puffy-sails-cargo-ships-improve-fuel-economy#.YNezQMYEw4I.twitter
 Comments URL: https://news.ycombinator.com/item?id=27649099
-Points: 57
-# Comments: 20]]></summary>
+Points: 74
+# Comments: 40]]></summary>
         <author>
             <name>rmason</name>
         </author>
@@ -130,7 +169,7 @@ Points: 57
         <updated>2021-06-27T05:54:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://forum.puppylinux.com/viewtopic.php?f=40&t=2967
 Comments URL: https://news.ycombinator.com/item?id=27648960
-Points: 21
+Points: 24
 # Comments: 2]]></summary>
         <author>
             <name>dimkr1</name>
@@ -143,8 +182,8 @@ Points: 21
         <updated>2021-06-27T05:47:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://frantic.im/octave/
 Comments URL: https://news.ycombinator.com/item?id=27648935
-Points: 22
-# Comments: 1]]></summary>
+Points: 25
+# Comments: 2]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -156,8 +195,8 @@ Points: 22
         <updated>2021-06-27T05:41:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.mumble.info/
 Comments URL: https://news.ycombinator.com/item?id=27648915
-Points: 227
-# Comments: 125]]></summary>
+Points: 264
+# Comments: 144]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -169,8 +208,8 @@ Points: 227
         <updated>2021-06-27T05:17:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sandia.gov/news/publications/labnews/articles/2021/06-18/acoustic.html
 Comments URL: https://news.ycombinator.com/item?id=27648809
-Points: 91
-# Comments: 14]]></summary>
+Points: 102
+# Comments: 16]]></summary>
         <author>
             <name>skunkworker</name>
         </author>
@@ -182,8 +221,8 @@ Points: 91
         <updated>2021-06-27T04:58:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/AbsInt/CompCert
 Comments URL: https://news.ycombinator.com/item?id=27648735
-Points: 128
-# Comments: 49]]></summary>
+Points: 141
+# Comments: 65]]></summary>
         <author>
             <name>mbrodersen</name>
         </author>
@@ -195,8 +234,8 @@ Points: 128
         <updated>2021-06-27T04:23:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://opensmalltalk.org/
 Comments URL: https://news.ycombinator.com/item?id=27648568
-Points: 58
-# Comments: 0]]></summary>
+Points: 64
+# Comments: 1]]></summary>
         <author>
             <name>pabs3</name>
         </author>
@@ -208,23 +247,10 @@ Points: 58
         <updated>2021-06-27T04:02:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html
 Comments URL: https://news.ycombinator.com/item?id=27648477
-Points: 86
-# Comments: 55]]></summary>
+Points: 92
+# Comments: 60]]></summary>
         <author>
             <name>DoreenMichele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution of the Unix System Architecture]]></title>
-        <id>https://news.ycombinator.com/item?id=27648248</id>
-        <link href="https://www.spinellis.gr/blog/20210618/index.html"/>
-        <updated>2021-06-27T03:18:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.spinellis.gr/blog/20210618/index.html
-Comments URL: https://news.ycombinator.com/item?id=27648248
-Points: 28
-# Comments: 0]]></summary>
-        <author>
-            <name>chubot</name>
         </author>
     </entry>
     <entry>
@@ -234,36 +260,10 @@ Points: 28
         <updated>2021-06-27T01:22:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/
 Comments URL: https://news.ycombinator.com/item?id=27647651
-Points: 53
-# Comments: 7]]></summary>
+Points: 56
+# Comments: 8]]></summary>
         <author>
             <name>doctoboggan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I spent 5 years writing my own operating system]]></title>
-        <id>https://news.ycombinator.com/item?id=27647079</id>
-        <link href="https://github.com/halfer53/winix"/>
-        <updated>2021-06-26T23:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/halfer53/winix
-Comments URL: https://news.ycombinator.com/item?id=27647079
-Points: 714
-# Comments: 92]]></summary>
-        <author>
-            <name>halfer53</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why did we ever think a student's first programming language didn't matter?]]></title>
-        <id>https://news.ycombinator.com/item?id=27646814</id>
-        <link href="https://m-cacm.acm.org/blogs/blog-cacm/253393-why-did-we-ever-think-the-first-programming-language-didnt-matter/fulltext"/>
-        <updated>2021-06-26T23:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/blogs/blog-cacm/253393-why-did-we-ever-think-the-first-programming-language-didnt-matter/fulltext
-Comments URL: https://news.ycombinator.com/item?id=27646814
-Points: 121
-# Comments: 193]]></summary>
-        <author>
-            <name>azhenley</name>
         </author>
     </entry>
     <entry>
