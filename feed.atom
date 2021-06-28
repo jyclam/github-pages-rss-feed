@@ -2,21 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T09:13:00.084Z</updated>
+    <updated>2021-06-28T10:12:57.588Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Tips and tricks I learned from my Kickstarter campaign]]></title>
-        <id>https://news.ycombinator.com/item?id=27658806</id>
-        <link href="https://anchor.fm/wannabentrepreneur/episodes/49---Tips-and-tricks-for-a-successful-Kickstarter-campaign-e12o20i"/>
-        <updated>2021-06-28T06:50:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://anchor.fm/wannabentrepreneur/episodes/49---Tips-and-tricks-for-a-successful-Kickstarter-campaign-e12o20i
-Comments URL: https://news.ycombinator.com/item?id=27658806
-Points: 12
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Dear Google: Public domain compositions exist]]></title>
+        <id>https://news.ycombinator.com/item?id=27659690</id>
+        <link href="https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist"/>
+        <updated>2021-06-28T09:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist
+Comments URL: https://news.ycombinator.com/item?id=27659690
+Points: 39
+# Comments: 5]]></summary>
         <author>
-            <name>tiagorbf</name>
+            <name>mod50ack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Is Weird]]></title>
+        <id>https://news.ycombinator.com/item?id=27659590</id>
+        <link href="https://jsisweird.com/"/>
+        <updated>2021-06-28T09:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jsisweird.com/
+Comments URL: https://news.ycombinator.com/item?id=27659590
+Points: 69
+# Comments: 38]]></summary>
+        <author>
+            <name>robin_reala</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +39,8 @@ Points: 12
         <updated>2021-06-28T06:31:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext
 Comments URL: https://news.ycombinator.com/item?id=27658722
-Points: 81
-# Comments: 57]]></summary>
+Points: 102
+# Comments: 75]]></summary>
         <author>
             <name>sidcool</name>
         </author>
@@ -39,8 +52,8 @@ Points: 81
         <updated>2021-06-28T06:28:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gamesfromwithin.com/data-oriented-design
 Comments URL: https://news.ycombinator.com/item?id=27658706
-Points: 50
-# Comments: 29]]></summary>
+Points: 69
+# Comments: 53]]></summary>
         <author>
             <name>tempodox</name>
         </author>
@@ -52,7 +65,7 @@ Points: 50
         <updated>2021-06-28T06:24:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bitgloss.ro/dr-software.pdf
 Comments URL: https://news.ycombinator.com/item?id=27658689
-Points: 30
+Points: 45
 # Comments: 0]]></summary>
         <author>
             <name>dragosslujeru</name>
@@ -65,8 +78,8 @@ Points: 30
         <updated>2021-06-28T06:01:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/finance/mexican-billionaire-salinas-says-his-banking-business-may-embrace-bitcoin-2021-06-28/
 Comments URL: https://news.ycombinator.com/item?id=27658583
-Points: 50
-# Comments: 20]]></summary>
+Points: 66
+# Comments: 24]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -78,8 +91,8 @@ Points: 50
         <updated>2021-06-28T05:38:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/TrungTPhan/status/1409185044501987340
 Comments URL: https://news.ycombinator.com/item?id=27658471
-Points: 152
-# Comments: 108]]></summary>
+Points: 195
+# Comments: 128]]></summary>
         <author>
             <name>dsr12</name>
         </author>
@@ -91,8 +104,8 @@ Points: 152
         <updated>2021-06-28T04:30:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57632831
 Comments URL: https://news.ycombinator.com/item?id=27658145
-Points: 117
-# Comments: 41]]></summary>
+Points: 155
+# Comments: 56]]></summary>
         <author>
             <name>lakis</name>
         </author>
@@ -104,7 +117,7 @@ Points: 117
         <updated>2021-06-28T03:16:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://patrickwu.space/2021/06/03/build-2021/
 Comments URL: https://news.ycombinator.com/item?id=27657723
-Points: 47
+Points: 51
 # Comments: 2]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -117,8 +130,8 @@ Points: 47
         <updated>2021-06-28T02:26:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching
 Comments URL: https://news.ycombinator.com/item?id=27657473
-Points: 66
-# Comments: 36]]></summary>
+Points: 71
+# Comments: 37]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -130,8 +143,8 @@ Points: 66
         <updated>2021-06-28T01:53:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/cyberspace-independence
 Comments URL: https://news.ycombinator.com/item?id=27657311
-Points: 57
-# Comments: 26]]></summary>
+Points: 66
+# Comments: 32]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -143,7 +156,7 @@ Points: 57
         <updated>2021-06-28T01:49:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cs.drexel.edu/~bls96/museum/cardiac.html
 Comments URL: https://news.ycombinator.com/item?id=27657294
-Points: 25
+Points: 27
 # Comments: 4]]></summary>
         <author>
             <name>blewboarwastake</name>
@@ -156,8 +169,8 @@ Points: 25
         <updated>2021-06-27T23:29:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html
 Comments URL: https://news.ycombinator.com/item?id=27656462
-Points: 71
-# Comments: 41]]></summary>
+Points: 75
+# Comments: 44]]></summary>
         <author>
             <name>classichasclass</name>
         </author>
@@ -169,8 +182,8 @@ Points: 71
         <updated>2021-06-27T23:27:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://danilafe.com/blog/math_rendering_is_wrong/
 Comments URL: https://news.ycombinator.com/item?id=27656446
-Points: 106
-# Comments: 60]]></summary>
+Points: 108
+# Comments: 64]]></summary>
         <author>
             <name>uuuuuuuuuuuu</name>
         </author>
@@ -182,36 +195,10 @@ Points: 106
         <updated>2021-06-27T21:05:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://learnui.design/blog/tips-signup-login-ux.html
 Comments URL: https://news.ycombinator.com/item?id=27655328
-Points: 69
-# Comments: 20]]></summary>
+Points: 77
+# Comments: 29]]></summary>
         <author>
             <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substack (YC W18) is hiring engineers to build the future of writing]]></title>
-        <id>https://news.ycombinator.com/item?id=27655275</id>
-        <link href="https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81"/>
-        <updated>2021-06-27T21:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81
-Comments URL: https://news.ycombinator.com/item?id=27655275
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>jairajs89</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverse-engineering the Final Fantasy: Theatrhythm track format]]></title>
-        <id>https://news.ycombinator.com/item?id=27654966</id>
-        <link href="https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md"/>
-        <updated>2021-06-27T20:26:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md
-Comments URL: https://news.ycombinator.com/item?id=27654966
-Points: 79
-# Comments: 8]]></summary>
-        <author>
-            <name>mpiroot</name>
         </author>
     </entry>
     <entry>
@@ -221,7 +208,7 @@ Points: 79
         <updated>2021-06-27T20:06:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html
 Comments URL: https://news.ycombinator.com/item?id=27654807
-Points: 112
+Points: 114
 # Comments: 48]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -234,7 +221,7 @@ Points: 112
         <updated>2021-06-27T19:04:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cirosantilli/x86-bare-metal-examples
 Comments URL: https://news.ycombinator.com/item?id=27654257
-Points: 226
+Points: 230
 # Comments: 18]]></summary>
         <author>
             <name>peter_d_sherman</name>
@@ -247,8 +234,8 @@ Points: 226
         <updated>2021-06-27T18:55:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
 Comments URL: https://news.ycombinator.com/item?id=27654182
-Points: 368
-# Comments: 40]]></summary>
+Points: 376
+# Comments: 41]]></summary>
         <author>
             <name>peter_d_sherman</name>
         </author>
@@ -260,10 +247,23 @@ Points: 368
         <updated>2021-06-27T07:14:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.gotw.ca/publications/concurrency-ddj.htm
 Comments URL: https://news.ycombinator.com/item?id=27649343
-Points: 5
-# Comments: 1]]></summary>
+Points: 13
+# Comments: 4]]></summary>
         <author>
             <name>pcr910303</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A rediscovered lost memoir about John Locke]]></title>
+        <id>https://news.ycombinator.com/item?id=27649211</id>
+        <link href="https://www.theguardian.com/books/2021/jun/24/lost-memoir-paints-revered-philosopher-john-locke-as-vain-lazy-and-pompous"/>
+        <updated>2021-06-27T06:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2021/jun/24/lost-memoir-paints-revered-philosopher-john-locke-as-vain-lazy-and-pompous
+Comments URL: https://news.ycombinator.com/item?id=27649211
+Points: 45
+# Comments: 26]]></summary>
+        <author>
+            <name>pepys</name>
         </author>
     </entry>
     <entry>
