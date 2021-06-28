@@ -2,49 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T05:10:10.246Z</updated>
+    <updated>2021-06-28T06:15:14.536Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[Intro to Debugging in Go on VSCode]]></title>
-        <id>https://news.ycombinator.com/item?id=27658100</id>
-        <link href="https://viggy28.github.io/til/2021-06-27T20-52-11-go-debugging-vscode.html"/>
-        <updated>2021-06-28T04:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://viggy28.github.io/til/2021-06-27T20-52-11-go-debugging-vscode.html
-Comments URL: https://news.ycombinator.com/item?id=27658100
-Points: 15
-# Comments: 0]]></summary>
-        <author>
-            <name>vira28</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earth is trapping twice as much heat as it did in 2005]]></title>
-        <id>https://news.ycombinator.com/item?id=27658049</id>
-        <link href="https://www.livescience.com/earth-trapping-more-heat-energy-imbalance-doubled.html"/>
-        <updated>2021-06-28T04:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.livescience.com/earth-trapping-more-heat-energy-imbalance-doubled.html
-Comments URL: https://news.ycombinator.com/item?id=27658049
-Points: 17
-# Comments: 3]]></summary>
-        <author>
-            <name>ijidak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thousands without power during record-breaking heat]]></title>
-        <id>https://news.ycombinator.com/item?id=27657848</id>
-        <link href="https://www.koin.com/news/thousands-without-power-during-record-breaking-heat/"/>
-        <updated>2021-06-28T03:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.koin.com/news/thousands-without-power-during-record-breaking-heat/
-Comments URL: https://news.ycombinator.com/item?id=27657848
-Points: 3
-# Comments: 0]]></summary>
-        <author>
-            <name>vegetablepotpie</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Build 2021: My Tiny Little Summary]]></title>
         <id>https://news.ycombinator.com/item?id=27657723</id>
@@ -52,7 +13,7 @@ Points: 3
         <updated>2021-06-28T03:16:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://patrickwu.space/2021/06/03/build-2021/
 Comments URL: https://news.ycombinator.com/item?id=27657723
-Points: 3
+Points: 18
 # Comments: 0]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -65,10 +26,36 @@ Points: 3
         <updated>2021-06-28T02:26:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching
 Comments URL: https://news.ycombinator.com/item?id=27657473
-Points: 26
-# Comments: 7]]></summary>
+Points: 38
+# Comments: 25]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Declaration of the Independence of Cyberspace (1996)]]></title>
+        <id>https://news.ycombinator.com/item?id=27657311</id>
+        <link href="https://www.eff.org/cyberspace-independence"/>
+        <updated>2021-06-28T01:53:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eff.org/cyberspace-independence
+Comments URL: https://news.ycombinator.com/item?id=27657311
+Points: 21
+# Comments: 7]]></summary>
+        <author>
+            <name>Anon84</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardiac: CARDboard Illustrative Aid to Computation (1969)]]></title>
+        <id>https://news.ycombinator.com/item?id=27657294</id>
+        <link href="https://www.cs.drexel.edu/~bls96/museum/cardiac.html"/>
+        <updated>2021-06-28T01:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cs.drexel.edu/~bls96/museum/cardiac.html
+Comments URL: https://news.ycombinator.com/item?id=27657294
+Points: 19
+# Comments: 4]]></summary>
+        <author>
+            <name>blewboarwastake</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +65,8 @@ Points: 26
         <updated>2021-06-28T01:05:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/googlecloudplatform/elcarro-oracle-operator
 Comments URL: https://news.ycombinator.com/item?id=27657028
-Points: 14
-# Comments: 6]]></summary>
+Points: 17
+# Comments: 8]]></summary>
         <author>
             <name>kelseyhightower</name>
         </author>
@@ -91,8 +78,8 @@ Points: 14
         <updated>2021-06-27T23:29:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html
 Comments URL: https://news.ycombinator.com/item?id=27656462
-Points: 54
-# Comments: 31]]></summary>
+Points: 62
+# Comments: 35]]></summary>
         <author>
             <name>classichasclass</name>
         </author>
@@ -104,23 +91,23 @@ Points: 54
         <updated>2021-06-27T23:27:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://danilafe.com/blog/math_rendering_is_wrong/
 Comments URL: https://news.ycombinator.com/item?id=27656446
-Points: 76
-# Comments: 50]]></summary>
+Points: 87
+# Comments: 53]]></summary>
         <author>
             <name>uuuuuuuuuuuu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada to make online hate speech a crime punishable by fine]]></title>
-        <id>https://news.ycombinator.com/item?id=27656344</id>
-        <link href="https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213"/>
-        <updated>2021-06-27T23:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213
-Comments URL: https://news.ycombinator.com/item?id=27656344
-Points: 159
-# Comments: 157]]></summary>
+        <title type="html"><![CDATA[Tips for Better Signup / Login UX]]></title>
+        <id>https://news.ycombinator.com/item?id=27655328</id>
+        <link href="https://learnui.design/blog/tips-signup-login-ux.html"/>
+        <updated>2021-06-27T21:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://learnui.design/blog/tips-signup-login-ux.html
+Comments URL: https://news.ycombinator.com/item?id=27655328
+Points: 17
+# Comments: 6]]></summary>
         <author>
-            <name>elorant</name>
+            <name>mooreds</name>
         </author>
     </entry>
     <entry>
@@ -143,8 +130,8 @@ Points: 1
         <updated>2021-06-27T20:26:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md
 Comments URL: https://news.ycombinator.com/item?id=27654966
-Points: 66
-# Comments: 4]]></summary>
+Points: 68
+# Comments: 5]]></summary>
         <author>
             <name>mpiroot</name>
         </author>
@@ -156,8 +143,8 @@ Points: 66
         <updated>2021-06-27T20:06:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html
 Comments URL: https://news.ycombinator.com/item?id=27654807
-Points: 89
-# Comments: 34]]></summary>
+Points: 103
+# Comments: 38]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -169,8 +156,8 @@ Points: 89
         <updated>2021-06-27T20:04:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/
 Comments URL: https://news.ycombinator.com/item?id=27654787
-Points: 476
-# Comments: 321]]></summary>
+Points: 481
+# Comments: 327]]></summary>
         <author>
             <name>johndcook</name>
         </author>
@@ -182,7 +169,7 @@ Points: 476
         <updated>2021-06-27T19:04:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cirosantilli/x86-bare-metal-examples
 Comments URL: https://news.ycombinator.com/item?id=27654257
-Points: 184
+Points: 195
 # Comments: 13]]></summary>
         <author>
             <name>peter_d_sherman</name>
@@ -195,8 +182,8 @@ Points: 184
         <updated>2021-06-27T18:55:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
 Comments URL: https://news.ycombinator.com/item?id=27654182
-Points: 292
-# Comments: 32]]></summary>
+Points: 310
+# Comments: 35]]></summary>
         <author>
             <name>peter_d_sherman</name>
         </author>
@@ -208,10 +195,25 @@ Points: 292
         <updated>2021-06-27T18:55:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ssd.eff.org/en/module/privacy-students
 Comments URL: https://news.ycombinator.com/item?id=27654178
-Points: 174
-# Comments: 54]]></summary>
+Points: 181
+# Comments: 60]]></summary>
         <author>
             <name>sonograph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How to learn how to sell?]]></title>
+        <id>https://news.ycombinator.com/item?id=27653357</id>
+        <link href="https://news.ycombinator.com/item?id=27653357"/>
+        <updated>2021-06-27T17:24:03.000Z</updated>
+        <summary type="html"><![CDATA[I've become convinced that "sales" is a pivotal skill that everyone should learn. You constantly have to sell: sell yourself, sell your ideas, sell your product, sell your vision.
+However I see no easy way to learn how to sell. For sure the direct way seems preferable (learning by doing), but having a job already + living abroad makes it a bit hard.
+Any tips would appreciated.
+Comments URL: https://news.ycombinator.com/item?id=27653357
+Points: 192
+# Comments: 90]]></summary>
+        <author>
+            <name>giansegato</name>
         </author>
     </entry>
     <entry>
@@ -221,49 +223,49 @@ Points: 174
         <updated>2021-06-27T16:05:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.unisonweb.org/
 Comments URL: https://news.ycombinator.com/item?id=27652677
-Points: 342
-# Comments: 103]]></summary>
+Points: 356
+# Comments: 107]]></summary>
         <author>
             <name>gautamcgoel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11, Amazon, and Uncomfortable Questions]]></title>
-        <id>https://news.ycombinator.com/item?id=27651983</id>
-        <link href="https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html"/>
-        <updated>2021-06-27T14:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html
-Comments URL: https://news.ycombinator.com/item?id=27651983
-Points: 432
-# Comments: 224]]></summary>
+        <title type="html"><![CDATA[Ask HN: Good books/courses to learn networking essentials for web developers?]]></title>
+        <id>https://news.ycombinator.com/item?id=27650775</id>
+        <link href="https://news.ycombinator.com/item?id=27650775"/>
+        <updated>2021-06-27T11:45:29.000Z</updated>
+        <summary type="html"><![CDATA[With 'networking essentials' I mean software components which constitute the infrastructure which a webapp lives within: e.g reverse proxy, DMZ, firewall, etc.
+Comments URL: https://news.ycombinator.com/item?id=27650775
+Points: 347
+# Comments: 58]]></summary>
         <author>
-            <name>ingve</name>
+            <name>giulianopz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Classified Ministry of Defence documents found at bus stop]]></title>
-        <id>https://news.ycombinator.com/item?id=27651828</id>
-        <link href="https://www.bbc.com/news/uk-57624942"/>
-        <updated>2021-06-27T14:27:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-57624942
-Comments URL: https://news.ycombinator.com/item?id=27651828
-Points: 123
-# Comments: 60]]></summary>
+        <title type="html"><![CDATA[How to create an unfair coin and prove it with math (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=27650588</id>
+        <link href="https://izbicki.me/blog/how-to-create-an-unfair-coin-and-prove-it-with-math.html"/>
+        <updated>2021-06-27T11:15:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://izbicki.me/blog/how-to-create-an-unfair-coin-and-prove-it-with-math.html
+Comments URL: https://news.ycombinator.com/item?id=27650588
+Points: 34
+# Comments: 8]]></summary>
         <author>
-            <name>georgecmu</name>
+            <name>homarp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Binance banned from doing business in UK]]></title>
-        <id>https://news.ycombinator.com/item?id=27651730</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance"/>
-        <updated>2021-06-27T14:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance
-Comments URL: https://news.ycombinator.com/item?id=27651730
-Points: 253
-# Comments: 208]]></summary>
+        <title type="html"><![CDATA[A rediscovered lost memoir about John Locke]]></title>
+        <id>https://news.ycombinator.com/item?id=27649211</id>
+        <link href="https://www.theguardian.com/books/2021/jun/24/lost-memoir-paints-revered-philosopher-john-locke-as-vain-lazy-and-pompous"/>
+        <updated>2021-06-27T06:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2021/jun/24/lost-memoir-paints-revered-philosopher-john-locke-as-vain-lazy-and-pompous
+Comments URL: https://news.ycombinator.com/item?id=27649211
+Points: 34
+# Comments: 17]]></summary>
         <author>
-            <name>Osiris30</name>
+            <name>pepys</name>
         </author>
     </entry>
     <entry>
