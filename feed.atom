@@ -2,32 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T00:40:04.803Z</updated>
+    <updated>2021-06-28T01:56:04.585Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Math Rendering Is Wrong]]></title>
+        <title type="html"><![CDATA[The parallel universe of FireWire hubs]]></title>
+        <id>https://news.ycombinator.com/item?id=27656462</id>
+        <link href="https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html"/>
+        <updated>2021-06-27T23:29:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html
+Comments URL: https://news.ycombinator.com/item?id=27656462
+Points: 16
+# Comments: 8]]></summary>
+        <author>
+            <name>classichasclass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Problems with math rendering on the web (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27656446</id>
         <link href="https://danilafe.com/blog/math_rendering_is_wrong/"/>
         <updated>2021-06-27T23:27:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://danilafe.com/blog/math_rendering_is_wrong/
 Comments URL: https://news.ycombinator.com/item?id=27656446
-Points: 17
-# Comments: 7]]></summary>
+Points: 38
+# Comments: 28]]></summary>
         <author>
             <name>uuuuuuuuuuuu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada to Make Online Hate Speech a Crime Punishable by $16,000 Fine]]></title>
+        <title type="html"><![CDATA[Canada to make online hate speech a crime punishable by fine]]></title>
         <id>https://news.ycombinator.com/item?id=27656344</id>
         <link href="https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213"/>
         <updated>2021-06-27T23:11:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213
 Comments URL: https://news.ycombinator.com/item?id=27656344
-Points: 46
-# Comments: 18]]></summary>
+Points: 74
+# Comments: 70]]></summary>
         <author>
             <name>elorant</name>
         </author>
@@ -39,8 +52,8 @@ Points: 46
         <updated>2021-06-27T22:36:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.gosh.nhs.uk/news/gosh-led-metformin-trial-dramatically-reduces-seizures-people-tuberous-sclerosis/
 Comments URL: https://news.ycombinator.com/item?id=27656127
-Points: 31
-# Comments: 11]]></summary>
+Points: 48
+# Comments: 28]]></summary>
         <author>
             <name>open-source-ux</name>
         </author>
@@ -65,7 +78,7 @@ Points: 1
         <updated>2021-06-27T20:26:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md
 Comments URL: https://news.ycombinator.com/item?id=27654966
-Points: 33
+Points: 49
 # Comments: 0]]></summary>
         <author>
             <name>mpiroot</name>
@@ -78,8 +91,8 @@ Points: 33
         <updated>2021-06-27T20:06:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html
 Comments URL: https://news.ycombinator.com/item?id=27654807
-Points: 58
-# Comments: 18]]></summary>
+Points: 68
+# Comments: 21]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -91,8 +104,8 @@ Points: 58
         <updated>2021-06-27T20:04:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/
 Comments URL: https://news.ycombinator.com/item?id=27654787
-Points: 441
-# Comments: 283]]></summary>
+Points: 455
+# Comments: 298]]></summary>
         <author>
             <name>johndcook</name>
         </author>
@@ -104,34 +117,34 @@ Points: 441
         <updated>2021-06-27T19:04:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cirosantilli/x86-bare-metal-examples
 Comments URL: https://news.ycombinator.com/item?id=27654257
-Points: 122
-# Comments: 5]]></summary>
+Points: 138
+# Comments: 10]]></summary>
         <author>
             <name>peter_d_sherman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let's code a TCP/IP stack]]></title>
+        <title type="html"><![CDATA[Let's code a TCP/IP stack (2016)]]></title>
         <id>https://news.ycombinator.com/item?id=27654182</id>
         <link href="https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/"/>
         <updated>2021-06-27T18:55:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
 Comments URL: https://news.ycombinator.com/item?id=27654182
-Points: 199
-# Comments: 23]]></summary>
+Points: 229
+# Comments: 27]]></summary>
         <author>
             <name>peter_d_sherman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schools Are Spying on Students – But Students Can Fight Back]]></title>
+        <title type="html"><![CDATA[Privacy for Students: Surveillance Self-Defense]]></title>
         <id>https://news.ycombinator.com/item?id=27654178</id>
-        <link href="https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back"/>
+        <link href="https://ssd.eff.org/en/module/privacy-students"/>
         <updated>2021-06-27T18:55:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back
+        <summary type="html"><![CDATA[Article URL: https://ssd.eff.org/en/module/privacy-students
 Comments URL: https://news.ycombinator.com/item?id=27654178
-Points: 129
-# Comments: 27]]></summary>
+Points: 143
+# Comments: 41]]></summary>
         <author>
             <name>sonograph</name>
         </author>
@@ -143,8 +156,8 @@ Points: 129
         <updated>2021-06-27T18:23:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365
 Comments URL: https://news.ycombinator.com/item?id=27653868
-Points: 306
-# Comments: 263]]></summary>
+Points: 333
+# Comments: 276]]></summary>
         <author>
             <name>colinprince</name>
         </author>
@@ -156,8 +169,8 @@ Points: 306
         <updated>2021-06-27T17:54:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lithub.com/the-genius-of-william-shawn-and-the-invention-of-the-new-yorker/
 Comments URL: https://news.ycombinator.com/item?id=27653628
-Points: 4
-# Comments: 0]]></summary>
+Points: 6
+# Comments: 1]]></summary>
         <author>
             <name>chesterfield</name>
         </author>
@@ -171,8 +184,8 @@ Points: 4
 However I see no easy way to learn how to sell. For sure the direct way seems preferable (learning by doing), but having a job already + living abroad makes it a bit hard.
 Any tips would appreciated.
 Comments URL: https://news.ycombinator.com/item?id=27653357
-Points: 105
-# Comments: 49]]></summary>
+Points: 127
+# Comments: 58]]></summary>
         <author>
             <name>giansegato</name>
         </author>
@@ -184,8 +197,8 @@ Points: 105
         <updated>2021-06-27T16:05:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.unisonweb.org/
 Comments URL: https://news.ycombinator.com/item?id=27652677
-Points: 286
-# Comments: 90]]></summary>
+Points: 302
+# Comments: 96]]></summary>
         <author>
             <name>gautamcgoel</name>
         </author>
@@ -197,8 +210,8 @@ Points: 286
         <updated>2021-06-27T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/
 Comments URL: https://news.ycombinator.com/item?id=27652615
-Points: 136
-# Comments: 102]]></summary>
+Points: 143
+# Comments: 109]]></summary>
         <author>
             <name>donohoe</name>
         </author>
@@ -210,8 +223,8 @@ Points: 136
         <updated>2021-06-27T15:11:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://constructionphysics.substack.com/p/lumber-price-faq
 Comments URL: https://news.ycombinator.com/item?id=27652178
-Points: 222
-# Comments: 122]]></summary>
+Points: 232
+# Comments: 127]]></summary>
         <author>
             <name>Whitespace</name>
         </author>
@@ -223,23 +236,10 @@ Points: 222
         <updated>2021-06-27T14:47:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html
 Comments URL: https://news.ycombinator.com/item?id=27651983
-Points: 397
-# Comments: 208]]></summary>
+Points: 406
+# Comments: 214]]></summary>
         <author>
             <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turbo Rascal Syntax Error]]></title>
-        <id>https://news.ycombinator.com/item?id=27651963</id>
-        <link href="https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/"/>
-        <updated>2021-06-27T14:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/
-Comments URL: https://news.ycombinator.com/item?id=27651963
-Points: 88
-# Comments: 9]]></summary>
-        <author>
-            <name>ibobev</name>
         </author>
     </entry>
     <entry>
@@ -249,8 +249,8 @@ Points: 88
         <updated>2021-06-27T14:27:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-57624942
 Comments URL: https://news.ycombinator.com/item?id=27651828
-Points: 98
-# Comments: 38]]></summary>
+Points: 111
+# Comments: 43]]></summary>
         <author>
             <name>georgecmu</name>
         </author>
@@ -262,8 +262,8 @@ Points: 98
         <updated>2021-06-27T14:15:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance
 Comments URL: https://news.ycombinator.com/item?id=27651730
-Points: 170
-# Comments: 137]]></summary>
+Points: 195
+# Comments: 154]]></summary>
         <author>
             <name>Osiris30</name>
         </author>
