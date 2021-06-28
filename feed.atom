@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T14:10:38.089Z</updated>
+    <updated>2021-06-28T15:13:38.344Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Good news: Google no longer requires AMP. Bad news: Replacement might be worse]]></title>
+        <id>https://news.ycombinator.com/item?id=27662701</id>
+        <link href="https://www.theregister.com/2021/06/28/google_amp_core_web_vitals/"/>
+        <updated>2021-06-28T14:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/28/google_amp_core_web_vitals/
+Comments URL: https://news.ycombinator.com/item?id=27662701
+Points: 8
+# Comments: 1]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dev Behind One of the Best SNES Emulators Has Taken His Own Life]]></title>
+        <id>https://news.ycombinator.com/item?id=27662628</id>
+        <link href="https://www.nintendolife.com/news/2021/06/the_dev_behind_one_of_the_worlds_best_snes_emulators_has_reportedly_passed_away"/>
+        <updated>2021-06-28T14:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nintendolife.com/news/2021/06/the_dev_behind_one_of_the_worlds_best_snes_emulators_has_reportedly_passed_away
+Comments URL: https://news.ycombinator.com/item?id=27662628
+Points: 16
+# Comments: 4]]></summary>
+        <author>
+            <name>chirau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positioning Overlay Content with CSS Grid]]></title>
+        <id>https://css-tricks.com/?p=342971</id>
+        <link href="https://css-tricks.com/positioning-overlay-content-with-css-grid/"/>
+        <updated>2021-06-28T14:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.
+Recently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …
+The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ryan Mulligan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn How to Create a Design System in Figma]]></title>
         <id>60d4d3d86e1a1407b6b0bb25</id>
@@ -33,8 +71,8 @@
         <updated>2021-06-28T13:26:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://2ality.com/2021/06/temporal-api.html
 Comments URL: https://news.ycombinator.com/item?id=27661667
-Points: 8
-# Comments: 3]]></summary>
+Points: 40
+# Comments: 15]]></summary>
         <author>
             <name>Amorymeltzer</name>
         </author>
@@ -46,8 +84,8 @@ Points: 8
         <updated>2021-06-28T13:18:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf
 Comments URL: https://news.ycombinator.com/item?id=27661559
-Points: 17
-# Comments: 12]]></summary>
+Points: 47
+# Comments: 39]]></summary>
         <author>
             <name>dvfjsdhgfv</name>
         </author>
@@ -72,10 +110,23 @@ Points: 1
         <updated>2021-06-28T11:59:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/what-if/2021/07/03/what-if-an-ai-wins-the-nobel-prize-for-medicine
 Comments URL: https://news.ycombinator.com/item?id=27660717
-Points: 9
-# Comments: 3]]></summary>
+Points: 24
+# Comments: 30]]></summary>
         <author>
             <name>pama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World’s first lab-grown meat facility pumps out 5k burgers per day]]></title>
+        <id>https://news.ycombinator.com/item?id=27660562</id>
+        <link href="https://www.slashgear.com/worlds-first-lab-grown-meat-facility-pumps-out-5000-burgers-per-day-25680053/"/>
+        <updated>2021-06-28T11:42:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.slashgear.com/worlds-first-lab-grown-meat-facility-pumps-out-5000-burgers-per-day-25680053/
+Comments URL: https://news.ycombinator.com/item?id=27660562
+Points: 114
+# Comments: 111]]></summary>
+        <author>
+            <name>hochmartinez</name>
         </author>
     </entry>
     <entry>
@@ -85,8 +136,8 @@ Points: 9
         <updated>2021-06-28T10:59:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ipds.io/
 Comments URL: https://news.ycombinator.com/item?id=27660253
-Points: 36
-# Comments: 14]]></summary>
+Points: 41
+# Comments: 18]]></summary>
         <author>
             <name>dumitruflorin</name>
         </author>
@@ -98,8 +149,8 @@ Points: 36
         <updated>2021-06-28T10:39:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57628653
 Comments URL: https://news.ycombinator.com/item?id=27660107
-Points: 65
-# Comments: 22]]></summary>
+Points: 83
+# Comments: 42]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -115,14 +166,14 @@ Points: 65
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Will Never Use a Microsoft Account to Log into My Own PC]]></title>
+        <title type="html"><![CDATA[I Will Never Use a Microsoft Account to Log Into My Own PC]]></title>
         <id>https://news.ycombinator.com/item?id=27659988</id>
         <link href="https://www.extremetech.com/computing/324134-i-will-never-use-a-microsoft-account-to-log-into-my-own-pc"/>
         <updated>2021-06-28T10:23:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.extremetech.com/computing/324134-i-will-never-use-a-microsoft-account-to-log-into-my-own-pc
 Comments URL: https://news.ycombinator.com/item?id=27659988
-Points: 424
-# Comments: 300]]></summary>
+Points: 522
+# Comments: 382]]></summary>
         <author>
             <name>terseus</name>
         </author>
@@ -134,8 +185,8 @@ Points: 424
         <updated>2021-06-28T09:31:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist
 Comments URL: https://news.ycombinator.com/item?id=27659690
-Points: 354
-# Comments: 78]]></summary>
+Points: 402
+# Comments: 96]]></summary>
         <author>
             <name>mod50ack</name>
         </author>
@@ -147,8 +198,8 @@ Points: 354
         <updated>2021-06-28T09:12:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jsisweird.com/
 Comments URL: https://news.ycombinator.com/item?id=27659590
-Points: 237
-# Comments: 221]]></summary>
+Points: 259
+# Comments: 261]]></summary>
         <author>
             <name>robin_reala</name>
         </author>
@@ -160,8 +211,8 @@ Points: 237
         <updated>2021-06-28T06:31:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext
 Comments URL: https://news.ycombinator.com/item?id=27658722
-Points: 202
-# Comments: 124]]></summary>
+Points: 218
+# Comments: 139]]></summary>
         <author>
             <name>sidcool</name>
         </author>
@@ -173,8 +224,8 @@ Points: 202
         <updated>2021-06-28T06:28:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gamesfromwithin.com/data-oriented-design
 Comments URL: https://news.ycombinator.com/item?id=27658706
-Points: 120
-# Comments: 100]]></summary>
+Points: 140
+# Comments: 124]]></summary>
         <author>
             <name>tempodox</name>
         </author>
@@ -186,8 +237,8 @@ Points: 120
         <updated>2021-06-28T06:24:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bitgloss.ro/dr-software.pdf
 Comments URL: https://news.ycombinator.com/item?id=27658689
-Points: 84
-# Comments: 8]]></summary>
+Points: 96
+# Comments: 12]]></summary>
         <author>
             <name>dragosslujeru</name>
         </author>
@@ -199,8 +250,8 @@ Points: 84
         <updated>2021-06-28T06:01:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/finance/mexican-billionaire-salinas-says-his-banking-business-may-embrace-bitcoin-2021-06-28/
 Comments URL: https://news.ycombinator.com/item?id=27658583
-Points: 125
-# Comments: 82]]></summary>
+Points: 144
+# Comments: 104]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -212,8 +263,8 @@ Points: 125
         <updated>2021-06-28T05:38:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/TrungTPhan/status/1409185044501987340
 Comments URL: https://news.ycombinator.com/item?id=27658471
-Points: 382
-# Comments: 247]]></summary>
+Points: 470
+# Comments: 275]]></summary>
         <author>
             <name>dsr12</name>
         </author>
@@ -225,23 +276,10 @@ Points: 382
         <updated>2021-06-28T04:30:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57632831
 Comments URL: https://news.ycombinator.com/item?id=27658145
-Points: 262
-# Comments: 93]]></summary>
+Points: 289
+# Comments: 112]]></summary>
         <author>
             <name>lakis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unicode sorting is hard and why browsers added special emoji matching to regexp]]></title>
-        <id>https://news.ycombinator.com/item?id=27657473</id>
-        <link href="https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching"/>
-        <updated>2021-06-28T02:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching
-Comments URL: https://news.ycombinator.com/item?id=27657473
-Points: 87
-# Comments: 48]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -251,36 +289,10 @@ Points: 87
         <updated>2021-06-28T01:53:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/cyberspace-independence
 Comments URL: https://news.ycombinator.com/item?id=27657311
-Points: 98
-# Comments: 38]]></summary>
+Points: 111
+# Comments: 40]]></summary>
         <author>
             <name>Anon84</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardiac: CARDboard Illustrative Aid to Computation (1969)]]></title>
-        <id>https://news.ycombinator.com/item?id=27657294</id>
-        <link href="https://www.cs.drexel.edu/~bls96/museum/cardiac.html"/>
-        <updated>2021-06-28T01:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cs.drexel.edu/~bls96/museum/cardiac.html
-Comments URL: https://news.ycombinator.com/item?id=27657294
-Points: 36
-# Comments: 8]]></summary>
-        <author>
-            <name>blewboarwastake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Problems with math rendering on the web (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27656446</id>
-        <link href="https://danilafe.com/blog/math_rendering_is_wrong/"/>
-        <updated>2021-06-27T23:27:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://danilafe.com/blog/math_rendering_is_wrong/
-Comments URL: https://news.ycombinator.com/item?id=27656446
-Points: 122
-# Comments: 74]]></summary>
-        <author>
-            <name>uuuuuuuuuuuu</name>
         </author>
     </entry>
     <entry>
@@ -290,8 +302,8 @@ Points: 122
         <updated>2021-06-27T21:05:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://learnui.design/blog/tips-signup-login-ux.html
 Comments URL: https://news.ycombinator.com/item?id=27655328
-Points: 119
-# Comments: 61]]></summary>
+Points: 133
+# Comments: 67]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -642,18 +654,6 @@ Those …
 The post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Louis Hoebregts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start Serving Optimized Images in Vue]]></title>
-        <id>https://css-tricks.com/?p=342257</id>
-        <link href="https://css-tricks.com/start-serving-optimized-images-in-vue/"/>
-        <updated>2021-06-17T14:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.
-However, web performance is also a growing problem for most websites. And images are at the heart of many web …
-The post Start Serving Optimized Images in Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>ImageEngine</name>
         </author>
     </entry>
     <entry>
