@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T07:10:27.801Z</updated>
+    <updated>2021-06-28T08:13:24.421Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tips and tricks I learned from my Kickstarter campaign]]></title>
+        <id>https://news.ycombinator.com/item?id=27658806</id>
+        <link href="https://anchor.fm/wannabentrepreneur/episodes/49---Tips-and-tricks-for-a-successful-Kickstarter-campaign-e12o20i"/>
+        <updated>2021-06-28T06:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://anchor.fm/wannabentrepreneur/episodes/49---Tips-and-tricks-for-a-successful-Kickstarter-campaign-e12o20i
+Comments URL: https://news.ycombinator.com/item?id=27658806
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>tiagorbf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Computing Students Should Contribute to Open Source Software Projects]]></title>
         <id>https://news.ycombinator.com/item?id=27658722</id>
@@ -13,23 +26,49 @@
         <updated>2021-06-28T06:31:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext
 Comments URL: https://news.ycombinator.com/item?id=27658722
-Points: 8
-# Comments: 0]]></summary>
+Points: 56
+# Comments: 31]]></summary>
         <author>
             <name>sidcool</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FCA bans largest crypto-currency exchange Binance]]></title>
-        <id>https://news.ycombinator.com/item?id=27658638</id>
-        <link href="https://www.bbc.co.uk/news/business-57632831"/>
-        <updated>2021-06-28T06:11:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/business-57632831
-Comments URL: https://news.ycombinator.com/item?id=27658638
-Points: 4
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[Data-oriented design or why you might be shooting yourself in the foot with OOP]]></title>
+        <id>https://news.ycombinator.com/item?id=27658706</id>
+        <link href="https://gamesfromwithin.com/data-oriented-design"/>
+        <updated>2021-06-28T06:28:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gamesfromwithin.com/data-oriented-design
+Comments URL: https://news.ycombinator.com/item?id=27658706
+Points: 22
+# Comments: 3]]></summary>
         <author>
-            <name>asplake</name>
+            <name>tempodox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr. Software – Refactoring from OOP to FP [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27658689</id>
+        <link href="https://bitgloss.ro/dr-software.pdf"/>
+        <updated>2021-06-28T06:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bitgloss.ro/dr-software.pdf
+Comments URL: https://news.ycombinator.com/item?id=27658689
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>dragosslujeru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mexican billionaire Salinas says his banking business may embrace Bitcoin]]></title>
+        <id>https://news.ycombinator.com/item?id=27658583</id>
+        <link href="https://www.reuters.com/business/finance/mexican-billionaire-salinas-says-his-banking-business-may-embrace-bitcoin-2021-06-28/"/>
+        <updated>2021-06-28T06:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/finance/mexican-billionaire-salinas-says-his-banking-business-may-embrace-bitcoin-2021-06-28/
+Comments URL: https://news.ycombinator.com/item?id=27658583
+Points: 28
+# Comments: 6]]></summary>
+        <author>
+            <name>shivbhatt</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +78,8 @@ Points: 4
         <updated>2021-06-28T05:38:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/TrungTPhan/status/1409185044501987340
 Comments URL: https://news.ycombinator.com/item?id=27658471
-Points: 46
-# Comments: 26]]></summary>
+Points: 99
+# Comments: 66]]></summary>
         <author>
             <name>dsr12</name>
         </author>
@@ -52,8 +91,8 @@ Points: 46
         <updated>2021-06-28T04:30:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57632831
 Comments URL: https://news.ycombinator.com/item?id=27658145
-Points: 42
-# Comments: 11]]></summary>
+Points: 86
+# Comments: 32]]></summary>
         <author>
             <name>lakis</name>
         </author>
@@ -65,8 +104,8 @@ Points: 42
         <updated>2021-06-28T03:16:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://patrickwu.space/2021/06/03/build-2021/
 Comments URL: https://news.ycombinator.com/item?id=27657723
-Points: 35
-# Comments: 1]]></summary>
+Points: 42
+# Comments: 2]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -78,7 +117,7 @@ Points: 35
         <updated>2021-06-28T02:26:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching
 Comments URL: https://news.ycombinator.com/item?id=27657473
-Points: 50
+Points: 61
 # Comments: 32]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -91,8 +130,8 @@ Points: 50
         <updated>2021-06-28T01:53:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/cyberspace-independence
 Comments URL: https://news.ycombinator.com/item?id=27657311
-Points: 41
-# Comments: 13]]></summary>
+Points: 47
+# Comments: 22]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -104,23 +143,10 @@ Points: 41
         <updated>2021-06-28T01:49:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cs.drexel.edu/~bls96/museum/cardiac.html
 Comments URL: https://news.ycombinator.com/item?id=27657294
-Points: 23
+Points: 24
 # Comments: 4]]></summary>
         <author>
             <name>blewboarwastake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El Carro: Run Oracle Databases on Kubernetes]]></title>
-        <id>https://news.ycombinator.com/item?id=27657028</id>
-        <link href="https://github.com/googlecloudplatform/elcarro-oracle-operator"/>
-        <updated>2021-06-28T01:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/googlecloudplatform/elcarro-oracle-operator
-Comments URL: https://news.ycombinator.com/item?id=27657028
-Points: 19
-# Comments: 11]]></summary>
-        <author>
-            <name>kelseyhightower</name>
         </author>
     </entry>
     <entry>
@@ -130,8 +156,8 @@ Points: 19
         <updated>2021-06-27T23:29:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html
 Comments URL: https://news.ycombinator.com/item?id=27656462
-Points: 65
-# Comments: 35]]></summary>
+Points: 67
+# Comments: 39]]></summary>
         <author>
             <name>classichasclass</name>
         </author>
@@ -143,8 +169,8 @@ Points: 65
         <updated>2021-06-27T23:27:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://danilafe.com/blog/math_rendering_is_wrong/
 Comments URL: https://news.ycombinator.com/item?id=27656446
-Points: 94
-# Comments: 55]]></summary>
+Points: 100
+# Comments: 56]]></summary>
         <author>
             <name>uuuuuuuuuuuu</name>
         </author>
@@ -156,8 +182,8 @@ Points: 94
         <updated>2021-06-27T21:05:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://learnui.design/blog/tips-signup-login-ux.html
 Comments URL: https://news.ycombinator.com/item?id=27655328
-Points: 35
-# Comments: 8]]></summary>
+Points: 53
+# Comments: 12]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -182,8 +208,8 @@ Points: 1
         <updated>2021-06-27T20:26:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md
 Comments URL: https://news.ycombinator.com/item?id=27654966
-Points: 72
-# Comments: 6]]></summary>
+Points: 77
+# Comments: 8]]></summary>
         <author>
             <name>mpiroot</name>
         </author>
@@ -195,23 +221,10 @@ Points: 72
         <updated>2021-06-27T20:06:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html
 Comments URL: https://news.ycombinator.com/item?id=27654807
-Points: 110
-# Comments: 41]]></summary>
+Points: 112
+# Comments: 45]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Challenges in the diagnosis of magnesium status]]></title>
-        <id>https://news.ycombinator.com/item?id=27654787</id>
-        <link href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/"/>
-        <updated>2021-06-27T20:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/
-Comments URL: https://news.ycombinator.com/item?id=27654787
-Points: 487
-# Comments: 333]]></summary>
-        <author>
-            <name>johndcook</name>
         </author>
     </entry>
     <entry>
@@ -221,8 +234,8 @@ Points: 487
         <updated>2021-06-27T19:04:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cirosantilli/x86-bare-metal-examples
 Comments URL: https://news.ycombinator.com/item?id=27654257
-Points: 207
-# Comments: 13]]></summary>
+Points: 220
+# Comments: 17]]></summary>
         <author>
             <name>peter_d_sherman</name>
         </author>
@@ -234,36 +247,23 @@ Points: 207
         <updated>2021-06-27T18:55:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
 Comments URL: https://news.ycombinator.com/item?id=27654182
-Points: 333
-# Comments: 36]]></summary>
+Points: 355
+# Comments: 38]]></summary>
         <author>
             <name>peter_d_sherman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unison Programming Language]]></title>
-        <id>https://news.ycombinator.com/item?id=27652677</id>
-        <link href="https://www.unisonweb.org/"/>
-        <updated>2021-06-27T16:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.unisonweb.org/
-Comments URL: https://news.ycombinator.com/item?id=27652677
-Points: 367
-# Comments: 110]]></summary>
+        <title type="html"><![CDATA[A rediscovered lost memoir about John Locke]]></title>
+        <id>https://news.ycombinator.com/item?id=27649211</id>
+        <link href="https://www.theguardian.com/books/2021/jun/24/lost-memoir-paints-revered-philosopher-john-locke-as-vain-lazy-and-pompous"/>
+        <updated>2021-06-27T06:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2021/jun/24/lost-memoir-paints-revered-philosopher-john-locke-as-vain-lazy-and-pompous
+Comments URL: https://news.ycombinator.com/item?id=27649211
+Points: 41
+# Comments: 23]]></summary>
         <author>
-            <name>gautamcgoel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create an unfair coin and prove it with math (2011)]]></title>
-        <id>https://news.ycombinator.com/item?id=27650588</id>
-        <link href="https://izbicki.me/blog/how-to-create-an-unfair-coin-and-prove-it-with-math.html"/>
-        <updated>2021-06-27T11:15:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://izbicki.me/blog/how-to-create-an-unfair-coin-and-prove-it-with-math.html
-Comments URL: https://news.ycombinator.com/item?id=27650588
-Points: 37
-# Comments: 9]]></summary>
-        <author>
-            <name>homarp</name>
+            <name>pepys</name>
         </author>
     </entry>
     <entry>
