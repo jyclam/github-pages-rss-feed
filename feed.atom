@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T17:44:21.073Z</updated>
+    <updated>2021-06-28T18:23:39.874Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Amazon is using algorithms with little human intervention to fire Flex workers]]></title>
-        <id>https://news.ycombinator.com/item?id=27664467</id>
-        <link href="https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/"/>
-        <updated>2021-06-28T17:06:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/
-Comments URL: https://news.ycombinator.com/item?id=27664467
-Points: 30
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[YouTube Permanently Bans a Media Watchdog that Exposes Right-Wing Conspiracies]]></title>
+        <id>https://news.ycombinator.com/item?id=27665188</id>
+        <link href="https://www.thedailybeast.com/youtube-permanently-bans-right-wing-watch-a-media-watchdog-devoted-to-exposing-right-wing-conspiracies"/>
+        <updated>2021-06-28T17:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thedailybeast.com/youtube-permanently-bans-right-wing-watch-a-media-watchdog-devoted-to-exposing-right-wing-conspiracies
+Comments URL: https://news.ycombinator.com/item?id=27665188
+Points: 1
+# Comments: 0]]></summary>
         <author>
-            <name>carride</name>
+            <name>lalaland1125</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SafeDollar ‘stablecoin’ drops to $0 following $248,000 DeFi exploit on Polygon]]></title>
+        <id>https://news.ycombinator.com/item?id=27664911</id>
+        <link href="https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/"/>
+        <updated>2021-06-28T17:41:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/
+Comments URL: https://news.ycombinator.com/item?id=27664911
+Points: 109
+# Comments: 1]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel to Disable TSX by Default on More CPUs with New Microcode]]></title>
+        <id>https://news.ycombinator.com/item?id=27664856</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-TSX-Off-New-Microcode"/>
+        <updated>2021-06-28T17:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/scan.php?page=news_item&px=Intel-TSX-Off-New-Microcode
+Comments URL: https://news.ycombinator.com/item?id=27664856
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>pella</name>
         </author>
     </entry>
     <entry>
@@ -33,17 +59,16 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You have one shot to redesign the Internet. What are you going to change?]]></title>
-        <id>https://news.ycombinator.com/item?id=27663618</id>
-        <link href="https://news.ycombinator.com/item?id=27663618"/>
-        <updated>2021-06-28T16:03:40.000Z</updated>
-        <summary type="html"><![CDATA[This was just an idle conversation we were having at work. Imagine that one day you wake up and you've been sent back in time, where you are now a researcher at DARPA in the early 1960s. You've got the influence to effect fundamental changes in the next sixty years of the Internet's history, and can make your changes any time in the next sixty years - but you know that as soon as you change one thing in history, you'll be sent back to 2021, to continue living in the world you have wrought.
-How are you going to make the Internet better?
-Comments URL: https://news.ycombinator.com/item?id=27663618
-Points: 19
-# Comments: 15]]></summary>
+        <title type="html"><![CDATA[Show HN: The Sample – newsletters curated for you with machine learning]]></title>
+        <id>https://news.ycombinator.com/item?id=27664020</id>
+        <link href="https://sample.findka.com/?ref=showhn"/>
+        <updated>2021-06-28T16:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sample.findka.com/?ref=showhn
+Comments URL: https://news.ycombinator.com/item?id=27664020
+Points: 1
+# Comments: 1]]></summary>
         <author>
-            <name>lowercasename</name>
+            <name>jacobobryant</name>
         </author>
     </entry>
     <entry>
@@ -53,10 +78,23 @@ Points: 19
         <updated>2021-06-28T15:32:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thischemicaldoesnotexist.com/
 Comments URL: https://news.ycombinator.com/item?id=27663200
-Points: 19
-# Comments: 4]]></summary>
+Points: 27
+# Comments: 19]]></summary>
         <author>
             <name>optimalsolver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google no longer requires AMP, but the replacement might be worse]]></title>
+        <id>https://news.ycombinator.com/item?id=27662701</id>
+        <link href="https://www.theregister.com/2021/06/28/google_amp_core_web_vitals/"/>
+        <updated>2021-06-28T14:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/28/google_amp_core_web_vitals/
+Comments URL: https://news.ycombinator.com/item?id=27662701
+Points: 123
+# Comments: 100]]></summary>
+        <author>
+            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
@@ -66,8 +104,8 @@ Points: 19
         <updated>2021-06-28T14:32:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stratechery.com/2021/the-lightness-of-windows/
 Comments URL: https://news.ycombinator.com/item?id=27662498
-Points: 95
-# Comments: 114]]></summary>
+Points: 110
+# Comments: 153]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -91,8 +129,8 @@ The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks.
         <updated>2021-06-28T14:16:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://get21stnight.com/
 Comments URL: https://news.ycombinator.com/item?id=27662266
-Points: 46
-# Comments: 36]]></summary>
+Points: 54
+# Comments: 45]]></summary>
         <author>
             <name>klevertree</name>
         </author>
@@ -118,14 +156,28 @@ Points: 46
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Scaling Organizations Should Consider Building a Website Backed by a CRM Platform]]></title>
+        <id>https://css-tricks.com/?p=343072</id>
+        <link href="https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/"/>
+        <updated>2021-06-28T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[To make some terminology clear here:
+CMS = Content Management System
+CRM = Customer Relationship Management
+Both are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …
+The post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Temporal: Getting started with JavaScript's new date time API]]></title>
         <id>https://news.ycombinator.com/item?id=27661667</id>
         <link href="https://2ality.com/2021/06/temporal-api.html"/>
         <updated>2021-06-28T13:26:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://2ality.com/2021/06/temporal-api.html
 Comments URL: https://news.ycombinator.com/item?id=27661667
-Points: 154
-# Comments: 63]]></summary>
+Points: 176
+# Comments: 72]]></summary>
         <author>
             <name>Amorymeltzer</name>
         </author>
@@ -137,8 +189,8 @@ Points: 154
         <updated>2021-06-28T13:25:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.freethink.com/shows/just-might-work/how-to-make-insulin
 Comments URL: https://news.ycombinator.com/item?id=27661637
-Points: 50
-# Comments: 18]]></summary>
+Points: 97
+# Comments: 47]]></summary>
         <author>
             <name>HiroProtagonist</name>
         </author>
@@ -150,23 +202,10 @@ Points: 50
         <updated>2021-06-28T13:18:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf
 Comments URL: https://news.ycombinator.com/item?id=27661559
-Points: 97
-# Comments: 96]]></summary>
+Points: 99
+# Comments: 100]]></summary>
         <author>
             <name>dvfjsdhgfv</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World’s first lab-grown meat facility pumps out 5k burgers per day]]></title>
-        <id>https://news.ycombinator.com/item?id=27660562</id>
-        <link href="https://www.slashgear.com/worlds-first-lab-grown-meat-facility-pumps-out-5000-burgers-per-day-25680053/"/>
-        <updated>2021-06-28T11:42:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.slashgear.com/worlds-first-lab-grown-meat-facility-pumps-out-5000-burgers-per-day-25680053/
-Comments URL: https://news.ycombinator.com/item?id=27660562
-Points: 183
-# Comments: 237]]></summary>
-        <author>
-            <name>hochmartinez</name>
         </author>
     </entry>
     <entry>
@@ -176,8 +215,8 @@ Points: 183
         <updated>2021-06-28T10:59:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ipds.io/
 Comments URL: https://news.ycombinator.com/item?id=27660253
-Points: 74
-# Comments: 24]]></summary>
+Points: 82
+# Comments: 25]]></summary>
         <author>
             <name>dumitruflorin</name>
         </author>
@@ -189,8 +228,8 @@ Points: 74
         <updated>2021-06-28T10:39:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57628653
 Comments URL: https://news.ycombinator.com/item?id=27660107
-Points: 132
-# Comments: 71]]></summary>
+Points: 146
+# Comments: 76]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -206,27 +245,14 @@ Points: 132
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Will Never Use a Microsoft Account to Log Into My Own PC]]></title>
-        <id>https://news.ycombinator.com/item?id=27659988</id>
-        <link href="https://www.extremetech.com/computing/324134-i-will-never-use-a-microsoft-account-to-log-into-my-own-pc"/>
-        <updated>2021-06-28T10:23:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.extremetech.com/computing/324134-i-will-never-use-a-microsoft-account-to-log-into-my-own-pc
-Comments URL: https://news.ycombinator.com/item?id=27659988
-Points: 705
-# Comments: 508]]></summary>
-        <author>
-            <name>terseus</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dear Google: Public domain compositions exist]]></title>
         <id>https://news.ycombinator.com/item?id=27659690</id>
         <link href="https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist"/>
         <updated>2021-06-28T09:31:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist
 Comments URL: https://news.ycombinator.com/item?id=27659690
-Points: 507
-# Comments: 136]]></summary>
+Points: 533
+# Comments: 141]]></summary>
         <author>
             <name>mod50ack</name>
         </author>
@@ -238,8 +264,8 @@ Points: 507
         <updated>2021-06-28T06:31:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext
 Comments URL: https://news.ycombinator.com/item?id=27658722
-Points: 234
-# Comments: 153]]></summary>
+Points: 240
+# Comments: 157]]></summary>
         <author>
             <name>sidcool</name>
         </author>
@@ -251,8 +277,8 @@ Points: 234
         <updated>2021-06-28T06:28:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gamesfromwithin.com/data-oriented-design
 Comments URL: https://news.ycombinator.com/item?id=27658706
-Points: 184
-# Comments: 191]]></summary>
+Points: 191
+# Comments: 203]]></summary>
         <author>
             <name>tempodox</name>
         </author>
@@ -264,8 +290,8 @@ Points: 184
         <updated>2021-06-28T06:24:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bitgloss.ro/dr-software.pdf
 Comments URL: https://news.ycombinator.com/item?id=27658689
-Points: 129
-# Comments: 21]]></summary>
+Points: 131
+# Comments: 25]]></summary>
         <author>
             <name>dragosslujeru</name>
         </author>
@@ -277,8 +303,8 @@ Points: 129
         <updated>2021-06-28T05:38:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/TrungTPhan/status/1409185044501987340
 Comments URL: https://news.ycombinator.com/item?id=27658471
-Points: 613
-# Comments: 349]]></summary>
+Points: 639
+# Comments: 364]]></summary>
         <author>
             <name>dsr12</name>
         </author>
@@ -290,23 +316,10 @@ Points: 613
         <updated>2021-06-28T04:30:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/business-57632831
 Comments URL: https://news.ycombinator.com/item?id=27658145
-Points: 372
-# Comments: 146]]></summary>
+Points: 382
+# Comments: 152]]></summary>
         <author>
             <name>lakis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-counting the cognitive history of numerals]]></title>
-        <id>https://news.ycombinator.com/item?id=27656696</id>
-        <link href="https://thereader.mitpress.mit.edu/recounting-cognitive-history-of-numerals/"/>
-        <updated>2021-06-28T00:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thereader.mitpress.mit.edu/recounting-cognitive-history-of-numerals/
-Comments URL: https://news.ycombinator.com/item?id=27656696
-Points: 9
-# Comments: 0]]></summary>
-        <author>
-            <name>anarbadalov</name>
         </author>
     </entry>
     <entry>
@@ -643,18 +656,6 @@ The post Links on Typography appeared first on CSS-Tricks. You can support CSS-T
         <summary type="html"><![CDATA[Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adebiyi Adedotun)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfect Tooltips With CSS Clipping and Masking]]></title>
-        <id>https://css-tricks.com/?p=341948</id>
-        <link href="https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/"/>
-        <updated>2021-06-17T14:45:57.000Z</updated>
-        <summary type="html"><![CDATA[Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.
-Those …
-The post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Louis Hoebregts</name>
         </author>
     </entry>
     <entry>
