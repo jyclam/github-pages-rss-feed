@@ -2,12 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T21:11:13.489Z</updated>
+    <updated>2021-06-28T22:11:29.827Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Help SIRUM automate a warehouse in order to make medicine access more equitable]]></title>
+        <title type="html"><![CDATA[A New Push to Make Ecocide an International Crime]]></title>
+        <id>https://news.ycombinator.com/item?id=27668701</id>
+        <link href="https://www.npr.org/2021/06/27/1010402568/ecocide-environment-destruction-international-crime-criminal-court"/>
+        <updated>2021-06-28T21:54:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/27/1010402568/ecocide-environment-destruction-international-crime-criminal-court
+Comments URL: https://news.ycombinator.com/item?id=27668701
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>djrogers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working around the viewport-based fluid typography bug in Safari]]></title>
+        <id>https://css-tricks.com/?p=343139</id>
+        <link href="https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/"/>
+        <updated>2021-06-28T21:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …
+The post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Securely Access Secret API keys using Netlify Functions in a React App]]></title>
+        <id>60d61acc6e1a1407b6b0bd46</id>
+        <link href="https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/"/>
+        <updated>2021-06-28T21:17:02.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIRUM (YC W15) is hiring to make access to medicine more equitable]]></title>
         <id>https://news.ycombinator.com/item?id=27668040</id>
         <link href="https://news.ycombinator.com/item?id=27668040"/>
         <updated>2021-06-28T21:00:02.000Z</updated>
@@ -49,8 +83,8 @@ Points: 1
         <updated>2021-06-28T19:37:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.frontpagetech.com/2021/06/28/exclusive-apple-making-employees-wear-police-grade-body-cams-in-response-to-leaks/
 Comments URL: https://news.ycombinator.com/item?id=27666767
-Points: 107
-# Comments: 63]]></summary>
+Points: 140
+# Comments: 78]]></summary>
         <author>
             <name>freedomben</name>
         </author>
@@ -62,8 +96,8 @@ Points: 107
         <updated>2021-06-28T19:20:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nvidia-research-mingyuliu.com/vid2vid-cameo/
 Comments URL: https://news.ycombinator.com/item?id=27666493
-Points: 10
-# Comments: 0]]></summary>
+Points: 37
+# Comments: 2]]></summary>
         <author>
             <name>jonbaer</name>
         </author>
@@ -75,8 +109,8 @@ Points: 10
         <updated>2021-06-28T19:18:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cedwards.xyz/the-fuck-you-pattern/
 Comments URL: https://news.ycombinator.com/item?id=27666455
-Points: 370
-# Comments: 98]]></summary>
+Points: 625
+# Comments: 231]]></summary>
         <author>
             <name>c7DJTLrn</name>
         </author>
@@ -88,8 +122,8 @@ Points: 370
         <updated>2021-06-28T19:17:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html
 Comments URL: https://news.ycombinator.com/item?id=27666439
-Points: 87
-# Comments: 10]]></summary>
+Points: 145
+# Comments: 59]]></summary>
         <author>
             <name>ChrisArchitect</name>
         </author>
@@ -105,14 +139,27 @@ Points: 87
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Art Generator Neoplasticism]]></title>
+        <id>https://news.ycombinator.com/item?id=27665594</id>
+        <link href="https://github.com/andronov04/mondrian-art"/>
+        <updated>2021-06-28T18:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/andronov04/mondrian-art
+Comments URL: https://news.ycombinator.com/item?id=27665594
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>andronov004</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[An announcement about the comment section]]></title>
         <id>https://news.ycombinator.com/item?id=27665584</id>
         <link href="https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section"/>
         <updated>2021-06-28T18:22:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section
 Comments URL: https://news.ycombinator.com/item?id=27665584
-Points: 69
-# Comments: 81]]></summary>
+Points: 82
+# Comments: 99]]></summary>
         <author>
             <name>raphlinus</name>
         </author>
@@ -124,8 +171,8 @@ Points: 69
         <updated>2021-06-28T17:41:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/
 Comments URL: https://news.ycombinator.com/item?id=27664911
-Points: 375
-# Comments: 346]]></summary>
+Points: 406
+# Comments: 406]]></summary>
         <author>
             <name>awb</name>
         </author>
@@ -137,8 +184,8 @@ Points: 375
         <updated>2021-06-28T17:36:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/scan.php?page=news_item&px=Intel-TSX-Off-New-Microcode
 Comments URL: https://news.ycombinator.com/item?id=27664856
-Points: 82
-# Comments: 55]]></summary>
+Points: 93
+# Comments: 57]]></summary>
         <author>
             <name>pella</name>
         </author>
@@ -150,8 +197,8 @@ Points: 82
         <updated>2021-06-28T17:06:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/
 Comments URL: https://news.ycombinator.com/item?id=27664467
-Points: 105
-# Comments: 110]]></summary>
+Points: 124
+# Comments: 135]]></summary>
         <author>
             <name>carride</name>
         </author>
@@ -163,37 +210,10 @@ Points: 105
         <updated>2021-06-28T16:32:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sample.findka.com/?ref=showhn
 Comments URL: https://news.ycombinator.com/item?id=27664020
-Points: 30
-# Comments: 17]]></summary>
+Points: 36
+# Comments: 19]]></summary>
         <author>
             <name>jacobobryant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: You have one shot to redesign the Internet – what do you change?]]></title>
-        <id>https://news.ycombinator.com/item?id=27663618</id>
-        <link href="https://news.ycombinator.com/item?id=27663618"/>
-        <updated>2021-06-28T16:03:40.000Z</updated>
-        <summary type="html"><![CDATA[This was just an idle conversation we were having at work. Imagine that one day you wake up and you've been sent back in time, where you are now a researcher at DARPA in the early 1960s. You've got the influence to effect fundamental changes in the next sixty years of the Internet's history, and can make your changes any time in the next sixty years - but you know that as soon as you change one thing in history, you'll be sent back to 2021, to continue living in the world you have wrought.
-How are you going to make the Internet better?
-Comments URL: https://news.ycombinator.com/item?id=27663618
-Points: 61
-# Comments: 124]]></summary>
-        <author>
-            <name>lowercasename</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineers can disrupt climate change]]></title>
-        <id>https://news.ycombinator.com/item?id=27663393</id>
-        <link href="https://spectrum.ieee.org/energy/renewables/engineers-you-can-disrupt-climate-change"/>
-        <updated>2021-06-28T15:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/energy/renewables/engineers-you-can-disrupt-climate-change
-Comments URL: https://news.ycombinator.com/item?id=27663393
-Points: 106
-# Comments: 154]]></summary>
-        <author>
-            <name>headalgorithm</name>
         </author>
     </entry>
     <entry>
@@ -203,8 +223,8 @@ Points: 106
         <updated>2021-06-28T15:32:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thischemicaldoesnotexist.com/
 Comments URL: https://news.ycombinator.com/item?id=27663200
-Points: 61
-# Comments: 45]]></summary>
+Points: 73
+# Comments: 50]]></summary>
         <author>
             <name>optimalsolver</name>
         </author>
@@ -228,8 +248,8 @@ The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks.
         <updated>2021-06-28T14:16:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://get21stnight.com/
 Comments URL: https://news.ycombinator.com/item?id=27662266
-Points: 83
-# Comments: 79]]></summary>
+Points: 88
+# Comments: 100]]></summary>
         <author>
             <name>klevertree</name>
         </author>
@@ -241,8 +261,8 @@ Points: 83
         <updated>2021-06-28T14:04:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/
 Comments URL: https://news.ycombinator.com/item?id=27662114
-Points: 32
-# Comments: 15]]></summary>
+Points: 42
+# Comments: 21]]></summary>
         <author>
             <name>beyondd</name>
         </author>
@@ -288,8 +308,8 @@ The post Scaling Organizations Should Consider Building a Website Backed by a CR
         <updated>2021-06-28T13:26:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://2ality.com/2021/06/temporal-api.html
 Comments URL: https://news.ycombinator.com/item?id=27661667
-Points: 241
-# Comments: 108]]></summary>
+Points: 255
+# Comments: 114]]></summary>
         <author>
             <name>Amorymeltzer</name>
         </author>
@@ -301,8 +321,8 @@ Points: 241
         <updated>2021-06-28T13:25:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.freethink.com/shows/just-might-work/how-to-make-insulin
 Comments URL: https://news.ycombinator.com/item?id=27661637
-Points: 236
-# Comments: 203]]></summary>
+Points: 269
+# Comments: 230]]></summary>
         <author>
             <name>HiroProtagonist</name>
         </author>
@@ -314,8 +334,8 @@ Points: 236
         <updated>2021-06-28T13:18:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf
 Comments URL: https://news.ycombinator.com/item?id=27661559
-Points: 123
-# Comments: 122]]></summary>
+Points: 125
+# Comments: 127]]></summary>
         <author>
             <name>dvfjsdhgfv</name>
         </author>
@@ -327,8 +347,8 @@ Points: 123
         <updated>2021-06-28T10:59:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ipds.io/
 Comments URL: https://news.ycombinator.com/item?id=27660253
-Points: 92
-# Comments: 30]]></summary>
+Points: 95
+# Comments: 32]]></summary>
         <author>
             <name>dumitruflorin</name>
         </author>
@@ -340,8 +360,8 @@ Points: 92
         <updated>2021-06-28T10:39:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57628653
 Comments URL: https://news.ycombinator.com/item?id=27660107
-Points: 174
-# Comments: 86]]></summary>
+Points: 188
+# Comments: 103]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -482,16 +502,6 @@ The post TablesNG — Improvements to table rendering in Chromium appeared first
 The post Using Performant Next-Gen Images in CSS with image-set appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a REST API with .NET 5 and  C#]]></title>
-        <id>60d36eb66e1a1407b6b0b16d</id>
-        <link href="https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/"/>
-        <updated>2021-06-23T18:08:14.000Z</updated>
-        <summary type="html"><![CDATA[.NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -638,18 +648,6 @@ The post Using the `outline` Property as a Collapsable Border appeared first on 
         <summary type="html"><![CDATA[Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ottomatias Peura)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Typography]]></title>
-        <id>https://css-tricks.com/?p=342326</id>
-        <link href="https://css-tricks.com/links-on-typography-2/"/>
-        <updated>2021-06-18T13:44:17.000Z</updated>
-        <summary type="html"><![CDATA[I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the 
-…
-The post Links on Typography appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
