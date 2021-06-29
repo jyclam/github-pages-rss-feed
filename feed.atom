@@ -2,25 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T22:11:13.387Z</updated>
+    <updated>2021-06-29T23:12:29.750Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Windows 11 will leave millions of PCs behind]]></title>
-        <id>https://news.ycombinator.com/item?id=27681892</id>
-        <link href="https://www.theverge.com/2021/6/29/22555371/microsoft-windows-11-cpu-support-hardware-requirements-tpm-response"/>
-        <updated>2021-06-29T21:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/29/22555371/microsoft-windows-11-cpu-support-hardware-requirements-tpm-response
-Comments URL: https://news.ycombinator.com/item?id=27681892
-Points: 39
-# Comments: 36]]></summary>
+        <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
+        <id>https://css-tricks.com/?p=343470</id>
+        <link href="https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/"/>
+        <updated>2021-06-29T22:43:50.000Z</updated>
+        <summary type="html"><![CDATA[I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. 
+html {
+  font: 110%/1.4 system-ui;
+}
+…
+The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>FridayoLeary</name>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Principal Engineer]]></title>
+        <title type="html"><![CDATA[Command Line Interface for Signal]]></title>
+        <id>https://news.ycombinator.com/item?id=27682490</id>
+        <link href="https://github.com/AsamK/signal-cli"/>
+        <updated>2021-06-29T22:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/AsamK/signal-cli
+Comments URL: https://news.ycombinator.com/item?id=27682490
+Points: 12
+# Comments: 0]]></summary>
+        <author>
+            <name>janekg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Elixir adoption success story]]></title>
+        <id>https://news.ycombinator.com/item?id=27682432</id>
+        <link href="https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/"/>
+        <updated>2021-06-29T22:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/
+Comments URL: https://news.ycombinator.com/item?id=27682432
+Points: 30
+# Comments: 2]]></summary>
+        <author>
+            <name>lucis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero Knowledge]]></title>
+        <id>https://news.ycombinator.com/item?id=27682395</id>
+        <link href="https://www.notboring.co/p/zero-knowledge"/>
+        <updated>2021-06-29T22:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.notboring.co/p/zero-knowledge
+Comments URL: https://news.ycombinator.com/item?id=27682395
+Points: 41
+# Comments: 2]]></summary>
+        <author>
+            <name>packym</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storytelling – Mamet’s Conflict Airing Theory]]></title>
+        <id>https://news.ycombinator.com/item?id=27682249</id>
+        <link href="https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/"/>
+        <updated>2021-06-29T21:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/
+Comments URL: https://news.ycombinator.com/item?id=27682249
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>jger15</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers translate a bird's brain activity into song]]></title>
+        <id>https://news.ycombinator.com/item?id=27682103</id>
+        <link href="https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php"/>
+        <updated>2021-06-29T21:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php
+Comments URL: https://news.ycombinator.com/item?id=27682103
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>wormold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A 13.3“ battery-powered e-paper picture frame to display digital art]]></title>
+        <id>https://news.ycombinator.com/item?id=27682018</id>
+        <link href="https://blog.framelabs.eu/evolution/"/>
+        <updated>2021-06-29T21:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.framelabs.eu/evolution/
+Comments URL: https://news.ycombinator.com/item?id=27682018
+Points: 12
+# Comments: 3]]></summary>
+        <author>
+            <name>clash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) is hiring a Principal Engineer]]></title>
         <id>https://news.ycombinator.com/item?id=27681674</id>
         <link href="https://jobs.lever.co/buildzoom"/>
         <updated>2021-06-29T21:00:43.000Z</updated>
@@ -39,8 +119,8 @@ Points: 1
         <updated>2021-06-29T20:38:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt
 Comments URL: https://news.ycombinator.com/item?id=27681418
-Points: 34
-# Comments: 3]]></summary>
+Points: 85
+# Comments: 14]]></summary>
         <author>
             <name>jseliger</name>
         </author>
@@ -65,8 +145,8 @@ The post Chromium spelling and grammar features appeared first on CSS-Tricks. Yo
         <updated>2021-06-29T20:09:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bitcointemp.com
 Comments URL: https://news.ycombinator.com/item?id=27681075
-Points: 14
-# Comments: 0]]></summary>
+Points: 32
+# Comments: 15]]></summary>
         <author>
             <name>braydentw</name>
         </author>
@@ -98,8 +178,8 @@ Points: 14
         <updated>2021-06-29T19:24:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/
 Comments URL: https://news.ycombinator.com/item?id=27680569
-Points: 177
-# Comments: 96]]></summary>
+Points: 222
+# Comments: 126]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -111,8 +191,8 @@ Points: 177
         <updated>2021-06-29T18:45:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments
 Comments URL: https://news.ycombinator.com/item?id=27680047
-Points: 47
-# Comments: 20]]></summary>
+Points: 56
+# Comments: 21]]></summary>
         <author>
             <name>mrleinad</name>
         </author>
@@ -134,8 +214,8 @@ Points: 47
         <updated>2021-06-29T17:47:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dustri.org/b/the-web-browser-im-dreaming-of.html
 Comments URL: https://news.ycombinator.com/item?id=27679315
-Points: 11
-# Comments: 5]]></summary>
+Points: 40
+# Comments: 28]]></summary>
         <author>
             <name>mvolfik</name>
         </author>
@@ -147,8 +227,8 @@ Points: 11
         <updated>2021-06-29T17:28:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lifehacker.com/i-still-use-plain-text-for-everything-and-i-love-it-1758380840
 Comments URL: https://news.ycombinator.com/item?id=27679050
-Points: 101
-# Comments: 105]]></summary>
+Points: 120
+# Comments: 112]]></summary>
         <author>
             <name>behnamoh</name>
         </author>
@@ -160,7 +240,7 @@ Points: 101
         <updated>2021-06-29T16:53:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html
 Comments URL: https://news.ycombinator.com/item?id=27678535
-Points: 149
+Points: 162
 # Comments: 23]]></summary>
         <author>
             <name>headalgorithm</name>
@@ -173,23 +253,10 @@ Points: 149
         <updated>2021-06-29T15:14:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://martinfowler.com/articles/202106-reducing-speaking.html
 Comments URL: https://news.ycombinator.com/item?id=27677001
-Points: 305
-# Comments: 82]]></summary>
+Points: 323
+# Comments: 84]]></summary>
         <author>
             <name>alfredbez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walmart unveils low-price analog insulin amid rising diabetes drug costs]]></title>
-        <id>https://news.ycombinator.com/item?id=27676666</id>
-        <link href="https://www.cnbc.com/2021/06/29/walmart-unveils-low-price-analog-insulin-amid-rising-diabetes-drug-costs.html"/>
-        <updated>2021-06-29T14:54:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/29/walmart-unveils-low-price-analog-insulin-amid-rising-diabetes-drug-costs.html
-Comments URL: https://news.ycombinator.com/item?id=27676666
-Points: 193
-# Comments: 158]]></summary>
-        <author>
-            <name>shivbhatt</name>
         </author>
     </entry>
     <entry>
@@ -211,8 +278,8 @@ The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You 
         <updated>2021-06-29T14:29:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://copilot.github.com/
 Comments URL: https://news.ycombinator.com/item?id=27676266
-Points: 1707
-# Comments: 827]]></summary>
+Points: 1815
+# Comments: 861]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -224,8 +291,8 @@ Points: 1707
         <updated>2021-06-29T14:16:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/
 Comments URL: https://news.ycombinator.com/item?id=27676066
-Points: 71
-# Comments: 36]]></summary>
+Points: 76
+# Comments: 39]]></summary>
         <author>
             <name>wglb</name>
         </author>
@@ -237,8 +304,8 @@ Points: 71
         <updated>2021-06-29T13:39:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://paulgraham.com/hwh.html
 Comments URL: https://news.ycombinator.com/item?id=27675603
-Points: 727
-# Comments: 746]]></summary>
+Points: 764
+# Comments: 801]]></summary>
         <author>
             <name>razin</name>
         </author>
@@ -260,8 +327,8 @@ Points: 727
         <updated>2021-06-29T13:21:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://neeva.com/blog/neeva-announces-public-availability
 Comments URL: https://news.ycombinator.com/item?id=27675408
-Points: 104
-# Comments: 54]]></summary>
+Points: 118
+# Comments: 59]]></summary>
         <author>
             <name>nmwnmw</name>
         </author>
@@ -273,49 +340,10 @@ Points: 104
         <updated>2021-06-29T12:51:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tamikothiel.com/cm/
 Comments URL: https://news.ycombinator.com/item?id=27675086
-Points: 66
-# Comments: 43]]></summary>
+Points: 73
+# Comments: 45]]></summary>
         <author>
             <name>voxadam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT and Harvard agree to transfer edX to ed-tech firm 2U]]></title>
-        <id>https://news.ycombinator.com/item?id=27674413</id>
-        <link href="https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629"/>
-        <updated>2021-06-29T11:35:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629
-Comments URL: https://news.ycombinator.com/item?id=27674413
-Points: 351
-# Comments: 159]]></summary>
-        <author>
-            <name>rolandm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Portable nuclear reactor program sparks controversy]]></title>
-        <id>https://news.ycombinator.com/item?id=27674305</id>
-        <link href="https://www.nationaldefensemagazine.org/articles/2021/6/28/portable-nuclear-reactor-program-sparks-controversy"/>
-        <updated>2021-06-29T11:20:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nationaldefensemagazine.org/articles/2021/6/28/portable-nuclear-reactor-program-sparks-controversy
-Comments URL: https://news.ycombinator.com/item?id=27674305
-Points: 48
-# Comments: 75]]></summary>
-        <author>
-            <name>howaboutnope</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concrete: The material that's 'too vast to imagine']]></title>
-        <id>https://news.ycombinator.com/item?id=27674270</id>
-        <link href="https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age"/>
-        <updated>2021-06-29T11:16:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age
-Comments URL: https://news.ycombinator.com/item?id=27674270
-Points: 131
-# Comments: 208]]></summary>
-        <author>
-            <name>DrNuke</name>
         </author>
     </entry>
     <entry>
@@ -326,19 +354,6 @@ Points: 131
         <summary type="html"><![CDATA[Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Compute Engine VM takeover via DHCP flood]]></title>
-        <id>https://news.ycombinator.com/item?id=27673933</id>
-        <link href="https://github.com/irsl/gcp-dhcp-takeover-code-exec"/>
-        <updated>2021-06-29T10:16:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/irsl/gcp-dhcp-takeover-code-exec
-Comments URL: https://news.ycombinator.com/item?id=27673933
-Points: 428
-# Comments: 140]]></summary>
-        <author>
-            <name>ithkuil</name>
         </author>
     </entry>
     <entry>
@@ -631,17 +646,6 @@ The post inherit, initial, unset, revert appeared first on CSS-Tricks. You can s
 The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Geoff Rich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If we’re gonna criticize utility-class frameworks, let’s be fair about it]]></title>
-        <id>https://css-tricks.com/?p=342925</id>
-        <link href="https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/"/>
-        <updated>2021-06-22T14:33:41.000Z</updated>
-        <summary type="html"><![CDATA[I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …
-The post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
