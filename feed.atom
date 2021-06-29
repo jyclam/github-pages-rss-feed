@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T05:09:56.560Z</updated>
+    <updated>2021-06-29T06:15:07.495Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Limits of Optimization]]></title>
+        <id>https://news.ycombinator.com/item?id=27671502</id>
+        <link href="https://theconvivialsociety.substack.com/p/the-limits-of-optimization"/>
+        <updated>2021-06-29T03:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theconvivialsociety.substack.com/p/the-limits-of-optimization
+Comments URL: https://news.ycombinator.com/item?id=27671502
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>longdefeat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Parity Bitcoin client, written in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27671398</id>
+        <link href="https://github.com/paritytech/parity-bitcoin"/>
+        <updated>2021-06-29T03:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/paritytech/parity-bitcoin
+Comments URL: https://news.ycombinator.com/item?id=27671398
+Points: 10
+# Comments: 2]]></summary>
+        <author>
+            <name>guiambros</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bring back menus QR codes are terrible]]></title>
         <id>https://news.ycombinator.com/item?id=27671392</id>
@@ -13,10 +39,33 @@
         <updated>2021-06-29T03:25:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss
 Comments URL: https://news.ycombinator.com/item?id=27671392
-Points: 37
-# Comments: 35]]></summary>
+Points: 58
+# Comments: 78]]></summary>
         <author>
             <name>prostoalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Do you Self-host your database?]]></title>
+        <id>https://news.ycombinator.com/item?id=27671376</id>
+        <link href="https://news.ycombinator.com/item?id=27671376"/>
+        <updated>2021-06-29T03:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Now that there are so many options like 
+AWS
+GCP
+Azure
+Digital Ocean
+Heroku
+Render
+Firebase
+Supabase
+etc..
+I was wondering does anyone these days Self-host databases on their infra?
+Comments URL: https://news.ycombinator.com/item?id=27671376
+Points: 20
+# Comments: 17]]></summary>
+        <author>
+            <name>vira28</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +75,8 @@ Points: 37
         <updated>2021-06-29T02:28:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.noemamag.com/the-intelligent-forest
 Comments URL: https://news.ycombinator.com/item?id=27671027
-Points: 17
-# Comments: 3]]></summary>
+Points: 21
+# Comments: 4]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -39,23 +88,10 @@ Points: 17
         <updated>2021-06-29T02:07:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/magicmark/tiny-treeshaker
 Comments URL: https://news.ycombinator.com/item?id=27670859
-Points: 16
+Points: 27
 # Comments: 1]]></summary>
         <author>
             <name>markl42</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two days before condo collapse, a pool contractor photographed damage in garage]]></title>
-        <id>https://news.ycombinator.com/item?id=27670660</id>
-        <link href="https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article252421658.html"/>
-        <updated>2021-06-29T01:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article252421658.html
-Comments URL: https://news.ycombinator.com/item?id=27670660
-Points: 124
-# Comments: 92]]></summary>
-        <author>
-            <name>cratermoon</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +101,8 @@ Points: 124
         <updated>2021-06-29T01:33:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/leaders/2021/06/26/why-the-african-genome-project-is-so-useful
 Comments URL: https://news.ycombinator.com/item?id=27670615
-Points: 19
-# Comments: 3]]></summary>
+Points: 26
+# Comments: 6]]></summary>
         <author>
             <name>jkuria</name>
         </author>
@@ -91,8 +127,8 @@ Points: 1
         <updated>2021-06-29T00:57:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-latin-america-57645016
 Comments URL: https://news.ycombinator.com/item?id=27670360
-Points: 281
-# Comments: 154]]></summary>
+Points: 304
+# Comments: 183]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -104,8 +140,8 @@ Points: 281
         <updated>2021-06-29T00:47:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tbray.org/ongoing/When/202x/2021/06/26/Shorting-Bitcoin
 Comments URL: https://news.ycombinator.com/item?id=27670281
-Points: 19
-# Comments: 8]]></summary>
+Points: 100
+# Comments: 63]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -117,8 +153,8 @@ Points: 19
         <updated>2021-06-29T00:20:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.newsblur.com/2021/06/28/story-of-a-hacking/
 Comments URL: https://news.ycombinator.com/item?id=27670058
-Points: 201
-# Comments: 80]]></summary>
+Points: 252
+# Comments: 105]]></summary>
         <author>
             <name>ecliptik</name>
         </author>
@@ -130,8 +166,8 @@ Points: 201
         <updated>2021-06-29T00:03:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://buzzert.net/posts/2021-05-09-doorbell
 Comments URL: https://news.ycombinator.com/item?id=27669924
-Points: 11
-# Comments: 1]]></summary>
+Points: 27
+# Comments: 10]]></summary>
         <author>
             <name>buzzert</name>
         </author>
@@ -143,23 +179,10 @@ Points: 11
         <updated>2021-06-28T23:00:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bartoszsypytkowski.com/make-your-cluster-swim/
 Comments URL: https://news.ycombinator.com/item?id=27669412
-Points: 19
+Points: 22
 # Comments: 3]]></summary>
         <author>
             <name>yagizdegirmenci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube reinstates Right Wing Watch]]></title>
-        <id>https://news.ycombinator.com/item?id=27668935</id>
-        <link href="https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286"/>
-        <updated>2021-06-28T22:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286
-Comments URL: https://news.ycombinator.com/item?id=27668935
-Points: 143
-# Comments: 166]]></summary>
-        <author>
-            <name>ortusdux</name>
         </author>
     </entry>
     <entry>
@@ -184,8 +207,8 @@ The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks
         <updated>2021-06-28T21:25:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm
 Comments URL: https://news.ycombinator.com/item?id=27668370
-Points: 131
-# Comments: 66]]></summary>
+Points: 148
+# Comments: 89]]></summary>
         <author>
             <name>marc__1</name>
         </author>
@@ -238,8 +261,8 @@ The post Working around the viewport-based fluid typography bug in Safari appear
         <updated>2021-06-28T19:33:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html
 Comments URL: https://news.ycombinator.com/item?id=27666709
-Points: 29
-# Comments: 3]]></summary>
+Points: 39
+# Comments: 9]]></summary>
         <author>
             <name>Tycho</name>
         </author>
@@ -251,8 +274,8 @@ Points: 29
         <updated>2021-06-28T19:20:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nvidia-research-mingyuliu.com/vid2vid-cameo/
 Comments URL: https://news.ycombinator.com/item?id=27666493
-Points: 112
-# Comments: 37]]></summary>
+Points: 119
+# Comments: 42]]></summary>
         <author>
             <name>jonbaer</name>
         </author>
@@ -264,8 +287,8 @@ Points: 112
         <updated>2021-06-28T19:18:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cedwards.xyz/the-fuck-you-pattern/
 Comments URL: https://news.ycombinator.com/item?id=27666455
-Points: 1023
-# Comments: 489]]></summary>
+Points: 1058
+# Comments: 506]]></summary>
         <author>
             <name>c7DJTLrn</name>
         </author>
@@ -277,8 +300,8 @@ Points: 1023
         <updated>2021-06-28T19:17:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html
 Comments URL: https://news.ycombinator.com/item?id=27666439
-Points: 326
-# Comments: 167]]></summary>
+Points: 336
+# Comments: 174]]></summary>
         <author>
             <name>ChrisArchitect</name>
         </author>
@@ -300,8 +323,8 @@ Points: 326
         <updated>2021-06-28T15:32:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thischemicaldoesnotexist.com/
 Comments URL: https://news.ycombinator.com/item?id=27663200
-Points: 117
-# Comments: 68]]></summary>
+Points: 123
+# Comments: 73]]></summary>
         <author>
             <name>optimalsolver</name>
         </author>
@@ -316,19 +339,6 @@ Recently, I have been experimenting with CSS Grid and alignment properties to cr
 The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Ryan Mulligan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Optery – See the private info data brokers are posting about you online]]></title>
-        <id>https://news.ycombinator.com/item?id=27662114</id>
-        <link href="https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/"/>
-        <updated>2021-06-28T14:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/
-Comments URL: https://news.ycombinator.com/item?id=27662114
-Points: 100
-# Comments: 73]]></summary>
-        <author>
-            <name>beyondd</name>
         </author>
     </entry>
     <entry>
@@ -372,8 +382,8 @@ The post Scaling Organizations Should Consider Building a Website Backed by a CR
         <updated>2021-06-28T13:26:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://2ality.com/2021/06/temporal-api.html
 Comments URL: https://news.ycombinator.com/item?id=27661667
-Points: 332
-# Comments: 159]]></summary>
+Points: 342
+# Comments: 162]]></summary>
         <author>
             <name>Amorymeltzer</name>
         </author>
