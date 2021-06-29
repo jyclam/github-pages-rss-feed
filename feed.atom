@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T07:10:11.879Z</updated>
+    <updated>2021-06-29T08:13:28.404Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -20,16 +20,91 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wiretrustee: WireGuard-Based Mesh Network]]></title>
+        <id>https://news.ycombinator.com/item?id=27672715</id>
+        <link href="https://github.com/wiretrustee/wiretrustee"/>
+        <updated>2021-06-29T06:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/wiretrustee/wiretrustee
+Comments URL: https://news.ycombinator.com/item?id=27672715
+Points: 22
+# Comments: 1]]></summary>
+        <author>
+            <name>j1elo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARM64EC: Building Native and Interoperable Apps for Windows 11 on ARM]]></title>
+        <id>https://news.ycombinator.com/item?id=27672711</id>
+        <link href="https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/"/>
+        <updated>2021-06-29T06:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/
+Comments URL: https://news.ycombinator.com/item?id=27672711
+Points: 30
+# Comments: 9]]></summary>
+        <author>
+            <name>sjmulder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Made Our Maps 10x Faster]]></title>
+        <id>https://news.ycombinator.com/item?id=27672576</id>
+        <link href="https://medium.com/opendoor-labs/how-we-made-our-maps-10x-faster-e2fa1eaebc65"/>
+        <updated>2021-06-29T06:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medium.com/opendoor-labs/how-we-made-our-maps-10x-faster-e2fa1eaebc65
+Comments URL: https://news.ycombinator.com/item?id=27672576
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>sidcool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next Car You Buy Should Be Electric]]></title>
+        <id>https://news.ycombinator.com/item?id=27672531</id>
+        <link href="https://lehtimaeki.medium.com/the-next-car-you-buy-should-be-electric-c6980ad616b2"/>
+        <updated>2021-06-29T06:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lehtimaeki.medium.com/the-next-car-you-buy-should-be-electric-c6980ad616b2
+Comments URL: https://news.ycombinator.com/item?id=27672531
+Points: 12
+# Comments: 19]]></summary>
+        <author>
+            <name>pietrofmaggi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
+        <updated>2021-06-29T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavalier to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Our plans to improve navigation on GOV.UK]]></title>
         <id>https://news.ycombinator.com/item?id=27672100</id>
         <link href="https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/"/>
         <updated>2021-06-29T05:20:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/
 Comments URL: https://news.ycombinator.com/item?id=27672100
-Points: 8
-# Comments: 0]]></summary>
+Points: 27
+# Comments: 14]]></summary>
         <author>
             <name>open-source-ux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[London Taxi Company LEVC unveils e-Camper range-extender electric camper]]></title>
+        <id>https://news.ycombinator.com/item?id=27671585</id>
+        <link href="https://www.drivingelectric.com/levc/40669/levc-unveils-e-camper-range-extender-electric-camper"/>
+        <updated>2021-06-29T03:55:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.drivingelectric.com/levc/40669/levc-unveils-e-camper-range-extender-electric-camper
+Comments URL: https://news.ycombinator.com/item?id=27671585
+Points: 6
+# Comments: 3]]></summary>
+        <author>
+            <name>teleforce</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +114,8 @@ Points: 8
         <updated>2021-06-29T03:40:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://theconvivialsociety.substack.com/p/the-limits-of-optimization
 Comments URL: https://news.ycombinator.com/item?id=27671502
-Points: 10
-# Comments: 0]]></summary>
+Points: 16
+# Comments: 3]]></summary>
         <author>
             <name>longdefeat</name>
         </author>
@@ -52,8 +127,8 @@ Points: 10
         <updated>2021-06-29T02:28:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.noemamag.com/the-intelligent-forest
 Comments URL: https://news.ycombinator.com/item?id=27671027
-Points: 27
-# Comments: 6]]></summary>
+Points: 31
+# Comments: 9]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -65,8 +140,8 @@ Points: 27
         <updated>2021-06-29T02:07:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/magicmark/tiny-treeshaker
 Comments URL: https://news.ycombinator.com/item?id=27670859
-Points: 32
-# Comments: 8]]></summary>
+Points: 36
+# Comments: 17]]></summary>
         <author>
             <name>markl42</name>
         </author>
@@ -78,36 +153,10 @@ Points: 32
         <updated>2021-06-29T01:33:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/leaders/2021/06/26/why-the-african-genome-project-is-so-useful
 Comments URL: https://news.ycombinator.com/item?id=27670615
-Points: 31
-# Comments: 13]]></summary>
+Points: 37
+# Comments: 15]]></summary>
         <author>
             <name>jkuria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mexico's Supreme Court has decriminalised the private use of cannabis by adults]]></title>
-        <id>https://news.ycombinator.com/item?id=27670360</id>
-        <link href="https://www.bbc.co.uk/news/world-latin-america-57645016"/>
-        <updated>2021-06-29T00:57:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-latin-america-57645016
-Comments URL: https://news.ycombinator.com/item?id=27670360
-Points: 323
-# Comments: 207]]></summary>
-        <author>
-            <name>pmoriarty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shorting Bitcoin]]></title>
-        <id>https://news.ycombinator.com/item?id=27670281</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2021/06/26/Shorting-Bitcoin"/>
-        <updated>2021-06-29T00:47:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tbray.org/ongoing/When/202x/2021/06/26/Shorting-Bitcoin
-Comments URL: https://news.ycombinator.com/item?id=27670281
-Points: 136
-# Comments: 115]]></summary>
-        <author>
-            <name>zdw</name>
         </author>
     </entry>
     <entry>
@@ -117,8 +166,8 @@ Points: 136
         <updated>2021-06-29T00:20:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.newsblur.com/2021/06/28/story-of-a-hacking/
 Comments URL: https://news.ycombinator.com/item?id=27670058
-Points: 302
-# Comments: 118]]></summary>
+Points: 342
+# Comments: 144]]></summary>
         <author>
             <name>ecliptik</name>
         </author>
@@ -130,8 +179,8 @@ Points: 302
         <updated>2021-06-29T00:03:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://buzzert.net/posts/2021-05-09-doorbell
 Comments URL: https://news.ycombinator.com/item?id=27669924
-Points: 43
-# Comments: 17]]></summary>
+Points: 60
+# Comments: 29]]></summary>
         <author>
             <name>buzzert</name>
         </author>
@@ -143,23 +192,10 @@ Points: 43
         <updated>2021-06-28T23:00:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bartoszsypytkowski.com/make-your-cluster-swim/
 Comments URL: https://news.ycombinator.com/item?id=27669412
-Points: 24
+Points: 27
 # Comments: 3]]></summary>
         <author>
             <name>yagizdegirmenci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple test reveals if your mental images are more vivid than other people's]]></title>
-        <id>https://news.ycombinator.com/item?id=27669211</id>
-        <link href="https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s"/>
-        <updated>2021-06-28T22:39:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s
-Comments URL: https://news.ycombinator.com/item?id=27669211
-Points: 130
-# Comments: 76]]></summary>
-        <author>
-            <name>smusamashah</name>
         </author>
     </entry>
     <entry>
@@ -184,8 +220,8 @@ The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks
         <updated>2021-06-28T21:25:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm
 Comments URL: https://news.ycombinator.com/item?id=27668370
-Points: 156
-# Comments: 106]]></summary>
+Points: 167
+# Comments: 120]]></summary>
         <author>
             <name>marc__1</name>
         </author>
@@ -238,8 +274,8 @@ The post Working around the viewport-based fluid typography bug in Safari appear
         <updated>2021-06-28T19:33:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html
 Comments URL: https://news.ycombinator.com/item?id=27666709
-Points: 50
-# Comments: 13]]></summary>
+Points: 64
+# Comments: 21]]></summary>
         <author>
             <name>Tycho</name>
         </author>
@@ -251,23 +287,10 @@ Points: 50
         <updated>2021-06-28T19:20:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nvidia-research-mingyuliu.com/vid2vid-cameo/
 Comments URL: https://news.ycombinator.com/item?id=27666493
-Points: 124
-# Comments: 42]]></summary>
+Points: 129
+# Comments: 44]]></summary>
         <author>
             <name>jonbaer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 'Fuck You' Pattern]]></title>
-        <id>https://news.ycombinator.com/item?id=27666455</id>
-        <link href="https://cedwards.xyz/the-fuck-you-pattern/"/>
-        <updated>2021-06-28T19:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cedwards.xyz/the-fuck-you-pattern/
-Comments URL: https://news.ycombinator.com/item?id=27666455
-Points: 1079
-# Comments: 512]]></summary>
-        <author>
-            <name>c7DJTLrn</name>
         </author>
     </entry>
     <entry>
@@ -277,8 +300,8 @@ Points: 1079
         <updated>2021-06-28T19:17:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html
 Comments URL: https://news.ycombinator.com/item?id=27666439
-Points: 352
-# Comments: 180]]></summary>
+Points: 363
+# Comments: 183]]></summary>
         <author>
             <name>ChrisArchitect</name>
         </author>
@@ -290,8 +313,8 @@ Points: 352
         <updated>2021-06-28T19:09:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://constructionphysics.substack.com/p/facit-homes-wikihouse-and-the-plywood
 Comments URL: https://news.ycombinator.com/item?id=27666320
-Points: 21
-# Comments: 0]]></summary>
+Points: 26
+# Comments: 3]]></summary>
         <author>
             <name>colinprince</name>
         </author>
@@ -304,32 +327,6 @@ Points: 21
         <summary type="html"><![CDATA[In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: The Sample – newsletters curated for you with machine learning]]></title>
-        <id>https://news.ycombinator.com/item?id=27664020</id>
-        <link href="https://sample.findka.com/?ref=showhn"/>
-        <updated>2021-06-28T16:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sample.findka.com/?ref=showhn
-Comments URL: https://news.ycombinator.com/item?id=27664020
-Points: 64
-# Comments: 27]]></summary>
-        <author>
-            <name>jacobobryant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Chemical Does Not Exist]]></title>
-        <id>https://news.ycombinator.com/item?id=27663200</id>
-        <link href="https://www.thischemicaldoesnotexist.com/"/>
-        <updated>2021-06-28T15:32:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thischemicaldoesnotexist.com/
-Comments URL: https://news.ycombinator.com/item?id=27663200
-Points: 127
-# Comments: 75]]></summary>
-        <author>
-            <name>optimalsolver</name>
         </author>
     </entry>
     <entry>
@@ -376,6 +373,19 @@ Both are essentially database-backed systems for managing data. HubSpot is both,
 The post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporal: Getting started with JavaScript's new date time API]]></title>
+        <id>https://news.ycombinator.com/item?id=27661667</id>
+        <link href="https://2ality.com/2021/06/temporal-api.html"/>
+        <updated>2021-06-28T13:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://2ality.com/2021/06/temporal-api.html
+Comments URL: https://news.ycombinator.com/item?id=27661667
+Points: 349
+# Comments: 164]]></summary>
+        <author>
+            <name>Amorymeltzer</name>
         </author>
     </entry>
     <entry>
