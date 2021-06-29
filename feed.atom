@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T08:13:28.404Z</updated>
+    <updated>2021-06-29T09:12:41.897Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS]]></title>
+        <id>https://news.ycombinator.com/item?id=27673223</id>
+        <link href="https://pawelurbanek.com/ipfs-ethereum-blog"/>
+        <updated>2021-06-29T08:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pawelurbanek.com/ipfs-ethereum-blog
+Comments URL: https://news.ycombinator.com/item?id=27673223
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>pawurb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Specs Matter (2004)]]></title>
+        <id>https://news.ycombinator.com/item?id=27673181</id>
+        <link href="https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs"/>
+        <updated>2021-06-29T08:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs
+Comments URL: https://news.ycombinator.com/item?id=27673181
+Points: 11
+# Comments: 1]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spline (YC W21) – Senior Engineer (3D/Computer Graphics)]]></title>
         <id>https://news.ycombinator.com/item?id=27672744</id>
@@ -26,8 +52,8 @@ Points: 1
         <updated>2021-06-29T06:56:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wiretrustee/wiretrustee
 Comments URL: https://news.ycombinator.com/item?id=27672715
-Points: 22
-# Comments: 1]]></summary>
+Points: 64
+# Comments: 18]]></summary>
         <author>
             <name>j1elo</name>
         </author>
@@ -39,36 +65,23 @@ Points: 22
         <updated>2021-06-29T06:56:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/
 Comments URL: https://news.ycombinator.com/item?id=27672711
-Points: 30
-# Comments: 9]]></summary>
+Points: 46
+# Comments: 14]]></summary>
         <author>
             <name>sjmulder</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Made Our Maps 10x Faster]]></title>
-        <id>https://news.ycombinator.com/item?id=27672576</id>
-        <link href="https://medium.com/opendoor-labs/how-we-made-our-maps-10x-faster-e2fa1eaebc65"/>
-        <updated>2021-06-29T06:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medium.com/opendoor-labs/how-we-made-our-maps-10x-faster-e2fa1eaebc65
-Comments URL: https://news.ycombinator.com/item?id=27672576
+        <title type="html"><![CDATA[Doing old things better vs. doing brand new things (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27672160</id>
+        <link href="https://cdixon.org/2020/10/19/doing-old-things-better-vs-doing-brand-new-things"/>
+        <updated>2021-06-29T05:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cdixon.org/2020/10/19/doing-old-things-better-vs-doing-brand-new-things
+Comments URL: https://news.ycombinator.com/item?id=27672160
 Points: 7
-# Comments: 1]]></summary>
+# Comments: 0]]></summary>
         <author>
-            <name>sidcool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Car You Buy Should Be Electric]]></title>
-        <id>https://news.ycombinator.com/item?id=27672531</id>
-        <link href="https://lehtimaeki.medium.com/the-next-car-you-buy-should-be-electric-c6980ad616b2"/>
-        <updated>2021-06-29T06:28:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lehtimaeki.medium.com/the-next-car-you-buy-should-be-electric-c6980ad616b2
-Comments URL: https://news.ycombinator.com/item?id=27672531
-Points: 12
-# Comments: 19]]></summary>
-        <author>
-            <name>pietrofmaggi</name>
+            <name>deadcoder0904</name>
         </author>
     </entry>
     <entry>
@@ -82,27 +95,27 @@ Points: 12
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our plans to improve navigation on GOV.UK]]></title>
+        <title type="html"><![CDATA[Our plans to improve navigation on Gov.uk]]></title>
         <id>https://news.ycombinator.com/item?id=27672100</id>
         <link href="https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/"/>
         <updated>2021-06-29T05:20:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/
 Comments URL: https://news.ycombinator.com/item?id=27672100
-Points: 27
-# Comments: 14]]></summary>
+Points: 50
+# Comments: 21]]></summary>
         <author>
             <name>open-source-ux</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[London Taxi Company LEVC unveils e-Camper range-extender electric camper]]></title>
+        <title type="html"><![CDATA[LEVC unveils e-Camper range-extender electric camper]]></title>
         <id>https://news.ycombinator.com/item?id=27671585</id>
         <link href="https://www.drivingelectric.com/levc/40669/levc-unveils-e-camper-range-extender-electric-camper"/>
         <updated>2021-06-29T03:55:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.drivingelectric.com/levc/40669/levc-unveils-e-camper-range-extender-electric-camper
 Comments URL: https://news.ycombinator.com/item?id=27671585
-Points: 6
-# Comments: 3]]></summary>
+Points: 10
+# Comments: 7]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -114,10 +127,46 @@ Points: 6
         <updated>2021-06-29T03:40:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://theconvivialsociety.substack.com/p/the-limits-of-optimization
 Comments URL: https://news.ycombinator.com/item?id=27671502
-Points: 16
+Points: 21
 # Comments: 3]]></summary>
         <author>
             <name>longdefeat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring back menus, QR codes are terrible]]></title>
+        <id>https://news.ycombinator.com/item?id=27671392</id>
+        <link href="https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss"/>
+        <updated>2021-06-29T03:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss
+Comments URL: https://news.ycombinator.com/item?id=27671392
+Points: 92
+# Comments: 137]]></summary>
+        <author>
+            <name>prostoalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Do you self-host your database?]]></title>
+        <id>https://news.ycombinator.com/item?id=27671376</id>
+        <link href="https://news.ycombinator.com/item?id=27671376"/>
+        <updated>2021-06-29T03:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Now that there are so many options like 
+AWS
+GCP
+Azure
+Digital Ocean
+Heroku
+Render
+Firebase
+Supabase
+etc..
+I was wondering does anyone these days Self-host databases on their infra?
+Comments URL: https://news.ycombinator.com/item?id=27671376
+Points: 49
+# Comments: 60]]></summary>
+        <author>
+            <name>vira28</name>
         </author>
     </entry>
     <entry>
@@ -127,8 +176,8 @@ Points: 16
         <updated>2021-06-29T02:28:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.noemamag.com/the-intelligent-forest
 Comments URL: https://news.ycombinator.com/item?id=27671027
-Points: 31
-# Comments: 9]]></summary>
+Points: 34
+# Comments: 12]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -140,8 +189,8 @@ Points: 31
         <updated>2021-06-29T02:07:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/magicmark/tiny-treeshaker
 Comments URL: https://news.ycombinator.com/item?id=27670859
-Points: 36
-# Comments: 17]]></summary>
+Points: 39
+# Comments: 19]]></summary>
         <author>
             <name>markl42</name>
         </author>
@@ -153,10 +202,23 @@ Points: 36
         <updated>2021-06-29T01:33:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/leaders/2021/06/26/why-the-african-genome-project-is-so-useful
 Comments URL: https://news.ycombinator.com/item?id=27670615
-Points: 37
-# Comments: 15]]></summary>
+Points: 43
+# Comments: 18]]></summary>
         <author>
             <name>jkuria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shorting Bitcoin]]></title>
+        <id>https://news.ycombinator.com/item?id=27670281</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2021/06/26/Shorting-Bitcoin"/>
+        <updated>2021-06-29T00:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tbray.org/ongoing/When/202x/2021/06/26/Shorting-Bitcoin
+Comments URL: https://news.ycombinator.com/item?id=27670281
+Points: 165
+# Comments: 178]]></summary>
+        <author>
+            <name>zdw</name>
         </author>
     </entry>
     <entry>
@@ -166,8 +228,8 @@ Points: 37
         <updated>2021-06-29T00:20:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.newsblur.com/2021/06/28/story-of-a-hacking/
 Comments URL: https://news.ycombinator.com/item?id=27670058
-Points: 342
-# Comments: 144]]></summary>
+Points: 361
+# Comments: 155]]></summary>
         <author>
             <name>ecliptik</name>
         </author>
@@ -179,23 +241,10 @@ Points: 342
         <updated>2021-06-29T00:03:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://buzzert.net/posts/2021-05-09-doorbell
 Comments URL: https://news.ycombinator.com/item?id=27669924
-Points: 60
-# Comments: 29]]></summary>
+Points: 68
+# Comments: 34]]></summary>
         <author>
             <name>buzzert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make your cluster SWIM]]></title>
-        <id>https://news.ycombinator.com/item?id=27669412</id>
-        <link href="https://bartoszsypytkowski.com/make-your-cluster-swim/"/>
-        <updated>2021-06-28T23:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bartoszsypytkowski.com/make-your-cluster-swim/
-Comments URL: https://news.ycombinator.com/item?id=27669412
-Points: 27
-# Comments: 3]]></summary>
-        <author>
-            <name>yagizdegirmenci</name>
         </author>
     </entry>
     <entry>
@@ -220,8 +269,8 @@ The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks
         <updated>2021-06-28T21:25:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm
 Comments URL: https://news.ycombinator.com/item?id=27668370
-Points: 167
-# Comments: 120]]></summary>
+Points: 181
+# Comments: 136]]></summary>
         <author>
             <name>marc__1</name>
         </author>
@@ -274,49 +323,23 @@ The post Working around the viewport-based fluid typography bug in Safari appear
         <updated>2021-06-28T19:33:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html
 Comments URL: https://news.ycombinator.com/item?id=27666709
-Points: 64
-# Comments: 21]]></summary>
+Points: 73
+# Comments: 27]]></summary>
         <author>
             <name>Tycho</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia Vid2vid-Cameo Demo]]></title>
+        <title type="html"><![CDATA[One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing]]></title>
         <id>https://news.ycombinator.com/item?id=27666493</id>
         <link href="http://nvidia-research-mingyuliu.com/vid2vid-cameo/"/>
         <updated>2021-06-28T19:20:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nvidia-research-mingyuliu.com/vid2vid-cameo/
 Comments URL: https://news.ycombinator.com/item?id=27666493
-Points: 129
-# Comments: 44]]></summary>
+Points: 131
+# Comments: 46]]></summary>
         <author>
             <name>jonbaer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge dismisses FTC antitrust complaint against Facebook]]></title>
-        <id>https://news.ycombinator.com/item?id=27666439</id>
-        <link href="https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html"/>
-        <updated>2021-06-28T19:17:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html
-Comments URL: https://news.ycombinator.com/item?id=27666439
-Points: 363
-# Comments: 183]]></summary>
-        <author>
-            <name>ChrisArchitect</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facit Homes, Wikihouse, and the Plywood Frame]]></title>
-        <id>https://news.ycombinator.com/item?id=27666320</id>
-        <link href="https://constructionphysics.substack.com/p/facit-homes-wikihouse-and-the-plywood"/>
-        <updated>2021-06-28T19:09:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://constructionphysics.substack.com/p/facit-homes-wikihouse-and-the-plywood
-Comments URL: https://news.ycombinator.com/item?id=27666320
-Points: 26
-# Comments: 3]]></summary>
-        <author>
-            <name>colinprince</name>
         </author>
     </entry>
     <entry>
@@ -373,19 +396,6 @@ Both are essentially database-backed systems for managing data. HubSpot is both,
 The post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temporal: Getting started with JavaScript's new date time API]]></title>
-        <id>https://news.ycombinator.com/item?id=27661667</id>
-        <link href="https://2ality.com/2021/06/temporal-api.html"/>
-        <updated>2021-06-28T13:26:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://2ality.com/2021/06/temporal-api.html
-Comments URL: https://news.ycombinator.com/item?id=27661667
-Points: 349
-# Comments: 164]]></summary>
-        <author>
-            <name>Amorymeltzer</name>
         </author>
     </entry>
     <entry>
