@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T11:09:30.729Z</updated>
+    <updated>2021-06-29T12:18:14.236Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eternal.gg (YC W20) Is Hiring a Creative Interactive Developer]]></title>
+        <id>https://news.ycombinator.com/item?id=27674629</id>
+        <link href="https://news.ycombinator.com/item?id=27674629"/>
+        <updated>2021-06-29T12:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Eternal.gg is looking for a Creative Interactive Developer to build out our web user experience.  We are a pioneering platform that turns streaming highlights from the biggest streamers into digital collectibles (NFTs), for their fans to collect and trade.
+As a Creative Developer, you will have significant input into designing the web experience of our users. Since Eternal sits at the intersection between blockchain and gaming, our users are mostly gamers that are accustomed to video-game-level interactions and animations, and that's precisely what we are going to build with your help.
+Our ideal candidate should be experienced in:
+- Building interactive web interfaces
+- Designing and implementing 2D/3D web animations
+Eternal is a YCombinator startup and funded by stellar investors including the founders of Twitch, Crunchyroll, Notion, etc. As part of a small and dymatic team, you will be taking on significant responsibilities and can expect huge personal growth.
+This position can be either remote or based in LA.  Ability to work within US timezones is preferred but not required.
+Comments URL: https://news.ycombinator.com/item?id=27674629
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>derekchiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT and Harvard agree to transfer edX to ed-tech firm 2U]]></title>
+        <id>https://news.ycombinator.com/item?id=27674413</id>
+        <link href="https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629"/>
+        <updated>2021-06-29T11:35:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629
+Comments URL: https://news.ycombinator.com/item?id=27674413
+Points: 28
+# Comments: 6]]></summary>
+        <author>
+            <name>rolandm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New LinkedIn Data Leak Leaves 700M Users Exposed]]></title>
+        <id>https://news.ycombinator.com/item?id=27674393</id>
+        <link href="https://restoreprivacy.com/linkedin-data-leak-700-million-users/"/>
+        <updated>2021-06-29T11:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://restoreprivacy.com/linkedin-data-leak-700-million-users/
+Comments URL: https://news.ycombinator.com/item?id=27674393
+Points: 31
+# Comments: 7]]></summary>
+        <author>
+            <name>gargs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
+        <updated>2021-06-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that. Additionally, we pair it up with Next.js’ Incremental Static Regeneration for the best user and developer experience. And, of course, benchmark those results!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Compute Engine (GCE) VM Takeover via DHCP Flood]]></title>
         <id>https://news.ycombinator.com/item?id=27673933</id>
@@ -13,8 +68,8 @@
         <updated>2021-06-29T10:16:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/irsl/gcp-dhcp-takeover-code-exec
 Comments URL: https://news.ycombinator.com/item?id=27673933
-Points: 68
-# Comments: 13]]></summary>
+Points: 145
+# Comments: 33]]></summary>
         <author>
             <name>ithkuil</name>
         </author>
@@ -26,8 +81,8 @@ Points: 68
         <updated>2021-06-29T09:44:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://futureofmatter.com/maps_of_matter.html
 Comments URL: https://news.ycombinator.com/item?id=27673753
-Points: 27
-# Comments: 3]]></summary>
+Points: 39
+# Comments: 9]]></summary>
         <author>
             <name>optimalsolver</name>
         </author>
@@ -39,7 +94,7 @@ Points: 27
         <updated>2021-06-29T09:33:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.linuxfoundation.org/press-release/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future/
 Comments URL: https://news.ycombinator.com/item?id=27673681
-Points: 11
+Points: 24
 # Comments: 0]]></summary>
         <author>
             <name>doener</name>
@@ -52,7 +107,7 @@ Points: 11
         <updated>2021-06-29T08:25:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/
 Comments URL: https://news.ycombinator.com/item?id=27673282
-Points: 6
+Points: 8
 # Comments: 0]]></summary>
         <author>
             <name>ingve</name>
@@ -65,8 +120,8 @@ Points: 6
         <updated>2021-06-29T08:16:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pawelurbanek.com/ipfs-ethereum-blog
 Comments URL: https://news.ycombinator.com/item?id=27673223
-Points: 40
-# Comments: 6]]></summary>
+Points: 70
+# Comments: 29]]></summary>
         <author>
             <name>pawurb</name>
         </author>
@@ -78,8 +133,8 @@ Points: 40
         <updated>2021-06-29T08:10:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs
 Comments URL: https://news.ycombinator.com/item?id=27673181
-Points: 19
-# Comments: 5]]></summary>
+Points: 23
+# Comments: 11]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -91,23 +146,10 @@ Points: 19
         <updated>2021-06-29T08:09:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mvanier.livejournal.com/2897.html
 Comments URL: https://news.ycombinator.com/item?id=27673177
-Points: 9
-# Comments: 1]]></summary>
+Points: 17
+# Comments: 6]]></summary>
         <author>
             <name>pcaversaccio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spline (YC W21) – Senior Engineer (3D/Computer Graphics)]]></title>
-        <id>https://news.ycombinator.com/item?id=27672744</id>
-        <link href="https://www.ycombinator.com/companies/spline/jobs/vS70rg1DB-senior-engineer-3d-computer-graphics"/>
-        <updated>2021-06-29T07:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/spline/jobs/vS70rg1DB-senior-engineer-3d-computer-graphics
-Comments URL: https://news.ycombinator.com/item?id=27672744
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>alejandroleon</name>
         </author>
     </entry>
     <entry>
@@ -117,8 +159,8 @@ Points: 1
         <updated>2021-06-29T06:56:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wiretrustee/wiretrustee
 Comments URL: https://news.ycombinator.com/item?id=27672715
-Points: 103
-# Comments: 33]]></summary>
+Points: 134
+# Comments: 39]]></summary>
         <author>
             <name>j1elo</name>
         </author>
@@ -130,8 +172,8 @@ Points: 103
         <updated>2021-06-29T06:56:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/
 Comments URL: https://news.ycombinator.com/item?id=27672711
-Points: 71
-# Comments: 27]]></summary>
+Points: 87
+# Comments: 41]]></summary>
         <author>
             <name>sjmulder</name>
         </author>
@@ -153,23 +195,10 @@ Points: 71
         <updated>2021-06-29T05:20:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/
 Comments URL: https://news.ycombinator.com/item?id=27672100
-Points: 70
-# Comments: 40]]></summary>
+Points: 77
+# Comments: 46]]></summary>
         <author>
             <name>open-source-ux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Limits of Optimization]]></title>
-        <id>https://news.ycombinator.com/item?id=27671502</id>
-        <link href="https://theconvivialsociety.substack.com/p/the-limits-of-optimization"/>
-        <updated>2021-06-29T03:40:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://theconvivialsociety.substack.com/p/the-limits-of-optimization
-Comments URL: https://news.ycombinator.com/item?id=27671502
-Points: 27
-# Comments: 5]]></summary>
-        <author>
-            <name>longdefeat</name>
         </author>
     </entry>
     <entry>
@@ -179,8 +208,8 @@ Points: 27
         <updated>2021-06-29T03:25:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss
 Comments URL: https://news.ycombinator.com/item?id=27671392
-Points: 141
-# Comments: 229]]></summary>
+Points: 187
+# Comments: 284]]></summary>
         <author>
             <name>prostoalex</name>
         </author>
@@ -202,8 +231,8 @@ Supabase
 etc..
 I was wondering does anyone these days Self-host databases on their infra?
 Comments URL: https://news.ycombinator.com/item?id=27671376
-Points: 81
-# Comments: 100]]></summary>
+Points: 96
+# Comments: 131]]></summary>
         <author>
             <name>vira28</name>
         </author>
@@ -215,8 +244,8 @@ Points: 81
         <updated>2021-06-29T02:07:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/magicmark/tiny-treeshaker
 Comments URL: https://news.ycombinator.com/item?id=27670859
-Points: 43
-# Comments: 28]]></summary>
+Points: 48
+# Comments: 38]]></summary>
         <author>
             <name>markl42</name>
         </author>
@@ -228,8 +257,8 @@ Points: 43
         <updated>2021-06-29T01:33:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/leaders/2021/06/26/why-the-african-genome-project-is-so-useful
 Comments URL: https://news.ycombinator.com/item?id=27670615
-Points: 50
-# Comments: 28]]></summary>
+Points: 53
+# Comments: 38]]></summary>
         <author>
             <name>jkuria</name>
         </author>
@@ -241,8 +270,8 @@ Points: 50
         <updated>2021-06-29T00:20:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.newsblur.com/2021/06/28/story-of-a-hacking/
 Comments URL: https://news.ycombinator.com/item?id=27670058
-Points: 418
-# Comments: 180]]></summary>
+Points: 440
+# Comments: 205]]></summary>
         <author>
             <name>ecliptik</name>
         </author>
@@ -254,8 +283,8 @@ Points: 418
         <updated>2021-06-29T00:03:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://buzzert.net/posts/2021-05-09-doorbell
 Comments URL: https://news.ycombinator.com/item?id=27669924
-Points: 78
-# Comments: 38]]></summary>
+Points: 87
+# Comments: 41]]></summary>
         <author>
             <name>buzzert</name>
         </author>
@@ -282,8 +311,8 @@ The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks
         <updated>2021-06-28T21:25:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm
 Comments URL: https://news.ycombinator.com/item?id=27668370
-Points: 200
-# Comments: 160]]></summary>
+Points: 208
+# Comments: 172]]></summary>
         <author>
             <name>marc__1</name>
         </author>
@@ -327,19 +356,6 @@ The post Working around the viewport-based fluid typography bug in Safari appear
         <summary type="html"><![CDATA[Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We moderns are status-drunk]]></title>
-        <id>https://news.ycombinator.com/item?id=27666709</id>
-        <link href="https://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html"/>
-        <updated>2021-06-28T19:33:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html
-Comments URL: https://news.ycombinator.com/item?id=27666709
-Points: 87
-# Comments: 36]]></summary>
-        <author>
-            <name>Tycho</name>
         </author>
     </entry>
     <entry>
