@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T12:18:14.236Z</updated>
+    <updated>2021-06-29T13:18:41.785Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers exploited 0-day, not 2018 bug, to mass-wipe My Book Live devices]]></title>
+        <id>https://news.ycombinator.com/item?id=27674871</id>
+        <link href="https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices"/>
+        <updated>2021-06-29T12:27:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices
+Comments URL: https://news.ycombinator.com/item?id=27674871
+Points: 19
+# Comments: 7]]></summary>
+        <author>
+            <name>oldgradstudent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eternal.gg (YC W20) Is Hiring a Creative Interactive Developer]]></title>
         <id>https://news.ycombinator.com/item?id=27674629</id>
@@ -32,8 +45,8 @@ Points: 1
         <updated>2021-06-29T11:35:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629
 Comments URL: https://news.ycombinator.com/item?id=27674413
-Points: 28
-# Comments: 6]]></summary>
+Points: 108
+# Comments: 42]]></summary>
         <author>
             <name>rolandm</name>
         </author>
@@ -45,10 +58,36 @@ Points: 28
         <updated>2021-06-29T11:30:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://restoreprivacy.com/linkedin-data-leak-700-million-users/
 Comments URL: https://news.ycombinator.com/item?id=27674393
-Points: 31
-# Comments: 7]]></summary>
+Points: 92
+# Comments: 46]]></summary>
         <author>
             <name>gargs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portable Nuclear Reactor Program Sparks Controversy]]></title>
+        <id>https://news.ycombinator.com/item?id=27674305</id>
+        <link href="https://www.nationaldefensemagazine.org/articles/2021/6/28/portable-nuclear-reactor-program-sparks-controversy"/>
+        <updated>2021-06-29T11:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nationaldefensemagazine.org/articles/2021/6/28/portable-nuclear-reactor-program-sparks-controversy
+Comments URL: https://news.ycombinator.com/item?id=27674305
+Points: 9
+# Comments: 4]]></summary>
+        <author>
+            <name>howaboutnope</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concrete: The material that's 'too vast to imagine']]></title>
+        <id>https://news.ycombinator.com/item?id=27674270</id>
+        <link href="https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age"/>
+        <updated>2021-06-29T11:16:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age
+Comments URL: https://news.ycombinator.com/item?id=27674270
+Points: 28
+# Comments: 1]]></summary>
+        <author>
+            <name>DrNuke</name>
         </author>
     </entry>
     <entry>
@@ -62,14 +101,14 @@ Points: 31
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Compute Engine (GCE) VM Takeover via DHCP Flood]]></title>
+        <title type="html"><![CDATA[Google Compute Engine VM takeover via DHCP flood]]></title>
         <id>https://news.ycombinator.com/item?id=27673933</id>
         <link href="https://github.com/irsl/gcp-dhcp-takeover-code-exec"/>
         <updated>2021-06-29T10:16:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/irsl/gcp-dhcp-takeover-code-exec
 Comments URL: https://news.ycombinator.com/item?id=27673933
-Points: 145
-# Comments: 33]]></summary>
+Points: 204
+# Comments: 58]]></summary>
         <author>
             <name>ithkuil</name>
         </author>
@@ -81,8 +120,8 @@ Points: 145
         <updated>2021-06-29T09:44:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://futureofmatter.com/maps_of_matter.html
 Comments URL: https://news.ycombinator.com/item?id=27673753
-Points: 39
-# Comments: 9]]></summary>
+Points: 48
+# Comments: 18]]></summary>
         <author>
             <name>optimalsolver</name>
         </author>
@@ -94,8 +133,8 @@ Points: 39
         <updated>2021-06-29T09:33:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.linuxfoundation.org/press-release/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future/
 Comments URL: https://news.ycombinator.com/item?id=27673681
-Points: 24
-# Comments: 0]]></summary>
+Points: 32
+# Comments: 2]]></summary>
         <author>
             <name>doener</name>
         </author>
@@ -107,7 +146,7 @@ Points: 24
         <updated>2021-06-29T08:25:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/
 Comments URL: https://news.ycombinator.com/item?id=27673282
-Points: 8
+Points: 13
 # Comments: 0]]></summary>
         <author>
             <name>ingve</name>
@@ -120,8 +159,8 @@ Points: 8
         <updated>2021-06-29T08:16:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pawelurbanek.com/ipfs-ethereum-blog
 Comments URL: https://news.ycombinator.com/item?id=27673223
-Points: 70
-# Comments: 29]]></summary>
+Points: 91
+# Comments: 45]]></summary>
         <author>
             <name>pawurb</name>
         </author>
@@ -133,8 +172,8 @@ Points: 70
         <updated>2021-06-29T08:10:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs
 Comments URL: https://news.ycombinator.com/item?id=27673181
-Points: 23
-# Comments: 11]]></summary>
+Points: 30
+# Comments: 13]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -146,8 +185,8 @@ Points: 23
         <updated>2021-06-29T08:09:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mvanier.livejournal.com/2897.html
 Comments URL: https://news.ycombinator.com/item?id=27673177
-Points: 17
-# Comments: 6]]></summary>
+Points: 29
+# Comments: 8]]></summary>
         <author>
             <name>pcaversaccio</name>
         </author>
@@ -159,8 +198,8 @@ Points: 17
         <updated>2021-06-29T06:56:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wiretrustee/wiretrustee
 Comments URL: https://news.ycombinator.com/item?id=27672715
-Points: 134
-# Comments: 39]]></summary>
+Points: 171
+# Comments: 47]]></summary>
         <author>
             <name>j1elo</name>
         </author>
@@ -172,8 +211,8 @@ Points: 134
         <updated>2021-06-29T06:56:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/
 Comments URL: https://news.ycombinator.com/item?id=27672711
-Points: 87
-# Comments: 41]]></summary>
+Points: 94
+# Comments: 56]]></summary>
         <author>
             <name>sjmulder</name>
         </author>
@@ -195,8 +234,8 @@ Points: 87
         <updated>2021-06-29T05:20:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/
 Comments URL: https://news.ycombinator.com/item?id=27672100
-Points: 77
-# Comments: 46]]></summary>
+Points: 80
+# Comments: 49]]></summary>
         <author>
             <name>open-source-ux</name>
         </author>
@@ -208,8 +247,8 @@ Points: 77
         <updated>2021-06-29T03:25:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss
 Comments URL: https://news.ycombinator.com/item?id=27671392
-Points: 187
-# Comments: 284]]></summary>
+Points: 234
+# Comments: 336]]></summary>
         <author>
             <name>prostoalex</name>
         </author>
@@ -231,36 +270,10 @@ Supabase
 etc..
 I was wondering does anyone these days Self-host databases on their infra?
 Comments URL: https://news.ycombinator.com/item?id=27671376
-Points: 96
-# Comments: 131]]></summary>
+Points: 117
+# Comments: 156]]></summary>
         <author>
             <name>vira28</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny Treeshaker: JavaScript tree shaking in 200 lines of code]]></title>
-        <id>https://news.ycombinator.com/item?id=27670859</id>
-        <link href="https://github.com/magicmark/tiny-treeshaker"/>
-        <updated>2021-06-29T02:07:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/magicmark/tiny-treeshaker
-Comments URL: https://news.ycombinator.com/item?id=27670859
-Points: 48
-# Comments: 38]]></summary>
-        <author>
-            <name>markl42</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the African genome project is so useful]]></title>
-        <id>https://news.ycombinator.com/item?id=27670615</id>
-        <link href="https://www.economist.com/leaders/2021/06/26/why-the-african-genome-project-is-so-useful"/>
-        <updated>2021-06-29T01:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/leaders/2021/06/26/why-the-african-genome-project-is-so-useful
-Comments URL: https://news.ycombinator.com/item?id=27670615
-Points: 53
-# Comments: 38]]></summary>
-        <author>
-            <name>jkuria</name>
         </author>
     </entry>
     <entry>
@@ -270,8 +283,8 @@ Points: 53
         <updated>2021-06-29T00:20:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.newsblur.com/2021/06/28/story-of-a-hacking/
 Comments URL: https://news.ycombinator.com/item?id=27670058
-Points: 440
-# Comments: 205]]></summary>
+Points: 473
+# Comments: 214]]></summary>
         <author>
             <name>ecliptik</name>
         </author>
@@ -283,8 +296,8 @@ Points: 440
         <updated>2021-06-29T00:03:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://buzzert.net/posts/2021-05-09-doorbell
 Comments URL: https://news.ycombinator.com/item?id=27669924
-Points: 87
-# Comments: 41]]></summary>
+Points: 103
+# Comments: 46]]></summary>
         <author>
             <name>buzzert</name>
         </author>
@@ -302,19 +315,6 @@ Those aren’t the only kind of named colors there are though. Some of them are 
 The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duolingo S-1 IPO]]></title>
-        <id>https://news.ycombinator.com/item?id=27668370</id>
-        <link href="https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm"/>
-        <updated>2021-06-28T21:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm
-Comments URL: https://news.ycombinator.com/item?id=27668370
-Points: 208
-# Comments: 172]]></summary>
-        <author>
-            <name>marc__1</name>
         </author>
     </entry>
     <entry>
