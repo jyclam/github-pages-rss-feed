@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T02:25:51.489Z</updated>
+    <updated>2021-06-29T03:13:33.495Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tiny Treeshaker: JavaScript tree shaking in 200 lines of code]]></title>
+        <id>https://news.ycombinator.com/item?id=27670859</id>
+        <link href="https://github.com/magicmark/tiny-treeshaker"/>
+        <updated>2021-06-29T02:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/magicmark/tiny-treeshaker
+Comments URL: https://news.ycombinator.com/item?id=27670859
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>markl42</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[See the Highest-Resolution Atomic Image Ever Captured]]></title>
         <id>https://news.ycombinator.com/item?id=27670852</id>
@@ -13,8 +26,8 @@
         <updated>2021-06-29T02:06:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/see-the-highest-resolution-atomic-image-ever-captured/
 Comments URL: https://news.ycombinator.com/item?id=27670852
-Points: 7
-# Comments: 1]]></summary>
+Points: 22
+# Comments: 5]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -26,8 +39,8 @@ Points: 7
         <updated>2021-06-29T01:38:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article252421658.html
 Comments URL: https://news.ycombinator.com/item?id=27670660
-Points: 28
-# Comments: 5]]></summary>
+Points: 78
+# Comments: 43]]></summary>
         <author>
             <name>cratermoon</name>
         </author>
@@ -52,8 +65,8 @@ Points: 1
         <updated>2021-06-29T00:57:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-latin-america-57645016
 Comments URL: https://news.ycombinator.com/item?id=27670360
-Points: 134
-# Comments: 34]]></summary>
+Points: 203
+# Comments: 63]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -65,8 +78,8 @@ Points: 134
         <updated>2021-06-29T00:20:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.newsblur.com/2021/06/28/story-of-a-hacking/
 Comments URL: https://news.ycombinator.com/item?id=27670058
-Points: 73
-# Comments: 32]]></summary>
+Points: 118
+# Comments: 42]]></summary>
         <author>
             <name>ecliptik</name>
         </author>
@@ -78,7 +91,7 @@ Points: 73
         <updated>2021-06-28T23:00:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bartoszsypytkowski.com/make-your-cluster-swim/
 Comments URL: https://news.ycombinator.com/item?id=27669412
-Points: 11
+Points: 13
 # Comments: 3]]></summary>
         <author>
             <name>yagizdegirmenci</name>
@@ -91,8 +104,8 @@ Points: 11
         <updated>2021-06-28T22:39:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s
 Comments URL: https://news.ycombinator.com/item?id=27669211
-Points: 81
-# Comments: 32]]></summary>
+Points: 88
+# Comments: 39]]></summary>
         <author>
             <name>smusamashah</name>
         </author>
@@ -104,8 +117,8 @@ Points: 81
         <updated>2021-06-28T22:14:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286
 Comments URL: https://news.ycombinator.com/item?id=27668935
-Points: 118
-# Comments: 136]]></summary>
+Points: 124
+# Comments: 151]]></summary>
         <author>
             <name>ortusdux</name>
         </author>
@@ -115,11 +128,11 @@ Points: 118
         <id>https://css-tricks.com/?p=343040</id>
         <link href="https://css-tricks.com/system-things/"/>
         <updated>2021-06-28T22:14:22.000Z</updated>
-        <summary type="html"><![CDATA[I think we’re all largely aware of named colors in CSS:
+        <summary type="html"><![CDATA[I think we’re all largely aware of colors like this:
 color: OldLace;
 background: rebeccapurple;
 I guess you’d just call those “named colors” in CSS. 
-Those aren’t the only kind of named colors there are though. Some of them …
+Those aren’t the only kind of named colors there are though. Some of them are …
 The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -132,8 +145,8 @@ The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks
         <updated>2021-06-28T21:25:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm
 Comments URL: https://news.ycombinator.com/item?id=27668370
-Points: 50
-# Comments: 6]]></summary>
+Points: 81
+# Comments: 29]]></summary>
         <author>
             <name>marc__1</name>
         </author>
@@ -186,8 +199,8 @@ The post Working around the viewport-based fluid typography bug in Safari appear
         <updated>2021-06-28T19:33:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html
 Comments URL: https://news.ycombinator.com/item?id=27666709
-Points: 14
-# Comments: 0]]></summary>
+Points: 19
+# Comments: 2]]></summary>
         <author>
             <name>Tycho</name>
         </author>
@@ -199,8 +212,8 @@ Points: 14
         <updated>2021-06-28T19:20:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nvidia-research-mingyuliu.com/vid2vid-cameo/
 Comments URL: https://news.ycombinator.com/item?id=27666493
-Points: 87
-# Comments: 29]]></summary>
+Points: 95
+# Comments: 31]]></summary>
         <author>
             <name>jonbaer</name>
         </author>
@@ -212,8 +225,8 @@ Points: 87
         <updated>2021-06-28T19:18:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cedwards.xyz/the-fuck-you-pattern/
 Comments URL: https://news.ycombinator.com/item?id=27666455
-Points: 944
-# Comments: 441]]></summary>
+Points: 966
+# Comments: 460]]></summary>
         <author>
             <name>c7DJTLrn</name>
         </author>
@@ -225,8 +238,8 @@ Points: 944
         <updated>2021-06-28T19:17:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html
 Comments URL: https://news.ycombinator.com/item?id=27666439
-Points: 291
-# Comments: 153]]></summary>
+Points: 303
+# Comments: 157]]></summary>
         <author>
             <name>ChrisArchitect</name>
         </author>
@@ -239,19 +252,6 @@ Points: 291
         <summary type="html"><![CDATA[In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Art Generator Neoplasticism]]></title>
-        <id>https://news.ycombinator.com/item?id=27665594</id>
-        <link href="https://github.com/andronov04/mondrian-art"/>
-        <updated>2021-06-28T18:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/andronov04/mondrian-art
-Comments URL: https://news.ycombinator.com/item?id=27665594
-Points: 32
-# Comments: 1]]></summary>
-        <author>
-            <name>andronov004</name>
         </author>
     </entry>
     <entry>
@@ -299,8 +299,8 @@ The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks.
         <updated>2021-06-28T14:04:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/
 Comments URL: https://news.ycombinator.com/item?id=27662114
-Points: 89
-# Comments: 63]]></summary>
+Points: 92
+# Comments: 67]]></summary>
         <author>
             <name>beyondd</name>
         </author>
@@ -346,8 +346,8 @@ The post Scaling Organizations Should Consider Building a Website Backed by a CR
         <updated>2021-06-28T13:26:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://2ality.com/2021/06/temporal-api.html
 Comments URL: https://news.ycombinator.com/item?id=27661667
-Points: 310
-# Comments: 151]]></summary>
+Points: 320
+# Comments: 152]]></summary>
         <author>
             <name>Amorymeltzer</name>
         </author>
@@ -359,10 +359,23 @@ Points: 310
         <updated>2021-06-28T13:25:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.freethink.com/shows/just-might-work/how-to-make-insulin
 Comments URL: https://news.ycombinator.com/item?id=27661637
-Points: 367
-# Comments: 303]]></summary>
+Points: 378
+# Comments: 312]]></summary>
         <author>
             <name>HiroProtagonist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Plea for Lean Software (1995) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27661559</id>
+        <link href="https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf"/>
+        <updated>2021-06-28T13:18:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf
+Comments URL: https://news.ycombinator.com/item?id=27661559
+Points: 139
+# Comments: 131]]></summary>
+        <author>
+            <name>dvfjsdhgfv</name>
         </author>
     </entry>
     <entry>
@@ -373,19 +386,6 @@ Points: 367
         <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Minimal versioned log structured relational DB in Common Lisp]]></title>
-        <id>https://news.ycombinator.com/item?id=27657164</id>
-        <link href="https://github.com/codr7/whirlog"/>
-        <updated>2021-06-28T01:28:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/codr7/whirlog
-Comments URL: https://news.ycombinator.com/item?id=27657164
-Points: 65
-# Comments: 10]]></summary>
-        <author>
-            <name>codr7</name>
         </author>
     </entry>
     <entry>
