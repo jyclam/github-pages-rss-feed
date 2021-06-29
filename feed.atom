@@ -2,21 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T14:10:54.970Z</updated>
+    <updated>2021-06-29T15:11:55.955Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[LinkedIn breach reportedly exposes data of 92% of users, inferred salaries]]></title>
-        <id>https://news.ycombinator.com/item?id=27675648</id>
-        <link href="https://9to5mac.com/2021/06/29/linkedin-breach/"/>
-        <updated>2021-06-29T13:43:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://9to5mac.com/2021/06/29/linkedin-breach/
-Comments URL: https://news.ycombinator.com/item?id=27675648
-Points: 13
+        <title type="html"><![CDATA[Cliqz Search Engine is no longer in operation (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27676645</id>
+        <link href="https://cliqz.com/announcement.html"/>
+        <updated>2021-06-29T14:52:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cliqz.com/announcement.html
+Comments URL: https://news.ycombinator.com/item?id=27676645
+Points: 7
 # Comments: 0]]></summary>
         <author>
-            <name>aburan28</name>
+            <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I loved jQuery, and still do (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27676550</id>
+        <link href="https://withblue.ink/2019/04/12/i-loved-jquery-and-still-do.html"/>
+        <updated>2021-06-29T14:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://withblue.ink/2019/04/12/i-loved-jquery-and-still-do.html
+Comments URL: https://news.ycombinator.com/item?id=27676550
+Points: 18
+# Comments: 0]]></summary>
+        <author>
+            <name>notoriousarun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[:nth-child Between Two Fixed Indexes]]></title>
+        <id>https://css-tricks.com/?p=342736</id>
+        <link href="https://css-tricks.com/nth-child-between-two-fixed-indexes/"/>
+        <updated>2021-06-29T14:37:21.000Z</updated>
+        <summary type="html"><![CDATA[I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. 
+The answer, it …
+The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot: your AI pair programmer]]></title>
+        <id>https://news.ycombinator.com/item?id=27676266</id>
+        <link href="https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/"/>
+        <updated>2021-06-29T14:29:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/
+Comments URL: https://news.ycombinator.com/item?id=27676266
+Points: 134
+# Comments: 21]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot: Your AI Pair Programmer]]></title>
+        <id>https://news.ycombinator.com/item?id=27676188</id>
+        <link href="https://copilot.github.com"/>
+        <updated>2021-06-29T14:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://copilot.github.com
+Comments URL: https://news.ycombinator.com/item?id=27676188
+Points: 20
+# Comments: 1]]></summary>
+        <author>
+            <name>idan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sperm Parameters After Covid-19 Vaccine]]></title>
+        <id>https://news.ycombinator.com/item?id=27675872</id>
+        <link href="https://jamanetwork.com/journals/jama/fullarticle/2781360"/>
+        <updated>2021-06-29T14:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jamanetwork.com/journals/jama/fullarticle/2781360
+Comments URL: https://news.ycombinator.com/item?id=27675872
+Points: 20
+# Comments: 14]]></summary>
+        <author>
+            <name>charlieirish</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +90,8 @@ Points: 13
         <updated>2021-06-29T13:39:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://paulgraham.com/hwh.html
 Comments URL: https://news.ycombinator.com/item?id=27675603
-Points: 36
-# Comments: 16]]></summary>
+Points: 149
+# Comments: 117]]></summary>
         <author>
             <name>razin</name>
         </author>
@@ -49,23 +113,10 @@ Points: 36
         <updated>2021-06-29T13:19:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://svelte.dev/blog/virtual-dom-is-pure-overhead
 Comments URL: https://news.ycombinator.com/item?id=27675371
-Points: 121
-# Comments: 56]]></summary>
+Points: 194
+# Comments: 116]]></summary>
         <author>
             <name>rob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View: Warren Buffett and the Myth of the ‘Good Billionaire’]]></title>
-        <id>https://news.ycombinator.com/item?id=27675344</id>
-        <link href="https://economictimes.indiatimes.com/news/international/business/view-warren-buffett-and-the-myth-of-the-good-billionaire/articleshow/83502579.cms"/>
-        <updated>2021-06-29T13:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://economictimes.indiatimes.com/news/international/business/view-warren-buffett-and-the-myth-of-the-good-billionaire/articleshow/83502579.cms
-Comments URL: https://news.ycombinator.com/item?id=27675344
-Points: 33
-# Comments: 17]]></summary>
-        <author>
-            <name>paulpauper</name>
         </author>
     </entry>
     <entry>
@@ -75,8 +126,8 @@ Points: 33
         <updated>2021-06-29T12:51:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tamikothiel.com/cm/
 Comments URL: https://news.ycombinator.com/item?id=27675086
-Points: 11
-# Comments: 5]]></summary>
+Points: 22
+# Comments: 9]]></summary>
         <author>
             <name>voxadam</name>
         </author>
@@ -88,8 +139,8 @@ Points: 11
         <updated>2021-06-29T12:27:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices
 Comments URL: https://news.ycombinator.com/item?id=27674871
-Points: 55
-# Comments: 19]]></summary>
+Points: 103
+# Comments: 28]]></summary>
         <author>
             <name>oldgradstudent</name>
         </author>
@@ -120,8 +171,8 @@ Points: 1
         <updated>2021-06-29T11:35:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629
 Comments URL: https://news.ycombinator.com/item?id=27674413
-Points: 135
-# Comments: 60]]></summary>
+Points: 186
+# Comments: 86]]></summary>
         <author>
             <name>rolandm</name>
         </author>
@@ -133,23 +184,10 @@ Points: 135
         <updated>2021-06-29T11:30:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://restoreprivacy.com/linkedin-data-leak-700-million-users/
 Comments URL: https://news.ycombinator.com/item?id=27674393
-Points: 135
-# Comments: 74]]></summary>
+Points: 209
+# Comments: 86]]></summary>
         <author>
             <name>gargs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Portable Nuclear Reactor Program Sparks Controversy]]></title>
-        <id>https://news.ycombinator.com/item?id=27674305</id>
-        <link href="https://www.nationaldefensemagazine.org/articles/2021/6/28/portable-nuclear-reactor-program-sparks-controversy"/>
-        <updated>2021-06-29T11:20:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nationaldefensemagazine.org/articles/2021/6/28/portable-nuclear-reactor-program-sparks-controversy
-Comments URL: https://news.ycombinator.com/item?id=27674305
-Points: 12
-# Comments: 26]]></summary>
-        <author>
-            <name>howaboutnope</name>
         </author>
     </entry>
     <entry>
@@ -159,8 +197,8 @@ Points: 12
         <updated>2021-06-29T11:16:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age
 Comments URL: https://news.ycombinator.com/item?id=27674270
-Points: 46
-# Comments: 28]]></summary>
+Points: 60
+# Comments: 69]]></summary>
         <author>
             <name>DrNuke</name>
         </author>
@@ -176,14 +214,27 @@ Points: 46
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How 1500 bytes became the MTU of the Internet (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27673945</id>
+        <link href="https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500"/>
+        <updated>2021-06-29T10:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
+Comments URL: https://news.ycombinator.com/item?id=27673945
+Points: 14
+# Comments: 1]]></summary>
+        <author>
+            <name>Jerry2</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Compute Engine VM takeover via DHCP flood]]></title>
         <id>https://news.ycombinator.com/item?id=27673933</id>
         <link href="https://github.com/irsl/gcp-dhcp-takeover-code-exec"/>
         <updated>2021-06-29T10:16:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/irsl/gcp-dhcp-takeover-code-exec
 Comments URL: https://news.ycombinator.com/item?id=27673933
-Points: 234
-# Comments: 69]]></summary>
+Points: 275
+# Comments: 79]]></summary>
         <author>
             <name>ithkuil</name>
         </author>
@@ -195,23 +246,10 @@ Points: 234
         <updated>2021-06-29T09:44:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://futureofmatter.com/maps_of_matter.html
 Comments URL: https://news.ycombinator.com/item?id=27673753
-Points: 52
-# Comments: 30]]></summary>
+Points: 57
+# Comments: 32]]></summary>
         <author>
             <name>optimalsolver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code in ARM Assembly: Conditional Loops]]></title>
-        <id>https://news.ycombinator.com/item?id=27673282</id>
-        <link href="https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/"/>
-        <updated>2021-06-29T08:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/
-Comments URL: https://news.ycombinator.com/item?id=27673282
-Points: 15
-# Comments: 1]]></summary>
-        <author>
-            <name>ingve</name>
         </author>
     </entry>
     <entry>
@@ -221,23 +259,10 @@ Points: 15
         <updated>2021-06-29T08:16:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pawelurbanek.com/ipfs-ethereum-blog
 Comments URL: https://news.ycombinator.com/item?id=27673223
-Points: 99
-# Comments: 52]]></summary>
+Points: 116
+# Comments: 56]]></summary>
         <author>
             <name>pawurb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Specs Matter (2004)]]></title>
-        <id>https://news.ycombinator.com/item?id=27673181</id>
-        <link href="https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs"/>
-        <updated>2021-06-29T08:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs
-Comments URL: https://news.ycombinator.com/item?id=27673181
-Points: 34
-# Comments: 13]]></summary>
-        <author>
-            <name>Tomte</name>
         </author>
     </entry>
     <entry>
@@ -247,8 +272,8 @@ Points: 34
         <updated>2021-06-29T08:09:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mvanier.livejournal.com/2897.html
 Comments URL: https://news.ycombinator.com/item?id=27673177
-Points: 35
-# Comments: 11]]></summary>
+Points: 38
+# Comments: 15]]></summary>
         <author>
             <name>pcaversaccio</name>
         </author>
@@ -260,8 +285,8 @@ Points: 35
         <updated>2021-06-29T06:56:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wiretrustee/wiretrustee
 Comments URL: https://news.ycombinator.com/item?id=27672715
-Points: 185
-# Comments: 52]]></summary>
+Points: 213
+# Comments: 58]]></summary>
         <author>
             <name>j1elo</name>
         </author>
@@ -273,8 +298,8 @@ Points: 185
         <updated>2021-06-29T06:56:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/
 Comments URL: https://news.ycombinator.com/item?id=27672711
-Points: 100
-# Comments: 57]]></summary>
+Points: 105
+# Comments: 62]]></summary>
         <author>
             <name>sjmulder</name>
         </author>
@@ -287,19 +312,6 @@ Points: 100
         <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our plans to improve navigation on Gov.uk]]></title>
-        <id>https://news.ycombinator.com/item?id=27672100</id>
-        <link href="https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/"/>
-        <updated>2021-06-29T05:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/
-Comments URL: https://news.ycombinator.com/item?id=27672100
-Points: 83
-# Comments: 52]]></summary>
-        <author>
-            <name>open-source-ux</name>
         </author>
     </entry>
     <entry>
@@ -644,17 +656,6 @@ The post If we’re gonna criticize utility-class frameworks, let’s be fair ab
 The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji]]></title>
-        <id>https://css-tricks.com/?p=342448</id>
-        <link href="https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/"/>
-        <updated>2021-06-21T14:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …
-The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
     <entry>
