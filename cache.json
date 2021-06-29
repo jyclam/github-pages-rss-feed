@@ -6,12 +6,57 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27675648",
+          "author": "aburan28",
+          "description": "Article URL: https://9to5mac.com/2021/06/29/linkedin-breach/\nComments URL: https://news.ycombinator.com/item?id=27675648\nPoints: 13\n# Comments: 0",
+          "link": "https://9to5mac.com/2021/06/29/linkedin-breach/",
+          "publishedOn": "2021-06-29T13:43:16.000Z",
+          "wordCount": 694,
+          "title": "LinkedIn breach reportedly exposes data of 92% of users, inferred salaries"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27675603",
+          "author": "razin",
+          "description": "Article URL: http://paulgraham.com/hwh.html\nComments URL: https://news.ycombinator.com/item?id=27675603\nPoints: 36\n# Comments: 16",
+          "link": "http://paulgraham.com/hwh.html",
+          "publishedOn": "2021-06-29T13:39:09.000Z",
+          "wordCount": 3272,
+          "title": "How to Work Hard"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27675371",
+          "author": "rob",
+          "description": "Article URL: https://svelte.dev/blog/virtual-dom-is-pure-overhead\nComments URL: https://news.ycombinator.com/item?id=27675371\nPoints: 121\n# Comments: 56",
+          "link": "https://svelte.dev/blog/virtual-dom-is-pure-overhead",
+          "publishedOn": "2021-06-29T13:19:37.000Z",
+          "wordCount": 1155,
+          "title": "Virtual DOM is pure overhead (2018)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27675344",
+          "author": "paulpauper",
+          "description": "Article URL: https://economictimes.indiatimes.com/news/international/business/view-warren-buffett-and-the-myth-of-the-good-billionaire/articleshow/83502579.cms\nComments URL: https://news.ycombinator.com/item?id=27675344\nPoints: 33\n# Comments: 17",
+          "link": "https://economictimes.indiatimes.com/news/international/business/view-warren-buffett-and-the-myth-of-the-good-billionaire/articleshow/83502579.cms",
+          "publishedOn": "2021-06-29T13:16:53.000Z",
+          "wordCount": 2015,
+          "title": "View: Warren Buffett and the Myth of the ‘Good Billionaire’"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27675086",
+          "author": "voxadam",
+          "description": "Article URL: https://tamikothiel.com/cm/\nComments URL: https://news.ycombinator.com/item?id=27675086\nPoints: 11\n# Comments: 5",
+          "link": "https://tamikothiel.com/cm/",
+          "publishedOn": "2021-06-29T12:51:01.000Z",
+          "wordCount": 1154,
+          "title": "The Connection Machines CM-1 and CM-2"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27674871",
           "author": "oldgradstudent",
-          "description": "Article URL: https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices\nComments URL: https://news.ycombinator.com/item?id=27674871\nPoints: 19\n# Comments: 7",
+          "description": "Article URL: https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices\nComments URL: https://news.ycombinator.com/item?id=27674871\nPoints: 55\n# Comments: 19",
           "link": "https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices",
           "publishedOn": "2021-06-29T12:27:32.000Z",
-          "wordCount": 1673,
+          "wordCount": 1701,
           "title": "Hackers exploited 0-day, not 2018 bug, to mass-wipe My Book Live devices"
         },
         {
@@ -26,7 +71,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27674413",
           "author": "rolandm",
-          "description": "Article URL: https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629\nComments URL: https://news.ycombinator.com/item?id=27674413\nPoints: 108\n# Comments: 42",
+          "description": "Article URL: https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629\nComments URL: https://news.ycombinator.com/item?id=27674413\nPoints: 135\n# Comments: 60",
           "link": "https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629",
           "publishedOn": "2021-06-29T11:35:07.000Z",
           "wordCount": 2215,
@@ -35,16 +80,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27674393",
           "author": "gargs",
-          "description": "Article URL: https://restoreprivacy.com/linkedin-data-leak-700-million-users/\nComments URL: https://news.ycombinator.com/item?id=27674393\nPoints: 92\n# Comments: 46",
+          "description": "Article URL: https://restoreprivacy.com/linkedin-data-leak-700-million-users/\nComments URL: https://news.ycombinator.com/item?id=27674393\nPoints: 135\n# Comments: 74",
           "link": "https://restoreprivacy.com/linkedin-data-leak-700-million-users/",
           "publishedOn": "2021-06-29T11:30:50.000Z",
-          "wordCount": 2037,
+          "wordCount": 2237,
           "title": "New LinkedIn Data Leak Leaves 700M Users Exposed"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27674305",
           "author": "howaboutnope",
-          "description": "Article URL: https://www.nationaldefensemagazine.org/articles/2021/6/28/portable-nuclear-reactor-program-sparks-controversy\nComments URL: https://news.ycombinator.com/item?id=27674305\nPoints: 9\n# Comments: 4",
+          "description": "Article URL: https://www.nationaldefensemagazine.org/articles/2021/6/28/portable-nuclear-reactor-program-sparks-controversy\nComments URL: https://news.ycombinator.com/item?id=27674305\nPoints: 12\n# Comments: 26",
           "link": "https://www.nationaldefensemagazine.org/articles/2021/6/28/portable-nuclear-reactor-program-sparks-controversy",
           "publishedOn": "2021-06-29T11:20:30.000Z",
           "wordCount": 2343,
@@ -53,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27674270",
           "author": "DrNuke",
-          "description": "Article URL: https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age\nComments URL: https://news.ycombinator.com/item?id=27674270\nPoints: 28\n# Comments: 1",
+          "description": "Article URL: https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age\nComments URL: https://news.ycombinator.com/item?id=27674270\nPoints: 46\n# Comments: 28",
           "link": "https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age",
           "publishedOn": "2021-06-29T11:16:13.000Z",
           "wordCount": 1146,
@@ -62,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27673933",
           "author": "ithkuil",
-          "description": "Article URL: https://github.com/irsl/gcp-dhcp-takeover-code-exec\nComments URL: https://news.ycombinator.com/item?id=27673933\nPoints: 204\n# Comments: 58",
+          "description": "Article URL: https://github.com/irsl/gcp-dhcp-takeover-code-exec\nComments URL: https://news.ycombinator.com/item?id=27673933\nPoints: 234\n# Comments: 69",
           "link": "https://github.com/irsl/gcp-dhcp-takeover-code-exec",
           "publishedOn": "2021-06-29T10:16:17.000Z",
           "wordCount": 3466,
@@ -71,25 +116,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27673753",
           "author": "optimalsolver",
-          "description": "Article URL: https://futureofmatter.com/maps_of_matter.html\nComments URL: https://news.ycombinator.com/item?id=27673753\nPoints: 48\n# Comments: 18",
+          "description": "Article URL: https://futureofmatter.com/maps_of_matter.html\nComments URL: https://news.ycombinator.com/item?id=27673753\nPoints: 52\n# Comments: 30",
           "link": "https://futureofmatter.com/maps_of_matter.html",
           "publishedOn": "2021-06-29T09:44:23.000Z",
           "wordCount": 8665,
           "title": "Maps Of Matter"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27673681",
-          "author": "doener",
-          "description": "Article URL: https://www.linuxfoundation.org/press-release/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future/\nComments URL: https://news.ycombinator.com/item?id=27673681\nPoints: 32\n# Comments: 2",
-          "link": "https://www.linuxfoundation.org/press-release/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future/",
-          "publishedOn": "2021-06-29T09:33:45.000Z",
-          "wordCount": 1327,
-          "title": "Linux Foundation Introduces Open Voice Network"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27673282",
           "author": "ingve",
-          "description": "Article URL: https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/\nComments URL: https://news.ycombinator.com/item?id=27673282\nPoints: 13\n# Comments: 0",
+          "description": "Article URL: https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/\nComments URL: https://news.ycombinator.com/item?id=27673282\nPoints: 15\n# Comments: 1",
           "link": "https://eclecticlight.co/2021/06/29/code-in-arm-assembly-conditional-loops/",
           "publishedOn": "2021-06-29T08:25:29.000Z",
           "wordCount": 1656,
@@ -98,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27673223",
           "author": "pawurb",
-          "description": "Article URL: https://pawelurbanek.com/ipfs-ethereum-blog\nComments URL: https://news.ycombinator.com/item?id=27673223\nPoints: 91\n# Comments: 45",
+          "description": "Article URL: https://pawelurbanek.com/ipfs-ethereum-blog\nComments URL: https://news.ycombinator.com/item?id=27673223\nPoints: 99\n# Comments: 52",
           "link": "https://pawelurbanek.com/ipfs-ethereum-blog",
           "publishedOn": "2021-06-29T08:16:26.000Z",
           "wordCount": 3435,
@@ -107,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27673181",
           "author": "Tomte",
-          "description": "Article URL: https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs\nComments URL: https://news.ycombinator.com/item?id=27673181\nPoints: 30\n# Comments: 13",
+          "description": "Article URL: https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs\nComments URL: https://news.ycombinator.com/item?id=27673181\nPoints: 34\n# Comments: 13",
           "link": "https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs",
           "publishedOn": "2021-06-29T08:10:11.000Z",
           "wordCount": 678,
@@ -116,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27673177",
           "author": "pcaversaccio",
-          "description": "Article URL: https://mvanier.livejournal.com/2897.html\nComments URL: https://news.ycombinator.com/item?id=27673177\nPoints: 29\n# Comments: 8",
+          "description": "Article URL: https://mvanier.livejournal.com/2897.html\nComments URL: https://news.ycombinator.com/item?id=27673177\nPoints: 35\n# Comments: 11",
           "link": "https://mvanier.livejournal.com/2897.html",
           "publishedOn": "2021-06-29T08:09:57.000Z",
           "wordCount": 9307,
@@ -125,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27672715",
           "author": "j1elo",
-          "description": "Article URL: https://github.com/wiretrustee/wiretrustee\nComments URL: https://news.ycombinator.com/item?id=27672715\nPoints: 171\n# Comments: 47",
+          "description": "Article URL: https://github.com/wiretrustee/wiretrustee\nComments URL: https://news.ycombinator.com/item?id=27672715\nPoints: 185\n# Comments: 52",
           "link": "https://github.com/wiretrustee/wiretrustee",
           "publishedOn": "2021-06-29T06:56:52.000Z",
           "wordCount": 1731,
@@ -134,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27672711",
           "author": "sjmulder",
-          "description": "Article URL: https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/\nComments URL: https://news.ycombinator.com/item?id=27672711\nPoints: 94\n# Comments: 56",
+          "description": "Article URL: https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/\nComments URL: https://news.ycombinator.com/item?id=27672711\nPoints: 100\n# Comments: 57",
           "link": "https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/",
           "publishedOn": "2021-06-29T06:56:19.000Z",
           "wordCount": 854,
@@ -143,47 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27672100",
           "author": "open-source-ux",
-          "description": "Article URL: https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/\nComments URL: https://news.ycombinator.com/item?id=27672100\nPoints: 80\n# Comments: 49",
+          "description": "Article URL: https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/\nComments URL: https://news.ycombinator.com/item?id=27672100\nPoints: 83\n# Comments: 52",
           "link": "https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/",
           "publishedOn": "2021-06-29T05:20:56.000Z",
           "wordCount": 3131,
           "title": "Our plans to improve navigation on Gov.uk"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27671392",
-          "author": "prostoalex",
-          "description": "Article URL: https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss\nComments URL: https://news.ycombinator.com/item?id=27671392\nPoints: 234\n# Comments: 336",
-          "link": "https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss",
-          "publishedOn": "2021-06-29T03:25:28.000Z",
-          "wordCount": 1609,
-          "title": "Bring back menus, QR codes are terrible"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27671376",
-          "author": "vira28",
-          "description": "Now that there are so many options like \nAWS\nGCP\nAzure\nDigital Ocean\nHeroku\nRender\nFirebase\nSupabase\netc..\nI was wondering does anyone these days Self-host databases on their infra?\nComments URL: https://news.ycombinator.com/item?id=27671376\nPoints: 117\n# Comments: 156",
-          "link": "https://news.ycombinator.com/item?id=27671376",
-          "publishedOn": "2021-06-29T03:23:23.000Z",
-          "wordCount": 10076,
-          "title": "Ask HN: Do you self-host your database?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27670058",
-          "author": "ecliptik",
-          "description": "Article URL: https://blog.newsblur.com/2021/06/28/story-of-a-hacking/\nComments URL: https://news.ycombinator.com/item?id=27670058\nPoints: 473\n# Comments: 214",
-          "link": "https://blog.newsblur.com/2021/06/28/story-of-a-hacking/",
-          "publishedOn": "2021-06-29T00:20:37.000Z",
-          "wordCount": 2232,
-          "title": "A Docker footgun led to a vandal deleting NewsBlur's MongoDB database"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27669924",
-          "author": "buzzert",
-          "description": "Article URL: https://buzzert.net/posts/2021-05-09-doorbell\nComments URL: https://news.ycombinator.com/item?id=27669924\nPoints: 103\n# Comments: 46",
-          "link": "https://buzzert.net/posts/2021-05-09-doorbell",
-          "publishedOn": "2021-06-29T00:03:53.000Z",
-          "wordCount": 1956,
-          "title": "Building a DIY Smart Doorbell"
         }
       ]
     },
@@ -417,7 +417,7 @@
         {
           "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavalier to find out.",
+          "description": "In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.",
           "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
           "publishedOn": "2021-06-29T05:30:00.000Z",
           "wordCount": 6617,
@@ -434,7 +434,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2511,
+          "wordCount": 2473,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -448,7 +448,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5442,
+          "wordCount": 5401,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -462,7 +462,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3523,
+          "wordCount": 3520,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -476,7 +476,7 @@
           "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
           "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4172,
+          "wordCount": 4171,
           "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
@@ -504,7 +504,7 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1350,
+          "wordCount": 1396,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
@@ -532,7 +532,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5313,
+          "wordCount": 5365,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -546,7 +546,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3414,
+          "wordCount": 3372,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -560,7 +560,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3957,
+          "wordCount": 3958,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -574,7 +574,7 @@
           "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
           "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
           "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1638,
+          "wordCount": 1636,
           "title": "Your Image Is Probably Not Decorative",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
@@ -588,7 +588,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4096,
+          "wordCount": 4105,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -644,7 +644,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1740,
+          "wordCount": 1751,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -658,7 +658,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5164,
+          "wordCount": 5113,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -672,7 +672,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 826,
+          "wordCount": 867,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -686,7 +686,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2779,
+          "wordCount": 2782,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -714,7 +714,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2434,
+          "wordCount": 2440,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -728,7 +728,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4410,
+          "wordCount": 4423,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -742,7 +742,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3676,
+          "wordCount": 3717,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -756,7 +756,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4584,
+          "wordCount": 4587,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -770,7 +770,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5650,
+          "wordCount": 5613,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -812,7 +812,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2765,
+          "wordCount": 2767,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -827,6 +827,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d76f6f6e1a1407b6b0c521",
+          "author": null,
+          "description": "What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home. The increase of",
+          "link": "https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/",
+          "publishedOn": "2021-06-29T13:24:44.000Z",
+          "wordCount": 684,
+          "title": "Microsoft Security, Compliance, and Identity Fundamental (SC-900) – Pass the Exam With This Free 4 Hour Course"
+        },
         {
           "id": "60d61acc6e1a1407b6b0bd46",
           "author": null,
@@ -907,15 +916,6 @@
           "publishedOn": "2021-06-24T00:11:01.000Z",
           "wordCount": 8363,
           "title": "What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial"
-        },
-        {
-          "id": "6072ffd4d5756f080ba98b27",
-          "author": null,
-          "description": "Over the last few years, microservices have gone from an overhyped buzzword to something you should understand as a software engineer.  According to an O'Reilly developer survey in 2020:  61% of companies have been using microservices in the last year29% say at least half of their company systems are built",
-          "link": "https://www.freecodecamp.org/news/microservices-architecture-for-humans/",
-          "publishedOn": "2021-06-23T21:52:08.000Z",
-          "wordCount": 2975,
-          "title": "Microservices Architecture – Explained in Plain English"
         }
       ]
     }
