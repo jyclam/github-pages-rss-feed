@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T12:18:09.212Z</updated>
+    <updated>2021-06-30T13:18:42.805Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘Great Resignation’ gains steam as return-to-work plans take effect]]></title>
+        <id>https://news.ycombinator.com/item?id=27687617</id>
+        <link href="https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html"/>
+        <updated>2021-06-30T12:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html
+Comments URL: https://news.ycombinator.com/item?id=27687617
+Points: 33
+# Comments: 12]]></summary>
+        <author>
+            <name>remt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA Space Tourism Posters]]></title>
+        <id>https://news.ycombinator.com/item?id=27687485</id>
+        <link href="https://solarsystem.nasa.gov/resources/682/space-tourism-posters/"/>
+        <updated>2021-06-30T12:06:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://solarsystem.nasa.gov/resources/682/space-tourism-posters/
+Comments URL: https://news.ycombinator.com/item?id=27687485
+Points: 17
+# Comments: 4]]></summary>
+        <author>
+            <name>I_Byte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD EPYC Milan Review Part 2: Testing 8 to 64 Cores in a Production Platform]]></title>
         <id>https://news.ycombinator.com/item?id=27687479</id>
@@ -13,8 +39,8 @@
         <updated>2021-06-30T12:05:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16778/amd-epyc-milan-review-part-2
 Comments URL: https://news.ycombinator.com/item?id=27687479
-Points: 4
-# Comments: 0]]></summary>
+Points: 18
+# Comments: 1]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -26,8 +52,8 @@ Points: 4
         <updated>2021-06-30T12:00:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/eevee/status/1410037309848752128
 Comments URL: https://news.ycombinator.com/item?id=27687450
-Points: 8
-# Comments: 2]]></summary>
+Points: 133
+# Comments: 57]]></summary>
         <author>
             <name>agomez314</name>
         </author>
@@ -48,16 +74,39 @@ We are looking for someone awesome who:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Population Bomb Doomsday Scam]]></title>
-        <id>https://news.ycombinator.com/item?id=27687392</id>
-        <link href="https://spectator.org/overpopulation-population-control/"/>
-        <updated>2021-06-30T11:53:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spectator.org/overpopulation-population-control/
-Comments URL: https://news.ycombinator.com/item?id=27687392
-Points: 3
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
+        <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
+        <link href="https://smashingmagazine.com/2021/06/web-workers-2021/"/>
+        <updated>2021-06-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!]]></summary>
         <author>
-            <name>RickJWagner</name>
+            <name>hello@smashingmagazine.com (Surma)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Amazon, Google and Other Companies Exploit NDAs]]></title>
+        <id>https://news.ycombinator.com/item?id=27687309</id>
+        <link href="https://www.nytimes.com/2021/06/29/opinion/nda-amazon-google-facebook.html"/>
+        <updated>2021-06-30T11:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/29/opinion/nda-amazon-google-facebook.html
+Comments URL: https://news.ycombinator.com/item?id=27687309
+Points: 25
+# Comments: 7]]></summary>
+        <author>
+            <name>bookofjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[49.6C (121.3F) in Lytton, British Columbia]]></title>
+        <id>https://news.ycombinator.com/item?id=27687297</id>
+        <link href="https://www.bbc.com/news/world-us-canada-57654133"/>
+        <updated>2021-06-30T11:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-us-canada-57654133
+Comments URL: https://news.ycombinator.com/item?id=27687297
+Points: 64
+# Comments: 36]]></summary>
+        <author>
+            <name>belter</name>
         </author>
     </entry>
     <entry>
@@ -67,49 +116,36 @@ Points: 3
         <updated>2021-06-30T11:29:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jacobian.org/2021/may/20/estimation/
 Comments URL: https://news.ycombinator.com/item?id=27687265
-Points: 10
-# Comments: 3]]></summary>
+Points: 44
+# Comments: 26]]></summary>
         <author>
             <name>vortex_ape</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Note that I wouldn't pass the listed ”minimum requirements“”]]></title>
+        <title type="html"><![CDATA[”Note that I wouldn’t pass the listed minimum requirements”]]></title>
         <id>https://news.ycombinator.com/item?id=27687034</id>
         <link href="https://twitter.com/ID_AA_Carmack/status/1409576956828405760"/>
         <updated>2021-06-30T10:47:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1409576956828405760
 Comments URL: https://news.ycombinator.com/item?id=27687034
-Points: 4
-# Comments: 0]]></summary>
+Points: 115
+# Comments: 38]]></summary>
         <author>
             <name>gone35</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Book Review: A Philosophy of Software Design]]></title>
+        <title type="html"><![CDATA[A Philosophy of Software Design (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27686818</id>
         <link href="https://johz.bearblog.dev/book-review-philosophy-software-design/"/>
         <updated>2021-06-30T10:14:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/
 Comments URL: https://news.ycombinator.com/item?id=27686818
-Points: 52
-# Comments: 12]]></summary>
+Points: 78
+# Comments: 23]]></summary>
         <author>
             <name>fagnerbrack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miami building collapse: Letter in April warned of worsening damage]]></title>
-        <id>https://news.ycombinator.com/item?id=27686670</id>
-        <link href="https://www.bbc.co.uk/news/world-us-canada-57659311"/>
-        <updated>2021-06-30T09:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-us-canada-57659311
-Comments URL: https://news.ycombinator.com/item?id=27686670
-Points: 46
-# Comments: 42]]></summary>
-        <author>
-            <name>fumblebee</name>
         </author>
     </entry>
     <entry>
@@ -129,8 +165,8 @@ Points: 46
         <updated>2021-06-30T08:50:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.turingcollege.com/
 Comments URL: https://news.ycombinator.com/item?id=27686395
-Points: 27
-# Comments: 16]]></summary>
+Points: 32
+# Comments: 19]]></summary>
         <author>
             <name>kaminskis</name>
         </author>
@@ -142,8 +178,8 @@ Points: 27
         <updated>2021-06-30T06:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations
 Comments URL: https://news.ycombinator.com/item?id=27685629
-Points: 175
-# Comments: 31]]></summary>
+Points: 206
+# Comments: 36]]></summary>
         <author>
             <name>kudu</name>
         </author>
@@ -155,8 +191,8 @@ Points: 175
         <updated>2021-06-30T04:18:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING
 Comments URL: https://news.ycombinator.com/item?id=27684807
-Points: 1028
-# Comments: 264]]></summary>
+Points: 1181
+# Comments: 289]]></summary>
         <author>
             <name>_Robbie</name>
         </author>
@@ -168,8 +204,8 @@ Points: 1028
         <updated>2021-06-30T03:57:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://research.swtch.com/hwmm
 Comments URL: https://news.ycombinator.com/item?id=27684703
-Points: 45
-# Comments: 5]]></summary>
+Points: 56
+# Comments: 6]]></summary>
         <author>
             <name>ot</name>
         </author>
@@ -181,8 +217,8 @@ Points: 45
         <updated>2021-06-30T03:42:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fancl20.github.io/contents/00-posts/2021-06-30-io_uring-is-not-only-a-generic-asynchronous-syscall-facility.html
 Comments URL: https://news.ycombinator.com/item?id=27684608
-Points: 55
-# Comments: 12]]></summary>
+Points: 62
+# Comments: 15]]></summary>
         <author>
             <name>fancl20</name>
         </author>
@@ -194,23 +230,10 @@ Points: 55
         <updated>2021-06-30T02:21:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.boxabl.com/
 Comments URL: https://news.ycombinator.com/item?id=27684191
-Points: 204
-# Comments: 169]]></summary>
+Points: 219
+# Comments: 188]]></summary>
         <author>
             <name>yehudabrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A curated list of books on Software Architecture]]></title>
-        <id>https://news.ycombinator.com/item?id=27683966</id>
-        <link href="https://github.com/mhadidg/software-architecture-books"/>
-        <updated>2021-06-30T01:43:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/mhadidg/software-architecture-books
-Comments URL: https://news.ycombinator.com/item?id=27683966
-Points: 205
-# Comments: 42]]></summary>
-        <author>
-            <name>axiomdata316</name>
         </author>
     </entry>
     <entry>
@@ -220,8 +243,8 @@ Points: 205
         <updated>2021-06-29T23:25:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame
 Comments URL: https://news.ycombinator.com/item?id=27683059
-Points: 91
-# Comments: 30]]></summary>
+Points: 94
+# Comments: 31]]></summary>
         <author>
             <name>noway421</name>
         </author>
@@ -233,8 +256,8 @@ Points: 91
         <updated>2021-06-29T22:48:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/conspiracy-pt1
 Comments URL: https://news.ycombinator.com/item?id=27682763
-Points: 275
-# Comments: 106]]></summary>
+Points: 301
+# Comments: 116]]></summary>
         <author>
             <name>yellow_lead</name>
         </author>
@@ -261,8 +284,8 @@ The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks
         <updated>2021-06-29T22:37:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform
 Comments URL: https://news.ycombinator.com/item?id=27682657
-Points: 196
-# Comments: 90]]></summary>
+Points: 203
+# Comments: 97]]></summary>
         <author>
             <name>afrcnc</name>
         </author>
@@ -274,23 +297,10 @@ Points: 196
         <updated>2021-06-29T22:18:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/AsamK/signal-cli
 Comments URL: https://news.ycombinator.com/item?id=27682490
-Points: 146
-# Comments: 59]]></summary>
+Points: 151
+# Comments: 60]]></summary>
         <author>
             <name>janekg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Elixir adoption success story]]></title>
-        <id>https://news.ycombinator.com/item?id=27682432</id>
-        <link href="https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/"/>
-        <updated>2021-06-29T22:10:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/
-Comments URL: https://news.ycombinator.com/item?id=27682432
-Points: 238
-# Comments: 129]]></summary>
-        <author>
-            <name>lucis</name>
         </author>
     </entry>
     <entry>
