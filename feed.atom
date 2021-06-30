@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T11:10:06.785Z</updated>
+    <updated>2021-06-30T12:18:09.212Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD EPYC Milan Review Part 2: Testing 8 to 64 Cores in a Production Platform]]></title>
+        <id>https://news.ycombinator.com/item?id=27687479</id>
+        <link href="https://www.anandtech.com/show/16778/amd-epyc-milan-review-part-2"/>
+        <updated>2021-06-30T12:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16778/amd-epyc-milan-review-part-2
+Comments URL: https://news.ycombinator.com/item?id=27687479
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub co-pilot as open source code laundering?]]></title>
+        <id>https://news.ycombinator.com/item?id=27687450</id>
+        <link href="https://twitter.com/eevee/status/1410037309848752128"/>
+        <updated>2021-06-30T12:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/eevee/status/1410037309848752128
+Comments URL: https://news.ycombinator.com/item?id=27687450
+Points: 8
+# Comments: 2]]></summary>
+        <author>
+            <name>agomez314</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CellChorus (YC S21) Is Hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=27687446</id>
+        <link href="https://news.ycombinator.com/item?id=27687446"/>
+        <updated>2021-06-30T12:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Location: Houston, Texas
+CellChorus applies AI to "watch" thousands of videos of cell movement, interactions, survival and death. Our customers use our platform to determine the best therapies to move forward to clinical trials, to understand patient response and non-response, and to maintain consistent manufacturing.
+You will help some of the top immunotherapy companies in the world improve the lives of patients diagnosed with cancer, infectious diseases, auto-immune disorders and other conditions.
+We are looking for someone awesome who:
+- has extensive programming experience with Python (experience integrating C++ libraries and wrapping functions in Python for faster processing is preferred);
+ - has extensive experience with various visualization tools and GUI development, and is comfort…]]></summary>
+        <author>
+            <name>dancellchorus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Population Bomb Doomsday Scam]]></title>
+        <id>https://news.ycombinator.com/item?id=27687392</id>
+        <link href="https://spectator.org/overpopulation-population-control/"/>
+        <updated>2021-06-30T11:53:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectator.org/overpopulation-population-control/
+Comments URL: https://news.ycombinator.com/item?id=27687392
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>RickJWagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software estimation is hard – do it anyway]]></title>
+        <id>https://news.ycombinator.com/item?id=27687265</id>
+        <link href="https://jacobian.org/2021/may/20/estimation/"/>
+        <updated>2021-06-30T11:29:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jacobian.org/2021/may/20/estimation/
+Comments URL: https://news.ycombinator.com/item?id=27687265
+Points: 10
+# Comments: 3]]></summary>
+        <author>
+            <name>vortex_ape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Note that I wouldn't pass the listed ”minimum requirements“”]]></title>
+        <id>https://news.ycombinator.com/item?id=27687034</id>
+        <link href="https://twitter.com/ID_AA_Carmack/status/1409576956828405760"/>
+        <updated>2021-06-30T10:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1409576956828405760
+Comments URL: https://news.ycombinator.com/item?id=27687034
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>gone35</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Book Review: A Philosophy of Software Design]]></title>
         <id>https://news.ycombinator.com/item?id=27686818</id>
@@ -13,8 +93,8 @@
         <updated>2021-06-30T10:14:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/
 Comments URL: https://news.ycombinator.com/item?id=27686818
-Points: 12
-# Comments: 0]]></summary>
+Points: 52
+# Comments: 12]]></summary>
         <author>
             <name>fagnerbrack</name>
         </author>
@@ -26,8 +106,8 @@ Points: 12
         <updated>2021-06-30T09:44:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-us-canada-57659311
 Comments URL: https://news.ycombinator.com/item?id=27686670
-Points: 26
-# Comments: 16]]></summary>
+Points: 46
+# Comments: 42]]></summary>
         <author>
             <name>fumblebee</name>
         </author>
@@ -49,23 +129,10 @@ Points: 26
         <updated>2021-06-30T08:50:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.turingcollege.com/
 Comments URL: https://news.ycombinator.com/item?id=27686395
-Points: 18
-# Comments: 5]]></summary>
+Points: 27
+# Comments: 16]]></summary>
         <author>
             <name>kaminskis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's DocC is excellent, but unusable for open source projects]]></title>
-        <id>https://news.ycombinator.com/item?id=27686069</id>
-        <link href="https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/"/>
-        <updated>2021-06-30T07:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/
-Comments URL: https://news.ycombinator.com/item?id=27686069
-Points: 52
-# Comments: 46]]></summary>
-        <author>
-            <name>ingve</name>
         </author>
     </entry>
     <entry>
@@ -75,8 +142,8 @@ Points: 52
         <updated>2021-06-30T06:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations
 Comments URL: https://news.ycombinator.com/item?id=27685629
-Points: 152
-# Comments: 23]]></summary>
+Points: 175
+# Comments: 31]]></summary>
         <author>
             <name>kudu</name>
         </author>
@@ -88,8 +155,8 @@ Points: 152
         <updated>2021-06-30T04:18:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING
 Comments URL: https://news.ycombinator.com/item?id=27684807
-Points: 897
-# Comments: 248]]></summary>
+Points: 1028
+# Comments: 264]]></summary>
         <author>
             <name>_Robbie</name>
         </author>
@@ -101,8 +168,8 @@ Points: 897
         <updated>2021-06-30T03:57:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://research.swtch.com/hwmm
 Comments URL: https://news.ycombinator.com/item?id=27684703
-Points: 36
-# Comments: 4]]></summary>
+Points: 45
+# Comments: 5]]></summary>
         <author>
             <name>ot</name>
         </author>
@@ -114,8 +181,8 @@ Points: 36
         <updated>2021-06-30T03:42:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fancl20.github.io/contents/00-posts/2021-06-30-io_uring-is-not-only-a-generic-asynchronous-syscall-facility.html
 Comments URL: https://news.ycombinator.com/item?id=27684608
-Points: 51
-# Comments: 5]]></summary>
+Points: 55
+# Comments: 12]]></summary>
         <author>
             <name>fancl20</name>
         </author>
@@ -127,8 +194,8 @@ Points: 51
         <updated>2021-06-30T02:21:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.boxabl.com/
 Comments URL: https://news.ycombinator.com/item?id=27684191
-Points: 177
-# Comments: 136]]></summary>
+Points: 204
+# Comments: 169]]></summary>
         <author>
             <name>yehudabrick</name>
         </author>
@@ -140,23 +207,10 @@ Points: 177
         <updated>2021-06-30T01:43:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/mhadidg/software-architecture-books
 Comments URL: https://news.ycombinator.com/item?id=27683966
-Points: 191
-# Comments: 38]]></summary>
+Points: 205
+# Comments: 42]]></summary>
         <author>
             <name>axiomdata316</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pop_OS 21.04]]></title>
-        <id>https://news.ycombinator.com/item?id=27683738</id>
-        <link href="https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions"/>
-        <updated>2021-06-30T01:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions
-Comments URL: https://news.ycombinator.com/item?id=27683738
-Points: 177
-# Comments: 125]]></summary>
-        <author>
-            <name>zathan</name>
         </author>
     </entry>
     <entry>
@@ -166,7 +220,7 @@ Points: 177
         <updated>2021-06-29T23:25:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame
 Comments URL: https://news.ycombinator.com/item?id=27683059
-Points: 86
+Points: 91
 # Comments: 30]]></summary>
         <author>
             <name>noway421</name>
@@ -179,8 +233,8 @@ Points: 86
         <updated>2021-06-29T22:48:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/conspiracy-pt1
 Comments URL: https://news.ycombinator.com/item?id=27682763
-Points: 261
-# Comments: 90]]></summary>
+Points: 275
+# Comments: 106]]></summary>
         <author>
             <name>yellow_lead</name>
         </author>
@@ -207,8 +261,8 @@ The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks
         <updated>2021-06-29T22:37:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform
 Comments URL: https://news.ycombinator.com/item?id=27682657
-Points: 185
-# Comments: 81]]></summary>
+Points: 196
+# Comments: 90]]></summary>
         <author>
             <name>afrcnc</name>
         </author>
@@ -220,8 +274,8 @@ Points: 185
         <updated>2021-06-29T22:18:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/AsamK/signal-cli
 Comments URL: https://news.ycombinator.com/item?id=27682490
-Points: 140
-# Comments: 56]]></summary>
+Points: 146
+# Comments: 59]]></summary>
         <author>
             <name>janekg</name>
         </author>
@@ -233,62 +287,10 @@ Points: 140
         <updated>2021-06-29T22:10:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/
 Comments URL: https://news.ycombinator.com/item?id=27682432
-Points: 232
-# Comments: 123]]></summary>
+Points: 238
+# Comments: 129]]></summary>
         <author>
             <name>lucis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storytelling – Mamet’s Conflict Airing Theory]]></title>
-        <id>https://news.ycombinator.com/item?id=27682249</id>
-        <link href="https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/"/>
-        <updated>2021-06-29T21:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/
-Comments URL: https://news.ycombinator.com/item?id=27682249
-Points: 46
-# Comments: 3]]></summary>
-        <author>
-            <name>jger15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HK media erase their archives amid rising arrests]]></title>
-        <id>https://news.ycombinator.com/item?id=27682109</id>
-        <link href="https://asiatimes.com/2021/06/hk-media-erase-their-archives-amid-rising-arrests/"/>
-        <updated>2021-06-29T21:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://asiatimes.com/2021/06/hk-media-erase-their-archives-amid-rising-arrests/
-Comments URL: https://news.ycombinator.com/item?id=27682109
-Points: 299
-# Comments: 188]]></summary>
-        <author>
-            <name>tomohawk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers translate a bird's brain activity into song]]></title>
-        <id>https://news.ycombinator.com/item?id=27682103</id>
-        <link href="https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php"/>
-        <updated>2021-06-29T21:44:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php
-Comments URL: https://news.ycombinator.com/item?id=27682103
-Points: 33
-# Comments: 4]]></summary>
-        <author>
-            <name>wormold</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) is hiring a Principal Engineer]]></title>
-        <id>https://news.ycombinator.com/item?id=27681674</id>
-        <link href="https://jobs.lever.co/buildzoom"/>
-        <updated>2021-06-29T21:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/buildzoom
-Comments URL: https://news.ycombinator.com/item?id=27681674
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>the_economist</name>
         </author>
     </entry>
     <entry>
