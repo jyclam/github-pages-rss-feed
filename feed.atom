@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T23:12:29.750Z</updated>
+    <updated>2021-06-30T00:41:46.015Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ignoring bulk change commits with Git blame]]></title>
+        <id>https://news.ycombinator.com/item?id=27683059</id>
+        <link href="https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame"/>
+        <updated>2021-06-29T23:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame
+Comments URL: https://news.ycombinator.com/item?id=27683059
+Points: 12
+# Comments: 3]]></summary>
+        <author>
+            <name>noway421</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reviving extinct species may soon be possible]]></title>
+        <id>https://news.ycombinator.com/item?id=27682809</id>
+        <link href="https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible"/>
+        <updated>2021-06-29T22:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible
+Comments URL: https://news.ycombinator.com/item?id=27682809
+Points: 16
+# Comments: 15]]></summary>
+        <author>
+            <name>edward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conspiracy: In Theory and Practice]]></title>
+        <id>https://news.ycombinator.com/item?id=27682763</id>
+        <link href="https://edwardsnowden.substack.com/p/conspiracy-pt1"/>
+        <updated>2021-06-29T22:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/conspiracy-pt1
+Comments URL: https://news.ycombinator.com/item?id=27682763
+Points: 34
+# Comments: 3]]></summary>
+        <author>
+            <name>yellow_lead</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
         <id>https://css-tricks.com/?p=343470</id>
@@ -22,14 +61,27 @@ The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NATO Classified Cloud Platform Compromised]]></title>
+        <id>https://news.ycombinator.com/item?id=27682657</id>
+        <link href="https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform"/>
+        <updated>2021-06-29T22:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform
+Comments URL: https://news.ycombinator.com/item?id=27682657
+Points: 12
+# Comments: 0]]></summary>
+        <author>
+            <name>afrcnc</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Command Line Interface for Signal]]></title>
         <id>https://news.ycombinator.com/item?id=27682490</id>
         <link href="https://github.com/AsamK/signal-cli"/>
         <updated>2021-06-29T22:18:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/AsamK/signal-cli
 Comments URL: https://news.ycombinator.com/item?id=27682490
-Points: 12
-# Comments: 0]]></summary>
+Points: 49
+# Comments: 12]]></summary>
         <author>
             <name>janekg</name>
         </author>
@@ -41,23 +93,10 @@ Points: 12
         <updated>2021-06-29T22:10:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/
 Comments URL: https://news.ycombinator.com/item?id=27682432
-Points: 30
-# Comments: 2]]></summary>
+Points: 80
+# Comments: 20]]></summary>
         <author>
             <name>lucis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero Knowledge]]></title>
-        <id>https://news.ycombinator.com/item?id=27682395</id>
-        <link href="https://www.notboring.co/p/zero-knowledge"/>
-        <updated>2021-06-29T22:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.notboring.co/p/zero-knowledge
-Comments URL: https://news.ycombinator.com/item?id=27682395
-Points: 41
-# Comments: 2]]></summary>
-        <author>
-            <name>packym</name>
         </author>
     </entry>
     <entry>
@@ -67,7 +106,7 @@ Points: 41
         <updated>2021-06-29T21:55:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/
 Comments URL: https://news.ycombinator.com/item?id=27682249
-Points: 10
+Points: 16
 # Comments: 1]]></summary>
         <author>
             <name>jger15</name>
@@ -80,8 +119,8 @@ Points: 10
         <updated>2021-06-29T21:44:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php
 Comments URL: https://news.ycombinator.com/item?id=27682103
-Points: 8
-# Comments: 0]]></summary>
+Points: 13
+# Comments: 1]]></summary>
         <author>
             <name>wormold</name>
         </author>
@@ -93,10 +132,23 @@ Points: 8
         <updated>2021-06-29T21:37:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.framelabs.eu/evolution/
 Comments URL: https://news.ycombinator.com/item?id=27682018
-Points: 12
-# Comments: 3]]></summary>
+Points: 23
+# Comments: 28]]></summary>
         <author>
             <name>clash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Build a Chip with Math]]></title>
+        <id>https://news.ycombinator.com/item?id=27682015</id>
+        <link href="https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math"/>
+        <updated>2021-06-29T21:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math
+Comments URL: https://news.ycombinator.com/item?id=27682015
+Points: 12
+# Comments: 2]]></summary>
+        <author>
+            <name>deletionist</name>
         </author>
     </entry>
     <entry>
@@ -119,8 +171,8 @@ Points: 1
         <updated>2021-06-29T20:38:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt
 Comments URL: https://news.ycombinator.com/item?id=27681418
-Points: 85
-# Comments: 14]]></summary>
+Points: 125
+# Comments: 37]]></summary>
         <author>
             <name>jseliger</name>
         </author>
@@ -136,19 +188,6 @@ The squiggly lines that indicate possible spelling or grammar errors
 The post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A fun way to check Bitcoin’s price.]]></title>
-        <id>https://news.ycombinator.com/item?id=27681075</id>
-        <link href="https://bitcointemp.com"/>
-        <updated>2021-06-29T20:09:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bitcointemp.com
-Comments URL: https://news.ycombinator.com/item?id=27681075
-Points: 32
-# Comments: 15]]></summary>
-        <author>
-            <name>braydentw</name>
         </author>
     </entry>
     <entry>
@@ -178,8 +217,8 @@ Points: 32
         <updated>2021-06-29T19:24:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/
 Comments URL: https://news.ycombinator.com/item?id=27680569
-Points: 222
-# Comments: 126]]></summary>
+Points: 257
+# Comments: 158]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -191,7 +230,7 @@ Points: 222
         <updated>2021-06-29T18:45:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments
 Comments URL: https://news.ycombinator.com/item?id=27680047
-Points: 56
+Points: 62
 # Comments: 21]]></summary>
         <author>
             <name>mrleinad</name>
@@ -208,40 +247,14 @@ Points: 56
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The web browser I'm dreaming of]]></title>
-        <id>https://news.ycombinator.com/item?id=27679315</id>
-        <link href="https://dustri.org/b/the-web-browser-im-dreaming-of.html"/>
-        <updated>2021-06-29T17:47:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dustri.org/b/the-web-browser-im-dreaming-of.html
-Comments URL: https://news.ycombinator.com/item?id=27679315
-Points: 40
-# Comments: 28]]></summary>
-        <author>
-            <name>mvolfik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I still use plain text for everything. (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=27679050</id>
-        <link href="https://lifehacker.com/i-still-use-plain-text-for-everything-and-i-love-it-1758380840"/>
-        <updated>2021-06-29T17:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lifehacker.com/i-still-use-plain-text-for-everything-and-i-love-it-1758380840
-Comments URL: https://news.ycombinator.com/item?id=27679050
-Points: 120
-# Comments: 112]]></summary>
-        <author>
-            <name>behnamoh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An EPYC escape: Case-study of a KVM breakout]]></title>
         <id>https://news.ycombinator.com/item?id=27678535</id>
         <link href="https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html"/>
         <updated>2021-06-29T16:53:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html
 Comments URL: https://news.ycombinator.com/item?id=27678535
-Points: 162
-# Comments: 23]]></summary>
+Points: 173
+# Comments: 26]]></summary>
         <author>
             <name>headalgorithm</name>
         </author>
@@ -253,8 +266,8 @@ Points: 162
         <updated>2021-06-29T15:14:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://martinfowler.com/articles/202106-reducing-speaking.html
 Comments URL: https://news.ycombinator.com/item?id=27677001
-Points: 323
-# Comments: 84]]></summary>
+Points: 354
+# Comments: 91]]></summary>
         <author>
             <name>alfredbez</name>
         </author>
@@ -278,8 +291,8 @@ The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You 
         <updated>2021-06-29T14:29:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://copilot.github.com/
 Comments URL: https://news.ycombinator.com/item?id=27676266
-Points: 1815
-# Comments: 861]]></summary>
+Points: 1945
+# Comments: 907]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -291,8 +304,8 @@ Points: 1815
         <updated>2021-06-29T14:16:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/
 Comments URL: https://news.ycombinator.com/item?id=27676066
-Points: 76
-# Comments: 39]]></summary>
+Points: 79
+# Comments: 42]]></summary>
         <author>
             <name>wglb</name>
         </author>
@@ -304,8 +317,8 @@ Points: 76
         <updated>2021-06-29T13:39:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://paulgraham.com/hwh.html
 Comments URL: https://news.ycombinator.com/item?id=27675603
-Points: 764
-# Comments: 801]]></summary>
+Points: 818
+# Comments: 848]]></summary>
         <author>
             <name>razin</name>
         </author>
@@ -321,27 +334,14 @@ Points: 764
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neeva Announces Public Availability of Its Ads Free, Private Search Engine]]></title>
-        <id>https://news.ycombinator.com/item?id=27675408</id>
-        <link href="https://neeva.com/blog/neeva-announces-public-availability"/>
-        <updated>2021-06-29T13:21:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://neeva.com/blog/neeva-announces-public-availability
-Comments URL: https://news.ycombinator.com/item?id=27675408
-Points: 118
-# Comments: 59]]></summary>
-        <author>
-            <name>nmwnmw</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Connection Machines CM-1 and CM-2 (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=27675086</id>
         <link href="https://tamikothiel.com/cm/"/>
         <updated>2021-06-29T12:51:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://tamikothiel.com/cm/
 Comments URL: https://news.ycombinator.com/item?id=27675086
-Points: 73
-# Comments: 45]]></summary>
+Points: 77
+# Comments: 48]]></summary>
         <author>
             <name>voxadam</name>
         </author>
@@ -889,16 +889,6 @@ The post Looking fine with Firefox 89 appeared first on Mozilla Hacks - the Web 
         <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
-        <link href="https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/"/>
-        <updated>2021-05-31T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
