@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T17:21:07.926Z</updated>
+    <updated>2021-06-30T18:14:34.697Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We're Levels.fyi, the most accurate resource for tech salaries, ask us anything]]></title>
+        <id>https://news.ycombinator.com/item?id=27691098</id>
+        <link href="https://tldr.tech/ama/levels-fyi"/>
+        <updated>2021-06-30T17:20:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tldr.tech/ama/levels-fyi
+Comments URL: https://news.ycombinator.com/item?id=27691098
+Points: 22
+# Comments: 3]]></summary>
+        <author>
+            <name>danni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Globally Distributed Postgres]]></title>
+        <id>https://news.ycombinator.com/item?id=27690950</id>
+        <link href="https://fly.io/blog/globally-distributed-postgres/"/>
+        <updated>2021-06-30T17:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/globally-distributed-postgres/
+Comments URL: https://news.ycombinator.com/item?id=27690950
+Points: 14
+# Comments: 0]]></summary>
+        <author>
+            <name>woodrow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QuestDB Is Hiring a Front End Engineer (React)]]></title>
         <id>https://news.ycombinator.com/item?id=27690843</id>
@@ -20,14 +46,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meltano raises $4.2M seed round]]></title>
+        <id>https://news.ycombinator.com/item?id=27690763</id>
+        <link href="https://meltano.com/blog/2021/06/30/meltano-spins-out-of-gitlab-raises-seed-round/"/>
+        <updated>2021-06-30T16:52:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://meltano.com/blog/2021/06/30/meltano-spins-out-of-gitlab-raises-seed-round/
+Comments URL: https://news.ycombinator.com/item?id=27690763
+Points: 18
+# Comments: 3]]></summary>
+        <author>
+            <name>visch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Windows 11 on Raspberry Pi 4]]></title>
         <id>https://news.ycombinator.com/item?id=27690622</id>
         <link href="https://twitter.com/shichinomiya_s/status/1409891589707636741"/>
         <updated>2021-06-30T16:39:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/shichinomiya_s/status/1409891589707636741
 Comments URL: https://news.ycombinator.com/item?id=27690622
-Points: 6
-# Comments: 0]]></summary>
+Points: 26
+# Comments: 14]]></summary>
         <author>
             <name>murkle</name>
         </author>
@@ -39,10 +78,23 @@ Points: 6
         <updated>2021-06-30T16:36:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc
 Comments URL: https://news.ycombinator.com/item?id=27690587
-Points: 35
-# Comments: 1]]></summary>
+Points: 149
+# Comments: 51]]></summary>
         <author>
             <name>samizdis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack launches Huddles, Discord-like audio calls you can hop in and out of]]></title>
+        <id>https://news.ycombinator.com/item?id=27690570</id>
+        <link href="https://www.theverge.com/2021/6/30/22556992/slack-huddles-audio-calls-feature-launch-discord-like"/>
+        <updated>2021-06-30T16:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/30/22556992/slack-huddles-audio-calls-feature-launch-discord-like
+Comments URL: https://news.ycombinator.com/item?id=27690570
+Points: 30
+# Comments: 7]]></summary>
+        <author>
+            <name>Garbage</name>
         </author>
     </entry>
     <entry>
@@ -52,10 +104,23 @@ Points: 35
         <updated>2021-06-30T16:33:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/
 Comments URL: https://news.ycombinator.com/item?id=27690543
-Points: 28
-# Comments: 3]]></summary>
+Points: 80
+# Comments: 55]]></summary>
         <author>
             <name>MikeDelta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything We Know About 1970s Mainframe RPGs We Can No Longer Play]]></title>
+        <id>https://news.ycombinator.com/item?id=27690504</id>
+        <link href="http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html"/>
+        <updated>2021-06-30T16:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html
+Comments URL: https://news.ycombinator.com/item?id=27690504
+Points: 34
+# Comments: 9]]></summary>
+        <author>
+            <name>Tomte</name>
         </author>
     </entry>
     <entry>
@@ -65,23 +130,10 @@ Points: 28
         <updated>2021-06-30T15:24:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://git-history.jpalmer.dev/
 Comments URL: https://news.ycombinator.com/item?id=27689664
-Points: 31
-# Comments: 9]]></summary>
+Points: 45
+# Comments: 11]]></summary>
         <author>
             <name>jwpalmer6</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCF77]]></title>
-        <id>https://news.ycombinator.com/item?id=27689214</id>
-        <link href="https://en.wikipedia.org/wiki/DCF77"/>
-        <updated>2021-06-30T14:48:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/DCF77
-Comments URL: https://news.ycombinator.com/item?id=27689214
-Points: 37
-# Comments: 10]]></summary>
-        <author>
-            <name>mahathu</name>
         </author>
     </entry>
     <entry>
@@ -113,8 +165,8 @@ The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You c
         <updated>2021-06-30T14:28:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/30/theater/yale-drama-david-geffen-tuition.html
 Comments URL: https://news.ycombinator.com/item?id=27688979
-Points: 58
-# Comments: 45]]></summary>
+Points: 77
+# Comments: 62]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -146,8 +198,8 @@ Points: 58
         <updated>2021-06-30T13:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://principles.dev/
 Comments URL: https://news.ycombinator.com/item?id=27688612
-Points: 109
-# Comments: 22]]></summary>
+Points: 157
+# Comments: 30]]></summary>
         <author>
             <name>_wp_</name>
         </author>
@@ -159,8 +211,8 @@ Points: 109
         <updated>2021-06-30T13:24:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zitadel.ch/blog/treat-clusters-as-cattle/
 Comments URL: https://news.ycombinator.com/item?id=27688203
-Points: 33
-# Comments: 7]]></summary>
+Points: 48
+# Comments: 30]]></summary>
         <author>
             <name>mffap</name>
         </author>
@@ -172,8 +224,8 @@ Points: 33
         <updated>2021-06-30T13:15:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
 Comments URL: https://news.ycombinator.com/item?id=27688090
-Points: 122
-# Comments: 71]]></summary>
+Points: 141
+# Comments: 90]]></summary>
         <author>
             <name>timmytokyo</name>
         </author>
@@ -185,8 +237,8 @@ Points: 122
         <updated>2021-06-30T12:56:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nicholasreese.com/lessons-from-building-a-static-site-generator/
 Comments URL: https://news.ycombinator.com/item?id=27687899
-Points: 55
-# Comments: 30]]></summary>
+Points: 61
+# Comments: 35]]></summary>
         <author>
             <name>ramshorst</name>
         </author>
@@ -198,8 +250,8 @@ Points: 55
         <updated>2021-06-30T12:44:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/black-hat-exploits-of-the-stupid
 Comments URL: https://news.ycombinator.com/item?id=27687775
-Points: 68
-# Comments: 27]]></summary>
+Points: 83
+# Comments: 34]]></summary>
         <author>
             <name>mad_ned</name>
         </author>
@@ -211,8 +263,8 @@ Points: 68
         <updated>2021-06-30T12:25:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html
 Comments URL: https://news.ycombinator.com/item?id=27687617
-Points: 200
-# Comments: 231]]></summary>
+Points: 232
+# Comments: 305]]></summary>
         <author>
             <name>remt</name>
         </author>
@@ -224,8 +276,8 @@ Points: 200
         <updated>2021-06-30T12:00:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/eevee/status/1410037309848752128
 Comments URL: https://news.ycombinator.com/item?id=27687450
-Points: 555
-# Comments: 249]]></summary>
+Points: 616
+# Comments: 286]]></summary>
         <author>
             <name>agomez314</name>
         </author>
@@ -241,55 +293,29 @@ Points: 555
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Amazon, Google and Other Companies Exploit NDAs]]></title>
-        <id>https://news.ycombinator.com/item?id=27687309</id>
-        <link href="https://www.nytimes.com/2021/06/29/opinion/nda-amazon-google-facebook.html"/>
-        <updated>2021-06-30T11:37:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/29/opinion/nda-amazon-google-facebook.html
-Comments URL: https://news.ycombinator.com/item?id=27687309
-Points: 111
-# Comments: 27]]></summary>
-        <author>
-            <name>bookofjoe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Software estimation is hard – do it anyway]]></title>
         <id>https://news.ycombinator.com/item?id=27687265</id>
         <link href="https://jacobian.org/2021/may/20/estimation/"/>
         <updated>2021-06-30T11:29:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jacobian.org/2021/may/20/estimation/
 Comments URL: https://news.ycombinator.com/item?id=27687265
-Points: 178
-# Comments: 116]]></summary>
+Points: 210
+# Comments: 142]]></summary>
         <author>
             <name>vortex_ape</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Note that I wouldn’t pass the listed minimum requirements”]]></title>
+        <title type="html"><![CDATA[Note that I wouldn’t pass the listed minimum requirements]]></title>
         <id>https://news.ycombinator.com/item?id=27687034</id>
         <link href="https://twitter.com/ID_AA_Carmack/status/1409576956828405760"/>
         <updated>2021-06-30T10:47:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1409576956828405760
 Comments URL: https://news.ycombinator.com/item?id=27687034
-Points: 509
-# Comments: 344]]></summary>
+Points: 535
+# Comments: 364]]></summary>
         <author>
             <name>gone35</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Philosophy of Software Design (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27686818</id>
-        <link href="https://johz.bearblog.dev/book-review-philosophy-software-design/"/>
-        <updated>2021-06-30T10:14:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/
-Comments URL: https://news.ycombinator.com/item?id=27686818
-Points: 156
-# Comments: 38]]></summary>
-        <author>
-            <name>fagnerbrack</name>
         </author>
     </entry>
     <entry>
@@ -300,32 +326,6 @@ Points: 156
         <summary type="html"><![CDATA[Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Turing College (YC W21) – Online data science school]]></title>
-        <id>https://news.ycombinator.com/item?id=27686395</id>
-        <link href="https://www.turingcollege.com/"/>
-        <updated>2021-06-30T08:50:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.turingcollege.com/
-Comments URL: https://news.ycombinator.com/item?id=27686395
-Points: 51
-# Comments: 34]]></summary>
-        <author>
-            <name>kaminskis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenStreetMap looks to relocate to EU due to Brexit limitations]]></title>
-        <id>https://news.ycombinator.com/item?id=27685629</id>
-        <link href="https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations"/>
-        <updated>2021-06-30T06:39:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations
-Comments URL: https://news.ycombinator.com/item?id=27685629
-Points: 294
-# Comments: 49]]></summary>
-        <author>
-            <name>kudu</name>
         </author>
     </entry>
     <entry>
