@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T20:11:39.323Z</updated>
+    <updated>2021-06-30T21:11:14.001Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript]]></title>
+        <id>https://news.ycombinator.com/item?id=27693378</id>
+        <link href="https://mux.com/jobs?hnj=full-stack"/>
+        <updated>2021-06-30T21:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mux.com/jobs?hnj=full-stack
+Comments URL: https://news.ycombinator.com/item?id=27693378
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>mmcclure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?]]></title>
+        <id>https://css-tricks.com/?p=343224</id>
+        <link href="https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/"/>
+        <updated>2021-06-30T20:36:52.000Z</updated>
+        <summary type="html"><![CDATA[I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these day. Plus we can sprinkle in polish …
+The post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Makes Mac OS X Lion and Mountain Lion Free to Download]]></title>
+        <id>https://news.ycombinator.com/item?id=27693065</id>
+        <link href="https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/"/>
+        <updated>2021-06-30T20:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/
+Comments URL: https://news.ycombinator.com/item?id=27693065
+Points: 14
+# Comments: 4]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM's 18-month company-wide email migration has been a disaster, sources say]]></title>
+        <id>https://news.ycombinator.com/item?id=27692965</id>
+        <link href="https://www.theregister.com/2021/06/30/ibm_email_outage/"/>
+        <updated>2021-06-30T20:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/30/ibm_email_outage/
+Comments URL: https://news.ycombinator.com/item?id=27692965
+Points: 44
+# Comments: 30]]></summary>
+        <author>
+            <name>Dotnaught</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨]]></title>
         <id>6063b8d69618b008528a9d79</id>
@@ -23,8 +73,8 @@
         <updated>2021-06-30T17:59:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jacobobryant.com/blog/understand/
 Comments URL: https://news.ycombinator.com/item?id=27691586
-Points: 67
-# Comments: 13]]></summary>
+Points: 116
+# Comments: 23]]></summary>
         <author>
             <name>d4rkp4ttern</name>
         </author>
@@ -36,23 +86,10 @@ Points: 67
         <updated>2021-06-30T17:08:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fly.io/blog/globally-distributed-postgres/
 Comments URL: https://news.ycombinator.com/item?id=27690950
-Points: 92
-# Comments: 26]]></summary>
+Points: 124
+# Comments: 43]]></summary>
         <author>
             <name>woodrow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuestDB (YC S20) Is Hiring a Front End Engineer (React)]]></title>
-        <id>https://news.ycombinator.com/item?id=27690843</id>
-        <link href="https://questdb.io/careers/front-end-engineer/"/>
-        <updated>2021-06-30T17:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://questdb.io/careers/front-end-engineer/
-Comments URL: https://news.ycombinator.com/item?id=27690843
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>nhourcard</name>
         </author>
     </entry>
     <entry>
@@ -62,23 +99,10 @@ Points: 1
         <updated>2021-06-30T16:52:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://meltano.com/blog/2021/06/30/meltano-spins-out-of-gitlab-raises-seed-round/
 Comments URL: https://news.ycombinator.com/item?id=27690763
-Points: 29
-# Comments: 7]]></summary>
+Points: 38
+# Comments: 8]]></summary>
         <author>
             <name>visch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 on Raspberry Pi 4]]></title>
-        <id>https://news.ycombinator.com/item?id=27690622</id>
-        <link href="https://twitter.com/shichinomiya_s/status/1409891589707636741"/>
-        <updated>2021-06-30T16:39:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/shichinomiya_s/status/1409891589707636741
-Comments URL: https://news.ycombinator.com/item?id=27690622
-Points: 54
-# Comments: 28]]></summary>
-        <author>
-            <name>murkle</name>
         </author>
     </entry>
     <entry>
@@ -88,23 +112,10 @@ Points: 54
         <updated>2021-06-30T16:36:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc
 Comments URL: https://news.ycombinator.com/item?id=27690587
-Points: 358
-# Comments: 139]]></summary>
+Points: 441
+# Comments: 180]]></summary>
         <author>
             <name>samizdis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack launches Huddles, Discord-like audio calls you can hop in and out of]]></title>
-        <id>https://news.ycombinator.com/item?id=27690570</id>
-        <link href="https://www.theverge.com/2021/6/30/22556992/slack-huddles-audio-calls-feature-launch-discord-like"/>
-        <updated>2021-06-30T16:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/30/22556992/slack-huddles-audio-calls-feature-launch-discord-like
-Comments URL: https://news.ycombinator.com/item?id=27690570
-Points: 49
-# Comments: 14]]></summary>
-        <author>
-            <name>Garbage</name>
         </author>
     </entry>
     <entry>
@@ -114,8 +125,8 @@ Points: 49
         <updated>2021-06-30T16:33:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/
 Comments URL: https://news.ycombinator.com/item?id=27690543
-Points: 166
-# Comments: 113]]></summary>
+Points: 196
+# Comments: 130]]></summary>
         <author>
             <name>MikeDelta</name>
         </author>
@@ -127,8 +138,8 @@ Points: 166
         <updated>2021-06-30T16:30:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html
 Comments URL: https://news.ycombinator.com/item?id=27690504
-Points: 126
-# Comments: 25]]></summary>
+Points: 165
+# Comments: 39]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -140,8 +151,8 @@ Points: 126
         <updated>2021-06-30T15:24:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://git-history.jpalmer.dev/
 Comments URL: https://news.ycombinator.com/item?id=27689664
-Points: 70
-# Comments: 14]]></summary>
+Points: 81
+# Comments: 16]]></summary>
         <author>
             <name>jwpalmer6</name>
         </author>
@@ -195,8 +206,8 @@ The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You c
         <updated>2021-06-30T13:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://principles.dev/
 Comments URL: https://news.ycombinator.com/item?id=27688612
-Points: 212
-# Comments: 51]]></summary>
+Points: 234
+# Comments: 59]]></summary>
         <author>
             <name>_wp_</name>
         </author>
@@ -208,8 +219,8 @@ Points: 212
         <updated>2021-06-30T13:24:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zitadel.ch/blog/treat-clusters-as-cattle/
 Comments URL: https://news.ycombinator.com/item?id=27688203
-Points: 71
-# Comments: 56]]></summary>
+Points: 88
+# Comments: 67]]></summary>
         <author>
             <name>mffap</name>
         </author>
@@ -221,10 +232,23 @@ Points: 71
         <updated>2021-06-30T13:15:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
 Comments URL: https://news.ycombinator.com/item?id=27688090
-Points: 174
-# Comments: 125]]></summary>
+Points: 184
+# Comments: 142]]></summary>
         <author>
             <name>timmytokyo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Leapp – Multi-cloud credentials tool for developers]]></title>
+        <id>https://news.ycombinator.com/item?id=27688062</id>
+        <link href="https://www.leapp.cloud/"/>
+        <updated>2021-06-30T13:13:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.leapp.cloud/
+Comments URL: https://news.ycombinator.com/item?id=27688062
+Points: 9
+# Comments: 1]]></summary>
+        <author>
+            <name>andreacavagna</name>
         </author>
     </entry>
     <entry>
@@ -234,8 +258,8 @@ Points: 174
         <updated>2021-06-30T12:56:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nicholasreese.com/lessons-from-building-a-static-site-generator/
 Comments URL: https://news.ycombinator.com/item?id=27687899
-Points: 76
-# Comments: 38]]></summary>
+Points: 78
+# Comments: 41]]></summary>
         <author>
             <name>ramshorst</name>
         </author>
@@ -247,8 +271,8 @@ Points: 76
         <updated>2021-06-30T12:44:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/black-hat-exploits-of-the-stupid
 Comments URL: https://news.ycombinator.com/item?id=27687775
-Points: 117
-# Comments: 49]]></summary>
+Points: 130
+# Comments: 57]]></summary>
         <author>
             <name>mad_ned</name>
         </author>
@@ -260,8 +284,8 @@ Points: 117
         <updated>2021-06-30T12:25:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html
 Comments URL: https://news.ycombinator.com/item?id=27687617
-Points: 280
-# Comments: 378]]></summary>
+Points: 305
+# Comments: 407]]></summary>
         <author>
             <name>remt</name>
         </author>
@@ -273,8 +297,8 @@ Points: 280
         <updated>2021-06-30T12:00:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/eevee/status/1410037309848752128
 Comments URL: https://news.ycombinator.com/item?id=27687450
-Points: 726
-# Comments: 329]]></summary>
+Points: 785
+# Comments: 347]]></summary>
         <author>
             <name>agomez314</name>
         </author>
@@ -296,23 +320,10 @@ Points: 726
         <updated>2021-06-30T11:29:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jacobian.org/2021/may/20/estimation/
 Comments URL: https://news.ycombinator.com/item?id=27687265
-Points: 274
-# Comments: 166]]></summary>
+Points: 292
+# Comments: 170]]></summary>
         <author>
             <name>vortex_ape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Note that I wouldn’t pass the listed minimum requirements]]></title>
-        <id>https://news.ycombinator.com/item?id=27687034</id>
-        <link href="https://twitter.com/ID_AA_Carmack/status/1409576956828405760"/>
-        <updated>2021-06-30T10:47:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1409576956828405760
-Comments URL: https://news.ycombinator.com/item?id=27687034
-Points: 566
-# Comments: 387]]></summary>
-        <author>
-            <name>gone35</name>
         </author>
     </entry>
     <entry>
@@ -322,8 +333,8 @@ Points: 566
         <updated>2021-06-30T10:14:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/
 Comments URL: https://news.ycombinator.com/item?id=27686818
-Points: 186
-# Comments: 43]]></summary>
+Points: 194
+# Comments: 45]]></summary>
         <author>
             <name>fagnerbrack</name>
         </author>
@@ -619,17 +630,6 @@ The post Using Performant Next-Gen Images in CSS with image-set appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Weak declaration”]]></title>
-        <id>https://css-tricks.com/?p=342669</id>
-        <link href="https://css-tricks.com/weak-declaration/"/>
-        <updated>2021-06-23T14:27:14.000Z</updated>
-        <summary type="html"><![CDATA[PPK looks at aspect-ratio, a CSS property for layout that, for the most part, does exactly what you would think it does. It’s getting more interesting as it’s behind a flag in Firefox and Safari now, so we’ll have …
-The post “Weak declaration” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Online Workshops (July-October 2021)]]></title>
         <id>https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/</id>
         <link href="https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/"/>
@@ -889,16 +889,6 @@ The post Looking fine with Firefox 89 appeared first on Mozilla Hacks - the Web 
         <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting Up A Currency Convertor With ExchangeRatesApi.io]]></title>
-        <id>https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/</id>
-        <link href="https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/"/>
-        <updated>2021-06-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
         </author>
     </entry>
 </feed>
