@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T10:13:06.860Z</updated>
+    <updated>2021-06-30T11:10:06.785Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Book Review: A Philosophy of Software Design]]></title>
+        <id>https://news.ycombinator.com/item?id=27686818</id>
+        <link href="https://johz.bearblog.dev/book-review-philosophy-software-design/"/>
+        <updated>2021-06-30T10:14:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/
+Comments URL: https://news.ycombinator.com/item?id=27686818
+Points: 12
+# Comments: 0]]></summary>
+        <author>
+            <name>fagnerbrack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miami building collapse: Letter in April warned of worsening damage]]></title>
+        <id>https://news.ycombinator.com/item?id=27686670</id>
+        <link href="https://www.bbc.co.uk/news/world-us-canada-57659311"/>
+        <updated>2021-06-30T09:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-us-canada-57659311
+Comments URL: https://news.ycombinator.com/item?id=27686670
+Points: 26
+# Comments: 16]]></summary>
+        <author>
+            <name>fumblebee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
@@ -17,27 +43,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Report finds phone network encryption was deliberately weakened]]></title>
-        <id>https://news.ycombinator.com/item?id=27686422</id>
-        <link href="https://www.vice.com/en/article/4avnan/bombshell-report-finds-phone-network-encryption-was-deliberately-weakened"/>
-        <updated>2021-06-30T08:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/4avnan/bombshell-report-finds-phone-network-encryption-was-deliberately-weakened
-Comments URL: https://news.ycombinator.com/item?id=27686422
-Points: 19
-# Comments: 2]]></summary>
-        <author>
-            <name>stunt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Launch HN: Turing College (YC W21) – Online data science school]]></title>
         <id>https://news.ycombinator.com/item?id=27686395</id>
         <link href="https://www.turingcollege.com/"/>
         <updated>2021-06-30T08:50:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.turingcollege.com/
 Comments URL: https://news.ycombinator.com/item?id=27686395
-Points: 13
-# Comments: 3]]></summary>
+Points: 18
+# Comments: 5]]></summary>
         <author>
             <name>kaminskis</name>
         </author>
@@ -49,8 +62,8 @@ Points: 13
         <updated>2021-06-30T07:52:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/
 Comments URL: https://news.ycombinator.com/item?id=27686069
-Points: 41
-# Comments: 29]]></summary>
+Points: 52
+# Comments: 46]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -62,8 +75,8 @@ Points: 41
         <updated>2021-06-30T06:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations
 Comments URL: https://news.ycombinator.com/item?id=27685629
-Points: 120
-# Comments: 13]]></summary>
+Points: 152
+# Comments: 23]]></summary>
         <author>
             <name>kudu</name>
         </author>
@@ -75,8 +88,8 @@ Points: 120
         <updated>2021-06-30T04:18:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING
 Comments URL: https://news.ycombinator.com/item?id=27684807
-Points: 822
-# Comments: 223]]></summary>
+Points: 897
+# Comments: 248]]></summary>
         <author>
             <name>_Robbie</name>
         </author>
@@ -88,8 +101,8 @@ Points: 822
         <updated>2021-06-30T03:57:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://research.swtch.com/hwmm
 Comments URL: https://news.ycombinator.com/item?id=27684703
-Points: 31
-# Comments: 1]]></summary>
+Points: 36
+# Comments: 4]]></summary>
         <author>
             <name>ot</name>
         </author>
@@ -101,23 +114,10 @@ Points: 31
         <updated>2021-06-30T03:42:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fancl20.github.io/contents/00-posts/2021-06-30-io_uring-is-not-only-a-generic-asynchronous-syscall-facility.html
 Comments URL: https://news.ycombinator.com/item?id=27684608
-Points: 43
+Points: 51
 # Comments: 5]]></summary>
         <author>
             <name>fancl20</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The U.S. Navy Tried to Turn Whale Songs into Secret Code (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27684254</id>
-        <link href="https://www.thedrive.com/the-war-zone/8778/the-u-s-navy-tried-to-turn-whale-songs-into-secret-code"/>
-        <updated>2021-06-30T02:32:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thedrive.com/the-war-zone/8778/the-u-s-navy-tried-to-turn-whale-songs-into-secret-code
-Comments URL: https://news.ycombinator.com/item?id=27684254
-Points: 29
-# Comments: 6]]></summary>
-        <author>
-            <name>tintinnabula</name>
         </author>
     </entry>
     <entry>
@@ -127,8 +127,8 @@ Points: 29
         <updated>2021-06-30T02:21:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.boxabl.com/
 Comments URL: https://news.ycombinator.com/item?id=27684191
-Points: 161
-# Comments: 126]]></summary>
+Points: 177
+# Comments: 136]]></summary>
         <author>
             <name>yehudabrick</name>
         </author>
@@ -140,8 +140,8 @@ Points: 161
         <updated>2021-06-30T01:43:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/mhadidg/software-architecture-books
 Comments URL: https://news.ycombinator.com/item?id=27683966
-Points: 176
-# Comments: 35]]></summary>
+Points: 191
+# Comments: 38]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -153,8 +153,8 @@ Points: 176
         <updated>2021-06-30T01:01:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions
 Comments URL: https://news.ycombinator.com/item?id=27683738
-Points: 172
-# Comments: 120]]></summary>
+Points: 177
+# Comments: 125]]></summary>
         <author>
             <name>zathan</name>
         </author>
@@ -166,7 +166,7 @@ Points: 172
         <updated>2021-06-29T23:25:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame
 Comments URL: https://news.ycombinator.com/item?id=27683059
-Points: 79
+Points: 86
 # Comments: 30]]></summary>
         <author>
             <name>noway421</name>
@@ -179,8 +179,8 @@ Points: 79
         <updated>2021-06-29T22:48:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/conspiracy-pt1
 Comments URL: https://news.ycombinator.com/item?id=27682763
-Points: 242
-# Comments: 81]]></summary>
+Points: 261
+# Comments: 90]]></summary>
         <author>
             <name>yellow_lead</name>
         </author>
@@ -207,8 +207,8 @@ The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks
         <updated>2021-06-29T22:37:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform
 Comments URL: https://news.ycombinator.com/item?id=27682657
-Points: 174
-# Comments: 68]]></summary>
+Points: 185
+# Comments: 81]]></summary>
         <author>
             <name>afrcnc</name>
         </author>
@@ -220,8 +220,8 @@ Points: 174
         <updated>2021-06-29T22:18:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/AsamK/signal-cli
 Comments URL: https://news.ycombinator.com/item?id=27682490
-Points: 132
-# Comments: 53]]></summary>
+Points: 140
+# Comments: 56]]></summary>
         <author>
             <name>janekg</name>
         </author>
@@ -233,8 +233,8 @@ Points: 132
         <updated>2021-06-29T22:10:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/
 Comments URL: https://news.ycombinator.com/item?id=27682432
-Points: 222
-# Comments: 120]]></summary>
+Points: 232
+# Comments: 123]]></summary>
         <author>
             <name>lucis</name>
         </author>
@@ -246,8 +246,8 @@ Points: 222
         <updated>2021-06-29T21:55:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/
 Comments URL: https://news.ycombinator.com/item?id=27682249
-Points: 42
-# Comments: 4]]></summary>
+Points: 46
+# Comments: 3]]></summary>
         <author>
             <name>jger15</name>
         </author>
@@ -259,8 +259,8 @@ Points: 42
         <updated>2021-06-29T21:45:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://asiatimes.com/2021/06/hk-media-erase-their-archives-amid-rising-arrests/
 Comments URL: https://news.ycombinator.com/item?id=27682109
-Points: 288
-# Comments: 174]]></summary>
+Points: 299
+# Comments: 188]]></summary>
         <author>
             <name>tomohawk</name>
         </author>
@@ -272,8 +272,8 @@ Points: 288
         <updated>2021-06-29T21:44:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php
 Comments URL: https://news.ycombinator.com/item?id=27682103
-Points: 32
-# Comments: 1]]></summary>
+Points: 33
+# Comments: 4]]></summary>
         <author>
             <name>wormold</name>
         </author>
