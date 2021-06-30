@@ -6,36 +6,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27689664",
+          "author": "jwpalmer6",
+          "description": "Article URL: https://git-history.jpalmer.dev/\nComments URL: https://news.ycombinator.com/item?id=27689664\nPoints: 8\n# Comments: 2",
+          "link": "https://git-history.jpalmer.dev/",
+          "publishedOn": "2021-06-30T15:24:12.000Z",
+          "wordCount": 6,
+          "title": "Show HN: An Interactive Visual History of Git Development"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27689535",
+          "author": "geerlingguy",
+          "description": "Article URL: https://www.macrumors.com/2021/06/30/apple-still-plans-return-to-in-person-work/\nComments URL: https://news.ycombinator.com/item?id=27689535\nPoints: 46\n# Comments: 30",
+          "link": "https://www.macrumors.com/2021/06/30/apple-still-plans-return-to-in-person-work/",
+          "publishedOn": "2021-06-30T15:13:28.000Z",
+          "wordCount": 2348,
+          "title": "Apple Still Planning Return to In-Person Work Despite Complaints"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27689412",
+          "author": "whytai",
+          "description": "Article URL: https://twitter.com/bobhardt/status/1410055272308121603\nComments URL: https://news.ycombinator.com/item?id=27689412\nPoints: 35\n# Comments: 13",
+          "link": "https://twitter.com/bobhardt/status/1410055272308121603",
+          "publishedOn": "2021-06-30T15:03:26.000Z",
+          "wordCount": 196,
+          "title": "NYC Election Board re-counting votes after 130k are discovered from a test run"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27689214",
           "author": "mahathu",
-          "description": "Article URL: https://en.wikipedia.org/wiki/DCF77\nComments URL: https://news.ycombinator.com/item?id=27689214\nPoints: 7\n# Comments: 1",
+          "description": "Article URL: https://en.wikipedia.org/wiki/DCF77\nComments URL: https://news.ycombinator.com/item?id=27689214\nPoints: 22\n# Comments: 2",
           "link": "https://en.wikipedia.org/wiki/DCF77",
           "publishedOn": "2021-06-30T14:48:48.000Z",
           "wordCount": 4693,
           "title": "DCF77"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27689071",
-          "author": "NiceWayToDoIT",
-          "description": "Article URL: https://www.independent.co.uk/climate-change/news/arctic-circle-summer-global-warming-b1875285.html\nComments URL: https://news.ycombinator.com/item?id=27689071\nPoints: 13\n# Comments: 3",
-          "link": "https://www.independent.co.uk/climate-change/news/arctic-circle-summer-global-warming-b1875285.html",
-          "publishedOn": "2021-06-30T14:36:37.000Z",
-          "wordCount": 619,
-          "title": "Arctic Circle Siberia land temperature reaches 48C during ‘persistent heatwave’"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27688979",
           "author": "jbegley",
-          "description": "Article URL: https://www.nytimes.com/2021/06/30/theater/yale-drama-david-geffen-tuition.html\nComments URL: https://news.ycombinator.com/item?id=27688979\nPoints: 22\n# Comments: 6",
+          "description": "Article URL: https://www.nytimes.com/2021/06/30/theater/yale-drama-david-geffen-tuition.html\nComments URL: https://news.ycombinator.com/item?id=27688979\nPoints: 45\n# Comments: 33",
           "link": "https://www.nytimes.com/2021/06/30/theater/yale-drama-david-geffen-tuition.html",
           "publishedOn": "2021-06-30T14:28:37.000Z",
-          "wordCount": 480,
+          "wordCount": 839,
           "title": "Yale Drama Goes Tuition-Free with $150M Gift from David Geffen"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27688612",
           "author": "_wp_",
-          "description": "Article URL: https://principles.dev/\nComments URL: https://news.ycombinator.com/item?id=27688612\nPoints: 26\n# Comments: 2",
+          "description": "Article URL: https://principles.dev/\nComments URL: https://news.ycombinator.com/item?id=27688612\nPoints: 66\n# Comments: 16",
           "link": "https://principles.dev/",
           "publishedOn": "2021-06-30T13:59:47.000Z",
           "wordCount": 211,
@@ -44,16 +62,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27688272",
           "author": "eru",
-          "description": "Article URL: http://gs.com./\nComments URL: https://news.ycombinator.com/item?id=27688272\nPoints: 53\n# Comments: 27",
+          "description": "Article URL: http://gs.com./\nComments URL: https://news.ycombinator.com/item?id=27688272\nPoints: 73\n# Comments: 47",
           "link": "http://gs.com./",
           "publishedOn": "2021-06-30T13:30:11.000Z",
           "wordCount": null,
           "title": "Goldman seems to be running networking software from 2008"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27688203",
+          "author": "mffap",
+          "description": "Article URL: https://zitadel.ch/blog/treat-clusters-as-cattle/\nComments URL: https://news.ycombinator.com/item?id=27688203\nPoints: 11\n# Comments: 0",
+          "link": "https://zitadel.ch/blog/treat-clusters-as-cattle/",
+          "publishedOn": "2021-06-30T13:24:36.000Z",
+          "wordCount": 2006,
+          "title": "Treat Kubernetes Clusters as Cattle, Not Pets"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27688090",
           "author": "timmytokyo",
-          "description": "Article URL: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/\nComments URL: https://news.ycombinator.com/item?id=27688090\nPoints: 61\n# Comments: 28",
+          "description": "Article URL: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/\nComments URL: https://news.ycombinator.com/item?id=27688090\nPoints: 89\n# Comments: 56",
           "link": "https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/",
           "publishedOn": "2021-06-30T13:15:35.000Z",
           "wordCount": 6338,
@@ -62,16 +89,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27687899",
           "author": "ramshorst",
-          "description": "Article URL: https://nicholasreese.com/lessons-from-building-a-static-site-generator/\nComments URL: https://news.ycombinator.com/item?id=27687899\nPoints: 28\n# Comments: 9",
+          "description": "Article URL: https://nicholasreese.com/lessons-from-building-a-static-site-generator/\nComments URL: https://news.ycombinator.com/item?id=27687899\nPoints: 43\n# Comments: 24",
           "link": "https://nicholasreese.com/lessons-from-building-a-static-site-generator/",
           "publishedOn": "2021-06-30T12:56:43.000Z",
-          "wordCount": 5645,
-          "title": "Lessons from Building a Static Site Generator"
+          "wordCount": 5646,
+          "title": "Lessons from Building a Static Site Generator (2020)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27687775",
           "author": "mad_ned",
-          "description": "Article URL: https://madned.substack.com/p/black-hat-exploits-of-the-stupid\nComments URL: https://news.ycombinator.com/item?id=27687775\nPoints: 18\n# Comments: 5",
+          "description": "Article URL: https://madned.substack.com/p/black-hat-exploits-of-the-stupid\nComments URL: https://news.ycombinator.com/item?id=27687775\nPoints: 45\n# Comments: 15",
           "link": "https://madned.substack.com/p/black-hat-exploits-of-the-stupid",
           "publishedOn": "2021-06-30T12:44:24.000Z",
           "wordCount": 3672,
@@ -80,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27687617",
           "author": "remt",
-          "description": "Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html\nComments URL: https://news.ycombinator.com/item?id=27687617\nPoints: 120\n# Comments: 123",
+          "description": "Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html\nComments URL: https://news.ycombinator.com/item?id=27687617\nPoints: 160\n# Comments: 163",
           "link": "https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html",
           "publishedOn": "2021-06-30T12:25:40.000Z",
           "wordCount": 891,
@@ -89,25 +116,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27687485",
           "author": "I_Byte",
-          "description": "Article URL: https://solarsystem.nasa.gov/resources/682/space-tourism-posters/\nComments URL: https://news.ycombinator.com/item?id=27687485\nPoints: 45\n# Comments: 18",
+          "description": "Article URL: https://solarsystem.nasa.gov/resources/682/space-tourism-posters/\nComments URL: https://news.ycombinator.com/item?id=27687485\nPoints: 65\n# Comments: 25",
           "link": "https://solarsystem.nasa.gov/resources/682/space-tourism-posters/",
           "publishedOn": "2021-06-30T12:06:14.000Z",
-          "wordCount": 1692,
+          "wordCount": 1678,
           "title": "NASA Space Tourism Posters"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27687479",
-          "author": "rbanffy",
-          "description": "Article URL: https://www.anandtech.com/show/16778/amd-epyc-milan-review-part-2\nComments URL: https://news.ycombinator.com/item?id=27687479\nPoints: 43\n# Comments: 4",
-          "link": "https://www.anandtech.com/show/16778/amd-epyc-milan-review-part-2",
-          "publishedOn": "2021-06-30T12:05:34.000Z",
-          "wordCount": 3288,
-          "title": "AMD EPYC Milan Review Part 2: Testing 8 to 64 Cores in a Production Platform"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27687450",
           "author": "agomez314",
-          "description": "Article URL: https://twitter.com/eevee/status/1410037309848752128\nComments URL: https://news.ycombinator.com/item?id=27687450\nPoints: 340\n# Comments: 166",
+          "description": "Article URL: https://twitter.com/eevee/status/1410037309848752128\nComments URL: https://news.ycombinator.com/item?id=27687450\nPoints: 451\n# Comments: 223",
           "link": "https://twitter.com/eevee/status/1410037309848752128",
           "publishedOn": "2021-06-30T12:00:41.000Z",
           "wordCount": 196,
@@ -125,52 +143,34 @@
         {
           "id": "https://news.ycombinator.com/item?id=27687309",
           "author": "bookofjoe",
-          "description": "Article URL: https://www.nytimes.com/2021/06/29/opinion/nda-amazon-google-facebook.html\nComments URL: https://news.ycombinator.com/item?id=27687309\nPoints: 68\n# Comments: 16",
+          "description": "Article URL: https://www.nytimes.com/2021/06/29/opinion/nda-amazon-google-facebook.html\nComments URL: https://news.ycombinator.com/item?id=27687309\nPoints: 84\n# Comments: 20",
           "link": "https://www.nytimes.com/2021/06/29/opinion/nda-amazon-google-facebook.html",
           "publishedOn": "2021-06-30T11:37:17.000Z",
           "wordCount": 894,
           "title": "How Amazon, Google and Other Companies Exploit NDAs"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27687297",
-          "author": "belter",
-          "description": "Article URL: https://www.bbc.com/news/world-us-canada-57654133\nComments URL: https://news.ycombinator.com/item?id=27687297\nPoints: 233\n# Comments: 227",
-          "link": "https://www.bbc.com/news/world-us-canada-57654133",
-          "publishedOn": "2021-06-30T11:35:34.000Z",
-          "wordCount": 1882,
-          "title": "Canada weather: Dozens dead as heatwave shatters records"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27687265",
           "author": "vortex_ape",
-          "description": "Article URL: https://jacobian.org/2021/may/20/estimation/\nComments URL: https://news.ycombinator.com/item?id=27687265\nPoints: 111\n# Comments: 69",
+          "description": "Article URL: https://jacobian.org/2021/may/20/estimation/\nComments URL: https://news.ycombinator.com/item?id=27687265\nPoints: 144\n# Comments: 99",
           "link": "https://jacobian.org/2021/may/20/estimation/",
           "publishedOn": "2021-06-30T11:29:57.000Z",
           "wordCount": 768,
           "title": "Software estimation is hard – do it anyway"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27687148",
-          "author": "eMGm4D0zgUAVXc7",
-          "description": "Article URL: https://www.youtube.com/watch?v=-k3mVnRlQLU\nComments URL: https://news.ycombinator.com/item?id=27687148\nPoints: 76\n# Comments: 4",
-          "link": "https://www.youtube.com/watch?v=-k3mVnRlQLU",
-          "publishedOn": "2021-06-30T11:08:57.000Z",
-          "wordCount": null,
-          "title": "Robotic 1000 Klein Bottle storage under Cliff Stoll's house"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27687034",
           "author": "gone35",
-          "description": "Article URL: https://twitter.com/ID_AA_Carmack/status/1409576956828405760\nComments URL: https://news.ycombinator.com/item?id=27687034\nPoints: 392\n# Comments: 225",
+          "description": "Article URL: https://twitter.com/ID_AA_Carmack/status/1409576956828405760\nComments URL: https://news.ycombinator.com/item?id=27687034\nPoints: 474\n# Comments: 316",
           "link": "https://twitter.com/ID_AA_Carmack/status/1409576956828405760",
           "publishedOn": "2021-06-30T10:47:59.000Z",
           "wordCount": 196,
-          "title": "”Note that I wouldn’t pass the listed minimum requirements”"
+          "title": "“Note that I wouldn’t pass the listed minimum requirements”"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27686818",
           "author": "fagnerbrack",
-          "description": "Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/\nComments URL: https://news.ycombinator.com/item?id=27686818\nPoints: 113\n# Comments: 34",
+          "description": "Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/\nComments URL: https://news.ycombinator.com/item?id=27686818\nPoints: 140\n# Comments: 36",
           "link": "https://johz.bearblog.dev/book-review-philosophy-software-design/",
           "publishedOn": "2021-06-30T10:14:33.000Z",
           "wordCount": 1787,
@@ -179,7 +179,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27686395",
           "author": "kaminskis",
-          "description": "Article URL: https://www.turingcollege.com/\nComments URL: https://news.ycombinator.com/item?id=27686395\nPoints: 41\n# Comments: 29",
+          "description": "Article URL: https://www.turingcollege.com/\nComments URL: https://news.ycombinator.com/item?id=27686395\nPoints: 45\n# Comments: 31",
           "link": "https://www.turingcollege.com/",
           "publishedOn": "2021-06-30T08:50:22.000Z",
           "wordCount": 642,
@@ -248,6 +248,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=343064",
+          "author": "Travis Almand",
+          "description": "The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…\nThe post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/when-a-click-is-not-just-a-click/",
+          "publishedOn": "2021-06-30T14:45:42.000Z",
+          "wordCount": 4397,
+          "title": "When a Click is Not Just a Click"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343182",
+          "author": "Chris Coyier",
+          "description": "I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …\nThe post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/",
+          "publishedOn": "2021-06-30T14:44:54.000Z",
+          "wordCount": 628,
+          "title": "Fixing a Bug in Low-Resolution Mode"
+        },
         {
           "id": "https://css-tricks.com/?p=343470",
           "author": "Chris Coyier",
@@ -374,24 +392,6 @@
             "length": "4189357",
             "type": "video/mp4"
           }
-        },
-        {
-          "id": "https://css-tricks.com/?p=342930",
-          "author": "Chris Coyier",
-          "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/inherit-initial-unset-revert/",
-          "publishedOn": "2021-06-22T21:20:20.000Z",
-          "wordCount": 799,
-          "title": "inherit, initial, unset, revert"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342634",
-          "author": "Geoff Rich",
-          "description": "Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …\nThe post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-custom-elements-in-svelte/",
-          "publishedOn": "2021-06-22T14:37:50.000Z",
-          "wordCount": 3090,
-          "title": "Using Custom Elements in Svelte"
         }
       ]
     },
@@ -406,7 +406,7 @@
           "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
           "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4731,
+          "wordCount": 4738,
           "title": "The State Of Web Workers In 2021",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
@@ -420,7 +420,7 @@
           "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
           "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3610,
+          "wordCount": 3559,
           "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
@@ -462,7 +462,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2519,
+          "wordCount": 2513,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -476,7 +476,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5446,
+          "wordCount": 5401,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -490,7 +490,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3523,
+          "wordCount": 3525,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -504,7 +504,7 @@
           "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
           "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4170,
+          "wordCount": 4172,
           "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
@@ -532,7 +532,7 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1350,
+          "wordCount": 1388,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
@@ -560,7 +560,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5312,
+          "wordCount": 5355,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -574,7 +574,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3416,
+          "wordCount": 3413,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -588,7 +588,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3967,
+          "wordCount": 3969,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -602,7 +602,7 @@
           "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
           "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
           "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1638,
+          "wordCount": 1639,
           "title": "Your Image Is Probably Not Decorative",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
@@ -616,7 +616,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4099,
+          "wordCount": 4102,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -672,7 +672,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1701,
+          "wordCount": 1743,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -686,7 +686,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5151,
+          "wordCount": 5163,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -700,7 +700,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 826,
+          "wordCount": 864,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -714,7 +714,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2782,
+          "wordCount": 2779,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -742,7 +742,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2438,
+          "wordCount": 2434,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -756,7 +756,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4412,
+          "wordCount": 4413,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -770,7 +770,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3716,
+          "wordCount": 3718,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -798,7 +798,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5653,
+          "wordCount": 5652,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
