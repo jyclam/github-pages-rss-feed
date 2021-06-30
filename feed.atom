@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T08:13:21.364Z</updated>
+    <updated>2021-06-30T09:13:25.110Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple's DocC is excellent, but unusable for open source projects]]></title>
+        <id>https://news.ycombinator.com/item?id=27686069</id>
+        <link href="https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/"/>
+        <updated>2021-06-30T07:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/
+Comments URL: https://news.ycombinator.com/item?id=27686069
+Points: 18
+# Comments: 6]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenStreetMap looks to relocate to EU due to Brexit limitations]]></title>
         <id>https://news.ycombinator.com/item?id=27685629</id>
@@ -13,8 +26,8 @@
         <updated>2021-06-30T06:39:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations
 Comments URL: https://news.ycombinator.com/item?id=27685629
-Points: 24
-# Comments: 2]]></summary>
+Points: 71
+# Comments: 7]]></summary>
         <author>
             <name>kudu</name>
         </author>
@@ -26,8 +39,8 @@ Points: 24
         <updated>2021-06-30T04:55:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://renderman.pixar.com/news/pixar-animation-studios-releases-renderman-24
 Comments URL: https://news.ycombinator.com/item?id=27685018
-Points: 46
-# Comments: 12]]></summary>
+Points: 48
+# Comments: 15]]></summary>
         <author>
             <name>dagmx</name>
         </author>
@@ -39,8 +52,8 @@ Points: 46
         <updated>2021-06-30T04:18:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING
 Comments URL: https://news.ycombinator.com/item?id=27684807
-Points: 617
-# Comments: 173]]></summary>
+Points: 731
+# Comments: 196]]></summary>
         <author>
             <name>_Robbie</name>
         </author>
@@ -52,7 +65,7 @@ Points: 617
         <updated>2021-06-30T03:57:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://research.swtch.com/hwmm
 Comments URL: https://news.ycombinator.com/item?id=27684703
-Points: 15
+Points: 23
 # Comments: 1]]></summary>
         <author>
             <name>ot</name>
@@ -65,8 +78,8 @@ Points: 15
         <updated>2021-06-30T03:42:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fancl20.github.io/contents/00-posts/2021-06-30-io_uring-is-not-only-a-generic-asynchronous-syscall-facility.html
 Comments URL: https://news.ycombinator.com/item?id=27684608
-Points: 18
-# Comments: 2]]></summary>
+Points: 28
+# Comments: 4]]></summary>
         <author>
             <name>fancl20</name>
         </author>
@@ -79,7 +92,7 @@ Points: 18
         <summary type="html"><![CDATA[Article URL: https://www.thedrive.com/the-war-zone/8778/the-u-s-navy-tried-to-turn-whale-songs-into-secret-code
 Comments URL: https://news.ycombinator.com/item?id=27684254
 Points: 26
-# Comments: 4]]></summary>
+# Comments: 6]]></summary>
         <author>
             <name>tintinnabula</name>
         </author>
@@ -91,8 +104,8 @@ Points: 26
         <updated>2021-06-30T02:21:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.boxabl.com/
 Comments URL: https://news.ycombinator.com/item?id=27684191
-Points: 117
-# Comments: 102]]></summary>
+Points: 147
+# Comments: 119]]></summary>
         <author>
             <name>yehudabrick</name>
         </author>
@@ -104,7 +117,7 @@ Points: 117
         <updated>2021-06-30T01:43:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/mhadidg/software-architecture-books
 Comments URL: https://news.ycombinator.com/item?id=27683966
-Points: 152
+Points: 166
 # Comments: 35]]></summary>
         <author>
             <name>axiomdata316</name>
@@ -117,8 +130,8 @@ Points: 152
         <updated>2021-06-30T01:01:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions
 Comments URL: https://news.ycombinator.com/item?id=27683738
-Points: 160
-# Comments: 102]]></summary>
+Points: 167
+# Comments: 111]]></summary>
         <author>
             <name>zathan</name>
         </author>
@@ -130,23 +143,10 @@ Points: 160
         <updated>2021-06-29T23:25:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame
 Comments URL: https://news.ycombinator.com/item?id=27683059
-Points: 62
-# Comments: 26]]></summary>
+Points: 70
+# Comments: 29]]></summary>
         <author>
             <name>noway421</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reviving extinct species may soon be possible]]></title>
-        <id>https://news.ycombinator.com/item?id=27682809</id>
-        <link href="https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible"/>
-        <updated>2021-06-29T22:53:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible
-Comments URL: https://news.ycombinator.com/item?id=27682809
-Points: 27
-# Comments: 53]]></summary>
-        <author>
-            <name>edward</name>
         </author>
     </entry>
     <entry>
@@ -156,8 +156,8 @@ Points: 27
         <updated>2021-06-29T22:48:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://edwardsnowden.substack.com/p/conspiracy-pt1
 Comments URL: https://news.ycombinator.com/item?id=27682763
-Points: 196
-# Comments: 69]]></summary>
+Points: 222
+# Comments: 77]]></summary>
         <author>
             <name>yellow_lead</name>
         </author>
@@ -184,8 +184,8 @@ The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks
         <updated>2021-06-29T22:37:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform
 Comments URL: https://news.ycombinator.com/item?id=27682657
-Points: 153
-# Comments: 49]]></summary>
+Points: 166
+# Comments: 59]]></summary>
         <author>
             <name>afrcnc</name>
         </author>
@@ -197,8 +197,8 @@ Points: 153
         <updated>2021-06-29T22:18:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/AsamK/signal-cli
 Comments URL: https://news.ycombinator.com/item?id=27682490
-Points: 118
-# Comments: 44]]></summary>
+Points: 126
+# Comments: 48]]></summary>
         <author>
             <name>janekg</name>
         </author>
@@ -210,8 +210,8 @@ Points: 118
         <updated>2021-06-29T22:10:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/
 Comments URL: https://news.ycombinator.com/item?id=27682432
-Points: 204
-# Comments: 109]]></summary>
+Points: 216
+# Comments: 113]]></summary>
         <author>
             <name>lucis</name>
         </author>
@@ -223,8 +223,8 @@ Points: 204
         <updated>2021-06-29T21:55:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ribbonfarm.com/2021/06/17/storytelling-mamets-conflict-airing-theory/
 Comments URL: https://news.ycombinator.com/item?id=27682249
-Points: 35
-# Comments: 2]]></summary>
+Points: 38
+# Comments: 3]]></summary>
         <author>
             <name>jger15</name>
         </author>
@@ -236,8 +236,8 @@ Points: 35
         <updated>2021-06-29T21:45:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://asiatimes.com/2021/06/hk-media-erase-their-archives-amid-rising-arrests/
 Comments URL: https://news.ycombinator.com/item?id=27682109
-Points: 248
-# Comments: 120]]></summary>
+Points: 264
+# Comments: 149]]></summary>
         <author>
             <name>tomohawk</name>
         </author>
@@ -249,7 +249,7 @@ Points: 248
         <updated>2021-06-29T21:44:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php
 Comments URL: https://news.ycombinator.com/item?id=27682103
-Points: 26
+Points: 29
 # Comments: 1]]></summary>
         <author>
             <name>wormold</name>
@@ -275,8 +275,8 @@ Points: 1
         <updated>2021-06-29T20:38:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt
 Comments URL: https://news.ycombinator.com/item?id=27681418
-Points: 266
-# Comments: 91]]></summary>
+Points: 284
+# Comments: 92]]></summary>
         <author>
             <name>jseliger</name>
         </author>
