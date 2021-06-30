@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T19:09:18.048Z</updated>
+    <updated>2021-06-30T20:11:39.323Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -17,42 +17,16 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snowflake Is Down Globally]]></title>
-        <id>https://news.ycombinator.com/item?id=27691997</id>
-        <link href="https://status.snowflake.com/"/>
-        <updated>2021-06-30T18:35:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://status.snowflake.com/
-Comments URL: https://news.ycombinator.com/item?id=27691997
-Points: 32
-# Comments: 1]]></summary>
-        <author>
-            <name>bpodgursky</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Move fast, but understand the problem first]]></title>
         <id>https://news.ycombinator.com/item?id=27691586</id>
         <link href="https://jacobobryant.com/blog/understand/"/>
         <updated>2021-06-30T17:59:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jacobobryant.com/blog/understand/
 Comments URL: https://news.ycombinator.com/item?id=27691586
-Points: 24
-# Comments: 0]]></summary>
+Points: 67
+# Comments: 13]]></summary>
         <author>
             <name>d4rkp4ttern</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We're Levels.fyi, the most accurate resource for tech salaries, ask us anything]]></title>
-        <id>https://news.ycombinator.com/item?id=27691098</id>
-        <link href="https://tldr.tech/ama/levels-fyi"/>
-        <updated>2021-06-30T17:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tldr.tech/ama/levels-fyi
-Comments URL: https://news.ycombinator.com/item?id=27691098
-Points: 62
-# Comments: 52]]></summary>
-        <author>
-            <name>danni</name>
         </author>
     </entry>
     <entry>
@@ -62,14 +36,14 @@ Points: 62
         <updated>2021-06-30T17:08:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fly.io/blog/globally-distributed-postgres/
 Comments URL: https://news.ycombinator.com/item?id=27690950
-Points: 31
-# Comments: 5]]></summary>
+Points: 92
+# Comments: 26]]></summary>
         <author>
             <name>woodrow</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[QuestDB Is Hiring a Front End Engineer (React)]]></title>
+        <title type="html"><![CDATA[QuestDB (YC S20) Is Hiring a Front End Engineer (React)]]></title>
         <id>https://news.ycombinator.com/item?id=27690843</id>
         <link href="https://questdb.io/careers/front-end-engineer/"/>
         <updated>2021-06-30T17:00:51.000Z</updated>
@@ -88,8 +62,8 @@ Points: 1
         <updated>2021-06-30T16:52:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://meltano.com/blog/2021/06/30/meltano-spins-out-of-gitlab-raises-seed-round/
 Comments URL: https://news.ycombinator.com/item?id=27690763
-Points: 23
-# Comments: 6]]></summary>
+Points: 29
+# Comments: 7]]></summary>
         <author>
             <name>visch</name>
         </author>
@@ -101,8 +75,8 @@ Points: 23
         <updated>2021-06-30T16:39:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/shichinomiya_s/status/1409891589707636741
 Comments URL: https://news.ycombinator.com/item?id=27690622
-Points: 36
-# Comments: 20]]></summary>
+Points: 54
+# Comments: 28]]></summary>
         <author>
             <name>murkle</name>
         </author>
@@ -114,10 +88,23 @@ Points: 36
         <updated>2021-06-30T16:36:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc
 Comments URL: https://news.ycombinator.com/item?id=27690587
-Points: 261
-# Comments: 95]]></summary>
+Points: 358
+# Comments: 139]]></summary>
         <author>
             <name>samizdis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack launches Huddles, Discord-like audio calls you can hop in and out of]]></title>
+        <id>https://news.ycombinator.com/item?id=27690570</id>
+        <link href="https://www.theverge.com/2021/6/30/22556992/slack-huddles-audio-calls-feature-launch-discord-like"/>
+        <updated>2021-06-30T16:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/30/22556992/slack-huddles-audio-calls-feature-launch-discord-like
+Comments URL: https://news.ycombinator.com/item?id=27690570
+Points: 49
+# Comments: 14]]></summary>
+        <author>
+            <name>Garbage</name>
         </author>
     </entry>
     <entry>
@@ -127,34 +114,34 @@ Points: 261
         <updated>2021-06-30T16:33:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/
 Comments URL: https://news.ycombinator.com/item?id=27690543
-Points: 120
-# Comments: 94]]></summary>
+Points: 166
+# Comments: 113]]></summary>
         <author>
             <name>MikeDelta</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everything We Know About 1970s Mainframe RPGs We Can No Longer Play]]></title>
+        <title type="html"><![CDATA[1970s mainframe RPGs we can no longer play]]></title>
         <id>https://news.ycombinator.com/item?id=27690504</id>
         <link href="http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html"/>
         <updated>2021-06-30T16:30:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html
 Comments URL: https://news.ycombinator.com/item?id=27690504
-Points: 81
-# Comments: 17]]></summary>
+Points: 126
+# Comments: 25]]></summary>
         <author>
             <name>Tomte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: An Interactive Visual History of Git Development]]></title>
+        <title type="html"><![CDATA[Show HN: An interactive visual history of Git development]]></title>
         <id>https://news.ycombinator.com/item?id=27689664</id>
         <link href="https://git-history.jpalmer.dev/"/>
         <updated>2021-06-30T15:24:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://git-history.jpalmer.dev/
 Comments URL: https://news.ycombinator.com/item?id=27689664
-Points: 59
-# Comments: 12]]></summary>
+Points: 70
+# Comments: 14]]></summary>
         <author>
             <name>jwpalmer6</name>
         </author>
@@ -208,23 +195,36 @@ The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You c
         <updated>2021-06-30T13:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://principles.dev/
 Comments URL: https://news.ycombinator.com/item?id=27688612
-Points: 181
-# Comments: 40]]></summary>
+Points: 212
+# Comments: 51]]></summary>
         <author>
             <name>_wp_</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Treat Kubernetes Clusters as Cattle, Not Pets]]></title>
+        <title type="html"><![CDATA[Treat Kubernetes clusters as cattle, not pets]]></title>
         <id>https://news.ycombinator.com/item?id=27688203</id>
         <link href="https://zitadel.ch/blog/treat-clusters-as-cattle/"/>
         <updated>2021-06-30T13:24:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zitadel.ch/blog/treat-clusters-as-cattle/
 Comments URL: https://news.ycombinator.com/item?id=27688203
-Points: 58
-# Comments: 42]]></summary>
+Points: 71
+# Comments: 56]]></summary>
         <author>
             <name>mffap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link rot and content drift are endemic to the web]]></title>
+        <id>https://news.ycombinator.com/item?id=27688090</id>
+        <link href="https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/"/>
+        <updated>2021-06-30T13:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
+Comments URL: https://news.ycombinator.com/item?id=27688090
+Points: 174
+# Comments: 125]]></summary>
+        <author>
+            <name>timmytokyo</name>
         </author>
     </entry>
     <entry>
@@ -234,8 +234,8 @@ Points: 58
         <updated>2021-06-30T12:56:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nicholasreese.com/lessons-from-building-a-static-site-generator/
 Comments URL: https://news.ycombinator.com/item?id=27687899
-Points: 68
-# Comments: 36]]></summary>
+Points: 76
+# Comments: 38]]></summary>
         <author>
             <name>ramshorst</name>
         </author>
@@ -247,8 +247,8 @@ Points: 68
         <updated>2021-06-30T12:44:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/black-hat-exploits-of-the-stupid
 Comments URL: https://news.ycombinator.com/item?id=27687775
-Points: 97
-# Comments: 46]]></summary>
+Points: 117
+# Comments: 49]]></summary>
         <author>
             <name>mad_ned</name>
         </author>
@@ -260,8 +260,8 @@ Points: 97
         <updated>2021-06-30T12:25:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html
 Comments URL: https://news.ycombinator.com/item?id=27687617
-Points: 255
-# Comments: 343]]></summary>
+Points: 280
+# Comments: 378]]></summary>
         <author>
             <name>remt</name>
         </author>
@@ -273,8 +273,8 @@ Points: 255
         <updated>2021-06-30T12:00:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/eevee/status/1410037309848752128
 Comments URL: https://news.ycombinator.com/item?id=27687450
-Points: 658
-# Comments: 302]]></summary>
+Points: 726
+# Comments: 329]]></summary>
         <author>
             <name>agomez314</name>
         </author>
@@ -296,8 +296,8 @@ Points: 658
         <updated>2021-06-30T11:29:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jacobian.org/2021/may/20/estimation/
 Comments URL: https://news.ycombinator.com/item?id=27687265
-Points: 250
-# Comments: 149]]></summary>
+Points: 274
+# Comments: 166]]></summary>
         <author>
             <name>vortex_ape</name>
         </author>
@@ -309,8 +309,8 @@ Points: 250
         <updated>2021-06-30T10:47:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1409576956828405760
 Comments URL: https://news.ycombinator.com/item?id=27687034
-Points: 551
-# Comments: 376]]></summary>
+Points: 566
+# Comments: 387]]></summary>
         <author>
             <name>gone35</name>
         </author>
@@ -322,8 +322,8 @@ Points: 551
         <updated>2021-06-30T10:14:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/
 Comments URL: https://news.ycombinator.com/item?id=27686818
-Points: 175
-# Comments: 42]]></summary>
+Points: 186
+# Comments: 43]]></summary>
         <author>
             <name>fagnerbrack</name>
         </author>
