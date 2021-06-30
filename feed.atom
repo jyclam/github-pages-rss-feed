@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T21:11:14.001Z</updated>
+    <updated>2021-06-30T22:11:20.149Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Mux (YC W16) is hiring full-stack developers to focus on Elixir and TypeScript]]></title>
-        <id>https://news.ycombinator.com/item?id=27693378</id>
-        <link href="https://mux.com/jobs?hnj=full-stack"/>
-        <updated>2021-06-30T21:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mux.com/jobs?hnj=full-stack
-Comments URL: https://news.ycombinator.com/item?id=27693378
+        <title type="html"><![CDATA[Tesorio (YC S15) Is Hiring – Join Our 100% Distributed Fintech Team]]></title>
+        <id>https://news.ycombinator.com/item?id=27693808</id>
+        <link href="https://www.tesorio.com/careers#job-openings"/>
+        <updated>2021-06-30T21:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tesorio.com/careers#job-openings
+Comments URL: https://news.ycombinator.com/item?id=27693808
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>mmcclure</name>
+            <name>FabioFleitas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asking Developers to Do QA Is Broken. Here’s Why Anyone Should Own QA]]></title>
+        <id>https://news.ycombinator.com/item?id=27693744</id>
+        <link href="https://www.rainforestqa.com/blog/accessible-quality"/>
+        <updated>2021-06-30T21:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.rainforestqa.com/blog/accessible-quality
+Comments URL: https://news.ycombinator.com/item?id=27693744
+Points: 20
+# Comments: 9]]></summary>
+        <author>
+            <name>ukd1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat dome causing record breaking heat wave]]></title>
+        <id>https://news.ycombinator.com/item?id=27693387</id>
+        <link href="https://www.severe-weather.eu/global-weather/heat-dome-record-breaking-heatwave-pacific-northwest-canada-united-states-mk/"/>
+        <updated>2021-06-30T21:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.severe-weather.eu/global-weather/heat-dome-record-breaking-heatwave-pacific-northwest-canada-united-states-mk/
+Comments URL: https://news.ycombinator.com/item?id=27693387
+Points: 94
+# Comments: 54]]></summary>
+        <author>
+            <name>goesup12</name>
         </author>
     </entry>
     <entry>
@@ -24,10 +50,23 @@ Points: 1
         <id>https://css-tricks.com/?p=343224</id>
         <link href="https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/"/>
         <updated>2021-06-30T20:36:52.000Z</updated>
-        <summary type="html"><![CDATA[I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these day. Plus we can sprinkle in polish …
+        <summary type="html"><![CDATA[I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …
 The post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breakthrough in 3D scanning means results are 4500% more accurate]]></title>
+        <id>https://news.ycombinator.com/item?id=27693136</id>
+        <link href="https://www.lboro.ac.uk/media-centre/press-releases/2021/june/3d-scanning-results-are-4500-percent-more-precise/"/>
+        <updated>2021-06-30T20:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.lboro.ac.uk/media-centre/press-releases/2021/june/3d-scanning-results-are-4500-percent-more-precise/
+Comments URL: https://news.ycombinator.com/item?id=27693136
+Points: 28
+# Comments: 9]]></summary>
+        <author>
+            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -37,23 +76,10 @@ The post How do you make a layout with pictures down one side of a page matched 
         <updated>2021-06-30T20:26:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/
 Comments URL: https://news.ycombinator.com/item?id=27693065
-Points: 14
-# Comments: 4]]></summary>
+Points: 36
+# Comments: 16]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM's 18-month company-wide email migration has been a disaster, sources say]]></title>
-        <id>https://news.ycombinator.com/item?id=27692965</id>
-        <link href="https://www.theregister.com/2021/06/30/ibm_email_outage/"/>
-        <updated>2021-06-30T20:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/30/ibm_email_outage/
-Comments URL: https://news.ycombinator.com/item?id=27692965
-Points: 44
-# Comments: 30]]></summary>
-        <author>
-            <name>Dotnaught</name>
         </author>
     </entry>
     <entry>
@@ -73,8 +99,8 @@ Points: 44
         <updated>2021-06-30T17:59:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jacobobryant.com/blog/understand/
 Comments URL: https://news.ycombinator.com/item?id=27691586
-Points: 116
-# Comments: 23]]></summary>
+Points: 148
+# Comments: 30]]></summary>
         <author>
             <name>d4rkp4ttern</name>
         </author>
@@ -86,8 +112,8 @@ Points: 116
         <updated>2021-06-30T17:08:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fly.io/blog/globally-distributed-postgres/
 Comments URL: https://news.ycombinator.com/item?id=27690950
-Points: 124
-# Comments: 43]]></summary>
+Points: 150
+# Comments: 54]]></summary>
         <author>
             <name>woodrow</name>
         </author>
@@ -99,8 +125,8 @@ Points: 124
         <updated>2021-06-30T16:52:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://meltano.com/blog/2021/06/30/meltano-spins-out-of-gitlab-raises-seed-round/
 Comments URL: https://news.ycombinator.com/item?id=27690763
-Points: 38
-# Comments: 8]]></summary>
+Points: 45
+# Comments: 10]]></summary>
         <author>
             <name>visch</name>
         </author>
@@ -112,8 +138,8 @@ Points: 38
         <updated>2021-06-30T16:36:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc
 Comments URL: https://news.ycombinator.com/item?id=27690587
-Points: 441
-# Comments: 180]]></summary>
+Points: 500
+# Comments: 210]]></summary>
         <author>
             <name>samizdis</name>
         </author>
@@ -125,8 +151,8 @@ Points: 441
         <updated>2021-06-30T16:33:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/
 Comments URL: https://news.ycombinator.com/item?id=27690543
-Points: 196
-# Comments: 130]]></summary>
+Points: 213
+# Comments: 155]]></summary>
         <author>
             <name>MikeDelta</name>
         </author>
@@ -138,8 +164,8 @@ Points: 196
         <updated>2021-06-30T16:30:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html
 Comments URL: https://news.ycombinator.com/item?id=27690504
-Points: 165
-# Comments: 39]]></summary>
+Points: 178
+# Comments: 45]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -151,7 +177,7 @@ Points: 165
         <updated>2021-06-30T15:24:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://git-history.jpalmer.dev/
 Comments URL: https://news.ycombinator.com/item?id=27689664
-Points: 81
+Points: 89
 # Comments: 16]]></summary>
         <author>
             <name>jwpalmer6</name>
@@ -206,8 +232,8 @@ The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You c
         <updated>2021-06-30T13:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://principles.dev/
 Comments URL: https://news.ycombinator.com/item?id=27688612
-Points: 234
-# Comments: 59]]></summary>
+Points: 252
+# Comments: 69]]></summary>
         <author>
             <name>_wp_</name>
         </author>
@@ -219,8 +245,8 @@ Points: 234
         <updated>2021-06-30T13:24:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zitadel.ch/blog/treat-clusters-as-cattle/
 Comments URL: https://news.ycombinator.com/item?id=27688203
-Points: 88
-# Comments: 67]]></summary>
+Points: 100
+# Comments: 78]]></summary>
         <author>
             <name>mffap</name>
         </author>
@@ -232,8 +258,8 @@ Points: 88
         <updated>2021-06-30T13:15:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
 Comments URL: https://news.ycombinator.com/item?id=27688090
-Points: 184
-# Comments: 142]]></summary>
+Points: 194
+# Comments: 148]]></summary>
         <author>
             <name>timmytokyo</name>
         </author>
@@ -245,8 +271,8 @@ Points: 184
         <updated>2021-06-30T13:13:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.leapp.cloud/
 Comments URL: https://news.ycombinator.com/item?id=27688062
-Points: 9
-# Comments: 1]]></summary>
+Points: 14
+# Comments: 3]]></summary>
         <author>
             <name>andreacavagna</name>
         </author>
@@ -258,8 +284,8 @@ Points: 9
         <updated>2021-06-30T12:56:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nicholasreese.com/lessons-from-building-a-static-site-generator/
 Comments URL: https://news.ycombinator.com/item?id=27687899
-Points: 78
-# Comments: 41]]></summary>
+Points: 80
+# Comments: 44]]></summary>
         <author>
             <name>ramshorst</name>
         </author>
@@ -271,23 +297,10 @@ Points: 78
         <updated>2021-06-30T12:44:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/black-hat-exploits-of-the-stupid
 Comments URL: https://news.ycombinator.com/item?id=27687775
-Points: 130
+Points: 138
 # Comments: 57]]></summary>
         <author>
             <name>mad_ned</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Great Resignation’ gains steam as return-to-work plans take effect]]></title>
-        <id>https://news.ycombinator.com/item?id=27687617</id>
-        <link href="https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html"/>
-        <updated>2021-06-30T12:25:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html
-Comments URL: https://news.ycombinator.com/item?id=27687617
-Points: 305
-# Comments: 407]]></summary>
-        <author>
-            <name>remt</name>
         </author>
     </entry>
     <entry>
@@ -297,8 +310,8 @@ Points: 305
         <updated>2021-06-30T12:00:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/eevee/status/1410037309848752128
 Comments URL: https://news.ycombinator.com/item?id=27687450
-Points: 785
-# Comments: 347]]></summary>
+Points: 836
+# Comments: 364]]></summary>
         <author>
             <name>agomez314</name>
         </author>
@@ -320,23 +333,10 @@ Points: 785
         <updated>2021-06-30T11:29:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jacobian.org/2021/may/20/estimation/
 Comments URL: https://news.ycombinator.com/item?id=27687265
-Points: 292
-# Comments: 170]]></summary>
+Points: 309
+# Comments: 187]]></summary>
         <author>
             <name>vortex_ape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Philosophy of Software Design (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27686818</id>
-        <link href="https://johz.bearblog.dev/book-review-philosophy-software-design/"/>
-        <updated>2021-06-30T10:14:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/
-Comments URL: https://news.ycombinator.com/item?id=27686818
-Points: 194
-# Comments: 45]]></summary>
-        <author>
-            <name>fagnerbrack</name>
         </author>
     </entry>
     <entry>
