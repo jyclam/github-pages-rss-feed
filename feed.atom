@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T12:18:53.543Z</updated>
+    <updated>2021-07-01T13:17:44.042Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -20,16 +20,29 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Duolingo S-1]]></title>
-        <id>https://news.ycombinator.com/item?id=27697905</id>
-        <link href="https://sec.report/Document/0001628280-21-013065/"/>
-        <updated>2021-07-01T10:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sec.report/Document/0001628280-21-013065/
-Comments URL: https://news.ycombinator.com/item?id=27697905
-Points: 12
-# Comments: 7]]></summary>
+        <title type="html"><![CDATA[Hash maps that don't hate you]]></title>
+        <id>https://news.ycombinator.com/item?id=27698059</id>
+        <link href="https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a"/>
+        <updated>2021-07-01T11:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a
+Comments URL: https://news.ycombinator.com/item?id=27698059
+Points: 7
+# Comments: 0]]></summary>
         <author>
-            <name>maluta</name>
+            <name>eatonphil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The YouTube revolution in knowledge transfer (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27697973</id>
+        <link href="https://samoburja.com/the-youtube-revolution-in-knowledge-transfer/"/>
+        <updated>2021-07-01T11:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://samoburja.com/the-youtube-revolution-in-knowledge-transfer/
+Comments URL: https://news.ycombinator.com/item?id=27697973
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>kozak</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +52,8 @@ Points: 12
         <updated>2021-07-01T10:42:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jakearchibald.com/2021/encoding-data-for-post-requests/
 Comments URL: https://news.ycombinator.com/item?id=27697884
-Points: 102
-# Comments: 64]]></summary>
+Points: 165
+# Comments: 163]]></summary>
         <author>
             <name>jaffathecake</name>
         </author>
@@ -52,8 +65,8 @@ Points: 102
         <updated>2021-07-01T08:22:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/JesseDrain/Less-Addictive-YouTube
 Comments URL: https://news.ycombinator.com/item?id=27697286
-Points: 27
-# Comments: 13]]></summary>
+Points: 37
+# Comments: 19]]></summary>
         <author>
             <name>jessedrain</name>
         </author>
@@ -65,8 +78,8 @@ Points: 27
         <updated>2021-07-01T07:58:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.09799
 Comments URL: https://news.ycombinator.com/item?id=27697191
-Points: 64
-# Comments: 13]]></summary>
+Points: 76
+# Comments: 16]]></summary>
         <author>
             <name>mpweiher</name>
         </author>
@@ -78,8 +91,8 @@ Points: 64
         <updated>2021-07-01T07:54:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://duarteocarmo.com/blog/tale-online-scammer-python
 Comments URL: https://news.ycombinator.com/item?id=27697180
-Points: 49
-# Comments: 22]]></summary>
+Points: 60
+# Comments: 26]]></summary>
         <author>
             <name>stanislavb</name>
         </author>
@@ -91,7 +104,7 @@ Points: 49
         <updated>2021-07-01T06:58:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://danlebrero.com/2021/06/30/cto-dairy-lucky-lotto-chaos-engineering-for-teams/
 Comments URL: https://news.ycombinator.com/item?id=27696949
-Points: 74
+Points: 82
 # Comments: 18]]></summary>
         <author>
             <name>delebe</name>
@@ -104,8 +117,8 @@ Points: 74
         <updated>2021-07-01T06:23:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/hawkings-black-hole-theorem-confirm-0701
 Comments URL: https://news.ycombinator.com/item?id=27696774
-Points: 87
-# Comments: 29]]></summary>
+Points: 96
+# Comments: 33]]></summary>
         <author>
             <name>_Microft</name>
         </author>
@@ -117,8 +130,8 @@ Points: 87
         <updated>2021-07-01T06:16:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.retroreversing.com/official-playStation-devkit
 Comments URL: https://news.ycombinator.com/item?id=27696739
-Points: 188
-# Comments: 24]]></summary>
+Points: 214
+# Comments: 31]]></summary>
         <author>
             <name>pjmlp</name>
         </author>
@@ -130,8 +143,8 @@ Points: 188
         <updated>2021-07-01T05:01:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/news/q-and-a/the-collapse-of-american-identity
 Comments URL: https://news.ycombinator.com/item?id=27696389
-Points: 21
-# Comments: 11]]></summary>
+Points: 35
+# Comments: 33]]></summary>
         <author>
             <name>mitchbob</name>
         </author>
@@ -143,8 +156,8 @@ Points: 21
         <updated>2021-07-01T04:28:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning
 Comments URL: https://news.ycombinator.com/item?id=27696267
-Points: 80
-# Comments: 56]]></summary>
+Points: 89
+# Comments: 62]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -156,8 +169,8 @@ Points: 80
         <updated>2021-07-01T03:41:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dynomight.net/alcohol/
 Comments URL: https://news.ycombinator.com/item?id=27696055
-Points: 90
-# Comments: 62]]></summary>
+Points: 95
+# Comments: 73]]></summary>
         <author>
             <name>spekcular</name>
         </author>
@@ -169,7 +182,7 @@ Points: 90
         <updated>2021-07-01T02:14:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/
 Comments URL: https://news.ycombinator.com/item?id=27695661
-Points: 108
+Points: 118
 # Comments: 6]]></summary>
         <author>
             <name>nagimov</name>
@@ -182,8 +195,8 @@ Points: 108
         <updated>2021-07-01T01:57:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.microprediction.com/blog/prophet
 Comments URL: https://news.ycombinator.com/item?id=27695574
-Points: 150
-# Comments: 43]]></summary>
+Points: 161
+# Comments: 51]]></summary>
         <author>
             <name>cton</name>
         </author>
@@ -195,8 +208,8 @@ Points: 150
         <updated>2021-07-01T01:35:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://otter-browser.org
 Comments URL: https://news.ycombinator.com/item?id=27695463
-Points: 131
-# Comments: 69]]></summary>
+Points: 136
+# Comments: 73]]></summary>
         <author>
             <name>niedzielski</name>
         </author>
@@ -208,10 +221,23 @@ Points: 131
         <updated>2021-07-01T00:43:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://simonsarris.substack.com/p/the-most-precious-resource-is-agency
 Comments URL: https://news.ycombinator.com/item?id=27695181
-Points: 422
-# Comments: 172]]></summary>
+Points: 449
+# Comments: 186]]></summary>
         <author>
             <name>simonsarris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A study of musical scales (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27694827</id>
+        <link href="https://ianring.com/musictheory/scales/"/>
+        <updated>2021-06-30T23:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ianring.com/musictheory/scales/
+Comments URL: https://news.ycombinator.com/item?id=27694827
+Points: 35
+# Comments: 36]]></summary>
+        <author>
+            <name>andai</name>
         </author>
     </entry>
     <entry>
@@ -221,23 +247,10 @@ Points: 422
         <updated>2021-06-30T23:00:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sparkfun.com/news/3917
 Comments URL: https://news.ycombinator.com/item?id=27694537
-Points: 629
-# Comments: 127]]></summary>
+Points: 655
+# Comments: 135]]></summary>
         <author>
             <name>mkeeter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asking developers to do QA is broken – why anyone should own QA]]></title>
-        <id>https://news.ycombinator.com/item?id=27693744</id>
-        <link href="https://www.rainforestqa.com/blog/accessible-quality"/>
-        <updated>2021-06-30T21:45:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.rainforestqa.com/blog/accessible-quality
-Comments URL: https://news.ycombinator.com/item?id=27693744
-Points: 169
-# Comments: 156]]></summary>
-        <author>
-            <name>ukd1</name>
         </author>
     </entry>
     <entry>
@@ -247,8 +260,8 @@ Points: 169
         <updated>2021-06-30T20:40:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nickwritesablog.com/functional-declarative-audio-applications/
 Comments URL: https://news.ycombinator.com/item?id=27693198
-Points: 45
-# Comments: 20]]></summary>
+Points: 47
+# Comments: 24]]></summary>
         <author>
             <name>trypwire</name>
         </author>
@@ -262,19 +275,6 @@ Points: 45
 The post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 1982 chess computer plays itself by mechanically moving the pieces [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27692179</id>
-        <link href="https://www.youtube.com/watch?v=UxLd_wiGMA4"/>
-        <updated>2021-06-30T18:53:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=UxLd_wiGMA4
-Comments URL: https://news.ycombinator.com/item?id=27692179
-Points: 58
-# Comments: 20]]></summary>
-        <author>
-            <name>DavidSJ</name>
         </author>
     </entry>
     <entry>
