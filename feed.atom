@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T13:17:44.042Z</updated>
+    <updated>2021-07-01T14:10:29.920Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Secret Recordings Reveal How Exxon Lobbyists Manipulate Politicians and Public]]></title>
+        <id>https://news.ycombinator.com/item?id=27698751</id>
+        <link href="https://gizmodo.com/exxon-lobbyists-reveal-in-secret-recordings-how-they-ma-1847205392"/>
+        <updated>2021-07-01T13:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gizmodo.com/exxon-lobbyists-reveal-in-secret-recordings-how-they-ma-1847205392
+Comments URL: https://news.ycombinator.com/item?id=27698751
+Points: 94
+# Comments: 13]]></summary>
+        <author>
+            <name>DoubleDerper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carrier injecting ads into SMS '2FA' texts]]></title>
+        <id>https://news.ycombinator.com/item?id=27698607</id>
+        <link href="https://9to5google.com/2021/06/29/google-verification-code-sms-ad/"/>
+        <updated>2021-07-01T12:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://9to5google.com/2021/06/29/google-verification-code-sms-ad/
+Comments URL: https://news.ycombinator.com/item?id=27698607
+Points: 30
+# Comments: 19]]></summary>
+        <author>
+            <name>exabrial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
+        <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
+        <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
+        <updated>2021-07-01T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. In sum, they can lead to lousy maintainability, slow execution time, and — in the worst case — tests you cannot trust. But it doesn’t have to be that way. In this article, I will talk about common mistakes developers make, at least in my experience, and, of course, how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: VisaWhen – Data on US visa issuance backlogs]]></title>
+        <id>https://news.ycombinator.com/item?id=27698322</id>
+        <link href="https://news.ycombinator.com/item?id=27698322"/>
+        <updated>2021-07-01T12:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Heya! Not the usual sort of thing to be posted here, but I wanted to show off what I made yesterday. Here's a sample page about H1-B visas issued in Bogota:
+
+The code is source-available (not open source) at 
+. It's my first time choosing a source-available license over MIT, mainly out of fear of existing immigration startups just gobbling this data and code up; frankly I didn't think the implications through though, I just threw a safe license on there.
+The way the project works is:
+- Use requests-html to find publicly available PDFs from government pages
+- Use camelot to OCR the PDFs and extract data tables from them
+- Since the previous step takes crazy long for my tastes (around 8000 pages at around 5 seconds each) I've used dask to split the work into chunks and parallel-process them across my laptop's CPUs.
+- Do data cleanup and processing with pandas, and save all of it to a SQLite file.
+- Take data from the SQLite file with next.js and generate a static HTML page for each possible embassy - visa type combination
+- The pages use ECharts to visualize data, and Bulma as a CSS framework
+- Build and host each commit via Netlify
+- But proxy to Netlify from CloudFlare, which I believe has more edge locations in the free plan
+- Collect any donations via Ko-Fi
+- Use Google Analytics to have a general idea about visitor counts
+- Use FullStory session recordings to find out about bugs – I've fixed quite a few and I think I'll probably remove this tracking after a bit of time
+…and that's where I'm at now. I'm pretty happy about the results. Most pages load in less than 300ms, which is something I care about all too much. More importantly, I've shared the site with some immigration communities I'm part of, and the response has been very positive! Let me know what y'all think.
+Comments URL: https://news.ycombinator.com/item?id=27698322
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>underyx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rally (YC S20) Is Hiring a Full Stack Engineer/Future CTO]]></title>
         <id>https://news.ycombinator.com/item?id=27698236</id>
@@ -26,8 +91,8 @@ Points: 1
         <updated>2021-07-01T11:21:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a
 Comments URL: https://news.ycombinator.com/item?id=27698059
-Points: 7
-# Comments: 0]]></summary>
+Points: 26
+# Comments: 7]]></summary>
         <author>
             <name>eatonphil</name>
         </author>
@@ -39,8 +104,8 @@ Points: 7
         <updated>2021-07-01T11:03:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://samoburja.com/the-youtube-revolution-in-knowledge-transfer/
 Comments URL: https://news.ycombinator.com/item?id=27697973
-Points: 4
-# Comments: 0]]></summary>
+Points: 24
+# Comments: 9]]></summary>
         <author>
             <name>kozak</name>
         </author>
@@ -52,8 +117,8 @@ Points: 4
         <updated>2021-07-01T10:42:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jakearchibald.com/2021/encoding-data-for-post-requests/
 Comments URL: https://news.ycombinator.com/item?id=27697884
-Points: 165
-# Comments: 163]]></summary>
+Points: 203
+# Comments: 200]]></summary>
         <author>
             <name>jaffathecake</name>
         </author>
@@ -65,8 +130,8 @@ Points: 165
         <updated>2021-07-01T08:22:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/JesseDrain/Less-Addictive-YouTube
 Comments URL: https://news.ycombinator.com/item?id=27697286
-Points: 37
-# Comments: 19]]></summary>
+Points: 60
+# Comments: 22]]></summary>
         <author>
             <name>jessedrain</name>
         </author>
@@ -78,8 +143,8 @@ Points: 37
         <updated>2021-07-01T07:58:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.09799
 Comments URL: https://news.ycombinator.com/item?id=27697191
-Points: 76
-# Comments: 16]]></summary>
+Points: 89
+# Comments: 22]]></summary>
         <author>
             <name>mpweiher</name>
         </author>
@@ -91,8 +156,8 @@ Points: 76
         <updated>2021-07-01T07:54:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://duarteocarmo.com/blog/tale-online-scammer-python
 Comments URL: https://news.ycombinator.com/item?id=27697180
-Points: 60
-# Comments: 26]]></summary>
+Points: 68
+# Comments: 41]]></summary>
         <author>
             <name>stanislavb</name>
         </author>
@@ -104,8 +169,8 @@ Points: 60
         <updated>2021-07-01T06:58:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://danlebrero.com/2021/06/30/cto-dairy-lucky-lotto-chaos-engineering-for-teams/
 Comments URL: https://news.ycombinator.com/item?id=27696949
-Points: 82
-# Comments: 18]]></summary>
+Points: 87
+# Comments: 23]]></summary>
         <author>
             <name>delebe</name>
         </author>
@@ -117,8 +182,8 @@ Points: 82
         <updated>2021-07-01T06:23:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/hawkings-black-hole-theorem-confirm-0701
 Comments URL: https://news.ycombinator.com/item?id=27696774
-Points: 96
-# Comments: 33]]></summary>
+Points: 118
+# Comments: 40]]></summary>
         <author>
             <name>_Microft</name>
         </author>
@@ -130,34 +195,31 @@ Points: 96
         <updated>2021-07-01T06:16:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.retroreversing.com/official-playStation-devkit
 Comments URL: https://news.ycombinator.com/item?id=27696739
-Points: 214
-# Comments: 31]]></summary>
+Points: 242
+# Comments: 33]]></summary>
         <author>
             <name>pjmlp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Collapse of American Identity]]></title>
-        <id>https://news.ycombinator.com/item?id=27696389</id>
-        <link href="https://www.newyorker.com/news/q-and-a/the-collapse-of-american-identity"/>
-        <updated>2021-07-01T05:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/news/q-and-a/the-collapse-of-american-identity
-Comments URL: https://news.ycombinator.com/item?id=27696389
-Points: 35
-# Comments: 33]]></summary>
+        <title type="html"><![CDATA[The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It]]></title>
+        <id>60dc78e927f80207bcdbbddc</id>
+        <link href="https://www.freecodecamp.org/news/2021-new-coder-survey/"/>
+        <updated>2021-07-01T04:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled]]></summary>
         <author>
-            <name>mitchbob</name>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Download Speeds: What Do 2G, 3G, 4G and 5G Mean]]></title>
+        <title type="html"><![CDATA[Download speeds: What Do 2G, 3G, 4G and 5G mean?]]></title>
         <id>https://news.ycombinator.com/item?id=27696267</id>
         <link href="https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning"/>
         <updated>2021-07-01T04:28:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning
 Comments URL: https://news.ycombinator.com/item?id=27696267
-Points: 89
-# Comments: 62]]></summary>
+Points: 101
+# Comments: 69]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -169,8 +231,8 @@ Points: 89
         <updated>2021-07-01T03:41:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dynomight.net/alcohol/
 Comments URL: https://news.ycombinator.com/item?id=27696055
-Points: 95
-# Comments: 73]]></summary>
+Points: 110
+# Comments: 92]]></summary>
         <author>
             <name>spekcular</name>
         </author>
@@ -182,8 +244,8 @@ Points: 95
         <updated>2021-07-01T02:14:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/
 Comments URL: https://news.ycombinator.com/item?id=27695661
-Points: 118
-# Comments: 6]]></summary>
+Points: 126
+# Comments: 7]]></summary>
         <author>
             <name>nagimov</name>
         </author>
@@ -195,8 +257,8 @@ Points: 118
         <updated>2021-07-01T01:57:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.microprediction.com/blog/prophet
 Comments URL: https://news.ycombinator.com/item?id=27695574
-Points: 161
-# Comments: 51]]></summary>
+Points: 169
+# Comments: 53]]></summary>
         <author>
             <name>cton</name>
         </author>
@@ -208,8 +270,8 @@ Points: 161
         <updated>2021-07-01T01:35:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://otter-browser.org
 Comments URL: https://news.ycombinator.com/item?id=27695463
-Points: 136
-# Comments: 73]]></summary>
+Points: 150
+# Comments: 78]]></summary>
         <author>
             <name>niedzielski</name>
         </author>
@@ -221,23 +283,10 @@ Points: 136
         <updated>2021-07-01T00:43:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://simonsarris.substack.com/p/the-most-precious-resource-is-agency
 Comments URL: https://news.ycombinator.com/item?id=27695181
-Points: 449
-# Comments: 186]]></summary>
+Points: 491
+# Comments: 209]]></summary>
         <author>
             <name>simonsarris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A study of musical scales (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27694827</id>
-        <link href="https://ianring.com/musictheory/scales/"/>
-        <updated>2021-06-30T23:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ianring.com/musictheory/scales/
-Comments URL: https://news.ycombinator.com/item?id=27694827
-Points: 35
-# Comments: 36]]></summary>
-        <author>
-            <name>andai</name>
         </author>
     </entry>
     <entry>
@@ -247,23 +296,10 @@ Points: 35
         <updated>2021-06-30T23:00:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sparkfun.com/news/3917
 Comments URL: https://news.ycombinator.com/item?id=27694537
-Points: 655
-# Comments: 135]]></summary>
+Points: 687
+# Comments: 142]]></summary>
         <author>
             <name>mkeeter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functional, declarative audio applications]]></title>
-        <id>https://news.ycombinator.com/item?id=27693198</id>
-        <link href="https://www.nickwritesablog.com/functional-declarative-audio-applications/"/>
-        <updated>2021-06-30T20:40:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nickwritesablog.com/functional-declarative-audio-applications/
-Comments URL: https://news.ycombinator.com/item?id=27693198
-Points: 47
-# Comments: 24]]></summary>
-        <author>
-            <name>trypwire</name>
         </author>
     </entry>
     <entry>
@@ -491,16 +527,6 @@ The post Working around the viewport-based fluid typography bug in Safari appear
         <link href="https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/"/>
         <updated>2021-06-28T20:35:12.000Z</updated>
         <summary type="html"><![CDATA[If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an IDE in Programming? An IDE Definition for Developers]]></title>
-        <id>60d07b4578f45307fee80aef</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/"/>
-        <updated>2021-06-28T20:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
