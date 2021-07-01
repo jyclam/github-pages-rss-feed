@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T01:58:01.333Z</updated>
+    <updated>2021-07-01T02:28:38.128Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Facebook's “Prophet” the Time-Series Messiah, or Just a Naughty Boy?]]></title>
+        <id>https://news.ycombinator.com/item?id=27695574</id>
+        <link href="https://www.microprediction.com/blog/prophet"/>
+        <updated>2021-07-01T01:57:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.microprediction.com/blog/prophet
+Comments URL: https://news.ycombinator.com/item?id=27695574
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>cton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google sunsets the APK format for new Android apps]]></title>
+        <id>https://news.ycombinator.com/item?id=27695486</id>
+        <link href="https://www.androidauthority.com/android-apks-sunset-1636829/"/>
+        <updated>2021-07-01T01:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.androidauthority.com/android-apks-sunset-1636829/
+Comments URL: https://news.ycombinator.com/item?id=27695486
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>kevin_thibedeau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Most Precious Resource Is Agency]]></title>
         <id>https://news.ycombinator.com/item?id=27695181</id>
@@ -13,8 +39,8 @@
         <updated>2021-07-01T00:43:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://simonsarris.substack.com/p/the-most-precious-resource-is-agency
 Comments URL: https://news.ycombinator.com/item?id=27695181
-Points: 54
-# Comments: 14]]></summary>
+Points: 73
+# Comments: 28]]></summary>
         <author>
             <name>simonsarris</name>
         </author>
@@ -26,8 +52,8 @@ Points: 54
         <updated>2021-06-30T23:20:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://mason.gmu.edu/~rhanson/belieflikeclothes.html
 Comments URL: https://news.ycombinator.com/item?id=27694682
-Points: 6
-# Comments: 4]]></summary>
+Points: 11
+# Comments: 5]]></summary>
         <author>
             <name>herbertl</name>
         </author>
@@ -39,8 +65,8 @@ Points: 6
         <updated>2021-06-30T23:00:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sparkfun.com/news/3917
 Comments URL: https://news.ycombinator.com/item?id=27694537
-Points: 259
-# Comments: 67]]></summary>
+Points: 286
+# Comments: 74]]></summary>
         <author>
             <name>mkeeter</name>
         </author>
@@ -52,7 +78,7 @@ Points: 259
         <updated>2021-06-30T22:28:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html
 Comments URL: https://news.ycombinator.com/item?id=27694222
-Points: 26
+Points: 40
 # Comments: 10]]></summary>
         <author>
             <name>gmays</name>
@@ -65,7 +91,7 @@ Points: 26
         <updated>2021-06-30T22:02:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/
 Comments URL: https://news.ycombinator.com/item?id=27693929
-Points: 99
+Points: 109
 # Comments: 21]]></summary>
         <author>
             <name>Doubleguitars</name>
@@ -91,8 +117,8 @@ Points: 1
         <updated>2021-06-30T21:45:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.rainforestqa.com/blog/accessible-quality
 Comments URL: https://news.ycombinator.com/item?id=27693744
-Points: 77
-# Comments: 82]]></summary>
+Points: 85
+# Comments: 85]]></summary>
         <author>
             <name>ukd1</name>
         </author>
@@ -115,23 +141,10 @@ The post How do you make a layout with pictures down one side of a page matched 
         <updated>2021-06-30T20:26:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/
 Comments URL: https://news.ycombinator.com/item?id=27693065
-Points: 122
-# Comments: 51]]></summary>
+Points: 128
+# Comments: 54]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM's 18-month company-wide email system migration has been a disaster: sources]]></title>
-        <id>https://news.ycombinator.com/item?id=27692965</id>
-        <link href="https://www.theregister.com/2021/06/30/ibm_email_outage/"/>
-        <updated>2021-06-30T20:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/30/ibm_email_outage/
-Comments URL: https://news.ycombinator.com/item?id=27692965
-Points: 117
-# Comments: 105]]></summary>
-        <author>
-            <name>Dotnaught</name>
         </author>
     </entry>
     <entry>
@@ -151,7 +164,7 @@ Points: 117
         <updated>2021-06-30T17:59:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jacobobryant.com/blog/understand/
 Comments URL: https://news.ycombinator.com/item?id=27691586
-Points: 215
+Points: 222
 # Comments: 45]]></summary>
         <author>
             <name>d4rkp4ttern</name>
@@ -164,8 +177,8 @@ Points: 215
         <updated>2021-06-30T17:08:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fly.io/blog/globally-distributed-postgres/
 Comments URL: https://news.ycombinator.com/item?id=27690950
-Points: 218
-# Comments: 89]]></summary>
+Points: 227
+# Comments: 91]]></summary>
         <author>
             <name>woodrow</name>
         </author>
@@ -177,23 +190,10 @@ Points: 218
         <updated>2021-06-30T16:36:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc
 Comments URL: https://news.ycombinator.com/item?id=27690587
-Points: 630
-# Comments: 268]]></summary>
+Points: 646
+# Comments: 277]]></summary>
         <author>
             <name>samizdis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood to pay $70M for 'systemic supervisory failures']]></title>
-        <id>https://news.ycombinator.com/item?id=27690543</id>
-        <link href="https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/"/>
-        <updated>2021-06-30T16:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/
-Comments URL: https://news.ycombinator.com/item?id=27690543
-Points: 242
-# Comments: 209]]></summary>
-        <author>
-            <name>MikeDelta</name>
         </author>
     </entry>
     <entry>
@@ -203,8 +203,8 @@ Points: 242
         <updated>2021-06-30T16:30:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html
 Comments URL: https://news.ycombinator.com/item?id=27690504
-Points: 223
-# Comments: 69]]></summary>
+Points: 229
+# Comments: 70]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -216,7 +216,7 @@ Points: 223
         <updated>2021-06-30T15:24:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://git-history.jpalmer.dev/
 Comments URL: https://news.ycombinator.com/item?id=27689664
-Points: 106
+Points: 109
 # Comments: 18]]></summary>
         <author>
             <name>jwpalmer6</name>
@@ -272,7 +272,7 @@ The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You c
         <summary type="html"><![CDATA[Article URL: https://principles.dev/
 Comments URL: https://news.ycombinator.com/item?id=27688612
 Points: 300
-# Comments: 81]]></summary>
+# Comments: 82]]></summary>
         <author>
             <name>_wp_</name>
         </author>
@@ -285,7 +285,7 @@ Points: 300
         <summary type="html"><![CDATA[Article URL: https://zitadel.ch/blog/treat-clusters-as-cattle/
 Comments URL: https://news.ycombinator.com/item?id=27688203
 Points: 122
-# Comments: 108]]></summary>
+# Comments: 111]]></summary>
         <author>
             <name>mffap</name>
         </author>
@@ -297,8 +297,8 @@ Points: 122
         <updated>2021-06-30T13:15:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
 Comments URL: https://news.ycombinator.com/item?id=27688090
-Points: 217
-# Comments: 165]]></summary>
+Points: 219
+# Comments: 169]]></summary>
         <author>
             <name>timmytokyo</name>
         </author>
@@ -310,8 +310,8 @@ Points: 217
         <updated>2021-06-30T12:44:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/black-hat-exploits-of-the-stupid
 Comments URL: https://news.ycombinator.com/item?id=27687775
-Points: 166
-# Comments: 77]]></summary>
+Points: 168
+# Comments: 79]]></summary>
         <author>
             <name>mad_ned</name>
         </author>
@@ -323,8 +323,8 @@ Points: 166
         <updated>2021-06-30T12:25:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html
 Comments URL: https://news.ycombinator.com/item?id=27687617
-Points: 355
-# Comments: 464]]></summary>
+Points: 361
+# Comments: 468]]></summary>
         <author>
             <name>remt</name>
         </author>
@@ -879,16 +879,6 @@ Along with this new look, we get some great styling features including a force-c
 The post Looking fine with Firefox 89 appeared first on Mozilla Hacks - the Web developer blog.]]></summary>
         <author>
             <name>Chris Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/"/>
-        <updated>2021-06-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
