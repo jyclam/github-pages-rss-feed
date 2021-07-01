@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T08:13:16.879Z</updated>
+    <updated>2021-07-01T09:12:36.706Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PathQuery, Google's Graph Query Language]]></title>
+        <id>https://news.ycombinator.com/item?id=27697191</id>
+        <link href="https://arxiv.org/abs/2106.09799"/>
+        <updated>2021-07-01T07:58:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.09799
+Comments URL: https://news.ycombinator.com/item?id=27697191
+Points: 21
+# Comments: 1]]></summary>
+        <author>
+            <name>mpweiher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The short tale of an online scam]]></title>
+        <id>https://news.ycombinator.com/item?id=27697180</id>
+        <link href="https://duarteocarmo.com/blog/tale-online-scammer-python"/>
+        <updated>2021-07-01T07:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://duarteocarmo.com/blog/tale-online-scammer-python
+Comments URL: https://news.ycombinator.com/item?id=27697180
+Points: 9
+# Comments: 2]]></summary>
+        <author>
+            <name>stanislavb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taktile (YC S20) Is Hiring a Full Stack Developer]]></title>
         <id>https://news.ycombinator.com/item?id=27696954</id>
@@ -26,10 +52,23 @@ Points: 1
         <updated>2021-07-01T06:58:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://danlebrero.com/2021/06/30/cto-dairy-lucky-lotto-chaos-engineering-for-teams/
 Comments URL: https://news.ycombinator.com/item?id=27696949
-Points: 26
-# Comments: 6]]></summary>
+Points: 40
+# Comments: 10]]></summary>
         <author>
             <name>delebe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Infiltrated a Counterfeit Check Ring Now What?]]></title>
+        <id>https://news.ycombinator.com/item?id=27696927</id>
+        <link href="https://krebsonsecurity.com/2021/06/we-infiltrated-a-counterfeit-check-ring-now-what/"/>
+        <updated>2021-07-01T06:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/we-infiltrated-a-counterfeit-check-ring-now-what/
+Comments URL: https://news.ycombinator.com/item?id=27696927
+Points: 14
+# Comments: 1]]></summary>
+        <author>
+            <name>jnord</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +78,8 @@ Points: 26
         <updated>2021-07-01T06:23:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2021/hawkings-black-hole-theorem-confirm-0701
 Comments URL: https://news.ycombinator.com/item?id=27696774
-Points: 8
-# Comments: 0]]></summary>
+Points: 44
+# Comments: 4]]></summary>
         <author>
             <name>_Microft</name>
         </author>
@@ -52,8 +91,8 @@ Points: 8
         <updated>2021-07-01T06:16:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.retroreversing.com/official-playStation-devkit
 Comments URL: https://news.ycombinator.com/item?id=27696739
-Points: 66
-# Comments: 3]]></summary>
+Points: 108
+# Comments: 8]]></summary>
         <author>
             <name>pjmlp</name>
         </author>
@@ -65,8 +104,8 @@ Points: 66
         <updated>2021-07-01T04:28:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning
 Comments URL: https://news.ycombinator.com/item?id=27696267
-Points: 42
-# Comments: 37]]></summary>
+Points: 58
+# Comments: 43]]></summary>
         <author>
             <name>teleforce</name>
         </author>
@@ -78,7 +117,7 @@ Points: 42
         <updated>2021-07-01T03:41:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dynomight.net/alcohol/
 Comments URL: https://news.ycombinator.com/item?id=27696055
-Points: 46
+Points: 60
 # Comments: 26]]></summary>
         <author>
             <name>spekcular</name>
@@ -91,8 +130,8 @@ Points: 46
         <updated>2021-07-01T02:14:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/
 Comments URL: https://news.ycombinator.com/item?id=27695661
-Points: 72
-# Comments: 5]]></summary>
+Points: 85
+# Comments: 6]]></summary>
         <author>
             <name>nagimov</name>
         </author>
@@ -104,8 +143,8 @@ Points: 72
         <updated>2021-07-01T01:57:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.microprediction.com/blog/prophet
 Comments URL: https://news.ycombinator.com/item?id=27695574
-Points: 115
-# Comments: 25]]></summary>
+Points: 126
+# Comments: 31]]></summary>
         <author>
             <name>cton</name>
         </author>
@@ -117,8 +156,8 @@ Points: 115
         <updated>2021-07-01T01:35:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://otter-browser.org
 Comments URL: https://news.ycombinator.com/item?id=27695463
-Points: 95
-# Comments: 45]]></summary>
+Points: 104
+# Comments: 51]]></summary>
         <author>
             <name>niedzielski</name>
         </author>
@@ -130,8 +169,8 @@ Points: 95
         <updated>2021-07-01T01:24:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thephd.dev/any-encoding-ever-ztd-text-unicode-cpp
 Comments URL: https://news.ycombinator.com/item?id=27695412
-Points: 53
-# Comments: 31]]></summary>
+Points: 59
+# Comments: 37]]></summary>
         <author>
             <name>hasheddan</name>
         </author>
@@ -143,8 +182,8 @@ Points: 53
         <updated>2021-07-01T00:43:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://simonsarris.substack.com/p/the-most-precious-resource-is-agency
 Comments URL: https://news.ycombinator.com/item?id=27695181
-Points: 287
-# Comments: 119]]></summary>
+Points: 325
+# Comments: 131]]></summary>
         <author>
             <name>simonsarris</name>
         </author>
@@ -156,8 +195,8 @@ Points: 287
         <updated>2021-07-01T00:21:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/business-57670737
 Comments URL: https://news.ycombinator.com/item?id=27695056
-Points: 50
-# Comments: 14]]></summary>
+Points: 56
+# Comments: 29]]></summary>
         <author>
             <name>m33k44</name>
         </author>
@@ -169,8 +208,8 @@ Points: 50
         <updated>2021-06-30T23:42:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ianring.com/musictheory/scales/
 Comments URL: https://news.ycombinator.com/item?id=27694827
-Points: 26
-# Comments: 11]]></summary>
+Points: 27
+# Comments: 14]]></summary>
         <author>
             <name>andai</name>
         </author>
@@ -182,23 +221,10 @@ Points: 26
         <updated>2021-06-30T23:00:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sparkfun.com/news/3917
 Comments URL: https://news.ycombinator.com/item?id=27694537
-Points: 542
-# Comments: 120]]></summary>
+Points: 564
+# Comments: 124]]></summary>
         <author>
             <name>mkeeter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft exec: Targeting of Americans’ records ‘routine’]]></title>
-        <id>https://news.ycombinator.com/item?id=27693929</id>
-        <link href="https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/"/>
-        <updated>2021-06-30T22:02:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/
-Comments URL: https://news.ycombinator.com/item?id=27693929
-Points: 179
-# Comments: 42]]></summary>
-        <author>
-            <name>Doubleguitars</name>
         </author>
     </entry>
     <entry>
@@ -208,8 +234,8 @@ Points: 179
         <updated>2021-06-30T21:45:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.rainforestqa.com/blog/accessible-quality
 Comments URL: https://news.ycombinator.com/item?id=27693744
-Points: 148
-# Comments: 124]]></summary>
+Points: 155
+# Comments: 137]]></summary>
         <author>
             <name>ukd1</name>
         </author>
@@ -221,8 +247,8 @@ Points: 148
         <updated>2021-06-30T20:40:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nickwritesablog.com/functional-declarative-audio-applications/
 Comments URL: https://news.ycombinator.com/item?id=27693198
-Points: 15
-# Comments: 2]]></summary>
+Points: 22
+# Comments: 7]]></summary>
         <author>
             <name>trypwire</name>
         </author>
@@ -245,8 +271,8 @@ The post How do you make a layout with pictures down one side of a page matched 
         <updated>2021-06-30T18:53:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=UxLd_wiGMA4
 Comments URL: https://news.ycombinator.com/item?id=27692179
-Points: 43
-# Comments: 10]]></summary>
+Points: 46
+# Comments: 11]]></summary>
         <author>
             <name>DavidSJ</name>
         </author>
@@ -259,32 +285,6 @@ Points: 43
         <summary type="html"><![CDATA[Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Move fast, but understand the problem first]]></title>
-        <id>https://news.ycombinator.com/item?id=27691586</id>
-        <link href="https://jacobobryant.com/blog/understand/"/>
-        <updated>2021-06-30T17:59:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jacobobryant.com/blog/understand/
-Comments URL: https://news.ycombinator.com/item?id=27691586
-Points: 273
-# Comments: 49]]></summary>
-        <author>
-            <name>d4rkp4ttern</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Globally Distributed Postgres]]></title>
-        <id>https://news.ycombinator.com/item?id=27690950</id>
-        <link href="https://fly.io/blog/globally-distributed-postgres/"/>
-        <updated>2021-06-30T17:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/globally-distributed-postgres/
-Comments URL: https://news.ycombinator.com/item?id=27690950
-Points: 287
-# Comments: 99]]></summary>
-        <author>
-            <name>woodrow</name>
         </author>
     </entry>
     <entry>
