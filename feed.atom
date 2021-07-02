@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T12:18:21.866Z</updated>
+    <updated>2021-07-02T13:17:10.343Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -26,8 +26,8 @@ Points: 1
         <updated>2021-07-02T11:52:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/mitsuhiko/status/1410886329924194309
 Comments URL: https://news.ycombinator.com/item?id=27710287
-Points: 51
-# Comments: 5]]></summary>
+Points: 258
+# Comments: 61]]></summary>
         <author>
             <name>bencollier49</name>
         </author>
@@ -39,8 +39,8 @@ Points: 51
         <updated>2021-07-02T11:49:45.000Z</updated>
         <summary type="html"><![CDATA[Is it just me, or do you believe your inbox is the worst place for newsletters? Any other medium would be preferable.
 Comments URL: https://news.ycombinator.com/item?id=27710270
-Points: 8
-# Comments: 6]]></summary>
+Points: 39
+# Comments: 34]]></summary>
         <author>
             <name>ahmd</name>
         </author>
@@ -52,23 +52,23 @@ Points: 8
         <updated>2021-07-02T11:41:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/07/google-play-dumps-apks-for-the-more-google-controlled-android-app-bundle/
 Comments URL: https://news.ycombinator.com/item?id=27710215
-Points: 16
-# Comments: 1]]></summary>
+Points: 49
+# Comments: 16]]></summary>
         <author>
             <name>muxator</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google reports soaring attrition among Black women]]></title>
-        <id>https://news.ycombinator.com/item?id=27710186</id>
-        <link href="https://www.reuters.com/business/sustainable-business/google-reports-soaring-attrition-among-black-women-2021-07-01/"/>
-        <updated>2021-07-02T11:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/sustainable-business/google-reports-soaring-attrition-among-black-women-2021-07-01/
-Comments URL: https://news.ycombinator.com/item?id=27710186
-Points: 13
-# Comments: 7]]></summary>
+        <title type="html"><![CDATA[Why Are Gamers So Much Better Than Scientists at Catching Fraud?]]></title>
+        <id>https://news.ycombinator.com/item?id=27710098</id>
+        <link href="https://www.theatlantic.com/science/archive/2021/07/gamers-are-better-scientists-catching-fraud/619324/"/>
+        <updated>2021-07-02T11:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/science/archive/2021/07/gamers-are-better-scientists-catching-fraud/619324/
+Comments URL: https://news.ycombinator.com/item?id=27710098
+Points: 8
+# Comments: 2]]></summary>
         <author>
-            <name>shivbhatt</name>
+            <name>pseudolus</name>
         </author>
     </entry>
     <entry>
@@ -78,10 +78,23 @@ Points: 13
         <updated>2021-07-02T11:22:09.000Z</updated>
         <summary type="html"><![CDATA[Hi, what concepts do you think a backend engineer should know which are language agnostic/independent? An example could be knowing the different ways of how to connect to the database from the backend such as ORM or basic SQL and their pros and cons?
 Comments URL: https://news.ycombinator.com/item?id=27710097
-Points: 7
-# Comments: 2]]></summary>
+Points: 35
+# Comments: 24]]></summary>
         <author>
             <name>nicksont</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Media Blackout After Key Witness Against Assange Admits Lying]]></title>
+        <id>https://news.ycombinator.com/item?id=27710075</id>
+        <link href="https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/"/>
+        <updated>2021-07-02T11:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/
+Comments URL: https://news.ycombinator.com/item?id=27710075
+Points: 107
+# Comments: 20]]></summary>
+        <author>
+            <name>k1m</name>
         </author>
     </entry>
     <entry>
@@ -95,14 +108,27 @@ Points: 7
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pen, a GPL Copilot for Emacs]]></title>
+        <id>https://news.ycombinator.com/item?id=27709659</id>
+        <link href="https://github.com/semiosis/pen.el/"/>
+        <updated>2021-07-02T09:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/semiosis/pen.el/
+Comments URL: https://news.ycombinator.com/item?id=27709659
+Points: 8
+# Comments: 6]]></summary>
+        <author>
+            <name>mullikine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Research finds 1000s of Unauthenticated Databases Exposed on the Internet]]></title>
         <id>https://news.ycombinator.com/item?id=27708806</id>
         <link href="https://redhuntlabs.com/blog/thousands-of-unauthenticated-databases-exposed-on-the-internet.html"/>
         <updated>2021-07-02T07:38:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://redhuntlabs.com/blog/thousands-of-unauthenticated-databases-exposed-on-the-internet.html
 Comments URL: https://news.ycombinator.com/item?id=27708806
-Points: 9
-# Comments: 3]]></summary>
+Points: 17
+# Comments: 5]]></summary>
         <author>
             <name>rhlresearcher</name>
         </author>
@@ -114,8 +140,8 @@ Points: 9
         <updated>2021-07-02T06:59:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.migadu.com/
 Comments URL: https://news.ycombinator.com/item?id=27708580
-Points: 127
-# Comments: 73]]></summary>
+Points: 153
+# Comments: 88]]></summary>
         <author>
             <name>tsujp</name>
         </author>
@@ -127,8 +153,8 @@ Points: 127
         <updated>2021-07-02T06:51:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://treeofwoe.substack.com/p/when-orcs-were-real
 Comments URL: https://news.ycombinator.com/item?id=27708518
-Points: 78
-# Comments: 73]]></summary>
+Points: 91
+# Comments: 88]]></summary>
         <author>
             <name>zimbu668</name>
         </author>
@@ -140,8 +166,8 @@ Points: 78
         <updated>2021-07-02T06:33:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2020/passive-solar-powered-water-desalination-0207
 Comments URL: https://news.ycombinator.com/item?id=27708411
-Points: 305
-# Comments: 139]]></summary>
+Points: 332
+# Comments: 146]]></summary>
         <author>
             <name>drran</name>
         </author>
@@ -153,8 +179,8 @@ Points: 305
         <updated>2021-07-02T06:05:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.marinetraffic.com/blog/renewing-our-respect-for-invisible-essential-workers-of-the-seas/
 Comments URL: https://news.ycombinator.com/item?id=27708267
-Points: 28
-# Comments: 5]]></summary>
+Points: 36
+# Comments: 6]]></summary>
         <author>
             <name>jonbaer</name>
         </author>
@@ -166,8 +192,8 @@ Points: 28
         <updated>2021-07-02T05:52:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://archaeologynewsnetwork.blogspot.com/2021/06/the-crisis-era-in-ancient-egypt-led-to.html
 Comments URL: https://news.ycombinator.com/item?id=27708202
-Points: 14
-# Comments: 1]]></summary>
+Points: 17
+# Comments: 2]]></summary>
         <author>
             <name>Hooke</name>
         </author>
@@ -189,8 +215,8 @@ Points: 14
         <updated>2021-07-02T04:40:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://purelymail.com
 Comments URL: https://news.ycombinator.com/item?id=27707857
-Points: 344
-# Comments: 196]]></summary>
+Points: 373
+# Comments: 202]]></summary>
         <author>
             <name>pwrplus1</name>
         </author>
@@ -202,8 +228,8 @@ Points: 344
         <updated>2021-07-02T04:20:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/
 Comments URL: https://news.ycombinator.com/item?id=27707770
-Points: 109
-# Comments: 148]]></summary>
+Points: 126
+# Comments: 170]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -215,23 +241,10 @@ Points: 109
         <updated>2021-07-02T03:47:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01822-1
 Comments URL: https://news.ycombinator.com/item?id=27707635
-Points: 103
-# Comments: 31]]></summary>
+Points: 118
+# Comments: 34]]></summary>
         <author>
             <name>rehto21</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook now warning users about exposure to “harmful extremist content”]]></title>
-        <id>https://news.ycombinator.com/item?id=27706786</id>
-        <link href="https://www.newshub.co.nz/home/technology/2021/07/facebook-now-warning-users-about-exposure-to-harmful-extremist-content.html"/>
-        <updated>2021-07-02T00:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newshub.co.nz/home/technology/2021/07/facebook-now-warning-users-about-exposure-to-harmful-extremist-content.html
-Comments URL: https://news.ycombinator.com/item?id=27706786
-Points: 38
-# Comments: 28]]></summary>
-        <author>
-            <name>FreeSpeech</name>
         </author>
     </entry>
     <entry>
@@ -253,8 +266,8 @@ The post The Trick to Enable Printify Shipping Notifications for Orders in WooCo
         <updated>2021-07-02T00:00:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html
 Comments URL: https://news.ycombinator.com/item?id=27706413
-Points: 136
-# Comments: 38]]></summary>
+Points: 146
+# Comments: 43]]></summary>
         <author>
             <name>NetOpWibby</name>
         </author>
@@ -266,8 +279,8 @@ Points: 136
         <updated>2021-07-01T22:37:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/reacherhq/check-if-email-exists
 Comments URL: https://news.ycombinator.com/item?id=27705742
-Points: 369
-# Comments: 194]]></summary>
+Points: 391
+# Comments: 204]]></summary>
         <author>
             <name>kilodeca</name>
         </author>
@@ -279,23 +292,10 @@ Points: 369
         <updated>2021-07-01T22:24:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/
 Comments URL: https://news.ycombinator.com/item?id=27705631
-Points: 185
-# Comments: 119]]></summary>
+Points: 196
+# Comments: 122]]></summary>
         <author>
             <name>telotortium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Installing Linux into a 286 laptop from the year 1989]]></title>
-        <id>https://news.ycombinator.com/item?id=27705340</id>
-        <link href="https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/"/>
-        <updated>2021-07-01T21:51:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/
-Comments URL: https://news.ycombinator.com/item?id=27705340
-Points: 114
-# Comments: 80]]></summary>
-        <author>
-            <name>sam345</name>
         </author>
     </entry>
     <entry>
