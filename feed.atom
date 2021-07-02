@@ -2,21 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T07:12:02.362Z</updated>
+    <updated>2021-07-02T08:14:10.886Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Parents of children called Alexa challenge Amazon]]></title>
-        <id>https://news.ycombinator.com/item?id=27708151</id>
-        <link href="https://www.bbc.com/news/technology-57680173"/>
-        <updated>2021-07-02T05:43:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57680173
-Comments URL: https://news.ycombinator.com/item?id=27708151
+        <title type="html"><![CDATA[Migadu – No-nonsense multi-domain email at a flat price]]></title>
+        <id>https://news.ycombinator.com/item?id=27708580</id>
+        <link href="https://www.migadu.com/"/>
+        <updated>2021-07-02T06:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.migadu.com/
+Comments URL: https://news.ycombinator.com/item?id=27708580
 Points: 11
-# Comments: 8]]></summary>
+# Comments: 1]]></summary>
         <author>
-            <name>shivbhatt</name>
+            <name>tsujp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Orcs Were Real]]></title>
+        <id>https://news.ycombinator.com/item?id=27708518</id>
+        <link href="https://treeofwoe.substack.com/p/when-orcs-were-real"/>
+        <updated>2021-07-02T06:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://treeofwoe.substack.com/p/when-orcs-were-real
+Comments URL: https://news.ycombinator.com/item?id=27708518
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>zimbu668</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple, solar-powered water desalination with efficiency of 385%]]></title>
+        <id>https://news.ycombinator.com/item?id=27708411</id>
+        <link href="https://news.mit.edu/2020/passive-solar-powered-water-desalination-0207"/>
+        <updated>2021-07-02T06:33:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2020/passive-solar-powered-water-desalination-0207
+Comments URL: https://news.ycombinator.com/item?id=27708411
+Points: 79
+# Comments: 49]]></summary>
+        <author>
+            <name>drran</name>
         </author>
     </entry>
     <entry>
@@ -36,10 +62,23 @@ Points: 11
         <updated>2021-07-02T04:40:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://purelymail.com
 Comments URL: https://news.ycombinator.com/item?id=27707857
-Points: 169
-# Comments: 79]]></summary>
+Points: 239
+# Comments: 116]]></summary>
         <author>
             <name>pwrplus1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Look: macOS Monterey Public Beta]]></title>
+        <id>https://news.ycombinator.com/item?id=27707770</id>
+        <link href="https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/"/>
+        <updated>2021-07-02T04:20:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/
+Comments URL: https://news.ycombinator.com/item?id=27707770
+Points: 56
+# Comments: 66]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -49,23 +88,10 @@ Points: 169
         <updated>2021-07-02T03:47:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01822-1
 Comments URL: https://news.ycombinator.com/item?id=27707635
-Points: 43
-# Comments: 13]]></summary>
+Points: 61
+# Comments: 19]]></summary>
         <author>
             <name>rehto21</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinterest bans weight loss ads in first for major social networks]]></title>
-        <id>https://news.ycombinator.com/item?id=27707602</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/02/bye-bye-bmi-pinterest-bans-weight-loss-ads-in-first-for-major-social-networks"/>
-        <updated>2021-07-02T03:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/jul/02/bye-bye-bmi-pinterest-bans-weight-loss-ads-in-first-for-major-social-networks
-Comments URL: https://news.ycombinator.com/item?id=27707602
-Points: 42
-# Comments: 24]]></summary>
-        <author>
-            <name>prawn</name>
         </author>
     </entry>
     <entry>
@@ -75,8 +101,8 @@ Points: 42
         <updated>2021-07-02T02:59:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5
 Comments URL: https://news.ycombinator.com/item?id=27707423
-Points: 18
-# Comments: 11]]></summary>
+Points: 30
+# Comments: 20]]></summary>
         <author>
             <name>srichert</name>
         </author>
@@ -88,8 +114,8 @@ Points: 18
         <updated>2021-07-02T02:52:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://english.elpais.com/usa/2021-07-01/the-alzheimers-enigma-why-is-the-incidence-falling-at-16-a-decade-in-the-worlds-richest-countries.html
 Comments URL: https://news.ycombinator.com/item?id=27707405
-Points: 72
-# Comments: 37]]></summary>
+Points: 77
+# Comments: 42]]></summary>
         <author>
             <name>nabilhat</name>
         </author>
@@ -113,8 +139,8 @@ The post The Trick to Enable Printify Shipping Notifications for Orders in WooCo
         <updated>2021-07-02T00:00:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html
 Comments URL: https://news.ycombinator.com/item?id=27706413
-Points: 104
-# Comments: 26]]></summary>
+Points: 112
+# Comments: 28]]></summary>
         <author>
             <name>NetOpWibby</name>
         </author>
@@ -126,8 +152,8 @@ Points: 104
         <updated>2021-07-01T23:10:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/randy3k/radian
 Comments URL: https://news.ycombinator.com/item?id=27706038
-Points: 47
-# Comments: 17]]></summary>
+Points: 52
+# Comments: 19]]></summary>
         <author>
             <name>sieste</name>
         </author>
@@ -139,8 +165,8 @@ Points: 47
         <updated>2021-07-01T22:37:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/reacherhq/check-if-email-exists
 Comments URL: https://news.ycombinator.com/item?id=27705742
-Points: 270
-# Comments: 158]]></summary>
+Points: 299
+# Comments: 171]]></summary>
         <author>
             <name>kilodeca</name>
         </author>
@@ -152,8 +178,8 @@ Points: 270
         <updated>2021-07-01T22:24:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/
 Comments URL: https://news.ycombinator.com/item?id=27705631
-Points: 143
-# Comments: 93]]></summary>
+Points: 153
+# Comments: 97]]></summary>
         <author>
             <name>telotortium</name>
         </author>
@@ -165,8 +191,8 @@ Points: 143
         <updated>2021-07-01T21:51:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/
 Comments URL: https://news.ycombinator.com/item?id=27705340
-Points: 80
-# Comments: 59]]></summary>
+Points: 88
+# Comments: 61]]></summary>
         <author>
             <name>sam345</name>
         </author>
@@ -178,7 +204,7 @@ Points: 80
         <updated>2021-07-01T21:07:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.flipperzero.one/electronics-testing/
 Comments URL: https://news.ycombinator.com/item?id=27704883
-Points: 79
+Points: 83
 # Comments: 27]]></summary>
         <author>
             <name>vermilingua</name>
@@ -204,8 +230,8 @@ Points: 1
         <updated>2021-07-01T20:46:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.arrl.org/news/view/fcc-reaffirms-nearly-3-million-fine-for-marketing-unauthorized-drone-transmitters
 Comments URL: https://news.ycombinator.com/item?id=27704611
-Points: 145
-# Comments: 75]]></summary>
+Points: 151
+# Comments: 82]]></summary>
         <author>
             <name>7402</name>
         </author>
@@ -217,8 +243,8 @@ Points: 145
         <updated>2021-07-01T20:30:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.pakkly.com/why-does-my-installer-get-flagged-by-windows/
 Comments URL: https://news.ycombinator.com/item?id=27704378
-Points: 81
-# Comments: 56]]></summary>
+Points: 87
+# Comments: 59]]></summary>
         <author>
             <name>grwtr</name>
         </author>
@@ -230,7 +256,7 @@ Points: 81
         <updated>2021-07-01T19:02:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/07/intuit-to-share-payroll-data-from-1-4m-small-businesses-with-equifax/
 Comments URL: https://news.ycombinator.com/item?id=27703091
-Points: 509
+Points: 515
 # Comments: 184]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -286,8 +312,8 @@ The post App Platform on Digital Ocean appeared first on CSS-Tricks. You can sup
         <updated>2021-07-01T17:55:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://j3-fortran.org/doc/year/21/21-157r2.txt
 Comments URL: https://news.ycombinator.com/item?id=27702168
-Points: 145
-# Comments: 74]]></summary>
+Points: 148
+# Comments: 75]]></summary>
         <author>
             <name>Bostonian</name>
         </author>
@@ -299,36 +325,10 @@ Points: 145
         <updated>2021-07-01T17:25:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fly.io/blog/monitoring-your-fly-io-apps-with-prometheus/
 Comments URL: https://news.ycombinator.com/item?id=27701727
-Points: 105
+Points: 107
 # Comments: 24]]></summary>
         <author>
             <name>clessg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood S-1 IPO]]></title>
-        <id>https://news.ycombinator.com/item?id=27701617</id>
-        <link href="https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm"/>
-        <updated>2021-07-01T17:18:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm
-Comments URL: https://news.ycombinator.com/item?id=27701617
-Points: 268
-# Comments: 321]]></summary>
-        <author>
-            <name>marc__1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[City of Bees: Notes of an Urban Beekeeper]]></title>
-        <id>https://news.ycombinator.com/item?id=27701472</id>
-        <link href="https://www.plough.com/en/topics/justice/sustainable-living/city-of-bees"/>
-        <updated>2021-07-01T17:07:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.plough.com/en/topics/justice/sustainable-living/city-of-bees
-Comments URL: https://news.ycombinator.com/item?id=27701472
-Points: 19
-# Comments: 1]]></summary>
-        <author>
-            <name>lermontov</name>
         </author>
     </entry>
     <entry>
