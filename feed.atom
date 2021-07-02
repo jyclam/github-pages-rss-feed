@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T21:10:54.380Z</updated>
+    <updated>2021-07-02T22:14:38.357Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -20,14 +20,25 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zero-Width Space]]></title>
+        <id>https://css-tricks.com/?p=343435</id>
+        <link href="https://css-tricks.com/zero-width-space/"/>
+        <updated>2021-07-02T20:39:04.000Z</updated>
+        <summary type="html"><![CDATA[The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…
+The post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[REvil ransomware executes supply chain attack via malicious Kaseya update]]></title>
         <id>https://news.ycombinator.com/item?id=27716383</id>
         <link href="https://therecord.media/revil-ransomware-executes-supply-chain-attack-via-malicious-kaseya-update/"/>
         <updated>2021-07-02T20:19:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://therecord.media/revil-ransomware-executes-supply-chain-attack-via-malicious-kaseya-update/
 Comments URL: https://news.ycombinator.com/item?id=27716383
-Points: 11
-# Comments: 3]]></summary>
+Points: 37
+# Comments: 10]]></summary>
         <author>
             <name>afrcnc</name>
         </author>
@@ -39,23 +50,10 @@ Points: 11
         <updated>2021-07-02T20:00:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://science.sciencemag.org/content/373/6550/11
 Comments URL: https://news.ycombinator.com/item?id=27716123
-Points: 14
-# Comments: 0]]></summary>
+Points: 27
+# Comments: 4]]></summary>
         <author>
             <name>etiam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libertarian Party of Colorado First to Officially Support Ending IP]]></title>
-        <id>https://news.ycombinator.com/item?id=27716102</id>
-        <link href="https://lpedia.org/wiki/Document:Colorado_State_Party_Platform_2021#Intellectual_Monopolies"/>
-        <updated>2021-07-02T19:59:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lpedia.org/wiki/Document:Colorado_State_Party_Platform_2021#Intellectual_Monopolies
-Comments URL: https://news.ycombinator.com/item?id=27716102
-Points: 37
-# Comments: 21]]></summary>
-        <author>
-            <name>breck</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +63,8 @@ Points: 37
         <updated>2021-07-02T19:58:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/
 Comments URL: https://news.ycombinator.com/item?id=27716083
-Points: 31
-# Comments: 4]]></summary>
+Points: 75
+# Comments: 30]]></summary>
         <author>
             <name>apsec112</name>
         </author>
@@ -78,10 +76,23 @@ Points: 31
         <updated>2021-07-02T19:52:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rateourcops.org/
 Comments URL: https://news.ycombinator.com/item?id=27716012
-Points: 49
-# Comments: 21]]></summary>
+Points: 145
+# Comments: 89]]></summary>
         <author>
             <name>Roco_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could miniature forests help air-condition cities?]]></title>
+        <id>https://news.ycombinator.com/item?id=27715987</id>
+        <link href="https://www.economist.com/science-and-technology/2021/07/01/could-miniature-forests-help-air-condition-cities"/>
+        <updated>2021-07-02T19:50:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/07/01/could-miniature-forests-help-air-condition-cities
+Comments URL: https://news.ycombinator.com/item?id=27715987
+Points: 3
+# Comments: 1]]></summary>
+        <author>
+            <name>a_w</name>
         </author>
     </entry>
     <entry>
@@ -91,8 +102,8 @@ Points: 49
         <updated>2021-07-02T19:37:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/07/space-age-electronics-inside-ge-thin.html
 Comments URL: https://news.ycombinator.com/item?id=27715872
-Points: 25
-# Comments: 7]]></summary>
+Points: 44
+# Comments: 11]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -104,7 +115,7 @@ Points: 25
         <updated>2021-07-02T18:53:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://centuriesofsound.com/2021/06/14/1936/
 Comments URL: https://news.ycombinator.com/item?id=27715323
-Points: 6
+Points: 14
 # Comments: 0]]></summary>
         <author>
             <name>ignored</name>
@@ -117,23 +128,23 @@ Points: 6
         <updated>2021-07-02T18:30:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf
 Comments URL: https://news.ycombinator.com/item?id=27715043
-Points: 56
+Points: 70
 # Comments: 18]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HHS announces rule to protect consumers from surprise medical bills]]></title>
-        <id>https://news.ycombinator.com/item?id=27714240</id>
-        <link href="https://www.hhs.gov/about/news/2021/07/01/hhs-announces-rule-to-protect-consumers-from-surprise-medical-bills.html"/>
-        <updated>2021-07-02T17:19:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.hhs.gov/about/news/2021/07/01/hhs-announces-rule-to-protect-consumers-from-surprise-medical-bills.html
-Comments URL: https://news.ycombinator.com/item?id=27714240
-Points: 168
-# Comments: 166]]></summary>
+        <title type="html"><![CDATA[Getting to know logical clocks by implementing them]]></title>
+        <id>https://news.ycombinator.com/item?id=27714251</id>
+        <link href="https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/"/>
+        <updated>2021-07-02T17:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/
+Comments URL: https://news.ycombinator.com/item?id=27714251
+Points: 10
+# Comments: 0]]></summary>
         <author>
-            <name>ThaDood</name>
+            <name>brunoac</name>
         </author>
     </entry>
     <entry>
@@ -143,8 +154,8 @@ Points: 168
         <updated>2021-07-02T16:16:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/robinhouston/image-unshredding
 Comments URL: https://news.ycombinator.com/item?id=27713441
-Points: 126
-# Comments: 47]]></summary>
+Points: 134
+# Comments: 54]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -156,8 +167,8 @@ Points: 126
         <updated>2021-07-02T16:14:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/
 Comments URL: https://news.ycombinator.com/item?id=27713415
-Points: 238
-# Comments: 122]]></summary>
+Points: 261
+# Comments: 138]]></summary>
         <author>
             <name>danso</name>
         </author>
@@ -169,8 +180,8 @@ Points: 238
         <updated>2021-07-02T16:10:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/neovim/neovim/releases/tag/v0.5.0
 Comments URL: https://news.ycombinator.com/item?id=27713358
-Points: 242
-# Comments: 121]]></summary>
+Points: 271
+# Comments: 135]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -182,8 +193,8 @@ Points: 242
         <updated>2021-07-02T15:31:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://supabase.io/blog/2021/07/01/roles-postgres-hooks
 Comments URL: https://news.ycombinator.com/item?id=27712800
-Points: 70
-# Comments: 7]]></summary>
+Points: 76
+# Comments: 8]]></summary>
         <author>
             <name>steve-chavez</name>
         </author>
@@ -206,8 +217,8 @@ The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks 
         <updated>2021-07-02T13:02:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.napkin.io/
 Comments URL: https://news.ycombinator.com/item?id=27710948
-Points: 115
-# Comments: 57]]></summary>
+Points: 120
+# Comments: 64]]></summary>
         <author>
             <name>nsypteras</name>
         </author>
@@ -219,8 +230,8 @@ Points: 115
         <updated>2021-07-02T11:52:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/mitsuhiko/status/1410886329924194309
 Comments URL: https://news.ycombinator.com/item?id=27710287
-Points: 991
-# Comments: 499]]></summary>
+Points: 1037
+# Comments: 528]]></summary>
         <author>
             <name>bencollier49</name>
         </author>
@@ -232,8 +243,8 @@ Points: 991
         <updated>2021-07-02T11:17:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/
 Comments URL: https://news.ycombinator.com/item?id=27710075
-Points: 739
-# Comments: 379]]></summary>
+Points: 779
+# Comments: 403]]></summary>
         <author>
             <name>k1m</name>
         </author>
@@ -255,8 +266,8 @@ Points: 739
         <updated>2021-07-02T09:55:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/semiosis/pen.el/
 Comments URL: https://news.ycombinator.com/item?id=27709659
-Points: 130
-# Comments: 35]]></summary>
+Points: 137
+# Comments: 37]]></summary>
         <author>
             <name>mullikine</name>
         </author>
@@ -268,21 +279,21 @@ Points: 130
         <updated>2021-07-02T08:58:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.rnz.co.nz/programmes/in-depth-special-projects/story/2018800662/the-yoghurt-mafia
 Comments URL: https://news.ycombinator.com/item?id=27709296
-Points: 40
-# Comments: 4]]></summary>
+Points: 58
+# Comments: 16]]></summary>
         <author>
             <name>casca</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reversals in Psychology]]></title>
+        <title type="html"><![CDATA[Reversals in Psychology (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27709266</id>
         <link href="https://www.gleech.org/psych"/>
         <updated>2021-07-02T08:53:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.gleech.org/psych
 Comments URL: https://news.ycombinator.com/item?id=27709266
-Points: 7
-# Comments: 3]]></summary>
+Points: 19
+# Comments: 9]]></summary>
         <author>
             <name>apsec112</name>
         </author>
@@ -594,20 +605,6 @@ Recently, I have been experimenting with CSS Grid and alignment properties to cr
 The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Ryan Mulligan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Organizations Should Consider Building a Website Backed by a CRM Platform]]></title>
-        <id>https://css-tricks.com/?p=343072</id>
-        <link href="https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/"/>
-        <updated>2021-06-28T13:29:00.000Z</updated>
-        <summary type="html"><![CDATA[To make some terminology clear here:
-CMS = Content Management System
-CRM = Customer Relationship Management
-Both are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …
-The post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
