@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T12:17:13.666Z</updated>
+    <updated>2021-07-03T13:15:01.536Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learning Squeak in 2020]]></title>
+        <id>https://news.ycombinator.com/item?id=27721306</id>
+        <link href="https://wiki.squeak.org/squeak/6622"/>
+        <updated>2021-07-03T12:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wiki.squeak.org/squeak/6622
+Comments URL: https://news.ycombinator.com/item?id=27721306
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>AlexeyBrin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Draftbit (YC W18) Is Hiring Senior Engineers (Remote)]]></title>
         <id>https://news.ycombinator.com/item?id=27721035</id>
@@ -20,27 +33,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We know of 11,808 live websites using Plausible]]></title>
-        <id>https://news.ycombinator.com/item?id=27721025</id>
-        <link href="https://trends.builtwith.com/analytics/Plausible-Analytics"/>
-        <updated>2021-07-03T11:59:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://trends.builtwith.com/analytics/Plausible-Analytics
-Comments URL: https://news.ycombinator.com/item?id=27721025
-Points: 3
-# Comments: 0]]></summary>
-        <author>
-            <name>ushakov</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Suppose I Wanted to Kill a Lot of Pilots]]></title>
         <id>https://news.ycombinator.com/item?id=27720912</id>
         <link href="https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa"/>
         <updated>2021-07-03T11:35:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa
 Comments URL: https://news.ycombinator.com/item?id=27720912
-Points: 21
-# Comments: 5]]></summary>
+Points: 58
+# Comments: 40]]></summary>
         <author>
             <name>stanrivers</name>
         </author>
@@ -52,23 +52,23 @@ Points: 21
         <updated>2021-07-03T11:34:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/darktable-org/darktable/releases/tag/release-3.6.0
 Comments URL: https://news.ycombinator.com/item?id=27720908
-Points: 5
-# Comments: 0]]></summary>
+Points: 49
+# Comments: 9]]></summary>
         <author>
             <name>morsch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steam on Linux Still Tap Dancing Around 0.9% Marketshare]]></title>
-        <id>https://news.ycombinator.com/item?id=27720867</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Steam-On-Linux-Tap-Dance-0.9"/>
-        <updated>2021-07-03T11:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/scan.php?page=news_item&px=Steam-On-Linux-Tap-Dance-0.9
-Comments URL: https://news.ycombinator.com/item?id=27720867
-Points: 21
-# Comments: 21]]></summary>
+        <title type="html"><![CDATA[What Made Early Humans Smart]]></title>
+        <id>https://news.ycombinator.com/item?id=27720885</id>
+        <link href="https://nautil.us/issue/102/hidden-truths/what-made-early-humans-smart"/>
+        <updated>2021-07-03T11:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/102/hidden-truths/what-made-early-humans-smart
+Comments URL: https://news.ycombinator.com/item?id=27720885
+Points: 15
+# Comments: 0]]></summary>
         <author>
-            <name>pjmlp</name>
+            <name>dnetesn</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +78,8 @@ Points: 21
         <updated>2021-07-03T10:30:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wionews.com/world/major-swedish-supermarket-chain-hit-by-cyberattack-395556
 Comments URL: https://news.ycombinator.com/item?id=27720623
-Points: 5
-# Comments: 0]]></summary>
+Points: 18
+# Comments: 8]]></summary>
         <author>
             <name>jnieminen</name>
         </author>
@@ -91,8 +91,8 @@ Points: 5
         <updated>2021-07-03T10:18:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pcworld.com/article/3623830/only-windows-11-pro-will-let-you-install-windows-11-with-a-local-account.html
 Comments URL: https://news.ycombinator.com/item?id=27720588
-Points: 65
-# Comments: 59]]></summary>
+Points: 92
+# Comments: 91]]></summary>
         <author>
             <name>boba7</name>
         </author>
@@ -104,8 +104,8 @@ Points: 65
         <updated>2021-07-03T09:57:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative
 Comments URL: https://news.ycombinator.com/item?id=27720517
-Points: 9
-# Comments: 3]]></summary>
+Points: 21
+# Comments: 8]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -117,8 +117,8 @@ Points: 9
         <updated>2021-07-03T08:15:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.electronicsweekly.com/uncategorised/apple-intel-first-use-tsmc-3nm-2021-07/
 Comments URL: https://news.ycombinator.com/item?id=27720140
-Points: 96
-# Comments: 60]]></summary>
+Points: 114
+# Comments: 74]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -130,8 +130,8 @@ Points: 96
         <updated>2021-07-03T07:48:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nicolas.kruchten.com/content/2018/02/seriation/
 Comments URL: https://news.ycombinator.com/item?id=27720042
-Points: 62
-# Comments: 9]]></summary>
+Points: 69
+# Comments: 10]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -143,7 +143,7 @@ Points: 62
         <updated>2021-07-03T06:18:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/piccolomo/plotext
 Comments URL: https://news.ycombinator.com/item?id=27719759
-Points: 37
+Points: 42
 # Comments: 6]]></summary>
         <author>
             <name>animal_spirits</name>
@@ -156,23 +156,10 @@ Points: 37
         <updated>2021-07-03T04:11:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/vuejs/petite-vue
 Comments URL: https://news.ycombinator.com/item?id=27719290
-Points: 131
-# Comments: 46]]></summary>
+Points: 134
+# Comments: 55]]></summary>
         <author>
             <name>sshroot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitTorrent Turns 20: The File-Sharing Revolution Revisited]]></title>
-        <id>https://news.ycombinator.com/item?id=27719222</id>
-        <link href="https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/"/>
-        <updated>2021-07-03T03:52:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/
-Comments URL: https://news.ycombinator.com/item?id=27719222
-Points: 118
-# Comments: 61]]></summary>
-        <author>
-            <name>boramalper</name>
         </author>
     </entry>
     <entry>
@@ -182,7 +169,7 @@ Points: 118
         <updated>2021-07-03T03:14:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling
 Comments URL: https://news.ycombinator.com/item?id=27719071
-Points: 26
+Points: 28
 # Comments: 7]]></summary>
         <author>
             <name>tzury</name>
@@ -195,8 +182,8 @@ Points: 26
         <updated>2021-07-03T01:49:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://corecursive.com/066-sqlite-with-richard-hipp/
 Comments URL: https://news.ycombinator.com/item?id=27718701
-Points: 340
-# Comments: 47]]></summary>
+Points: 365
+# Comments: 56]]></summary>
         <author>
             <name>signa11</name>
         </author>
@@ -208,8 +195,8 @@ Points: 340
         <updated>2021-07-03T01:08:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-us-canada-57703836
 Comments URL: https://news.ycombinator.com/item?id=27718529
-Points: 448
-# Comments: 307]]></summary>
+Points: 461
+# Comments: 324]]></summary>
         <author>
             <name>sedeki</name>
         </author>
@@ -221,8 +208,8 @@ Points: 448
         <updated>2021-07-02T23:28:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.stripes.com/theaters/middle_east/2021-07-02/pokemon-go-bagram-troop-withdrawal-2027917.html
 Comments URL: https://news.ycombinator.com/item?id=27718087
-Points: 154
-# Comments: 110]]></summary>
+Points: 158
+# Comments: 117]]></summary>
         <author>
             <name>lalaland1125</name>
         </author>
@@ -234,8 +221,8 @@ Points: 154
         <updated>2021-07-02T23:22:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://distill.pub/2021/distill-hiatus/
 Comments URL: https://news.ycombinator.com/item?id=27718054
-Points: 78
-# Comments: 7]]></summary>
+Points: 83
+# Comments: 11]]></summary>
         <author>
             <name>mkeeter</name>
         </author>
@@ -271,7 +258,7 @@ The post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tric
         <updated>2021-07-02T16:14:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/
 Comments URL: https://news.ycombinator.com/item?id=27713415
-Points: 380
+Points: 382
 # Comments: 214]]></summary>
         <author>
             <name>danso</name>
@@ -286,6 +273,19 @@ Points: 380
 The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Sarah Drasner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorting networks and their applications (1968) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27710946</id>
+        <link href="http://www.cs.kent.edu/~batcher/sort.pdf"/>
+        <updated>2021-07-02T13:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.cs.kent.edu/~batcher/sort.pdf
+Comments URL: https://news.ycombinator.com/item?id=27710946
+Points: 16
+# Comments: 3]]></summary>
+        <author>
+            <name>tjalfi</name>
         </author>
     </entry>
     <entry>
