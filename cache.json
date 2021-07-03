@@ -6,9 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27724875",
+          "author": "jstreebin",
+          "description": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=27724875\nPoints: 1\n# Comments: 0",
+          "link": "https://www.easypost.com/careers",
+          "publishedOn": "2021-07-03T21:00:00.000Z",
+          "wordCount": 381,
+          "title": "EasyPost is building the logistics platform for ecommerce"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27724460",
+          "author": "elorant",
+          "description": "Article URL: https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/\nComments URL: https://news.ycombinator.com/item?id=27724460\nPoints: 10\n# Comments: 0",
+          "link": "https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/",
+          "publishedOn": "2021-07-03T20:07:25.000Z",
+          "wordCount": 1872,
+          "title": "How Databases handle 10M devices in high-cardinality benchmarks"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27724331",
+          "author": "ntietz",
+          "description": "Article URL: https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/\nComments URL: https://news.ycombinator.com/item?id=27724331\nPoints: 5\n# Comments: 0",
+          "link": "https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/",
+          "publishedOn": "2021-07-03T19:54:19.000Z",
+          "wordCount": 1011,
+          "title": "Where are we going from here? Software engineering needs formal methods"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27724236",
           "author": "James-Livesey",
-          "description": "Article URL: https://jamesl.me/atto/\nComments URL: https://news.ycombinator.com/item?id=27724236\nPoints: 4\n# Comments: 1",
+          "description": "Article URL: https://jamesl.me/atto/\nComments URL: https://news.ycombinator.com/item?id=27724236\nPoints: 17\n# Comments: 7",
           "link": "https://jamesl.me/atto/",
           "publishedOn": "2021-07-03T19:44:54.000Z",
           "wordCount": 3,
@@ -17,16 +44,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27724224",
           "author": "akpa1",
-          "description": "Article URL: https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/\nComments URL: https://news.ycombinator.com/item?id=27724224\nPoints: 5\n# Comments: 0",
+          "description": "Article URL: https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/\nComments URL: https://news.ycombinator.com/item?id=27724224\nPoints: 11\n# Comments: 2",
           "link": "https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/",
           "publishedOn": "2021-07-03T19:43:38.000Z",
           "wordCount": 2615,
           "title": "How not to break a search engine"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27724067",
+          "author": "matt_d",
+          "description": "Article URL: http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/\nComments URL: https://news.ycombinator.com/item?id=27724067\nPoints: 4\n# Comments: 0",
+          "link": "http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/",
+          "publishedOn": "2021-07-03T19:24:28.000Z",
+          "wordCount": 235,
+          "title": "The Dawn of Formalized Mathematics"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27724042",
           "author": "janvdberg",
-          "description": "Article URL: https://thelig.ht/abandoning-github/\nComments URL: https://news.ycombinator.com/item?id=27724042\nPoints: 151\n# Comments: 64",
+          "description": "Article URL: https://thelig.ht/abandoning-github/\nComments URL: https://news.ycombinator.com/item?id=27724042\nPoints: 345\n# Comments: 188",
           "link": "https://thelig.ht/abandoning-github/",
           "publishedOn": "2021-07-03T19:21:17.000Z",
           "wordCount": 102,
@@ -35,43 +71,43 @@
         {
           "id": "https://news.ycombinator.com/item?id=27724008",
           "author": "nocture",
-          "description": "Article URL: https://twitter.com/bphogan/status/1411097686854488067\nComments URL: https://news.ycombinator.com/item?id=27724008\nPoints: 61\n# Comments: 35",
+          "description": "Article URL: https://twitter.com/bphogan/status/1411097686854488067\nComments URL: https://news.ycombinator.com/item?id=27724008\nPoints: 140\n# Comments: 91",
           "link": "https://twitter.com/bphogan/status/1411097686854488067",
           "publishedOn": "2021-07-03T19:17:06.000Z",
           "wordCount": 196,
           "title": "GitHub scraped your code. And they plan to charge you"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27723988",
-          "author": "agronaut",
-          "description": "Article URL: https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land\nComments URL: https://news.ycombinator.com/item?id=27723988\nPoints: 10\n# Comments: 13",
-          "link": "https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land",
-          "publishedOn": "2021-07-03T19:13:44.000Z",
-          "wordCount": 2339,
-          "title": "Will we ever fly supersonically over land?"
+          "id": "https://news.ycombinator.com/item?id=27723710",
+          "author": "azhenley",
+          "description": "Article URL: https://docs.github.com/en/github/copilot/research-recitation\nComments URL: https://news.ycombinator.com/item?id=27723710\nPoints: 21\n# Comments: 2",
+          "link": "https://docs.github.com/en/github/copilot/research-recitation",
+          "publishedOn": "2021-07-03T18:32:08.000Z",
+          "wordCount": 3403,
+          "title": "Analysis of how often GitHub Copilot copy-pastes"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27723460",
+          "author": "laurex",
+          "description": "Article URL: https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4\nComments URL: https://news.ycombinator.com/item?id=27723460\nPoints: 20\n# Comments: 0",
+          "link": "https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4",
+          "publishedOn": "2021-07-03T17:55:05.000Z",
+          "wordCount": 2110,
+          "title": "The Metaverse: A brave, new virtual world"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27723333",
           "author": "curmudgeon22",
-          "description": "Article URL: https://taibbi.substack.com/p/a-case-of-intellectual-capture-on\nComments URL: https://news.ycombinator.com/item?id=27723333\nPoints: 73\n# Comments: 40",
+          "description": "Article URL: https://taibbi.substack.com/p/a-case-of-intellectual-capture-on\nComments URL: https://news.ycombinator.com/item?id=27723333\nPoints: 83\n# Comments: 52",
           "link": "https://taibbi.substack.com/p/a-case-of-intellectual-capture-on",
           "publishedOn": "2021-07-03T17:38:50.000Z",
-          "wordCount": 2605,
+          "wordCount": 2390,
           "title": "Using government guidelines to police content: state censorship?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27723028",
-          "author": "festinalente",
-          "description": "Article URL: https://www.ycombinator.com/companies/finley/jobs/BcIjalj-software-engineer\nComments URL: https://news.ycombinator.com/item?id=27723028\nPoints: 1\n# Comments: 0",
-          "link": "https://www.ycombinator.com/companies/finley/jobs/BcIjalj-software-engineer",
-          "publishedOn": "2021-07-03T17:00:45.000Z",
-          "wordCount": 813,
-          "title": "Finley (YC W21) Is Hiring Senior Engineers (Remote)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27723001",
           "author": "science4sail",
-          "description": "Article URL: https://www.theguardian.com/commentisfree/2020/jan/08/lab-grown-food-destroy-farming-save-planet\nComments URL: https://news.ycombinator.com/item?id=27723001\nPoints: 51\n# Comments: 11",
+          "description": "Article URL: https://www.theguardian.com/commentisfree/2020/jan/08/lab-grown-food-destroy-farming-save-planet\nComments URL: https://news.ycombinator.com/item?id=27723001\nPoints: 66\n# Comments: 23",
           "link": "https://www.theguardian.com/commentisfree/2020/jan/08/lab-grown-food-destroy-farming-save-planet",
           "publishedOn": "2021-07-03T16:57:31.000Z",
           "wordCount": 2024,
@@ -80,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27722963",
           "author": "mostlyghostly",
-          "description": "Article URL: https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/\nComments URL: https://news.ycombinator.com/item?id=27722963\nPoints: 27\n# Comments: 5",
+          "description": "Article URL: https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/\nComments URL: https://news.ycombinator.com/item?id=27722963\nPoints: 33\n# Comments: 5",
           "link": "https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/",
           "publishedOn": "2021-07-03T16:52:01.000Z",
           "wordCount": 1312,
@@ -89,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27722947",
           "author": "mrry",
-          "description": "Article URL: https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html\nComments URL: https://news.ycombinator.com/item?id=27722947\nPoints: 65\n# Comments: 12",
+          "description": "Article URL: https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html\nComments URL: https://news.ycombinator.com/item?id=27722947\nPoints: 76\n# Comments: 12",
           "link": "https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html",
           "publishedOn": "2021-07-03T16:50:07.000Z",
           "wordCount": 2454,
@@ -98,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27722807",
           "author": "ttsiodras",
-          "description": "Article URL: https://www.thanassis.space/miniforth.html\nComments URL: https://news.ycombinator.com/item?id=27722807\nPoints: 38\n# Comments: 3",
+          "description": "Article URL: https://www.thanassis.space/miniforth.html\nComments URL: https://news.ycombinator.com/item?id=27722807\nPoints: 49\n# Comments: 3",
           "link": "https://www.thanassis.space/miniforth.html",
           "publishedOn": "2021-07-03T16:33:44.000Z",
           "wordCount": 1855,
@@ -107,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27722333",
           "author": "vackosar",
-          "description": "Article URL: https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition\nComments URL: https://news.ycombinator.com/item?id=27722333\nPoints: 94\n# Comments: 11",
+          "description": "Article URL: https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition\nComments URL: https://news.ycombinator.com/item?id=27722333\nPoints: 104\n# Comments: 13",
           "link": "https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition",
           "publishedOn": "2021-07-03T15:39:05.000Z",
           "wordCount": 636,
@@ -116,16 +152,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27722254",
           "author": "textman",
-          "description": "download.cnet.com is hosting an ancient version of my app and I never submitted it to them or contacted them in any way. They simply stole my installer and content from my website without asking or getting permission. I won't get into my reasons for not wanting any of these download sites to offer my software. They are of course entitled to provide a link to my website and some do that and only that which is OK.\nthere is a link in in old HN post (https://news.ycombinator.com/item?id=2910554) that no longer works:\nhttp://cnet-upload.custhelp.com/app/answers/detail/a_id/2064\nanyone know if there is good contact form or email address for any of these download sites to ask that they not offer my app?\nIf I am not successful getting them to comply, would a DMCA be appropriate and would I be asking for legal troubles if I submit a DCMA?\nComments URL: https://news.ycombinator.com/item?id=27722254\nPoints: 86\n# Comments: 32",
+          "description": "download.cnet.com is hosting an ancient version of my app and I never submitted it to them or contacted them in any way. They simply stole my installer and content from my website without asking or getting permission. I won't get into my reasons for not wanting any of these download sites to offer my software. They are of course entitled to provide a link to my website and some do that and only that which is OK.\nthere is a link in in old HN post (https://news.ycombinator.com/item?id=2910554) that no longer works:\nhttp://cnet-upload.custhelp.com/app/answers/detail/a_id/2064\nanyone know if there is good contact form or email address for any of these download sites to ask that they not offer my app?\nIf I am not successful getting them to comply, would a DMCA be appropriate and would I be asking for legal troubles if I submit a DCMA?\nComments URL: https://news.ycombinator.com/item?id=27722254\nPoints: 97\n# Comments: 38",
           "link": "https://news.ycombinator.com/item?id=27722254",
           "publishedOn": "2021-07-03T15:30:34.000Z",
-          "wordCount": 2188,
+          "wordCount": 2961,
           "title": "Ask HN: How to stop download.cnet.com from hosting my app?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27722221",
           "author": "nathell",
-          "description": "Article URL: http://blog.danieljanus.pl/2021/07/01/commit-groups/\nComments URL: https://news.ycombinator.com/item?id=27722221\nPoints: 104\n# Comments: 79",
+          "description": "Article URL: http://blog.danieljanus.pl/2021/07/01/commit-groups/\nComments URL: https://news.ycombinator.com/item?id=27722221\nPoints: 121\n# Comments: 88",
           "link": "http://blog.danieljanus.pl/2021/07/01/commit-groups/",
           "publishedOn": "2021-07-03T15:27:32.000Z",
           "wordCount": 1900,
@@ -134,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27721748",
           "author": "mewithoutyou",
-          "description": "Article URL: https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/\nComments URL: https://news.ycombinator.com/item?id=27721748\nPoints: 89\n# Comments: 54",
+          "description": "Article URL: https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/\nComments URL: https://news.ycombinator.com/item?id=27721748\nPoints: 95\n# Comments: 65",
           "link": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
           "publishedOn": "2021-07-03T14:14:40.000Z",
           "wordCount": 2812,
@@ -143,47 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27721643",
           "author": "g8oz",
-          "description": "Article URL: https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php\nComments URL: https://news.ycombinator.com/item?id=27721643\nPoints: 164\n# Comments: 199",
+          "description": "Article URL: https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php\nComments URL: https://news.ycombinator.com/item?id=27721643\nPoints: 182\n# Comments: 222",
           "link": "https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php",
           "publishedOn": "2021-07-03T13:55:40.000Z",
           "wordCount": 2128,
           "title": "Bay Area cities want to end single-family home zoning"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27721306",
-          "author": "AlexeyBrin",
-          "description": "Article URL: https://wiki.squeak.org/squeak/6622\nComments URL: https://news.ycombinator.com/item?id=27721306\nPoints: 60\n# Comments: 12",
-          "link": "https://wiki.squeak.org/squeak/6622",
-          "publishedOn": "2021-07-03T12:54:20.000Z",
-          "wordCount": 1127,
-          "title": "Learning Squeak (2019)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27720912",
-          "author": "stanrivers",
-          "description": "Article URL: https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa\nComments URL: https://news.ycombinator.com/item?id=27720912\nPoints: 303\n# Comments: 136",
-          "link": "https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa",
-          "publishedOn": "2021-07-03T11:35:16.000Z",
-          "wordCount": 1578,
-          "title": "Suppose I wanted to kill a lot of pilots"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27720908",
-          "author": "morsch",
-          "description": "Article URL: https://github.com/darktable-org/darktable/releases/tag/release-3.6.0\nComments URL: https://news.ycombinator.com/item?id=27720908\nPoints: 154\n# Comments: 49",
-          "link": "https://github.com/darktable-org/darktable/releases/tag/release-3.6.0",
-          "publishedOn": "2021-07-03T11:34:14.000Z",
-          "wordCount": 3110,
-          "title": "Darktable 3.6"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27720517",
-          "author": "danboarder",
-          "description": "Article URL: https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative\nComments URL: https://news.ycombinator.com/item?id=27720517\nPoints: 89\n# Comments: 33",
-          "link": "https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative",
-          "publishedOn": "2021-07-03T09:57:38.000Z",
-          "wordCount": 1518,
-          "title": "The ‘flow state’: Where creative work thrives (2019)"
         }
       ]
     },
@@ -378,7 +378,7 @@
           "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
           "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
           "publishedOn": "2021-07-02T10:30:00.000Z",
-          "wordCount": 4210,
+          "wordCount": 4158,
           "title": "Email Testing Flow As It Should Be",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
@@ -392,7 +392,7 @@
           "description": "When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.",
           "link": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
           "publishedOn": "2021-07-01T12:30:00.000Z",
-          "wordCount": 4717,
+          "wordCount": 4757,
           "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc1434b9-70c3-4fb2-821e-2128e3373246/frontend-testing-pitfalls.jpg",
@@ -406,7 +406,7 @@
           "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
           "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4729,
+          "wordCount": 4690,
           "title": "The State Of Web Workers In 2021",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
@@ -420,7 +420,7 @@
           "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
           "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3697,
+          "wordCount": 3644,
           "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
@@ -462,7 +462,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2507,
+          "wordCount": 2520,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -476,7 +476,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5449,
+          "wordCount": 5397,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -490,7 +490,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3517,
+          "wordCount": 3529,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -504,7 +504,7 @@
           "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
           "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4168,
+          "wordCount": 4169,
           "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
@@ -532,7 +532,7 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1399,
+          "wordCount": 1398,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
@@ -560,7 +560,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5309,
+          "wordCount": 5350,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -574,7 +574,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3420,
+          "wordCount": 3413,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -588,7 +588,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3949,
+          "wordCount": 3911,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -616,7 +616,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4110,
+          "wordCount": 4095,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -658,7 +658,7 @@
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
           "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3666,
+          "wordCount": 3669,
           "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
@@ -672,7 +672,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1745,
+          "wordCount": 1750,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -700,7 +700,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 875,
+          "wordCount": 874,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -714,7 +714,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2777,
+          "wordCount": 2778,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -742,7 +742,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2389,
+          "wordCount": 2443,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -756,7 +756,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4406,
+          "wordCount": 4417,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
