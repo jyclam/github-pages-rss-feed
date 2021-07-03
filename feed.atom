@@ -2,12 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T17:16:27.191Z</updated>
+    <updated>2021-07-03T18:13:33.840Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Finley (YC W21 Fintech) Is Hiring Senior Engineers (Remote)]]></title>
+        <title type="html"><![CDATA[If Platforms Use Gov't Guidelines to Police Content, Is That State Censorship?]]></title>
+        <id>https://news.ycombinator.com/item?id=27723333</id>
+        <link href="https://taibbi.substack.com/p/a-case-of-intellectual-capture-on"/>
+        <updated>2021-07-03T17:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://taibbi.substack.com/p/a-case-of-intellectual-capture-on
+Comments URL: https://news.ycombinator.com/item?id=27723333
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>curmudgeon22</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video shows fire in Gulf of Mexico after gas pipeline rupture]]></title>
+        <id>https://news.ycombinator.com/item?id=27723247</id>
+        <link href="https://www.youtube.com/watch?v=U3yBnodXI7E"/>
+        <updated>2021-07-03T17:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=U3yBnodXI7E
+Comments URL: https://news.ycombinator.com/item?id=27723247
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finley (YC W21) Is Hiring Senior Engineers (Remote)]]></title>
         <id>https://news.ycombinator.com/item?id=27723028</id>
         <link href="https://www.ycombinator.com/companies/finley/jobs/BcIjalj-software-engineer"/>
         <updated>2021-07-03T17:00:45.000Z</updated>
@@ -20,16 +46,42 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[San Francisco recorded a 753 percent rise in car burglaries compared to May 2020]]></title>
-        <id>https://news.ycombinator.com/item?id=27722668</id>
-        <link href="https://www.sfchronicle.com/crime/article/San-Francisco-car-break-ins-tourism-16275241.php"/>
-        <updated>2021-07-03T16:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sfchronicle.com/crime/article/San-Francisco-car-break-ins-tourism-16275241.php
-Comments URL: https://news.ycombinator.com/item?id=27722668
-Points: 36
-# Comments: 12]]></summary>
+        <title type="html"><![CDATA[We Don’t Have Unprofitable Customers, Just Unhappy Accidents]]></title>
+        <id>https://news.ycombinator.com/item?id=27722963</id>
+        <link href="https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/"/>
+        <updated>2021-07-03T16:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/
+Comments URL: https://news.ycombinator.com/item?id=27722963
+Points: 8
+# Comments: 0]]></summary>
         <author>
-            <name>sahin</name>
+            <name>mostlyghostly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add eBPF observability to your product]]></title>
+        <id>https://news.ycombinator.com/item?id=27722947</id>
+        <link href="https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html"/>
+        <updated>2021-07-03T16:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
+Comments URL: https://news.ycombinator.com/item?id=27722947
+Points: 16
+# Comments: 5]]></summary>
+        <author>
+            <name>mrry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny FORTH from scratch in 1 week (bootloader-based Arduino UNO, 2K of RAM)]]></title>
+        <id>https://news.ycombinator.com/item?id=27722807</id>
+        <link href="https://www.thanassis.space/miniforth.html"/>
+        <updated>2021-07-03T16:33:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thanassis.space/miniforth.html
+Comments URL: https://news.ycombinator.com/item?id=27722807
+Points: 15
+# Comments: 0]]></summary>
+        <author>
+            <name>ttsiodras</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +91,8 @@ Points: 36
         <updated>2021-07-03T15:39:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 Comments URL: https://news.ycombinator.com/item?id=27722333
-Points: 53
-# Comments: 5]]></summary>
+Points: 77
+# Comments: 8]]></summary>
         <author>
             <name>vackosar</name>
         </author>
@@ -56,8 +108,8 @@ http://cnet-upload.custhelp.com/app/answers/detail/a_id/2064
 anyone know if there is good contact form or email address for any of these download sites to ask that they not offer my app?
 If I am not successful getting them to comply, would a DMCA be appropriate and would I be asking for legal troubles if I submit a DCMA?
 Comments URL: https://news.ycombinator.com/item?id=27722254
-Points: 26
-# Comments: 9]]></summary>
+Points: 42
+# Comments: 17]]></summary>
         <author>
             <name>textman</name>
         </author>
@@ -69,49 +121,10 @@ Points: 26
         <updated>2021-07-03T15:27:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.danieljanus.pl/2021/07/01/commit-groups/
 Comments URL: https://news.ycombinator.com/item?id=27722221
-Points: 24
-# Comments: 8]]></summary>
-        <author>
-            <name>nathell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America’s government comes clean on UFOs]]></title>
-        <id>https://news.ycombinator.com/item?id=27722178</id>
-        <link href="https://www.economist.com/united-states/2021/07/03/americas-government-comes-clean-on-ufos"/>
-        <updated>2021-07-03T15:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/united-states/2021/07/03/americas-government-comes-clean-on-ufos
-Comments URL: https://news.ycombinator.com/item?id=27722178
-Points: 59
-# Comments: 76]]></summary>
-        <author>
-            <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mouse Lungs After Long-Term Exposure to Atmosphere Predicted by Climate Change]]></title>
-        <id>https://news.ycombinator.com/item?id=27721892</id>
-        <link href="https://ehp.niehs.nih.gov/doi/10.1289/EHP7305"/>
-        <updated>2021-07-03T14:41:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ehp.niehs.nih.gov/doi/10.1289/EHP7305
-Comments URL: https://news.ycombinator.com/item?id=27721892
 Points: 60
 # Comments: 29]]></summary>
         <author>
-            <name>bryanrasmussen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom domain names are coming to iCloud mail with iCloud+]]></title>
-        <id>https://news.ycombinator.com/item?id=27721777</id>
-        <link href="https://9to5mac.com/2021/06/07/custom-domain-names-are-coming-to-icloud-mail-with-icloud/"/>
-        <updated>2021-07-03T14:18:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://9to5mac.com/2021/06/07/custom-domain-names-are-coming-to-icloud-mail-with-icloud/
-Comments URL: https://news.ycombinator.com/item?id=27721777
-Points: 45
-# Comments: 22]]></summary>
-        <author>
-            <name>blacktulip</name>
+            <name>nathell</name>
         </author>
     </entry>
     <entry>
@@ -121,8 +134,8 @@ Points: 45
         <updated>2021-07-03T14:14:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/
 Comments URL: https://news.ycombinator.com/item?id=27721748
-Points: 44
-# Comments: 4]]></summary>
+Points: 60
+# Comments: 21]]></summary>
         <author>
             <name>mewithoutyou</name>
         </author>
@@ -134,8 +147,8 @@ Points: 44
         <updated>2021-07-03T13:55:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php
 Comments URL: https://news.ycombinator.com/item?id=27721643
-Points: 109
-# Comments: 109]]></summary>
+Points: 130
+# Comments: 146]]></summary>
         <author>
             <name>g8oz</name>
         </author>
@@ -147,8 +160,8 @@ Points: 109
         <updated>2021-07-03T13:17:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jakearchibald.com/2021/last-return-wins/
 Comments URL: https://news.ycombinator.com/item?id=27721432
-Points: 57
-# Comments: 32]]></summary>
+Points: 71
+# Comments: 41]]></summary>
         <author>
             <name>jaffathecake</name>
         </author>
@@ -160,7 +173,7 @@ Points: 57
         <updated>2021-07-03T12:54:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wiki.squeak.org/squeak/6622
 Comments URL: https://news.ycombinator.com/item?id=27721306
-Points: 44
+Points: 50
 # Comments: 6]]></summary>
         <author>
             <name>AlexeyBrin</name>
@@ -173,21 +186,21 @@ Points: 44
         <updated>2021-07-03T12:50:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://chimera-linux.org/
 Comments URL: https://news.ycombinator.com/item?id=27721283
-Points: 85
-# Comments: 68]]></summary>
+Points: 92
+# Comments: 80]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suppose I Wanted to Kill a Lot of Pilots]]></title>
+        <title type="html"><![CDATA[Suppose I wanted to kill a lot of pilots]]></title>
         <id>https://news.ycombinator.com/item?id=27720912</id>
         <link href="https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa"/>
         <updated>2021-07-03T11:35:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa
 Comments URL: https://news.ycombinator.com/item?id=27720912
-Points: 245
-# Comments: 109]]></summary>
+Points: 279
+# Comments: 127]]></summary>
         <author>
             <name>stanrivers</name>
         </author>
@@ -199,23 +212,10 @@ Points: 245
         <updated>2021-07-03T11:34:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/darktable-org/darktable/releases/tag/release-3.6.0
 Comments URL: https://news.ycombinator.com/item?id=27720908
-Points: 123
-# Comments: 34]]></summary>
+Points: 133
+# Comments: 41]]></summary>
         <author>
             <name>morsch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Made Early Humans Smart]]></title>
-        <id>https://news.ycombinator.com/item?id=27720885</id>
-        <link href="https://nautil.us/issue/102/hidden-truths/what-made-early-humans-smart"/>
-        <updated>2021-07-03T11:29:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/102/hidden-truths/what-made-early-humans-smart
-Comments URL: https://news.ycombinator.com/item?id=27720885
-Points: 59
-# Comments: 38]]></summary>
-        <author>
-            <name>dnetesn</name>
         </author>
     </entry>
     <entry>
@@ -225,8 +225,8 @@ Points: 59
         <updated>2021-07-03T10:30:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wionews.com/world/major-swedish-supermarket-chain-hit-by-cyberattack-395556
 Comments URL: https://news.ycombinator.com/item?id=27720623
-Points: 133
-# Comments: 112]]></summary>
+Points: 141
+# Comments: 131]]></summary>
         <author>
             <name>jnieminen</name>
         </author>
@@ -238,8 +238,8 @@ Points: 133
         <updated>2021-07-03T09:57:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative
 Comments URL: https://news.ycombinator.com/item?id=27720517
-Points: 70
-# Comments: 25]]></summary>
+Points: 75
+# Comments: 27]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -251,8 +251,8 @@ Points: 70
         <updated>2021-07-03T08:15:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.electronicsweekly.com/uncategorised/apple-intel-first-use-tsmc-3nm-2021-07/
 Comments URL: https://news.ycombinator.com/item?id=27720140
-Points: 183
-# Comments: 124]]></summary>
+Points: 193
+# Comments: 134]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -264,7 +264,7 @@ Points: 183
         <updated>2021-07-03T07:48:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nicolas.kruchten.com/content/2018/02/seriation/
 Comments URL: https://news.ycombinator.com/item?id=27720042
-Points: 94
+Points: 98
 # Comments: 11]]></summary>
         <author>
             <name>ingve</name>
