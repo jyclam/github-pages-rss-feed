@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T22:11:04.586Z</updated>
+    <updated>2021-07-03T23:10:54.072Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,10 +13,28 @@
         <updated>2021-07-03T22:01:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378
 Comments URL: https://news.ycombinator.com/item?id=27725286
-Points: 3
-# Comments: 0]]></summary>
+Points: 33
+# Comments: 33]]></summary>
         <author>
             <name>pathompong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Can I charge GitHub for using my code in Copilot?]]></title>
+        <id>https://news.ycombinator.com/item?id=27725274</id>
+        <link href="https://news.ycombinator.com/item?id=27725274"/>
+        <updated>2021-07-03T21:59:17.000Z</updated>
+        <summary type="html"><![CDATA[Since Copilot is regurgitating licensed code without attribution, I pondering many options:
+1. sue GitHub (they will probably win since they can afford the best lawyers in the planet)
+2. don't use GitHub for future projects. Remove all my current repositories (does this guarantee GitHub can't use my code without attribution? My code is probably still in their Code Vault)
+3. use GitHub but use a license that explicitly denies usage of my code by Copilot (GitHub probably would probably just say "you can't do that, please just delete your account")
+4. use GitHub but ask them to pay me for using my code without attribution
+Option 1 is a waste of money and time for me (I will never win). Option 2 is fine, but I'm not sure what could stop GitHub scrapping public repos hosted in, let's say, GitLab. Option 3 would be the ideal case for me. Option 4: would be nice, but probably won't happen.
+Comments URL: https://news.ycombinator.com/item?id=27725274
+Points: 19
+# Comments: 10]]></summary>
+        <author>
+            <name>ingvul</name>
         </author>
     </entry>
     <entry>
@@ -39,23 +57,10 @@ Points: 1
         <updated>2021-07-03T20:07:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/
 Comments URL: https://news.ycombinator.com/item?id=27724460
-Points: 25
-# Comments: 2]]></summary>
-        <author>
-            <name>elorant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New [July 2, 2021] Audacity Data Collection Policy]]></title>
-        <id>https://news.ycombinator.com/item?id=27724389</id>
-        <link href="https://www.audacityteam.org/about/desktop-privacy-notice/"/>
-        <updated>2021-07-03T19:59:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.audacityteam.org/about/desktop-privacy-notice/
-Comments URL: https://news.ycombinator.com/item?id=27724389
-Points: 6
+Points: 27
 # Comments: 3]]></summary>
         <author>
-            <name>prvc</name>
+            <name>elorant</name>
         </author>
     </entry>
     <entry>
@@ -65,21 +70,21 @@ Points: 6
         <updated>2021-07-03T19:54:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/
 Comments URL: https://news.ycombinator.com/item?id=27724331
-Points: 33
-# Comments: 17]]></summary>
+Points: 52
+# Comments: 47]]></summary>
         <author>
             <name>ntietz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: atto – The new BASIC computer that runs in the browser]]></title>
+        <title type="html"><![CDATA[Show HN: Atto – BASIC computer that runs in the browser]]></title>
         <id>https://news.ycombinator.com/item?id=27724236</id>
         <link href="https://jamesl.me/atto/"/>
         <updated>2021-07-03T19:44:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jamesl.me/atto/
 Comments URL: https://news.ycombinator.com/item?id=27724236
-Points: 32
-# Comments: 21]]></summary>
+Points: 43
+# Comments: 25]]></summary>
         <author>
             <name>James-Livesey</name>
         </author>
@@ -91,7 +96,7 @@ Points: 32
         <updated>2021-07-03T19:43:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/
 Comments URL: https://news.ycombinator.com/item?id=27724224
-Points: 16
+Points: 17
 # Comments: 4]]></summary>
         <author>
             <name>akpa1</name>
@@ -104,21 +109,21 @@ Points: 16
         <updated>2021-07-03T19:24:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/
 Comments URL: https://news.ycombinator.com/item?id=27724067
-Points: 15
+Points: 27
 # Comments: 0]]></summary>
         <author>
             <name>matt_d</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abandoning GitHub]]></title>
+        <title type="html"><![CDATA[I do not agree with Github's use of copyrighted code as training for Copilot]]></title>
         <id>https://news.ycombinator.com/item?id=27724042</id>
         <link href="https://thelig.ht/abandoning-github/"/>
         <updated>2021-07-03T19:21:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thelig.ht/abandoning-github/
 Comments URL: https://news.ycombinator.com/item?id=27724042
-Points: 478
-# Comments: 276]]></summary>
+Points: 553
+# Comments: 343]]></summary>
         <author>
             <name>janvdberg</name>
         </author>
@@ -130,34 +135,34 @@ Points: 478
         <updated>2021-07-03T19:17:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/
 Comments URL: https://news.ycombinator.com/item?id=27724016
-Points: 12
-# Comments: 1]]></summary>
+Points: 15
+# Comments: 2]]></summary>
         <author>
             <name>JonathanBuchh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub scraped your code. And they plan to charge you]]></title>
-        <id>https://news.ycombinator.com/item?id=27724008</id>
-        <link href="https://twitter.com/bphogan/status/1411097686854488067"/>
-        <updated>2021-07-03T19:17:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/bphogan/status/1411097686854488067
-Comments URL: https://news.ycombinator.com/item?id=27724008
-Points: 226
-# Comments: 142]]></summary>
+        <title type="html"><![CDATA[Will we ever fly supersonically over land?]]></title>
+        <id>https://news.ycombinator.com/item?id=27723988</id>
+        <link href="https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land"/>
+        <updated>2021-07-03T19:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land
+Comments URL: https://news.ycombinator.com/item?id=27723988
+Points: 20
+# Comments: 57]]></summary>
         <author>
-            <name>nocture</name>
+            <name>agronaut</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Analysis of how often GitHub Copilot copy-pastes]]></title>
+        <title type="html"><![CDATA[Research recitation: A first look at rote learning in GitHub Copilot suggestions]]></title>
         <id>https://news.ycombinator.com/item?id=27723710</id>
         <link href="https://docs.github.com/en/github/copilot/research-recitation"/>
         <updated>2021-07-03T18:32:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docs.github.com/en/github/copilot/research-recitation
 Comments URL: https://news.ycombinator.com/item?id=27723710
-Points: 48
-# Comments: 14]]></summary>
+Points: 70
+# Comments: 27]]></summary>
         <author>
             <name>azhenley</name>
         </author>
@@ -169,8 +174,8 @@ Points: 48
         <updated>2021-07-03T17:55:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4
 Comments URL: https://news.ycombinator.com/item?id=27723460
-Points: 31
-# Comments: 3]]></summary>
+Points: 37
+# Comments: 13]]></summary>
         <author>
             <name>laurex</name>
         </author>
@@ -182,8 +187,8 @@ Points: 31
         <updated>2021-07-03T17:38:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://taibbi.substack.com/p/a-case-of-intellectual-capture-on
 Comments URL: https://news.ycombinator.com/item?id=27723333
-Points: 102
-# Comments: 62]]></summary>
+Points: 110
+# Comments: 76]]></summary>
         <author>
             <name>curmudgeon22</name>
         </author>
@@ -195,8 +200,8 @@ Points: 102
         <updated>2021-07-03T16:52:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/
 Comments URL: https://news.ycombinator.com/item?id=27722963
-Points: 34
-# Comments: 5]]></summary>
+Points: 37
+# Comments: 7]]></summary>
         <author>
             <name>mostlyghostly</name>
         </author>
@@ -208,8 +213,8 @@ Points: 34
         <updated>2021-07-03T16:50:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
 Comments URL: https://news.ycombinator.com/item?id=27722947
-Points: 92
-# Comments: 14]]></summary>
+Points: 103
+# Comments: 16]]></summary>
         <author>
             <name>mrry</name>
         </author>
@@ -221,8 +226,8 @@ Points: 92
         <updated>2021-07-03T16:33:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thanassis.space/miniforth.html
 Comments URL: https://news.ycombinator.com/item?id=27722807
-Points: 56
-# Comments: 7]]></summary>
+Points: 63
+# Comments: 8]]></summary>
         <author>
             <name>ttsiodras</name>
         </author>
@@ -234,27 +239,23 @@ Points: 56
         <updated>2021-07-03T15:39:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 Comments URL: https://news.ycombinator.com/item?id=27722333
-Points: 107
+Points: 110
 # Comments: 14]]></summary>
         <author>
             <name>vackosar</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: How to stop download.cnet.com from hosting my app?]]></title>
-        <id>https://news.ycombinator.com/item?id=27722254</id>
-        <link href="https://news.ycombinator.com/item?id=27722254"/>
-        <updated>2021-07-03T15:30:34.000Z</updated>
-        <summary type="html"><![CDATA[download.cnet.com is hosting an ancient version of my app and I never submitted it to them or contacted them in any way. They simply stole my installer and content from my website without asking or getting permission. I won't get into my reasons for not wanting any of these download sites to offer my software. They are of course entitled to provide a link to my website and some do that and only that which is OK.
-there is a link in in old HN post (https://news.ycombinator.com/item?id=2910554) that no longer works:
-http://cnet-upload.custhelp.com/app/answers/detail/a_id/2064
-anyone know if there is good contact form or email address for any of these download sites to ask that they not offer my app?
-If I am not successful getting them to comply, would a DMCA be appropriate and would I be asking for legal troubles if I submit a DCMA?
-Comments URL: https://news.ycombinator.com/item?id=27722254
-Points: 111
-# Comments: 40]]></summary>
+        <title type="html"><![CDATA[Things I wish Git had: Commit groups]]></title>
+        <id>https://news.ycombinator.com/item?id=27722221</id>
+        <link href="http://blog.danieljanus.pl/2021/07/01/commit-groups/"/>
+        <updated>2021-07-03T15:27:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://blog.danieljanus.pl/2021/07/01/commit-groups/
+Comments URL: https://news.ycombinator.com/item?id=27722221
+Points: 133
+# Comments: 103]]></summary>
         <author>
-            <name>textman</name>
+            <name>nathell</name>
         </author>
     </entry>
     <entry>
@@ -264,8 +265,8 @@ Points: 111
         <updated>2021-07-03T14:14:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/
 Comments URL: https://news.ycombinator.com/item?id=27721748
-Points: 107
-# Comments: 70]]></summary>
+Points: 114
+# Comments: 76]]></summary>
         <author>
             <name>mewithoutyou</name>
         </author>
