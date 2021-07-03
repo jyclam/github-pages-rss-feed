@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T21:10:46.811Z</updated>
+    <updated>2021-07-03T22:11:04.586Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What should the CPU usage be of a fully-loaded CPU that has been throttled?]]></title>
+        <id>https://news.ycombinator.com/item?id=27725286</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378"/>
+        <updated>2021-07-03T22:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378
+Comments URL: https://news.ycombinator.com/item?id=27725286
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>pathompong</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EasyPost is building the logistics platform for ecommerce]]></title>
         <id>https://news.ycombinator.com/item?id=27724875</id>
@@ -26,10 +39,23 @@ Points: 1
         <updated>2021-07-03T20:07:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/
 Comments URL: https://news.ycombinator.com/item?id=27724460
-Points: 10
-# Comments: 0]]></summary>
+Points: 25
+# Comments: 2]]></summary>
         <author>
             <name>elorant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New [July 2, 2021] Audacity Data Collection Policy]]></title>
+        <id>https://news.ycombinator.com/item?id=27724389</id>
+        <link href="https://www.audacityteam.org/about/desktop-privacy-notice/"/>
+        <updated>2021-07-03T19:59:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.audacityteam.org/about/desktop-privacy-notice/
+Comments URL: https://news.ycombinator.com/item?id=27724389
+Points: 6
+# Comments: 3]]></summary>
+        <author>
+            <name>prvc</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +65,8 @@ Points: 10
         <updated>2021-07-03T19:54:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/
 Comments URL: https://news.ycombinator.com/item?id=27724331
-Points: 5
-# Comments: 0]]></summary>
+Points: 33
+# Comments: 17]]></summary>
         <author>
             <name>ntietz</name>
         </author>
@@ -52,8 +78,8 @@ Points: 5
         <updated>2021-07-03T19:44:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jamesl.me/atto/
 Comments URL: https://news.ycombinator.com/item?id=27724236
-Points: 17
-# Comments: 7]]></summary>
+Points: 32
+# Comments: 21]]></summary>
         <author>
             <name>James-Livesey</name>
         </author>
@@ -65,8 +91,8 @@ Points: 17
         <updated>2021-07-03T19:43:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/
 Comments URL: https://news.ycombinator.com/item?id=27724224
-Points: 11
-# Comments: 2]]></summary>
+Points: 16
+# Comments: 4]]></summary>
         <author>
             <name>akpa1</name>
         </author>
@@ -78,7 +104,7 @@ Points: 11
         <updated>2021-07-03T19:24:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/
 Comments URL: https://news.ycombinator.com/item?id=27724067
-Points: 4
+Points: 15
 # Comments: 0]]></summary>
         <author>
             <name>matt_d</name>
@@ -91,10 +117,23 @@ Points: 4
         <updated>2021-07-03T19:21:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thelig.ht/abandoning-github/
 Comments URL: https://news.ycombinator.com/item?id=27724042
-Points: 345
-# Comments: 188]]></summary>
+Points: 478
+# Comments: 276]]></summary>
         <author>
             <name>janvdberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitor Lizards in Australia Dig Corkscrew Nests]]></title>
+        <id>https://news.ycombinator.com/item?id=27724016</id>
+        <link href="https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/"/>
+        <updated>2021-07-03T19:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/
+Comments URL: https://news.ycombinator.com/item?id=27724016
+Points: 12
+# Comments: 1]]></summary>
+        <author>
+            <name>JonathanBuchh</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +143,8 @@ Points: 345
         <updated>2021-07-03T19:17:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/bphogan/status/1411097686854488067
 Comments URL: https://news.ycombinator.com/item?id=27724008
-Points: 140
-# Comments: 91]]></summary>
+Points: 226
+# Comments: 142]]></summary>
         <author>
             <name>nocture</name>
         </author>
@@ -117,8 +156,8 @@ Points: 140
         <updated>2021-07-03T18:32:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docs.github.com/en/github/copilot/research-recitation
 Comments URL: https://news.ycombinator.com/item?id=27723710
-Points: 21
-# Comments: 2]]></summary>
+Points: 48
+# Comments: 14]]></summary>
         <author>
             <name>azhenley</name>
         </author>
@@ -130,8 +169,8 @@ Points: 21
         <updated>2021-07-03T17:55:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4
 Comments URL: https://news.ycombinator.com/item?id=27723460
-Points: 20
-# Comments: 0]]></summary>
+Points: 31
+# Comments: 3]]></summary>
         <author>
             <name>laurex</name>
         </author>
@@ -143,23 +182,10 @@ Points: 20
         <updated>2021-07-03T17:38:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://taibbi.substack.com/p/a-case-of-intellectual-capture-on
 Comments URL: https://news.ycombinator.com/item?id=27723333
-Points: 83
-# Comments: 52]]></summary>
+Points: 102
+# Comments: 62]]></summary>
         <author>
             <name>curmudgeon22</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lab-grown food will soon destroy farming – and save the planet (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27723001</id>
-        <link href="https://www.theguardian.com/commentisfree/2020/jan/08/lab-grown-food-destroy-farming-save-planet"/>
-        <updated>2021-07-03T16:57:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/commentisfree/2020/jan/08/lab-grown-food-destroy-farming-save-planet
-Comments URL: https://news.ycombinator.com/item?id=27723001
-Points: 66
-# Comments: 23]]></summary>
-        <author>
-            <name>science4sail</name>
         </author>
     </entry>
     <entry>
@@ -169,7 +195,7 @@ Points: 66
         <updated>2021-07-03T16:52:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/
 Comments URL: https://news.ycombinator.com/item?id=27722963
-Points: 33
+Points: 34
 # Comments: 5]]></summary>
         <author>
             <name>mostlyghostly</name>
@@ -182,8 +208,8 @@ Points: 33
         <updated>2021-07-03T16:50:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
 Comments URL: https://news.ycombinator.com/item?id=27722947
-Points: 76
-# Comments: 12]]></summary>
+Points: 92
+# Comments: 14]]></summary>
         <author>
             <name>mrry</name>
         </author>
@@ -195,8 +221,8 @@ Points: 76
         <updated>2021-07-03T16:33:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thanassis.space/miniforth.html
 Comments URL: https://news.ycombinator.com/item?id=27722807
-Points: 49
-# Comments: 3]]></summary>
+Points: 56
+# Comments: 7]]></summary>
         <author>
             <name>ttsiodras</name>
         </author>
@@ -208,8 +234,8 @@ Points: 49
         <updated>2021-07-03T15:39:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 Comments URL: https://news.ycombinator.com/item?id=27722333
-Points: 104
-# Comments: 13]]></summary>
+Points: 107
+# Comments: 14]]></summary>
         <author>
             <name>vackosar</name>
         </author>
@@ -225,23 +251,10 @@ http://cnet-upload.custhelp.com/app/answers/detail/a_id/2064
 anyone know if there is good contact form or email address for any of these download sites to ask that they not offer my app?
 If I am not successful getting them to comply, would a DMCA be appropriate and would I be asking for legal troubles if I submit a DCMA?
 Comments URL: https://news.ycombinator.com/item?id=27722254
-Points: 97
-# Comments: 38]]></summary>
+Points: 111
+# Comments: 40]]></summary>
         <author>
             <name>textman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things I wish Git had: Commit groups]]></title>
-        <id>https://news.ycombinator.com/item?id=27722221</id>
-        <link href="http://blog.danieljanus.pl/2021/07/01/commit-groups/"/>
-        <updated>2021-07-03T15:27:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://blog.danieljanus.pl/2021/07/01/commit-groups/
-Comments URL: https://news.ycombinator.com/item?id=27722221
-Points: 121
-# Comments: 88]]></summary>
-        <author>
-            <name>nathell</name>
         </author>
     </entry>
     <entry>
@@ -251,23 +264,10 @@ Points: 121
         <updated>2021-07-03T14:14:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/
 Comments URL: https://news.ycombinator.com/item?id=27721748
-Points: 95
-# Comments: 65]]></summary>
+Points: 107
+# Comments: 70]]></summary>
         <author>
             <name>mewithoutyou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bay Area cities want to end single-family home zoning]]></title>
-        <id>https://news.ycombinator.com/item?id=27721643</id>
-        <link href="https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php"/>
-        <updated>2021-07-03T13:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php
-Comments URL: https://news.ycombinator.com/item?id=27721643
-Points: 182
-# Comments: 222]]></summary>
-        <author>
-            <name>g8oz</name>
         </author>
     </entry>
     <entry>
@@ -849,16 +849,6 @@ The post Implementing Private Fields for JavaScript appeared first on Mozilla Ha
         <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
-        <id>https://smashingmagazine.com/2021/06/getting-started-webpack/</id>
-        <link href="https://smashingmagazine.com/2021/06/getting-started-webpack/"/>
-        <updated>2021-06-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nwani Victory)</name>
         </author>
     </entry>
 </feed>
