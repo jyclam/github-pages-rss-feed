@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T13:15:01.536Z</updated>
+    <updated>2021-07-03T14:10:04.344Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One woman's battle to prove she isn't dead]]></title>
+        <id>https://news.ycombinator.com/item?id=27721499</id>
+        <link href="https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead"/>
+        <updated>2021-07-03T13:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead
+Comments URL: https://news.ycombinator.com/item?id=27721499
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>edward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning Squeak in 2020]]></title>
         <id>https://news.ycombinator.com/item?id=27721306</id>
@@ -13,10 +26,23 @@
         <updated>2021-07-03T12:54:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wiki.squeak.org/squeak/6622
 Comments URL: https://news.ycombinator.com/item?id=27721306
-Points: 6
-# Comments: 0]]></summary>
+Points: 21
+# Comments: 2]]></summary>
         <author>
             <name>AlexeyBrin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chimera Linux: a Linux distribution based on FreeBSD userland and LLVM]]></title>
+        <id>https://news.ycombinator.com/item?id=27721283</id>
+        <link href="https://chimera-linux.org/"/>
+        <updated>2021-07-03T12:50:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chimera-linux.org/
+Comments URL: https://news.ycombinator.com/item?id=27721283
+Points: 23
+# Comments: 11]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +65,8 @@ Points: 1
         <updated>2021-07-03T11:35:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa
 Comments URL: https://news.ycombinator.com/item?id=27720912
-Points: 58
-# Comments: 40]]></summary>
+Points: 97
+# Comments: 56]]></summary>
         <author>
             <name>stanrivers</name>
         </author>
@@ -52,8 +78,8 @@ Points: 58
         <updated>2021-07-03T11:34:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/darktable-org/darktable/releases/tag/release-3.6.0
 Comments URL: https://news.ycombinator.com/item?id=27720908
-Points: 49
-# Comments: 9]]></summary>
+Points: 74
+# Comments: 17]]></summary>
         <author>
             <name>morsch</name>
         </author>
@@ -65,10 +91,23 @@ Points: 49
         <updated>2021-07-03T11:29:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/102/hidden-truths/what-made-early-humans-smart
 Comments URL: https://news.ycombinator.com/item?id=27720885
-Points: 15
-# Comments: 0]]></summary>
+Points: 29
+# Comments: 7]]></summary>
         <author>
             <name>dnetesn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drug-dealers are finding the always-on culture a chore]]></title>
+        <id>https://news.ycombinator.com/item?id=27720840</id>
+        <link href="https://www.economist.com/britain/2021/07/01/drug-dealers-are-finding-the-always-on-culture-a-chore"/>
+        <updated>2021-07-03T11:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/britain/2021/07/01/drug-dealers-are-finding-the-always-on-culture-a-chore
+Comments URL: https://news.ycombinator.com/item?id=27720840
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>Wowfunhappy</name>
         </author>
     </entry>
     <entry>
@@ -78,23 +117,10 @@ Points: 15
         <updated>2021-07-03T10:30:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wionews.com/world/major-swedish-supermarket-chain-hit-by-cyberattack-395556
 Comments URL: https://news.ycombinator.com/item?id=27720623
-Points: 18
-# Comments: 8]]></summary>
+Points: 43
+# Comments: 26]]></summary>
         <author>
             <name>jnieminen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only Windows 11 Pro will let you install Windows 11 with a local account]]></title>
-        <id>https://news.ycombinator.com/item?id=27720588</id>
-        <link href="https://www.pcworld.com/article/3623830/only-windows-11-pro-will-let-you-install-windows-11-with-a-local-account.html"/>
-        <updated>2021-07-03T10:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pcworld.com/article/3623830/only-windows-11-pro-will-let-you-install-windows-11-with-a-local-account.html
-Comments URL: https://news.ycombinator.com/item?id=27720588
-Points: 92
-# Comments: 91]]></summary>
-        <author>
-            <name>boba7</name>
         </author>
     </entry>
     <entry>
@@ -104,8 +130,8 @@ Points: 92
         <updated>2021-07-03T09:57:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative
 Comments URL: https://news.ycombinator.com/item?id=27720517
-Points: 21
-# Comments: 8]]></summary>
+Points: 30
+# Comments: 13]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -117,8 +143,8 @@ Points: 21
         <updated>2021-07-03T08:15:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.electronicsweekly.com/uncategorised/apple-intel-first-use-tsmc-3nm-2021-07/
 Comments URL: https://news.ycombinator.com/item?id=27720140
-Points: 114
-# Comments: 74]]></summary>
+Points: 127
+# Comments: 83]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -130,7 +156,7 @@ Points: 114
         <updated>2021-07-03T07:48:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nicolas.kruchten.com/content/2018/02/seriation/
 Comments URL: https://news.ycombinator.com/item?id=27720042
-Points: 69
+Points: 75
 # Comments: 10]]></summary>
         <author>
             <name>ingve</name>
@@ -143,8 +169,8 @@ Points: 69
         <updated>2021-07-03T06:18:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/piccolomo/plotext
 Comments URL: https://news.ycombinator.com/item?id=27719759
-Points: 42
-# Comments: 6]]></summary>
+Points: 48
+# Comments: 12]]></summary>
         <author>
             <name>animal_spirits</name>
         </author>
@@ -156,8 +182,8 @@ Points: 42
         <updated>2021-07-03T04:11:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/vuejs/petite-vue
 Comments URL: https://news.ycombinator.com/item?id=27719290
-Points: 134
-# Comments: 55]]></summary>
+Points: 143
+# Comments: 57]]></summary>
         <author>
             <name>sshroot</name>
         </author>
@@ -169,8 +195,8 @@ Points: 134
         <updated>2021-07-03T03:14:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling
 Comments URL: https://news.ycombinator.com/item?id=27719071
-Points: 28
-# Comments: 7]]></summary>
+Points: 33
+# Comments: 8]]></summary>
         <author>
             <name>tzury</name>
         </author>
@@ -182,8 +208,8 @@ Points: 28
         <updated>2021-07-03T01:49:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://corecursive.com/066-sqlite-with-richard-hipp/
 Comments URL: https://news.ycombinator.com/item?id=27718701
-Points: 365
-# Comments: 56]]></summary>
+Points: 388
+# Comments: 64]]></summary>
         <author>
             <name>signa11</name>
         </author>
@@ -195,8 +221,8 @@ Points: 365
         <updated>2021-07-03T01:08:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-us-canada-57703836
 Comments URL: https://news.ycombinator.com/item?id=27718529
-Points: 461
-# Comments: 324]]></summary>
+Points: 478
+# Comments: 349]]></summary>
         <author>
             <name>sedeki</name>
         </author>
@@ -208,8 +234,8 @@ Points: 461
         <updated>2021-07-02T23:28:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.stripes.com/theaters/middle_east/2021-07-02/pokemon-go-bagram-troop-withdrawal-2027917.html
 Comments URL: https://news.ycombinator.com/item?id=27718087
-Points: 158
-# Comments: 117]]></summary>
+Points: 160
+# Comments: 123]]></summary>
         <author>
             <name>lalaland1125</name>
         </author>
@@ -221,23 +247,10 @@ Points: 158
         <updated>2021-07-02T23:22:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://distill.pub/2021/distill-hiatus/
 Comments URL: https://news.ycombinator.com/item?id=27718054
-Points: 83
+Points: 88
 # Comments: 11]]></summary>
         <author>
             <name>mkeeter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Oral History of the L0pht (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=27717923</id>
-        <link href="https://duo.com/decipher/an-oral-history-of-the-l0pht"/>
-        <updated>2021-07-02T23:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://duo.com/decipher/an-oral-history-of-the-l0pht
-Comments URL: https://news.ycombinator.com/item?id=27717923
-Points: 127
-# Comments: 11]]></summary>
-        <author>
-            <name>whiteyford</name>
         </author>
     </entry>
     <entry>
@@ -252,19 +265,6 @@ The post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Another 0-day looms for many Western Digital users]]></title>
-        <id>https://news.ycombinator.com/item?id=27713415</id>
-        <link href="https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/"/>
-        <updated>2021-07-02T16:14:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/
-Comments URL: https://news.ycombinator.com/item?id=27713415
-Points: 382
-# Comments: 214]]></summary>
-        <author>
-            <name>danso</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Good Meetings]]></title>
         <id>https://css-tricks.com/?p=342995</id>
         <link href="https://css-tricks.com/good-meetings/"/>
@@ -276,16 +276,16 @@ The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sorting networks and their applications (1968) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=27710946</id>
-        <link href="http://www.cs.kent.edu/~batcher/sort.pdf"/>
-        <updated>2021-07-02T13:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.cs.kent.edu/~batcher/sort.pdf
-Comments URL: https://news.ycombinator.com/item?id=27710946
-Points: 16
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[Kind Engineering: How to Engineer Kindness]]></title>
+        <id>https://news.ycombinator.com/item?id=27710376</id>
+        <link href="https://www.usenix.org/conference/lisa21/presentation/smith"/>
+        <updated>2021-07-02T12:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.usenix.org/conference/lisa21/presentation/smith
+Comments URL: https://news.ycombinator.com/item?id=27710376
+Points: 47
+# Comments: 8]]></summary>
         <author>
-            <name>tjalfi</name>
+            <name>thejokersthief</name>
         </author>
     </entry>
     <entry>
