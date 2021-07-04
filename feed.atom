@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T11:09:07.215Z</updated>
+    <updated>2021-07-04T12:17:13.833Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)]]></title>
+        <id>https://news.ycombinator.com/item?id=27729028</id>
+        <link href="https://www.ycombinator.com/companies/avenue/jobs/G2sPjRf-software-engineer"/>
+        <updated>2021-07-04T12:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/avenue/jobs/G2sPjRf-software-engineer
+Comments URL: https://news.ycombinator.com/item?id=27729028
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>jeffbarg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The unexpected complications of minor features (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27728883</id>
+        <link href="https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535"/>
+        <updated>2021-07-04T11:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535
+Comments URL: https://news.ycombinator.com/item?id=27728883
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>AshleysBrain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health insurers are threatening not to cover some patients’ ER bills]]></title>
+        <id>https://news.ycombinator.com/item?id=27728654</id>
+        <link href="https://www.vox.com/2021/7/1/22557401/united-healthcare-emergency-room-visits-medical-bills"/>
+        <updated>2021-07-04T10:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vox.com/2021/7/1/22557401/united-healthcare-emergency-room-visits-medical-bills
+Comments URL: https://news.ycombinator.com/item?id=27728654
+Points: 19
+# Comments: 2]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Return of the Mac (2005)]]></title>
         <id>https://news.ycombinator.com/item?id=27728550</id>
@@ -13,8 +52,8 @@
         <updated>2021-07-04T10:14:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://paulgraham.com/mac.html
 Comments URL: https://news.ycombinator.com/item?id=27728550
-Points: 19
-# Comments: 4]]></summary>
+Points: 35
+# Comments: 36]]></summary>
         <author>
             <name>jnieminen</name>
         </author>
@@ -26,10 +65,23 @@ Points: 19
         <updated>2021-07-04T09:13:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/
 Comments URL: https://news.ycombinator.com/item?id=27728287
-Points: 49
-# Comments: 13]]></summary>
+Points: 92
+# Comments: 41]]></summary>
         <author>
             <name>shmsr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subtitle horse is a browser-based captions editor for subtitling videos online]]></title>
+        <id>https://news.ycombinator.com/item?id=27727833</id>
+        <link href="https://subtitle-horse.com/"/>
+        <updated>2021-07-04T07:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://subtitle-horse.com/
+Comments URL: https://news.ycombinator.com/item?id=27727833
+Points: 12
+# Comments: 1]]></summary>
+        <author>
+            <name>thunderbong</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +91,8 @@ Points: 49
         <updated>2021-07-04T06:59:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/opinion/articles/2021-07-03/heat-domes-are-a-red-hot-warning-on-climate-costs
 Comments URL: https://news.ycombinator.com/item?id=27727792
-Points: 36
-# Comments: 3]]></summary>
+Points: 58
+# Comments: 10]]></summary>
         <author>
             <name>montalbano</name>
         </author>
@@ -52,8 +104,8 @@ Points: 36
         <updated>2021-07-04T06:45:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.digitalviolence.org/
 Comments URL: https://news.ycombinator.com/item?id=27727733
-Points: 60
-# Comments: 7]]></summary>
+Points: 83
+# Comments: 10]]></summary>
         <author>
             <name>T-A</name>
         </author>
@@ -65,7 +117,7 @@ Points: 60
         <updated>2021-07-04T06:41:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://mentallandscape.com/C_CatalogVenus.htm
 Comments URL: https://news.ycombinator.com/item?id=27727717
-Points: 127
+Points: 154
 # Comments: 10]]></summary>
         <author>
             <name>areoform</name>
@@ -78,8 +130,8 @@ Points: 127
         <updated>2021-07-04T05:45:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sethrobertson.github.io/GitBestPractices/
 Comments URL: https://news.ycombinator.com/item?id=27727501
-Points: 83
-# Comments: 19]]></summary>
+Points: 99
+# Comments: 29]]></summary>
         <author>
             <name>hidden-spyder</name>
         </author>
@@ -91,8 +143,8 @@ Points: 83
         <updated>2021-07-04T04:05:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/
 Comments URL: https://news.ycombinator.com/item?id=27727150
-Points: 319
-# Comments: 137]]></summary>
+Points: 356
+# Comments: 148]]></summary>
         <author>
             <name>miles</name>
         </author>
@@ -104,8 +156,8 @@ Points: 319
         <updated>2021-07-04T03:59:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.strongtowns.org/the-growth-ponzi-scheme
 Comments URL: https://news.ycombinator.com/item?id=27727133
-Points: 211
-# Comments: 124]]></summary>
+Points: 225
+# Comments: 149]]></summary>
         <author>
             <name>jseliger</name>
         </author>
@@ -117,21 +169,21 @@ Points: 211
         <updated>2021-07-04T03:55:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://01.org/powertop/
 Comments URL: https://news.ycombinator.com/item?id=27727120
-Points: 60
-# Comments: 22]]></summary>
+Points: 69
+# Comments: 24]]></summary>
         <author>
             <name>pabs3</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-J “the open source cousin of GPT-3 everyone can use”]]></title>
+        <title type="html"><![CDATA[Mesh Transformer JAX – Model parallel transformers in JAX and Haiku]]></title>
         <id>https://news.ycombinator.com/item?id=27727009</id>
         <link href="https://github.com/kingoflolz/mesh-transformer-jax"/>
         <updated>2021-07-04T03:28:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/kingoflolz/mesh-transformer-jax
 Comments URL: https://news.ycombinator.com/item?id=27727009
-Points: 519
-# Comments: 114]]></summary>
+Points: 546
+# Comments: 121]]></summary>
         <author>
             <name>canada_dry</name>
         </author>
@@ -143,23 +195,10 @@ Points: 519
         <updated>2021-07-04T01:54:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/
 Comments URL: https://news.ycombinator.com/item?id=27726699
-Points: 49
-# Comments: 29]]></summary>
+Points: 55
+# Comments: 33]]></summary>
         <author>
             <name>signa11</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jerry (YC S17) is hiring a remote senior software engineer]]></title>
-        <id>https://news.ycombinator.com/item?id=27726472</id>
-        <link href="https://apply.workable.com/jerry/j/07E1D2B302/"/>
-        <updated>2021-07-04T01:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apply.workable.com/jerry/j/07E1D2B302/
-Comments URL: https://news.ycombinator.com/item?id=27726472
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>artag</name>
         </author>
     </entry>
     <entry>
@@ -169,8 +208,8 @@ Points: 1
         <updated>2021-07-03T22:01:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378
 Comments URL: https://news.ycombinator.com/item?id=27725286
-Points: 152
-# Comments: 141]]></summary>
+Points: 162
+# Comments: 144]]></summary>
         <author>
             <name>pathompong</name>
         </author>
@@ -182,23 +221,10 @@ Points: 152
         <updated>2021-07-03T20:34:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.iamjonas.me/2021/06/getting-unstuck.html
 Comments URL: https://news.ycombinator.com/item?id=27724669
-Points: 14
-# Comments: 5]]></summary>
+Points: 22
+# Comments: 8]]></summary>
         <author>
             <name>feross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microbes in cow stomachs can break down plastic]]></title>
-        <id>https://news.ycombinator.com/item?id=27724653</id>
-        <link href="https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full"/>
-        <updated>2021-07-03T20:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full
-Comments URL: https://news.ycombinator.com/item?id=27724653
-Points: 78
-# Comments: 24]]></summary>
-        <author>
-            <name>WaitWaitWha</name>
         </author>
     </entry>
     <entry>
@@ -208,36 +234,10 @@ Points: 78
         <updated>2021-07-03T20:07:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/
 Comments URL: https://news.ycombinator.com/item?id=27724460
-Points: 50
+Points: 52
 # Comments: 11]]></summary>
         <author>
             <name>elorant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where are we going from here? Software engineering needs formal methods]]></title>
-        <id>https://news.ycombinator.com/item?id=27724331</id>
-        <link href="https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/"/>
-        <updated>2021-07-03T19:54:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/
-Comments URL: https://news.ycombinator.com/item?id=27724331
-Points: 121
-# Comments: 105]]></summary>
-        <author>
-            <name>ntietz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Atto – BASIC computer that runs in the browser]]></title>
-        <id>https://news.ycombinator.com/item?id=27724236</id>
-        <link href="https://jamesl.me/atto/"/>
-        <updated>2021-07-03T19:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jamesl.me/atto/
-Comments URL: https://news.ycombinator.com/item?id=27724236
-Points: 95
-# Comments: 59]]></summary>
-        <author>
-            <name>James-Livesey</name>
         </author>
     </entry>
     <entry>
@@ -247,8 +247,8 @@ Points: 95
         <updated>2021-07-03T19:14:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/natures-safe
 Comments URL: https://news.ycombinator.com/item?id=27723993
-Points: 60
-# Comments: 39]]></summary>
+Points: 61
+# Comments: 41]]></summary>
         <author>
             <name>minding</name>
         </author>
@@ -260,8 +260,8 @@ Points: 60
         <updated>2021-07-03T12:14:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
 Comments URL: https://news.ycombinator.com/item?id=27721094
-Points: 86
-# Comments: 19]]></summary>
+Points: 95
+# Comments: 23]]></summary>
         <author>
             <name>scq</name>
         </author>
