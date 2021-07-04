@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T17:16:21.830Z</updated>
+    <updated>2021-07-04T18:13:30.011Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Secret Management in Kubernetes]]></title>
+        <id>https://news.ycombinator.com/item?id=27731066</id>
+        <link href="https://www.redhat.com/sysadmin/managing-secrets-kubernetes-pods"/>
+        <updated>2021-07-04T17:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.redhat.com/sysadmin/managing-secrets-kubernetes-pods
+Comments URL: https://news.ycombinator.com/item?id=27731066
+Points: 7
+# Comments: 10]]></summary>
+        <author>
+            <name>shiwanibiradar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flexport Is Hiring]]></title>
         <id>https://news.ycombinator.com/item?id=27731056</id>
@@ -26,10 +39,23 @@ Points: 1
         <updated>2021-07-04T16:46:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://iiviigames.github.io/pico8-api/
 Comments URL: https://news.ycombinator.com/item?id=27730946
-Points: 7
-# Comments: 0]]></summary>
+Points: 33
+# Comments: 1]]></summary>
         <author>
             <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write a time-series database engine from scratch]]></title>
+        <id>https://news.ycombinator.com/item?id=27730854</id>
+        <link href="https://nakabonne.dev/posts/write-tsdb-from-scratch/"/>
+        <updated>2021-07-04T16:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nakabonne.dev/posts/write-tsdb-from-scratch/
+Comments URL: https://news.ycombinator.com/item?id=27730854
+Points: 24
+# Comments: 0]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +65,8 @@ Points: 7
         <updated>2021-07-04T16:24:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html
 Comments URL: https://news.ycombinator.com/item?id=27730807
-Points: 13
-# Comments: 1]]></summary>
+Points: 27
+# Comments: 6]]></summary>
         <author>
             <name>mlerner</name>
         </author>
@@ -52,10 +78,23 @@ Points: 13
         <updated>2021-07-04T15:42:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://interestingengineering.com/microbes-in-cow-stomachs-may-help-our-plastic-problem
 Comments URL: https://news.ycombinator.com/item?id=27730497
-Points: 9
-# Comments: 2]]></summary>
+Points: 10
+# Comments: 5]]></summary>
         <author>
             <name>shoto_io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terrible Programming Features from the Past]]></title>
+        <id>https://news.ycombinator.com/item?id=27730473</id>
+        <link href="https://medium.com/young-coder/3-terrible-programming-features-from-the-past-ee5260af1d74"/>
+        <updated>2021-07-04T15:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medium.com/young-coder/3-terrible-programming-features-from-the-past-ee5260af1d74
+Comments URL: https://news.ycombinator.com/item?id=27730473
+Points: 11
+# Comments: 6]]></summary>
+        <author>
+            <name>kiyanwang</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +104,8 @@ Points: 9
         <updated>2021-07-04T14:45:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.lawrencejones.dev/working-too-hard/
 Comments URL: https://news.ycombinator.com/item?id=27729987
-Points: 70
-# Comments: 39]]></summary>
+Points: 83
+# Comments: 43]]></summary>
         <author>
             <name>lawrjone</name>
         </author>
@@ -78,8 +117,8 @@ Points: 70
         <updated>2021-07-04T14:26:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it
 Comments URL: https://news.ycombinator.com/item?id=27729848
-Points: 51
-# Comments: 81]]></summary>
+Points: 68
+# Comments: 119]]></summary>
         <author>
             <name>dsr12</name>
         </author>
@@ -91,8 +130,8 @@ Points: 51
         <updated>2021-07-04T13:49:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00
 Comments URL: https://news.ycombinator.com/item?id=27729610
-Points: 105
-# Comments: 38]]></summary>
+Points: 144
+# Comments: 55]]></summary>
         <author>
             <name>detaro</name>
         </author>
@@ -116,7 +155,7 @@ The post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS
         <updated>2021-07-04T13:19:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2
 Comments URL: https://news.ycombinator.com/item?id=27729417
-Points: 47
+Points: 58
 # Comments: 4]]></summary>
         <author>
             <name>begriffs</name>
@@ -129,8 +168,8 @@ Points: 47
         <updated>2021-07-04T13:16:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/
 Comments URL: https://news.ycombinator.com/item?id=27729402
-Points: 67
-# Comments: 26]]></summary>
+Points: 87
+# Comments: 35]]></summary>
         <author>
             <name>mardiyah</name>
         </author>
@@ -142,8 +181,8 @@ Points: 67
         <updated>2021-07-04T13:12:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mazzo.li/posts/c-performance-anecdote.html
 Comments URL: https://news.ycombinator.com/item?id=27729377
-Points: 57
-# Comments: 28]]></summary>
+Points: 79
+# Comments: 44]]></summary>
         <author>
             <name>rostayob</name>
         </author>
@@ -155,8 +194,8 @@ Points: 57
         <updated>2021-07-04T13:04:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.blender.org/user-stories/blender-and-the-rabbids/
 Comments URL: https://news.ycombinator.com/item?id=27729331
-Points: 154
-# Comments: 37]]></summary>
+Points: 176
+# Comments: 42]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -168,8 +207,8 @@ Points: 154
         <updated>2021-07-04T12:36:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/
 Comments URL: https://news.ycombinator.com/item?id=27729189
-Points: 27
-# Comments: 42]]></summary>
+Points: 36
+# Comments: 52]]></summary>
         <author>
             <name>entanglement</name>
         </author>
@@ -181,8 +220,8 @@ Points: 27
         <updated>2021-07-04T11:57:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://readyui.co/
 Comments URL: https://news.ycombinator.com/item?id=27729010
-Points: 31
-# Comments: 13]]></summary>
+Points: 42
+# Comments: 20]]></summary>
         <author>
             <name>rrahian</name>
         </author>
@@ -194,8 +233,8 @@ Points: 31
         <updated>2021-07-04T11:41:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.davetcode.co.uk/post/21st-century-emulator/
 Comments URL: https://news.ycombinator.com/item?id=27728941
-Points: 46
-# Comments: 7]]></summary>
+Points: 53
+# Comments: 6]]></summary>
         <author>
             <name>rcarmo</name>
         </author>
@@ -207,7 +246,7 @@ Points: 46
         <updated>2021-07-04T11:29:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535
 Comments URL: https://news.ycombinator.com/item?id=27728883
-Points: 56
+Points: 61
 # Comments: 10]]></summary>
         <author>
             <name>AshleysBrain</name>
@@ -220,23 +259,10 @@ Points: 56
         <updated>2021-07-04T10:36:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/102/hidden-truths/the-human-family-tree-it-turns-out-is-complicated
 Comments URL: https://news.ycombinator.com/item?id=27728635
-Points: 38
-# Comments: 1]]></summary>
+Points: 47
+# Comments: 11]]></summary>
         <author>
             <name>dnetesn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sky Thief: Beebo Russell's Last Flight]]></title>
-        <id>https://news.ycombinator.com/item?id=27728605</id>
-        <link href="https://www.rollingstone.com/culture/culture-features/beebo-russell-seattle-plane-theft-true-story-1187023/"/>
-        <updated>2021-07-04T10:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.rollingstone.com/culture/culture-features/beebo-russell-seattle-plane-theft-true-story-1187023/
-Comments URL: https://news.ycombinator.com/item?id=27728605
-Points: 10
-# Comments: 3]]></summary>
-        <author>
-            <name>ColinWright</name>
         </author>
     </entry>
     <entry>
@@ -246,36 +272,10 @@ Points: 10
         <updated>2021-07-04T10:14:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://paulgraham.com/mac.html
 Comments URL: https://news.ycombinator.com/item?id=27728550
-Points: 74
-# Comments: 116]]></summary>
+Points: 80
+# Comments: 127]]></summary>
         <author>
             <name>jnieminen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electron tube New Automatic Computer]]></title>
-        <id>https://news.ycombinator.com/item?id=27728483</id>
-        <link href="https://ena.computer/"/>
-        <updated>2021-07-04T09:56:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ena.computer/
-Comments URL: https://news.ycombinator.com/item?id=27728483
-Points: 42
-# Comments: 12]]></summary>
-        <author>
-            <name>edent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single random bit flip causes error in certificate transparency log]]></title>
-        <id>https://news.ycombinator.com/item?id=27728287</id>
-        <link href="https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/"/>
-        <updated>2021-07-04T09:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/
-Comments URL: https://news.ycombinator.com/item?id=27728287
-Points: 265
-# Comments: 166]]></summary>
-        <author>
-            <name>shmsr</name>
         </author>
     </entry>
     <entry>
