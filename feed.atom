@@ -2,39 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T23:10:54.072Z</updated>
+    <updated>2021-07-04T00:38:49.802Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[What should the CPU usage be of a fully-loaded CPU that has been throttled?]]></title>
-        <id>https://news.ycombinator.com/item?id=27725286</id>
-        <link href="https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378"/>
-        <updated>2021-07-03T22:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378
-Comments URL: https://news.ycombinator.com/item?id=27725286
-Points: 33
-# Comments: 33]]></summary>
+        <title type="html"><![CDATA[Israeli camouflage tech makes soldiers ‘invisible’]]></title>
+        <id>https://news.ycombinator.com/item?id=27725783</id>
+        <link href="https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096"/>
+        <updated>2021-07-03T23:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096
+Comments URL: https://news.ycombinator.com/item?id=27725783
+Points: 19
+# Comments: 11]]></summary>
         <author>
-            <name>pathompong</name>
+            <name>curmudgeon22</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Can I charge GitHub for using my code in Copilot?]]></title>
-        <id>https://news.ycombinator.com/item?id=27725274</id>
-        <link href="https://news.ycombinator.com/item?id=27725274"/>
-        <updated>2021-07-03T21:59:17.000Z</updated>
-        <summary type="html"><![CDATA[Since Copilot is regurgitating licensed code without attribution, I pondering many options:
-1. sue GitHub (they will probably win since they can afford the best lawyers in the planet)
-2. don't use GitHub for future projects. Remove all my current repositories (does this guarantee GitHub can't use my code without attribution? My code is probably still in their Code Vault)
-3. use GitHub but use a license that explicitly denies usage of my code by Copilot (GitHub probably would probably just say "you can't do that, please just delete your account")
-4. use GitHub but ask them to pay me for using my code without attribution
-Option 1 is a waste of money and time for me (I will never win). Option 2 is fine, but I'm not sure what could stop GitHub scrapping public repos hosted in, let's say, GitLab. Option 3 would be the ideal case for me. Option 4: would be nice, but probably won't happen.
-Comments URL: https://news.ycombinator.com/item?id=27725274
-Points: 19
-# Comments: 10]]></summary>
+        <title type="html"><![CDATA[Supermarket chain Coop closes 800 stores following Kaseya ransomware attack]]></title>
+        <id>https://news.ycombinator.com/item?id=27725576</id>
+        <link href="https://therecord.media/supermarket-chain-coop-closes-800-stores-following-kaseya-ransomware-attack/"/>
+        <updated>2021-07-03T22:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://therecord.media/supermarket-chain-coop-closes-800-stores-following-kaseya-ransomware-attack/
+Comments URL: https://news.ycombinator.com/item?id=27725576
+Points: 27
+# Comments: 8]]></summary>
         <author>
-            <name>ingvul</name>
+            <name>prostoalex</name>
         </author>
     </entry>
     <entry>
@@ -51,14 +46,40 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[70% of San Francisco residents say quality of life has declined: poll]]></title>
+        <id>https://news.ycombinator.com/item?id=27724699</id>
+        <link href="https://www.kron4.com/news/bay-area/8-out-of-10-san-franciscans-say-crime-has-gotten-worse-poll/"/>
+        <updated>2021-07-03T20:37:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.kron4.com/news/bay-area/8-out-of-10-san-franciscans-say-crime-has-gotten-worse-poll/
+Comments URL: https://news.ycombinator.com/item?id=27724699
+Points: 90
+# Comments: 72]]></summary>
+        <author>
+            <name>FreeSpeech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microbes in cow stomachs can break down plastic]]></title>
+        <id>https://news.ycombinator.com/item?id=27724653</id>
+        <link href="https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full"/>
+        <updated>2021-07-03T20:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full
+Comments URL: https://news.ycombinator.com/item?id=27724653
+Points: 7
+# Comments: 3]]></summary>
+        <author>
+            <name>WaitWaitWha</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Databases handle 10M devices in high-cardinality benchmarks]]></title>
         <id>https://news.ycombinator.com/item?id=27724460</id>
         <link href="https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/"/>
         <updated>2021-07-03T20:07:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/
 Comments URL: https://news.ycombinator.com/item?id=27724460
-Points: 27
-# Comments: 3]]></summary>
+Points: 29
+# Comments: 4]]></summary>
         <author>
             <name>elorant</name>
         </author>
@@ -70,8 +91,8 @@ Points: 27
         <updated>2021-07-03T19:54:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/
 Comments URL: https://news.ycombinator.com/item?id=27724331
-Points: 52
-# Comments: 47]]></summary>
+Points: 61
+# Comments: 71]]></summary>
         <author>
             <name>ntietz</name>
         </author>
@@ -83,8 +104,8 @@ Points: 52
         <updated>2021-07-03T19:44:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jamesl.me/atto/
 Comments URL: https://news.ycombinator.com/item?id=27724236
-Points: 43
-# Comments: 25]]></summary>
+Points: 54
+# Comments: 32]]></summary>
         <author>
             <name>James-Livesey</name>
         </author>
@@ -96,8 +117,8 @@ Points: 43
         <updated>2021-07-03T19:43:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/
 Comments URL: https://news.ycombinator.com/item?id=27724224
-Points: 17
-# Comments: 4]]></summary>
+Points: 20
+# Comments: 6]]></summary>
         <author>
             <name>akpa1</name>
         </author>
@@ -109,8 +130,8 @@ Points: 17
         <updated>2021-07-03T19:24:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/
 Comments URL: https://news.ycombinator.com/item?id=27724067
-Points: 27
-# Comments: 0]]></summary>
+Points: 45
+# Comments: 5]]></summary>
         <author>
             <name>matt_d</name>
         </author>
@@ -122,8 +143,8 @@ Points: 27
         <updated>2021-07-03T19:21:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thelig.ht/abandoning-github/
 Comments URL: https://news.ycombinator.com/item?id=27724042
-Points: 553
-# Comments: 343]]></summary>
+Points: 607
+# Comments: 378]]></summary>
         <author>
             <name>janvdberg</name>
         </author>
@@ -135,10 +156,23 @@ Points: 553
         <updated>2021-07-03T19:17:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/
 Comments URL: https://news.ycombinator.com/item?id=27724016
-Points: 15
-# Comments: 2]]></summary>
+Points: 19
+# Comments: 3]]></summary>
         <author>
             <name>JonathanBuchh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One man’s plan to resurrect the animal species we can’t save]]></title>
+        <id>https://news.ycombinator.com/item?id=27723993</id>
+        <link href="https://www.wired.co.uk/article/natures-safe"/>
+        <updated>2021-07-03T19:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/natures-safe
+Comments URL: https://news.ycombinator.com/item?id=27723993
+Points: 9
+# Comments: 1]]></summary>
+        <author>
+            <name>minding</name>
         </author>
     </entry>
     <entry>
@@ -148,8 +182,8 @@ Points: 15
         <updated>2021-07-03T19:13:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land
 Comments URL: https://news.ycombinator.com/item?id=27723988
-Points: 20
-# Comments: 57]]></summary>
+Points: 30
+# Comments: 103]]></summary>
         <author>
             <name>agronaut</name>
         </author>
@@ -161,8 +195,8 @@ Points: 20
         <updated>2021-07-03T18:32:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docs.github.com/en/github/copilot/research-recitation
 Comments URL: https://news.ycombinator.com/item?id=27723710
-Points: 70
-# Comments: 27]]></summary>
+Points: 87
+# Comments: 51]]></summary>
         <author>
             <name>azhenley</name>
         </author>
@@ -174,8 +208,8 @@ Points: 70
         <updated>2021-07-03T17:55:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4
 Comments URL: https://news.ycombinator.com/item?id=27723460
-Points: 37
-# Comments: 13]]></summary>
+Points: 41
+# Comments: 18]]></summary>
         <author>
             <name>laurex</name>
         </author>
@@ -187,8 +221,8 @@ Points: 37
         <updated>2021-07-03T17:38:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://taibbi.substack.com/p/a-case-of-intellectual-capture-on
 Comments URL: https://news.ycombinator.com/item?id=27723333
-Points: 110
-# Comments: 76]]></summary>
+Points: 129
+# Comments: 88]]></summary>
         <author>
             <name>curmudgeon22</name>
         </author>
@@ -201,7 +235,7 @@ Points: 110
         <summary type="html"><![CDATA[Article URL: https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/
 Comments URL: https://news.ycombinator.com/item?id=27722963
 Points: 37
-# Comments: 7]]></summary>
+# Comments: 9]]></summary>
         <author>
             <name>mostlyghostly</name>
         </author>
@@ -213,8 +247,8 @@ Points: 37
         <updated>2021-07-03T16:50:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
 Comments URL: https://news.ycombinator.com/item?id=27722947
-Points: 103
-# Comments: 16]]></summary>
+Points: 116
+# Comments: 23]]></summary>
         <author>
             <name>mrry</name>
         </author>
@@ -226,49 +260,10 @@ Points: 103
         <updated>2021-07-03T16:33:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thanassis.space/miniforth.html
 Comments URL: https://news.ycombinator.com/item?id=27722807
-Points: 63
-# Comments: 8]]></summary>
+Points: 72
+# Comments: 9]]></summary>
         <author>
             <name>ttsiodras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wav2vec Overview: Semi and Unsupervised Speech Recognition]]></title>
-        <id>https://news.ycombinator.com/item?id=27722333</id>
-        <link href="https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition"/>
-        <updated>2021-07-03T15:39:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
-Comments URL: https://news.ycombinator.com/item?id=27722333
-Points: 110
-# Comments: 14]]></summary>
-        <author>
-            <name>vackosar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things I wish Git had: Commit groups]]></title>
-        <id>https://news.ycombinator.com/item?id=27722221</id>
-        <link href="http://blog.danieljanus.pl/2021/07/01/commit-groups/"/>
-        <updated>2021-07-03T15:27:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://blog.danieljanus.pl/2021/07/01/commit-groups/
-Comments URL: https://news.ycombinator.com/item?id=27722221
-Points: 133
-# Comments: 103]]></summary>
-        <author>
-            <name>nathell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What did ancient languages sound like?]]></title>
-        <id>https://news.ycombinator.com/item?id=27721748</id>
-        <link href="https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/"/>
-        <updated>2021-07-03T14:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/
-Comments URL: https://news.ycombinator.com/item?id=27721748
-Points: 114
-# Comments: 76]]></summary>
-        <author>
-            <name>mewithoutyou</name>
         </author>
     </entry>
     <entry>
