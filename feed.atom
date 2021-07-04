@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T14:10:07.679Z</updated>
+    <updated>2021-07-04T15:13:04.105Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On working too hard: finding balance, and lessons learned from others]]></title>
+        <id>https://news.ycombinator.com/item?id=27729987</id>
+        <link href="https://blog.lawrencejones.dev/working-too-hard/"/>
+        <updated>2021-07-04T14:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.lawrencejones.dev/working-too-hard/
+Comments URL: https://news.ycombinator.com/item?id=27729987
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>lawrjone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social media is broken. A new report offers 25 ways to fix it]]></title>
+        <id>https://news.ycombinator.com/item?id=27729848</id>
+        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it"/>
+        <updated>2021-07-04T14:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it
+Comments URL: https://news.ycombinator.com/item?id=27729848
+Points: 27
+# Comments: 23]]></summary>
+        <author>
+            <name>dsr12</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Idempotency-Key HTTP Header Field]]></title>
+        <id>https://news.ycombinator.com/item?id=27729610</id>
+        <link href="https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00"/>
+        <updated>2021-07-04T13:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00
+Comments URL: https://news.ycombinator.com/item?id=27729610
+Points: 40
+# Comments: 7]]></summary>
+        <author>
+            <name>detaro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In Twitter’s early days, only one celebrity could tweet at a time (2018)]]></title>
         <id>https://news.ycombinator.com/item?id=27729606</id>
@@ -13,8 +52,8 @@
         <updated>2021-07-04T13:49:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://theoutline.com/post/4147/in-twitters-early-days-only-one-celebrity-could-tweet-at-a-time
 Comments URL: https://news.ycombinator.com/item?id=27729606
-Points: 4
-# Comments: 0]]></summary>
+Points: 15
+# Comments: 7]]></summary>
         <author>
             <name>hliyan</name>
         </author>
@@ -32,16 +71,42 @@ The post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dynamic Linking Best Practices]]></title>
+        <id>https://news.ycombinator.com/item?id=27729417</id>
+        <link href="https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2"/>
+        <updated>2021-07-04T13:19:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2
+Comments URL: https://news.ycombinator.com/item?id=27729417
+Points: 10
+# Comments: 2]]></summary>
+        <author>
+            <name>begriffs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Underground fiber optics spy on humans moving above]]></title>
         <id>https://news.ycombinator.com/item?id=27729402</id>
         <link href="https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/"/>
         <updated>2021-07-04T13:16:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/
 Comments URL: https://news.ycombinator.com/item?id=27729402
-Points: 6
-# Comments: 0]]></summary>
+Points: 30
+# Comments: 14]]></summary>
         <author>
             <name>mardiyah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When static makes your C code 10 times faster]]></title>
+        <id>https://news.ycombinator.com/item?id=27729377</id>
+        <link href="https://mazzo.li/posts/c-performance-anecdote.html"/>
+        <updated>2021-07-04T13:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mazzo.li/posts/c-performance-anecdote.html
+Comments URL: https://news.ycombinator.com/item?id=27729377
+Points: 8
+# Comments: 2]]></summary>
+        <author>
+            <name>rostayob</name>
         </author>
     </entry>
     <entry>
@@ -51,8 +116,8 @@ Points: 6
         <updated>2021-07-04T13:04:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.blender.org/user-stories/blender-and-the-rabbids/
 Comments URL: https://news.ycombinator.com/item?id=27729331
-Points: 25
-# Comments: 1]]></summary>
+Points: 87
+# Comments: 16]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -64,26 +129,23 @@ Points: 25
         <updated>2021-07-04T12:40:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://drewdevault.com/2021/07/04/Is-GitHub-a-derivative-work.html
 Comments URL: https://news.ycombinator.com/item?id=27729209
-Points: 71
-# Comments: 31]]></summary>
+Points: 125
+# Comments: 95]]></summary>
         <author>
             <name>als0</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: How do SMBs afford such expensive software engineers in the US?]]></title>
-        <id>https://news.ycombinator.com/item?id=27729059</id>
-        <link href="https://news.ycombinator.com/item?id=27729059"/>
-        <updated>2021-07-04T12:07:01.000Z</updated>
-        <summary type="html"><![CDATA[According the multiple sources, software engineers in the US earns, on average, $100K per year. Software engineers in all other major countries earns about $30K - $60K on average. These countries include: Japan, China, Australia, Germany, Canada.
-However, if we looked up average household income, these countries aren't too different from the US. And I don't believe American coders are twice the better than coders in the other countries.
-I can understand that FAAG pull up the average salaries and they can easily afford it. 
-My question is how do SMBs in the US hire engineers under this type of fierce salary competition?
-Comments URL: https://news.ycombinator.com/item?id=27729059
-Points: 26
-# Comments: 19]]></summary>
+        <title type="html"><![CDATA[Stop mocking your system]]></title>
+        <id>https://news.ycombinator.com/item?id=27729189</id>
+        <link href="https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/"/>
+        <updated>2021-07-04T12:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/
+Comments URL: https://news.ycombinator.com/item?id=27729189
+Points: 9
+# Comments: 11]]></summary>
         <author>
-            <name>mnming</name>
+            <name>entanglement</name>
         </author>
     </entry>
     <entry>
@@ -100,29 +162,42 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN:  Ready UI – Bootstrap UI blocks]]></title>
+        <id>https://news.ycombinator.com/item?id=27729010</id>
+        <link href="https://readyui.co/"/>
+        <updated>2021-07-04T11:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://readyui.co/
+Comments URL: https://news.ycombinator.com/item?id=27729010
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>rrahian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing Emulation into the 21st Century]]></title>
+        <id>https://news.ycombinator.com/item?id=27728941</id>
+        <link href="https://blog.davetcode.co.uk/post/21st-century-emulator/"/>
+        <updated>2021-07-04T11:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.davetcode.co.uk/post/21st-century-emulator/
+Comments URL: https://news.ycombinator.com/item?id=27728941
+Points: 22
+# Comments: 3]]></summary>
+        <author>
+            <name>rcarmo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The unexpected complications of minor features (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27728883</id>
         <link href="https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535"/>
         <updated>2021-07-04T11:29:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535
 Comments URL: https://news.ycombinator.com/item?id=27728883
-Points: 35
-# Comments: 2]]></summary>
+Points: 41
+# Comments: 6]]></summary>
         <author>
             <name>AshleysBrain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geohot/twitchcore: A RISC-V core, first in Python, then in Verilog, then on FPGA]]></title>
-        <id>https://news.ycombinator.com/item?id=27728749</id>
-        <link href="https://github.com/geohot/twitchcore"/>
-        <updated>2021-07-04T11:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/geohot/twitchcore
-Comments URL: https://news.ycombinator.com/item?id=27728749
-Points: 6
-# Comments: 1]]></summary>
-        <author>
-            <name>lsllc</name>
         </author>
     </entry>
     <entry>
@@ -132,10 +207,23 @@ Points: 6
         <updated>2021-07-04T10:36:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nautil.us/issue/102/hidden-truths/the-human-family-tree-it-turns-out-is-complicated
 Comments URL: https://news.ycombinator.com/item?id=27728635
-Points: 3
+Points: 17
 # Comments: 0]]></summary>
         <author>
             <name>dnetesn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Return of the Mac (2005)]]></title>
+        <id>https://news.ycombinator.com/item?id=27728550</id>
+        <link href="http://paulgraham.com/mac.html"/>
+        <updated>2021-07-04T10:14:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://paulgraham.com/mac.html
+Comments URL: https://news.ycombinator.com/item?id=27728550
+Points: 51
+# Comments: 77]]></summary>
+        <author>
+            <name>jnieminen</name>
         </author>
     </entry>
     <entry>
@@ -145,49 +233,23 @@ Points: 3
         <updated>2021-07-04T09:56:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ena.computer/
 Comments URL: https://news.ycombinator.com/item?id=27728483
-Points: 28
-# Comments: 7]]></summary>
+Points: 36
+# Comments: 10]]></summary>
         <author>
             <name>edent</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cosmic rays broke a Certificate Transparency log]]></title>
+        <title type="html"><![CDATA[Single random bit flip causes error in certificate transparency log]]></title>
         <id>https://news.ycombinator.com/item?id=27728287</id>
         <link href="https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/"/>
         <updated>2021-07-04T09:13:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/
 Comments URL: https://news.ycombinator.com/item?id=27728287
-Points: 174
-# Comments: 116]]></summary>
+Points: 210
+# Comments: 132]]></summary>
         <author>
             <name>shmsr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subtitle Horse – Video subtitle and captions editor]]></title>
-        <id>https://news.ycombinator.com/item?id=27727833</id>
-        <link href="https://subtitle-horse.com/"/>
-        <updated>2021-07-04T07:08:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://subtitle-horse.com/
-Comments URL: https://news.ycombinator.com/item?id=27727833
-Points: 21
-# Comments: 2]]></summary>
-        <author>
-            <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heat Domes Are a Red-Hot Warning on Climate Costs]]></title>
-        <id>https://news.ycombinator.com/item?id=27727792</id>
-        <link href="https://www.bloomberg.com/opinion/articles/2021-07-03/heat-domes-are-a-red-hot-warning-on-climate-costs"/>
-        <updated>2021-07-04T06:59:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/opinion/articles/2021-07-03/heat-domes-are-a-red-hot-warning-on-climate-costs
-Comments URL: https://news.ycombinator.com/item?id=27727792
-Points: 82
-# Comments: 48]]></summary>
-        <author>
-            <name>montalbano</name>
         </author>
     </entry>
     <entry>
@@ -197,8 +259,8 @@ Points: 82
         <updated>2021-07-04T06:45:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.digitalviolence.org/
 Comments URL: https://news.ycombinator.com/item?id=27727733
-Points: 105
-# Comments: 12]]></summary>
+Points: 113
+# Comments: 16]]></summary>
         <author>
             <name>T-A</name>
         </author>
@@ -210,75 +272,10 @@ Points: 105
         <updated>2021-07-04T06:41:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://mentallandscape.com/C_CatalogVenus.htm
 Comments URL: https://news.ycombinator.com/item?id=27727717
-Points: 202
-# Comments: 24]]></summary>
+Points: 221
+# Comments: 35]]></summary>
         <author>
             <name>areoform</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commit Often, Perfect Later, Publish Once: Git Best Practices]]></title>
-        <id>https://news.ycombinator.com/item?id=27727501</id>
-        <link href="https://sethrobertson.github.io/GitBestPractices/"/>
-        <updated>2021-07-04T05:45:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sethrobertson.github.io/GitBestPractices/
-Comments URL: https://news.ycombinator.com/item?id=27727501
-Points: 138
-# Comments: 43]]></summary>
-        <author>
-            <name>hidden-spyder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audacity may collect “Data necessary for law enforcement, litigation” and more]]></title>
-        <id>https://news.ycombinator.com/item?id=27727150</id>
-        <link href="https://www.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/"/>
-        <updated>2021-07-04T04:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/
-Comments URL: https://news.ycombinator.com/item?id=27727150
-Points: 426
-# Comments: 172]]></summary>
-        <author>
-            <name>miles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PowerTOP – diagnose issues with power consumption and power management on Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=27727120</id>
-        <link href="https://01.org/powertop/"/>
-        <updated>2021-07-04T03:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://01.org/powertop/
-Comments URL: https://news.ycombinator.com/item?id=27727120
-Points: 82
-# Comments: 26]]></summary>
-        <author>
-            <name>pabs3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bash function names can be almost anything]]></title>
-        <id>https://news.ycombinator.com/item?id=27726699</id>
-        <link href="https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/"/>
-        <updated>2021-07-04T01:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/
-Comments URL: https://news.ycombinator.com/item?id=27726699
-Points: 65
-# Comments: 39]]></summary>
-        <author>
-            <name>signa11</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Unstuck]]></title>
-        <id>https://news.ycombinator.com/item?id=27724669</id>
-        <link href="https://www.iamjonas.me/2021/06/getting-unstuck.html"/>
-        <updated>2021-07-03T20:34:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.iamjonas.me/2021/06/getting-unstuck.html
-Comments URL: https://news.ycombinator.com/item?id=27724669
-Points: 40
-# Comments: 11]]></summary>
-        <author>
-            <name>feross</name>
         </author>
     </entry>
     <entry>

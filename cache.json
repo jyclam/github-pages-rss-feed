@@ -6,27 +6,72 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27729987",
+          "author": "lawrjone",
+          "description": "Article URL: https://blog.lawrencejones.dev/working-too-hard/\nComments URL: https://news.ycombinator.com/item?id=27729987\nPoints: 10\n# Comments: 1",
+          "link": "https://blog.lawrencejones.dev/working-too-hard/",
+          "publishedOn": "2021-07-04T14:45:05.000Z",
+          "wordCount": 1570,
+          "title": "On working too hard: finding balance, and lessons learned from others"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27729848",
+          "author": "dsr12",
+          "description": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it\nComments URL: https://news.ycombinator.com/item?id=27729848\nPoints: 27\n# Comments: 23",
+          "link": "https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it",
+          "publishedOn": "2021-07-04T14:26:08.000Z",
+          "wordCount": 1486,
+          "title": "Social media is broken. A new report offers 25 ways to fix it"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27729610",
+          "author": "detaro",
+          "description": "Article URL: https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00\nComments URL: https://news.ycombinator.com/item?id=27729610\nPoints: 40\n# Comments: 7",
+          "link": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
+          "publishedOn": "2021-07-04T13:49:49.000Z",
+          "wordCount": 2581,
+          "title": "The Idempotency-Key HTTP Header Field"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27729606",
           "author": "hliyan",
-          "description": "Article URL: https://theoutline.com/post/4147/in-twitters-early-days-only-one-celebrity-could-tweet-at-a-time\nComments URL: https://news.ycombinator.com/item?id=27729606\nPoints: 4\n# Comments: 0",
+          "description": "Article URL: https://theoutline.com/post/4147/in-twitters-early-days-only-one-celebrity-could-tweet-at-a-time\nComments URL: https://news.ycombinator.com/item?id=27729606\nPoints: 15\n# Comments: 7",
           "link": "https://theoutline.com/post/4147/in-twitters-early-days-only-one-celebrity-could-tweet-at-a-time",
           "publishedOn": "2021-07-04T13:49:29.000Z",
           "wordCount": 456,
           "title": "In Twitter’s early days, only one celebrity could tweet at a time (2018)"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27729417",
+          "author": "begriffs",
+          "description": "Article URL: https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2\nComments URL: https://news.ycombinator.com/item?id=27729417\nPoints: 10\n# Comments: 2",
+          "link": "https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2",
+          "publishedOn": "2021-07-04T13:19:48.000Z",
+          "wordCount": 3190,
+          "title": "Dynamic Linking Best Practices"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27729402",
           "author": "mardiyah",
-          "description": "Article URL: https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/\nComments URL: https://news.ycombinator.com/item?id=27729402\nPoints: 6\n# Comments: 0",
+          "description": "Article URL: https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/\nComments URL: https://news.ycombinator.com/item?id=27729402\nPoints: 30\n# Comments: 14",
           "link": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
           "publishedOn": "2021-07-04T13:16:42.000Z",
           "wordCount": 1519,
           "title": "Underground fiber optics spy on humans moving above"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27729377",
+          "author": "rostayob",
+          "description": "Article URL: https://mazzo.li/posts/c-performance-anecdote.html\nComments URL: https://news.ycombinator.com/item?id=27729377\nPoints: 8\n# Comments: 2",
+          "link": "https://mazzo.li/posts/c-performance-anecdote.html",
+          "publishedOn": "2021-07-04T13:12:39.000Z",
+          "wordCount": 1025,
+          "title": "When static makes your C code 10 times faster"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27729331",
           "author": "Tomte",
-          "description": "Article URL: https://www.blender.org/user-stories/blender-and-the-rabbids/\nComments URL: https://news.ycombinator.com/item?id=27729331\nPoints: 25\n# Comments: 1",
+          "description": "Article URL: https://www.blender.org/user-stories/blender-and-the-rabbids/\nComments URL: https://news.ycombinator.com/item?id=27729331\nPoints: 87\n# Comments: 16",
           "link": "https://www.blender.org/user-stories/blender-and-the-rabbids/",
           "publishedOn": "2021-07-04T13:04:55.000Z",
           "wordCount": 2343,
@@ -35,20 +80,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27729209",
           "author": "als0",
-          "description": "Article URL: https://drewdevault.com/2021/07/04/Is-GitHub-a-derivative-work.html\nComments URL: https://news.ycombinator.com/item?id=27729209\nPoints: 71\n# Comments: 31",
+          "description": "Article URL: https://drewdevault.com/2021/07/04/Is-GitHub-a-derivative-work.html\nComments URL: https://news.ycombinator.com/item?id=27729209\nPoints: 125\n# Comments: 95",
           "link": "https://drewdevault.com/2021/07/04/Is-GitHub-a-derivative-work.html",
           "publishedOn": "2021-07-04T12:40:36.000Z",
-          "wordCount": 1041,
+          "wordCount": 1049,
           "title": "Is GitHub a derivative work of GPL'd software?"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27729059",
-          "author": "mnming",
-          "description": "According the multiple sources, software engineers in the US earns, on average, $100K per year. Software engineers in all other major countries earns about $30K - $60K on average. These countries include: Japan, China, Australia, Germany, Canada.\nHowever, if we looked up average household income, these countries aren't too different from the US. And I don't believe American coders are twice the better than coders in the other countries.\nI can understand that FAAG pull up the average salaries and they can easily afford it. \nMy question is how do SMBs in the US hire engineers under this type of fierce salary competition?\nComments URL: https://news.ycombinator.com/item?id=27729059\nPoints: 26\n# Comments: 19",
-          "link": "https://news.ycombinator.com/item?id=27729059",
-          "publishedOn": "2021-07-04T12:07:01.000Z",
-          "wordCount": 2001,
-          "title": "Ask HN: How do SMBs afford such expensive software engineers in the US?"
+          "id": "https://news.ycombinator.com/item?id=27729189",
+          "author": "entanglement",
+          "description": "Article URL: https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/\nComments URL: https://news.ycombinator.com/item?id=27729189\nPoints: 9\n# Comments: 11",
+          "link": "https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/",
+          "publishedOn": "2021-07-04T12:36:17.000Z",
+          "wordCount": 704,
+          "title": "Stop mocking your system"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27729028",
@@ -56,40 +101,58 @@
           "description": "Article URL: https://www.ycombinator.com/companies/avenue/jobs/G2sPjRf-software-engineer\nComments URL: https://news.ycombinator.com/item?id=27729028\nPoints: 1\n# Comments: 0",
           "link": "https://www.ycombinator.com/companies/avenue/jobs/G2sPjRf-software-engineer",
           "publishedOn": "2021-07-04T12:01:11.000Z",
-          "wordCount": 530,
+          "wordCount": 517,
           "title": "Avenue (YC W21) Is Hiring Full-Stack Engineers in NYC (TypeScript, Node, React)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27729010",
+          "author": "rrahian",
+          "description": "Article URL: https://readyui.co/\nComments URL: https://news.ycombinator.com/item?id=27729010\nPoints: 10\n# Comments: 1",
+          "link": "https://readyui.co/",
+          "publishedOn": "2021-07-04T11:57:50.000Z",
+          "wordCount": 674,
+          "title": "Show HN:  Ready UI – Bootstrap UI blocks"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27728941",
+          "author": "rcarmo",
+          "description": "Article URL: https://blog.davetcode.co.uk/post/21st-century-emulator/\nComments URL: https://news.ycombinator.com/item?id=27728941\nPoints: 22\n# Comments: 3",
+          "link": "https://blog.davetcode.co.uk/post/21st-century-emulator/",
+          "publishedOn": "2021-07-04T11:41:43.000Z",
+          "wordCount": 2862,
+          "title": "Bringing Emulation into the 21st Century"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27728883",
           "author": "AshleysBrain",
-          "description": "Article URL: https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535\nComments URL: https://news.ycombinator.com/item?id=27728883\nPoints: 35\n# Comments: 2",
+          "description": "Article URL: https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535\nComments URL: https://news.ycombinator.com/item?id=27728883\nPoints: 41\n# Comments: 6",
           "link": "https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535",
           "publishedOn": "2021-07-04T11:29:33.000Z",
           "wordCount": 3678,
           "title": "The unexpected complications of minor features (2020)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27728749",
-          "author": "lsllc",
-          "description": "Article URL: https://github.com/geohot/twitchcore\nComments URL: https://news.ycombinator.com/item?id=27728749\nPoints: 6\n# Comments: 1",
-          "link": "https://github.com/geohot/twitchcore",
-          "publishedOn": "2021-07-04T11:01:05.000Z",
-          "wordCount": 923,
-          "title": "Geohot/twitchcore: A RISC-V core, first in Python, then in Verilog, then on FPGA"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27728635",
           "author": "dnetesn",
-          "description": "Article URL: https://nautil.us/issue/102/hidden-truths/the-human-family-tree-it-turns-out-is-complicated\nComments URL: https://news.ycombinator.com/item?id=27728635\nPoints: 3\n# Comments: 0",
+          "description": "Article URL: https://nautil.us/issue/102/hidden-truths/the-human-family-tree-it-turns-out-is-complicated\nComments URL: https://news.ycombinator.com/item?id=27728635\nPoints: 17\n# Comments: 0",
           "link": "https://nautil.us/issue/102/hidden-truths/the-human-family-tree-it-turns-out-is-complicated",
           "publishedOn": "2021-07-04T10:36:32.000Z",
-          "wordCount": 3687,
+          "wordCount": 3683,
           "title": "The Human Family Tree, It Turns Out, Is Complicated"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27728550",
+          "author": "jnieminen",
+          "description": "Article URL: http://paulgraham.com/mac.html\nComments URL: https://news.ycombinator.com/item?id=27728550\nPoints: 51\n# Comments: 77",
+          "link": "http://paulgraham.com/mac.html",
+          "publishedOn": "2021-07-04T10:14:50.000Z",
+          "wordCount": 994,
+          "title": "Return of the Mac (2005)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27728483",
           "author": "edent",
-          "description": "Article URL: https://ena.computer/\nComments URL: https://news.ycombinator.com/item?id=27728483\nPoints: 28\n# Comments: 7",
+          "description": "Article URL: https://ena.computer/\nComments URL: https://news.ycombinator.com/item?id=27728483\nPoints: 36\n# Comments: 10",
           "link": "https://ena.computer/",
           "publishedOn": "2021-07-04T09:56:39.000Z",
           "wordCount": 546,
@@ -98,34 +161,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27728287",
           "author": "shmsr",
-          "description": "Article URL: https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/\nComments URL: https://news.ycombinator.com/item?id=27728287\nPoints: 174\n# Comments: 116",
+          "description": "Article URL: https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/\nComments URL: https://news.ycombinator.com/item?id=27728287\nPoints: 210\n# Comments: 132",
           "link": "https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/",
           "publishedOn": "2021-07-04T09:13:12.000Z",
           "wordCount": 1207,
-          "title": "Cosmic rays broke a Certificate Transparency log"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27727833",
-          "author": "thunderbong",
-          "description": "Article URL: https://subtitle-horse.com/\nComments URL: https://news.ycombinator.com/item?id=27727833\nPoints: 21\n# Comments: 2",
-          "link": "https://subtitle-horse.com/",
-          "publishedOn": "2021-07-04T07:08:22.000Z",
-          "wordCount": 646,
-          "title": "Subtitle Horse – Video subtitle and captions editor"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27727792",
-          "author": "montalbano",
-          "description": "Article URL: https://www.bloomberg.com/opinion/articles/2021-07-03/heat-domes-are-a-red-hot-warning-on-climate-costs\nComments URL: https://news.ycombinator.com/item?id=27727792\nPoints: 82\n# Comments: 48",
-          "link": "https://www.bloomberg.com/opinion/articles/2021-07-03/heat-domes-are-a-red-hot-warning-on-climate-costs",
-          "publishedOn": "2021-07-04T06:59:48.000Z",
-          "wordCount": 93,
-          "title": "Heat Domes Are a Red-Hot Warning on Climate Costs"
+          "title": "Single random bit flip causes error in certificate transparency log"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27727733",
           "author": "T-A",
-          "description": "Article URL: https://www.digitalviolence.org/\nComments URL: https://news.ycombinator.com/item?id=27727733\nPoints: 105\n# Comments: 12",
+          "description": "Article URL: https://www.digitalviolence.org/\nComments URL: https://news.ycombinator.com/item?id=27727733\nPoints: 113\n# Comments: 16",
           "link": "https://www.digitalviolence.org/",
           "publishedOn": "2021-07-04T06:45:54.000Z",
           "wordCount": 17,
@@ -134,56 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27727717",
           "author": "areoform",
-          "description": "Article URL: http://mentallandscape.com/C_CatalogVenus.htm\nComments URL: https://news.ycombinator.com/item?id=27727717\nPoints: 202\n# Comments: 24",
+          "description": "Article URL: http://mentallandscape.com/C_CatalogVenus.htm\nComments URL: https://news.ycombinator.com/item?id=27727717\nPoints: 221\n# Comments: 35",
           "link": "http://mentallandscape.com/C_CatalogVenus.htm",
           "publishedOn": "2021-07-04T06:41:26.000Z",
           "wordCount": 1986,
           "title": "Soviet Venus Images"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27727501",
-          "author": "hidden-spyder",
-          "description": "Article URL: https://sethrobertson.github.io/GitBestPractices/\nComments URL: https://news.ycombinator.com/item?id=27727501\nPoints: 138\n# Comments: 43",
-          "link": "https://sethrobertson.github.io/GitBestPractices/",
-          "publishedOn": "2021-07-04T05:45:40.000Z",
-          "wordCount": 8198,
-          "title": "Commit Often, Perfect Later, Publish Once: Git Best Practices"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27727150",
-          "author": "miles",
-          "description": "Article URL: https://www.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/\nComments URL: https://news.ycombinator.com/item?id=27727150\nPoints: 426\n# Comments: 172",
-          "link": "https://www.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/",
-          "publishedOn": "2021-07-04T04:05:17.000Z",
-          "wordCount": 603,
-          "title": "Audacity may collect “Data necessary for law enforcement, litigation” and more"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27727120",
-          "author": "pabs3",
-          "description": "Article URL: https://01.org/powertop/\nComments URL: https://news.ycombinator.com/item?id=27727120\nPoints: 82\n# Comments: 26",
-          "link": "https://01.org/powertop/",
-          "publishedOn": "2021-07-04T03:55:45.000Z",
-          "wordCount": 838,
-          "title": "PowerTOP – diagnose issues with power consumption and power management on Linux"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27726699",
-          "author": "signa11",
-          "description": "Article URL: https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/\nComments URL: https://news.ycombinator.com/item?id=27726699\nPoints: 65\n# Comments: 39",
-          "link": "https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/",
-          "publishedOn": "2021-07-04T01:54:01.000Z",
-          "wordCount": 671,
-          "title": "Bash function names can be almost anything"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27724669",
-          "author": "feross",
-          "description": "Article URL: https://www.iamjonas.me/2021/06/getting-unstuck.html\nComments URL: https://news.ycombinator.com/item?id=27724669\nPoints: 40\n# Comments: 11",
-          "link": "https://www.iamjonas.me/2021/06/getting-unstuck.html",
-          "publishedOn": "2021-07-03T20:34:10.000Z",
-          "wordCount": 1804,
-          "title": "Getting Unstuck"
         }
       ]
     },
@@ -245,7 +245,7 @@
           "description": "The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…\nThe post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/zero-width-space/",
           "publishedOn": "2021-07-02T20:39:04.000Z",
-          "wordCount": 1655,
+          "wordCount": 1767,
           "title": "Zero-Width Space"
         },
         {
@@ -378,7 +378,7 @@
           "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
           "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
           "publishedOn": "2021-07-02T10:30:00.000Z",
-          "wordCount": 4206,
+          "wordCount": 4204,
           "title": "Email Testing Flow As It Should Be",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
@@ -406,7 +406,7 @@
           "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
           "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4742,
+          "wordCount": 4690,
           "title": "The State Of Web Workers In 2021",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
@@ -420,7 +420,7 @@
           "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
           "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3687,
+          "wordCount": 3696,
           "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
@@ -462,7 +462,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2511,
+          "wordCount": 2512,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -476,7 +476,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5451,
+          "wordCount": 5447,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -490,7 +490,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3533,
+          "wordCount": 3521,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -504,7 +504,7 @@
           "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
           "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4169,
+          "wordCount": 4168,
           "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
@@ -532,7 +532,7 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1391,
+          "wordCount": 1402,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
@@ -560,7 +560,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5350,
+          "wordCount": 5311,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -574,7 +574,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3420,
+          "wordCount": 3408,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -588,7 +588,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3953,
+          "wordCount": 3951,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -602,7 +602,7 @@
           "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
           "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
           "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1633,
+          "wordCount": 1635,
           "title": "Your Image Is Probably Not Decorative",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
@@ -616,7 +616,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4058,
+          "wordCount": 4096,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -658,7 +658,7 @@
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
           "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3666,
+          "wordCount": 3667,
           "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
@@ -672,7 +672,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1740,
+          "wordCount": 1697,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -686,7 +686,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5147,
+          "wordCount": 5149,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -700,7 +700,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 867,
+          "wordCount": 878,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -714,7 +714,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2778,
+          "wordCount": 2777,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -742,7 +742,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2430,
+          "wordCount": 2440,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
