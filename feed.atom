@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T04:15:24.341Z</updated>
+    <updated>2021-07-04T05:09:50.060Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Audacity may collect “Data necessary for law enforcement, litigation” and more]]></title>
+        <id>https://news.ycombinator.com/item?id=27727150</id>
+        <link href="https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/"/>
+        <updated>2021-07-04T04:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/
+Comments URL: https://news.ycombinator.com/item?id=27727150
+Points: 55
+# Comments: 20]]></summary>
+        <author>
+            <name>miles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Growth Ponzi Scheme]]></title>
+        <id>https://news.ycombinator.com/item?id=27727133</id>
+        <link href="https://www.strongtowns.org/the-growth-ponzi-scheme"/>
+        <updated>2021-07-04T03:59:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.strongtowns.org/the-growth-ponzi-scheme
+Comments URL: https://news.ycombinator.com/item?id=27727133
+Points: 45
+# Comments: 12]]></summary>
+        <author>
+            <name>jseliger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerTOP – diagnose issues with power consumption and power management on Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=27727120</id>
+        <link href="https://01.org/powertop/"/>
+        <updated>2021-07-04T03:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://01.org/powertop/
+Comments URL: https://news.ycombinator.com/item?id=27727120
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>pabs3</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-J “the open source cousin of GPT-3 everyone can use”]]></title>
         <id>https://news.ycombinator.com/item?id=27727009</id>
@@ -13,8 +52,8 @@
         <updated>2021-07-04T03:28:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/kingoflolz/mesh-transformer-jax
 Comments URL: https://news.ycombinator.com/item?id=27727009
-Points: 51
-# Comments: 9]]></summary>
+Points: 131
+# Comments: 20]]></summary>
         <author>
             <name>canada_dry</name>
         </author>
@@ -26,10 +65,23 @@ Points: 51
         <updated>2021-07-04T02:07:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pembina.org/blog/real-ghg-trend-oilsands
 Comments URL: https://news.ycombinator.com/item?id=27726750
-Points: 13
-# Comments: 1]]></summary>
+Points: 21
+# Comments: 8]]></summary>
         <author>
             <name>loopz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash function names can be almost anything]]></title>
+        <id>https://news.ycombinator.com/item?id=27726699</id>
+        <link href="https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/"/>
+        <updated>2021-07-04T01:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/
+Comments URL: https://news.ycombinator.com/item?id=27726699
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>signa11</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +91,8 @@ Points: 13
         <updated>2021-07-04T01:26:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/davidhambling/2020/05/11/us-navy-laser-creates-plasma-ufos/
 Comments URL: https://news.ycombinator.com/item?id=27726588
-Points: 24
-# Comments: 10]]></summary>
+Points: 32
+# Comments: 17]]></summary>
         <author>
             <name>egfx</name>
         </author>
@@ -65,8 +117,8 @@ Points: 1
         <updated>2021-07-03T22:01:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378
 Comments URL: https://news.ycombinator.com/item?id=27725286
-Points: 103
-# Comments: 94]]></summary>
+Points: 112
+# Comments: 102]]></summary>
         <author>
             <name>pathompong</name>
         </author>
@@ -78,10 +130,23 @@ Points: 103
         <updated>2021-07-03T20:31:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full
 Comments URL: https://news.ycombinator.com/item?id=27724653
-Points: 37
-# Comments: 12]]></summary>
+Points: 40
+# Comments: 14]]></summary>
         <author>
             <name>WaitWaitWha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Databases handle 10M devices in high-cardinality benchmarks]]></title>
+        <id>https://news.ycombinator.com/item?id=27724460</id>
+        <link href="https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/"/>
+        <updated>2021-07-03T20:07:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/
+Comments URL: https://news.ycombinator.com/item?id=27724460
+Points: 38
+# Comments: 9]]></summary>
+        <author>
+            <name>elorant</name>
         </author>
     </entry>
     <entry>
@@ -91,8 +156,8 @@ Points: 37
         <updated>2021-07-03T19:54:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/
 Comments URL: https://news.ycombinator.com/item?id=27724331
-Points: 86
-# Comments: 89]]></summary>
+Points: 94
+# Comments: 90]]></summary>
         <author>
             <name>ntietz</name>
         </author>
@@ -104,23 +169,10 @@ Points: 86
         <updated>2021-07-03T19:44:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jamesl.me/atto/
 Comments URL: https://news.ycombinator.com/item?id=27724236
-Points: 72
-# Comments: 44]]></summary>
+Points: 73
+# Comments: 45]]></summary>
         <author>
             <name>James-Livesey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How not to break a search engine]]></title>
-        <id>https://news.ycombinator.com/item?id=27724224</id>
-        <link href="https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/"/>
-        <updated>2021-07-03T19:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/
-Comments URL: https://news.ycombinator.com/item?id=27724224
-Points: 28
-# Comments: 10]]></summary>
-        <author>
-            <name>akpa1</name>
         </author>
     </entry>
     <entry>
@@ -130,8 +182,8 @@ Points: 28
         <updated>2021-07-03T19:24:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/
 Comments URL: https://news.ycombinator.com/item?id=27724067
-Points: 77
-# Comments: 10]]></summary>
+Points: 81
+# Comments: 11]]></summary>
         <author>
             <name>matt_d</name>
         </author>
@@ -143,23 +195,10 @@ Points: 77
         <updated>2021-07-03T19:21:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thelig.ht/abandoning-github/
 Comments URL: https://news.ycombinator.com/item?id=27724042
-Points: 691
-# Comments: 438]]></summary>
+Points: 707
+# Comments: 441]]></summary>
         <author>
             <name>janvdberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitor Lizards in Australia Dig Corkscrew Nests]]></title>
-        <id>https://news.ycombinator.com/item?id=27724016</id>
-        <link href="https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/"/>
-        <updated>2021-07-03T19:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/
-Comments URL: https://news.ycombinator.com/item?id=27724016
-Points: 35
-# Comments: 9]]></summary>
-        <author>
-            <name>JonathanBuchh</name>
         </author>
     </entry>
     <entry>
@@ -169,23 +208,10 @@ Points: 35
         <updated>2021-07-03T19:14:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/natures-safe
 Comments URL: https://news.ycombinator.com/item?id=27723993
-Points: 30
-# Comments: 14]]></summary>
+Points: 34
+# Comments: 20]]></summary>
         <author>
             <name>minding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will we ever fly supersonically over land?]]></title>
-        <id>https://news.ycombinator.com/item?id=27723988</id>
-        <link href="https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land"/>
-        <updated>2021-07-03T19:13:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land
-Comments URL: https://news.ycombinator.com/item?id=27723988
-Points: 38
-# Comments: 143]]></summary>
-        <author>
-            <name>agronaut</name>
         </author>
     </entry>
     <entry>
@@ -195,23 +221,10 @@ Points: 38
         <updated>2021-07-03T18:32:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docs.github.com/en/github/copilot/research-recitation
 Comments URL: https://news.ycombinator.com/item?id=27723710
-Points: 143
-# Comments: 66]]></summary>
+Points: 145
+# Comments: 67]]></summary>
         <author>
             <name>azhenley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Metaverse: A brave, new virtual world]]></title>
-        <id>https://news.ycombinator.com/item?id=27723460</id>
-        <link href="https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4"/>
-        <updated>2021-07-03T17:55:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4
-Comments URL: https://news.ycombinator.com/item?id=27723460
-Points: 57
-# Comments: 27]]></summary>
-        <author>
-            <name>laurex</name>
         </author>
     </entry>
     <entry>
@@ -221,7 +234,7 @@ Points: 57
         <updated>2021-07-03T16:50:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
 Comments URL: https://news.ycombinator.com/item?id=27722947
-Points: 150
+Points: 158
 # Comments: 24]]></summary>
         <author>
             <name>mrry</name>
@@ -234,8 +247,8 @@ Points: 150
         <updated>2021-07-03T16:33:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thanassis.space/miniforth.html
 Comments URL: https://news.ycombinator.com/item?id=27722807
-Points: 81
-# Comments: 11]]></summary>
+Points: 86
+# Comments: 13]]></summary>
         <author>
             <name>ttsiodras</name>
         </author>
@@ -247,23 +260,10 @@ Points: 81
         <updated>2021-07-03T15:39:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 Comments URL: https://news.ycombinator.com/item?id=27722333
-Points: 134
+Points: 137
 # Comments: 18]]></summary>
         <author>
             <name>vackosar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things I wish Git had: Commit groups]]></title>
-        <id>https://news.ycombinator.com/item?id=27722221</id>
-        <link href="http://blog.danieljanus.pl/2021/07/01/commit-groups/"/>
-        <updated>2021-07-03T15:27:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://blog.danieljanus.pl/2021/07/01/commit-groups/
-Comments URL: https://news.ycombinator.com/item?id=27722221
-Points: 200
-# Comments: 140]]></summary>
-        <author>
-            <name>nathell</name>
         </author>
     </entry>
     <entry>
