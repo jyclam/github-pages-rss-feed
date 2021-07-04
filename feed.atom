@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T20:11:05.751Z</updated>
+    <updated>2021-07-04T21:10:33.711Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fly.io (YC W20) Is Hiring Site Reliability Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27732580</id>
+        <link href="https://news.ycombinator.com/item?id=27732580"/>
+        <updated>2021-07-04T21:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Fly.io takes container images and converts them into fleets of Firecracker VMs, running on our own hardware around the world. It's easy on Fly to run applications close to users, no matter where they are in the world. Try it out! If you’ve got a working container already, it can be running here in less than 10 minutes:
+https://fly.io/docs/speedrun/
+We've got a lot of fun ops challenges here. We're HashiCorp stack (Nomad, Consul, and Vault), plus Firecracker, plus WireGuard, which is what our network fabric is built on. Our users drive Fly.io through a Rails-based GraphQL API. We host a heavy-duty Prometheus-style metrics cluster, an ElasticSearch cluster for logging, a monitoring system using Sensu Go, BGP4 peering with Bird… the list goes on.
+We're hiring SRE-types to help us manage and k…]]></summary>
+        <author>
+            <name>mrkurt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[San Francisco Organized Shoplifting Surge Prompts Target to Cut Operating Hours]]></title>
+        <id>https://news.ycombinator.com/item?id=27732372</id>
+        <link href="https://www.newsweek.com/san-franciscos-organized-shoplifting-surge-prompts-target-cut-operating-hours-1606674"/>
+        <updated>2021-07-04T20:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newsweek.com/san-franciscos-organized-shoplifting-surge-prompts-target-cut-operating-hours-1606674
+Comments URL: https://news.ycombinator.com/item?id=27732372
+Points: 12
+# Comments: 0]]></summary>
+        <author>
+            <name>koolba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PID Controller for controlling the number of servers in a data-center]]></title>
+        <id>https://news.ycombinator.com/item?id=27732236</id>
+        <link href="https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5"/>
+        <updated>2021-07-04T20:07:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5
+Comments URL: https://news.ycombinator.com/item?id=27732236
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>se4u</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly]]></title>
+        <id>https://news.ycombinator.com/item?id=27732136</id>
+        <link href="https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/"/>
+        <updated>2021-07-04T19:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/
+Comments URL: https://news.ycombinator.com/item?id=27732136
+Points: 33
+# Comments: 1]]></summary>
+        <author>
+            <name>Ameo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Writing a SQLite clone from scratch in C (2017)]]></title>
         <id>https://news.ycombinator.com/item?id=27731966</id>
@@ -13,8 +65,8 @@
         <updated>2021-07-04T19:22:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cstack.github.io/db_tutorial/
 Comments URL: https://news.ycombinator.com/item?id=27731966
-Points: 34
-# Comments: 8]]></summary>
+Points: 68
+# Comments: 11]]></summary>
         <author>
             <name>rubyn00bie</name>
         </author>
@@ -26,8 +78,8 @@ Points: 34
         <updated>2021-07-04T19:17:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cakecrumbs.me/2013/05/24/commission-earth-structural-layer-cake/
 Comments URL: https://news.ycombinator.com/item?id=27731925
-Points: 6
-# Comments: 0]]></summary>
+Points: 17
+# Comments: 2]]></summary>
         <author>
             <name>mauvehaus</name>
         </author>
@@ -39,8 +91,8 @@ Points: 6
         <updated>2021-07-04T19:14:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/Jason2Brownlee/QuakeBotArchive
 Comments URL: https://news.ycombinator.com/item?id=27731909
-Points: 4
-# Comments: 0]]></summary>
+Points: 23
+# Comments: 4]]></summary>
         <author>
             <name>jasonb05</name>
         </author>
@@ -52,8 +104,8 @@ Points: 4
         <updated>2021-07-04T18:54:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jdhayford/acid-tabs-extension
 Comments URL: https://news.ycombinator.com/item?id=27731787
-Points: 12
-# Comments: 0]]></summary>
+Points: 29
+# Comments: 10]]></summary>
         <author>
             <name>masterofnull</name>
         </author>
@@ -65,10 +117,23 @@ Points: 12
         <updated>2021-07-04T18:54:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bedrockapp.org/2021/07/04/devlog-converting-this-wordpress-site-to-bedrock-itself/
 Comments URL: https://news.ycombinator.com/item?id=27731781
-Points: 6
-# Comments: 1]]></summary>
+Points: 15
+# Comments: 2]]></summary>
         <author>
             <name>Wolfr_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Privileged Access Backdoor]]></title>
+        <id>https://news.ycombinator.com/item?id=27731684</id>
+        <link href="https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/"/>
+        <updated>2021-07-04T18:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/
+Comments URL: https://news.ycombinator.com/item?id=27731684
+Points: 41
+# Comments: 1]]></summary>
+        <author>
+            <name>adib</name>
         </author>
     </entry>
     <entry>
@@ -78,23 +143,23 @@ Points: 6
         <updated>2021-07-04T18:32:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition
 Comments URL: https://news.ycombinator.com/item?id=27731646
-Points: 44
-# Comments: 36]]></summary>
+Points: 68
+# Comments: 65]]></summary>
         <author>
             <name>webmobdev</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flexport Is Hiring]]></title>
-        <id>https://news.ycombinator.com/item?id=27731056</id>
-        <link href="https://techcrunch.com/2016/06/07/flexport/"/>
-        <updated>2021-07-04T17:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2016/06/07/flexport/
-Comments URL: https://news.ycombinator.com/item?id=27731056
-Points: 1
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[CVE-2020-9771 is not fixed correctly]]></title>
+        <id>https://news.ycombinator.com/item?id=27731637</id>
+        <link href="https://theevilbit.github.io/posts/cve_2020_9771/"/>
+        <updated>2021-07-04T18:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theevilbit.github.io/posts/cve_2020_9771/
+Comments URL: https://news.ycombinator.com/item?id=27731637
+Points: 15
+# Comments: 1]]></summary>
         <author>
-            <name>thedogeye</name>
+            <name>adib</name>
         </author>
     </entry>
     <entry>
@@ -104,10 +169,23 @@ Points: 1
         <updated>2021-07-04T16:31:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nakabonne.dev/posts/write-tsdb-from-scratch/
 Comments URL: https://news.ycombinator.com/item?id=27730854
-Points: 89
-# Comments: 8]]></summary>
+Points: 127
+# Comments: 9]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Alexandra Elbakyan in real trouble this time?]]></title>
+        <id>https://news.ycombinator.com/item?id=27730843</id>
+        <link href="https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time"/>
+        <updated>2021-07-04T16:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time
+Comments URL: https://news.ycombinator.com/item?id=27730843
+Points: 37
+# Comments: 24]]></summary>
+        <author>
+            <name>Cream-Corn-11</name>
         </author>
     </entry>
     <entry>
@@ -117,62 +195,49 @@ Points: 89
         <updated>2021-07-04T16:24:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html
 Comments URL: https://news.ycombinator.com/item?id=27730807
-Points: 52
-# Comments: 11]]></summary>
+Points: 67
+# Comments: 13]]></summary>
         <author>
             <name>mlerner</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microbes in Cow Stomachs May Help Our Plastic Problem]]></title>
-        <id>https://news.ycombinator.com/item?id=27730497</id>
-        <link href="https://interestingengineering.com/microbes-in-cow-stomachs-may-help-our-plastic-problem"/>
-        <updated>2021-07-04T15:42:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://interestingengineering.com/microbes-in-cow-stomachs-may-help-our-plastic-problem
-Comments URL: https://news.ycombinator.com/item?id=27730497
-Points: 17
-# Comments: 9]]></summary>
+        <title type="html"><![CDATA[Lessons from 20 Years of Hype Cycles (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27730682</id>
+        <link href="https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany"/>
+        <updated>2021-07-04T16:06:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany
+Comments URL: https://news.ycombinator.com/item?id=27730682
+Points: 7
+# Comments: 2]]></summary>
         <author>
-            <name>shoto_io</name>
+            <name>shandor</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On working too hard: finding balance, and lessons learned from others]]></title>
-        <id>https://news.ycombinator.com/item?id=27729987</id>
-        <link href="https://blog.lawrencejones.dev/working-too-hard/"/>
-        <updated>2021-07-04T14:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.lawrencejones.dev/working-too-hard/
-Comments URL: https://news.ycombinator.com/item?id=27729987
-Points: 114
-# Comments: 63]]></summary>
-        <author>
-            <name>lawrjone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social media is broken – a new report offers ways to fix it]]></title>
-        <id>https://news.ycombinator.com/item?id=27729848</id>
-        <link href="https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it"/>
-        <updated>2021-07-04T14:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it
-Comments URL: https://news.ycombinator.com/item?id=27729848
-Points: 87
-# Comments: 169]]></summary>
-        <author>
-            <name>dsr12</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bryan Cantrill Interviewed at ACM Bytecast]]></title>
-        <id>https://news.ycombinator.com/item?id=27729681</id>
-        <link href="https://learning.acm.org/bytecast/ep17-bryan-cantrill"/>
-        <updated>2021-07-04T14:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://learning.acm.org/bytecast/ep17-bryan-cantrill
-Comments URL: https://news.ycombinator.com/item?id=27729681
-Points: 34
+        <title type="html"><![CDATA[The future is in symmetrical, high-speed internet speeds]]></title>
+        <id>https://news.ycombinator.com/item?id=27730567</id>
+        <link href="https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds"/>
+        <updated>2021-07-04T15:51:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds
+Comments URL: https://news.ycombinator.com/item?id=27730567
+Points: 37
 # Comments: 4]]></summary>
         <author>
-            <name>todsacerdoti</name>
+            <name>elorant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terrible programming features from the past]]></title>
+        <id>https://news.ycombinator.com/item?id=27730473</id>
+        <link href="https://medium.com/young-coder/3-terrible-programming-features-from-the-past-ee5260af1d74"/>
+        <updated>2021-07-04T15:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medium.com/young-coder/3-terrible-programming-features-from-the-past-ee5260af1d74
+Comments URL: https://news.ycombinator.com/item?id=27730473
+Points: 49
+# Comments: 59]]></summary>
+        <author>
+            <name>kiyanwang</name>
         </author>
     </entry>
     <entry>
@@ -182,8 +247,8 @@ Points: 34
         <updated>2021-07-04T13:49:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00
 Comments URL: https://news.ycombinator.com/item?id=27729610
-Points: 193
-# Comments: 73]]></summary>
+Points: 223
+# Comments: 83]]></summary>
         <author>
             <name>detaro</name>
         </author>
@@ -207,75 +272,10 @@ The post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS
         <updated>2021-07-04T13:19:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2
 Comments URL: https://news.ycombinator.com/item?id=27729417
-Points: 76
-# Comments: 4]]></summary>
+Points: 86
+# Comments: 5]]></summary>
         <author>
             <name>begriffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Underground fiber optics spy on humans moving above]]></title>
-        <id>https://news.ycombinator.com/item?id=27729402</id>
-        <link href="https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/"/>
-        <updated>2021-07-04T13:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/
-Comments URL: https://news.ycombinator.com/item?id=27729402
-Points: 122
-# Comments: 48]]></summary>
-        <author>
-            <name>mardiyah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When static makes your C code 10 times faster]]></title>
-        <id>https://news.ycombinator.com/item?id=27729377</id>
-        <link href="https://mazzo.li/posts/c-performance-anecdote.html"/>
-        <updated>2021-07-04T13:12:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mazzo.li/posts/c-performance-anecdote.html
-Comments URL: https://news.ycombinator.com/item?id=27729377
-Points: 118
-# Comments: 65]]></summary>
-        <author>
-            <name>rostayob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender and the Rabbids]]></title>
-        <id>https://news.ycombinator.com/item?id=27729331</id>
-        <link href="https://www.blender.org/user-stories/blender-and-the-rabbids/"/>
-        <updated>2021-07-04T13:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.blender.org/user-stories/blender-and-the-rabbids/
-Comments URL: https://news.ycombinator.com/item?id=27729331
-Points: 218
-# Comments: 59]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop mocking your system]]></title>
-        <id>https://news.ycombinator.com/item?id=27729189</id>
-        <link href="https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/"/>
-        <updated>2021-07-04T12:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/
-Comments URL: https://news.ycombinator.com/item?id=27729189
-Points: 58
-# Comments: 73]]></summary>
-        <author>
-            <name>entanglement</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN:  Ready UI – Bootstrap UI blocks]]></title>
-        <id>https://news.ycombinator.com/item?id=27729010</id>
-        <link href="https://readyui.co/"/>
-        <updated>2021-07-04T11:57:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://readyui.co/
-Comments URL: https://news.ycombinator.com/item?id=27729010
-Points: 53
-# Comments: 31]]></summary>
-        <author>
-            <name>rrahian</name>
         </author>
     </entry>
     <entry>

@@ -6,9 +6,45 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27732580",
+          "author": "mrkurt",
+          "description": "Fly.io takes container images and converts them into fleets of Firecracker VMs, running on our own hardware around the world. It's easy on Fly to run applications close to users, no matter where they are in the world. Try it out! If you’ve got a working container already, it can be running here in less than 10 minutes:\nhttps://fly.io/docs/speedrun/\nWe've got a lot of fun ops challenges here. We're HashiCorp stack (Nomad, Consul, and Vault), plus Firecracker, plus WireGuard, which is what our network fabric is built on. Our users drive Fly.io through a Rails-based GraphQL API. We host a heavy-duty Prometheus-style metrics cluster, an ElasticSearch cluster for logging, a monitoring system using Sensu Go, BGP4 peering with Bird… the list goes on.\nWe're hiring SRE-types to help us manage and k…",
+          "link": "https://news.ycombinator.com/item?id=27732580",
+          "publishedOn": "2021-07-04T21:00:20.000Z",
+          "wordCount": 380,
+          "title": "Fly.io (YC W20) Is Hiring Site Reliability Engineers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27732372",
+          "author": "koolba",
+          "description": "Article URL: https://www.newsweek.com/san-franciscos-organized-shoplifting-surge-prompts-target-cut-operating-hours-1606674\nComments URL: https://news.ycombinator.com/item?id=27732372\nPoints: 12\n# Comments: 0",
+          "link": "https://www.newsweek.com/san-franciscos-organized-shoplifting-surge-prompts-target-cut-operating-hours-1606674",
+          "publishedOn": "2021-07-04T20:30:19.000Z",
+          "wordCount": 737,
+          "title": "San Francisco Organized Shoplifting Surge Prompts Target to Cut Operating Hours"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27732236",
+          "author": "se4u",
+          "description": "Article URL: https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5\nComments URL: https://news.ycombinator.com/item?id=27732236\nPoints: 3\n# Comments: 0",
+          "link": "https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5",
+          "publishedOn": "2021-07-04T20:07:51.000Z",
+          "wordCount": 213,
+          "title": "PID Controller for controlling the number of servers in a data-center"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27732136",
+          "author": "Ameo",
+          "description": "Article URL: https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/\nComments URL: https://news.ycombinator.com/item?id=27732136\nPoints: 33\n# Comments: 1",
+          "link": "https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/",
+          "publishedOn": "2021-07-04T19:53:02.000Z",
+          "wordCount": 18,
+          "title": "Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27731966",
           "author": "rubyn00bie",
-          "description": "Article URL: https://cstack.github.io/db_tutorial/\nComments URL: https://news.ycombinator.com/item?id=27731966\nPoints: 34\n# Comments: 8",
+          "description": "Article URL: https://cstack.github.io/db_tutorial/\nComments URL: https://news.ycombinator.com/item?id=27731966\nPoints: 68\n# Comments: 11",
           "link": "https://cstack.github.io/db_tutorial/",
           "publishedOn": "2021-07-04T19:22:47.000Z",
           "wordCount": 261,
@@ -17,7 +53,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27731925",
           "author": "mauvehaus",
-          "description": "Article URL: https://cakecrumbs.me/2013/05/24/commission-earth-structural-layer-cake/\nComments URL: https://news.ycombinator.com/item?id=27731925\nPoints: 6\n# Comments: 0",
+          "description": "Article URL: https://cakecrumbs.me/2013/05/24/commission-earth-structural-layer-cake/\nComments URL: https://news.ycombinator.com/item?id=27731925\nPoints: 17\n# Comments: 2",
           "link": "https://cakecrumbs.me/2013/05/24/commission-earth-structural-layer-cake/",
           "publishedOn": "2021-07-04T19:17:05.000Z",
           "wordCount": 1165,
@@ -26,16 +62,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27731909",
           "author": "jasonb05",
-          "description": "Article URL: https://github.com/Jason2Brownlee/QuakeBotArchive\nComments URL: https://news.ycombinator.com/item?id=27731909\nPoints: 4\n# Comments: 0",
+          "description": "Article URL: https://github.com/Jason2Brownlee/QuakeBotArchive\nComments URL: https://news.ycombinator.com/item?id=27731909\nPoints: 23\n# Comments: 4",
           "link": "https://github.com/Jason2Brownlee/QuakeBotArchive",
           "publishedOn": "2021-07-04T19:14:24.000Z",
-          "wordCount": 2126,
+          "wordCount": 2123,
           "title": "Archive and genealogy of all Quake 1 bots"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27731787",
           "author": "masterofnull",
-          "description": "Article URL: https://github.com/jdhayford/acid-tabs-extension\nComments URL: https://news.ycombinator.com/item?id=27731787\nPoints: 12\n# Comments: 0",
+          "description": "Article URL: https://github.com/jdhayford/acid-tabs-extension\nComments URL: https://news.ycombinator.com/item?id=27731787\nPoints: 29\n# Comments: 10",
           "link": "https://github.com/jdhayford/acid-tabs-extension",
           "publishedOn": "2021-07-04T18:54:58.000Z",
           "wordCount": 732,
@@ -44,88 +80,97 @@
         {
           "id": "https://news.ycombinator.com/item?id=27731781",
           "author": "Wolfr_",
-          "description": "Article URL: https://bedrockapp.org/2021/07/04/devlog-converting-this-wordpress-site-to-bedrock-itself/\nComments URL: https://news.ycombinator.com/item?id=27731781\nPoints: 6\n# Comments: 1",
+          "description": "Article URL: https://bedrockapp.org/2021/07/04/devlog-converting-this-wordpress-site-to-bedrock-itself/\nComments URL: https://news.ycombinator.com/item?id=27731781\nPoints: 15\n# Comments: 2",
           "link": "https://bedrockapp.org/2021/07/04/devlog-converting-this-wordpress-site-to-bedrock-itself/",
           "publishedOn": "2021-07-04T18:54:25.000Z",
           "wordCount": 2515,
           "title": "Devlog – converting this WordPress site to Bedrock itself"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27731684",
+          "author": "adib",
+          "description": "Article URL: https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/\nComments URL: https://news.ycombinator.com/item?id=27731684\nPoints: 41\n# Comments: 1",
+          "link": "https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/",
+          "publishedOn": "2021-07-04T18:39:02.000Z",
+          "wordCount": 3438,
+          "title": "macOS Privileged Access Backdoor"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27731646",
           "author": "webmobdev",
-          "description": "Article URL: https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition\nComments URL: https://news.ycombinator.com/item?id=27731646\nPoints: 44\n# Comments: 36",
+          "description": "Article URL: https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition\nComments URL: https://news.ycombinator.com/item?id=27731646\nPoints: 68\n# Comments: 65",
           "link": "https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition",
           "publishedOn": "2021-07-04T18:32:43.000Z",
           "wordCount": 2869,
           "title": "EU antitrust: Apple shouldn't use privacy and security to stave off competition"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27731056",
-          "author": "thedogeye",
-          "description": "Article URL: https://techcrunch.com/2016/06/07/flexport/\nComments URL: https://news.ycombinator.com/item?id=27731056\nPoints: 1\n# Comments: 0",
-          "link": "https://techcrunch.com/2016/06/07/flexport/",
-          "publishedOn": "2021-07-04T17:00:16.000Z",
-          "wordCount": 1264,
-          "title": "Flexport Is Hiring"
+          "id": "https://news.ycombinator.com/item?id=27731637",
+          "author": "adib",
+          "description": "Article URL: https://theevilbit.github.io/posts/cve_2020_9771/\nComments URL: https://news.ycombinator.com/item?id=27731637\nPoints: 15\n# Comments: 1",
+          "link": "https://theevilbit.github.io/posts/cve_2020_9771/",
+          "publishedOn": "2021-07-04T18:30:41.000Z",
+          "wordCount": 1457,
+          "title": "CVE-2020-9771 is not fixed correctly"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27730854",
           "author": "todsacerdoti",
-          "description": "Article URL: https://nakabonne.dev/posts/write-tsdb-from-scratch/\nComments URL: https://news.ycombinator.com/item?id=27730854\nPoints: 89\n# Comments: 8",
+          "description": "Article URL: https://nakabonne.dev/posts/write-tsdb-from-scratch/\nComments URL: https://news.ycombinator.com/item?id=27730854\nPoints: 127\n# Comments: 9",
           "link": "https://nakabonne.dev/posts/write-tsdb-from-scratch/",
           "publishedOn": "2021-07-04T16:31:43.000Z",
           "wordCount": 3524,
           "title": "Write a time-series database engine from scratch"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27730843",
+          "author": "Cream-Corn-11",
+          "description": "Article URL: https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time\nComments URL: https://news.ycombinator.com/item?id=27730843\nPoints: 37\n# Comments: 24",
+          "link": "https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time",
+          "publishedOn": "2021-07-04T16:29:33.000Z",
+          "wordCount": null,
+          "title": "Is Alexandra Elbakyan in real trouble this time?"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27730807",
           "author": "mlerner",
-          "description": "Article URL: https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html\nComments URL: https://news.ycombinator.com/item?id=27730807\nPoints: 52\n# Comments: 11",
+          "description": "Article URL: https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html\nComments URL: https://news.ycombinator.com/item?id=27730807\nPoints: 67\n# Comments: 13",
           "link": "https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html",
           "publishedOn": "2021-07-04T16:24:32.000Z",
           "wordCount": 1695,
           "title": "Ray: A Distributed Framework for Emerging AI Applications"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27730497",
-          "author": "shoto_io",
-          "description": "Article URL: https://interestingengineering.com/microbes-in-cow-stomachs-may-help-our-plastic-problem\nComments URL: https://news.ycombinator.com/item?id=27730497\nPoints: 17\n# Comments: 9",
-          "link": "https://interestingengineering.com/microbes-in-cow-stomachs-may-help-our-plastic-problem",
-          "publishedOn": "2021-07-04T15:42:26.000Z",
-          "wordCount": 720,
-          "title": "Microbes in Cow Stomachs May Help Our Plastic Problem"
+          "id": "https://news.ycombinator.com/item?id=27730682",
+          "author": "shandor",
+          "description": "Article URL: https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany\nComments URL: https://news.ycombinator.com/item?id=27730682\nPoints: 7\n# Comments: 2",
+          "link": "https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany",
+          "publishedOn": "2021-07-04T16:06:13.000Z",
+          "wordCount": 3328,
+          "title": "Lessons from 20 Years of Hype Cycles (2016)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27729987",
-          "author": "lawrjone",
-          "description": "Article URL: https://blog.lawrencejones.dev/working-too-hard/\nComments URL: https://news.ycombinator.com/item?id=27729987\nPoints: 114\n# Comments: 63",
-          "link": "https://blog.lawrencejones.dev/working-too-hard/",
-          "publishedOn": "2021-07-04T14:45:05.000Z",
-          "wordCount": 1584,
-          "title": "On working too hard: finding balance, and lessons learned from others"
+          "id": "https://news.ycombinator.com/item?id=27730567",
+          "author": "elorant",
+          "description": "Article URL: https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds\nComments URL: https://news.ycombinator.com/item?id=27730567\nPoints: 37\n# Comments: 4",
+          "link": "https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds",
+          "publishedOn": "2021-07-04T15:51:58.000Z",
+          "wordCount": 2534,
+          "title": "The future is in symmetrical, high-speed internet speeds"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27729848",
-          "author": "dsr12",
-          "description": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it\nComments URL: https://news.ycombinator.com/item?id=27729848\nPoints: 87\n# Comments: 169",
-          "link": "https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it",
-          "publishedOn": "2021-07-04T14:26:08.000Z",
-          "wordCount": 1486,
-          "title": "Social media is broken – a new report offers ways to fix it"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27729681",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://learning.acm.org/bytecast/ep17-bryan-cantrill\nComments URL: https://news.ycombinator.com/item?id=27729681\nPoints: 34\n# Comments: 4",
-          "link": "https://learning.acm.org/bytecast/ep17-bryan-cantrill",
-          "publishedOn": "2021-07-04T14:00:40.000Z",
-          "wordCount": 815,
-          "title": "Bryan Cantrill Interviewed at ACM Bytecast"
+          "id": "https://news.ycombinator.com/item?id=27730473",
+          "author": "kiyanwang",
+          "description": "Article URL: https://medium.com/young-coder/3-terrible-programming-features-from-the-past-ee5260af1d74\nComments URL: https://news.ycombinator.com/item?id=27730473\nPoints: 49\n# Comments: 59",
+          "link": "https://medium.com/young-coder/3-terrible-programming-features-from-the-past-ee5260af1d74",
+          "publishedOn": "2021-07-04T15:39:01.000Z",
+          "wordCount": 239,
+          "title": "Terrible programming features from the past"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27729610",
           "author": "detaro",
-          "description": "Article URL: https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00\nComments URL: https://news.ycombinator.com/item?id=27729610\nPoints: 193\n# Comments: 73",
+          "description": "Article URL: https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00\nComments URL: https://news.ycombinator.com/item?id=27729610\nPoints: 223\n# Comments: 83",
           "link": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
           "publishedOn": "2021-07-04T13:49:49.000Z",
           "wordCount": 2581,
@@ -134,56 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27729417",
           "author": "begriffs",
-          "description": "Article URL: https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2\nComments URL: https://news.ycombinator.com/item?id=27729417\nPoints: 76\n# Comments: 4",
+          "description": "Article URL: https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2\nComments URL: https://news.ycombinator.com/item?id=27729417\nPoints: 86\n# Comments: 5",
           "link": "https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2",
           "publishedOn": "2021-07-04T13:19:48.000Z",
           "wordCount": 3190,
           "title": "Dynamic Linking Best Practices"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27729402",
-          "author": "mardiyah",
-          "description": "Article URL: https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/\nComments URL: https://news.ycombinator.com/item?id=27729402\nPoints: 122\n# Comments: 48",
-          "link": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
-          "publishedOn": "2021-07-04T13:16:42.000Z",
-          "wordCount": 1519,
-          "title": "Underground fiber optics spy on humans moving above"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27729377",
-          "author": "rostayob",
-          "description": "Article URL: https://mazzo.li/posts/c-performance-anecdote.html\nComments URL: https://news.ycombinator.com/item?id=27729377\nPoints: 118\n# Comments: 65",
-          "link": "https://mazzo.li/posts/c-performance-anecdote.html",
-          "publishedOn": "2021-07-04T13:12:39.000Z",
-          "wordCount": 1111,
-          "title": "When static makes your C code 10 times faster"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27729331",
-          "author": "Tomte",
-          "description": "Article URL: https://www.blender.org/user-stories/blender-and-the-rabbids/\nComments URL: https://news.ycombinator.com/item?id=27729331\nPoints: 218\n# Comments: 59",
-          "link": "https://www.blender.org/user-stories/blender-and-the-rabbids/",
-          "publishedOn": "2021-07-04T13:04:55.000Z",
-          "wordCount": 2343,
-          "title": "Blender and the Rabbids"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27729189",
-          "author": "entanglement",
-          "description": "Article URL: https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/\nComments URL: https://news.ycombinator.com/item?id=27729189\nPoints: 58\n# Comments: 73",
-          "link": "https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/",
-          "publishedOn": "2021-07-04T12:36:17.000Z",
-          "wordCount": 704,
-          "title": "Stop mocking your system"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27729010",
-          "author": "rrahian",
-          "description": "Article URL: https://readyui.co/\nComments URL: https://news.ycombinator.com/item?id=27729010\nPoints: 53\n# Comments: 31",
-          "link": "https://readyui.co/",
-          "publishedOn": "2021-07-04T11:57:50.000Z",
-          "wordCount": 674,
-          "title": "Show HN:  Ready UI – Bootstrap UI blocks"
         }
       ]
     },
@@ -378,7 +378,7 @@
           "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
           "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
           "publishedOn": "2021-07-02T10:30:00.000Z",
-          "wordCount": 4197,
+          "wordCount": 4204,
           "title": "Email Testing Flow As It Should Be",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
@@ -392,7 +392,7 @@
           "description": "When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.",
           "link": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
           "publishedOn": "2021-07-01T12:30:00.000Z",
-          "wordCount": 4766,
+          "wordCount": 4753,
           "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc1434b9-70c3-4fb2-821e-2128e3373246/frontend-testing-pitfalls.jpg",
@@ -406,7 +406,7 @@
           "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
           "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4731,
+          "wordCount": 4739,
           "title": "The State Of Web Workers In 2021",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
@@ -420,7 +420,7 @@
           "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
           "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3685,
+          "wordCount": 3687,
           "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
@@ -462,7 +462,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2512,
+          "wordCount": 2513,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -476,7 +476,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5446,
+          "wordCount": 5450,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -490,7 +490,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3521,
+          "wordCount": 3530,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -504,7 +504,7 @@
           "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
           "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4168,
+          "wordCount": 4167,
           "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
@@ -532,7 +532,7 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1350,
+          "wordCount": 1398,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
@@ -560,7 +560,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5358,
+          "wordCount": 5360,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -574,7 +574,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3410,
+          "wordCount": 3411,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -588,7 +588,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3964,
+          "wordCount": 3952,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -616,7 +616,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4097,
+          "wordCount": 4099,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -672,7 +672,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1748,
+          "wordCount": 1736,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -686,7 +686,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5108,
+          "wordCount": 5158,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -700,7 +700,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 867,
+          "wordCount": 874,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
