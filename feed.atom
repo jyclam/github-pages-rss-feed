@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T02:21:57.250Z</updated>
+    <updated>2021-07-04T03:13:06.085Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -13,8 +13,8 @@
         <updated>2021-07-04T01:26:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/davidhambling/2020/05/11/us-navy-laser-creates-plasma-ufos/
 Comments URL: https://news.ycombinator.com/item?id=27726588
-Points: 7
-# Comments: 2]]></summary>
+Points: 14
+# Comments: 3]]></summary>
         <author>
             <name>egfx</name>
         </author>
@@ -39,8 +39,8 @@ Points: 1
         <updated>2021-07-03T23:13:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096
 Comments URL: https://news.ycombinator.com/item?id=27725783
-Points: 27
-# Comments: 18]]></summary>
+Points: 37
+# Comments: 22]]></summary>
         <author>
             <name>curmudgeon22</name>
         </author>
@@ -52,8 +52,8 @@ Points: 27
         <updated>2021-07-03T22:01:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378
 Comments URL: https://news.ycombinator.com/item?id=27725286
-Points: 55
-# Comments: 67]]></summary>
+Points: 74
+# Comments: 77]]></summary>
         <author>
             <name>pathompong</name>
         </author>
@@ -65,10 +65,23 @@ Points: 55
         <updated>2021-07-03T20:31:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full
 Comments URL: https://news.ycombinator.com/item?id=27724653
-Points: 20
-# Comments: 6]]></summary>
+Points: 29
+# Comments: 10]]></summary>
         <author>
             <name>WaitWaitWha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Databases handle 10M devices in high-cardinality benchmarks]]></title>
+        <id>https://news.ycombinator.com/item?id=27724460</id>
+        <link href="https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/"/>
+        <updated>2021-07-03T20:07:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/
+Comments URL: https://news.ycombinator.com/item?id=27724460
+Points: 33
+# Comments: 9]]></summary>
+        <author>
+            <name>elorant</name>
         </author>
     </entry>
     <entry>
@@ -78,8 +91,8 @@ Points: 20
         <updated>2021-07-03T19:54:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/
 Comments URL: https://news.ycombinator.com/item?id=27724331
-Points: 75
-# Comments: 82]]></summary>
+Points: 78
+# Comments: 85]]></summary>
         <author>
             <name>ntietz</name>
         </author>
@@ -91,8 +104,8 @@ Points: 75
         <updated>2021-07-03T19:44:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jamesl.me/atto/
 Comments URL: https://news.ycombinator.com/item?id=27724236
-Points: 62
-# Comments: 43]]></summary>
+Points: 65
+# Comments: 44]]></summary>
         <author>
             <name>James-Livesey</name>
         </author>
@@ -104,8 +117,8 @@ Points: 62
         <updated>2021-07-03T19:43:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/
 Comments URL: https://news.ycombinator.com/item?id=27724224
-Points: 23
-# Comments: 7]]></summary>
+Points: 26
+# Comments: 9]]></summary>
         <author>
             <name>akpa1</name>
         </author>
@@ -117,7 +130,7 @@ Points: 23
         <updated>2021-07-03T19:24:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/
 Comments URL: https://news.ycombinator.com/item?id=27724067
-Points: 64
+Points: 67
 # Comments: 9]]></summary>
         <author>
             <name>matt_d</name>
@@ -130,8 +143,8 @@ Points: 64
         <updated>2021-07-03T19:21:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thelig.ht/abandoning-github/
 Comments URL: https://news.ycombinator.com/item?id=27724042
-Points: 651
-# Comments: 419]]></summary>
+Points: 673
+# Comments: 427]]></summary>
         <author>
             <name>janvdberg</name>
         </author>
@@ -143,7 +156,7 @@ Points: 651
         <updated>2021-07-03T19:17:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/
 Comments URL: https://news.ycombinator.com/item?id=27724016
-Points: 27
+Points: 31
 # Comments: 6]]></summary>
         <author>
             <name>JonathanBuchh</name>
@@ -156,8 +169,8 @@ Points: 27
         <updated>2021-07-03T19:14:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/natures-safe
 Comments URL: https://news.ycombinator.com/item?id=27723993
-Points: 13
-# Comments: 7]]></summary>
+Points: 21
+# Comments: 9]]></summary>
         <author>
             <name>minding</name>
         </author>
@@ -169,8 +182,8 @@ Points: 13
         <updated>2021-07-03T19:13:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land
 Comments URL: https://news.ycombinator.com/item?id=27723988
-Points: 35
-# Comments: 127]]></summary>
+Points: 38
+# Comments: 135]]></summary>
         <author>
             <name>agronaut</name>
         </author>
@@ -182,8 +195,8 @@ Points: 35
         <updated>2021-07-03T18:32:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docs.github.com/en/github/copilot/research-recitation
 Comments URL: https://news.ycombinator.com/item?id=27723710
-Points: 125
-# Comments: 59]]></summary>
+Points: 134
+# Comments: 61]]></summary>
         <author>
             <name>azhenley</name>
         </author>
@@ -195,23 +208,10 @@ Points: 125
         <updated>2021-07-03T17:55:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4
 Comments URL: https://news.ycombinator.com/item?id=27723460
-Points: 47
-# Comments: 21]]></summary>
+Points: 51
+# Comments: 22]]></summary>
         <author>
             <name>laurex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using government guidelines to police content: state censorship?]]></title>
-        <id>https://news.ycombinator.com/item?id=27723333</id>
-        <link href="https://taibbi.substack.com/p/a-case-of-intellectual-capture-on"/>
-        <updated>2021-07-03T17:38:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://taibbi.substack.com/p/a-case-of-intellectual-capture-on
-Comments URL: https://news.ycombinator.com/item?id=27723333
-Points: 135
-# Comments: 104]]></summary>
-        <author>
-            <name>curmudgeon22</name>
         </author>
     </entry>
     <entry>
@@ -234,7 +234,7 @@ Points: 43
         <updated>2021-07-03T16:50:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
 Comments URL: https://news.ycombinator.com/item?id=27722947
-Points: 134
+Points: 143
 # Comments: 24]]></summary>
         <author>
             <name>mrry</name>
@@ -248,7 +248,7 @@ Points: 134
         <summary type="html"><![CDATA[Article URL: https://www.thanassis.space/miniforth.html
 Comments URL: https://news.ycombinator.com/item?id=27722807
 Points: 77
-# Comments: 10]]></summary>
+# Comments: 11]]></summary>
         <author>
             <name>ttsiodras</name>
         </author>
@@ -260,8 +260,8 @@ Points: 77
         <updated>2021-07-03T15:39:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 Comments URL: https://news.ycombinator.com/item?id=27722333
-Points: 126
-# Comments: 17]]></summary>
+Points: 129
+# Comments: 18]]></summary>
         <author>
             <name>vackosar</name>
         </author>
