@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T17:17:51.776Z</updated>
+    <updated>2021-07-05T18:14:11.037Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[YC is hiring our first Data Engineer]]></title>
+        <title type="html"><![CDATA[YC is hiring our first data engineer]]></title>
         <id>https://news.ycombinator.com/item?id=27739848</id>
         <link href="https://www.ycombinator.com/companies/y-combinator/jobs/5ZIoy9J-first-data-engineer"/>
         <updated>2021-07-05T17:00:58.000Z</updated>
@@ -20,16 +20,42 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[European Citizen's Initiative for UBI]]></title>
-        <id>https://news.ycombinator.com/item?id=27739629</id>
-        <link href="https://eci-ubi.eu/"/>
-        <updated>2021-07-05T16:34:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://eci-ubi.eu/
-Comments URL: https://news.ycombinator.com/item?id=27739629
-Points: 9
+        <title type="html"><![CDATA[Design Engineering Handbook [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27739751</id>
+        <link href="https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf"/>
+        <updated>2021-07-05T16:47:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf
+Comments URL: https://news.ycombinator.com/item?id=27739751
+Points: 6
 # Comments: 0]]></summary>
         <author>
-            <name>nemexis</name>
+            <name>luispa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Explorables: big ideas in machine learning, simply explained]]></title>
+        <id>https://news.ycombinator.com/item?id=27739694</id>
+        <link href="https://pair.withgoogle.com/explorables/"/>
+        <updated>2021-07-05T16:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pair.withgoogle.com/explorables/
+Comments URL: https://news.ycombinator.com/item?id=27739694
+Points: 11
+# Comments: 1]]></summary>
+        <author>
+            <name>smitop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audacity: Clarification of Privacy Policy]]></title>
+        <id>https://news.ycombinator.com/item?id=27739596</id>
+        <link href="https://github.com/audacity/audacity/discussions/1225"/>
+        <updated>2021-07-05T16:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/audacity/audacity/discussions/1225
+Comments URL: https://news.ycombinator.com/item?id=27739596
+Points: 28
+# Comments: 11]]></summary>
+        <author>
+            <name>anonymousab</name>
         </author>
     </entry>
     <entry>
@@ -39,21 +65,34 @@ Points: 9
         <updated>2021-07-05T16:28:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://feed-me-up-scotty.vincenttunru.com/
 Comments URL: https://news.ycombinator.com/item?id=27739568
-Points: 38
-# Comments: 6]]></summary>
+Points: 109
+# Comments: 29]]></summary>
         <author>
             <name>Vinnl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tony Hoare Answers Questions]]></title>
+        <title type="html"><![CDATA[European plan for gigantic new gravitational wave detector passes milestone]]></title>
+        <id>https://news.ycombinator.com/item?id=27739499</id>
+        <link href="https://www.sciencemag.org/news/2021/07/european-plan-gigantic-new-gravitational-wave-detector-passes-milestone"/>
+        <updated>2021-07-05T16:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sciencemag.org/news/2021/07/european-plan-gigantic-new-gravitational-wave-detector-passes-milestone
+Comments URL: https://news.ycombinator.com/item?id=27739499
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tony Hoare answers questions [video]]]></title>
         <id>https://news.ycombinator.com/item?id=27739494</id>
         <link href="https://www.newton.ac.uk/seminar/20210607180018301/"/>
         <updated>2021-07-05T16:20:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newton.ac.uk/seminar/20210607180018301/
 Comments URL: https://news.ycombinator.com/item?id=27739494
-Points: 17
-# Comments: 5]]></summary>
+Points: 32
+# Comments: 10]]></summary>
         <author>
             <name>timthorn</name>
         </author>
@@ -65,10 +104,23 @@ Points: 17
         <updated>2021-07-05T16:06:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nuances.substack.com/p/seeking-advice-in-startups
 Comments URL: https://news.ycombinator.com/item?id=27739335
-Points: 16
-# Comments: 2]]></summary>
+Points: 26
+# Comments: 5]]></summary>
         <author>
             <name>tmatthewj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Download 12,000 Exclusive Design Resources]]></title>
+        <id>https://news.ycombinator.com/item?id=27739100</id>
+        <link href="https://www.uihut.com/"/>
+        <updated>2021-07-05T15:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.uihut.com/
+Comments URL: https://news.ycombinator.com/item?id=27739100
+Points: 12
+# Comments: 3]]></summary>
+        <author>
+            <name>mdsami</name>
         </author>
     </entry>
     <entry>
@@ -78,23 +130,10 @@ Points: 16
         <updated>2021-07-05T15:38:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ft.com/content/abc04cc0-ea53-4ecb-8c1e-49c85014fa3f
 Comments URL: https://news.ycombinator.com/item?id=27739034
-Points: 60
-# Comments: 31]]></summary>
+Points: 74
+# Comments: 51]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Echo Dots store a wealth of data, even after you reset them]]></title>
-        <id>https://news.ycombinator.com/item?id=27738584</id>
-        <link href="https://www.wired.com/story/amazon-echo-dots-store-user-data-even-after-reset/"/>
-        <updated>2021-07-05T14:54:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/amazon-echo-dots-store-user-data-even-after-reset/
-Comments URL: https://news.ycombinator.com/item?id=27738584
-Points: 38
-# Comments: 5]]></summary>
-        <author>
-            <name>billyharris</name>
         </author>
     </entry>
     <entry>
@@ -104,7 +143,7 @@ Points: 38
         <updated>2021-07-05T14:52:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pythonspeed.com/articles/measuring-memory-python/
 Comments URL: https://news.ycombinator.com/item?id=27738566
-Points: 7
+Points: 23
 # Comments: 0]]></summary>
         <author>
             <name>itamarst</name>
@@ -117,8 +156,8 @@ Points: 7
         <updated>2021-07-05T14:51:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/business/2021/07/03/the-perils-of-pr
 Comments URL: https://news.ycombinator.com/item?id=27738547
-Points: 21
-# Comments: 9]]></summary>
+Points: 25
+# Comments: 15]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -130,8 +169,8 @@ Points: 21
         <updated>2021-07-05T14:24:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html
 Comments URL: https://news.ycombinator.com/item?id=27738312
-Points: 58
-# Comments: 6]]></summary>
+Points: 76
+# Comments: 11]]></summary>
         <author>
             <name>mrry</name>
         </author>
@@ -143,8 +182,8 @@ Points: 58
         <updated>2021-07-05T14:20:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chisel-lang.org/
 Comments URL: https://news.ycombinator.com/item?id=27738281
-Points: 29
-# Comments: 0]]></summary>
+Points: 33
+# Comments: 5]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -168,7 +207,7 @@ The post Kubernetes Explained Simply: Containers, Pods and Images appeared first
         <updated>2021-07-05T14:15:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/GistNoesis/BrickRegistration
 Comments URL: https://news.ycombinator.com/item?id=27738232
-Points: 62
+Points: 71
 # Comments: 3]]></summary>
         <author>
             <name>GistNoesis</name>
@@ -186,14 +225,27 @@ The post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Origin of Technosignatures]]></title>
+        <id>https://news.ycombinator.com/item?id=27738138</id>
+        <link href="https://www.scientificamerican.com/article/the-origin-of-technosignatures/"/>
+        <updated>2021-07-05T14:06:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/the-origin-of-technosignatures/
+Comments URL: https://news.ycombinator.com/item?id=27738138
+Points: 2
+# Comments: 0]]></summary>
+        <author>
+            <name>LinuxBender</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Future of Deep Learning Is Photonic]]></title>
         <id>https://news.ycombinator.com/item?id=27738029</id>
         <link href="https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic"/>
         <updated>2021-07-05T13:56:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic
 Comments URL: https://news.ycombinator.com/item?id=27738029
-Points: 40
-# Comments: 9]]></summary>
+Points: 52
+# Comments: 14]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -205,8 +257,8 @@ Points: 40
         <updated>2021-07-05T13:42:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.musicforprogramming.net/
 Comments URL: https://news.ycombinator.com/item?id=27737887
-Points: 120
-# Comments: 69]]></summary>
+Points: 143
+# Comments: 88]]></summary>
         <author>
             <name>Vaslo</name>
         </author>
@@ -218,8 +270,8 @@ Points: 120
         <updated>2021-07-05T13:24:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/
 Comments URL: https://news.ycombinator.com/item?id=27737718
-Points: 163
-# Comments: 20]]></summary>
+Points: 189
+# Comments: 25]]></summary>
         <author>
             <name>watchdogtimer</name>
         </author>
@@ -231,62 +283,10 @@ Points: 163
         <updated>2021-07-05T13:22:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 Comments URL: https://news.ycombinator.com/item?id=27737705
-Points: 30
-# Comments: 4]]></summary>
+Points: 35
+# Comments: 6]]></summary>
         <author>
             <name>signa11</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything useful I know about kubectl]]></title>
-        <id>https://news.ycombinator.com/item?id=27737064</id>
-        <link href="https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/"/>
-        <updated>2021-07-05T12:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
-Comments URL: https://news.ycombinator.com/item?id=27737064
-Points: 99
-# Comments: 44]]></summary>
-        <author>
-            <name>alexhwoods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional]]></title>
-        <id>https://news.ycombinator.com/item?id=27736788</id>
-        <link href="https://www.theregister.com/2021/07/05/infinidash/"/>
-        <updated>2021-07-05T11:27:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/07/05/infinidash/
-Comments URL: https://news.ycombinator.com/item?id=27736788
-Points: 161
-# Comments: 62]]></summary>
-        <author>
-            <name>rcarmo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highview Developing 50MW/500MWh Liquid Air Energy Storage Facility in Chile]]></title>
-        <id>https://news.ycombinator.com/item?id=27736733</id>
-        <link href="https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/"/>
-        <updated>2021-07-05T11:20:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/
-Comments URL: https://news.ycombinator.com/item?id=27736733
-Points: 46
-# Comments: 34]]></summary>
-        <author>
-            <name>kieranmaine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise and Fall of the OLAP Cube (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27736713</id>
-        <link href="https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/"/>
-        <updated>2021-07-05T11:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
-Comments URL: https://news.ycombinator.com/item?id=27736713
-Points: 7
-# Comments: 1]]></summary>
-        <author>
-            <name>smartmic</name>
         </author>
     </entry>
     <entry>
