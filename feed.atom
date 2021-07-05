@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T16:17:47.239Z</updated>
+    <updated>2021-07-05T17:17:51.776Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YC is hiring our first Data Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=27739848</id>
+        <link href="https://www.ycombinator.com/companies/y-combinator/jobs/5ZIoy9J-first-data-engineer"/>
+        <updated>2021-07-05T17:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/y-combinator/jobs/5ZIoy9J-first-data-engineer
+Comments URL: https://news.ycombinator.com/item?id=27739848
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>ryankicks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European Citizen's Initiative for UBI]]></title>
+        <id>https://news.ycombinator.com/item?id=27739629</id>
+        <link href="https://eci-ubi.eu/"/>
+        <updated>2021-07-05T16:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eci-ubi.eu/
+Comments URL: https://news.ycombinator.com/item?id=27739629
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>nemexis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: RSS feeds for arbitrary websites using CSS selectors]]></title>
+        <id>https://news.ycombinator.com/item?id=27739568</id>
+        <link href="https://feed-me-up-scotty.vincenttunru.com/"/>
+        <updated>2021-07-05T16:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://feed-me-up-scotty.vincenttunru.com/
+Comments URL: https://news.ycombinator.com/item?id=27739568
+Points: 38
+# Comments: 6]]></summary>
+        <author>
+            <name>Vinnl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tony Hoare Answers Questions]]></title>
+        <id>https://news.ycombinator.com/item?id=27739494</id>
+        <link href="https://www.newton.ac.uk/seminar/20210607180018301/"/>
+        <updated>2021-07-05T16:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newton.ac.uk/seminar/20210607180018301/
+Comments URL: https://news.ycombinator.com/item?id=27739494
+Points: 17
+# Comments: 5]]></summary>
+        <author>
+            <name>timthorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeking advice in startups – a framework built on mastery and method]]></title>
+        <id>https://news.ycombinator.com/item?id=27739335</id>
+        <link href="https://nuances.substack.com/p/seeking-advice-in-startups"/>
+        <updated>2021-07-05T16:06:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nuances.substack.com/p/seeking-advice-in-startups
+Comments URL: https://news.ycombinator.com/item?id=27739335
+Points: 16
+# Comments: 2]]></summary>
+        <author>
+            <name>tmatthewj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Barclays stops UK clients from sending funds to Binance]]></title>
         <id>https://news.ycombinator.com/item?id=27739034</id>
@@ -13,23 +78,10 @@
         <updated>2021-07-05T15:38:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.ft.com/content/abc04cc0-ea53-4ecb-8c1e-49c85014fa3f
 Comments URL: https://news.ycombinator.com/item?id=27739034
-Points: 25
-# Comments: 5]]></summary>
+Points: 60
+# Comments: 31]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Covid: How It Keeps Us Sick]]></title>
-        <id>https://news.ycombinator.com/item?id=27738709</id>
-        <link href="https://www.quantamagazine.org/long-covid-how-it-keeps-us-sick-20210701/"/>
-        <updated>2021-07-05T15:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/long-covid-how-it-keeps-us-sick-20210701/
-Comments URL: https://news.ycombinator.com/item?id=27738709
-Points: 15
-# Comments: 4]]></summary>
-        <author>
-            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -39,10 +91,23 @@ Points: 15
         <updated>2021-07-05T14:54:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/amazon-echo-dots-store-user-data-even-after-reset/
 Comments URL: https://news.ycombinator.com/item?id=27738584
-Points: 19
-# Comments: 1]]></summary>
+Points: 38
+# Comments: 5]]></summary>
         <author>
             <name>billyharris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring memory usage in Python: it’s tricky]]></title>
+        <id>https://news.ycombinator.com/item?id=27738566</id>
+        <link href="https://pythonspeed.com/articles/measuring-memory-python/"/>
+        <updated>2021-07-05T14:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pythonspeed.com/articles/measuring-memory-python/
+Comments URL: https://news.ycombinator.com/item?id=27738566
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>itamarst</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +117,8 @@ Points: 19
         <updated>2021-07-05T14:51:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/business/2021/07/03/the-perils-of-pr
 Comments URL: https://news.ycombinator.com/item?id=27738547
-Points: 14
-# Comments: 4]]></summary>
+Points: 21
+# Comments: 9]]></summary>
         <author>
             <name>hhs</name>
         </author>
@@ -65,8 +130,8 @@ Points: 14
         <updated>2021-07-05T14:24:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html
 Comments URL: https://news.ycombinator.com/item?id=27738312
-Points: 25
-# Comments: 1]]></summary>
+Points: 58
+# Comments: 6]]></summary>
         <author>
             <name>mrry</name>
         </author>
@@ -78,7 +143,7 @@ Points: 25
         <updated>2021-07-05T14:20:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chisel-lang.org/
 Comments URL: https://news.ycombinator.com/item?id=27738281
-Points: 12
+Points: 29
 # Comments: 0]]></summary>
         <author>
             <name>lnyan</name>
@@ -103,8 +168,8 @@ The post Kubernetes Explained Simply: Containers, Pods and Images appeared first
         <updated>2021-07-05T14:15:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/GistNoesis/BrickRegistration
 Comments URL: https://news.ycombinator.com/item?id=27738232
-Points: 42
-# Comments: 2]]></summary>
+Points: 62
+# Comments: 3]]></summary>
         <author>
             <name>GistNoesis</name>
         </author>
@@ -127,8 +192,8 @@ The post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on 
         <updated>2021-07-05T13:56:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic
 Comments URL: https://news.ycombinator.com/item?id=27738029
-Points: 16
-# Comments: 0]]></summary>
+Points: 40
+# Comments: 9]]></summary>
         <author>
             <name>Anon84</name>
         </author>
@@ -140,8 +205,8 @@ Points: 16
         <updated>2021-07-05T13:42:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.musicforprogramming.net/
 Comments URL: https://news.ycombinator.com/item?id=27737887
-Points: 82
-# Comments: 33]]></summary>
+Points: 120
+# Comments: 69]]></summary>
         <author>
             <name>Vaslo</name>
         </author>
@@ -153,8 +218,8 @@ Points: 82
         <updated>2021-07-05T13:24:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/
 Comments URL: https://news.ycombinator.com/item?id=27737718
-Points: 124
-# Comments: 14]]></summary>
+Points: 163
+# Comments: 20]]></summary>
         <author>
             <name>watchdogtimer</name>
         </author>
@@ -166,8 +231,8 @@ Points: 124
         <updated>2021-07-05T13:22:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 Comments URL: https://news.ycombinator.com/item?id=27737705
-Points: 15
-# Comments: 0]]></summary>
+Points: 30
+# Comments: 4]]></summary>
         <author>
             <name>signa11</name>
         </author>
@@ -179,23 +244,10 @@ Points: 15
         <updated>2021-07-05T12:04:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 Comments URL: https://news.ycombinator.com/item?id=27737064
-Points: 74
-# Comments: 28]]></summary>
+Points: 99
+# Comments: 44]]></summary>
         <author>
             <name>alexhwoods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product]]></title>
-        <id>https://news.ycombinator.com/item?id=27737039</id>
-        <link href="https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"/>
-        <updated>2021-07-05T12:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567
-Comments URL: https://news.ycombinator.com/item?id=27737039
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>sangwen</name>
         </author>
     </entry>
     <entry>
@@ -205,8 +257,8 @@ Points: 1
         <updated>2021-07-05T11:27:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/07/05/infinidash/
 Comments URL: https://news.ycombinator.com/item?id=27736788
-Points: 145
-# Comments: 57]]></summary>
+Points: 161
+# Comments: 62]]></summary>
         <author>
             <name>rcarmo</name>
         </author>
@@ -218,23 +270,23 @@ Points: 145
         <updated>2021-07-05T11:20:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/
 Comments URL: https://news.ycombinator.com/item?id=27736733
-Points: 38
-# Comments: 25]]></summary>
+Points: 46
+# Comments: 34]]></summary>
         <author>
             <name>kieranmaine</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Copilot is not infringing copyright]]></title>
-        <id>https://news.ycombinator.com/item?id=27736650</id>
-        <link href="https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/"/>
-        <updated>2021-07-05T11:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/
-Comments URL: https://news.ycombinator.com/item?id=27736650
-Points: 71
-# Comments: 114]]></summary>
+        <title type="html"><![CDATA[The Rise and Fall of the OLAP Cube (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27736713</id>
+        <link href="https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/"/>
+        <updated>2021-07-05T11:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
+Comments URL: https://news.ycombinator.com/item?id=27736713
+Points: 7
+# Comments: 1]]></summary>
         <author>
-            <name>aarroyoc</name>
+            <name>smartmic</name>
         </author>
     </entry>
     <entry>
@@ -245,58 +297,6 @@ Points: 71
         <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probably Approximately Correct – A Formal Theory of Learning (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=27736304</id>
-        <link href="https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/"/>
-        <updated>2021-07-05T10:19:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/
-Comments URL: https://news.ycombinator.com/item?id=27736304
-Points: 80
-# Comments: 10]]></summary>
-        <author>
-            <name>lnyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Idempotency-Key’ IETF Standards Draft]]></title>
-        <id>https://news.ycombinator.com/item?id=27736082</id>
-        <link href="https://brandur.org/fragments/idempotency-key-draft"/>
-        <updated>2021-07-05T09:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brandur.org/fragments/idempotency-key-draft
-Comments URL: https://news.ycombinator.com/item?id=27736082
-Points: 43
-# Comments: 1]]></summary>
-        <author>
-            <name>U1F984</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shadows Walking: With Wallace Stevens in New Haven]]></title>
-        <id>https://news.ycombinator.com/item?id=27735270</id>
-        <link href="https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/"/>
-        <updated>2021-07-05T06:53:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/
-Comments URL: https://news.ycombinator.com/item?id=27735270
-Points: 5
-# Comments: 0]]></summary>
-        <author>
-            <name>samclemens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dabrowski’s Theory and Existential Depression in Gifted People (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27734990</id>
-        <link href="https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/"/>
-        <updated>2021-07-05T05:54:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/
-Comments URL: https://news.ycombinator.com/item?id=27734990
-Points: 137
-# Comments: 76]]></summary>
-        <author>
-            <name>nopassrecover</name>
         </author>
     </entry>
     <entry>
