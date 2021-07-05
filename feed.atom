@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T13:17:11.620Z</updated>
+    <updated>2021-07-05T14:10:42.724Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Everything useful I know about kubectl]]></title>
+        <id>https://news.ycombinator.com/item?id=27737064</id>
+        <link href="https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/"/>
+        <updated>2021-07-05T12:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
+Comments URL: https://news.ycombinator.com/item?id=27737064
+Points: 21
+# Comments: 2]]></summary>
+        <author>
+            <name>alexhwoods</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smarking (YC W15) Is Hiring a Head of Engineering to Scale Product]]></title>
         <id>https://news.ycombinator.com/item?id=27737039</id>
@@ -20,16 +33,42 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Git vs. Fossil: What you should have done vs. What you did]]></title>
+        <id>https://news.ycombinator.com/item?id=27736980</id>
+        <link href="https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki#history"/>
+        <updated>2021-07-05T11:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki#history
+Comments URL: https://news.ycombinator.com/item?id=27736980
+Points: 14
+# Comments: 6]]></summary>
+        <author>
+            <name>hasheddan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional]]></title>
         <id>https://news.ycombinator.com/item?id=27736788</id>
         <link href="https://www.theregister.com/2021/07/05/infinidash/"/>
         <updated>2021-07-05T11:27:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/07/05/infinidash/
 Comments URL: https://news.ycombinator.com/item?id=27736788
-Points: 44
-# Comments: 16]]></summary>
+Points: 77
+# Comments: 24]]></summary>
         <author>
             <name>rcarmo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highview Developing 50MW/500MWh Liquid Air Energy Storage Facility in Chile]]></title>
+        <id>https://news.ycombinator.com/item?id=27736733</id>
+        <link href="https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/"/>
+        <updated>2021-07-05T11:20:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/
+Comments URL: https://news.ycombinator.com/item?id=27736733
+Points: 7
+# Comments: 1]]></summary>
+        <author>
+            <name>kieranmaine</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +78,8 @@ Points: 44
         <updated>2021-07-05T10:44:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/07/04/1013026434/canada-battles-more-than-180-wildfires-with-hundreds-dead-in-heat-wave
 Comments URL: https://news.ycombinator.com/item?id=27736485
-Points: 33
-# Comments: 1]]></summary>
+Points: 58
+# Comments: 15]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -52,8 +91,8 @@ Points: 33
         <updated>2021-07-05T10:42:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/
 Comments URL: https://news.ycombinator.com/item?id=27736465
-Points: 117
-# Comments: 109]]></summary>
+Points: 149
+# Comments: 131]]></summary>
         <author>
             <name>jedwhite</name>
         </author>
@@ -65,8 +104,8 @@ Points: 117
         <updated>2021-07-05T10:41:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/alexjc/status/1411966249437995010
 Comments URL: https://news.ycombinator.com/item?id=27736460
-Points: 126
-# Comments: 74]]></summary>
+Points: 162
+# Comments: 96]]></summary>
         <author>
             <name>petulla</name>
         </author>
@@ -78,8 +117,8 @@ Points: 126
         <updated>2021-07-05T10:38:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.patrick-breyer.de/en/indiscriminate-messaging-and-chatcontrol-last-chance-to-protest/
 Comments URL: https://news.ycombinator.com/item?id=27736435
-Points: 189
-# Comments: 43]]></summary>
+Points: 202
+# Comments: 57]]></summary>
         <author>
             <name>ColinWright</name>
         </author>
@@ -101,23 +140,10 @@ Points: 189
         <updated>2021-07-05T10:25:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medium.com/invisible-illness/some-days-i-cant-do-life-47c83045cd05
 Comments URL: https://news.ycombinator.com/item?id=27736344
-Points: 38
-# Comments: 13]]></summary>
+Points: 53
+# Comments: 30]]></summary>
         <author>
             <name>notoriousarun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pro-Trump social media app hacked on launch day as half million sign up]]></title>
-        <id>https://news.ycombinator.com/item?id=27736319</id>
-        <link href="https://www.reuters.com/world/us/pro-trump-social-media-app-hacked-launch-day-half-million-sign-up-2021-07-04/"/>
-        <updated>2021-07-05T10:21:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/pro-trump-social-media-app-hacked-launch-day-half-million-sign-up-2021-07-04/
-Comments URL: https://news.ycombinator.com/item?id=27736319
-Points: 19
-# Comments: 12]]></summary>
-        <author>
-            <name>shivbhatt</name>
         </author>
     </entry>
     <entry>
@@ -127,8 +153,8 @@ Points: 19
         <updated>2021-07-05T10:19:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/
 Comments URL: https://news.ycombinator.com/item?id=27736304
-Points: 32
-# Comments: 3]]></summary>
+Points: 48
+# Comments: 7]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -140,36 +166,10 @@ Points: 32
         <updated>2021-07-05T10:06:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bmw.com/en/innovation/how-hydrogen-fuel-cell-cars-work.html
 Comments URL: https://news.ycombinator.com/item?id=27736231
-Points: 56
-# Comments: 91]]></summary>
+Points: 65
+# Comments: 110]]></summary>
         <author>
             <name>k4lk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concepts for JavaScript developers to know]]></title>
-        <id>https://news.ycombinator.com/item?id=27736223</id>
-        <link href="https://github.com/leonardomso/33-js-concepts"/>
-        <updated>2021-07-05T10:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/leonardomso/33-js-concepts
-Comments URL: https://news.ycombinator.com/item?id=27736223
-Points: 52
-# Comments: 7]]></summary>
-        <author>
-            <name>wyclif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite: Vulnerabilities]]></title>
-        <id>https://news.ycombinator.com/item?id=27736216</id>
-        <link href="https://www.sqlite.org/cves.html"/>
-        <updated>2021-07-05T10:04:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sqlite.org/cves.html
-Comments URL: https://news.ycombinator.com/item?id=27736216
-Points: 72
-# Comments: 22]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -179,23 +179,10 @@ Points: 72
         <updated>2021-07-05T09:53:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/asia-pacific/exclusive-after-pressuring-telecom-firms-myanmars-junta-bans-executives-leaving-2021-07-05/
 Comments URL: https://news.ycombinator.com/item?id=27736171
-Points: 46
-# Comments: 18]]></summary>
+Points: 59
+# Comments: 22]]></summary>
         <author>
             <name>peterkelly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iron Finance’s DeFi bank run – and how Mark Cuban got ‘rekted’]]></title>
-        <id>https://news.ycombinator.com/item?id=27736104</id>
-        <link href="https://forkast.news/iron-finances-defi-bank-run-why-mark-cuban-got-rekted/"/>
-        <updated>2021-07-05T09:40:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://forkast.news/iron-finances-defi-bank-run-why-mark-cuban-got-rekted/
-Comments URL: https://news.ycombinator.com/item?id=27736104
-Points: 35
-# Comments: 31]]></summary>
-        <author>
-            <name>matthewsinclair</name>
         </author>
     </entry>
     <entry>
@@ -205,7 +192,7 @@ Points: 35
         <updated>2021-07-05T09:35:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brandur.org/fragments/idempotency-key-draft
 Comments URL: https://news.ycombinator.com/item?id=27736082
-Points: 15
+Points: 28
 # Comments: 1]]></summary>
         <author>
             <name>U1F984</name>
@@ -218,8 +205,8 @@ Points: 15
         <updated>2021-07-05T05:55:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.finra.org/media-center/newsreleases/2021/finra-orders-record-financial-penalties-against-robinhood-financial
 Comments URL: https://news.ycombinator.com/item?id=27734996
-Points: 139
-# Comments: 93]]></summary>
+Points: 151
+# Comments: 99]]></summary>
         <author>
             <name>kiyanwang</name>
         </author>
@@ -231,8 +218,8 @@ Points: 139
         <updated>2021-07-05T05:54:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/
 Comments URL: https://news.ycombinator.com/item?id=27734990
-Points: 77
-# Comments: 33]]></summary>
+Points: 98
+# Comments: 41]]></summary>
         <author>
             <name>nopassrecover</name>
         </author>
@@ -244,23 +231,10 @@ Points: 77
         <updated>2021-07-05T04:46:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://people.csail.mit.edu/rivest/pubs/SRA81.pdf
 Comments URL: https://news.ycombinator.com/item?id=27734693
-Points: 95
-# Comments: 11]]></summary>
+Points: 105
+# Comments: 12]]></summary>
         <author>
             <name>atamyrat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Good and the Limitations of Github Copilot]]></title>
-        <id>https://news.ycombinator.com/item?id=27734565</id>
-        <link href="https://blog.hrithwik.me/the-good-and-the-limitations-of-github-copilot"/>
-        <updated>2021-07-05T04:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.hrithwik.me/the-good-and-the-limitations-of-github-copilot
-Comments URL: https://news.ycombinator.com/item?id=27734565
-Points: 99
-# Comments: 119]]></summary>
-        <author>
-            <name>hrithwikbha</name>
         </author>
     </entry>
     <entry>
@@ -270,10 +244,36 @@ Points: 99
         <updated>2021-07-05T03:51:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/computing/networks/cryptocurrency-blockchains-dont-need-to-be-energy-intensive
 Comments URL: https://news.ycombinator.com/item?id=27734495
-Points: 48
-# Comments: 76]]></summary>
+Points: 68
+# Comments: 108]]></summary>
         <author>
             <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chelsea Hotel Becomes a New York Battleground]]></title>
+        <id>https://news.ycombinator.com/item?id=27734277</id>
+        <link href="https://www.nytimes.com/2021/04/16/nyregion/chelsea-hotel-nyc.html"/>
+        <updated>2021-07-05T02:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/04/16/nyregion/chelsea-hotel-nyc.html
+Comments URL: https://news.ycombinator.com/item?id=27734277
+Points: 5
+# Comments: 2]]></summary>
+        <author>
+            <name>lermontov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Students flee field as computer 'fad fades' (1987)]]></title>
+        <id>https://news.ycombinator.com/item?id=27734158</id>
+        <link href="https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de"/>
+        <updated>2021-07-05T02:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de
+Comments URL: https://news.ycombinator.com/item?id=27734158
+Points: 275
+# Comments: 298]]></summary>
+        <author>
+            <name>geocrasher</name>
         </author>
     </entry>
     <entry>
