@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T07:10:26.428Z</updated>
+    <updated>2021-07-06T08:13:20.460Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
@@ -20,14 +20,40 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Student gets Windows 11 running on a Windows Phone]]></title>
+        <id>https://news.ycombinator.com/item?id=27744968</id>
+        <link href="https://www.theverge.com/2021/7/1/22558999/microsoft-windows-11-windows-phone-port-developer-engineer"/>
+        <updated>2021-07-06T06:50:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/7/1/22558999/microsoft-windows-11-windows-phone-port-developer-engineer
+Comments URL: https://news.ycombinator.com/item?id=27744968
+Points: 25
+# Comments: 7]]></summary>
+        <author>
+            <name>Arunprasath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla Says Autopilot Makes Its Cars Safer. Crash Victims Say It Kills]]></title>
+        <id>https://news.ycombinator.com/item?id=27744898</id>
+        <link href="https://www.nytimes.com/2021/07/05/business/tesla-autopilot-lawsuits-safety.html"/>
+        <updated>2021-07-06T06:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/07/05/business/tesla-autopilot-lawsuits-safety.html
+Comments URL: https://news.ycombinator.com/item?id=27744898
+Points: 17
+# Comments: 25]]></summary>
+        <author>
+            <name>fortran77</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Leaving Google]]></title>
         <id>https://news.ycombinator.com/item?id=27744748</id>
         <link href="http://neugierig.org/software/blog/2021/07/leaving-google.html"/>
         <updated>2021-07-06T06:12:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://neugierig.org/software/blog/2021/07/leaving-google.html
 Comments URL: https://news.ycombinator.com/item?id=27744748
-Points: 26
-# Comments: 1]]></summary>
+Points: 199
+# Comments: 67]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -39,23 +65,10 @@ Points: 26
         <updated>2021-07-06T06:00:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions
 Comments URL: https://news.ycombinator.com/item?id=27744669
-Points: 26
-# Comments: 4]]></summary>
+Points: 33
+# Comments: 9]]></summary>
         <author>
             <name>awb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coreutils, written in the V language]]></title>
-        <id>https://news.ycombinator.com/item?id=27744558</id>
-        <link href="https://github.com/vlang/coreutils"/>
-        <updated>2021-07-06T05:39:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/vlang/coreutils
-Comments URL: https://news.ycombinator.com/item?id=27744558
-Points: 19
-# Comments: 8]]></summary>
-        <author>
-            <name>0xedb</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +78,8 @@ Points: 19
         <updated>2021-07-06T05:27:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/
 Comments URL: https://news.ycombinator.com/item?id=27744509
-Points: 13
-# Comments: 7]]></summary>
+Points: 33
+# Comments: 14]]></summary>
         <author>
             <name>mad2021</name>
         </author>
@@ -78,8 +91,8 @@ Points: 13
         <updated>2021-07-06T04:56:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1412271091393994754
 Comments URL: https://news.ycombinator.com/item?id=27744372
-Points: 147
-# Comments: 75]]></summary>
+Points: 177
+# Comments: 120]]></summary>
         <author>
             <name>bifrost</name>
         </author>
@@ -91,8 +104,8 @@ Points: 147
         <updated>2021-07-06T04:35:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ossu/computer-science
 Comments URL: https://news.ycombinator.com/item?id=27744255
-Points: 38
-# Comments: 2]]></summary>
+Points: 62
+# Comments: 4]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -104,8 +117,8 @@ Points: 38
         <updated>2021-07-06T03:44:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.textfiles.com/computers/abrash.lst
 Comments URL: https://news.ycombinator.com/item?id=27744044
-Points: 38
-# Comments: 2]]></summary>
+Points: 46
+# Comments: 4]]></summary>
         <author>
             <name>bleachedsleet</name>
         </author>
@@ -117,8 +130,8 @@ Points: 38
         <updated>2021-07-06T02:50:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/
 Comments URL: https://news.ycombinator.com/item?id=27743800
-Points: 120
-# Comments: 94]]></summary>
+Points: 135
+# Comments: 111]]></summary>
         <author>
             <name>heshiebee</name>
         </author>
@@ -130,8 +143,8 @@ Points: 120
         <updated>2021-07-06T02:36:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gopiandcode.uk/logs/log-certified-synthesis.html
 Comments URL: https://news.ycombinator.com/item?id=27743740
-Points: 22
-# Comments: 19]]></summary>
+Points: 29
+# Comments: 20]]></summary>
         <author>
             <name>tluyben2</name>
         </author>
@@ -143,23 +156,10 @@ Points: 22
         <updated>2021-07-06T02:36:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jayriverlong.github.io/2021/07/05/movies.html
 Comments URL: https://news.ycombinator.com/item?id=27743738
-Points: 97
-# Comments: 75]]></summary>
+Points: 114
+# Comments: 91]]></summary>
         <author>
             <name>jeffreyrogers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A primer on carbon pricing and carbon border adjustments]]></title>
-        <id>https://news.ycombinator.com/item?id=27742617</id>
-        <link href="https://economics.td.com/esg-carbon-report"/>
-        <updated>2021-07-05T22:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://economics.td.com/esg-carbon-report
-Comments URL: https://news.ycombinator.com/item?id=27742617
-Points: 74
-# Comments: 38]]></summary>
-        <author>
-            <name>toomuchtodo</name>
         </author>
     </entry>
     <entry>
@@ -169,10 +169,23 @@ Points: 74
         <updated>2021-07-05T21:18:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cookiengineer/audacity
 Comments URL: https://news.ycombinator.com/item?id=27741910
-Points: 310
-# Comments: 218]]></summary>
+Points: 322
+# Comments: 235]]></summary>
         <author>
             <name>ushakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Mercury Colony?]]></title>
+        <id>https://news.ycombinator.com/item?id=27741738</id>
+        <link href="http://www.einstein-schrodinger.com/mercury_colony.html"/>
+        <updated>2021-07-05T20:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.einstein-schrodinger.com/mercury_colony.html
+Comments URL: https://news.ycombinator.com/item?id=27741738
+Points: 37
+# Comments: 4]]></summary>
+        <author>
+            <name>drocer88</name>
         </author>
     </entry>
     <entry>
@@ -182,8 +195,8 @@ Points: 310
         <updated>2021-07-05T19:41:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-england-leicestershire-57692160
 Comments URL: https://news.ycombinator.com/item?id=27741205
-Points: 72
-# Comments: 61]]></summary>
+Points: 76
+# Comments: 63]]></summary>
         <author>
             <name>sirteno</name>
         </author>
@@ -195,7 +208,7 @@ Points: 72
         <updated>2021-07-05T19:26:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.rouleur.cc/blogs/the-rouleur-journal/the-eraser-men
 Comments URL: https://news.ycombinator.com/item?id=27741111
-Points: 43
+Points: 56
 # Comments: 0]]></summary>
         <author>
             <name>breathnow</name>
@@ -208,10 +221,23 @@ Points: 43
         <updated>2021-07-05T19:15:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flashbak.com/raymond-chandlers-guide-to-street-hoodlum-and-prison-lingo-443428/
 Comments URL: https://news.ycombinator.com/item?id=27741026
-Points: 44
-# Comments: 12]]></summary>
+Points: 46
+# Comments: 14]]></summary>
         <author>
             <name>commons-tragedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beasts That Keep the Beat]]></title>
+        <id>https://news.ycombinator.com/item?id=27740575</id>
+        <link href="https://www.quantamagazine.org/the-beasts-that-keep-the-beat-20160322"/>
+        <updated>2021-07-05T18:24:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/the-beasts-that-keep-the-beat-20160322
+Comments URL: https://news.ycombinator.com/item?id=27740575
+Points: 8
+# Comments: 0]]></summary>
+        <author>
+            <name>absolute100</name>
         </author>
     </entry>
     <entry>
@@ -221,8 +247,8 @@ Points: 44
         <updated>2021-07-05T17:54:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html
 Comments URL: https://news.ycombinator.com/item?id=27740295
-Points: 254
-# Comments: 79]]></summary>
+Points: 259
+# Comments: 81]]></summary>
         <author>
             <name>jsnell</name>
         </author>
@@ -234,36 +260,10 @@ Points: 254
         <updated>2021-07-05T17:22:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://transfer.sh
 Comments URL: https://news.ycombinator.com/item?id=27739991
-Points: 202
-# Comments: 67]]></summary>
+Points: 210
+# Comments: 69]]></summary>
         <author>
             <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ever Given: Egypt agrees deal to release ship that blocked Suez Canal]]></title>
-        <id>https://news.ycombinator.com/item?id=27739860</id>
-        <link href="https://www.bbc.com/news/world-middle-east-57719551"/>
-        <updated>2021-07-05T17:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-middle-east-57719551
-Comments URL: https://news.ycombinator.com/item?id=27739860
-Points: 138
-# Comments: 73]]></summary>
-        <author>
-            <name>Aissen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Explorables: big ideas in machine learning, simply explained]]></title>
-        <id>https://news.ycombinator.com/item?id=27739694</id>
-        <link href="https://pair.withgoogle.com/explorables/"/>
-        <updated>2021-07-05T16:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pair.withgoogle.com/explorables/
-Comments URL: https://news.ycombinator.com/item?id=27739694
-Points: 146
-# Comments: 61]]></summary>
-        <author>
-            <name>smitop</name>
         </author>
     </entry>
     <entry>
