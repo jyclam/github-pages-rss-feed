@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T06:14:52.461Z</updated>
+    <updated>2021-07-06T07:10:26.428Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spenmo (YC S20) Is Hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=27745018</id>
+        <link href="https://www.ycombinator.com/companies/spenmo/jobs/PC8vpRY-vp-engineering-core"/>
+        <updated>2021-07-06T07:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/spenmo/jobs/PC8vpRY-vp-engineering-core
+Comments URL: https://news.ycombinator.com/item?id=27745018
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>isaqahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaving Google]]></title>
+        <id>https://news.ycombinator.com/item?id=27744748</id>
+        <link href="http://neugierig.org/software/blog/2021/07/leaving-google.html"/>
+        <updated>2021-07-06T06:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://neugierig.org/software/blog/2021/07/leaving-google.html
+Comments URL: https://news.ycombinator.com/item?id=27744748
+Points: 26
+# Comments: 1]]></summary>
+        <author>
+            <name>edward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mind-controlling parasite makes hyena cubs more reckless around lions]]></title>
         <id>https://news.ycombinator.com/item?id=27744669</id>
@@ -13,47 +39,60 @@
         <updated>2021-07-06T06:00:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions
 Comments URL: https://news.ycombinator.com/item?id=27744669
-Points: 5
-# Comments: 0]]></summary>
+Points: 26
+# Comments: 4]]></summary>
         <author>
             <name>awb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub taking company wide wellbeing days July 5-9 and 6 Fridays in Jul/Aug]]></title>
-        <id>https://news.ycombinator.com/item?id=27744405</id>
-        <link href="https://support.github.com/company-holiday-faq"/>
-        <updated>2021-07-06T05:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://support.github.com/company-holiday-faq
-Comments URL: https://news.ycombinator.com/item?id=27744405
-Points: 13
-# Comments: 3]]></summary>
+        <title type="html"><![CDATA[Coreutils, written in the V language]]></title>
+        <id>https://news.ycombinator.com/item?id=27744558</id>
+        <link href="https://github.com/vlang/coreutils"/>
+        <updated>2021-07-06T05:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/vlang/coreutils
+Comments URL: https://news.ycombinator.com/item?id=27744558
+Points: 19
+# Comments: 8]]></summary>
         <author>
-            <name>crazysim</name>
+            <name>0xedb</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[John Carmack wishes he'd used the BSD license instead of the GPL]]></title>
+        <title type="html"><![CDATA[Compare AsciiDoc and Markdown]]></title>
+        <id>https://news.ycombinator.com/item?id=27744509</id>
+        <link href="https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/"/>
+        <updated>2021-07-06T05:27:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/
+Comments URL: https://news.ycombinator.com/item?id=27744509
+Points: 13
+# Comments: 7]]></summary>
+        <author>
+            <name>mad2021</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I wish I could have licensed the Id source code releases as BSD”]]></title>
         <id>https://news.ycombinator.com/item?id=27744372</id>
         <link href="https://twitter.com/ID_AA_Carmack/status/1412271091393994754"/>
         <updated>2021-07-06T04:56:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1412271091393994754
 Comments URL: https://news.ycombinator.com/item?id=27744372
-Points: 107
-# Comments: 29]]></summary>
+Points: 147
+# Comments: 75]]></summary>
         <author>
             <name>bifrost</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ossu/computer-science: Path to a free self-taught education in Computer Science]]></title>
+        <title type="html"><![CDATA[OSSU: Path to a free, self-taught education in computer science]]></title>
         <id>https://news.ycombinator.com/item?id=27744255</id>
         <link href="https://github.com/ossu/computer-science"/>
         <updated>2021-07-06T04:35:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ossu/computer-science
 Comments URL: https://news.ycombinator.com/item?id=27744255
-Points: 11
-# Comments: 0]]></summary>
+Points: 38
+# Comments: 2]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -65,8 +104,8 @@ Points: 11
         <updated>2021-07-06T03:44:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.textfiles.com/computers/abrash.lst
 Comments URL: https://news.ycombinator.com/item?id=27744044
-Points: 27
-# Comments: 1]]></summary>
+Points: 38
+# Comments: 2]]></summary>
         <author>
             <name>bleachedsleet</name>
         </author>
@@ -78,21 +117,21 @@ Points: 27
         <updated>2021-07-06T02:50:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/
 Comments URL: https://news.ycombinator.com/item?id=27743800
-Points: 108
-# Comments: 75]]></summary>
+Points: 120
+# Comments: 94]]></summary>
         <author>
             <name>heshiebee</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goodbye C developers: The future of programming with certified program synthesis]]></title>
+        <title type="html"><![CDATA[The future of programming with certified program synthesis]]></title>
         <id>https://news.ycombinator.com/item?id=27743740</id>
         <link href="https://gopiandcode.uk/logs/log-certified-synthesis.html"/>
         <updated>2021-07-06T02:36:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gopiandcode.uk/logs/log-certified-synthesis.html
 Comments URL: https://news.ycombinator.com/item?id=27743740
-Points: 11
-# Comments: 7]]></summary>
+Points: 22
+# Comments: 19]]></summary>
         <author>
             <name>tluyben2</name>
         </author>
@@ -104,8 +143,8 @@ Points: 11
         <updated>2021-07-06T02:36:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jayriverlong.github.io/2021/07/05/movies.html
 Comments URL: https://news.ycombinator.com/item?id=27743738
-Points: 67
-# Comments: 41]]></summary>
+Points: 97
+# Comments: 75]]></summary>
         <author>
             <name>jeffreyrogers</name>
         </author>
@@ -117,23 +156,10 @@ Points: 67
         <updated>2021-07-05T22:58:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://economics.td.com/esg-carbon-report
 Comments URL: https://news.ycombinator.com/item?id=27742617
-Points: 69
-# Comments: 37]]></summary>
+Points: 74
+# Comments: 38]]></summary>
         <author>
             <name>toomuchtodo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism]]></title>
-        <id>https://news.ycombinator.com/item?id=27741963</id>
-        <link href="https://github.com/rustviz/rustviz"/>
-        <updated>2021-07-05T21:25:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/rustviz/rustviz
-Comments URL: https://news.ycombinator.com/item?id=27741963
-Points: 139
-# Comments: 9]]></summary>
-        <author>
-            <name>belter</name>
         </author>
     </entry>
     <entry>
@@ -143,34 +169,21 @@ Points: 139
         <updated>2021-07-05T21:18:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cookiengineer/audacity
 Comments URL: https://news.ycombinator.com/item?id=27741910
-Points: 299
-# Comments: 212]]></summary>
+Points: 310
+# Comments: 218]]></summary>
         <author>
             <name>ushakov</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rescale (YC W12) Is Hiring Product Managers]]></title>
-        <id>https://news.ycombinator.com/item?id=27741769</id>
-        <link href="https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News"/>
-        <updated>2021-07-05T21:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News
-Comments URL: https://news.ycombinator.com/item?id=27741769
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>amckenzie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Student designs device that stops blood loss from stab wounds]]></title>
         <id>https://news.ycombinator.com/item?id=27741205</id>
-        <link href="https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html"/>
+        <link href="https://www.bbc.com/news/uk-england-leicestershire-57692160"/>
         <updated>2021-07-05T19:41:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/uk-england-leicestershire-57692160
 Comments URL: https://news.ycombinator.com/item?id=27741205
-Points: 67
-# Comments: 55]]></summary>
+Points: 72
+# Comments: 61]]></summary>
         <author>
             <name>sirteno</name>
         </author>
@@ -182,7 +195,7 @@ Points: 67
         <updated>2021-07-05T19:26:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.rouleur.cc/blogs/the-rouleur-journal/the-eraser-men
 Comments URL: https://news.ycombinator.com/item?id=27741111
-Points: 25
+Points: 43
 # Comments: 0]]></summary>
         <author>
             <name>breathnow</name>
@@ -195,8 +208,8 @@ Points: 25
         <updated>2021-07-05T19:15:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flashbak.com/raymond-chandlers-guide-to-street-hoodlum-and-prison-lingo-443428/
 Comments URL: https://news.ycombinator.com/item?id=27741026
-Points: 40
-# Comments: 11]]></summary>
+Points: 44
+# Comments: 12]]></summary>
         <author>
             <name>commons-tragedy</name>
         </author>
@@ -208,8 +221,8 @@ Points: 40
         <updated>2021-07-05T17:54:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html
 Comments URL: https://news.ycombinator.com/item?id=27740295
-Points: 245
-# Comments: 76]]></summary>
+Points: 254
+# Comments: 79]]></summary>
         <author>
             <name>jsnell</name>
         </author>
@@ -221,8 +234,8 @@ Points: 245
         <updated>2021-07-05T17:22:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://transfer.sh
 Comments URL: https://news.ycombinator.com/item?id=27739991
-Points: 190
-# Comments: 61]]></summary>
+Points: 202
+# Comments: 67]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -234,8 +247,8 @@ Points: 190
         <updated>2021-07-05T17:02:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-middle-east-57719551
 Comments URL: https://news.ycombinator.com/item?id=27739860
-Points: 132
-# Comments: 71]]></summary>
+Points: 138
+# Comments: 73]]></summary>
         <author>
             <name>Aissen</name>
         </author>
@@ -247,23 +260,10 @@ Points: 132
         <updated>2021-07-05T16:41:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pair.withgoogle.com/explorables/
 Comments URL: https://news.ycombinator.com/item?id=27739694
-Points: 139
-# Comments: 60]]></summary>
+Points: 146
+# Comments: 61]]></summary>
         <author>
             <name>smitop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: RSS feeds for arbitrary websites using CSS selectors]]></title>
-        <id>https://news.ycombinator.com/item?id=27739568</id>
-        <link href="https://feed-me-up-scotty.vincenttunru.com/"/>
-        <updated>2021-07-05T16:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://feed-me-up-scotty.vincenttunru.com/
-Comments URL: https://news.ycombinator.com/item?id=27739568
-Points: 441
-# Comments: 99]]></summary>
-        <author>
-            <name>Vinnl</name>
         </author>
     </entry>
     <entry>
