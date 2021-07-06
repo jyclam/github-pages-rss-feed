@@ -2,21 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T14:10:31.852Z</updated>
+    <updated>2021-07-06T15:13:04.617Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Audio editor Audacity denies spyware accusation]]></title>
-        <id>https://news.ycombinator.com/item?id=27748150</id>
-        <link href="https://www.bbc.com/news/technology-57721967"/>
-        <updated>2021-07-06T13:22:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57721967
-Comments URL: https://news.ycombinator.com/item?id=27748150
-Points: 21
-# Comments: 4]]></summary>
+        <title type="html"><![CDATA[5 JavaScript Tips to Improve Your React Code]]></title>
+        <id>60df35f027f80207bcdbccea</id>
+        <link href="https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/"/>
+        <updated>2021-07-06T15:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of]]></summary>
         <author>
-            <name>shivbhatt</name>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dilemma of Naming Font Size Variables]]></title>
+        <id>https://css-tricks.com/?p=343149</id>
+        <link href="https://css-tricks.com/the-dilemma-of-naming-font-size-variables/"/>
+        <updated>2021-07-06T14:41:22.000Z</updated>
+        <summary type="html"><![CDATA[Normally, a project will have a set of pre-determined font sizes, usually as variables named in such a way that seeks some semblance of order and consistency. Any project of considerable size can use something like that. There are always …
+The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Martin Lexelius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Schedule a Job in Node Using node-cron]]></title>
+        <id>60aa196411ffb70827ef5f43</id>
+        <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
+        <updated>2021-07-06T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poisson's Equation is the most powerful tool not yet in your toolbox]]></title>
+        <id>https://news.ycombinator.com/item?id=27748967</id>
+        <link href="https://mattferraro.dev/posts/poissons-equation"/>
+        <updated>2021-07-06T14:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mattferraro.dev/posts/poissons-equation
+Comments URL: https://news.ycombinator.com/item?id=27748967
+Points: 51
+# Comments: 1]]></summary>
+        <author>
+            <name>mferraro89</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Enso (YC S21) – Visual programming and workflow tool for data science]]></title>
+        <id>https://news.ycombinator.com/item?id=27748738</id>
+        <link href="https://news.ycombinator.com/item?id=27748738"/>
+        <updated>2021-07-06T14:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN, We are Wojciech and Sylwia, the co-founders of Enso (https://enso.org). On the tech side, Enso is a visual and textual programming language (you can switch from graph to code and back). On the business side, it's a workflow builder that makes it easy for analysts without a programming background to automate data-driven processes simply by connecting visual components together. Our GUI is like an IDE, but with a graph editor alongside the code. Currently, we’re focused on data analysis—data preparation, blending, and analytics (both in-memory and SQL). You can see a video of how it works here: https://youtu.be/fQvWMoOjmQk.
+We used to be called Luna and were lucky to have a few big threads on HN over the years [1][2][3][4][5]. Eventually we went into heads-down mode to make a producti…]]></summary>
+        <author>
+            <name>wdanilo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Who is looking for a co-founder? (July 2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=27748680</id>
+        <link href="https://news.ycombinator.com/item?id=27748680"/>
+        <updated>2021-07-06T14:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Building on the "Who is Hiring?" threads, here comes a monthly thread for folks who are in search of a co-founder. Let people know what you are building and what you are looking for in a co-founder.
+Please state the location and include REMOTE if you are open to building a company remotely. When remote work is not an option, include ONSITE.
+Please only post if you personally are the founder (or one of the co-founders) of the startup. No recruiting firms, venture builders, or job boards. Only one post per company (how many co-founders can one look for anyway). Please explain on a high level what your company does.
+Commenters: please don't reply to these posts telling people why their idea won't work. It's off topic here.
+Readers: please only email if you are personally interested in committing yourself to a co-founder role. No "CTO for hire" companies!
+Comments URL: https://news.ycombinator.com/item?id=27748680
+Points: 15
+# Comments: 1]]></summary>
+        <author>
+            <name>whoisbuilding</name>
         </author>
     </entry>
     <entry>
@@ -26,36 +85,36 @@ Points: 21
         <updated>2021-07-06T13:16:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/world/2021/07/06/bhima-koregaon-case-india/
 Comments URL: https://news.ycombinator.com/item?id=27748088
-Points: 12
-# Comments: 0]]></summary>
+Points: 72
+# Comments: 8]]></summary>
         <author>
             <name>jbegley</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo announces Switch OLED Model]]></title>
-        <id>https://news.ycombinator.com/item?id=27748001</id>
-        <link href="https://www.nintendo.com/switch/oled-model/"/>
-        <updated>2021-07-06T13:08:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nintendo.com/switch/oled-model/
-Comments URL: https://news.ycombinator.com/item?id=27748001
-Points: 54
-# Comments: 42]]></summary>
+        <title type="html"><![CDATA[Israel data reportedly shows efficacy drop of Pfizer-BioNTech for delta variant]]></title>
+        <id>https://news.ycombinator.com/item?id=27747512</id>
+        <link href="https://fortune.com/2021/07/05/israel-data-plunge-efficacy-pfizer-biontech-vaccine-delta-variant/"/>
+        <updated>2021-07-06T12:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fortune.com/2021/07/05/israel-data-plunge-efficacy-pfizer-biontech-vaccine-delta-variant/
+Comments URL: https://news.ycombinator.com/item?id=27747512
+Points: 66
+# Comments: 86]]></summary>
         <author>
-            <name>uptown</name>
+            <name>kleiba</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Welcome to dystopia: getting fired from your job as an Amazon worker by an app]]></title>
-        <id>https://news.ycombinator.com/item?id=27747500</id>
-        <link href="https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia"/>
-        <updated>2021-07-06T12:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia
-Comments URL: https://news.ycombinator.com/item?id=27747500
-Points: 49
-# Comments: 33]]></summary>
+        <title type="html"><![CDATA[Thomas Aquinas' works with English and original Latin presented in parallel]]></title>
+        <id>https://news.ycombinator.com/item?id=27747337</id>
+        <link href="https://aquinas.cc"/>
+        <updated>2021-07-06T12:07:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aquinas.cc
+Comments URL: https://news.ycombinator.com/item?id=27747337
+Points: 31
+# Comments: 2]]></summary>
         <author>
-            <name>thinkingemote</name>
+            <name>danielam</name>
         </author>
     </entry>
     <entry>
@@ -72,16 +131,16 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Migrate a Git Repository from GitHub to Bitbucket]]></title>
-        <id>https://news.ycombinator.com/item?id=27747231</id>
-        <link href="https://www.bluelabellabs.com/blog/how-to-migrate-git-repository-from-github-to-bitbucket/"/>
-        <updated>2021-07-06T11:59:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bluelabellabs.com/blog/how-to-migrate-git-repository-from-github-to-bitbucket/
-Comments URL: https://news.ycombinator.com/item?id=27747231
-Points: 16
-# Comments: 26]]></summary>
+        <title type="html"><![CDATA[Can too many brainy people be a dangerous thing?]]></title>
+        <id>https://news.ycombinator.com/item?id=27746982</id>
+        <link href="https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing"/>
+        <updated>2021-07-06T11:33:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing
+Comments URL: https://news.ycombinator.com/item?id=27746982
+Points: 4
+# Comments: 0]]></summary>
         <author>
-            <name>omgbobbyg</name>
+            <name>jedwhite</name>
         </author>
     </entry>
     <entry>
@@ -91,7 +150,7 @@ Points: 16
         <updated>2021-07-06T11:22:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/antoyo/rustc_codegen_gcc
 Comments URL: https://news.ycombinator.com/item?id=27746877
-Points: 38
+Points: 59
 # Comments: 3]]></summary>
         <author>
             <name>varbhat</name>
@@ -104,8 +163,8 @@ Points: 38
         <updated>2021-07-06T11:15:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lancengym.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710
 Comments URL: https://news.ycombinator.com/item?id=27746815
-Points: 107
-# Comments: 66]]></summary>
+Points: 142
+# Comments: 96]]></summary>
         <author>
             <name>lancengym</name>
         </author>
@@ -117,8 +176,8 @@ Points: 107
         <updated>2021-07-06T10:49:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://consoledonottrack.com
 Comments URL: https://news.ycombinator.com/item?id=27746587
-Points: 343
-# Comments: 134]]></summary>
+Points: 428
+# Comments: 161]]></summary>
         <author>
             <name>thih9</name>
         </author>
@@ -130,8 +189,8 @@ Points: 343
         <updated>2021-07-06T10:38:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://donjon.ledger.com/kaspersky-password-manager/
 Comments URL: https://news.ycombinator.com/item?id=27746494
-Points: 127
-# Comments: 53]]></summary>
+Points: 155
+# Comments: 61]]></summary>
         <author>
             <name>syck</name>
         </author>
@@ -153,23 +212,23 @@ Points: 127
         <updated>2021-07-06T09:50:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/
 Comments URL: https://news.ycombinator.com/item?id=27746130
-Points: 255
-# Comments: 176]]></summary>
+Points: 326
+# Comments: 209]]></summary>
         <author>
             <name>doener</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How many robots does it take to run a grocery store? [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27746128</id>
-        <link href="https://www.youtube.com/watch?v=ssZ_8cqfBlE"/>
-        <updated>2021-07-06T09:49:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=ssZ_8cqfBlE
-Comments URL: https://news.ycombinator.com/item?id=27746128
-Points: 95
-# Comments: 64]]></summary>
+        <title type="html"><![CDATA[The Case Against the Covid-19 Lab Leak Theory]]></title>
+        <id>https://news.ycombinator.com/item?id=27745671</id>
+        <link href="https://newrepublic.com/article/162689/bats-covid-19-lab-leak-theory"/>
+        <updated>2021-07-06T08:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://newrepublic.com/article/162689/bats-covid-19-lab-leak-theory
+Comments URL: https://news.ycombinator.com/item?id=27745671
+Points: 57
+# Comments: 87]]></summary>
         <author>
-            <name>helsinkiandrew</name>
+            <name>aliasEli</name>
         </author>
     </entry>
     <entry>
@@ -179,8 +238,8 @@ Points: 95
         <updated>2021-07-06T08:35:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/07/06/twitter-has-lost-liability-protection-in-india-government-says/
 Comments URL: https://news.ycombinator.com/item?id=27745585
-Points: 111
-# Comments: 105]]></summary>
+Points: 126
+# Comments: 127]]></summary>
         <author>
             <name>jmsflknr</name>
         </author>
@@ -192,8 +251,8 @@ Points: 111
         <updated>2021-07-06T06:00:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions
 Comments URL: https://news.ycombinator.com/item?id=27744669
-Points: 82
-# Comments: 42]]></summary>
+Points: 91
+# Comments: 44]]></summary>
         <author>
             <name>awb</name>
         </author>
@@ -205,8 +264,8 @@ Points: 82
         <updated>2021-07-06T05:27:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/
 Comments URL: https://news.ycombinator.com/item?id=27744509
-Points: 118
-# Comments: 68]]></summary>
+Points: 131
+# Comments: 74]]></summary>
         <author>
             <name>mad2021</name>
         </author>
@@ -218,8 +277,8 @@ Points: 118
         <updated>2021-07-06T04:56:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1412271091393994754
 Comments URL: https://news.ycombinator.com/item?id=27744372
-Points: 257
-# Comments: 303]]></summary>
+Points: 275
+# Comments: 318]]></summary>
         <author>
             <name>bifrost</name>
         </author>
@@ -231,49 +290,23 @@ Points: 257
         <updated>2021-07-06T04:35:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ossu/computer-science
 Comments URL: https://news.ycombinator.com/item?id=27744255
-Points: 205
-# Comments: 85]]></summary>
+Points: 226
+# Comments: 93]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roll your own minilanguages with mini-interpreters (1989)]]></title>
-        <id>https://news.ycombinator.com/item?id=27744044</id>
-        <link href="http://www.textfiles.com/computers/abrash.lst"/>
-        <updated>2021-07-06T03:44:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.textfiles.com/computers/abrash.lst
-Comments URL: https://news.ycombinator.com/item?id=27744044
-Points: 81
-# Comments: 21]]></summary>
+        <title type="html"><![CDATA[Did lead poisoning cause downfall of Roman Empire? The jury is still out]]></title>
+        <id>https://news.ycombinator.com/item?id=27744221</id>
+        <link href="https://arstechnica.com/science/2021/07/did-lead-poisoning-cause-downfall-of-roman-empire-the-jury-is-still-out/"/>
+        <updated>2021-07-06T04:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/07/did-lead-poisoning-cause-downfall-of-roman-empire-the-jury-is-still-out/
+Comments URL: https://news.ycombinator.com/item?id=27744221
+Points: 16
+# Comments: 3]]></summary>
         <author>
-            <name>bleachedsleet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Reportedly Storing over 8M Terabytes of iCloud Data on Google Servers]]></title>
-        <id>https://news.ycombinator.com/item?id=27743800</id>
-        <link href="https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/"/>
-        <updated>2021-07-06T02:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/
-Comments URL: https://news.ycombinator.com/item?id=27743800
-Points: 193
-# Comments: 175]]></summary>
-        <author>
-            <name>heshiebee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The future of programming with certified program synthesis]]></title>
-        <id>https://news.ycombinator.com/item?id=27743740</id>
-        <link href="https://gopiandcode.uk/logs/log-certified-synthesis.html"/>
-        <updated>2021-07-06T02:36:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gopiandcode.uk/logs/log-certified-synthesis.html
-Comments URL: https://news.ycombinator.com/item?id=27743740
-Points: 64
-# Comments: 52]]></summary>
-        <author>
-            <name>tluyben2</name>
+            <name>Tomte</name>
         </author>
     </entry>
     <entry>
@@ -568,38 +601,6 @@ The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks
 The squiggly lines that indicate possible spelling or grammar errors 
 …
 The post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
-        <id>60db519527f80207bcdbb6fa</id>
-        <link href="https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/"/>
-        <updated>2021-06-29T20:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux List Processes – How to Check Running Processes]]></title>
-        <id>604b8c6ea7946308b7687683</id>
-        <link href="https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/"/>
-        <updated>2021-06-29T19:47:13.000Z</updated>
-        <summary type="html"><![CDATA[Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[:nth-child Between Two Fixed Indexes]]></title>
-        <id>https://css-tricks.com/?p=342736</id>
-        <link href="https://css-tricks.com/nth-child-between-two-fixed-indexes/"/>
-        <updated>2021-06-29T14:37:21.000Z</updated>
-        <summary type="html"><![CDATA[I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. 
-The answer, it …
-The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
