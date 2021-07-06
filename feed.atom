@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T20:11:43.360Z</updated>
+    <updated>2021-07-06T21:11:42.870Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Automatically Upload an Android App Bundle to the Play Store]]></title>
+        <id>60e16e1b134ad707be00d6bc</id>
+        <link href="https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/"/>
+        <updated>2021-07-06T21:08:39.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European Parliament approves mass surveillance of private communication]]></title>
+        <id>https://news.ycombinator.com/item?id=27753727</id>
+        <link href="https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/"/>
+        <updated>2021-07-06T20:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/
+Comments URL: https://news.ycombinator.com/item?id=27753727
+Points: 111
+# Comments: 0]]></summary>
+        <author>
+            <name>pepperberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve got one question about Jetpack for you.]]></title>
+        <id>https://css-tricks.com/?p=343560</id>
+        <link href="https://css-tricks.com/ive-got-one-question-about-jetpack-for-you/"/>
+        <updated>2021-07-06T20:00:30.000Z</updated>
+        <summary type="html"><![CDATA[And maybe an optional follow-up if you’re up for it.
+Automattic, the makers of Jetpack and many other WordPress-y things, have sponsored my site (me = Chris Coyier; site = CSS-Tricks) for quite a while. I use Jetpack myself, …
+The post I’ve got one question about Jetpack for you. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chime has been suddenly closing accounts, not returning customers’ money]]></title>
+        <id>https://news.ycombinator.com/item?id=27753444</id>
+        <link href="https://www.propublica.org/article/chime"/>
+        <updated>2021-07-06T19:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.propublica.org/article/chime
+Comments URL: https://news.ycombinator.com/item?id=27753444
+Points: 61
+# Comments: 2]]></summary>
+        <author>
+            <name>danso</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A new brain implant automatically detects and kills pain in real time]]></title>
         <id>https://news.ycombinator.com/item?id=27752996</id>
@@ -13,8 +61,8 @@
         <updated>2021-07-06T19:10:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://singularityhub.com/2021/06/29/a-new-brain-implant-automatically-detects-and-kills-pain-in-real-time/
 Comments URL: https://news.ycombinator.com/item?id=27752996
-Points: 41
-# Comments: 8]]></summary>
+Points: 73
+# Comments: 52]]></summary>
         <author>
             <name>WaitWaitWha</name>
         </author>
@@ -26,8 +74,8 @@ Points: 41
         <updated>2021-07-06T17:36:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/
 Comments URL: https://news.ycombinator.com/item?id=27751759
-Points: 50
-# Comments: 10]]></summary>
+Points: 74
+# Comments: 22]]></summary>
         <author>
             <name>rubenbe</name>
         </author>
@@ -39,8 +87,8 @@ Points: 50
         <updated>2021-07-06T17:17:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas
 Comments URL: https://news.ycombinator.com/item?id=27751498
-Points: 89
-# Comments: 59]]></summary>
+Points: 117
+# Comments: 89]]></summary>
         <author>
             <name>haakon</name>
         </author>
@@ -52,8 +100,8 @@ Points: 89
         <updated>2021-07-06T17:16:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://e360.yale.edu/features/as-climate-warms-a-rearrangement-of-worlds-plant-life-looms
 Comments URL: https://news.ycombinator.com/item?id=27751493
-Points: 92
-# Comments: 73]]></summary>
+Points: 103
+# Comments: 78]]></summary>
         <author>
             <name>homarp</name>
         </author>
@@ -65,23 +113,10 @@ Points: 92
         <updated>2021-07-06T17:08:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://o3de.org/
 Comments URL: https://news.ycombinator.com/item?id=27751358
-Points: 67
-# Comments: 24]]></summary>
+Points: 87
+# Comments: 40]]></summary>
         <author>
             <name>fdb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneSignal (YC S11) is hiring engineers in California, New York, Texas, UK]]></title>
-        <id>https://news.ycombinator.com/item?id=27751258</id>
-        <link href="https://onesignal.com/careers"/>
-        <updated>2021-07-06T17:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://onesignal.com/careers
-Comments URL: https://news.ycombinator.com/item?id=27751258
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>gdeglin</name>
         </author>
     </entry>
     <entry>
@@ -91,8 +126,8 @@ Points: 1
         <updated>2021-07-06T16:45:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html
 Comments URL: https://news.ycombinator.com/item?id=27750996
-Points: 106
-# Comments: 41]]></summary>
+Points: 127
+# Comments: 52]]></summary>
         <author>
             <name>jaytaylor</name>
         </author>
@@ -104,8 +139,8 @@ Points: 106
         <updated>2021-07-06T16:38:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://acko.net/blog/live-headless-react/
 Comments URL: https://news.ycombinator.com/item?id=27750864
-Points: 78
-# Comments: 7]]></summary>
+Points: 103
+# Comments: 8]]></summary>
         <author>
             <name>jashkenas</name>
         </author>
@@ -117,8 +152,8 @@ Points: 78
         <updated>2021-07-06T16:22:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://research.swtch.com/plmm
 Comments URL: https://news.ycombinator.com/item?id=27750610
-Points: 54
-# Comments: 17]]></summary>
+Points: 66
+# Comments: 24]]></summary>
         <author>
             <name>thinxer</name>
         </author>
@@ -145,27 +180,14 @@ Founders face lots of hard problems at the earliest stages—building an MVP, fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Up to 1,500 businesses affected by ransomware attack, Kaseya CEO says]]></title>
-        <id>https://news.ycombinator.com/item?id=27750040</id>
-        <link href="https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/"/>
-        <updated>2021-07-06T15:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/
-Comments URL: https://news.ycombinator.com/item?id=27750040
-Points: 276
-# Comments: 239]]></summary>
-        <author>
-            <name>babyblueblanket</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We increased our Lighthouse score by making our images larger]]></title>
         <id>https://news.ycombinator.com/item?id=27749771</id>
         <link href="https://blog.rentpathcode.com/we-increased-our-lighthouse-score-by-17-points-by-making-our-images-larger-83f60b33a942"/>
         <updated>2021-07-06T15:23:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.rentpathcode.com/we-increased-our-lighthouse-score-by-17-points-by-making-our-images-larger-83f60b33a942
 Comments URL: https://news.ycombinator.com/item?id=27749771
-Points: 131
-# Comments: 61]]></summary>
+Points: 143
+# Comments: 63]]></summary>
         <author>
             <name>vlucas</name>
         </author>
@@ -177,8 +199,8 @@ Points: 131
         <updated>2021-07-06T15:21:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://michael.orlitzky.com/articles/posix_hardlink_heartache.xhtml
 Comments URL: https://news.ycombinator.com/item?id=27749743
-Points: 66
-# Comments: 17]]></summary>
+Points: 73
+# Comments: 18]]></summary>
         <author>
             <name>cristoperb</name>
         </author>
@@ -200,8 +222,8 @@ Points: 66
         <updated>2021-07-06T14:59:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sidequestjobs.com/
 Comments URL: https://news.ycombinator.com/item?id=27749497
-Points: 198
-# Comments: 52]]></summary>
+Points: 222
+# Comments: 57]]></summary>
         <author>
             <name>ryry</name>
         </author>
@@ -215,19 +237,6 @@ Points: 198
 The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Martin Lexelius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some locals say a Bitcoin mining operation is ruining one of the Finger Lakes]]></title>
-        <id>https://news.ycombinator.com/item?id=27749247</id>
-        <link href="https://www.nbcnews.com/science/environment/some-locals-say-bitcoin-mining-operation-ruining-one-finger-lakes-n1272938"/>
-        <updated>2021-07-06T14:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nbcnews.com/science/environment/some-locals-say-bitcoin-mining-operation-ruining-one-finger-lakes-n1272938
-Comments URL: https://news.ycombinator.com/item?id=27749247
-Points: 119
-# Comments: 80]]></summary>
-        <author>
-            <name>car</name>
         </author>
     </entry>
     <entry>
@@ -247,8 +256,8 @@ Points: 119
         <updated>2021-07-06T14:20:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mattferraro.dev/posts/poissons-equation
 Comments URL: https://news.ycombinator.com/item?id=27748967
-Points: 453
-# Comments: 117]]></summary>
+Points: 496
+# Comments: 118]]></summary>
         <author>
             <name>mferraro89</name>
         </author>
@@ -271,8 +280,8 @@ We used to be called Luna and were lucky to have a few big threads on HN over th
         <updated>2021-07-06T13:01:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.studyfinds.org/5-minute-breathing-workout/
 Comments URL: https://news.ycombinator.com/item?id=27747943
-Points: 81
-# Comments: 38]]></summary>
+Points: 104
+# Comments: 46]]></summary>
         <author>
             <name>throw1234651234</name>
         </author>
@@ -284,8 +293,8 @@ Points: 81
         <updated>2021-07-06T12:07:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aquinas.cc
 Comments URL: https://news.ycombinator.com/item?id=27747337
-Points: 163
-# Comments: 61]]></summary>
+Points: 176
+# Comments: 70]]></summary>
         <author>
             <name>danielam</name>
         </author>
@@ -297,10 +306,23 @@ Points: 163
         <updated>2021-07-06T11:33:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing
 Comments URL: https://news.ycombinator.com/item?id=27746982
-Points: 45
-# Comments: 51]]></summary>
+Points: 67
+# Comments: 73]]></summary>
         <author>
             <name>jedwhite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI wolf that preferred suicide over eating sheep]]></title>
+        <id>https://news.ycombinator.com/item?id=27746815</id>
+        <link href="https://lancengym.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710"/>
+        <updated>2021-07-06T11:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lancengym.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710
+Comments URL: https://news.ycombinator.com/item?id=27746815
+Points: 233
+# Comments: 186]]></summary>
+        <author>
+            <name>lancengym</name>
         </author>
     </entry>
     <entry>
@@ -542,16 +564,6 @@ The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is The C Programming Language? A Tutorial for Beginners]]></title>
-        <id>6055c55b687d62084bf68804</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/"/>
-        <updated>2021-06-30T14:25:53.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
         <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
         <link href="https://smashingmagazine.com/2021/06/web-workers-2021/"/>
@@ -582,19 +594,6 @@ html {
 }
 …
 The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromium spelling and grammar features]]></title>
-        <id>https://css-tricks.com/?p=343260</id>
-        <link href="https://www.azabani.com/2021/05/17/spelling-grammar.html"/>
-        <updated>2021-06-29T20:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?
-The squiggly lines that indicate possible spelling or grammar errors 
-…
-The post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
