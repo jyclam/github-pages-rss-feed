@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T15:13:04.617Z</updated>
+    <updated>2021-07-06T16:17:39.351Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Authenticate Users and Implement CORS in Node.js Apps]]></title>
+        <id>60b22e9611ffb70827ef9547</id>
+        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/"/>
+        <updated>2021-07-06T16:02:13.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How aware are you about building decentralised software on blockchain?]]></title>
+        <id>https://news.ycombinator.com/item?id=27750117</id>
+        <link href="https://news.ycombinator.com/item?id=27750117"/>
+        <updated>2021-07-06T15:48:30.000Z</updated>
+        <summary type="html"><![CDATA[The HN attitude about blockchain is overwhelmingly negative.
+Yet what I see with smart contracts on blockchain, such as the Ethereum Virtual Machine, is a huge potential for change and a big open sea of opportunity for disruptive tech and startups.
+If you don't know what that is:
+You can run code on the Ethereum blockchain. 
+The user pays to run your code, instead of you paying to run the server that serves them the code.
+This is because everyone who's running an Ethereum node actually has a copy of your code in the blockchain.
+This is called a "smart contract" but enough people have experimented with it that they've actually built decentralised applications - dApps for short.
+This seems like it has huge disruptive potential. Mark Cuban has talked about how he could sell tickets as NFTs on the blockchain, and get a percentage of resell, forever.
+You could in theory build something similar for Airbnb or Uber on the blockchain - just NFT a house/day and then sell it on the blockchain. Same thing with Uber - drivers could auction off their time in a blockchain dApp.
+Because devs don't pay to keep their code in the ETH blockchain, you can just build software and it will "run" forever, at no cost to the developer.
+This is a radical change and imo a huge avenue for new innovation.
+But this is hardly talked about here in HN.
+Let's ignore, if possible, the whole "proof of work is bad for the environment" question (all I'll say about that is proof of stake is real and in production with DOT/ALGO and that's a 99% reduction in energy consumption). I know it's tempting to go in this direction but again - let's assume all crypto is proof of stake for the sake of argument.
+Comments URL: https://news.ycombinator.com/item?id=27750117
+Points: 8
+# Comments: 1]]></summary>
+        <author>
+            <name>sprafa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Up to 1,500 businesses affected by ransomware attack, U.S. firm's CEO says]]></title>
+        <id>https://news.ycombinator.com/item?id=27750040</id>
+        <link href="https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/"/>
+        <updated>2021-07-06T15:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/
+Comments URL: https://news.ycombinator.com/item?id=27750040
+Points: 31
+# Comments: 0]]></summary>
+        <author>
+            <name>babyblueblanket</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin operation has made a lake 'so warm you feel like you're in a hot tub']]></title>
+        <id>https://news.ycombinator.com/item?id=27749932</id>
+        <link href="https://www.businessinsider.com/bitcoin-mining-seneca-lake-finger-lakes-new-york-hot-tub-2021-7"/>
+        <updated>2021-07-06T15:34:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/bitcoin-mining-seneca-lake-finger-lakes-new-york-hot-tub-2021-7
+Comments URL: https://news.ycombinator.com/item?id=27749932
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Increased Our Lighthouse Score by 17 Points by Making Our Images Larger]]></title>
+        <id>https://news.ycombinator.com/item?id=27749771</id>
+        <link href="https://blog.rentpathcode.com/we-increased-our-lighthouse-score-by-17-points-by-making-our-images-larger-83f60b33a942"/>
+        <updated>2021-07-06T15:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.rentpathcode.com/we-increased-our-lighthouse-score-by-17-points-by-making-our-images-larger-83f60b33a942
+Comments URL: https://news.ycombinator.com/item?id=27749771
+Points: 28
+# Comments: 9]]></summary>
+        <author>
+            <name>vlucas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Posix Hardlink Heartache]]></title>
+        <id>https://news.ycombinator.com/item?id=27749743</id>
+        <link href="http://michael.orlitzky.com/articles/posix_hardlink_heartache.xhtml"/>
+        <updated>2021-07-06T15:21:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://michael.orlitzky.com/articles/posix_hardlink_heartache.xhtml
+Comments URL: https://news.ycombinator.com/item?id=27749743
+Points: 15
+# Comments: 0]]></summary>
+        <author>
+            <name>cristoperb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 JavaScript Tips to Improve Your React Code]]></title>
         <id>60df35f027f80207bcdbccea</id>
@@ -17,6 +104,32 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Reason for Windows 11]]></title>
+        <id>https://news.ycombinator.com/item?id=27749615</id>
+        <link href="https://www.computerworld.com/article/3623772/the-real-reason-for-windows-11.html"/>
+        <updated>2021-07-06T15:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.computerworld.com/article/3623772/the-real-reason-for-windows-11.html
+Comments URL: https://news.ycombinator.com/item?id=27749615
+Points: 20
+# Comments: 1]]></summary>
+        <author>
+            <name>CrankyBear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Side Quest – An aggregator for not full-time tech jobs]]></title>
+        <id>https://news.ycombinator.com/item?id=27749497</id>
+        <link href="https://sidequestjobs.com/"/>
+        <updated>2021-07-06T14:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sidequestjobs.com/
+Comments URL: https://news.ycombinator.com/item?id=27749497
+Points: 33
+# Comments: 11]]></summary>
+        <author>
+            <name>ryry</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Dilemma of Naming Font Size Variables]]></title>
         <id>https://css-tricks.com/?p=343149</id>
         <link href="https://css-tricks.com/the-dilemma-of-naming-font-size-variables/"/>
@@ -25,6 +138,19 @@
 The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Martin Lexelius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin mining heating NY lake and emitting greenhouse gases]]></title>
+        <id>https://news.ycombinator.com/item?id=27749247</id>
+        <link href="https://markets.businessinsider.com/news/stocks/bitcoin-mining-seneca-lake-finger-lakes-new-york-hot-tub-2021-7"/>
+        <updated>2021-07-06T14:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://markets.businessinsider.com/news/stocks/bitcoin-mining-seneca-lake-finger-lakes-new-york-hot-tub-2021-7
+Comments URL: https://news.ycombinator.com/item?id=27749247
+Points: 51
+# Comments: 15]]></summary>
+        <author>
+            <name>car</name>
         </author>
     </entry>
     <entry>
@@ -44,8 +170,8 @@ The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks.
         <updated>2021-07-06T14:20:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mattferraro.dev/posts/poissons-equation
 Comments URL: https://news.ycombinator.com/item?id=27748967
-Points: 51
-# Comments: 1]]></summary>
+Points: 167
+# Comments: 31]]></summary>
         <author>
             <name>mferraro89</name>
         </author>
@@ -72,8 +198,8 @@ Please only post if you personally are the founder (or one of the co-founders) o
 Commenters: please don't reply to these posts telling people why their idea won't work. It's off topic here.
 Readers: please only email if you are personally interested in committing yourself to a co-founder role. No "CTO for hire" companies!
 Comments URL: https://news.ycombinator.com/item?id=27748680
-Points: 15
-# Comments: 1]]></summary>
+Points: 81
+# Comments: 24]]></summary>
         <author>
             <name>whoisbuilding</name>
         </author>
@@ -85,10 +211,23 @@ Points: 15
         <updated>2021-07-06T13:16:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/world/2021/07/06/bhima-koregaon-case-india/
 Comments URL: https://news.ycombinator.com/item?id=27748088
-Points: 72
-# Comments: 8]]></summary>
+Points: 117
+# Comments: 30]]></summary>
         <author>
             <name>jbegley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Min Breathing Exercise Lowers Blood Pressure]]></title>
+        <id>https://news.ycombinator.com/item?id=27747943</id>
+        <link href="https://www.studyfinds.org/5-minute-breathing-workout/"/>
+        <updated>2021-07-06T13:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.studyfinds.org/5-minute-breathing-workout/
+Comments URL: https://news.ycombinator.com/item?id=27747943
+Points: 16
+# Comments: 7]]></summary>
+        <author>
+            <name>throw1234651234</name>
         </author>
     </entry>
     <entry>
@@ -98,8 +237,8 @@ Points: 72
         <updated>2021-07-06T12:25:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fortune.com/2021/07/05/israel-data-plunge-efficacy-pfizer-biontech-vaccine-delta-variant/
 Comments URL: https://news.ycombinator.com/item?id=27747512
-Points: 66
-# Comments: 86]]></summary>
+Points: 88
+# Comments: 147]]></summary>
         <author>
             <name>kleiba</name>
         </author>
@@ -111,8 +250,8 @@ Points: 66
         <updated>2021-07-06T12:07:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aquinas.cc
 Comments URL: https://news.ycombinator.com/item?id=27747337
-Points: 31
-# Comments: 2]]></summary>
+Points: 68
+# Comments: 13]]></summary>
         <author>
             <name>danielam</name>
         </author>
@@ -131,27 +270,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can too many brainy people be a dangerous thing?]]></title>
-        <id>https://news.ycombinator.com/item?id=27746982</id>
-        <link href="https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing"/>
-        <updated>2021-07-06T11:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing
-Comments URL: https://news.ycombinator.com/item?id=27746982
-Points: 4
-# Comments: 0]]></summary>
-        <author>
-            <name>jedwhite</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Libgccjit AOT Codegen for Rustc]]></title>
         <id>https://news.ycombinator.com/item?id=27746877</id>
         <link href="https://github.com/antoyo/rustc_codegen_gcc"/>
         <updated>2021-07-06T11:22:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/antoyo/rustc_codegen_gcc
 Comments URL: https://news.ycombinator.com/item?id=27746877
-Points: 59
-# Comments: 3]]></summary>
+Points: 75
+# Comments: 6]]></summary>
         <author>
             <name>varbhat</name>
         </author>
@@ -163,8 +289,8 @@ Points: 59
         <updated>2021-07-06T11:15:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lancengym.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710
 Comments URL: https://news.ycombinator.com/item?id=27746815
-Points: 142
-# Comments: 96]]></summary>
+Points: 179
+# Comments: 119]]></summary>
         <author>
             <name>lancengym</name>
         </author>
@@ -176,8 +302,8 @@ Points: 142
         <updated>2021-07-06T10:49:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://consoledonottrack.com
 Comments URL: https://news.ycombinator.com/item?id=27746587
-Points: 428
-# Comments: 161]]></summary>
+Points: 497
+# Comments: 201]]></summary>
         <author>
             <name>thih9</name>
         </author>
@@ -189,8 +315,8 @@ Points: 428
         <updated>2021-07-06T10:38:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://donjon.ledger.com/kaspersky-password-manager/
 Comments URL: https://news.ycombinator.com/item?id=27746494
-Points: 155
-# Comments: 61]]></summary>
+Points: 183
+# Comments: 74]]></summary>
         <author>
             <name>syck</name>
         </author>
@@ -203,110 +329,6 @@ Points: 155
         <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Rust Support]]></title>
-        <id>https://news.ycombinator.com/item?id=27746130</id>
-        <link href="https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/"/>
-        <updated>2021-07-06T09:50:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/
-Comments URL: https://news.ycombinator.com/item?id=27746130
-Points: 326
-# Comments: 209]]></summary>
-        <author>
-            <name>doener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Case Against the Covid-19 Lab Leak Theory]]></title>
-        <id>https://news.ycombinator.com/item?id=27745671</id>
-        <link href="https://newrepublic.com/article/162689/bats-covid-19-lab-leak-theory"/>
-        <updated>2021-07-06T08:47:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://newrepublic.com/article/162689/bats-covid-19-lab-leak-theory
-Comments URL: https://news.ycombinator.com/item?id=27745671
-Points: 57
-# Comments: 87]]></summary>
-        <author>
-            <name>aliasEli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter has lost liability protection in India, government says]]></title>
-        <id>https://news.ycombinator.com/item?id=27745585</id>
-        <link href="https://techcrunch.com/2021/07/06/twitter-has-lost-liability-protection-in-india-government-says/"/>
-        <updated>2021-07-06T08:35:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/07/06/twitter-has-lost-liability-protection-in-india-government-says/
-Comments URL: https://news.ycombinator.com/item?id=27745585
-Points: 126
-# Comments: 127]]></summary>
-        <author>
-            <name>jmsflknr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mind-controlling parasite makes hyena cubs more reckless around lions]]></title>
-        <id>https://news.ycombinator.com/item?id=27744669</id>
-        <link href="https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions"/>
-        <updated>2021-07-06T06:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions
-Comments URL: https://news.ycombinator.com/item?id=27744669
-Points: 91
-# Comments: 44]]></summary>
-        <author>
-            <name>awb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compare AsciiDoc and Markdown]]></title>
-        <id>https://news.ycombinator.com/item?id=27744509</id>
-        <link href="https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/"/>
-        <updated>2021-07-06T05:27:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/
-Comments URL: https://news.ycombinator.com/item?id=27744509
-Points: 131
-# Comments: 74]]></summary>
-        <author>
-            <name>mad2021</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“I wish I could have licensed the Id source code releases as BSD”]]></title>
-        <id>https://news.ycombinator.com/item?id=27744372</id>
-        <link href="https://twitter.com/ID_AA_Carmack/status/1412271091393994754"/>
-        <updated>2021-07-06T04:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1412271091393994754
-Comments URL: https://news.ycombinator.com/item?id=27744372
-Points: 275
-# Comments: 318]]></summary>
-        <author>
-            <name>bifrost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OSSU: Path to a free, self-taught education in computer science]]></title>
-        <id>https://news.ycombinator.com/item?id=27744255</id>
-        <link href="https://github.com/ossu/computer-science"/>
-        <updated>2021-07-06T04:35:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ossu/computer-science
-Comments URL: https://news.ycombinator.com/item?id=27744255
-Points: 226
-# Comments: 93]]></summary>
-        <author>
-            <name>axiomdata316</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did lead poisoning cause downfall of Roman Empire? The jury is still out]]></title>
-        <id>https://news.ycombinator.com/item?id=27744221</id>
-        <link href="https://arstechnica.com/science/2021/07/did-lead-poisoning-cause-downfall-of-roman-empire-the-jury-is-still-out/"/>
-        <updated>2021-07-06T04:26:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/07/did-lead-poisoning-cause-downfall-of-roman-empire-the-jury-is-still-out/
-Comments URL: https://news.ycombinator.com/item?id=27744221
-Points: 16
-# Comments: 3]]></summary>
-        <author>
-            <name>Tomte</name>
         </author>
     </entry>
     <entry>
@@ -543,16 +565,6 @@ The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You c
         <link href="https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/"/>
         <updated>2021-06-30T14:25:53.000Z</updated>
         <summary type="html"><![CDATA[This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React Router]]></title>
-        <id>60d5ea736e1a1407b6b0bc8d</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-router/"/>
-        <updated>2021-06-30T14:01:01.000Z</updated>
-        <summary type="html"><![CDATA[React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
