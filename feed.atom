@@ -2,12 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T17:17:47.410Z</updated>
+    <updated>2021-07-06T18:14:30.473Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[OneSignal (YC S11) Is Hiring Engineers in California, New York, Texas, & the UK]]></title>
+        <title type="html"><![CDATA[How to Build a Small Town in Texas]]></title>
+        <id>https://news.ycombinator.com/item?id=27751498</id>
+        <link href="https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas"/>
+        <updated>2021-07-06T17:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas
+Comments URL: https://news.ycombinator.com/item?id=27751498
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>haakon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As climate warms, a rearrangement of world’s plant life looms]]></title>
+        <id>https://news.ycombinator.com/item?id=27751493</id>
+        <link href="https://e360.yale.edu/features/as-climate-warms-a-rearrangement-of-worlds-plant-life-looms"/>
+        <updated>2021-07-06T17:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://e360.yale.edu/features/as-climate-warms-a-rearrangement-of-worlds-plant-life-looms
+Comments URL: https://news.ycombinator.com/item?id=27751493
+Points: 48
+# Comments: 11]]></summary>
+        <author>
+            <name>homarp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneSignal (YC S11) is hiring engineers in California, New York, Texas, UK]]></title>
         <id>https://news.ycombinator.com/item?id=27751258</id>
         <link href="https://onesignal.com/careers"/>
         <updated>2021-07-06T17:01:08.000Z</updated>
@@ -20,16 +46,42 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pentagon Scraps $10B Cloud Deal Award to Microsoft]]></title>
-        <id>https://news.ycombinator.com/item?id=27751035</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-07-06/pentagon-scraps-10-billion-cloud-contract-award-to-microsoft"/>
-        <updated>2021-07-06T16:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-07-06/pentagon-scraps-10-billion-cloud-contract-award-to-microsoft
-Comments URL: https://news.ycombinator.com/item?id=27751035
-Points: 22
+        <title type="html"><![CDATA[Kepler telescope reveals population of free-floating planets in deep space]]></title>
+        <id>https://news.ycombinator.com/item?id=27750996</id>
+        <link href="https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html"/>
+        <updated>2021-07-06T16:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html
+Comments URL: https://news.ycombinator.com/item?id=27750996
+Points: 42
+# Comments: 0]]></summary>
+        <author>
+            <name>jaytaylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headless React]]></title>
+        <id>https://news.ycombinator.com/item?id=27750864</id>
+        <link href="https://acko.net/blog/live-headless-react/"/>
+        <updated>2021-07-06T16:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://acko.net/blog/live-headless-react/
+Comments URL: https://news.ycombinator.com/item?id=27750864
+Points: 31
 # Comments: 1]]></summary>
         <author>
-            <name>1986</name>
+            <name>jashkenas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workspace Trust in VS Code]]></title>
+        <id>https://news.ycombinator.com/item?id=27750837</id>
+        <link href="https://code.visualstudio.com/blogs/2021/07/06/workspace-trust"/>
+        <updated>2021-07-06T16:37:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://code.visualstudio.com/blogs/2021/07/06/workspace-trust
+Comments URL: https://news.ycombinator.com/item?id=27750837
+Points: 30
+# Comments: 4]]></summary>
+        <author>
+            <name>ItalyPaleAle</name>
         </author>
     </entry>
     <entry>
@@ -39,10 +91,23 @@ Points: 22
         <updated>2021-07-06T16:32:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/07/06/pentagon-cancels-10-billion-jedi-cloud-contract.html
 Comments URL: https://news.ycombinator.com/item?id=27750770
-Points: 53
-# Comments: 3]]></summary>
+Points: 126
+# Comments: 55]]></summary>
         <author>
             <name>coloneltcb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming Language Memory Models]]></title>
+        <id>https://news.ycombinator.com/item?id=27750610</id>
+        <link href="https://research.swtch.com/plmm"/>
+        <updated>2021-07-06T16:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://research.swtch.com/plmm
+Comments URL: https://news.ycombinator.com/item?id=27750610
+Points: 15
+# Comments: 1]]></summary>
+        <author>
+            <name>thinxer</name>
         </author>
     </entry>
     <entry>
@@ -67,27 +132,14 @@ Founders face lots of hard problems at the earliest stages—building an MVP, fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Y Combinator Launches Co-Founder Matching Platform]]></title>
-        <id>https://news.ycombinator.com/item?id=27750294</id>
-        <link href="https://blog.ycombinator.com/co-founder-matching/"/>
-        <updated>2021-07-06T16:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.ycombinator.com/co-founder-matching/
-Comments URL: https://news.ycombinator.com/item?id=27750294
-Points: 24
-# Comments: 1]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Up to 1,500 businesses affected by ransomware attack, U.S. firm's CEO says]]></title>
+        <title type="html"><![CDATA[Up to 1,500 businesses affected by ransomware attack, Kaseya CEO says]]></title>
         <id>https://news.ycombinator.com/item?id=27750040</id>
         <link href="https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/"/>
         <updated>2021-07-06T15:42:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/
 Comments URL: https://news.ycombinator.com/item?id=27750040
-Points: 108
-# Comments: 53]]></summary>
+Points: 195
+# Comments: 108]]></summary>
         <author>
             <name>babyblueblanket</name>
         </author>
@@ -99,8 +151,8 @@ Points: 108
         <updated>2021-07-06T15:23:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.rentpathcode.com/we-increased-our-lighthouse-score-by-17-points-by-making-our-images-larger-83f60b33a942
 Comments URL: https://news.ycombinator.com/item?id=27749771
-Points: 73
-# Comments: 29]]></summary>
+Points: 100
+# Comments: 42]]></summary>
         <author>
             <name>vlucas</name>
         </author>
@@ -112,23 +164,10 @@ Points: 73
         <updated>2021-07-06T15:21:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://michael.orlitzky.com/articles/posix_hardlink_heartache.xhtml
 Comments URL: https://news.ycombinator.com/item?id=27749743
-Points: 31
-# Comments: 2]]></summary>
+Points: 47
+# Comments: 9]]></summary>
         <author>
             <name>cristoperb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Exxon lobbyist thought he was in a job interview. Instead, it was recorded]]></title>
-        <id>https://news.ycombinator.com/item?id=27749669</id>
-        <link href="https://www.washingtonpost.com/climate-environment/2021/07/02/exxon-climate-change-video-leaked/"/>
-        <updated>2021-07-06T15:13:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/climate-environment/2021/07/02/exxon-climate-change-video-leaked/
-Comments URL: https://news.ycombinator.com/item?id=27749669
-Points: 43
-# Comments: 8]]></summary>
-        <author>
-            <name>karmanyaahm</name>
         </author>
     </entry>
     <entry>
@@ -148,8 +187,8 @@ Points: 43
         <updated>2021-07-06T14:59:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sidequestjobs.com/
 Comments URL: https://news.ycombinator.com/item?id=27749497
-Points: 77
-# Comments: 25]]></summary>
+Points: 125
+# Comments: 33]]></summary>
         <author>
             <name>ryry</name>
         </author>
@@ -176,14 +215,14 @@ The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Poisson's Equation is the most powerful tool not yet in your toolbox]]></title>
+        <title type="html"><![CDATA[Poisson's Equation]]></title>
         <id>https://news.ycombinator.com/item?id=27748967</id>
         <link href="https://mattferraro.dev/posts/poissons-equation"/>
         <updated>2021-07-06T14:20:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mattferraro.dev/posts/poissons-equation
 Comments URL: https://news.ycombinator.com/item?id=27748967
-Points: 279
-# Comments: 58]]></summary>
+Points: 341
+# Comments: 91]]></summary>
         <author>
             <name>mferraro89</name>
         </author>
@@ -206,8 +245,8 @@ We used to be called Luna and were lucky to have a few big threads on HN over th
         <updated>2021-07-06T13:16:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/world/2021/07/06/bhima-koregaon-case-india/
 Comments URL: https://news.ycombinator.com/item?id=27748088
-Points: 141
-# Comments: 57]]></summary>
+Points: 158
+# Comments: 60]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -219,8 +258,8 @@ Points: 141
         <updated>2021-07-06T13:01:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.studyfinds.org/5-minute-breathing-workout/
 Comments URL: https://news.ycombinator.com/item?id=27747943
-Points: 28
-# Comments: 14]]></summary>
+Points: 47
+# Comments: 19]]></summary>
         <author>
             <name>throw1234651234</name>
         </author>
@@ -232,23 +271,10 @@ Points: 28
         <updated>2021-07-06T12:07:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://aquinas.cc
 Comments URL: https://news.ycombinator.com/item?id=27747337
-Points: 93
-# Comments: 22]]></summary>
+Points: 127
+# Comments: 39]]></summary>
         <author>
             <name>danielam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can too many brainy people be a dangerous thing?]]></title>
-        <id>https://news.ycombinator.com/item?id=27746982</id>
-        <link href="https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing"/>
-        <updated>2021-07-06T11:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing
-Comments URL: https://news.ycombinator.com/item?id=27746982
-Points: 27
-# Comments: 36]]></summary>
-        <author>
-            <name>jedwhite</name>
         </author>
     </entry>
     <entry>
@@ -258,8 +284,8 @@ Points: 27
         <updated>2021-07-06T11:22:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/antoyo/rustc_codegen_gcc
 Comments URL: https://news.ycombinator.com/item?id=27746877
-Points: 84
-# Comments: 7]]></summary>
+Points: 92
+# Comments: 9]]></summary>
         <author>
             <name>varbhat</name>
         </author>
@@ -271,36 +297,10 @@ Points: 84
         <updated>2021-07-06T11:15:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lancengym.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710
 Comments URL: https://news.ycombinator.com/item?id=27746815
-Points: 198
-# Comments: 137]]></summary>
+Points: 206
+# Comments: 156]]></summary>
         <author>
             <name>lancengym</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Console Do Not Track]]></title>
-        <id>https://news.ycombinator.com/item?id=27746587</id>
-        <link href="https://consoledonottrack.com"/>
-        <updated>2021-07-06T10:49:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://consoledonottrack.com
-Comments URL: https://news.ycombinator.com/item?id=27746587
-Points: 551
-# Comments: 235]]></summary>
-        <author>
-            <name>thih9</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaspersky Password Manager: All your passwords are belong to us]]></title>
-        <id>https://news.ycombinator.com/item?id=27746494</id>
-        <link href="https://donjon.ledger.com/kaspersky-password-manager/"/>
-        <updated>2021-07-06T10:38:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://donjon.ledger.com/kaspersky-password-manager/
-Comments URL: https://news.ycombinator.com/item?id=27746494
-Points: 204
-# Comments: 83]]></summary>
-        <author>
-            <name>syck</name>
         </author>
     </entry>
     <entry>
