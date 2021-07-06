@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T23:11:35.009Z</updated>
+    <updated>2021-07-06T00:39:43.591Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tough Turban: an open-source design for turban-wearing motorcyclists]]></title>
+        <id>https://news.ycombinator.com/item?id=27742824</id>
+        <link href="https://toughturban.com/"/>
+        <updated>2021-07-05T23:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://toughturban.com/
+Comments URL: https://news.ycombinator.com/item?id=27742824
+Points: 17
+# Comments: 9]]></summary>
+        <author>
+            <name>motohagiography</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A primer on carbon pricing and carbon border adjustments]]></title>
+        <id>https://news.ycombinator.com/item?id=27742617</id>
+        <link href="https://economics.td.com/esg-carbon-report"/>
+        <updated>2021-07-05T22:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://economics.td.com/esg-carbon-report
+Comments URL: https://news.ycombinator.com/item?id=27742617
+Points: 37
+# Comments: 17]]></summary>
+        <author>
+            <name>toomuchtodo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism]]></title>
         <id>https://news.ycombinator.com/item?id=27741963</id>
@@ -13,8 +39,8 @@
         <updated>2021-07-05T21:25:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/rustviz/rustviz
 Comments URL: https://news.ycombinator.com/item?id=27741963
-Points: 22
-# Comments: 1]]></summary>
+Points: 56
+# Comments: 8]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -26,8 +52,8 @@ Points: 22
         <updated>2021-07-05T21:18:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cookiengineer/audacity
 Comments URL: https://news.ycombinator.com/item?id=27741910
-Points: 114
-# Comments: 55]]></summary>
+Points: 163
+# Comments: 111]]></summary>
         <author>
             <name>ushakov</name>
         </author>
@@ -46,27 +72,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quantum Computing just got desktop sized]]></title>
-        <id>https://news.ycombinator.com/item?id=27741458</id>
-        <link href="https://www.redsharknews.com/quantum-computing-just-got-desktop-sized"/>
-        <updated>2021-07-05T20:16:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.redsharknews.com/quantum-computing-just-got-desktop-sized
-Comments URL: https://news.ycombinator.com/item?id=27741458
-Points: 9
-# Comments: 4]]></summary>
-        <author>
-            <name>ax0ar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How iOS 15 makes apps launch faster]]></title>
         <id>https://news.ycombinator.com/item?id=27741210</id>
         <link href="https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520"/>
         <updated>2021-07-05T19:42:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520
 Comments URL: https://news.ycombinator.com/item?id=27741210
-Points: 96
-# Comments: 28]]></summary>
+Points: 108
+# Comments: 34]]></summary>
         <author>
             <name>jshchnz</name>
         </author>
@@ -78,21 +91,21 @@ Points: 96
         <updated>2021-07-05T19:41:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html
 Comments URL: https://news.ycombinator.com/item?id=27741205
-Points: 17
-# Comments: 7]]></summary>
+Points: 26
+# Comments: 24]]></summary>
         <author>
             <name>sirteno</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Writing a Firmware-Only Keylogger]]></title>
+        <title type="html"><![CDATA[Writing a firmware-only keylogger]]></title>
         <id>https://news.ycombinator.com/item?id=27740295</id>
         <link href="https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html"/>
         <updated>2021-07-05T17:54:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html
 Comments URL: https://news.ycombinator.com/item?id=27740295
-Points: 168
-# Comments: 37]]></summary>
+Points: 186
+# Comments: 47]]></summary>
         <author>
             <name>jsnell</name>
         </author>
@@ -104,8 +117,8 @@ Points: 168
         <updated>2021-07-05T17:22:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://transfer.sh
 Comments URL: https://news.ycombinator.com/item?id=27739991
-Points: 103
-# Comments: 43]]></summary>
+Points: 125
+# Comments: 46]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -117,8 +130,8 @@ Points: 103
         <updated>2021-07-05T17:02:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-middle-east-57719551
 Comments URL: https://news.ycombinator.com/item?id=27739860
-Points: 86
-# Comments: 28]]></summary>
+Points: 102
+# Comments: 43]]></summary>
         <author>
             <name>Aissen</name>
         </author>
@@ -130,7 +143,7 @@ Points: 86
         <updated>2021-07-05T16:47:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf
 Comments URL: https://news.ycombinator.com/item?id=27739751
-Points: 49
+Points: 54
 # Comments: 5]]></summary>
         <author>
             <name>luispa</name>
@@ -143,10 +156,23 @@ Points: 49
         <updated>2021-07-05T16:41:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pair.withgoogle.com/explorables/
 Comments URL: https://news.ycombinator.com/item?id=27739694
-Points: 91
-# Comments: 18]]></summary>
+Points: 99
+# Comments: 29]]></summary>
         <author>
             <name>smitop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audacity: Clarification of Privacy Policy]]></title>
+        <id>https://news.ycombinator.com/item?id=27739596</id>
+        <link href="https://github.com/audacity/audacity/discussions/1225"/>
+        <updated>2021-07-05T16:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/audacity/audacity/discussions/1225
+Comments URL: https://news.ycombinator.com/item?id=27739596
+Points: 113
+# Comments: 83]]></summary>
+        <author>
+            <name>anonymousab</name>
         </author>
     </entry>
     <entry>
@@ -156,23 +182,10 @@ Points: 91
         <updated>2021-07-05T16:28:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://feed-me-up-scotty.vincenttunru.com/
 Comments URL: https://news.ycombinator.com/item?id=27739568
-Points: 312
-# Comments: 83]]></summary>
+Points: 347
+# Comments: 87]]></summary>
         <author>
             <name>Vinnl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European plan for gigantic new gravitational wave detector passes milestone]]></title>
-        <id>https://news.ycombinator.com/item?id=27739499</id>
-        <link href="https://www.sciencemag.org/news/2021/07/european-plan-gigantic-new-gravitational-wave-detector-passes-milestone"/>
-        <updated>2021-07-05T16:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sciencemag.org/news/2021/07/european-plan-gigantic-new-gravitational-wave-detector-passes-milestone
-Comments URL: https://news.ycombinator.com/item?id=27739499
-Points: 93
-# Comments: 76]]></summary>
-        <author>
-            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -182,23 +195,10 @@ Points: 93
         <updated>2021-07-05T16:20:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newton.ac.uk/seminar/20210607180018301/
 Comments URL: https://news.ycombinator.com/item?id=27739494
-Points: 65
-# Comments: 24]]></summary>
+Points: 67
+# Comments: 26]]></summary>
         <author>
             <name>timthorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AtGames Legends virtual pinball review: The better pre-built choice mostly]]></title>
-        <id>https://news.ycombinator.com/item?id=27738583</id>
-        <link href="https://arstechnica.com/gaming/2021/07/atgames-legends-virtual-pinball-review-the-better-pre-built-choice-mostly/"/>
-        <updated>2021-07-05T14:54:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gaming/2021/07/atgames-legends-virtual-pinball-review-the-better-pre-built-choice-mostly/
-Comments URL: https://news.ycombinator.com/item?id=27738583
-Points: 13
-# Comments: 1]]></summary>
-        <author>
-            <name>Tomte</name>
         </author>
     </entry>
     <entry>
@@ -208,23 +208,10 @@ Points: 13
         <updated>2021-07-05T14:52:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pythonspeed.com/articles/measuring-memory-python/
 Comments URL: https://news.ycombinator.com/item?id=27738566
-Points: 75
-# Comments: 12]]></summary>
+Points: 79
+# Comments: 14]]></summary>
         <author>
             <name>itamarst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The perils of PR]]></title>
-        <id>https://news.ycombinator.com/item?id=27738547</id>
-        <link href="https://www.economist.com/business/2021/07/03/the-perils-of-pr"/>
-        <updated>2021-07-05T14:51:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/business/2021/07/03/the-perils-of-pr
-Comments URL: https://news.ycombinator.com/item?id=27738547
-Points: 47
-# Comments: 21]]></summary>
-        <author>
-            <name>hhs</name>
         </author>
     </entry>
     <entry>
@@ -234,8 +221,8 @@ Points: 47
         <updated>2021-07-05T14:24:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html
 Comments URL: https://news.ycombinator.com/item?id=27738312
-Points: 134
-# Comments: 45]]></summary>
+Points: 142
+# Comments: 52]]></summary>
         <author>
             <name>mrry</name>
         </author>
@@ -259,7 +246,7 @@ The post Kubernetes Explained Simply: Containers, Pods and Images appeared first
         <updated>2021-07-05T14:15:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/GistNoesis/BrickRegistration
 Comments URL: https://news.ycombinator.com/item?id=27738232
-Points: 120
+Points: 128
 # Comments: 8]]></summary>
         <author>
             <name>GistNoesis</name>
@@ -277,14 +264,27 @@ The post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Future of Deep Learning Is Photonic]]></title>
+        <title type="html"><![CDATA[How we trace a KV database with less than 5% performance impact]]></title>
+        <id>https://news.ycombinator.com/item?id=27738132</id>
+        <link href="https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact"/>
+        <updated>2021-07-05T14:05:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact
+Comments URL: https://news.ycombinator.com/item?id=27738132
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>ngaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The future of deep learning is photonic]]></title>
         <id>https://news.ycombinator.com/item?id=27738029</id>
         <link href="https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic"/>
         <updated>2021-07-05T13:56:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic
 Comments URL: https://news.ycombinator.com/item?id=27738029
-Points: 93
-# Comments: 25]]></summary>
+Points: 102
+# Comments: 32]]></summary>
         <author>
             <name>Anon84</name>
         </author>
