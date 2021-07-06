@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T04:14:56.986Z</updated>
+    <updated>2021-07-06T05:10:08.957Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[70% of respondents say quality of life in San Francisco has declined]]></title>
+        <id>https://news.ycombinator.com/item?id=27744222</id>
+        <link href="https://www.sfgate.com/bayarea/article/San-Francisco-Chamber-of-Commerce-poll-crime-16273969.php"/>
+        <updated>2021-07-06T04:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sfgate.com/bayarea/article/San-Francisco-Chamber-of-Commerce-poll-crime-16273969.php
+Comments URL: https://news.ycombinator.com/item?id=27744222
+Points: 40
+# Comments: 15]]></summary>
+        <author>
+            <name>hndirect</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roll your own minilanguages with mini-interpreters (1989)]]></title>
+        <id>https://news.ycombinator.com/item?id=27744044</id>
+        <link href="http://www.textfiles.com/computers/abrash.lst"/>
+        <updated>2021-07-06T03:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.textfiles.com/computers/abrash.lst
+Comments URL: https://news.ycombinator.com/item?id=27744044
+Points: 15
+# Comments: 1]]></summary>
+        <author>
+            <name>bleachedsleet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Reportedly Storing over 8M Terabytes of iCloud Data on Google Servers]]></title>
         <id>https://news.ycombinator.com/item?id=27743800</id>
@@ -13,23 +39,36 @@
         <updated>2021-07-06T02:50:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/
 Comments URL: https://news.ycombinator.com/item?id=27743800
-Points: 46
-# Comments: 25]]></summary>
+Points: 69
+# Comments: 49]]></summary>
         <author>
             <name>heshiebee</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The long history of 'Bombay time' and resistance to colonial rule]]></title>
-        <id>https://news.ycombinator.com/item?id=27742984</id>
-        <link href="https://www.atlasobscura.com/articles/bombay-time"/>
-        <updated>2021-07-06T00:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/bombay-time
-Comments URL: https://news.ycombinator.com/item?id=27742984
-Points: 38
-# Comments: 1]]></summary>
+        <title type="html"><![CDATA[No More Movies]]></title>
+        <id>https://news.ycombinator.com/item?id=27743738</id>
+        <link href="https://jayriverlong.github.io/2021/07/05/movies.html"/>
+        <updated>2021-07-06T02:36:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jayriverlong.github.io/2021/07/05/movies.html
+Comments URL: https://news.ycombinator.com/item?id=27743738
+Points: 8
+# Comments: 0]]></summary>
         <author>
-            <name>yusuf_giftworks</name>
+            <name>jeffreyrogers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Orwellian’: Facebook faces backlash for ‘harmful extremist content’ alerts]]></title>
+        <id>https://news.ycombinator.com/item?id=27743655</id>
+        <link href="https://www.washingtontimes.com/news/2021/jul/4/backlash-hits-facebook-over-new-extremist-content-/"/>
+        <updated>2021-07-06T02:22:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.washingtontimes.com/news/2021/jul/4/backlash-hits-facebook-over-new-extremist-content-/
+Comments URL: https://news.ycombinator.com/item?id=27743655
+Points: 27
+# Comments: 12]]></summary>
+        <author>
+            <name>anonymousiam</name>
         </author>
     </entry>
     <entry>
@@ -39,8 +78,8 @@ Points: 38
         <updated>2021-07-05T22:58:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://economics.td.com/esg-carbon-report
 Comments URL: https://news.ycombinator.com/item?id=27742617
-Points: 57
-# Comments: 32]]></summary>
+Points: 63
+# Comments: 35]]></summary>
         <author>
             <name>toomuchtodo</name>
         </author>
@@ -52,7 +91,7 @@ Points: 57
         <updated>2021-07-05T21:25:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/rustviz/rustviz
 Comments URL: https://news.ycombinator.com/item?id=27741963
-Points: 121
+Points: 132
 # Comments: 9]]></summary>
         <author>
             <name>belter</name>
@@ -65,8 +104,8 @@ Points: 121
         <updated>2021-07-05T21:18:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cookiengineer/audacity
 Comments URL: https://news.ycombinator.com/item?id=27741910
-Points: 263
-# Comments: 187]]></summary>
+Points: 276
+# Comments: 201]]></summary>
         <author>
             <name>ushakov</name>
         </author>
@@ -85,29 +124,29 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How iOS 15 makes apps launch faster]]></title>
-        <id>https://news.ycombinator.com/item?id=27741210</id>
-        <link href="https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520"/>
-        <updated>2021-07-05T19:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520
-Comments URL: https://news.ycombinator.com/item?id=27741210
-Points: 133
-# Comments: 49]]></summary>
-        <author>
-            <name>jshchnz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Student designs device that stops blood loss from stab wounds]]></title>
         <id>https://news.ycombinator.com/item?id=27741205</id>
         <link href="https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html"/>
         <updated>2021-07-05T19:41:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html
 Comments URL: https://news.ycombinator.com/item?id=27741205
-Points: 57
-# Comments: 44]]></summary>
+Points: 63
+# Comments: 50]]></summary>
         <author>
             <name>sirteno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Eraser Men]]></title>
+        <id>https://news.ycombinator.com/item?id=27741111</id>
+        <link href="https://www.rouleur.cc/blogs/the-rouleur-journal/the-eraser-men"/>
+        <updated>2021-07-05T19:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.rouleur.cc/blogs/the-rouleur-journal/the-eraser-men
+Comments URL: https://news.ycombinator.com/item?id=27741111
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>breathnow</name>
         </author>
     </entry>
     <entry>
@@ -117,8 +156,8 @@ Points: 57
         <updated>2021-07-05T19:15:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://flashbak.com/raymond-chandlers-guide-to-street-hoodlum-and-prison-lingo-443428/
 Comments URL: https://news.ycombinator.com/item?id=27741026
-Points: 26
-# Comments: 4]]></summary>
+Points: 34
+# Comments: 7]]></summary>
         <author>
             <name>commons-tragedy</name>
         </author>
@@ -130,8 +169,8 @@ Points: 26
         <updated>2021-07-05T17:54:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html
 Comments URL: https://news.ycombinator.com/item?id=27740295
-Points: 229
-# Comments: 68]]></summary>
+Points: 235
+# Comments: 70]]></summary>
         <author>
             <name>jsnell</name>
         </author>
@@ -143,8 +182,8 @@ Points: 229
         <updated>2021-07-05T17:22:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://transfer.sh
 Comments URL: https://news.ycombinator.com/item?id=27739991
-Points: 167
-# Comments: 53]]></summary>
+Points: 175
+# Comments: 56]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -156,8 +195,8 @@ Points: 167
         <updated>2021-07-05T17:02:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-middle-east-57719551
 Comments URL: https://news.ycombinator.com/item?id=27739860
-Points: 121
-# Comments: 55]]></summary>
+Points: 126
+# Comments: 67]]></summary>
         <author>
             <name>Aissen</name>
         </author>
@@ -169,7 +208,7 @@ Points: 121
         <updated>2021-07-05T16:47:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf
 Comments URL: https://news.ycombinator.com/item?id=27739751
-Points: 68
+Points: 72
 # Comments: 9]]></summary>
         <author>
             <name>luispa</name>
@@ -182,8 +221,8 @@ Points: 68
         <updated>2021-07-05T16:41:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pair.withgoogle.com/explorables/
 Comments URL: https://news.ycombinator.com/item?id=27739694
-Points: 125
-# Comments: 44]]></summary>
+Points: 131
+# Comments: 50]]></summary>
         <author>
             <name>smitop</name>
         </author>
@@ -195,23 +234,10 @@ Points: 125
         <updated>2021-07-05T16:28:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://feed-me-up-scotty.vincenttunru.com/
 Comments URL: https://news.ycombinator.com/item?id=27739568
-Points: 421
-# Comments: 97]]></summary>
+Points: 430
+# Comments: 98]]></summary>
         <author>
             <name>Vinnl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tony Hoare answers questions [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27739494</id>
-        <link href="https://www.newton.ac.uk/seminar/20210607180018301/"/>
-        <updated>2021-07-05T16:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newton.ac.uk/seminar/20210607180018301/
-Comments URL: https://news.ycombinator.com/item?id=27739494
-Points: 74
-# Comments: 29]]></summary>
-        <author>
-            <name>timthorn</name>
         </author>
     </entry>
     <entry>
@@ -234,23 +260,10 @@ Points: 32
         <updated>2021-07-05T14:52:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pythonspeed.com/articles/measuring-memory-python/
 Comments URL: https://news.ycombinator.com/item?id=27738566
-Points: 96
+Points: 98
 # Comments: 14]]></summary>
         <author>
             <name>itamarst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computing Performance on the Horizon]]></title>
-        <id>https://news.ycombinator.com/item?id=27738312</id>
-        <link href="https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html"/>
-        <updated>2021-07-05T14:24:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html
-Comments URL: https://news.ycombinator.com/item?id=27738312
-Points: 160
-# Comments: 59]]></summary>
-        <author>
-            <name>mrry</name>
         </author>
     </entry>
     <entry>
@@ -263,19 +276,6 @@ As a front-end developer, you don’t have to know how to configure an infrastru
 The post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Lari Maza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Lego Brick Scanner – open-source Boilerplate]]></title>
-        <id>https://news.ycombinator.com/item?id=27738232</id>
-        <link href="https://github.com/GistNoesis/BrickRegistration"/>
-        <updated>2021-07-05T14:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/GistNoesis/BrickRegistration
-Comments URL: https://news.ycombinator.com/item?id=27738232
-Points: 139
-# Comments: 9]]></summary>
-        <author>
-            <name>GistNoesis</name>
         </author>
     </entry>
     <entry>
