@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T12:17:58.709Z</updated>
+    <updated>2021-07-06T13:17:17.942Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Israel data reportedly shows efficacy drop of Pfizer-BioNTech for delta variant]]></title>
+        <id>https://news.ycombinator.com/item?id=27747512</id>
+        <link href="https://fortune.com/2021/07/05/israel-data-plunge-efficacy-pfizer-biontech-vaccine-delta-variant/"/>
+        <updated>2021-07-06T12:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fortune.com/2021/07/05/israel-data-plunge-efficacy-pfizer-biontech-vaccine-delta-variant/
+Comments URL: https://news.ycombinator.com/item?id=27747512
+Points: 33
+# Comments: 28]]></summary>
+        <author>
+            <name>kleiba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to dystopia: getting fired from your job as an Amazon worker by an app]]></title>
+        <id>https://news.ycombinator.com/item?id=27747500</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia"/>
+        <updated>2021-07-06T12:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia
+Comments URL: https://news.ycombinator.com/item?id=27747500
+Points: 9
+# Comments: 3]]></summary>
+        <author>
+            <name>thinkingemote</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fuzzbuzz (YC W19) is hiring C/C++ Systems Engineer to work on our fuzzing engine]]></title>
         <id>https://news.ycombinator.com/item?id=27747243</id>
@@ -20,14 +46,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Migrate a Git Repository from GitHub to Bitbucket]]></title>
+        <id>https://news.ycombinator.com/item?id=27747231</id>
+        <link href="https://www.bluelabellabs.com/blog/how-to-migrate-git-repository-from-github-to-bitbucket/"/>
+        <updated>2021-07-06T11:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bluelabellabs.com/blog/how-to-migrate-git-repository-from-github-to-bitbucket/
+Comments URL: https://news.ycombinator.com/item?id=27747231
+Points: 5
+# Comments: 6]]></summary>
+        <author>
+            <name>omgbobbyg</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Libgccjit AOT Codegen for Rustc]]></title>
         <id>https://news.ycombinator.com/item?id=27746877</id>
         <link href="https://github.com/antoyo/rustc_codegen_gcc"/>
         <updated>2021-07-06T11:22:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/antoyo/rustc_codegen_gcc
 Comments URL: https://news.ycombinator.com/item?id=27746877
-Points: 3
-# Comments: 0]]></summary>
+Points: 29
+# Comments: 2]]></summary>
         <author>
             <name>varbhat</name>
         </author>
@@ -39,23 +78,10 @@ Points: 3
         <updated>2021-07-06T11:15:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lancengym.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710
 Comments URL: https://news.ycombinator.com/item?id=27746815
-Points: 7
-# Comments: 1]]></summary>
+Points: 58
+# Comments: 31]]></summary>
         <author>
             <name>lancengym</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Author of popular Audacity fork harassed by 4chan]]></title>
-        <id>https://news.ycombinator.com/item?id=27746595</id>
-        <link href="https://github.com/temporary-audacity/audacity/issues/48"/>
-        <updated>2021-07-06T10:50:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/temporary-audacity/audacity/issues/48
-Comments URL: https://news.ycombinator.com/item?id=27746595
-Points: 60
-# Comments: 35]]></summary>
-        <author>
-            <name>ushakov</name>
         </author>
     </entry>
     <entry>
@@ -65,8 +91,8 @@ Points: 60
         <updated>2021-07-06T10:49:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://consoledonottrack.com
 Comments URL: https://news.ycombinator.com/item?id=27746587
-Points: 153
-# Comments: 56]]></summary>
+Points: 256
+# Comments: 100]]></summary>
         <author>
             <name>thih9</name>
         </author>
@@ -78,8 +104,8 @@ Points: 153
         <updated>2021-07-06T10:38:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://donjon.ledger.com/kaspersky-password-manager/
 Comments URL: https://news.ycombinator.com/item?id=27746494
-Points: 72
-# Comments: 22]]></summary>
+Points: 106
+# Comments: 43]]></summary>
         <author>
             <name>syck</name>
         </author>
@@ -101,8 +127,8 @@ Points: 72
         <updated>2021-07-06T09:50:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/
 Comments URL: https://news.ycombinator.com/item?id=27746130
-Points: 148
-# Comments: 94]]></summary>
+Points: 199
+# Comments: 151]]></summary>
         <author>
             <name>doener</name>
         </author>
@@ -114,8 +140,8 @@ Points: 148
         <updated>2021-07-06T09:49:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=ssZ_8cqfBlE
 Comments URL: https://news.ycombinator.com/item?id=27746128
-Points: 68
-# Comments: 30]]></summary>
+Points: 87
+# Comments: 54]]></summary>
         <author>
             <name>helsinkiandrew</name>
         </author>
@@ -127,23 +153,10 @@ Points: 68
         <updated>2021-07-06T08:35:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/07/06/twitter-has-lost-liability-protection-in-india-government-says/
 Comments URL: https://news.ycombinator.com/item?id=27745585
-Points: 72
-# Comments: 68]]></summary>
+Points: 95
+# Comments: 89]]></summary>
         <author>
             <name>jmsflknr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Student gets Windows 11 running on a Windows Phone]]></title>
-        <id>https://news.ycombinator.com/item?id=27744968</id>
-        <link href="https://www.theverge.com/2021/7/1/22558999/microsoft-windows-11-windows-phone-port-developer-engineer"/>
-        <updated>2021-07-06T06:50:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/7/1/22558999/microsoft-windows-11-windows-phone-port-developer-engineer
-Comments URL: https://news.ycombinator.com/item?id=27744968
-Points: 66
-# Comments: 55]]></summary>
-        <author>
-            <name>Arunprasath</name>
         </author>
     </entry>
     <entry>
@@ -153,8 +166,8 @@ Points: 66
         <updated>2021-07-06T06:00:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions
 Comments URL: https://news.ycombinator.com/item?id=27744669
-Points: 74
-# Comments: 26]]></summary>
+Points: 75
+# Comments: 35]]></summary>
         <author>
             <name>awb</name>
         </author>
@@ -166,8 +179,8 @@ Points: 74
         <updated>2021-07-06T05:27:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/
 Comments URL: https://news.ycombinator.com/item?id=27744509
-Points: 100
-# Comments: 53]]></summary>
+Points: 111
+# Comments: 63]]></summary>
         <author>
             <name>mad2021</name>
         </author>
@@ -179,8 +192,8 @@ Points: 100
         <updated>2021-07-06T04:56:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1412271091393994754
 Comments URL: https://news.ycombinator.com/item?id=27744372
-Points: 225
-# Comments: 255]]></summary>
+Points: 235
+# Comments: 280]]></summary>
         <author>
             <name>bifrost</name>
         </author>
@@ -192,8 +205,8 @@ Points: 225
         <updated>2021-07-06T04:35:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ossu/computer-science
 Comments URL: https://news.ycombinator.com/item?id=27744255
-Points: 166
-# Comments: 68]]></summary>
+Points: 188
+# Comments: 77]]></summary>
         <author>
             <name>axiomdata316</name>
         </author>
@@ -205,8 +218,8 @@ Points: 166
         <updated>2021-07-06T03:44:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.textfiles.com/computers/abrash.lst
 Comments URL: https://news.ycombinator.com/item?id=27744044
-Points: 71
-# Comments: 19]]></summary>
+Points: 76
+# Comments: 21]]></summary>
         <author>
             <name>bleachedsleet</name>
         </author>
@@ -218,8 +231,8 @@ Points: 71
         <updated>2021-07-06T02:50:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/
 Comments URL: https://news.ycombinator.com/item?id=27743800
-Points: 167
-# Comments: 147]]></summary>
+Points: 183
+# Comments: 165]]></summary>
         <author>
             <name>heshiebee</name>
         </author>
@@ -231,8 +244,8 @@ Points: 167
         <updated>2021-07-06T02:36:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gopiandcode.uk/logs/log-certified-synthesis.html
 Comments URL: https://news.ycombinator.com/item?id=27743740
-Points: 56
-# Comments: 42]]></summary>
+Points: 59
+# Comments: 45]]></summary>
         <author>
             <name>tluyben2</name>
         </author>
@@ -244,8 +257,8 @@ Points: 56
         <updated>2021-07-06T02:36:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jayriverlong.github.io/2021/07/05/movies.html
 Comments URL: https://news.ycombinator.com/item?id=27743738
-Points: 202
-# Comments: 155]]></summary>
+Points: 252
+# Comments: 204]]></summary>
         <author>
             <name>jeffreyrogers</name>
         </author>
@@ -257,23 +270,10 @@ Points: 202
         <updated>2021-07-05T19:26:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.rouleur.cc/blogs/the-rouleur-journal/the-eraser-men
 Comments URL: https://news.ycombinator.com/item?id=27741111
-Points: 84
-# Comments: 21]]></summary>
+Points: 93
+# Comments: 25]]></summary>
         <author>
             <name>breathnow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Beasts That Keep the Beat (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=27740575</id>
-        <link href="https://www.quantamagazine.org/the-beasts-that-keep-the-beat-20160322"/>
-        <updated>2021-07-05T18:24:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/the-beasts-that-keep-the-beat-20160322
-Comments URL: https://news.ycombinator.com/item?id=27740575
-Points: 16
-# Comments: 2]]></summary>
-        <author>
-            <name>absolute100</name>
         </author>
     </entry>
     <entry>
