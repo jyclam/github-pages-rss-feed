@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T16:24:14.963Z</updated>
+    <updated>2021-07-07T17:26:15.166Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[List Comprehension in Python Explained for Beginners]]></title>
+        <id>60e25e17134ad707be00d947</id>
+        <link href="https://www.freecodecamp.org/news/list-comprehension-in-python/"/>
+        <updated>2021-07-07T17:25:39.000Z</updated>
+        <summary type="html"><![CDATA[List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pachyderm (YC W15) Is Hiring Senior Engineers, DevOps, PM's, and SDR's]]></title>
+        <id>https://news.ycombinator.com/item?id=27763312</id>
+        <link href="https://www.pachyderm.com/careers/#positions"/>
+        <updated>2021-07-07T17:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pachyderm.com/careers/#positions
+Comments URL: https://news.ycombinator.com/item?id=27763312
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>jaz46</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse Engineer the BL602 WiFi Driver]]></title>
+        <id>https://news.ycombinator.com/item?id=27763031</id>
+        <link href="https://lupyuen.github.io/articles/wifi"/>
+        <updated>2021-07-07T16:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lupyuen.github.io/articles/wifi
+Comments URL: https://news.ycombinator.com/item?id=27763031
+Points: 12
+# Comments: 0]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cost of the “New Way to Message on Instagram”]]></title>
+        <id>https://news.ycombinator.com/item?id=27762500</id>
+        <link href="https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram"/>
+        <updated>2021-07-07T15:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram
+Comments URL: https://news.ycombinator.com/item?id=27762500
+Points: 20
+# Comments: 2]]></summary>
+        <author>
+            <name>gmays</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts]]></title>
         <id>60c38e76d3126007592d66cd</id>
@@ -23,10 +72,23 @@
         <updated>2021-07-07T15:41:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/saharmor/realtime-transcription-playground
 Comments URL: https://news.ycombinator.com/item?id=27762350
-Points: 3
-# Comments: 0]]></summary>
+Points: 19
+# Comments: 1]]></summary>
         <author>
             <name>saharhash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparison of Haskell and Julia List Comprehensions]]></title>
+        <id>https://news.ycombinator.com/item?id=27762347</id>
+        <link href="https://blog.lojic.com/2020/12/26/comprehensions-in-julia.html"/>
+        <updated>2021-07-07T15:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.lojic.com/2020/12/26/comprehensions-in-julia.html
+Comments URL: https://news.ycombinator.com/item?id=27762347
+Points: 12
+# Comments: 1]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -45,8 +107,8 @@ The example below illustrates this technique.
 
 
 Comments URL: https://news.ycombinator.com/item?id=27762201
-Points: 23
-# Comments: 3]]></summary>
+Points: 49
+# Comments: 14]]></summary>
         <author>
             <name>chmaynard</name>
         </author>
@@ -58,8 +120,8 @@ Points: 23
         <updated>2021-07-07T15:23:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www2.law.ucla.edu/volokh/carrier.pdf
 Comments URL: https://news.ycombinator.com/item?id=27762145
-Points: 12
-# Comments: 0]]></summary>
+Points: 41
+# Comments: 14]]></summary>
         <author>
             <name>amadeuspagel</name>
         </author>
@@ -71,8 +133,8 @@ Points: 12
         <updated>2021-07-07T15:19:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://janusgraph.org/
 Comments URL: https://news.ycombinator.com/item?id=27762109
-Points: 3
-# Comments: 1]]></summary>
+Points: 25
+# Comments: 9]]></summary>
         <author>
             <name>patternexon</name>
         </author>
@@ -84,23 +146,10 @@ Points: 3
         <updated>2021-07-07T15:16:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/
 Comments URL: https://news.ycombinator.com/item?id=27762072
-Points: 32
-# Comments: 6]]></summary>
+Points: 82
+# Comments: 55]]></summary>
         <author>
             <name>Wolfr_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game Gulf (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=27762025</id>
-        <link href="https://the-magazine.org/11/game-gulf"/>
-        <updated>2021-07-07T15:11:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://the-magazine.org/11/game-gulf
-Comments URL: https://news.ycombinator.com/item?id=27762025
-Points: 4
-# Comments: 0]]></summary>
-        <author>
-            <name>abd-nh</name>
         </author>
     </entry>
     <entry>
@@ -110,23 +159,10 @@ Points: 4
         <updated>2021-07-07T14:59:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma
 Comments URL: https://news.ycombinator.com/item?id=27761881
-Points: 11
-# Comments: 0]]></summary>
+Points: 42
+# Comments: 2]]></summary>
         <author>
             <name>eric_khun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Right to repair movement gains power in US and Europe]]></title>
-        <id>https://news.ycombinator.com/item?id=27761834</id>
-        <link href="https://www.bbc.com/news/technology-57744091"/>
-        <updated>2021-07-07T14:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57744091
-Comments URL: https://news.ycombinator.com/item?id=27761834
-Points: 61
-# Comments: 15]]></summary>
-        <author>
-            <name>shivbhatt</name>
         </author>
     </entry>
     <entry>
@@ -136,10 +172,23 @@ Points: 61
         <updated>2021-07-07T14:47:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/
 Comments URL: https://news.ycombinator.com/item?id=27761706
-Points: 30
-# Comments: 5]]></summary>
+Points: 72
+# Comments: 28]]></summary>
         <author>
             <name>theafh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ketchum, Idaho, Has Plenty of Available Jobs, but Workers Can’t Afford Housing]]></title>
+        <id>https://news.ycombinator.com/item?id=27761644</id>
+        <link href="https://www.wsj.com/articles/ketchum-idaho-has-plenty-of-available-jobs-but-workers-cant-afford-housing-11625659200"/>
+        <updated>2021-07-07T14:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/ketchum-idaho-has-plenty-of-available-jobs-but-workers-cant-afford-housing-11625659200
+Comments URL: https://news.ycombinator.com/item?id=27761644
+Points: 61
+# Comments: 107]]></summary>
+        <author>
+            <name>erehweb</name>
         </author>
     </entry>
     <entry>
@@ -149,8 +198,8 @@ Points: 30
         <updated>2021-07-07T14:37:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/07/microsoft-issues-emergency-patch-for-windows-flaw/
 Comments URL: https://news.ycombinator.com/item?id=27761601
-Points: 71
-# Comments: 28]]></summary>
+Points: 95
+# Comments: 42]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -173,8 +222,8 @@ The post The Web’s Worst Default appeared first on CSS-Tricks. You can support
         <updated>2021-07-07T14:13:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://overreacted.io/npm-audit-broken-by-design/
 Comments URL: https://news.ycombinator.com/item?id=27761334
-Points: 282
-# Comments: 62]]></summary>
+Points: 394
+# Comments: 99]]></summary>
         <author>
             <name>wongmjane</name>
         </author>
@@ -186,8 +235,8 @@ Points: 282
         <updated>2021-07-07T14:07:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://koronahra.cz/intro
 Comments URL: https://news.ycombinator.com/item?id=27761279
-Points: 25
-# Comments: 8]]></summary>
+Points: 45
+# Comments: 15]]></summary>
         <author>
             <name>cwmartin</name>
         </author>
@@ -199,8 +248,8 @@ Points: 25
         <updated>2021-07-07T14:04:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/technology/2021/07/06/facebook-bulletin-antitrust/
 Comments URL: https://news.ycombinator.com/item?id=27761245
-Points: 69
-# Comments: 44]]></summary>
+Points: 106
+# Comments: 67]]></summary>
         <author>
             <name>nabla9</name>
         </author>
@@ -222,8 +271,8 @@ Points: 69
         <updated>2021-07-07T13:33:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.columbia.edu/news/top-10-ideas-statistics-ai
 Comments URL: https://news.ycombinator.com/item?id=27760919
-Points: 60
-# Comments: 19]]></summary>
+Points: 84
+# Comments: 27]]></summary>
         <author>
             <name>MAXPOOL</name>
         </author>
@@ -235,8 +284,8 @@ Points: 60
         <updated>2021-07-07T13:27:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://egamebook.com/blog/complex-systems-simple-interface/
 Comments URL: https://news.ycombinator.com/item?id=27760863
-Points: 39
-# Comments: 4]]></summary>
+Points: 57
+# Comments: 6]]></summary>
         <author>
             <name>davegauer</name>
         </author>
@@ -248,8 +297,8 @@ Points: 39
         <updated>2021-07-07T12:57:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/live/2021/07/07/world/jovenel-moise-assassinated-killed
 Comments URL: https://news.ycombinator.com/item?id=27760573
-Points: 340
-# Comments: 233]]></summary>
+Points: 374
+# Comments: 301]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -261,49 +310,10 @@ Points: 340
         <updated>2021-07-07T12:37:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://schierlm.github.io/OberonEmulator/
 Comments URL: https://news.ycombinator.com/item?id=27760396
-Points: 84
-# Comments: 17]]></summary>
+Points: 92
+# Comments: 18]]></summary>
         <author>
             <name>pjmlp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's “iCloud Private Relay” broke risk based authentication]]></title>
-        <id>https://news.ycombinator.com/item?id=27760391</id>
-        <link href="https://zitadel.ch/blog/imo-rba-is-broken/"/>
-        <updated>2021-07-07T12:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://zitadel.ch/blog/imo-rba-is-broken/
-Comments URL: https://news.ycombinator.com/item?id=27760391
-Points: 77
-# Comments: 58]]></summary>
-        <author>
-            <name>mffap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Join Types Explained in Visuals]]></title>
-        <id>https://news.ycombinator.com/item?id=27760154</id>
-        <link href="https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/"/>
-        <updated>2021-07-07T12:07:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/
-Comments URL: https://news.ycombinator.com/item?id=27760154
-Points: 116
-# Comments: 42]]></summary>
-        <author>
-            <name>notoriousarun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bonsai (YC W16) Is Hiring a Head of Product (Remote)]]></title>
-        <id>https://news.ycombinator.com/item?id=27760092</id>
-        <link href="https://www.ycombinator.com/companies/bonsai/jobs/Yth0lWc-head-of-product-remote"/>
-        <updated>2021-07-07T12:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/bonsai/jobs/Yth0lWc-head-of-product-remote
-Comments URL: https://news.ycombinator.com/item?id=27760092
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>mthomasb</name>
         </author>
     </entry>
     <entry>
@@ -543,16 +553,6 @@ App Platform is a hosting product, no surprise there, but it has some features t
 The post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site]]></title>
-        <id>60dc72b527f80207bcdbbd8f</id>
-        <link href="https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/"/>
-        <updated>2021-07-01T18:19:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
