@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T15:16:23.426Z</updated>
+    <updated>2021-07-07T16:24:14.963Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts]]></title>
+        <id>60c38e76d3126007592d66cd</id>
+        <link href="https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/"/>
+        <updated>2021-07-07T15:43:17.000Z</updated>
+        <summary type="html"><![CDATA[I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Open-source real-time transcription playground (React, Python, GCP)]]></title>
+        <id>https://news.ycombinator.com/item?id=27762350</id>
+        <link href="https://github.com/saharmor/realtime-transcription-playground"/>
+        <updated>2021-07-07T15:41:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/saharmor/realtime-transcription-playground
+Comments URL: https://news.ycombinator.com/item?id=27762350
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>saharhash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SQLite query inside a Bash function]]></title>
+        <id>https://news.ycombinator.com/item?id=27762201</id>
+        <link href="https://news.ycombinator.com/item?id=27762201"/>
+        <updated>2021-07-07T15:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Part of the workflow for building my website is the generation of a table in
+tab-separated column format (.tsv). The source data is found in four other .tsv
+files. I use an SQLite query to perform a 4-way join and write out the new table. For
+convenience, I wrote a script that encapsulates the query inside a Bash function.
+The example below illustrates this technique.
+    repertoire() {
+      pushd $CMM_SOURCES/_data
+      sqlite3 
+
+
+Comments URL: https://news.ycombinator.com/item?id=27762201
+Points: 23
+# Comments: 3]]></summary>
+        <author>
+            <name>chmaynard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Media Platforms as Common Carriers [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27762145</id>
+        <link href="https://www2.law.ucla.edu/volokh/carrier.pdf"/>
+        <updated>2021-07-07T15:23:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www2.law.ucla.edu/volokh/carrier.pdf
+Comments URL: https://news.ycombinator.com/item?id=27762145
+Points: 12
+# Comments: 0]]></summary>
+        <author>
+            <name>amadeuspagel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JanusGraph – Distributed, open source, scalable graph database]]></title>
+        <id>https://news.ycombinator.com/item?id=27762109</id>
+        <link href="https://janusgraph.org/"/>
+        <updated>2021-07-07T15:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://janusgraph.org/
+Comments URL: https://news.ycombinator.com/item?id=27762109
+Points: 3
+# Comments: 1]]></summary>
+        <author>
+            <name>patternexon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coming to Terms with Tailwind]]></title>
+        <id>https://news.ycombinator.com/item?id=27762072</id>
+        <link href="https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/"/>
+        <updated>2021-07-07T15:16:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/
+Comments URL: https://news.ycombinator.com/item?id=27762072
+Points: 32
+# Comments: 6]]></summary>
+        <author>
+            <name>Wolfr_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game Gulf (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=27762025</id>
+        <link href="https://the-magazine.org/11/game-gulf"/>
+        <updated>2021-07-07T15:11:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://the-magazine.org/11/game-gulf
+Comments URL: https://news.ycombinator.com/item?id=27762025
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>abd-nh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Our Serverless Engine: From Kubernetes to Nomad, Firecracker, and Kuma]]></title>
+        <id>https://news.ycombinator.com/item?id=27761881</id>
+        <link href="https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma"/>
+        <updated>2021-07-07T14:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma
+Comments URL: https://news.ycombinator.com/item?id=27761881
+Points: 11
+# Comments: 0]]></summary>
+        <author>
+            <name>eric_khun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Right to repair movement gains power in US and Europe]]></title>
         <id>https://news.ycombinator.com/item?id=27761834</id>
@@ -13,8 +123,8 @@
         <updated>2021-07-07T14:55:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/technology-57744091
 Comments URL: https://news.ycombinator.com/item?id=27761834
-Points: 14
-# Comments: 1]]></summary>
+Points: 61
+# Comments: 15]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
@@ -26,23 +136,10 @@ Points: 14
         <updated>2021-07-07T14:47:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/
 Comments URL: https://news.ycombinator.com/item?id=27761706
-Points: 6
-# Comments: 1]]></summary>
+Points: 30
+# Comments: 5]]></summary>
         <author>
             <name>theafh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ketchum, Idaho, Has Plenty of Available Jobs, but Workers Can’t Afford Housing]]></title>
-        <id>https://news.ycombinator.com/item?id=27761644</id>
-        <link href="https://www.wsj.com/articles/ketchum-idaho-has-plenty-of-available-jobs-but-workers-cant-afford-housing-11625659200"/>
-        <updated>2021-07-07T14:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/ketchum-idaho-has-plenty-of-available-jobs-but-workers-cant-afford-housing-11625659200
-Comments URL: https://news.ycombinator.com/item?id=27761644
-Points: 9
-# Comments: 0]]></summary>
-        <author>
-            <name>erehweb</name>
         </author>
     </entry>
     <entry>
@@ -52,8 +149,8 @@ Points: 9
         <updated>2021-07-07T14:37:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/07/microsoft-issues-emergency-patch-for-windows-flaw/
 Comments URL: https://news.ycombinator.com/item?id=27761601
-Points: 40
-# Comments: 13]]></summary>
+Points: 71
+# Comments: 28]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -70,27 +167,14 @@ The post The Web’s Worst Default appeared first on CSS-Tricks. You can support
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open 3D Engine Open Sourced by Amazon]]></title>
-        <id>https://news.ycombinator.com/item?id=27761497</id>
-        <link href="https://aws.amazon.com/blogs/gametech/open-3d-engine/"/>
-        <updated>2021-07-07T14:27:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/gametech/open-3d-engine/
-Comments URL: https://news.ycombinator.com/item?id=27761497
-Points: 6
-# Comments: 2]]></summary>
-        <author>
-            <name>disgruntledphd2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPM Audit: Broken by Design]]></title>
+        <title type="html"><![CDATA[Npm audit: Broken by Design]]></title>
         <id>https://news.ycombinator.com/item?id=27761334</id>
         <link href="https://overreacted.io/npm-audit-broken-by-design/"/>
         <updated>2021-07-07T14:13:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://overreacted.io/npm-audit-broken-by-design/
 Comments URL: https://news.ycombinator.com/item?id=27761334
-Points: 141
-# Comments: 31]]></summary>
+Points: 282
+# Comments: 62]]></summary>
         <author>
             <name>wongmjane</name>
         </author>
@@ -102,8 +186,8 @@ Points: 141
         <updated>2021-07-07T14:07:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://koronahra.cz/intro
 Comments URL: https://news.ycombinator.com/item?id=27761279
-Points: 12
-# Comments: 1]]></summary>
+Points: 25
+# Comments: 8]]></summary>
         <author>
             <name>cwmartin</name>
         </author>
@@ -115,8 +199,8 @@ Points: 12
         <updated>2021-07-07T14:04:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/technology/2021/07/06/facebook-bulletin-antitrust/
 Comments URL: https://news.ycombinator.com/item?id=27761245
-Points: 35
-# Comments: 13]]></summary>
+Points: 69
+# Comments: 44]]></summary>
         <author>
             <name>nabla9</name>
         </author>
@@ -138,8 +222,8 @@ Points: 35
         <updated>2021-07-07T13:33:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.columbia.edu/news/top-10-ideas-statistics-ai
 Comments URL: https://news.ycombinator.com/item?id=27760919
-Points: 35
-# Comments: 10]]></summary>
+Points: 60
+# Comments: 19]]></summary>
         <author>
             <name>MAXPOOL</name>
         </author>
@@ -151,8 +235,8 @@ Points: 35
         <updated>2021-07-07T13:27:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://egamebook.com/blog/complex-systems-simple-interface/
 Comments URL: https://news.ycombinator.com/item?id=27760863
-Points: 27
-# Comments: 3]]></summary>
+Points: 39
+# Comments: 4]]></summary>
         <author>
             <name>davegauer</name>
         </author>
@@ -164,8 +248,8 @@ Points: 27
         <updated>2021-07-07T12:57:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/live/2021/07/07/world/jovenel-moise-assassinated-killed
 Comments URL: https://news.ycombinator.com/item?id=27760573
-Points: 243
-# Comments: 130]]></summary>
+Points: 340
+# Comments: 233]]></summary>
         <author>
             <name>jbegley</name>
         </author>
@@ -177,8 +261,8 @@ Points: 243
         <updated>2021-07-07T12:37:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://schierlm.github.io/OberonEmulator/
 Comments URL: https://news.ycombinator.com/item?id=27760396
-Points: 71
-# Comments: 11]]></summary>
+Points: 84
+# Comments: 17]]></summary>
         <author>
             <name>pjmlp</name>
         </author>
@@ -190,8 +274,8 @@ Points: 71
         <updated>2021-07-07T12:37:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zitadel.ch/blog/imo-rba-is-broken/
 Comments URL: https://news.ycombinator.com/item?id=27760391
-Points: 53
-# Comments: 41]]></summary>
+Points: 77
+# Comments: 58]]></summary>
         <author>
             <name>mffap</name>
         </author>
@@ -203,23 +287,10 @@ Points: 53
         <updated>2021-07-07T12:07:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/
 Comments URL: https://news.ycombinator.com/item?id=27760154
-Points: 100
-# Comments: 38]]></summary>
+Points: 116
+# Comments: 42]]></summary>
         <author>
             <name>notoriousarun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debit Card Apps for Kids Are Collecting a Shocking Amount of Personal Data]]></title>
-        <id>https://news.ycombinator.com/item?id=27760131</id>
-        <link href="https://www.vice.com/en/article/4avqx3/debit-card-apps-for-kids-are-collecting-a-shocking-amount-of-personal-data"/>
-        <updated>2021-07-07T12:04:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/4avqx3/debit-card-apps-for-kids-are-collecting-a-shocking-amount-of-personal-data
-Comments URL: https://news.ycombinator.com/item?id=27760131
-Points: 75
-# Comments: 64]]></summary>
-        <author>
-            <name>meowster</name>
         </author>
     </entry>
     <entry>
@@ -236,19 +307,6 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dbcritic: Constructively criticizing your Postgres schema (using Idris)]]></title>
-        <id>https://news.ycombinator.com/item?id=27760073</id>
-        <link href="https://www.channable.com/tech/dbcritic-constructively-criticizing-your-postgres-schema"/>
-        <updated>2021-07-07T11:59:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.channable.com/tech/dbcritic-constructively-criticizing-your-postgres-schema
-Comments URL: https://news.ycombinator.com/item?id=27760073
-Points: 25
-# Comments: 2]]></summary>
-        <author>
-            <name>rkrzr</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An Introduction To Figma Interactive Components]]></title>
         <id>https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/</id>
         <link href="https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/"/>
@@ -256,45 +314,6 @@ Points: 25
         <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit.com weighs 1.39MB. Here’s what that costs around the globe]]></title>
-        <id>https://news.ycombinator.com/item?id=27759583</id>
-        <link href="https://whatdoesmysitecost.com/test/210707_AiDc36_6f01cdff93b8299725303f88e60febbc"/>
-        <updated>2021-07-07T10:56:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://whatdoesmysitecost.com/test/210707_AiDc36_6f01cdff93b8299725303f88e60febbc
-Comments URL: https://news.ycombinator.com/item?id=27759583
-Points: 239
-# Comments: 218]]></summary>
-        <author>
-            <name>shadowfaxRodeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First new VAX in 30 years?]]></title>
-        <id>https://news.ycombinator.com/item?id=27758962</id>
-        <link href="http://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html"/>
-        <updated>2021-07-07T09:03:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html
-Comments URL: https://news.ycombinator.com/item?id=27758962
-Points: 131
-# Comments: 41]]></summary>
-        <author>
-            <name>JoachimS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open letter: Ban surveillance-based advertising]]></title>
-        <id>https://news.ycombinator.com/item?id=27758872</id>
-        <link href="https://vivaldi.com/blog/letter-ban-surveillance-based-advertising/"/>
-        <updated>2021-07-07T08:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vivaldi.com/blog/letter-ban-surveillance-based-advertising/
-Comments URL: https://news.ycombinator.com/item?id=27758872
-Points: 114
-# Comments: 94]]></summary>
-        <author>
-            <name>velmu</name>
         </author>
     </entry>
     <entry>
@@ -440,6 +459,16 @@ The post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Format Dates in JavaScript with One Line of Code]]></title>
+        <id>60df127a27f80207bcdbcac9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-format-dates-in-javascript/"/>
+        <updated>2021-07-03T06:24:00.000Z</updated>
+        <summary type="html"><![CDATA[For a long time, I've used libraries like Date-fns whenever I need to format dates in JavaScript. But it gets really weird whenever I do this in small projects that require simple date formats which JavaScript offers by default. I discovered that most developers do this a lot. And I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zero-Width Space]]></title>
         <id>https://css-tricks.com/?p=343435</id>
         <link href="https://css-tricks.com/zero-width-space/"/>
@@ -522,26 +551,6 @@ The post App Platform on Digital Ocean appeared first on CSS-Tricks. You can sup
         <link href="https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/"/>
         <updated>2021-07-01T18:19:21.000Z</updated>
         <summary type="html"><![CDATA[In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML List – How to Use Bullet Points, Ordered, and Unordered Lists]]></title>
-        <id>60c0897ad3126007592d5701</id>
-        <link href="https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/"/>
-        <updated>2021-07-01T18:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backend Web Development with Python - Full Course]]></title>
-        <id>60d5e7ae6e1a1407b6b0bc5a</id>
-        <link href="https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/"/>
-        <updated>2021-07-01T16:51:30.000Z</updated>
-        <summary type="html"><![CDATA[The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
