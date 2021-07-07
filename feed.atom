@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T13:19:24.519Z</updated>
+    <updated>2021-07-07T14:12:33.045Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Binary Search?]]></title>
+        <id>60d5ec446e1a1407b6b0bcae</id>
+        <link href="https://www.freecodecamp.org/news/what-is-binary-search/"/>
+        <updated>2021-07-07T13:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TSB bans cryptocurrency amid fraud concerns with Binance and Kraken]]></title>
+        <id>https://news.ycombinator.com/item?id=27761171</id>
+        <link href="https://www.thetimes.co.uk/article/tsb-bans-cryptocurrency-amid-fraud-concerns-with-binance-and-kraken-bbplrtpfp"/>
+        <updated>2021-07-07T13:57:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thetimes.co.uk/article/tsb-bans-cryptocurrency-amid-fraud-concerns-with-binance-and-kraken-bbplrtpfp
+Comments URL: https://news.ycombinator.com/item?id=27761171
+Points: 10
+# Comments: 1]]></summary>
+        <author>
+            <name>edward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex game worlds, simple text interfaces (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27760863</id>
+        <link href="https://egamebook.com/blog/complex-systems-simple-interface/"/>
+        <updated>2021-07-07T13:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://egamebook.com/blog/complex-systems-simple-interface/
+Comments URL: https://news.ycombinator.com/item?id=27760863
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>davegauer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Evidently AI (YC S21) – Track and Debug ML Models in Production]]></title>
+        <id>https://news.ycombinator.com/item?id=27760627</id>
+        <link href="https://news.ycombinator.com/item?id=27760627"/>
+        <updated>2021-07-07T13:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN, we are Elena and Emeli, co-founders of Evidently AI http://evidentlyai.com. We're building monitoring for machine learning models in production. The tool is open source and available on GitHub: https://github.com/evidentlyai/evidently. You can use it locally in a Jupyter notebook or in a Bash shell. There’s a video showing how it works in Jupyter here: https://www.youtube.com/watch?v=NPtTKYxm524.
+Machine learning models can stop working as expected, often for non-obvious reasons. If this happens to a marketing personalization model, you might spam your customers by mistake. If this happens to credit scoring models, you might face legal and reputational risks. And so on. To catch issues with the model, it is not enough to just look at service metrics like latency. You have to track d…]]></summary>
+        <author>
+            <name>elenasamuylova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haiti’s President Is Assassinated]]></title>
+        <id>https://news.ycombinator.com/item?id=27760573</id>
+        <link href="https://www.nytimes.com/live/2021/07/07/world/jovenel-moise-assassinated-killed"/>
+        <updated>2021-07-07T12:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/live/2021/07/07/world/jovenel-moise-assassinated-killed
+Comments URL: https://news.ycombinator.com/item?id=27760573
+Points: 78
+# Comments: 15]]></summary>
+        <author>
+            <name>jbegley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Project Oberon Emulator in JavaScript and Java]]></title>
         <id>https://news.ycombinator.com/item?id=27760396</id>
@@ -13,10 +73,23 @@
         <updated>2021-07-07T12:37:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://schierlm.github.io/OberonEmulator/
 Comments URL: https://news.ycombinator.com/item?id=27760396
-Points: 22
-# Comments: 1]]></summary>
+Points: 52
+# Comments: 6]]></summary>
         <author>
             <name>pjmlp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's “iCloud Private Relay” broke risk based authentication]]></title>
+        <id>https://news.ycombinator.com/item?id=27760391</id>
+        <link href="https://zitadel.ch/blog/imo-rba-is-broken/"/>
+        <updated>2021-07-07T12:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zitadel.ch/blog/imo-rba-is-broken/
+Comments URL: https://news.ycombinator.com/item?id=27760391
+Points: 22
+# Comments: 6]]></summary>
+        <author>
+            <name>mffap</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +99,8 @@ Points: 22
         <updated>2021-07-07T12:07:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/
 Comments URL: https://news.ycombinator.com/item?id=27760154
-Points: 34
-# Comments: 6]]></summary>
+Points: 62
+# Comments: 20]]></summary>
         <author>
             <name>notoriousarun</name>
         </author>
@@ -39,8 +112,8 @@ Points: 34
         <updated>2021-07-07T12:04:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/4avqx3/debit-card-apps-for-kids-are-collecting-a-shocking-amount-of-personal-data
 Comments URL: https://news.ycombinator.com/item?id=27760131
-Points: 21
-# Comments: 3]]></summary>
+Points: 46
+# Comments: 36]]></summary>
         <author>
             <name>meowster</name>
         </author>
@@ -69,40 +142,27 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It costs $0.17 to visit reddit.com on mobile in Canada]]></title>
+        <title type="html"><![CDATA[Reddit.com weighs 1.39MB. Here’s what that costs around the globe]]></title>
         <id>https://news.ycombinator.com/item?id=27759583</id>
         <link href="https://whatdoesmysitecost.com/test/210707_AiDc36_6f01cdff93b8299725303f88e60febbc"/>
         <updated>2021-07-07T10:56:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://whatdoesmysitecost.com/test/210707_AiDc36_6f01cdff93b8299725303f88e60febbc
 Comments URL: https://news.ycombinator.com/item?id=27759583
-Points: 148
-# Comments: 165]]></summary>
+Points: 194
+# Comments: 189]]></summary>
         <author>
             <name>shadowfaxRodeo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Time to Ban Surveillance-Based Advertising]]></title>
-        <id>https://news.ycombinator.com/item?id=27759538</id>
-        <link href="https://blog.mojeek.com/2021/07/time-to-ban-surveillance-based-advertising.html"/>
-        <updated>2021-07-07T10:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.mojeek.com/2021/07/time-to-ban-surveillance-based-advertising.html
-Comments URL: https://news.ycombinator.com/item?id=27759538
-Points: 12
-# Comments: 2]]></summary>
-        <author>
-            <name>ricardo81</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First new vax in 30 years?:-)]]></title>
+        <title type="html"><![CDATA[First new VAX in 30 years?]]></title>
         <id>https://news.ycombinator.com/item?id=27758962</id>
         <link href="http://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html"/>
         <updated>2021-07-07T09:03:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html
 Comments URL: https://news.ycombinator.com/item?id=27758962
-Points: 87
-# Comments: 19]]></summary>
+Points: 111
+# Comments: 29]]></summary>
         <author>
             <name>JoachimS</name>
         </author>
@@ -114,8 +174,8 @@ Points: 87
         <updated>2021-07-07T08:51:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vivaldi.com/blog/letter-ban-surveillance-based-advertising/
 Comments URL: https://news.ycombinator.com/item?id=27758872
-Points: 53
-# Comments: 47]]></summary>
+Points: 88
+# Comments: 80]]></summary>
         <author>
             <name>velmu</name>
         </author>
@@ -127,34 +187,21 @@ Points: 53
         <updated>2021-07-07T07:58:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fermatslibrary.com/s/apollo-11-implementation-of-trigonometric-functions
 Comments URL: https://news.ycombinator.com/item?id=27758547
-Points: 121
-# Comments: 12]]></summary>
+Points: 139
+# Comments: 17]]></summary>
         <author>
             <name>BerislavLopac</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[macOS extensions are moving away from the kernel]]></title>
-        <id>https://news.ycombinator.com/item?id=27758181</id>
-        <link href="https://eclecticlight.co/2021/07/07/extensions-are-moving-away-from-the-kernel/"/>
-        <updated>2021-07-07T06:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2021/07/07/extensions-are-moving-away-from-the-kernel/
-Comments URL: https://news.ycombinator.com/item?id=27758181
-Points: 105
-# Comments: 61]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libimobiledevice – open-source library to communicate with iOS devices natively]]></title>
+        <title type="html"><![CDATA[Libimobiledevice – Open-source library to communicate with iOS devices natively]]></title>
         <id>https://news.ycombinator.com/item?id=27758045</id>
         <link href="https://libimobiledevice.org/"/>
         <updated>2021-07-07T06:32:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://libimobiledevice.org/
 Comments URL: https://news.ycombinator.com/item?id=27758045
-Points: 202
-# Comments: 50]]></summary>
+Points: 218
+# Comments: 54]]></summary>
         <author>
             <name>pabs3</name>
         </author>
@@ -166,7 +213,7 @@ Points: 202
         <updated>2021-07-07T05:57:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2106.14734
 Comments URL: https://news.ycombinator.com/item?id=27757879
-Points: 32
+Points: 39
 # Comments: 12]]></summary>
         <author>
             <name>zekrioca</name>
@@ -179,8 +226,8 @@ Points: 32
         <updated>2021-07-07T05:50:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mashable.com/article/flemish-politicians-ai-phone-use
 Comments URL: https://news.ycombinator.com/item?id=27757847
-Points: 99
-# Comments: 38]]></summary>
+Points: 120
+# Comments: 46]]></summary>
         <author>
             <name>sidcool</name>
         </author>
@@ -192,23 +239,10 @@ Points: 99
         <updated>2021-07-07T02:48:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://graficaobscura.com/
 Comments URL: https://news.ycombinator.com/item?id=27756834
-Points: 123
+Points: 129
 # Comments: 13]]></summary>
         <author>
             <name>Retr0id</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psilocybin repairs 'brains cells damaged by depression' in mice: study]]></title>
-        <id>https://news.ycombinator.com/item?id=27756721</id>
-        <link href="https://www.leafie.co.uk/news/psilocybin-repairs-brains-cells-depression-yale-study-shows/"/>
-        <updated>2021-07-07T02:26:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.leafie.co.uk/news/psilocybin-repairs-brains-cells-depression-yale-study-shows/
-Comments URL: https://news.ycombinator.com/item?id=27756721
-Points: 332
-# Comments: 236]]></summary>
-        <author>
-            <name>pmoriarty</name>
         </author>
     </entry>
     <entry>
@@ -218,23 +252,10 @@ Points: 332
         <updated>2021-07-07T01:28:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://newcriterion.com/blogs/dispatch/solid-as-the-rock
 Comments URL: https://news.ycombinator.com/item?id=27756373
-Points: 15
-# Comments: 3]]></summary>
+Points: 21
+# Comments: 11]]></summary>
         <author>
             <name>besmirch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Throw It in the Pile]]></title>
-        <id>https://news.ycombinator.com/item?id=27756350</id>
-        <link href="https://tedium.co/2020/01/23/employment-resume-history/"/>
-        <updated>2021-07-07T01:26:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tedium.co/2020/01/23/employment-resume-history/
-Comments URL: https://news.ycombinator.com/item?id=27756350
-Points: 17
-# Comments: 9]]></summary>
-        <author>
-            <name>barrabas</name>
         </author>
     </entry>
     <entry>
@@ -244,8 +265,8 @@ Points: 17
         <updated>2021-07-07T00:04:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quora.com/How-useful-was-the-Netflix-Prize-challenge-for-Netflix/answer/Xavier-Amatriain?share=1
 Comments URL: https://news.ycombinator.com/item?id=27755898
-Points: 253
-# Comments: 163]]></summary>
+Points: 260
+# Comments: 175]]></summary>
         <author>
             <name>tomtung</name>
         </author>
@@ -257,23 +278,10 @@ Points: 253
         <updated>2021-07-06T23:56:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-
 Comments URL: https://news.ycombinator.com/item?id=27755853
-Points: 286
-# Comments: 286]]></summary>
+Points: 305
+# Comments: 317]]></summary>
         <author>
             <name>jonbaer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The humble water heater could be the savior of our energy infrastructure woes]]></title>
-        <id>https://news.ycombinator.com/item?id=27755425</id>
-        <link href="https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/"/>
-        <updated>2021-07-06T22:58:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/
-Comments URL: https://news.ycombinator.com/item?id=27755425
-Points: 111
-# Comments: 171]]></summary>
-        <author>
-            <name>turtlegrids</name>
         </author>
     </entry>
     <entry>
@@ -349,6 +357,16 @@ The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks.
         <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
         <updated>2021-07-06T14:27:26.000Z</updated>
         <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready to Pass CISSP Exam]]></title>
+        <id>60df6dd827f80207bcdbcf06</id>
+        <link href="https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/"/>
+        <updated>2021-07-06T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -539,16 +557,6 @@ The post Hack the “Deploy to Netlify” Button Using Environment Variables to 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It]]></title>
-        <id>60dc78e927f80207bcdbbddc</id>
-        <link href="https://www.freecodecamp.org/news/2021-new-coder-survey/"/>
-        <updated>2021-07-01T04:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?]]></title>
         <id>https://css-tricks.com/?p=343224</id>
         <link href="https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/"/>
@@ -557,16 +565,6 @@ The post Hack the “Deploy to Netlify” Button Using Environment Variables to 
 The post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨]]></title>
-        <id>6063b8d69618b008528a9d79</id>
-        <link href="https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/"/>
-        <updated>2021-06-30T18:49:49.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
