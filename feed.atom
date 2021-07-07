@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T17:26:15.166Z</updated>
+    <updated>2021-07-07T18:14:31.316Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Call to Minimize Distraction and Respect Users’ Attention]]></title>
+        <id>https://news.ycombinator.com/item?id=27763834</id>
+        <link href="http://www.minimizedistraction.com/"/>
+        <updated>2021-07-07T17:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.minimizedistraction.com/
+Comments URL: https://news.ycombinator.com/item?id=27763834
+Points: 14
+# Comments: 0]]></summary>
+        <author>
+            <name>cratermoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first on-orbit fuel depot has been deployed]]></title>
+        <id>https://news.ycombinator.com/item?id=27763763</id>
+        <link href="https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed"/>
+        <updated>2021-07-07T17:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed
+Comments URL: https://news.ycombinator.com/item?id=27763763
+Points: 6
+# Comments: 3]]></summary>
+        <author>
+            <name>tectonic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way]]></title>
+        <id>60ccd1794dc1a607ed7b4feb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/"/>
+        <updated>2021-07-07T17:28:00.000Z</updated>
+        <summary type="html"><![CDATA[A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The James Webb Space Telescope has passed the final mission analysis review]]></title>
+        <id>https://news.ycombinator.com/item?id=27763598</id>
+        <link href="https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp"/>
+        <updated>2021-07-07T17:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp
+Comments URL: https://news.ycombinator.com/item?id=27763598
+Points: 26
+# Comments: 3]]></summary>
+        <author>
+            <name>guerrilla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[List Comprehension in Python Explained for Beginners]]></title>
         <id>60e25e17134ad707be00d947</id>
@@ -36,21 +85,47 @@ Points: 1
         <updated>2021-07-07T16:37:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lupyuen.github.io/articles/wifi
 Comments URL: https://news.ycombinator.com/item?id=27763031
-Points: 12
-# Comments: 0]]></summary>
+Points: 52
+# Comments: 3]]></summary>
         <author>
             <name>zdw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Cost of the “New Way to Message on Instagram”]]></title>
+        <title type="html"><![CDATA[The Old Computer Challenge]]></title>
+        <id>https://news.ycombinator.com/item?id=27762986</id>
+        <link href="https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html"/>
+        <updated>2021-07-07T16:33:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html
+Comments URL: https://news.ycombinator.com/item?id=27762986
+Points: 10
+# Comments: 3]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG favicons have some cool benefits]]></title>
+        <id>https://news.ycombinator.com/item?id=27762970</id>
+        <link href="https://austingil.com/svg-favicons/"/>
+        <updated>2021-07-07T16:32:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://austingil.com/svg-favicons/
+Comments URL: https://news.ycombinator.com/item?id=27762970
+Points: 20
+# Comments: 3]]></summary>
+        <author>
+            <name>feross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cost of the “New Way to Message on Instagram” (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27762500</id>
         <link href="https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram"/>
         <updated>2021-07-07T15:53:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram
 Comments URL: https://news.ycombinator.com/item?id=27762500
-Points: 20
-# Comments: 2]]></summary>
+Points: 60
+# Comments: 23]]></summary>
         <author>
             <name>gmays</name>
         </author>
@@ -72,8 +147,8 @@ Points: 20
         <updated>2021-07-07T15:41:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/saharmor/realtime-transcription-playground
 Comments URL: https://news.ycombinator.com/item?id=27762350
-Points: 19
-# Comments: 1]]></summary>
+Points: 27
+# Comments: 4]]></summary>
         <author>
             <name>saharhash</name>
         </author>
@@ -85,8 +160,8 @@ Points: 19
         <updated>2021-07-07T15:41:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.lojic.com/2020/12/26/comprehensions-in-julia.html
 Comments URL: https://news.ycombinator.com/item?id=27762347
-Points: 12
-# Comments: 1]]></summary>
+Points: 23
+# Comments: 10]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -107,8 +182,8 @@ The example below illustrates this technique.
 
 
 Comments URL: https://news.ycombinator.com/item?id=27762201
-Points: 49
-# Comments: 14]]></summary>
+Points: 68
+# Comments: 28]]></summary>
         <author>
             <name>chmaynard</name>
         </author>
@@ -120,8 +195,8 @@ Points: 49
         <updated>2021-07-07T15:23:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www2.law.ucla.edu/volokh/carrier.pdf
 Comments URL: https://news.ycombinator.com/item?id=27762145
-Points: 41
-# Comments: 14]]></summary>
+Points: 60
+# Comments: 21]]></summary>
         <author>
             <name>amadeuspagel</name>
         </author>
@@ -133,8 +208,8 @@ Points: 41
         <updated>2021-07-07T15:19:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://janusgraph.org/
 Comments URL: https://news.ycombinator.com/item?id=27762109
-Points: 25
-# Comments: 9]]></summary>
+Points: 34
+# Comments: 14]]></summary>
         <author>
             <name>patternexon</name>
         </author>
@@ -146,8 +221,8 @@ Points: 25
         <updated>2021-07-07T15:16:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/
 Comments URL: https://news.ycombinator.com/item?id=27762072
-Points: 82
-# Comments: 55]]></summary>
+Points: 91
+# Comments: 76]]></summary>
         <author>
             <name>Wolfr_</name>
         </author>
@@ -159,7 +234,7 @@ Points: 82
         <updated>2021-07-07T14:59:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma
 Comments URL: https://news.ycombinator.com/item?id=27761881
-Points: 42
+Points: 57
 # Comments: 2]]></summary>
         <author>
             <name>eric_khun</name>
@@ -172,36 +247,10 @@ Points: 42
         <updated>2021-07-07T14:47:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/
 Comments URL: https://news.ycombinator.com/item?id=27761706
-Points: 72
-# Comments: 28]]></summary>
+Points: 102
+# Comments: 39]]></summary>
         <author>
             <name>theafh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ketchum, Idaho, Has Plenty of Available Jobs, but Workers Can’t Afford Housing]]></title>
-        <id>https://news.ycombinator.com/item?id=27761644</id>
-        <link href="https://www.wsj.com/articles/ketchum-idaho-has-plenty-of-available-jobs-but-workers-cant-afford-housing-11625659200"/>
-        <updated>2021-07-07T14:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/ketchum-idaho-has-plenty-of-available-jobs-but-workers-cant-afford-housing-11625659200
-Comments URL: https://news.ycombinator.com/item?id=27761644
-Points: 61
-# Comments: 107]]></summary>
-        <author>
-            <name>erehweb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Issues Emergency Patch for Windows Flaw]]></title>
-        <id>https://news.ycombinator.com/item?id=27761601</id>
-        <link href="https://krebsonsecurity.com/2021/07/microsoft-issues-emergency-patch-for-windows-flaw/"/>
-        <updated>2021-07-07T14:37:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/07/microsoft-issues-emergency-patch-for-windows-flaw/
-Comments URL: https://news.ycombinator.com/item?id=27761601
-Points: 95
-# Comments: 42]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -222,23 +271,10 @@ The post The Web’s Worst Default appeared first on CSS-Tricks. You can support
         <updated>2021-07-07T14:13:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://overreacted.io/npm-audit-broken-by-design/
 Comments URL: https://news.ycombinator.com/item?id=27761334
-Points: 394
-# Comments: 99]]></summary>
+Points: 460
+# Comments: 122]]></summary>
         <author>
             <name>wongmjane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corona Game]]></title>
-        <id>https://news.ycombinator.com/item?id=27761279</id>
-        <link href="https://koronahra.cz/intro"/>
-        <updated>2021-07-07T14:07:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://koronahra.cz/intro
-Comments URL: https://news.ycombinator.com/item?id=27761279
-Points: 45
-# Comments: 15]]></summary>
-        <author>
-            <name>cwmartin</name>
         </author>
     </entry>
     <entry>
@@ -248,8 +284,8 @@ Points: 45
         <updated>2021-07-07T14:04:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/technology/2021/07/06/facebook-bulletin-antitrust/
 Comments URL: https://news.ycombinator.com/item?id=27761245
-Points: 106
-# Comments: 67]]></summary>
+Points: 127
+# Comments: 85]]></summary>
         <author>
             <name>nabla9</name>
         </author>
@@ -271,8 +307,8 @@ Points: 106
         <updated>2021-07-07T13:33:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.columbia.edu/news/top-10-ideas-statistics-ai
 Comments URL: https://news.ycombinator.com/item?id=27760919
-Points: 84
-# Comments: 27]]></summary>
+Points: 98
+# Comments: 33]]></summary>
         <author>
             <name>MAXPOOL</name>
         </author>
@@ -284,36 +320,10 @@ Points: 84
         <updated>2021-07-07T13:27:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://egamebook.com/blog/complex-systems-simple-interface/
 Comments URL: https://news.ycombinator.com/item?id=27760863
-Points: 57
-# Comments: 6]]></summary>
+Points: 70
+# Comments: 7]]></summary>
         <author>
             <name>davegauer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haiti’s President Is Assassinated]]></title>
-        <id>https://news.ycombinator.com/item?id=27760573</id>
-        <link href="https://www.nytimes.com/live/2021/07/07/world/jovenel-moise-assassinated-killed"/>
-        <updated>2021-07-07T12:57:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/live/2021/07/07/world/jovenel-moise-assassinated-killed
-Comments URL: https://news.ycombinator.com/item?id=27760573
-Points: 374
-# Comments: 301]]></summary>
-        <author>
-            <name>jbegley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Oberon Emulator in JavaScript and Java]]></title>
-        <id>https://news.ycombinator.com/item?id=27760396</id>
-        <link href="https://schierlm.github.io/OberonEmulator/"/>
-        <updated>2021-07-07T12:37:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://schierlm.github.io/OberonEmulator/
-Comments URL: https://news.ycombinator.com/item?id=27760396
-Points: 92
-# Comments: 18]]></summary>
-        <author>
-            <name>pjmlp</name>
         </author>
     </entry>
     <entry>
@@ -508,16 +518,6 @@ The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks 
         <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
-        <id>60de3cf127f80207bcdbc9af</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/"/>
-        <updated>2021-07-02T04:55:18.000Z</updated>
-        <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
