@@ -2,21 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T22:11:30.278Z</updated>
+    <updated>2021-07-08T23:11:36.208Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Business Should Be Booming – If Only There Were Enough Workers for the Job]]></title>
-        <id>https://news.ycombinator.com/item?id=27778129</id>
-        <link href="https://www.npr.org/2021/07/01/1012187548/business-should-be-booming-if-only-there-were-enough-workers-for-the-job"/>
-        <updated>2021-07-08T21:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/07/01/1012187548/business-should-be-booming-if-only-there-were-enough-workers-for-the-job
-Comments URL: https://news.ycombinator.com/item?id=27778129
-Points: 5
+        <title type="html"><![CDATA[Beginner JavaScript Notes]]></title>
+        <id>https://css-tricks.com/?p=344024</id>
+        <link href="https://wesbos.com/javascript"/>
+        <updated>2021-07-08T22:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …
+The post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Birds are dying in the United States and no one knows why]]></title>
+        <id>https://news.ycombinator.com/item?id=27778258</id>
+        <link href="https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063"/>
+        <updated>2021-07-08T22:13:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063
+Comments URL: https://news.ycombinator.com/item?id=27778258
+Points: 50
+# Comments: 23]]></summary>
+        <author>
+            <name>tchalla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video podcasting (RSS) as an alternative to YouTubes walled garden]]></title>
+        <id>https://news.ycombinator.com/item?id=27777894</id>
+        <link href="https://streambus.com/"/>
+        <updated>2021-07-08T21:36:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://streambus.com/
+Comments URL: https://news.ycombinator.com/item?id=27777894
+Points: 3
 # Comments: 0]]></summary>
         <author>
-            <name>paulpauper</name>
+            <name>messo</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +50,8 @@ Points: 5
         <updated>2021-07-08T21:36:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php?IPID=SFGate-HP-Editors-Picks
 Comments URL: https://news.ycombinator.com/item?id=27777891
-Points: 21
-# Comments: 11]]></summary>
+Points: 40
+# Comments: 37]]></summary>
         <author>
             <name>MilnerRoute</name>
         </author>
@@ -39,8 +63,8 @@ Points: 21
         <updated>2021-07-08T21:16:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/google-exec-reportedly-working-remote-after-opposing-it-for-staff-2021-7
 Comments URL: https://news.ycombinator.com/item?id=27777717
-Points: 103
-# Comments: 52]]></summary>
+Points: 166
+# Comments: 86]]></summary>
         <author>
             <name>throwawaysea</name>
         </author>
@@ -52,8 +76,8 @@ Points: 103
         <updated>2021-07-08T21:04:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://erikbern.com/2021/07/07/the-data-team-a-short-story.html
 Comments URL: https://news.ycombinator.com/item?id=27777594
-Points: 28
-# Comments: 2]]></summary>
+Points: 63
+# Comments: 17]]></summary>
         <author>
             <name>squarecog</name>
         </author>
@@ -78,8 +102,8 @@ Points: 1
         <updated>2021-07-08T20:16:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://city-of-bloomington.github.io/timetrack/
 Comments URL: https://news.ycombinator.com/item?id=27777077
-Points: 45
-# Comments: 24]]></summary>
+Points: 58
+# Comments: 31]]></summary>
         <author>
             <name>ethanpil</name>
         </author>
@@ -91,8 +115,8 @@ Points: 45
         <updated>2021-07-08T19:52:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://elevation.fandom.com/wiki/List_of_elevator_special_modes
 Comments URL: https://news.ycombinator.com/item?id=27776830
-Points: 149
-# Comments: 85]]></summary>
+Points: 171
+# Comments: 103]]></summary>
         <author>
             <name>altrus</name>
         </author>
@@ -104,8 +128,8 @@ Points: 149
         <updated>2021-07-08T19:51:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html
 Comments URL: https://news.ycombinator.com/item?id=27776829
-Points: 36
-# Comments: 23]]></summary>
+Points: 52
+# Comments: 29]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -117,8 +141,8 @@ Points: 36
         <updated>2021-07-08T19:45:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/tenacityteam/tenacity
 Comments URL: https://news.ycombinator.com/item?id=27776771
-Points: 16
-# Comments: 7]]></summary>
+Points: 36
+# Comments: 17]]></summary>
         <author>
             <name>yewenjie</name>
         </author>
@@ -130,21 +154,21 @@ Points: 16
         <updated>2021-07-08T18:59:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.eleuther.ai/year-one/
 Comments URL: https://news.ycombinator.com/item?id=27776314
-Points: 62
-# Comments: 14]]></summary>
+Points: 72
+# Comments: 15]]></summary>
         <author>
             <name>tehsauce</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Death rates are declining for many common cancers in U.S.]]></title>
+        <title type="html"><![CDATA[Death rates are declining for many common cancers in the U.S., report finds]]></title>
         <id>https://news.ycombinator.com/item?id=27776184</id>
         <link href="https://www.statnews.com/2021/07/08/cancer-death-rates-2021/"/>
         <updated>2021-07-08T18:46:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/07/08/cancer-death-rates-2021/
 Comments URL: https://news.ycombinator.com/item?id=27776184
-Points: 117
-# Comments: 31]]></summary>
+Points: 146
+# Comments: 47]]></summary>
         <author>
             <name>mpweiher</name>
         </author>
@@ -156,23 +180,10 @@ Points: 117
         <updated>2021-07-08T18:24:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://austinvernon.eth.link/blog/geothermal.html
 Comments URL: https://news.ycombinator.com/item?id=27775927
-Points: 74
-# Comments: 49]]></summary>
+Points: 86
+# Comments: 55]]></summary>
         <author>
             <name>Osiris30</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust GCC back end was officially accepted into the compiler]]></title>
-        <id>https://news.ycombinator.com/item?id=27775544</id>
-        <link href="https://github.com/rust-lang/compiler-team/issues/442"/>
-        <updated>2021-07-08T17:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/rust-lang/compiler-team/issues/442
-Comments URL: https://news.ycombinator.com/item?id=27775544
-Points: 81
-# Comments: 7]]></summary>
-        <author>
-            <name>pjmlp</name>
         </author>
     </entry>
     <entry>
@@ -182,8 +193,8 @@ Points: 81
         <updated>2021-07-08T17:20:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 Comments URL: https://news.ycombinator.com/item?id=27775089
-Points: 91
-# Comments: 22]]></summary>
+Points: 102
+# Comments: 25]]></summary>
         <author>
             <name>chmaynard</name>
         </author>
@@ -205,8 +216,8 @@ Points: 91
         <updated>2021-07-08T16:49:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://rexegg.com/regex-best-trick.html
 Comments URL: https://news.ycombinator.com/item?id=27774584
-Points: 227
-# Comments: 79]]></summary>
+Points: 252
+# Comments: 83]]></summary>
         <author>
             <name>signa11</name>
         </author>
@@ -218,8 +229,8 @@ Points: 227
         <updated>2021-07-08T16:25:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/1604.01356
 Comments URL: https://news.ycombinator.com/item?id=27774218
-Points: 134
-# Comments: 101]]></summary>
+Points: 139
+# Comments: 105]]></summary>
         <author>
             <name>ra7</name>
         </author>
@@ -241,8 +252,8 @@ Points: 134
         <updated>2021-07-08T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://we.phorge.it/source/phorge/
 Comments URL: https://news.ycombinator.com/item?id=27773747
-Points: 89
-# Comments: 19]]></summary>
+Points: 90
+# Comments: 21]]></summary>
         <author>
             <name>Redoubts</name>
         </author>
@@ -254,8 +265,8 @@ Points: 89
         <updated>2021-07-08T15:51:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/robhagemans/hoard-of-bitfonts
 Comments URL: https://news.ycombinator.com/item?id=27773601
-Points: 116
-# Comments: 21]]></summary>
+Points: 124
+# Comments: 25]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -277,8 +288,8 @@ Points: 116
         <updated>2021-07-08T15:07:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://caretaker.com/blog/we-replaced-rental-brokers-with-software-and-filled-200-vacant-apartments
 Comments URL: https://news.ycombinator.com/item?id=27772907
-Points: 558
-# Comments: 417]]></summary>
+Points: 576
+# Comments: 441]]></summary>
         <author>
             <name>rdgthree</name>
         </author>
@@ -312,8 +323,8 @@ The post Building a Command Line Tool with Nodejs and Fauna appeared first on CS
         <updated>2021-07-08T13:43:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://coffeeshopwifi.com/
 Comments URL: https://news.ycombinator.com/item?id=27771846
-Points: 114
-# Comments: 72]]></summary>
+Points: 116
+# Comments: 77]]></summary>
         <author>
             <name>jastr</name>
         </author>
@@ -578,18 +589,6 @@ The post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[App Platform on Digital Ocean]]></title>
-        <id>https://css-tricks.com/?p=342591</id>
-        <link href="https://css-tricks.com/app-platform-on-digital-ocean/"/>
-        <updated>2021-07-01T18:54:12.000Z</updated>
-        <summary type="html"><![CDATA[This is new stuff from DO.
-App Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …
-The post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
         <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
         <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
@@ -836,16 +835,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stefan Judis)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
-        <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
-        <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
-        <updated>2021-06-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
