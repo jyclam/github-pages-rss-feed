@@ -6,27 +6,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27769440",
+          "author": "fredley",
+          "description": "Article URL: https://twitter.com/NoraDotCodes/status/1412741339771461635\nComments URL: https://news.ycombinator.com/item?id=27769440\nPoints: 13\n# Comments: 10",
+          "link": "https://twitter.com/NoraDotCodes/status/1412741339771461635",
+          "publishedOn": "2021-07-08T08:18:26.000Z",
+          "wordCount": 196,
+          "title": "All public GitHub code was used for Codex/Copilot, regardless of license"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27769429",
+          "author": "lycopodiopsida",
+          "description": "Article URL: https://www.linkedin.com/posts/ryanjthorpe_today-i-learned-that-stadiums-can-have-different-activity-6817766173917110272-oDMy\nComments URL: https://news.ycombinator.com/item?id=27769429\nPoints: 21\n# Comments: 2",
+          "link": "https://www.linkedin.com/posts/ryanjthorpe_today-i-learned-that-stadiums-can-have-different-activity-6817766173917110272-oDMy",
+          "publishedOn": "2021-07-08T08:14:46.000Z",
+          "wordCount": 465,
+          "title": "I learned that stadiums can have different ads depending on channel and country"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27769406",
+          "author": "emptybits",
+          "description": "Article URL: https://www.reuters.com/investigates/special-report/health-china-bgi-dna/\nComments URL: https://news.ycombinator.com/item?id=27769406\nPoints: 21\n# Comments: 3",
+          "link": "https://www.reuters.com/investigates/special-report/health-china-bgi-dna/",
+          "publishedOn": "2021-07-08T08:11:46.000Z",
+          "wordCount": 3920,
+          "title": "China’s gene giant harvests data from millions of women worldwide"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27769285",
+          "author": "weinzierl",
+          "description": "Article URL: https://unit42.paloaltonetworks.com/revil-threat-actors/\nComments URL: https://news.ycombinator.com/item?id=27769285\nPoints: 8\n# Comments: 1",
+          "link": "https://unit42.paloaltonetworks.com/revil-threat-actors/",
+          "publishedOn": "2021-07-08T07:46:13.000Z",
+          "wordCount": 2119,
+          "title": "Understanding REvil: The Ransomware Gang Behind the Kaseya Attack"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27769084",
           "author": "akh",
           "description": "Article URL: https://www.ycombinator.com/companies/infracost/jobs/mOkwnEY-senior-full-stack-engineer\nComments URL: https://news.ycombinator.com/item?id=27769084\nPoints: 1\n# Comments: 0",
           "link": "https://www.ycombinator.com/companies/infracost/jobs/mOkwnEY-senior-full-stack-engineer",
           "publishedOn": "2021-07-08T07:00:00.000Z",
-          "wordCount": 1024,
+          "wordCount": 1027,
           "title": "Infracost (YC W21) is hiring – Love Your Cloud Bill (full stack, remote)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27768988",
-          "author": "tenslisi",
-          "description": "Article URL: https://www.stephendiehl.com/blog/non-innovation.html\nComments URL: https://news.ycombinator.com/item?id=27768988\nPoints: 26\n# Comments: 9",
-          "link": "https://www.stephendiehl.com/blog/non-innovation.html",
-          "publishedOn": "2021-07-08T06:34:26.000Z",
-          "wordCount": 1305,
-          "title": "The Non-Innovation of the Token Schemes"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27768934",
           "author": "sam345",
-          "description": "Article URL: https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/\nComments URL: https://news.ycombinator.com/item?id=27768934\nPoints: 24\n# Comments: 5",
+          "description": "Article URL: https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/\nComments URL: https://news.ycombinator.com/item?id=27768934\nPoints: 30\n# Comments: 14",
           "link": "https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/",
           "publishedOn": "2021-07-08T06:21:27.000Z",
           "wordCount": 1108,
@@ -35,16 +62,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27768861",
           "author": "ingve",
-          "description": "Article URL: https://github.com/wilfred/difftastic\nComments URL: https://news.ycombinator.com/item?id=27768861\nPoints: 53\n# Comments: 3",
+          "description": "Article URL: https://github.com/wilfred/difftastic\nComments URL: https://news.ycombinator.com/item?id=27768861\nPoints: 77\n# Comments: 9",
           "link": "https://github.com/wilfred/difftastic",
           "publishedOn": "2021-07-08T06:03:34.000Z",
-          "wordCount": 856,
+          "wordCount": 851,
           "title": "Difftastic: Syntax-aware structured diff tool"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27768826",
           "author": "bsdz",
-          "description": "Article URL: https://github.com/bsdz/calcengine\nComments URL: https://news.ycombinator.com/item?id=27768826\nPoints: 34\n# Comments: 8",
+          "description": "Article URL: https://github.com/bsdz/calcengine\nComments URL: https://news.ycombinator.com/item?id=27768826\nPoints: 42\n# Comments: 13",
           "link": "https://github.com/bsdz/calcengine",
           "publishedOn": "2021-07-08T05:54:16.000Z",
           "wordCount": 941,
@@ -53,7 +80,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27768792",
           "author": "giuliomagnifico",
-          "description": "Article URL: https://www.systemplus.fr/wp-content/uploads/2021/06/SPR21553_Camera-Module-Comparison-Vol.-2-iPhone-Evolution_Sample.pdf\nComments URL: https://news.ycombinator.com/item?id=27768792\nPoints: 66\n# Comments: 27",
+          "description": "Article URL: https://www.systemplus.fr/wp-content/uploads/2021/06/SPR21553_Camera-Module-Comparison-Vol.-2-iPhone-Evolution_Sample.pdf\nComments URL: https://news.ycombinator.com/item?id=27768792\nPoints: 83\n# Comments: 40",
           "link": "https://www.systemplus.fr/wp-content/uploads/2021/06/SPR21553_Camera-Module-Comparison-Vol.-2-iPhone-Evolution_Sample.pdf",
           "publishedOn": "2021-07-08T05:45:24.000Z",
           "wordCount": 95654,
@@ -62,7 +89,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27768778",
           "author": "edddie",
-          "description": "Article URL: https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/\nComments URL: https://news.ycombinator.com/item?id=27768778\nPoints: 45\n# Comments: 3",
+          "description": "Article URL: https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/\nComments URL: https://news.ycombinator.com/item?id=27768778\nPoints: 56\n# Comments: 5",
           "link": "https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/",
           "publishedOn": "2021-07-08T05:42:05.000Z",
           "wordCount": 606,
@@ -71,7 +98,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27768771",
           "author": "helsinkiandrew",
-          "description": "Article URL: https://www.economist.com/science-and-technology/2021/07/07/people-may-one-day-drill-for-copper-as-they-now-drill-for-oil\nComments URL: https://news.ycombinator.com/item?id=27768771\nPoints: 20\n# Comments: 12",
+          "description": "Article URL: https://www.economist.com/science-and-technology/2021/07/07/people-may-one-day-drill-for-copper-as-they-now-drill-for-oil\nComments URL: https://news.ycombinator.com/item?id=27768771\nPoints: 27\n# Comments: 22",
           "link": "https://www.economist.com/science-and-technology/2021/07/07/people-may-one-day-drill-for-copper-as-they-now-drill-for-oil",
           "publishedOn": "2021-07-08T05:40:52.000Z",
           "wordCount": 862,
@@ -80,7 +107,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27767656",
           "author": "yusuf_giftworks",
-          "description": "Article URL: https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article\nComments URL: https://news.ycombinator.com/item?id=27767656\nPoints: 127\n# Comments: 39",
+          "description": "Article URL: https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article\nComments URL: https://news.ycombinator.com/item?id=27767656\nPoints: 135\n# Comments: 42",
           "link": "https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article",
           "publishedOn": "2021-07-08T01:36:11.000Z",
           "wordCount": 908,
@@ -89,7 +116,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27767237",
           "author": "samizdis",
-          "description": "Article URL: https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art\nComments URL: https://news.ycombinator.com/item?id=27767237\nPoints: 76\n# Comments: 30",
+          "description": "Article URL: https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art\nComments URL: https://news.ycombinator.com/item?id=27767237\nPoints: 82\n# Comments: 38",
           "link": "https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art",
           "publishedOn": "2021-07-08T00:19:44.000Z",
           "wordCount": 2768,
@@ -98,7 +125,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27767032",
           "author": "type0",
-          "description": "Article URL: https://themarkup.org/privacy/2021/07/06/this-manual-for-a-popular-facial-recognition-tool-shows-just-how-much-the-software-tracks-people\nComments URL: https://news.ycombinator.com/item?id=27767032\nPoints: 59\n# Comments: 29",
+          "description": "Article URL: https://themarkup.org/privacy/2021/07/06/this-manual-for-a-popular-facial-recognition-tool-shows-just-how-much-the-software-tracks-people\nComments URL: https://news.ycombinator.com/item?id=27767032\nPoints: 65\n# Comments: 34",
           "link": "https://themarkup.org/privacy/2021/07/06/this-manual-for-a-popular-facial-recognition-tool-shows-just-how-much-the-software-tracks-people",
           "publishedOn": "2021-07-07T23:43:57.000Z",
           "wordCount": 1742,
@@ -107,7 +134,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27766655",
           "author": "smusamashah",
-          "description": "Article URL: https://runwayml.com/\nComments URL: https://news.ycombinator.com/item?id=27766655\nPoints: 279\n# Comments: 70",
+          "description": "Article URL: https://runwayml.com/\nComments URL: https://news.ycombinator.com/item?id=27766655\nPoints: 288\n# Comments: 72",
           "link": "https://runwayml.com/",
           "publishedOn": "2021-07-07T22:49:53.000Z",
           "wordCount": 445,
@@ -116,7 +143,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27765686",
           "author": "actfrench",
-          "description": "Article URL: https://manisharoses.medium.com/not-school-or-homeschooling-but-modular-learning-5233927f8fc9\nComments URL: https://news.ycombinator.com/item?id=27765686\nPoints: 87\n# Comments: 82",
+          "description": "Article URL: https://manisharoses.medium.com/not-school-or-homeschooling-but-modular-learning-5233927f8fc9\nComments URL: https://news.ycombinator.com/item?id=27765686\nPoints: 90\n# Comments: 85",
           "link": "https://manisharoses.medium.com/not-school-or-homeschooling-but-modular-learning-5233927f8fc9",
           "publishedOn": "2021-07-07T21:01:36.000Z",
           "wordCount": 1534,
@@ -125,7 +152,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27763965",
           "author": "6502nerdface",
-          "description": "Article URL: https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01\nComments URL: https://news.ycombinator.com/item?id=27763965\nPoints: 320\n# Comments: 62",
+          "description": "Article URL: https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01\nComments URL: https://news.ycombinator.com/item?id=27763965\nPoints: 328\n# Comments: 65",
           "link": "https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01",
           "publishedOn": "2021-07-07T17:58:44.000Z",
           "wordCount": 3298,
@@ -134,7 +161,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27763873",
           "author": "pmontra",
-          "description": "Article URL: https://koronahra.cz/game\nComments URL: https://news.ycombinator.com/item?id=27763873\nPoints: 188\n# Comments: 162",
+          "description": "Article URL: https://koronahra.cz/game\nComments URL: https://news.ycombinator.com/item?id=27763873\nPoints: 203\n# Comments: 171",
           "link": "https://koronahra.cz/game",
           "publishedOn": "2021-07-07T17:50:24.000Z",
           "wordCount": 4,
@@ -143,7 +170,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27763834",
           "author": "cratermoon",
-          "description": "Article URL: http://www.minimizedistraction.com/\nComments URL: https://news.ycombinator.com/item?id=27763834\nPoints: 602\n# Comments: 221",
+          "description": "Article URL: http://www.minimizedistraction.com/\nComments URL: https://news.ycombinator.com/item?id=27763834\nPoints: 617\n# Comments: 227",
           "link": "http://www.minimizedistraction.com/",
           "publishedOn": "2021-07-07T17:47:09.000Z",
           "wordCount": 7,
@@ -152,38 +179,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27763763",
           "author": "tectonic",
-          "description": "Article URL: https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed\nComments URL: https://news.ycombinator.com/item?id=27763763\nPoints: 164\n# Comments: 46",
+          "description": "Article URL: https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed\nComments URL: https://news.ycombinator.com/item?id=27763763\nPoints: 167\n# Comments: 49",
           "link": "https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed",
           "publishedOn": "2021-07-07T17:39:35.000Z",
           "wordCount": 1439,
           "title": "The first on-orbit fuel depot has been deployed"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27763598",
-          "author": "guerrilla",
-          "description": "Article URL: https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp\nComments URL: https://news.ycombinator.com/item?id=27763598\nPoints: 357\n# Comments: 242",
-          "link": "https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp",
-          "publishedOn": "2021-07-07T17:26:19.000Z",
-          "wordCount": 1029,
-          "title": "The James Webb Space Telescope has passed the final mission analysis review"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27763031",
-          "author": "zdw",
-          "description": "Article URL: https://lupyuen.github.io/articles/wifi\nComments URL: https://news.ycombinator.com/item?id=27763031\nPoints: 172\n# Comments: 33",
-          "link": "https://lupyuen.github.io/articles/wifi",
-          "publishedOn": "2021-07-07T16:37:31.000Z",
-          "wordCount": 5883,
-          "title": "Reverse Engineer the BL602 WiFi Driver"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27762970",
-          "author": "feross",
-          "description": "Article URL: https://austingil.com/svg-favicons/\nComments URL: https://news.ycombinator.com/item?id=27762970\nPoints: 166\n# Comments: 58",
-          "link": "https://austingil.com/svg-favicons/",
-          "publishedOn": "2021-07-07T16:32:07.000Z",
-          "wordCount": 1328,
-          "title": "SVG favicons have some cool benefits"
         }
       ]
     },
@@ -280,7 +280,7 @@
           "description": "Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …\nThe post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/",
           "publishedOn": "2021-07-05T14:15:20.000Z",
-          "wordCount": 2659,
+          "wordCount": 2658,
           "title": "Trigonometry in CSS and JavaScript: Beyond Triangles"
         },
         {
@@ -368,7 +368,7 @@
           "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
           "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
           "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4047,
+          "wordCount": 4045,
           "title": "An Introduction To Figma Interactive Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
@@ -410,7 +410,7 @@
           "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
           "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
           "publishedOn": "2021-07-02T10:30:00.000Z",
-          "wordCount": 4204,
+          "wordCount": 4197,
           "title": "Email Testing Flow As It Should Be",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
@@ -438,7 +438,7 @@
           "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
           "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4729,
+          "wordCount": 4728,
           "title": "The State Of Web Workers In 2021",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
@@ -452,7 +452,7 @@
           "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
           "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3688,
+          "wordCount": 3699,
           "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
@@ -494,7 +494,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2513,
+          "wordCount": 2518,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -508,7 +508,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5437,
+          "wordCount": 5440,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -522,7 +522,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3531,
+          "wordCount": 3521,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -536,7 +536,7 @@
           "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
           "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4167,
+          "wordCount": 4169,
           "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
@@ -564,7 +564,7 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1391,
+          "wordCount": 1388,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
@@ -592,7 +592,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5363,
+          "wordCount": 5346,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -606,7 +606,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3407,
+          "wordCount": 3418,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -648,7 +648,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4110,
+          "wordCount": 4098,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -690,7 +690,7 @@
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
           "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3669,
+          "wordCount": 3668,
           "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
@@ -704,7 +704,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1750,
+          "wordCount": 1736,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -718,7 +718,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5145,
+          "wordCount": 5108,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -732,7 +732,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 867,
+          "wordCount": 878,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -746,7 +746,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2776,
+          "wordCount": 2778,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
