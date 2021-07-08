@@ -2,21 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T14:12:53.449Z</updated>
+    <updated>2021-07-08T15:15:41.004Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Dropbox Studios]]></title>
-        <id>https://news.ycombinator.com/item?id=27771922</id>
-        <link href="https://techcrunch.com/2021/07/08/dropbox-is-reimagining-the-workplace-with-dropbox-studios/"/>
-        <updated>2021-07-08T13:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/07/08/dropbox-is-reimagining-the-workplace-with-dropbox-studios/
-Comments URL: https://news.ycombinator.com/item?id=27771922
-Points: 5
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Why North America's killer heat scares me]]></title>
+        <id>https://news.ycombinator.com/item?id=27772607</id>
+        <link href="https://www.bbc.co.uk/news/world-us-canada-57729502"/>
+        <updated>2021-07-08T14:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-us-canada-57729502
+Comments URL: https://news.ycombinator.com/item?id=27772607
+Points: 12
+# Comments: 8]]></summary>
         <author>
-            <name>tosh</name>
+            <name>the_laka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Struggle to Use and Animate a Conic Gradient in SVG]]></title>
+        <id>https://css-tricks.com/?p=343623</id>
+        <link href="https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/"/>
+        <updated>2021-07-08T14:35:38.000Z</updated>
+        <summary type="html"><![CDATA[The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …
+The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Command Line Tool with Nodejs and Fauna]]></title>
+        <id>https://css-tricks.com/?p=343574</id>
+        <link href="https://css-tricks.com/building-a-command-line-tool-with-nodejs-and-fauna/"/>
+        <updated>2021-07-08T14:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Command line tools are one of the most popular applications we have today. We use command line tools every day, and they range from git, npm or yarn. Command line tools are very fast and useful for automating applications and …
+The post Building a Command Line Tool with Nodejs and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Fortune Ikechi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla rolls out DoH to Canadian users of Firefox]]></title>
+        <id>https://news.ycombinator.com/item?id=27772440</id>
+        <link href="https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/"/>
+        <updated>2021-07-08T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/
+Comments URL: https://news.ycombinator.com/item?id=27772440
+Points: 25
+# Comments: 10]]></summary>
+        <author>
+            <name>tristor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Scammers Rip Off Billions as Pump-and-Dump Schemes Go Digital]]></title>
+        <id>https://news.ycombinator.com/item?id=27772426</id>
+        <link href="https://www.bloomberg.com/news/features/2021-07-08/crypto-scams-rug-pulls-bitcoin-hacks-billions-lost-when-shit-coins-go-to-zero"/>
+        <updated>2021-07-08T14:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/features/2021-07-08/crypto-scams-rug-pulls-bitcoin-hacks-billions-lost-when-shit-coins-go-to-zero
+Comments URL: https://news.ycombinator.com/item?id=27772426
+Points: 11
+# Comments: 3]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter begins hiring to comply with India's new rules]]></title>
+        <id>https://news.ycombinator.com/item?id=27772340</id>
+        <link href="https://www.reuters.com/world/india/twitter-appoints-india-interim-compliance-exec-fill-other-jobs-soon-2021-07-08/"/>
+        <updated>2021-07-08T14:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/india/twitter-appoints-india-interim-compliance-exec-fill-other-jobs-soon-2021-07-08/
+Comments URL: https://news.ycombinator.com/item?id=27772340
+Points: 7
+# Comments: 3]]></summary>
+        <author>
+            <name>shivbhatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removed video tutorials from YouTube because I increasingly lost sovereignty]]></title>
+        <id>https://news.ycombinator.com/item?id=27772183</id>
+        <link href="https://solvespace.com/forum.pl?action=viewthread&amp;parent=3756&amp;tt=1625649760"/>
+        <updated>2021-07-08T14:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://solvespace.com/forum.pl?action=viewthread&parent=3756&tt=1625649760
+Comments URL: https://news.ycombinator.com/item?id=27772183
+Points: 59
+# Comments: 50]]></summary>
+        <author>
+            <name>phkahler</name>
         </author>
     </entry>
     <entry>
@@ -26,8 +100,8 @@ Points: 5
         <updated>2021-07-08T13:37:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://razib.substack.com/p/out-of-africas-midlife-crisis
 Comments URL: https://news.ycombinator.com/item?id=27771773
-Points: 7
-# Comments: 0]]></summary>
+Points: 37
+# Comments: 9]]></summary>
         <author>
             <name>nkurz</name>
         </author>
@@ -39,8 +113,8 @@ Points: 7
         <updated>2021-07-08T13:34:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.propublica.org/article/the-billionaire-playbook-how-sports-owners-use-their-teams-to-avoid-millions-in-taxes
 Comments URL: https://news.ycombinator.com/item?id=27771753
-Points: 30
-# Comments: 5]]></summary>
+Points: 162
+# Comments: 121]]></summary>
         <author>
             <name>danso</name>
         </author>
@@ -52,8 +126,8 @@ Points: 30
         <updated>2021-07-08T12:45:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://iism.org/article/you-need-software-developers-to-believe-in-your-project-45
 Comments URL: https://news.ycombinator.com/item?id=27771219
-Points: 44
-# Comments: 10]]></summary>
+Points: 72
+# Comments: 50]]></summary>
         <author>
             <name>replyifuagree</name>
         </author>
@@ -93,8 +167,8 @@ Points: 1
         <updated>2021-07-08T11:51:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/guilatrova/tryceratops
 Comments URL: https://news.ycombinator.com/item?id=27770750
-Points: 17
-# Comments: 7]]></summary>
+Points: 24
+# Comments: 12]]></summary>
         <author>
             <name>latrova</name>
         </author>
@@ -116,8 +190,8 @@ Points: 17
         <updated>2021-07-08T10:42:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=CN1djPMooVY&t=0s
 Comments URL: https://news.ycombinator.com/item?id=27770302
-Points: 85
-# Comments: 44]]></summary>
+Points: 112
+# Comments: 54]]></summary>
         <author>
             <name>reisub0</name>
         </author>
@@ -129,8 +203,8 @@ Points: 85
         <updated>2021-07-08T09:51:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://prospect.org/health/juul-taking-academic-corruption-to-new-level/
 Comments URL: https://news.ycombinator.com/item?id=27769978
-Points: 257
-# Comments: 182]]></summary>
+Points: 299
+# Comments: 206]]></summary>
         <author>
             <name>i_love_limes</name>
         </author>
@@ -142,23 +216,10 @@ Points: 257
         <updated>2021-07-08T09:10:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://niedzejkob.p4.team/rust-np/
 Comments URL: https://news.ycombinator.com/item?id=27769718
-Points: 230
-# Comments: 111]]></summary>
+Points: 249
+# Comments: 127]]></summary>
         <author>
             <name>lovasoa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China urges its people to struggle. Some say no]]></title>
-        <id>https://news.ycombinator.com/item?id=27769659</id>
-        <link href="https://www.economist.com/china/2021/07/03/china-urges-its-people-to-struggle-some-say-no"/>
-        <updated>2021-07-08T08:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/china/2021/07/03/china-urges-its-people-to-struggle-some-say-no
-Comments URL: https://news.ycombinator.com/item?id=27769659
-Points: 133
-# Comments: 101]]></summary>
-        <author>
-            <name>tchalla</name>
         </author>
     </entry>
     <entry>
@@ -168,23 +229,10 @@ Points: 133
         <updated>2021-07-08T08:18:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/NoraDotCodes/status/1412741339771461635
 Comments URL: https://news.ycombinator.com/item?id=27769440
-Points: 53
-# Comments: 66]]></summary>
+Points: 147
+# Comments: 149]]></summary>
         <author>
             <name>fredley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China’s gene giant harvests data from millions of women worldwide]]></title>
-        <id>https://news.ycombinator.com/item?id=27769406</id>
-        <link href="https://www.reuters.com/investigates/special-report/health-china-bgi-dna/"/>
-        <updated>2021-07-08T08:11:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/investigates/special-report/health-china-bgi-dna/
-Comments URL: https://news.ycombinator.com/item?id=27769406
-Points: 141
-# Comments: 74]]></summary>
-        <author>
-            <name>emptybits</name>
         </author>
     </entry>
     <entry>
@@ -194,8 +242,8 @@ Points: 141
         <updated>2021-07-08T07:46:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://unit42.paloaltonetworks.com/revil-threat-actors/
 Comments URL: https://news.ycombinator.com/item?id=27769285
-Points: 54
-# Comments: 17]]></summary>
+Points: 62
+# Comments: 21]]></summary>
         <author>
             <name>weinzierl</name>
         </author>
@@ -207,8 +255,8 @@ Points: 54
         <updated>2021-07-08T06:21:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/
 Comments URL: https://news.ycombinator.com/item?id=27768934
-Points: 69
-# Comments: 50]]></summary>
+Points: 72
+# Comments: 72]]></summary>
         <author>
             <name>sam345</name>
         </author>
@@ -220,8 +268,8 @@ Points: 69
         <updated>2021-07-08T06:03:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wilfred/difftastic
 Comments URL: https://news.ycombinator.com/item?id=27768861
-Points: 190
-# Comments: 36]]></summary>
+Points: 205
+# Comments: 39]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -233,7 +281,7 @@ Points: 190
         <updated>2021-07-08T05:54:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/bsdz/calcengine
 Comments URL: https://news.ycombinator.com/item?id=27768826
-Points: 68
+Points: 75
 # Comments: 19]]></summary>
         <author>
             <name>bsdz</name>
@@ -246,36 +294,10 @@ Points: 68
         <updated>2021-07-08T05:45:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.systemplus.fr/wp-content/uploads/2021/06/SPR21553_Camera-Module-Comparison-Vol.-2-iPhone-Evolution_Sample.pdf
 Comments URL: https://news.ycombinator.com/item?id=27768792
-Points: 150
-# Comments: 83]]></summary>
+Points: 162
+# Comments: 89]]></summary>
         <author>
             <name>giuliomagnifico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BGP in a Nutshell]]></title>
-        <id>https://news.ycombinator.com/item?id=27768778</id>
-        <link href="https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/"/>
-        <updated>2021-07-08T05:42:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/
-Comments URL: https://news.ycombinator.com/item?id=27768778
-Points: 87
-# Comments: 8]]></summary>
-        <author>
-            <name>edddie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[People may one day drill for copper as they now drill for oil]]></title>
-        <id>https://news.ycombinator.com/item?id=27768771</id>
-        <link href="https://www.economist.com/science-and-technology/2021/07/07/people-may-one-day-drill-for-copper-as-they-now-drill-for-oil"/>
-        <updated>2021-07-08T05:40:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/07/07/people-may-one-day-drill-for-copper-as-they-now-drill-for-oil
-Comments URL: https://news.ycombinator.com/item?id=27768771
-Points: 58
-# Comments: 46]]></summary>
-        <author>
-            <name>helsinkiandrew</name>
         </author>
     </entry>
     <entry>
@@ -570,19 +592,6 @@ The post App Platform on Digital Ocean appeared first on CSS-Tricks. You can sup
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator]]></title>
-        <id>https://css-tricks.com/?p=343092</id>
-        <link href="https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/"/>
-        <updated>2021-07-01T14:40:14.000Z</updated>
-        <summary type="html"><![CDATA[If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.
-
-Clicking the button above lets me (or you!) instantly …
-The post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Cassidy Williams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
         <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
         <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
@@ -590,17 +599,6 @@ The post Hack the “Deploy to Netlify” Button Using Environment Variables to 
         <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ramona Schwering)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?]]></title>
-        <id>https://css-tricks.com/?p=343224</id>
-        <link href="https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/"/>
-        <updated>2021-06-30T20:36:52.000Z</updated>
-        <summary type="html"><![CDATA[I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …
-The post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
