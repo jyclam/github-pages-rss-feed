@@ -2,21 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T16:23:03.846Z</updated>
+    <updated>2021-07-08T17:23:17.618Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Cellphone radiation is harmful, but few want to believe it: researcher]]></title>
-        <id>https://news.ycombinator.com/item?id=27773814</id>
-        <link href="https://publichealth.berkeley.edu/news-media/research-highlights/moskowitz-cellphone-radiation-is-harmful-but-few-want-to-believe-it/"/>
-        <updated>2021-07-08T16:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://publichealth.berkeley.edu/news-media/research-highlights/moskowitz-cellphone-radiation-is-harmful-but-few-want-to-believe-it/
-Comments URL: https://news.ycombinator.com/item?id=27773814
-Points: 43
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[Build Your Own Feature Toggle with Next.js and React in Under 30 Minutes]]></title>
+        <id>60e59724134ad707be00e5d1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-feature-toggles-in-next-js-and-react/"/>
+        <updated>2021-07-08T17:13:58.000Z</updated>
+        <summary type="html"><![CDATA[This post will show you how to build the Feature Toggle mechanism in your Next.JS application.  We are going to use Next.JS, React, and TypeScript. We will deploy our application to Vercel to demonstrate the real-life example. You can find the code and video in the summary at]]></summary>
         <author>
-            <name>programmarchy</name>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dendron (YC W21) Is Hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=27774766</id>
+        <link href="https://wiki.dendron.so/notes/c378b702-7d49-4e91-be6e-b2078103c86e.html"/>
+        <updated>2021-07-08T17:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wiki.dendron.so/notes/c378b702-7d49-4e91-be6e-b2078103c86e.html
+Comments URL: https://news.ycombinator.com/item?id=27774766
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>kevinslin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Roadmap to Interstellar Flight (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27774218</id>
+        <link href="https://arxiv.org/abs/1604.01356"/>
+        <updated>2021-07-08T16:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/1604.01356
+Comments URL: https://news.ycombinator.com/item?id=27774218
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>ra7</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Accessible Vue Applications]]></title>
+        <id>60e3ae66134ad707be00dbdb</id>
+        <link href="https://www.freecodecamp.org/news/build-accessible-vue-applications/"/>
+        <updated>2021-07-08T16:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Developing web pages used to involve writing HTML, CSS, and a little scripting code like JavaScript for functionality.  But over time, we've developed new and more advanced technologies and frameworks to create webpages. We now use things like reusable components, routing, and rendering to the document object model (DOM).  These]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A community-maintained fork of Phabricator]]></title>
+        <id>https://news.ycombinator.com/item?id=27773747</id>
+        <link href="https://we.phorge.it/source/phorge/"/>
+        <updated>2021-07-08T15:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://we.phorge.it/source/phorge/
+Comments URL: https://news.ycombinator.com/item?id=27773747
+Points: 20
+# Comments: 2]]></summary>
+        <author>
+            <name>Redoubts</name>
         </author>
     </entry>
     <entry>
@@ -26,10 +72,23 @@ Points: 43
         <updated>2021-07-08T15:58:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor
 Comments URL: https://news.ycombinator.com/item?id=27773732
-Points: 8
-# Comments: 0]]></summary>
+Points: 57
+# Comments: 26]]></summary>
         <author>
             <name>el_duderino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoard-of-bitfonts: bitmap fonts from disused operating systems]]></title>
+        <id>https://news.ycombinator.com/item?id=27773601</id>
+        <link href="https://github.com/robhagemans/hoard-of-bitfonts"/>
+        <updated>2021-07-08T15:51:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/robhagemans/hoard-of-bitfonts
+Comments URL: https://news.ycombinator.com/item?id=27773601
+Points: 20
+# Comments: 1]]></summary>
+        <author>
+            <name>lnyan</name>
         </author>
     </entry>
     <entry>
@@ -43,27 +102,14 @@ Points: 8
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Some Britons crave permanent pandemic lockdown]]></title>
-        <id>https://news.ycombinator.com/item?id=27773408</id>
-        <link href="https://www.economist.com/britain/2021/07/10/some-britons-crave-permanent-pandemic-lockdown"/>
-        <updated>2021-07-08T15:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/britain/2021/07/10/some-britons-crave-permanent-pandemic-lockdown
-Comments URL: https://news.ycombinator.com/item?id=27773408
-Points: 9
-# Comments: 0]]></summary>
-        <author>
-            <name>edward</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We replaced rental brokers with software and filled 200 vacant apartments]]></title>
         <id>https://news.ycombinator.com/item?id=27772907</id>
         <link href="https://caretaker.com/blog/we-replaced-rental-brokers-with-software-and-filled-200-vacant-apartments"/>
         <updated>2021-07-08T15:07:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://caretaker.com/blog/we-replaced-rental-brokers-with-software-and-filled-200-vacant-apartments
 Comments URL: https://news.ycombinator.com/item?id=27772907
-Points: 75
-# Comments: 17]]></summary>
+Points: 220
+# Comments: 92]]></summary>
         <author>
             <name>rdgthree</name>
         </author>
@@ -75,23 +121,10 @@ Points: 75
         <updated>2021-07-08T14:48:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://archive.fortune.com/magazines/fortune/fortune_archive/1996/04/15/211503/index.htm
 Comments URL: https://news.ycombinator.com/item?id=27772650
-Points: 18
-# Comments: 11]]></summary>
+Points: 31
+# Comments: 21]]></summary>
         <author>
             <name>aww_dang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We’re all criminals now]]></title>
-        <id>https://news.ycombinator.com/item?id=27772513</id>
-        <link href="https://carel.medium.com/were-all-criminals-now-1a79eec41f18"/>
-        <updated>2021-07-08T14:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://carel.medium.com/were-all-criminals-now-1a79eec41f18
-Comments URL: https://news.ycombinator.com/item?id=27772513
-Points: 54
-# Comments: 36]]></summary>
-        <author>
-            <name>DistantCl3ric</name>
         </author>
     </entry>
     <entry>
@@ -123,8 +156,8 @@ The post Building a Command Line Tool with Nodejs and Fauna appeared first on CS
         <updated>2021-07-08T14:33:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/
 Comments URL: https://news.ycombinator.com/item?id=27772440
-Points: 101
-# Comments: 82]]></summary>
+Points: 133
+# Comments: 146]]></summary>
         <author>
             <name>tristor</name>
         </author>
@@ -136,23 +169,36 @@ Points: 101
         <updated>2021-07-08T14:25:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/india/twitter-appoints-india-interim-compliance-exec-fill-other-jobs-soon-2021-07-08/
 Comments URL: https://news.ycombinator.com/item?id=27772340
-Points: 55
-# Comments: 32]]></summary>
+Points: 91
+# Comments: 59]]></summary>
         <author>
             <name>shivbhatt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Out of Africa's midlife crisis]]></title>
-        <id>https://news.ycombinator.com/item?id=27771773</id>
-        <link href="https://razib.substack.com/p/out-of-africas-midlife-crisis"/>
-        <updated>2021-07-08T13:37:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://razib.substack.com/p/out-of-africas-midlife-crisis
-Comments URL: https://news.ycombinator.com/item?id=27771773
-Points: 66
-# Comments: 29]]></summary>
+        <title type="html"><![CDATA[Video tutorials now on PeerTube]]></title>
+        <id>https://news.ycombinator.com/item?id=27772183</id>
+        <link href="https://solvespace.com/forum.pl?action=viewthread&amp;parent=3756&amp;tt=1625649760"/>
+        <updated>2021-07-08T14:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://solvespace.com/forum.pl?action=viewthread&parent=3756&tt=1625649760
+Comments URL: https://news.ycombinator.com/item?id=27772183
+Points: 90
+# Comments: 142]]></summary>
         <author>
-            <name>nkurz</name>
+            <name>phkahler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: CoffeeShopWifi.com – An HTTP website for connecting to guest WiFi]]></title>
+        <id>https://news.ycombinator.com/item?id=27771846</id>
+        <link href="http://coffeeshopwifi.com/"/>
+        <updated>2021-07-08T13:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://coffeeshopwifi.com/
+Comments URL: https://news.ycombinator.com/item?id=27771846
+Points: 28
+# Comments: 19]]></summary>
+        <author>
+            <name>jastr</name>
         </author>
     </entry>
     <entry>
@@ -162,8 +208,8 @@ Points: 66
         <updated>2021-07-08T12:45:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://iism.org/article/you-need-software-developers-to-believe-in-your-project-45
 Comments URL: https://news.ycombinator.com/item?id=27771219
-Points: 91
-# Comments: 86]]></summary>
+Points: 114
+# Comments: 116]]></summary>
         <author>
             <name>replyifuagree</name>
         </author>
@@ -173,27 +219,11 @@ Points: 91
         <id>https://news.ycombinator.com/item?id=27771091</id>
         <link href="https://news.ycombinator.com/item?id=27771091"/>
         <updated>2021-07-08T12:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN, we're Bruno and Louise, the founders of Hera (https://hera.so)!
-Over the past 5 months, we have built a MacOS desktop app to prepare, join, and run meetings without the grunt work.
-Basically, we try to help busy knowledge workers have good meetings without spending all day preparing or scrambling to find back that note in Apple Notes.
-We were our first users. As a PM, I was spending an unreasonable amount of time preparing user research interviews & kick-off meetings and sharing summaries to the team. A good 45-min meeting would effectively cost me about 2 hours of mental bandwidth.
-The private beta we launched 4 months ago helped us find good ways to attack the problem:
-Meetings are broken partly because they are seen as isolated entities in calendar & note-taking tools. We want to…]]></summary>
+        <summary type="html"><![CDATA[Hi HN, we're Bruno and Louise, the founders of Hera (https://hera.so)! Over the past 5 months, we have built a MacOS desktop app to prepare, join, and run meetings without the grunt work. Basically, we try to help busy knowledge workers have good meetings without spending all day preparing or scrambling to find back that note in Apple Notes.
+We were our first users. As a PM, I was spending an unreasonable amount of time preparing user research interviews and kick-off meetings and sharing summaries to the team. A good 45-min meeting would effectively cost me about 2 hours of mental bandwidth. The private beta we launched 4 months ago helped us find good ways to attack the problem:
+Meetings are broken partly because they are seen as isolated entities in calendar and note-taking tools. We wan…]]></summary>
         <author>
             <name>brunovegreville</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Treasury (YC S18) Is Hiring Software Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27770815</id>
-        <link href="https://jobs.ashbyhq.com/moderntreasury/dc9bcfe8-64ef-4377-ad74-0cdbca3be694"/>
-        <updated>2021-07-08T12:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jobs.ashbyhq.com/moderntreasury/dc9bcfe8-64ef-4377-ad74-0cdbca3be694
-Comments URL: https://news.ycombinator.com/item?id=27770815
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>mattmarcus</name>
         </author>
     </entry>
     <entry>
@@ -203,8 +233,8 @@ Points: 1
         <updated>2021-07-08T11:51:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/guilatrova/tryceratops
 Comments URL: https://news.ycombinator.com/item?id=27770750
-Points: 35
-# Comments: 17]]></summary>
+Points: 41
+# Comments: 24]]></summary>
         <author>
             <name>latrova</name>
         </author>
@@ -226,8 +256,8 @@ Points: 35
         <updated>2021-07-08T10:42:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=CN1djPMooVY&t=0s
 Comments URL: https://news.ycombinator.com/item?id=27770302
-Points: 147
-# Comments: 67]]></summary>
+Points: 178
+# Comments: 79]]></summary>
         <author>
             <name>reisub0</name>
         </author>
@@ -239,8 +269,8 @@ Points: 147
         <updated>2021-07-08T09:51:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://prospect.org/health/juul-taking-academic-corruption-to-new-level/
 Comments URL: https://news.ycombinator.com/item?id=27769978
-Points: 344
-# Comments: 233]]></summary>
+Points: 372
+# Comments: 260]]></summary>
         <author>
             <name>i_love_limes</name>
         </author>
@@ -252,8 +282,8 @@ Points: 344
         <updated>2021-07-08T09:10:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://niedzejkob.p4.team/rust-np/
 Comments URL: https://news.ycombinator.com/item?id=27769718
-Points: 277
-# Comments: 145]]></summary>
+Points: 298
+# Comments: 154]]></summary>
         <author>
             <name>lovasoa</name>
         </author>
@@ -265,8 +295,8 @@ Points: 277
         <updated>2021-07-08T08:18:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/NoraDotCodes/status/1412741339771461635
 Comments URL: https://news.ycombinator.com/item?id=27769440
-Points: 283
-# Comments: 266]]></summary>
+Points: 407
+# Comments: 321]]></summary>
         <author>
             <name>fredley</name>
         </author>
@@ -278,8 +308,8 @@ Points: 283
         <updated>2021-07-08T07:46:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://unit42.paloaltonetworks.com/revil-threat-actors/
 Comments URL: https://news.ycombinator.com/item?id=27769285
-Points: 75
-# Comments: 22]]></summary>
+Points: 79
+# Comments: 26]]></summary>
         <author>
             <name>weinzierl</name>
         </author>
@@ -291,23 +321,10 @@ Points: 75
         <updated>2021-07-08T06:21:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/
 Comments URL: https://news.ycombinator.com/item?id=27768934
-Points: 83
-# Comments: 88]]></summary>
+Points: 88
+# Comments: 92]]></summary>
         <author>
             <name>sam345</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Difftastic: Syntax-aware structured diff tool]]></title>
-        <id>https://news.ycombinator.com/item?id=27768861</id>
-        <link href="https://github.com/wilfred/difftastic"/>
-        <updated>2021-07-08T06:03:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/wilfred/difftastic
-Comments URL: https://news.ycombinator.com/item?id=27768861
-Points: 220
-# Comments: 46]]></summary>
-        <author>
-            <name>ingve</name>
         </author>
     </entry>
     <entry>
@@ -315,7 +332,7 @@ Points: 220
         <id>60e521aa134ad707be00e41d</id>
         <link href="https://www.freecodecamp.org/news/what-is-a-javascript-object/"/>
         <updated>2021-07-07T22:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now]]></summary>
+        <summary type="html"><![CDATA[Objects are one of the most valuable things you can learn in JavaScript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -439,16 +456,6 @@ The post I’ve got one question about Jetpack for you. appeared first on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 JavaScript Tips to Improve Your React Code]]></title>
-        <id>60df35f027f80207bcdbccea</id>
-        <link href="https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/"/>
-        <updated>2021-07-06T15:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Dilemma of Naming Font Size Variables]]></title>
         <id>https://css-tricks.com/?p=343149</id>
         <link href="https://css-tricks.com/the-dilemma-of-naming-font-size-variables/"/>
@@ -457,16 +464,6 @@ The post I’ve got one question about Jetpack for you. appeared first on CSS-Tr
 The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Martin Lexelius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Schedule a Job in Node Using node-cron]]></title>
-        <id>60aa196411ffb70827ef5f43</id>
-        <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
-        <updated>2021-07-06T14:27:26.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
