@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T12:18:33.616Z</updated>
+    <updated>2021-07-08T13:21:35.643Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Is this the most quoted quote on HN?]]></title>
+        <id>https://news.ycombinator.com/item?id=27771186</id>
+        <link href="https://news.ycombinator.com/item?id=27771186"/>
+        <updated>2021-07-08T12:41:17.000Z</updated>
+        <summary type="html"><![CDATA["It is difficult to get a man to understand something, when his salary depends on his not understanding it"
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=It%20is%20difficult%20to%20get%20a%20man%20to%20understand%20something%2C%20when%20his%20salary%20depends%20on%20his%20not%20understanding%20it&sort=byDate&type=all
+Comments URL: https://news.ycombinator.com/item?id=27771186
+Points: 8
+# Comments: 3]]></summary>
+        <author>
+            <name>corobo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Hera (YC S21) – macOS app to prepare, join and take notes in meetings]]></title>
+        <id>https://news.ycombinator.com/item?id=27771091</id>
+        <link href="https://news.ycombinator.com/item?id=27771091"/>
+        <updated>2021-07-08T12:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN, we're Bruno and Louise, the founders of Hera (https://hera.so)!
+Over the past 5 months, we have built a MacOS desktop app to prepare, join, and run meetings without the grunt work.
+Basically, we try to help busy knowledge workers have good meetings without spending all day preparing or scrambling to find back that note in Apple Notes.
+We were our first users. As a PM, I was spending an unreasonable amount of time preparing user research interviews & kick-off meetings and sharing summaries to the team. A good 45-min meeting would effectively cost me about 2 hours of mental bandwidth.
+The private beta we launched 4 months ago helped us find good ways to attack the problem:
+Meetings are broken partly because they are seen as isolated entities in calendar & note-taking tools. We want to…]]></summary>
+        <author>
+            <name>brunovegreville</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modern Treasury (YC S18) Is Hiring Software Engineers]]></title>
         <id>https://news.ycombinator.com/item?id=27770815</id>
@@ -20,14 +49,27 @@ Points: 1
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: A New Python Linter]]></title>
+        <id>https://news.ycombinator.com/item?id=27770750</id>
+        <link href="https://github.com/guilatrova/tryceratops"/>
+        <updated>2021-07-08T11:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/guilatrova/tryceratops
+Comments URL: https://news.ycombinator.com/item?id=27770750
+Points: 9
+# Comments: 6]]></summary>
+        <author>
+            <name>latrova</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US-Canada heatwave 'virtually impossible' without warming]]></title>
         <id>https://news.ycombinator.com/item?id=27770414</id>
         <link href="https://www.bbc.com/news/science-environment-57751918"/>
         <updated>2021-07-08T11:02:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57751918
 Comments URL: https://news.ycombinator.com/item?id=27770414
-Points: 10
-# Comments: 1]]></summary>
+Points: 97
+# Comments: 95]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
@@ -49,23 +91,10 @@ Points: 10
         <updated>2021-07-08T10:42:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=CN1djPMooVY&t=0s
 Comments URL: https://news.ycombinator.com/item?id=27770302
-Points: 12
-# Comments: 1]]></summary>
+Points: 63
+# Comments: 26]]></summary>
         <author>
             <name>reisub0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carbon removal hype is becoming a dangerous distraction]]></title>
-        <id>https://news.ycombinator.com/item?id=27770270</id>
-        <link href="https://www.technologyreview.com/2021/07/08/1027908/carbon-removal-hype-is-a-dangerous-distraction-climate-change/"/>
-        <updated>2021-07-08T10:37:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.technologyreview.com/2021/07/08/1027908/carbon-removal-hype-is-a-dangerous-distraction-climate-change/
-Comments URL: https://news.ycombinator.com/item?id=27770270
-Points: 28
-# Comments: 8]]></summary>
-        <author>
-            <name>headalgorithm</name>
         </author>
     </entry>
     <entry>
@@ -75,8 +104,8 @@ Points: 28
         <updated>2021-07-08T09:51:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://prospect.org/health/juul-taking-academic-corruption-to-new-level/
 Comments URL: https://news.ycombinator.com/item?id=27769978
-Points: 138
-# Comments: 94]]></summary>
+Points: 195
+# Comments: 151]]></summary>
         <author>
             <name>i_love_limes</name>
         </author>
@@ -88,8 +117,8 @@ Points: 138
         <updated>2021-07-08T09:10:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://niedzejkob.p4.team/rust-np/
 Comments URL: https://news.ycombinator.com/item?id=27769718
-Points: 134
-# Comments: 65]]></summary>
+Points: 184
+# Comments: 95]]></summary>
         <author>
             <name>lovasoa</name>
         </author>
@@ -101,8 +130,8 @@ Points: 134
         <updated>2021-07-08T08:59:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/china/2021/07/03/china-urges-its-people-to-struggle-some-say-no
 Comments URL: https://news.ycombinator.com/item?id=27769659
-Points: 80
-# Comments: 49]]></summary>
+Points: 103
+# Comments: 82]]></summary>
         <author>
             <name>tchalla</name>
         </author>
@@ -114,8 +143,8 @@ Points: 80
         <updated>2021-07-08T08:11:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/investigates/special-report/health-china-bgi-dna/
 Comments URL: https://news.ycombinator.com/item?id=27769406
-Points: 98
-# Comments: 52]]></summary>
+Points: 119
+# Comments: 62]]></summary>
         <author>
             <name>emptybits</name>
         </author>
@@ -127,8 +156,8 @@ Points: 98
         <updated>2021-07-08T07:46:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://unit42.paloaltonetworks.com/revil-threat-actors/
 Comments URL: https://news.ycombinator.com/item?id=27769285
-Points: 44
-# Comments: 9]]></summary>
+Points: 52
+# Comments: 15]]></summary>
         <author>
             <name>weinzierl</name>
         </author>
@@ -140,8 +169,8 @@ Points: 44
         <updated>2021-07-08T06:21:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/
 Comments URL: https://news.ycombinator.com/item?id=27768934
-Points: 54
-# Comments: 29]]></summary>
+Points: 61
+# Comments: 43]]></summary>
         <author>
             <name>sam345</name>
         </author>
@@ -153,8 +182,8 @@ Points: 54
         <updated>2021-07-08T06:03:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wilfred/difftastic
 Comments URL: https://news.ycombinator.com/item?id=27768861
-Points: 155
-# Comments: 32]]></summary>
+Points: 173
+# Comments: 35]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -166,8 +195,8 @@ Points: 155
         <updated>2021-07-08T05:54:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/bsdz/calcengine
 Comments URL: https://news.ycombinator.com/item?id=27768826
-Points: 59
-# Comments: 16]]></summary>
+Points: 66
+# Comments: 19]]></summary>
         <author>
             <name>bsdz</name>
         </author>
@@ -179,8 +208,8 @@ Points: 59
         <updated>2021-07-08T05:45:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.systemplus.fr/wp-content/uploads/2021/06/SPR21553_Camera-Module-Comparison-Vol.-2-iPhone-Evolution_Sample.pdf
 Comments URL: https://news.ycombinator.com/item?id=27768792
-Points: 127
-# Comments: 67]]></summary>
+Points: 142
+# Comments: 78]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -192,7 +221,7 @@ Points: 127
         <updated>2021-07-08T05:42:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/
 Comments URL: https://news.ycombinator.com/item?id=27768778
-Points: 72
+Points: 78
 # Comments: 6]]></summary>
         <author>
             <name>edddie</name>
@@ -205,8 +234,8 @@ Points: 72
         <updated>2021-07-08T05:40:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/07/07/people-may-one-day-drill-for-copper-as-they-now-drill-for-oil
 Comments URL: https://news.ycombinator.com/item?id=27768771
-Points: 49
-# Comments: 40]]></summary>
+Points: 51
+# Comments: 44]]></summary>
         <author>
             <name>helsinkiandrew</name>
         </author>
@@ -218,8 +247,8 @@ Points: 49
         <updated>2021-07-08T01:36:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article
 Comments URL: https://news.ycombinator.com/item?id=27767656
-Points: 159
-# Comments: 50]]></summary>
+Points: 161
+# Comments: 53]]></summary>
         <author>
             <name>yusuf_giftworks</name>
         </author>
@@ -231,8 +260,8 @@ Points: 159
         <updated>2021-07-08T00:19:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art
 Comments URL: https://news.ycombinator.com/item?id=27767237
-Points: 105
-# Comments: 68]]></summary>
+Points: 116
+# Comments: 75]]></summary>
         <author>
             <name>samizdis</name>
         </author>
@@ -244,23 +273,10 @@ Points: 105
         <updated>2021-07-07T23:43:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://themarkup.org/privacy/2021/07/06/this-manual-for-a-popular-facial-recognition-tool-shows-just-how-much-the-software-tracks-people
 Comments URL: https://news.ycombinator.com/item?id=27767032
-Points: 86
-# Comments: 48]]></summary>
+Points: 95
+# Comments: 55]]></summary>
         <author>
             <name>type0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runway – Create impossible video]]></title>
-        <id>https://news.ycombinator.com/item?id=27766655</id>
-        <link href="https://runwayml.com/"/>
-        <updated>2021-07-07T22:49:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://runwayml.com/
-Comments URL: https://news.ycombinator.com/item?id=27766655
-Points: 322
-# Comments: 76]]></summary>
-        <author>
-            <name>smusamashah</name>
         </author>
     </entry>
     <entry>
@@ -282,19 +298,6 @@ Points: 322
 The post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A call to minimize distraction and respect users’ attention (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=27763834</id>
-        <link href="http://www.minimizedistraction.com/"/>
-        <updated>2021-07-07T17:47:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.minimizedistraction.com/
-Comments URL: https://news.ycombinator.com/item?id=27763834
-Points: 647
-# Comments: 240]]></summary>
-        <author>
-            <name>cratermoon</name>
         </author>
     </entry>
     <entry>
