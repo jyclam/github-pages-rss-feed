@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyclam.github.io/jyclam/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T23:11:36.208Z</updated>
+    <updated>2021-07-09T00:39:35.058Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://jyclam.github.io/jyclam/index.html"/>
     <link rel="self" href="https://jyclam.github.io/jyclam/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Surface air temperature for June 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27778484</id>
+        <link href="https://climate.copernicus.eu/surface-air-temperature-june-2021"/>
+        <updated>2021-07-08T22:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://climate.copernicus.eu/surface-air-temperature-june-2021
+Comments URL: https://news.ycombinator.com/item?id=27778484
+Points: 28
+# Comments: 17]]></summary>
+        <author>
+            <name>gmays</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beginner JavaScript Notes]]></title>
         <id>https://css-tricks.com/?p=344024</id>
@@ -24,49 +37,36 @@ The post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support
         <updated>2021-07-08T22:13:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063
 Comments URL: https://news.ycombinator.com/item?id=27778258
-Points: 50
-# Comments: 23]]></summary>
+Points: 77
+# Comments: 36]]></summary>
         <author>
             <name>tchalla</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video podcasting (RSS) as an alternative to YouTubes walled garden]]></title>
+        <title type="html"><![CDATA[Video podcasting (RSS) as an alternative to YouTube's walled garden]]></title>
         <id>https://news.ycombinator.com/item?id=27777894</id>
         <link href="https://streambus.com/"/>
         <updated>2021-07-08T21:36:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://streambus.com/
 Comments URL: https://news.ycombinator.com/item?id=27777894
-Points: 3
-# Comments: 0]]></summary>
+Points: 44
+# Comments: 14]]></summary>
         <author>
             <name>messo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[California exodus is just a myth, UC research project finds]]></title>
+        <title type="html"><![CDATA[California exodus is a myth, UC research project finds]]></title>
         <id>https://news.ycombinator.com/item?id=27777891</id>
-        <link href="https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php?IPID=SFGate-HP-Editors-Picks"/>
+        <link href="https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php"/>
         <updated>2021-07-08T21:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php?IPID=SFGate-HP-Editors-Picks
+        <summary type="html"><![CDATA[Article URL: https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php
 Comments URL: https://news.ycombinator.com/item?id=27777891
-Points: 40
-# Comments: 37]]></summary>
+Points: 95
+# Comments: 90]]></summary>
         <author>
             <name>MilnerRoute</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Google exec opposes remote work, moves to New Zealand to work remotely]]></title>
-        <id>https://news.ycombinator.com/item?id=27777717</id>
-        <link href="https://www.businessinsider.com/google-exec-reportedly-working-remote-after-opposing-it-for-staff-2021-7"/>
-        <updated>2021-07-08T21:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/google-exec-reportedly-working-remote-after-opposing-it-for-staff-2021-7
-Comments URL: https://news.ycombinator.com/item?id=27777717
-Points: 166
-# Comments: 86]]></summary>
-        <author>
-            <name>throwawaysea</name>
         </author>
     </entry>
     <entry>
@@ -76,8 +76,8 @@ Points: 166
         <updated>2021-07-08T21:04:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://erikbern.com/2021/07/07/the-data-team-a-short-story.html
 Comments URL: https://news.ycombinator.com/item?id=27777594
-Points: 63
-# Comments: 17]]></summary>
+Points: 140
+# Comments: 37]]></summary>
         <author>
             <name>squarecog</name>
         </author>
@@ -96,14 +96,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[City of Bloomington's Raspberry Pi Based Employee Timeclocks]]></title>
+        <title type="html"><![CDATA[TimeTrack Raspberry Pi]]></title>
         <id>https://news.ycombinator.com/item?id=27777077</id>
         <link href="https://city-of-bloomington.github.io/timetrack/"/>
         <updated>2021-07-08T20:16:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://city-of-bloomington.github.io/timetrack/
 Comments URL: https://news.ycombinator.com/item?id=27777077
-Points: 58
-# Comments: 31]]></summary>
+Points: 78
+# Comments: 51]]></summary>
         <author>
             <name>ethanpil</name>
         </author>
@@ -115,36 +115,23 @@ Points: 58
         <updated>2021-07-08T19:52:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://elevation.fandom.com/wiki/List_of_elevator_special_modes
 Comments URL: https://news.ycombinator.com/item?id=27776830
-Points: 171
-# Comments: 103]]></summary>
+Points: 192
+# Comments: 122]]></summary>
         <author>
             <name>altrus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made a Giant Mistake with Terraform (and How Azure Made It Worse)]]></title>
+        <title type="html"><![CDATA[I made a mistake with Terraform and Azure made it worse]]></title>
         <id>https://news.ycombinator.com/item?id=27776829</id>
         <link href="https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html"/>
         <updated>2021-07-08T19:51:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html
 Comments URL: https://news.ycombinator.com/item?id=27776829
-Points: 52
-# Comments: 29]]></summary>
+Points: 75
+# Comments: 41]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tenacity: Floss Audacity Fork]]></title>
-        <id>https://news.ycombinator.com/item?id=27776771</id>
-        <link href="https://github.com/tenacityteam/tenacity"/>
-        <updated>2021-07-08T19:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/tenacityteam/tenacity
-Comments URL: https://news.ycombinator.com/item?id=27776771
-Points: 36
-# Comments: 17]]></summary>
-        <author>
-            <name>yewenjie</name>
         </author>
     </entry>
     <entry>
@@ -154,8 +141,8 @@ Points: 36
         <updated>2021-07-08T18:59:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.eleuther.ai/year-one/
 Comments URL: https://news.ycombinator.com/item?id=27776314
-Points: 72
-# Comments: 15]]></summary>
+Points: 84
+# Comments: 23]]></summary>
         <author>
             <name>tehsauce</name>
         </author>
@@ -167,8 +154,8 @@ Points: 72
         <updated>2021-07-08T18:46:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.statnews.com/2021/07/08/cancer-death-rates-2021/
 Comments URL: https://news.ycombinator.com/item?id=27776184
-Points: 146
-# Comments: 47]]></summary>
+Points: 160
+# Comments: 60]]></summary>
         <author>
             <name>mpweiher</name>
         </author>
@@ -180,8 +167,8 @@ Points: 146
         <updated>2021-07-08T18:24:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://austinvernon.eth.link/blog/geothermal.html
 Comments URL: https://news.ycombinator.com/item?id=27775927
-Points: 86
-# Comments: 55]]></summary>
+Points: 105
+# Comments: 70]]></summary>
         <author>
             <name>Osiris30</name>
         </author>
@@ -193,8 +180,8 @@ Points: 86
         <updated>2021-07-08T17:20:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 Comments URL: https://news.ycombinator.com/item?id=27775089
-Points: 102
-# Comments: 25]]></summary>
+Points: 110
+# Comments: 27]]></summary>
         <author>
             <name>chmaynard</name>
         </author>
@@ -216,8 +203,8 @@ Points: 102
         <updated>2021-07-08T16:49:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://rexegg.com/regex-best-trick.html
 Comments URL: https://news.ycombinator.com/item?id=27774584
-Points: 252
-# Comments: 83]]></summary>
+Points: 290
+# Comments: 104]]></summary>
         <author>
             <name>signa11</name>
         </author>
@@ -229,8 +216,8 @@ Points: 252
         <updated>2021-07-08T16:25:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/1604.01356
 Comments URL: https://news.ycombinator.com/item?id=27774218
-Points: 139
-# Comments: 105]]></summary>
+Points: 144
+# Comments: 109]]></summary>
         <author>
             <name>ra7</name>
         </author>
@@ -246,16 +233,29 @@ Points: 139
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A community-maintained fork of Phabricator]]></title>
+        <title type="html"><![CDATA[Phorge: A community-maintained fork of Phabricator]]></title>
         <id>https://news.ycombinator.com/item?id=27773747</id>
         <link href="https://we.phorge.it/source/phorge/"/>
         <updated>2021-07-08T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://we.phorge.it/source/phorge/
 Comments URL: https://news.ycombinator.com/item?id=27773747
-Points: 90
-# Comments: 21]]></summary>
+Points: 99
+# Comments: 22]]></summary>
         <author>
             <name>Redoubts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A phone the FBI sold to criminals]]></title>
+        <id>https://news.ycombinator.com/item?id=27773732</id>
+        <link href="https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor"/>
+        <updated>2021-07-08T15:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor
+Comments URL: https://news.ycombinator.com/item?id=27773732
+Points: 128
+# Comments: 104]]></summary>
+        <author>
+            <name>el_duderino</name>
         </author>
     </entry>
     <entry>
@@ -265,8 +265,8 @@ Points: 90
         <updated>2021-07-08T15:51:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/robhagemans/hoard-of-bitfonts
 Comments URL: https://news.ycombinator.com/item?id=27773601
-Points: 124
-# Comments: 25]]></summary>
+Points: 141
+# Comments: 26]]></summary>
         <author>
             <name>lnyan</name>
         </author>
@@ -288,8 +288,8 @@ Points: 124
         <updated>2021-07-08T15:07:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://caretaker.com/blog/we-replaced-rental-brokers-with-software-and-filled-200-vacant-apartments
 Comments URL: https://news.ycombinator.com/item?id=27772907
-Points: 576
-# Comments: 441]]></summary>
+Points: 613
+# Comments: 464]]></summary>
         <author>
             <name>rdgthree</name>
         </author>
@@ -317,16 +317,16 @@ The post Building a Command Line Tool with Nodejs and Fauna appeared first on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CoffeeShopWifi.com – An HTTP website for connecting to guest WiFi]]></title>
-        <id>https://news.ycombinator.com/item?id=27771846</id>
-        <link href="http://coffeeshopwifi.com/"/>
-        <updated>2021-07-08T13:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://coffeeshopwifi.com/
-Comments URL: https://news.ycombinator.com/item?id=27771846
-Points: 116
-# Comments: 77]]></summary>
+        <title type="html"><![CDATA[Mozilla rolls out DoH to Canadian users of Firefox]]></title>
+        <id>https://news.ycombinator.com/item?id=27772440</id>
+        <link href="https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/"/>
+        <updated>2021-07-08T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/
+Comments URL: https://news.ycombinator.com/item?id=27772440
+Points: 171
+# Comments: 217]]></summary>
         <author>
-            <name>jastr</name>
+            <name>tristor</name>
         </author>
     </entry>
     <entry>
